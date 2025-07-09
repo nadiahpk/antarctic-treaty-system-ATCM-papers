@@ -1,0 +1,356 @@
+﻿
+
+
+
+
+
+International requirements for ships operating in polar waters
+
+
+
+
+
+This paper was provided by the IMO and considered as IP 05 at the Antarctic Treaty Meeting of Experts on the Management of Ship-borne Tourism in the Antarctic Treaty Area (December 2009). New Zealand is now submitting this paper for the information of the ATCM.
+
+
+
+INTERNATIONAL REQUIREMENTS FOR SHIPS OPERATING IN POLAR WATERS1
+
+
+
+
+Heike Deggim
+Maritime Safety Division
+International Maritime Organization (IMO)
+4 Albert Embankment, London SE1 7SR, United Kingdom
+
+
+
+
+
+
+
+Summary
+
+The paper presents an overview of IMO’s various requirements for ships operating in polar waters (Arctic and Antarctic areas), including relevant SOLAS, MARPOL, STCW and Torremolinos Protocol provisions concerning matters such as stability, life-saving appliances, navigation, guidelines for ships operating in polar waters, special area status, carriage requirements for heavy grade fuel oil, certification of ice navigators, and fishing vessels.  It also briefly touches on relevant provisions of the United Nations Convention on the Law of the Sea (UNCLOS) and other international requirements/activities concerning the subject in which IMO is directly or indirectly involved.
+
+
+TABLE OF CONTENTS
+
+
+Section
+Paragraphs
+
+
+Introduction
+1 to 6
+
+
+UNCLOS requirements concerning ice-covered areas
+7 and 8
+
+
+SOLAS requirements concerning polar areas and related guidelines and activities
+9 to 40
+
+
+	SOLAS chapter V navigational requirements
+9 to 14
+	Stability requirements for ships operating in areas with ice accretion
+15 and 16
+	Guidelines for ships operating in polar waters
+17 to 20
+	Development of a mandatory Code for ships operating in polar waters
+21 to 23
+	Guide to cold water survival
+24 and 25
+	Enhanced contingency planning guidance for passenger ships 	operating in areas remote from SAR facilities
+26 to 29
+	Guidelines on voyage planning for passenger ships operating in remote 	areas
+30 and 31 
+	IACS requirements for Polar Class ships
+32 to 35
+	World Maritime University activities concerning Arctic shipping
+36 and 37
+	Canadian research project concerning thermal requirements for 	surviving a mass rescue incident in the Arctic
+38 to 40
+
+
+MARPOL requirements concerning polar areas
+41 to 51
+
+
+	Status of Antarctic as special area under MARPOL Annexes I and V
+41 to 47
+	Use and carriage of heavy grade oil
+48 to 51
+
+
+STCW requirements concerning polar areas
+52 to 57
+
+
+	Training requirements for personnel on ships operating in ice-covered 	waters
+52 to 57
+
+
+Requirements for fishing vessels operating in areas with ice accretion
+58 to 63
+
+
+	Torremolinos Protocol of 1993 to the Torremolinos International 	Convention for the Safety of Fishing Vessels, 1977
+58 and 59
+	Code of safety for fishermen and fishing vessels, 2005
+60 to 62
+	Voluntary Guidelines for the design, construction and equipment of small 	fishing vessels
+63
+
+
+Acknowledgements
+64
+
+INTRODUCTION
+
+1	Ships operating in the Arctic and Antarctic environments are exposed to a number of unique risks.  Poor weather conditions and the relative lack of good charts, communication systems and other navigational aids pose challenges for mariners.  The remoteness of the areas makes rescue or clean‑up operations difficult and costly.  Cold temperatures may reduce the effectiveness of numerous components of the ship, ranging from deck machinery and emergency equipment to sea suctions.  When ice is present, it can impose additional loads on the hull, propulsion system and appendages.
+
+2	Whilst Arctic and Antarctic waters have a number of similarities, there are also significant differences.  The Arctic is an ocean surrounded by continents while the Antarctic is a continent surrounded by an ocean.  The Antarctic sea ice retreats significantly during the summer season or is dispersed by permanent gyres in the two major seas of the Antarctic: the Weddell and the Ross.  Thus there is relatively little multi-year ice in the Antarctic.  Conversely, Arctic sea ice survives many summer seasons and there is a significant amount of multi-year ice.  Whilst the marine environments of both Polar seas are similarly vulnerable, response to such challenge should duly take into account specific features of the legal and political regimes applicable to their respective marine spaces.
+
+3	Over the last 20 years or so, IMO has developed a raft of requirements, guidelines and recommendations regarding navigation in polar ice-covered waters, concerning Artic and/or Antarctic areas.  These relate to maritime safety (construction, search and rescue, navigation, life-saving, etc.) and marine pollution prevention (designation of special areas, carriage of heavy fuel oil, etc.) as well as certification of seafarers on ships operating in polar areas.  IMO is also participating as an observer in projects related to shipping in polar areas.
+
+4	The following gives an overview of the currently available provisions, with a brief outline of the requirements of the instruments in question, and also reports on on-going and future developments in IMO with regard to polar areas, as well as other related activities in which the Organization is directly or indirectly involved.
+
+5	In particular, requirements as contained in the following IMO Conventions and in related codes, guidelines and recommendations are introduced and briefly explained:
+
+	.1	International Convention on the Safety of Life at Sea (SOLAS), 1974;
+
+.2	International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (MARPOL); 
+
+.3	International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW), 1978; and
+
+.4	Torremolinos Protocol of 1993 to the Torremolinos International Convention for the Safety of Fishing Vessels, 1977 (Torremolinos Protocol).
+
+6	For completeness, provisions for ice-covered areas as contained in the United Nations Convention on the Law of the Sea (UNCLOS) have also been included.  
+
+UNCLOS REQUIREMENTS CONCERNING ICE-COVERED AREAS
+
+7	UNCLOS, in its 320 articles and nine annexes, sets out the legal framework governing the rights and responsibilities of nations in their use of ocean space, such as delimitation, environment, management of marine natural resources and settlement of disputes.  The Convention was opened for signature on 10 December 1982 and entered into force on 16 November 1994.  To date, 159 countries have signed UNCLOS, whereby 22 of those signatories have not yet ratified the Convention.
+
+8	Part XII (Protection and preservation of the marine environment), Section 8 (Ice-covered areas), Article 234 (Ice-covered areas), states that “coastal States have the right to adopt and enforce non-discriminatory laws and regulations for the prevention, reduction and control of marine pollution from vessels in ice-covered areas within the limits of the exclusive economic zone2, where particularly severe climatic conditions and the presence of ice covering such areas for most of the year create obstructions or exceptional hazards to navigation, and pollution of the marine environment could cause major harm to or irreversible disturbance of the ecological balance.  Such laws and regulations shall have due regard to navigation and the protection and preservation of the marine environment based on the best available scientific evidence.”
+
+SOLAS REQUIREMENTS CONCERNING POLAR AREAS AND RELATED GUIDELINES AND ACTIVITIES
+
+SOLAS chapter V navigational requirements
+
+9	The only requirements in the SOLAS Convention directly relating to polar areas are contained in SOLAS chapter V (Safety of Navigation) and concern the safety of navigation.
+
+10	Regulation 5 (Meteorological services and warnings) requests SOLAS Contracting Governments to encourage the collection of meteorological data by ships at sea and to arrange for their examination, dissemination and exchange in the manner most suitable for the purpose of aiding navigation, including, inter-alia, to issue at least twice daily weather information suitable for shipping containing data, analyses, warnings and forecasts of weather, waves and ice.
+
+11	Regulation 6 (Ice Patrol Service) provides requirements concerning the Ice Patrol Service in the North Atlantic which contributes to safety of life at sea, safety and efficiency of navigation and protection of the marine environment in that area and requires ships transiting the region of icebergs guarded by the Ice Patrol during the ice season to make use of the services provided by the Ice Patrol.  It stipulates that during the whole of the ice season, i.e., for the period from 15 February through 1 July of each year, the south-eastern, southern and south-western limits of the region of icebergs in the vicinity of the Grand Banks of Newfoundland shall be guarded for the purpose of informing passing ships of the extent of this dangerous region; for the study of ice conditions in general; and for the purpose of affording assistance to ships and crews requiring aid within the limits of operation of the patrol ships and aircraft.
+
+12	The overall management of the Ice Patrol Service and the study and observation of ice conditions, including the dissemination of information gained is provided by the United States and the terms and conditions governing the management, operation and financing of the Ice Patrol are set out in the Rules for the management, operation and financing of the North Atlantic Ice Patrol (appended to SOLAS chapter V) which became operative beginning with the ice season of 2002.
+
+13	Further requirements concern danger messages (regulation 31) and oblige the master of every ship which meets with dangerous ice, a dangerous derelict, or any other direct danger to navigation, or a tropical storm, or encounters sub-freezing air temperatures associated with gale force winds causing severe ice accretion on superstructures, or winds of force 10 or above on the Beaufort scale for which no storm warning has been received, to communicate the information by all means at his disposal to ships in the vicinity, and also to the competent authorities.  SOLAS Contracting Governments are requested to ensure that, when intelligence of any of the dangers specified above is received, all concerned are informed accordingly. 
+
+14	Regulation 32 specifies the information required in danger messages, such as kind, position, time and date of dangers observed; barometric pressure and tendency; wind force and direction; sea state; swell, including direction from which it comes, period or length; and true course and speed of the ship.  Sub-freezing air temperatures associated with gale force winds causing severe ice accretion on superstructures are specifically mentioned and require information on time and date, air and sea temperature, and wind force and direction. 
+
+Stability requirements for ships operating in areas with ice accretion
+
+2008 Intact Stability (IS) Code
+
+15	In December 2008, the 2008 IS Code was adopted by IMO’s Maritime Safety Committee (MSC) and made mandatory under the SOLAS Convention and the 1988 Load Lines Protocol.  The Code contains mandatory (Part A) and recommendatory (Part B) provisions concerning the intact stability of all types of ships covered by IMO instruments and provides stability criteria and other measures to ensure safe operation and to minimize the risk to ships, crew and the environment.
+
+16	Part B of the Code (Recommendations for certain types of ships and additional guidelines) contains in chapter 6 (Icing considerations) provisions for ships operating in areas where ice accretion is likely to occur which would adversely affect a ship’s stability and provides that icing allowances should be included in the analysis of conditions of loading.  More detailed guidance is included for cargo ships carrying timber deck cargoes, fishing vessels and offshore supply vessels of 24 m to 100 m length.
+
+Guidelines for ships operating in polar waters
+
+17	Navigation in polar waters was first addressed by the Guidelines for ships operating in Arctic ice-covered waters3, issued in 2002, which provide requirements additional to those of the SOLAS and MARPOL Conventions for navigation in Arctic waters, taking into account the specific climatic conditions in that area in order to meet appropriate standards of maritime safety and pollution prevention.
+
+18	MSC 79 in 2004 considered a request by the XXVIIth Antarctic Treaty Consultative Meeting (ATCM) for IMO to consider amending the Guidelines so that they would also be applicable to ships operating in ice‑covered waters in the Antarctic Treaty Area and instructed its Sub-Committee on Ship Design and Equipment (DE) to revise the Guidelines accordingly.
+
+19	DE 52 finalized in 2009 a draft Assembly resolution on Guidelines for ships operating in polar waters, addressing both Arctic and Antarctic areas4, which was approved by MSC 86 and MEPC 59 with a view to adoption at the twenty-sixth IMO Assembly (A 26) in December 2009.
+
+20	The Guidelines aim at mitigating the additional risk imposed on shipping due to the harsh environmental and climatic conditions existing in polar waters.  They address the fact that the polar environment imposes additional demands on ship systems, including navigation, communications, life‑saving appliances, main and auxiliary machinery, environmental protection and damage control, etc., and emphasize the need to ensure that all ship systems are capable of functioning effectively under anticipated operating conditions and provide adequate levels of safety in accident and emergency situations.  In addition, the Guidelines recognize that safe operation in such conditions requires specific attention to human factors including training and operational procedures.  
+
+Development of a mandatory Code for ships operating in polar waters
+
+21	Immediately after finalisation of the above Guidelines, MSC 86 considered proposals by Denmark, Norway, United States and the DE Sub-Committee to further develop them and create a mandatory Polar Code.  The Committee agreed with the proposal and instructed the DE Sub-Committee to commence work on the development of a mandatory Code for ships operating in polar waters at DE 53 in February 2010, with a target completion date of 2012.  
+
+22	The new Code would cover the full range of design, construction, equipment, operational, training, search and rescue and environmental protection issues relevant to ships operating in polar waters in order to address the increased interest and traffic in these regions and the unique operational, environmental and search and rescue concerns peculiar to these areas, taking into account that the consequences of any major safety or pollution incident in polar waters are likely to cause widespread harm to these pristine environments and also damage to the reputation of the shipping community.
+
+23	A number of IMO Members expressed the view that measures to be applied in Antarctic waters need not necessarily be required in Arctic waters and vice-versa, and the Committee agreed that this aspect should be considered in the development of the Code.
+
+Guide to cold water survival
+
+24	In 1981, IMO developed the first issue of a Guide to cold water survival, providing advice to ships operating in cold water areas on how to prevent or minimize hazards of cold exposure, emphasizing individual responsibility to effect survival in cold water and advising on simple self-help techniques.  The Guide was further revised in 1992 and 2006, when it was approved by the MSC in its final form as circular MSC.1/Circ.1185.  It is also available as an IMO publication5.
+
+25	The Guide explains in particular bodily reactions to cold air and water exposure, informs about body heat loss, insulation and hypothermia, gives recommendations on what to do in the case of ship abandonment in cold waters and advises on the treatment of immersion survivors.  It also contains useful checklists for cold water survival and for rescuers.
+
+Enhanced contingency planning guidance for passenger ships operating in areas remote from SAR facilities
+
+26	In 2006, IMO’s Sub-Committee on Radiocommunications and Search and Rescue (COMSAR) prepared guidance on contingency plans for passenger ships operating in areas considered to be remote from SAR facilities (MSC.1/Circ.1184), which are required in accordance with the relevant provisions of the SOLAS and SAR6 Conventions and the ISM Code7.
+
+27	For practical purposes, COMSAR agreed that an area in which an emergency occurs may be considered one which is “remote from SAR facilities” if either the SAR facilities’ total recovery capacity or the capacity they are able to achieve in the prevailing conditions and within the five-day parameter (i.e. the maximum timeframe for which persons should be expected to stay in survival craft, taking into account the humanitarian needs of those aboard such craft and the hazards to life and health persons may face on such craft, as agreed by the MSC) is less than the number of people who need to be recovered.
+
+28	The guidance recommends that SAR co-operation planning arrangements should be enhanced for ships operating in areas remote from SAR facilities, including that the Company8 should give reasonable notice of the arrival of its ship in the remote area to the relevant Rescue Co-ordination Centre (RCC) and should arrange direct exchange of the ship’s SAR co-operation plan with the relevant SAR services; that the relevant SAR services may request a copy of the relevant part of the Company’s emergency plan, in addition to the basic SAR co-operation plan, in order to assist their own contingency planning; and that the Company should keep the RCC informed as to the ship’s position and intentions while the ship is operating in the remote area.
+
+29	It is further recommended that the risks of remote area operation should be assessed and planned for and that the following enhancements should be among those considered: voyage “pairing”, i.e., mutual exchange of information that may be available to the SAR Authority or the vessel operator with reference to other passenger ships operating in the same area, so that, if two or more passenger ships are operating in the same general area at the same time, each can be used as a SAR facility in case of accident to another; the carriage of enhanced life-saving appliances; the provision of additional life-saving resources; and other sources of assistance that may be available in the area.
+
+Guidelines on voyage planning for passenger ships operating in remote areas
+
+30	In November 2007 the IMO Assembly adopted, by resolution A.999(25), Guidelines on voyage planning for passenger ships operating in remote areas, to supplement the existing Guidelines for voyage planning (resolution A.893(21)) with additional guidance for passenger ships operating in remote areas.  It was acknowledged that the growing popularity of ocean travel and the desire for exotic destinations had led to increasing numbers of passenger ships operating in remote areas and that, when developing a plan for voyages to such areas, special consideration needed to be given to the environmental nature of the area of operation, the limited resources and navigational information.
+
+31	The Guidelines recommend that, for ships operating in Arctic or Antarctic waters, the usual detailed voyage and passage plan should include additional factors, such as knowledge of ice and ice formations; current information on the extent and type of ice and icebergs in the vicinity of the intended route; statistical information on ice from former years; operational limitations in ice-covered waters; availability and use of ice navigators; conditions when it is not safe to enter areas containing ice or icebergs because of darkness, swell, fog and pressure ice; safe distance to icebergs; presence of ice and icebergs and safe speed in such areas; existing ice conditions; and measures to be taken before entering waters where ice may be present, e.g., an abandon ship drill and preparation of special equipment.
+
+IACS9 requirements for Polar Class ships10
+
+32	IMO’s Guidelines for ships operating in polar waters recommend that only those ships with a Polar Class designation, assigned based on the IACS Unified Requirements for Polar Class Ships (UR‑I), or a comparable alternative standard of ice-strengthening appropriate to the anticipated ice conditions should operate in polar ice‑covered waters.  The UR-I are uniformly applied by IACS societies to ships contracted for construction on or after 1 March 2008.
+
+33	The UR-I contain the following Polar Class notations, intended to guide owners, designers and Administrations in selecting an appropriate Polar Class (PC) to match the requirements for a given ship with its intended voyage or service.  The ice description follows the WMO11 sea ice nomenclature:
+
+	PC 1	Year-round operation in all ice-covered waters.
+
+	PC 2	Year-round operation in moderate multi-year ice conditions.
+
+PC 3	Year-round operation in second-year ice which may include multi-year ice inclusions.
+
+PC 4	Year-round operation in thick first-year ice which may include old ice inclusions.
+
+PC 5	Year-round operation in medium first-year ice which may include old ice inclusions.
+
+PC 6	Summer/autumn operation in medium first-year ice which may include old ice inclusions.
+
+PC 7	Summer/autumn operation in thin first-year ice which may include old ice inclusions.
+
+34	The UR-I consist of three parts, I1 (Polar Class description and application), I2 (Structural requirements for Polar Class ships) and I3 (Machinery requirements for Polar Class ships) and the Polar Class notation is used throughout to convey the differences between classes with respect to operational capability and strength.
+
+35	It should be noted that ships that are also to receive an “icebreaker” notation may have additional requirements and need special consideration.  “Icebreaker” refers to any ship having an operational profile that includes escort or ice management functions, having powering and dimensions that allow it to undertake aggressive operations in ice-covered waters, and having a class certificate endorsed with this notation.
+
+World Maritime University activities concerning Arctic shipping
+
+36	The Maritime Safety Committee decided in 2005 to ask the World Maritime University (WMU)12 to collect information on search and rescue research efforts related to passenger ships and the COMSAR Sub-Committee specified during its sessions in 2008 and 2009 that WMU should focus on SAR capabilities in remote areas (i.e. the South Pacific and Arctic/Antarctic waters).  In response to this request WMU organized a workshop which took place in June 2009 in Malmö, Sweden, focussing on the following questions:
+
+.1	How significant are risks for passenger ships to become subjects of SAR operations in different parts of the world?  Which ships (cruise ships, ferries, other) are likely to be involved in accidents and where?
+
+.2	What can be done to minimize the risks?  How can accident probabilities be reduced?  How can emergency response/contingency planning be strengthened?
+
+.3	Which are existing information gaps (problems addressed in recent research projects and other initiatives), which future developments may lead to problems?
+
+.4	What can be future solutions/strategies to reduce risks of passenger ships involved in SAR operations?
+
+37	The information provided during the workshop revealed a rather complex picture of the overall situation with regard to shipping in the Arctic in general, whereby passenger shipping in this respect is only a small contributor.  However, since the issue of shipping in the Arctic is gaining more and more importance, WMU wants to deepen its understanding of the complexity of the matter.  Ships operating in the Arctic will most likely not be registered in costal States of the Arctic.  WMU, based on its mandate, considers it as one of its tasks to provide for initiatives that may support future registering countries and shipping companies and to develop the knowledge and skill base that may allow for safe, secure and efficient shipping in a clean Arctic.
+
+Canadian research project concerning thermal requirements for surviving a mass rescue incident in the Arctic
+
+38	IMO is an observer in a Canadian project13 to study the thermal protection performance criteria of group and personal survival equipment and air-droppable tents as well as training for surviving a mass rescue incident in the Arctic.  Currently, IMO does not provide specific thermal protection criteria for liferafts and lifeboats without which it is difficult to select and test survival equipment to determine its suitability for use in Arctic conditions.  The focus of the project is on untrained and unprotected passengers in a cruise ship abandonment or in a plane crash situation.
+
+39	The main objectives of the project are:
+
+.1	to establish thermal protection performance criteria and test methods for the personal and group survival equipment required by SOLAS for passenger ships operating in the Arctic;
+
+.2	to develop a model to predict survival time for occupants in lifeboats, liferafts, tents and aircraft wreckage in various Arctic conditions;
+
+.3	to evaluate the current air and marine life-saving appliances and training in meeting the proposed thermal protection requirements; and
+
+.4	to provide recommendations related to people, procedures and equipment to meet the proposed thermal protection requirements by developing survival strategies and training for crew and passengers in the case of major disasters.
+
+40	The three-year project is sponsored by Transport Canada and funded by the National Search and Rescue Secretariat of Canada, with in-kind contribution from collaborators.  The kick-off meeting took place in August 2009.  
+
+MARPOL REQUIREMENTS CONCERNING POLAR AREAS
+
+Status of Antarctic as special area under MARPOL Annexes I and V
+
+41	The MARPOL Convention defines in Annexes I (Prevention of pollution by oil) and V (Prevention of pollution by garbage from ships) certain sea areas as "special areas" in which, for technical reasons relating to their oceanographical and ecological condition and to their sea traffic, the adoption of special mandatory methods for the prevention of sea pollution is required.  Under the Convention, these special areas are provided with a higher level of protection than other areas of the sea.14
+
+42	The Antarctic area was designated a special area under MARPOL Annexes I and V by resolution MEPC.42(30), adopted on 16 Nov 1990, and under MARPOL Annex II by resolution MEPC.57(33), adopted on 30 Oct 1992.  The provisions entered into force on 17 March 1992 for Annexes I and V and on 1 July 1994 for Annex II.  However, in the latter case, the revised Annex II (adopted in October 2004 by resolution MEPC.118(52)), now in force, does no longer contemplate special areas, as very stringent discharge requirements are now applicable in all sea areas worldwide.  The Antarctic area nonetheless continues to enjoy the zero discharges protection as specified below (see paragraphs 44 to 47).  For the purposes of the special area provisions, MARPOL defines the Antarctic area as the sea area south of latitude 60ºS.
+
+43	In this regard, it should be noted that the Artic is not considered a special area under the MARPOL Convention.
+
+Control of discharge of oil and reception facilities (MARPOL Annex I)
+
+44	MARPOL Annex I contains particular requirements for special areas in chapter 3 (Requirements for machinery spaces of ships), regulation 15 (Control of discharge of oil); chapter 4 (Requirements for the cargo areas of oil tankers), regulation 34 (Control of discharge of oil); and chapter 6 (Reception facilities), regulation 38 (Reception facilities).
+
+45	Regulation I/15.4 prohibits any discharge into the sea of oil or oily mixtures from any ship in the Antarctic area.  Regulation I/34.3 prohibits any discharge into the sea of oil or oily mixtures from the cargo area of an oil tanker while in a special area, except for the discharge of clean or segregated15 ballast.  Regulation I/38.4 requires MARPOL Parties which border any special area to ensure that all oil loading terminals and repair ports within the special area have adequate facilities for the reception and treatment of all dirty ballast and tank washing water from oil tankers and for other residues and oily mixtures from ships.  Paragraph 7 of regulation I/38 contains additionally special rules for the Antarctic area as follows:
+
+.1	all MARPOL Parties at whose ports ships depart or arrive from the Antarctic area undertake to ensure that as soon as practicable adequate facilities are provided for the reception of all sludge, dirty ballast, tank washing water and other oily residues and mixtures from all ships; and
+
+.2	all MARPOL Parties shall ensure that their flag ships, before entering the Antarctic area, are fitted with a tank or tanks of sufficient capacity for the retention of all sludge, dirty ballast, tank washing water and other oily residues and mixtures while operating in the area and have concluded arrangements to discharge such oily residues at a reception facility after leaving the area.
+
+Control of discharge of residues of noxious liquid substances (MARPOL Annex II)
+
+46	MARPOL Annex II, regulation 13.8 (Discharges in the Antarctic Area), prohibits any discharge into the sea of noxious liquid substances or mixtures containing such substances in the Antarctic area.
+
+Disposal of garbage (MARPOL Annex V)
+
+47	MARPOL Annex V contains particular requirements for special areas in regulation 5 (Disposal of garbage within special areas) which prohibit, with some exceptions, the disposal into the sea of all plastics and all other garbage and provide requirements for reception facilities, with special rules for the Antarctic area very similar to those contained in regulation I/38.7 (see paragraph 41 above).
+
+Use and carriage of heavy grade oil
+
+48	The issue of the use and carriage of heavy grade oil on ships in the Antarctic area and the development of relevant amendments to MARPOL Annex I was considered by the Sub-Committee on Bulk Liquids and Gases (BLG), following an instruction of IMO’s Marine Environment Protection Committee (MEPC) in 2007, initiated by a request from Norway.
+
+49	BLG 13 based its discussions of the matter on a proposal by New Zealand (BLG 13/14), suggesting to add a new chapter concerning the carriage in bulk and use as fuel of oils in the Antarctic area to MARPOL Annex I, and agreed on relevant draft amendments, for approval by MEPC 59.
+
+50	Consequently, MEPC 59 in July 2009 approved the draft amendments to MARPOL Annex I developed by BLG 13, adding a new chapter 9 to Annex I, as follows, with a view to adoption at MEPC 60 in March 2010:
+
+Chapter 9 – Special requirements for the use or carriage of oils in the Antarctic area
+
+Regulation 43
+Special requirements for the use or carriage of oils in the Antarctic area
+
+1	With the exception of vessels engaged in securing the safety of ships or in a search and rescue operation, the carriage in bulk as cargo or carriage and use as fuel of the following:
+
+.1	crude oils having a density at 15°C higher than 900 kg/m3; 
+
+.2	oils, other than crude oils, having a density at 15°C higher than 900 kg/m3 or a kinematic viscosity at 50°C higher than 180 mm2/s; or
+
+.3	bitumen, tar and their emulsions,
+
+shall be prohibited in the Antarctic area.
+
+2	When prior operations have included the carriage or use of oils listed in paragraphs 1.1 to 1.3 of this regulation, the cleaning or flushing of tanks or pipelines shall not be required.
+
+51	MEPC 60, scheduled to meet in March 2010, is expected to adopt the new requirements which then might enter into force in July 2011, following the procedural provisions of the MARPOL Convention and assuming normal practice of the MEPC, unless the Committee decides on different dates.  It should be noted that the new requirements will only apply to the Antarctic and not to the Arctic.
+
+STCW REQUIREMENTS CONCERNING POLAR AREAS
+
+Training requirements for personnel on ships operating in ice-covered waters
+
+52	IMO’s Sub-Committee on Standards of Training and Watchkeeping (STW) is currently working on a comprehensive revision of the STCW Convention and the STCW Code.  In the context of this work, Norway proposed at the last session of the Sub-Committee (STW 40 in February 2009) the introduction of mandatory minimum requirements for the training and qualification of navigators serving on board ships operating in areas where ice or ice floes are likely to be present16, so called ice navigators17, in chapter V (Special training requirements for persons on certain types of ships) of the STCW Convention and in the STCW Code.
+
+53	The Sub-Committee supported the Norwegian proposal in general18, also noting that Argentina and Chile had submitted a proposal to MSC 86 to strengthen and update the knowledge of officers in charge of a navigational watch in Antarctic waters19.
+
+54	Consequently, STW 40 established a correspondence group coordinated by Norway and instructed it to develop draft training guidance for personnel on ships operating in ice-covered waters.  The group developed relevant draft training requirements for inclusion in the STCW Convention and Code as annexed to their report20 which was submitted to the second meeting of the Ad hoc Intersessional meeting of the STW Working Group on the Comprehensive Review of the STCW Convention and Code (7 to 11 September 2009) for consideration.
+
+55	In the report, the group expressed the view that the application of the proposed new training requirements should not be limited to polar waters and that, due to heavy weather conditions, unpredictable situations, dangerous and unpredictable ice conditions in the captioned areas, the increase of traffic density, environmental protection issues, difficulties in SAR operations and some other restrictions in these navigation areas, resulting in a high risk level for the safety of navigation, the training for deck officers and masters should have a mandatory status.  The group also pointed out that there might be a need to revisit the training requirements in order to harmonize them with the requirements of the future mandatory Code for ships operating in polar waters (see paragraphs 21 to 23), once finalized.
+
+56	The STW Working Group considered the report during its intersessional meeting and, after an in-depth discussion, agreed that the proposed training requirements should be included in part B of chapter V of the STCW Convention as guidance, i.e. their status would be non-mandatory.  The group further agreed that the proposed training requirements needed to be developed further and that the correspondence group should continue its work, taking into account the requirements in the Guidelines for ships operating in polar waters approved at MSC 86 (see paragraph 19), and submit a final report to STW 41 in January 2010.  
+
+57	The delegation of Germany, taking into account the views expressed by a number of delegations at the intersessional meeting that the training requirements should be mandatory, proposed that interested Governments could submit a resolution to the forthcoming Diplomatic Conference21 proposing that IMO should develop mandatory training standards immediately after the future mandatory Code for ships operating in polar waters had been adopted.  Accordingly, the group invited interested Governments to consider submitting such a resolution to STW 41 with a view to adoption by the Conference.
+
+REQUIREMENTS FOR FISHING VESSELS OPERATING IN AREAS WITH ICE ACCRETION
+
+Torremolinos Protocol of 1993 to the Torremolinos International Convention for the Safety of Fishing Vessels, 1977
+
+58	The 1977 Torremolinos Convention contains safety requirements for the construction and equipment of new decked seagoing fishing vessels of 24 m in length and over, including those vessels also processing their catch.  The conditions for entry into force of the Convention were never met and in 1993 the Torremolinos Protocol was adopted which updates, amends and absorbs the parent Convention, taking into account technological evolution in the intervening years and the need to take a pragmatic approach to encourage ratification of the instrument.  The Torremolinos Protocol has likewise not yet entered into force.
+
+59	Chapter III (Stability and associated seaworthiness), regulation 8 (Ice accretion), contains requirements for icing allowances to be made in stability calculations and provides that fishing vessels operating in areas where ice accretion is known to occur should be designed to minimize the accretion of ice and should be equipped with means for removing ice.  Recommendation 2 (Guidance related to ice accretion) of the 1993 Torremolinos Conference further sets out the geographical positions of the icing areas to which the above regulation III/8 should apply, including a chart.  Recommendation 6 (Guidance for precautions against freezing of fire mains) offers solutions for the problem of freezing of fire mains, including recirculation of water, use of dry systems of fire mains, use of leak-off systems and use of heating systems.
+
+Code of safety for fishermen and fishing vessels, 200522
+
+60	The Code of safety for fishermen and fishing vessels, 2005, was developed with a view to promoting the safety and health of crew members on board fishing vessels and consists of two parts, Part A (Safety and health practice), providing information on the safe conduct of fishing operations, and Part B (Safety and health requirements for the construction and equipment of fishing vessels), providing information on the design, construction and equipment of fishing vessels.  The Code applies to fishing vessels of 24 m in length and above and is not a mandatory instrument.
+
+61	Part A of the Code advises that the formation of ice on a vessel is dangerous and should be reduced by all practicable means and contains in appendix 10 (Recommendation for skippers of fishing vessels on ensuring a vessel’s endurance in conditions of ice formation) information on the causes of ice formation and its influence on the seaworthiness of the vessel and recommendations for skippers on how to deal with ice formation, including lists of equipment and tools for combating ice formation and of additional personal protective clothing.
+
+62	Part B of the Code contains in chapter III (Stability and associated seaworthiness), section 3.8 (Ice accretion), provisions for icing allowance to be made in stability calculations for fishing vessels operating in areas where ice accretion is likely to occur.
+
+Voluntary Guidelines for the design, construction and equipment of small fishing vessels21
+
+63	The Guidelines, also not mandatory, apply to fishing vessels between 12 m and 24 m in length and contain provisions regarding ice accretion and the combating of ice formation similar to those in the abovementioned Code.
+
+ACKNOWLEDGEMENT
+
+64	I wish to acknowledge the helpful comments received from my colleagues Hans van der Graff, Javier Llorens, Ashok Mahapatra, Nihan Ünlü and Hiroyuki Yamada.
+
+
+____________
+
+

@@ -1,0 +1,131 @@
+Identificación de peligros de la operación aérea en la Antártida para
+gestionar la seguridad operacional de la Fuerza Aérea Colombiana -
+Fase II
+Identificación de peligros de la operación aérea en la Antártida para
+gestionar la seguridad operacional de la Fuerza Aérea Colombiana -
+Fase II
+Resumen
+Las operaciones aéreas en la Antártida son actividades que
+representan un alto grado de dificultad dadas las características del
+terreno, la escasez de pistas, la inexistencia de radio-ayudas para la
+navegación, la intensidad de los vientos entre otros factores que
+pueden poner en riesgo la operación aérea y que, por ende,
+necesitan ser identificados. El presente proyecto busca identificar
+los riesgos potenciales durante las operaciones de las aeronaves
+C-130 de la Fuerza Aérea Colombiana (FAC) y diseñar
+procedimientos de vuelo que permitan mejorar las actividades
+aéreas en puntos determinados de la península antártica. Así
+mismo, es preciso resaltar que la fase de campo del verano austral
+2021-2022 contó con la colaboración y apoyo de la República
+Argentina en términos de cooperación científico-logística.
+Reporte de la fase de campo campaña verano austral 2021-2022
+La Fuerza Aérea Colombiana ha participado en diferentes
+expediciones antárticas enmarcadas en el Programa Antártico
+Colombiano (PAC) por medio del avión hércules C-130, en las
+cuales ha aterrizado en aeródromos como Teniente Rodolfo R Marsh
+de Chile y Marambio de Argentina, sin embargo la necesidad de
+conocer el terreno, la falta de procedimientos de aproximación
+RNAV-RNP y la mitigación de riesgos operacionales ha conllevado a
+la necesidad de plantear un proyecto de investigación que abarque
+diferentes temáticas que permitan centralizar información
+importante que toda tripulación debería conocer previo a cualquier
+vuelo, independientemente del escenario.
+De manera que, en la fase de campo enmarcada en la VIII
+Expedición de Colombia a la Antártida se realizaron actividades
+enfocadas en determinar los riesgos operacionales antárticos
+mediante el diseño de procedimientos de vuelo, específicamente
+aproximaciones RNAV, generación de ortofotografías y modelos 3D
+del aeródromo Marambio.
+Teniendo en cuenta que parte de la metodología de esta
+investigación aplicada es la recolección de información, la cual se
+realizó durante el verano austral 2021-2022 en la base Marambio
+de Argentina y que contó con la colaboración logística y operativa
+de ese país, dentro de los trabajos de campo, se llevó a cabo un
+vuelo fotogramétrico con drone Phantom 4 RTK a 80 mt AGL,
+además se realizaron fajas de 5 y 6 vuelos que cubren las dos pistas
+del aeródromo y las áreas adyacentes a estas.
+Como resultado del vuelo, se tomaron 8446 imágenes aéreas con
+dimensiones de 5472 X 3648 pixeles y GSD de 0.03 metros. En
+tierra, se realizó un levantamiento GNSS de las diferencias de nivel
+y obstáculos presentes en la zona, así como la recolección de datos
+relevantes de las listas de chequeo para la gestión de la seguridad
+operacional.
+Para la mejora en la precisión de las tomas aéreas se instalaron
+puntos de foto control sobre el terreno, los cuales se referenciaron
+con respecto a una base (GPS instalado sobre punto de control), con
+el fin de vincularlos en la rectificación de coordenadas de las
+imágenes y productos derivados. En total se diseñaron e
+imprimieron 10 puntos de fotocontrol enumerados del 0 al 9, lo
+cuales son totalmente identificables en las imágenes aéreas,
+tomadas a 80 metros sobre el terreno, traslape entre fotos de 75%.
+Los resultados esperados a partir de la información recolectada en
+campo son: modelo 3D, ortofoto, procedimiento de aproximación
+RNAV, panorama de riesgos operacionales del aeródromo
+Marambio. Los anteriores productos contribuirán al conocimiento
+del terreno por parte de las tripulaciones Nacionales o extranjeras
+que desarrollen operaciones antárticas, los riesgos y la carta de un
+procedimiento de aproximación RNAV publicado y validado por la
+FAC.
+Recomendaciones:
+Los estudios de seguridad operacional que se realicen bajo el
+escenario antártico deben contemplar que los aeródromos allí
+existentes no van a cumplir las especificaciones técnicas mínimas
+establecidas en documentos internacionales acogidos por la
+Autoridad Aeronáutica, debido a las condiciones particulares del
+entorno, que no permiten tener la logística ideal para el
+mantenimiento de una pista, por lo que se deben flexibilizar y hasta
+crear por parte de cada autoridad, regulaciones mínimas para este
+tipo de escenarios.
+De acuerdo con lo evidenciado en Marambio, con su dinámica
+meteorológica, la cual influye en el estado del suelo, se hace
+pertinente contar con equipos de nivelación, extracción y
+compactación, de modo que se garanticen las condiciones de
+operatividad de la pista, ya que, en un estado de descongelamiento
+del suelo, puede existir perdida de material, que debería ser
+reemplazado para que no existan desniveles que afecten el
+aterrizaje seguro de las aeronaves que operen allí.
+El conocimiento del terreno permite determinar los peligros que
+puedan influir en el desarrollo de operaciones antárticas, por lo que
+el uso de la topografía y los drones permiten ampliar el espectro
+para su detección y mitigación, así mismo, permiten evaluar los
+mínimos operacionales para el diseño de una carta de aproximación
+RNAV RNP y su validación.
+Referencias
+Comisión Colombiana del Océano (2014). Agenda Científica
+Antártica de Colombia. Bogotá: Entrelibros e-Book Solutions.
+Comisión Colombiana del Oceano. (18 de febrero de 2015).
+Obtenido de Comisión Colombiana del Oceano.: http://
+www.cco.gov.co/cco/nosotros/la-comision.html
+Corrieri, M. A. (29 de Mayo de 2017). Como medir Efectivamente la
+comunicacion interna. Obtenido de Conexionesan: https://
+www.esan.edu.pe/conexion/actualidad/2017/05/29/como-medir-
+efectivamente-la-comunicacion-interna/
+Deobold, V. D. (12 Septiembre de 2006 de 2006). La Investigació
+Descriptiva. Obtenido de Explorable.com: https://
+noemagico.blogia.com/2006/091301-la-investigaci-n-
+descriptiva.php
+Dirección de Seguridad Operacional. (2017). Informe de fiablidad
+2017. Bogota: FAC.
+Fuerza Aérea Colombiana. (2010). Manual de Gestión de Seguridad
+Operacional. Bogota: FAC.
+Fundación Marambio. (30 de Enero de 2019). Obtenido de
+Fundaciòn Matambio: http://www.marambio.aq/
+protocolomedioambiente.html
+Lecina, R. M. (2016). Psicología y factores humanos en la aviación.
+Barcelona: Universidad Autónoma de Barcelona.
+Ongallo, C. (2007). Manual de la Comunicación. Madrid: Dykinson
+L.S.
+Rodriguez, D. (25 de Abril de 2018). Lifeder.com. Obtenido de
+lifeder.com: https://www.lifeder.com/investigacion-aplicada/
+Sampieri, R. H. (2014). Metodología de la Investigación. Mexico:
+Mac Graw Hill Education.
+Secretaría del Tratado Antártico. (14 de junio de 2018). Obtenido
+de https://www.ats.aq/s/about.htm
+Secretaría del Tratado Antártico. (14 de junio de 2018). Secretaría
+del Tratado Antártico. Obtenido de Protocolo Ambiental: https://
+www.ats.aq/devAS/ats_meetings.aspx?lang=s
+Sistema del tratado antártido. (19 Octubre de 2017 de 2017).
+INACH. Obtenido de Sistema del tratado antártico: http://
+www.inach.cl/inach/?page_id=21
+Unidad Administrativa especial de Aeronautica Civil. (2017). RAC
+219. Bogota: UAEAC.

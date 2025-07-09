@@ -1,0 +1,71 @@
+﻿
+
+
+
+
+
+EDEN ISS: A facility to provide Neumayer Station III overwinterers with fresh food while advancing space technology
+
+
+
+
+
+
+
+
+
+EDEN ISS:
+A facility to provide Neumayer Station III overwinterers with fresh food while advancing space technology
+
+
+Introduction
+The provision of fresh food can provide nutritional and psychological benefits to overwintering Antarctic crew members. Fresh produce is typically only available in Antarctica during the austral summer months when aircraft and ship logistical supply chains permit fresh fruit and vegetables to be brought in. Although certain products may have a storage lifetime of several weeks, such fresh supplies are seldom  available after the last resupply flight/ship has departed. To remedy this lacking, several national programs have initiated projects to grow plants in-situ via the deployment of hydroponic plant production systems to Antarctica. In fact there are presently at least ten operational hydroponics systems in the Antarctic Treaty Area. Long duration spaceflight shares a number of similar challenges as overwintering in Antarctica in terms of harsh environment, isolation and logistics. Thus, the development of the technology and operational strategies that permit safe, highly productive and low waste plant production systems in Antarctica will help advance also technologies for use on future human space missions. The EDEN ISS project strives to develop a greenhouse that integrates the newest controlled environment agriculture technologies. The facility will be deployed at the German Neumayer Station III for long term testing. The EDEN ISS project is a European Union funded project involving 14 partners from across Europe as well as partners from Canada and the USA. 
+
+Facility Description
+The EDEN ISS Mobile Test Facility (MTF) is being designed to provide fresh produce for overwintering crews at Neumayer Station III (Figure 1), as well as to advance the readiness of a number of plant growth technologies and operational procedures for long duration space flight. 
+
+
+
+Figure 1 The Neumayer Station III (Left). Illustrative impression of the EDEN ISS Mobile Test Facility.  (Right - Image credit: LIQUIFER Systems Group).
+The MTF has been constructed from two 20 foot long shipping containers. These containers will be installed upon an elevated platform and joined together on-site following delivery to the station (Figure 1). The MTF is subdivided into three distinct sections indicated in Figure 2. The Cold Porch is a small room providing storage and acting as a buffer to prevent the entry of cold air into the facility, the Service Section houses the primary control, air management, thermal control, and nutrient delivery systems of the MTF. The Future Exploration Greenhouse (FEG) is the main plant growth area of the MTF, consisting of multilevel plant growth racks operating in a precisely controlled environment.
+
+Figure 2 Illustrative impression of the interior of the EDEN ISS Mobile Test Facility (Image credit: LIQUIFER Systems Group).
+The EDEN ISS MTF incorporates the latest in water-cooled LED illumination technologies in which the light spectrum of each panel can be tuned to a given crop and maturity level. An air management system will monitor and control exactly the atmospheric environment of the FEG from the perspective of temperature, humidity, ppCO2 and include particle and volatile organic compound filters. The system will also collect condensate from the FEG and return it to the facility water tanks. Although a crew member will operate the facility during deployment in Antarctica, the MTF operations team in Europe, Canada and USA will be able to remotely monitor and control the facility. 
+Lettuce, tomato, cucumber, bell pepper, radish, spinach, Swiss chard strawberries and herbs including chives, coriander, mint, parsley and basil were selected to be grown in the MTF from a detailed plant selection activity. These crops will be grown using a combination aeroponics and nutrient-film technique nutrient delivery system. The hydroponic nutrient delivery system does not utilize soil and employs only minimal growth substrate e.g. for initial germination. Save for the possible transport of a small number of strawberry plantlets, only seeds will be transported to Antarctica. Compliance to the Antarctic Treaty with regards to non-native species introduction will be further ensured via regular inspection, ozone disinfection of the hydroponic solution and the use of an electronic nose system (E-nose) for microbial monitoring. Additionally, a portable research disinfection system has been designed and tested and will be employed in the general MTF interior. 
+
+The German Environment Agency (Umweltbundesamt, UBA) as the national Competent Authority has issued the permit for this project under several provisos including the permit in accordance with Article 4 of Annex II to the Protocol.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Utilization of Neumayer Station III Infrastructure
+The installation location of the MTF will be located 400 m south of Neumayer Station III (Figure 3). 
+
+Figure 3 Neumayer Station III vicinity depicting the planned installation location of the EDEN ISS MTF.
+The MTF will use a number of station resources to function. The facility is connected to the station power system via a heavy gauge power cable and to station data servers via an optical fibre. An additional secondary data transfer system will be installed via patched antennas on the MTF and the Neumayer Station III. A subset of the environmental and health data as well as images collected by the MTF will be sent over the nominal Neumayer Station III satellite connection to AWI servers in Bremerhaven from where they will be available to EDEN ISS operations centres. Water required by the MTF will be transported via sled from the Neumayer Station III to the facility. Similarly, wastewater generated in the facility will be returned to the station using the same method and processed in the nominal station wastewater treatment plant. Laboratory facilities in the Neumayer Station III have also been made available to the project. Inedible biomass waste will be handled in the same manner as other organic kitchen waste at Neumayer Station III.
+
+Project Status
+The EDEN ISS project was started in March 2015 and first site preparations near Neumayer Station III were carried out in the 2016/17 season. The project has now entered the assembly, integration and testing (AIT) phase where the containers are being built up, tested and operated at the German Aerospace Center (DLR) in Bremen, Germany (Figure 4) in the manner as they will be used later in Antarctica. In season 2017/18 the facility will be shipped to Neumayer Station III.
+
+Figure 4 The EDEN ISS Mobile Test Facility during the assembly, integration and test phase of the project at DLR in Bremen, Germany.
+
+Summary
+Sustained human presence in space and in Antarctica share a number of similar or comparable conditions and constraints. The development of new technologies to maintain environmental control, to manage wastes, to provide water, oxygen, food will keep astronauts as well as overwintering crews in Antarctica healthy and psychologically fit. The detailed development and science plan proposed by the EDEN ISS project, in addition to its long duration Antarctic deployment phase, will help advance technologies associated with plant production in harsh environments.
+The integration of MTF subsystems and hardware is on-going in Germany and will continue with commissioning of the containers at Neumayer Station III in the 2017/18 Antarctic season.
+
+

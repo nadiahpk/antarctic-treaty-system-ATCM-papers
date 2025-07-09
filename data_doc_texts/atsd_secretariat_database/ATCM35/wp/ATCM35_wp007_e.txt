@@ -1,0 +1,61 @@
+﻿
+
+
+
+
+
+Remote sensing for monitoring Antarctic Specially Protected Areas: use of multispectral and hyperspectral data for monitoring Antarctic vegetation
+
+
+
+
+
+
+
+
+
+       Remote sensing for monitoring Antarctic Specially Protected Areas: use of multispectral and hyperspectral data for monitoring Antarctic vegetation
+Working Paper submitted by the United Kingdom
+Summary
+This paper describes the development and application of new remote sensing techniques in Antarctica to monitor vegetation.  The United Kingdom recommends that the CEP considers further the value and application of the methodologies described in this paper, and encourages future collaboration in developing and application of these techniques for monitoring of Antarctic Specially Protected Areas and the wider environment
+Introduction
+The work presented in this paper is part of ongoing efforts to make wider use of satellite and airborne remote sensing methods to monitor the Antarctic environment. Use of these systems is a valuable way to provide consistent, repeatable, regional scale measurements over large areas of the Antarctic continent and surrounding ocean. Increased use of remote measurements will provide more data, make better use of limited in-field observations and reduce the impact of fieldwork on the environment.
+We are currently investigating and developing new techniques to monitoring changes in the extent and health of vegetation occurring in the Antarctic Peninsula region. This will be a powerful tool for environmental monitoring, especially for Antarctic Specially Protected Areas (ASPAs) and other sensitive areas that are likely to be affected by changing climate, increasing visitor numbers and national operator pressures. 
+Vegetation changes (spatial distribution, species diversity) are amongst the most widely predicted consequences of future climate change and increased human footprint on the Antarctic Peninsula. Higher temperatures, increased availability of exposed ground (from retreating glaciers) and greater water availability may allow native species to alter their distribution and new species to establish by both natural and anthropogenic colonisation processes.  Increasing numbers of visitors to the region and expansion of human footprint may damage or displace existing vegetation.
+Currently, few baseline vegetation survey data for the Antarctic Peninsula exist and traditional ground-based methods are not a practical or cost-effective way of monitoring large areas. It is necessary, therefore, to develop new practical methods to measure change in vegetation distribution and type. 
+UK scientists have established the potential of monitoring vegetation distribution in the Peninsula region using relatively low resolution satellite image data (Fretwell, P. T., Convey, P., Fleming, A. H., Peat, H. J., and Hughes, K. A.  2010.  Detecting and mapping vegetation distribution on the Antarctic Peninsula from remote sensing data.  Polar Biology 34: 273-281). Whilst this method allows detection of Antarctic vegetation from low-resolution satellite imagery, importantly it does not provide the necessary spatial resolution to monitor small changes in vegetation type and extent likely to be associated with progressive change from year to year.  It is possible to detect vegetation using infra-red aerial photography, but this is expensive logistically and impractical for large areas. It is therefore both timely and valuable, in scientific and management contexts, to extend the technique to use high resolution (sub-metre pixel size) satellite imagery to provide the necessary detail.
+Here we describe new methods, based on the spectral properties of the ground surface, using newly acquired airborne hyperspectral data (the first survey of its type on the Antarctic continent), satellite multispectral data and field observations.  
+Methods
+Multispectral and hyperspectral imaging sensors capture data at specific frequencies across the electromagnetic spectrum. The variation in spectral reflection across the spectrum is used to discriminate and classify different surface materials. Multispectral sensors collect data in a small number of discrete spectral bands. Hyperspectral sensors use many hundreds of contiguous spectral bands, providing a much higher degree of spectral resolution and a greater ability to identify and differentiate surface materials.
+An airborne hyperspectral survey was undertaken from Rothera Research Station in February 2011. This was executed jointly by the British Antarctic Survey (BAS), Canadian collaborators from DRDC and the instrument designers ITRES (www.itres.com) who provided access to the instruments and expertise in processing the data. The instrument fit in the BAS aircraft is shown in Figure 1.
+Hyperspectral airborne data was acquired at a number of sites on the Antarctic Peninsula (Figure 2) including Rothera Point (ASPA 129), Avian Island (ASPA 117), Lagotellerie Island (ASPA 115) and Ablation Valley and Ganymede Heights (ASPA 147). In addition data were acquired for islands in Ryder Bay, parts of the Wright Peninsula, and Coal Nunatak and Two Step Cliffs on Alexander Island. Matching high resolution satellite imagery was also acquired by Digital Globe satellites for most of these sites and several other ASPAs.
+In this study we used details of the reflected surface spectral signature, recorded by the airborne hyperspectral instruments plus in situ spectral measurements, to identify vegetation. We then used this data to calibrate very high resolution satellite imagery and derive vegetation information over larger areas.
+Initial results and next steps
+Initial comparison of vegetation extent derived from standard NDVI indices applied to both the satellite multispectral data and airborne hyperspectral data showed good correlation. The higher level of spatial detail is also apparent when compared with earlier results from Landsat data (Figure 3). Vegetation extent derived from more advanced indices based on the higher resolution hyperspectral data also showed good correlation (e.g. Figure 4 shows one such comparison for part of Leonie Island). This gives us good confidence that satellite multispectral data can be used to map vegetation consistently over the Antarctic Peninsula.
+The next steps will focus on answering two further key questions. Firstly, are the vegetation indices detecting all vegetation types prevalent in the Antarctic Peninsula environment and, secondly, is it possible to identify assemblages of different vegetation types using the hyperspectral or multispectral data?
+The next steps will require the following developments:
+    • Further improve and validate the methods used for correction of terrain distortions (especially important in areas of steep terrain) and atmospheric corrections to ensure comparable data from airborne, satellite and in situ observations.
+    • Use in situ spectral measurements and vegetation quadrat survey data to establish spectral profiles of Antarctic Peninsula vegetation types. Then use this information as a priori data in spectral unmixing and classification techniques to map the distribution of vegetation types and determine which are identified by the standard vegetation indices.
+Recommendations
+The United Kingdom notes the priority given in ATME Recommendations and in the CEP Five Year Work Plan to addressing the implications of climate change. The UK believes that the techniques outlined in this paper could make a step-change contribution in improving the evidence base for the monitoring of vulnerable sites, including Antarctic Specially Protected Areas. 
+
+We recommend that the CEP:
+
+    1. Acknowledges the significant value offered by the combination of satellite and aerial monitoring as a new technique for gathering detailed evidence of vegetation change, linked to localised climate change.
+
+    2. Encourages Parties with work programmes related to vegetation change to consider collaboration with the UK in further developing and applying these monitoring techniques. In particular to identify particular geographic areas or scientific programmes suitable for these techniques.
+
+    3. Invites Parties to comment on the methodology and to share their experiences of applying similar techniques.
+
+Figure 1: The ITRES CASI-1500, SASI-600 and TASI-600 installation in the BAS Twin Otter aircraft.
+
+Figure 2: Flight line locations (red) of data acquired during the February 2011 ITRES hyperspectral field season.
+
+Figure 3: Earlier lower resolution NDVI information from Landsat ETM+ data for Leonie Island.
+
+
+Vegetation highlighted from satellite imagery (NDVI; Digital Globe WV2).
+Vegetation highlighted from airborne imagery (modified red edge NDVI; CASI hyperspectral data).
+Figure 4: Vegetation highlighted for part of western Leonie Island, Ryder Bay, Antarctic Peninsula.
+
+

@@ -1,0 +1,328 @@
+Observing systems in Antarctica
+Observing systems in Antarctica
+Information Paper submitted by SCAR
+Summary
+Well-supported, long-term monitoring of the physical and living
+environment is essential to understanding ongoing environmental
+changes in Antarctica. The collection of long-term observations is
+critical for detecting and understanding change, and to obtain data
+needed as the basis for analyses and modelling. This paper provides
+an overview and examples of current long-term observation efforts
+in Antarctica, to inform further work to assess gaps and to establish
+sustained and coordinated observing systems. 
+SCAR dedicates this paper to Prof Craig Cary (1954-2024), a
+distinguished Antarctic ecologist, teacher, mentor, and long-
+standing SCAR expert. Craig was instrumental in setting up and
+chairing the Antarctic Nearshore and Terrestrial Observation
+System (ANTOS), which aims to develop a trans-continental,
+biologically-focused, coordinated observation system to identify and
+track environmental variability and change. ANTOS was set up with
+a long-term vision – it was Craig’s wish that ANTOS should extend
+well past the life of any researcher.
+Background
+The 2022 SCAR Antarctic Climate Change and the Environment
+report (Chown et al., 2022) identified the critical importance of
+long-term monitoring programmes and observatories in the first of
+its research recommendations:
+ACCE Research Recommendation 1: Further support the research
+required to reduce uncertainty about the future of the region and its
+impact on the Earth System and to identify commensurate
+management responses. Integrated, international and targeted long-
+term monitoring programs and observatories are among the most
+important for reducing uncertainty and for understanding the likely
+impacts of mitigation and adaptation responses.
+The ATCM has also recognised that well-supported, long-term
+monitoring of the physical and living environment is essential to
+understanding ongoing environmental changes in Antarctica.
+(ATCM XLV Final Report, paragraph 180). The Meeting encouraged
+Parties to ensure that data collected in Antarctica would be made
+available to the international scientific community, to facilitate
+better understanding of climate change impacts and enable
+informed decision-making.
+Parties also noted the relevance of this aim to the CEP’s plans to
+progress the development of a harmonised approach to
+environmental monitoring by identifying and analysing existing
+monitoring activities and available data. 
+ATCM XLV Working Paper 31 explored the state of coordinated
+observing efforts in Antarctica, including the Troll Observing
+Network (TONe), and suggested actions toward further coordinated,
+comprehensive and complimentary observation networks. It
+recommended that the ATCM invite SCAR to give Parties an
+overview and assessment of Antarctic long-term observation efforts
+to enhance their use and robustness, as well as to identify gaps in
+observation needs. This paper is a first step towards providing
+information on existing observation efforts, and SCAR will continue
+to develop further work on assessing gaps and facilitating
+collaboration.
+Observing and monitoring
+The routine collection of long-term observations is critical for
+detecting and understanding change, and to obtain data needed as
+the basis for analyses and modelling. 
+Nations operate regionally in Antarctica and the Southern Ocean,
+which without coordination and collaboration, leads to patchy
+observational coverage and a lack of circumpolar integration. A
+fully integrated, coordinated and sustained observing system would
+involve national and multinational investigations, sustained time-
+series and internationally coordinated programs operating to
+facilitate aspects of planning, organization, collection and
+management of specific observational data and/or platforms. 
+Internationally coordinated observing programs ensure sustained
+data delivery of a core set of variables, using prescribed platforms,
+methods and standards. Combined, these various programs and
+infrastructure form the backbone of an observing system and are
+integral to efforts to deliver sustained observations. In addition,
+other internationally coordinated programmes exist that facilitate
+and coordinate the planning, organisation, collection, and
+management of observational data. 
+Over the last fifteen years, the number of Antarctic and Southern
+Ocean observations has increased considerably. This includes
+observations from national and multinational investigations varying
+from mid-length, science question-focused observing efforts (>4
+years) to the short, more process-focused studies (<4 years) which
+make a significant contribution to the coverage of data required in
+an observing system. In addition, observations collected through
+sustained time-series provide long-term observational efforts (+10
+years) that provide vital data for revealing ongoing change at
+decadal scales. 
+Examples of current long-term observation efforts
+The information on current long-term observation efforts provided
+here is not exhaustive, but highlights some of the investigations and
+programs currently established both regionally and at a continental
+or oceanic scale, and those planned for further development.
+National/multinational investigations
+East Antarctic Monitoring Program (Australia) – aims to deliver
+sustained, coordinated, and long-term (multi-decadal) observations
+of essential climate, ocean and biological/ecological variables in
+key areas of East Antarctica and the Southern Ocean at the
+appropriate temporal and spatial scales.
+Ross Sea-far East Antarctic Region observing system (RSfEAR) (Heil
+et al., 2023) – aims to deliver an integrated observing system for
+the Ross Sea-far East Antarctic region including observations to
+cover sea-ice, oceanic, and atmospheric drivers.
+Integrated Marine Observing System (IMOS) (Australia) – sustained
+ocean observing infrastructure, including animal tagging, Argo
+floats, deep-water moorings and satellite observations.
+Grupo de Oceanografia de Altas Latitudes (GOAL) (Brazil) – ocean
+ventilation process and carbon cycle in the Northern Antarctic
+Peninsula.
+Ocean Cryosphere Exchanges in ANtarctica: Impacts on Climate and
+the Earth system (OCEAN:ICE) (EU and UK) – aims to make
+circumpolar observations with a focus on understanding how the
+Antarctic ice sheet and the surrounding Southern Ocean influence
+our global climate, and reducing the level of uncertainty around
+how much ice will be lost from the Antarctic ice sheet in the
+coming centuries.
+Heart of the East AnTarctic Cryosphere-Ocean Synergy System
+(HEAT-CROSS) (Japan) – aims to elucidate the mechanism of mass
+loss from the East Antarctic Ice Sheet and its impacts on
+biogeochemical cycle in the surrounding Southern Ocean.
+Robotic Observations and Modelling of the Marginal Ice Zone
+(ROAM-MIZ) (Sweden) – aims to capture high resolution
+observations of how the upper ocean near and under sea ice
+responds to sea ice growth or melt.
+Southern Ocean Carbon and Climate Observations and Modeling
+(SOCCOM) (USA) – focused on the influence of the Southern Ocean
+on climate. A large array (~200) of profiling floats with
+biogeochemical sensors will be deployed throughout the Southern
+Ocean to develop a new observing system for carbon, nutrients, and
+oxygen that will complement and expand on the existing observing
+system for heat and freshwater.
+Weddell Sea Observatory of Biodiversity and Ecosystem Change
+(WOBEC) (Belgium, Germany, Italy, The Netherlands, Norway,
+Poland, Sweden, USA) – aims to establish a systematic ecosystem
+monitoring framework in the Eastern Weddell Sea, to support the
+assessment of how ecosystems will change under progressing sea-ice
+decline, ocean warming and ocean acidification.
+Sustained time-series programs
+Antarctic Automatic Weather Stations (AntAWS) – measurement of
+meteorological parameters from 267 current automatic weather
+stations, 27 of which have been operating for more than 30 years
+(Wang et al., 2023). The SCAR MetREADER (Reference Antarctic
+Data for Environmental Research) database contains monthly mean
+surface and upper air climatological data derived from the in-situ
+meteorological observations made at Antarctic stations with long-
+term records (see Figure 1). MET-READER also contains available
+metadata about changes of instrumentation and station location.
+Data are available on temperature, surface pressure, wind speed/
+direction and geopotential height. The web site is updated each
+month using data received over the WMO Global
+Telecommunications System.
+Palmer Station Long-Term Ecological Research (Pal-LTER) (USA) –
+marine ecology of the western Antarctic Peninsula area (since
+1990), including: physical forcing (atmospheric, oceanic and sea
+ice) of the ecosystem with emphasis on the ecological consequences
+of sea-ice variability; biological processes with emphasis on
+microbial, primary production and the life-history parameters of
+secondary producers (krill) and apex predators (penguins);
+physical/optical/chemical/biological modeling that links ecosystem
+processes to environmental variables.
+Rothera Time Series (RaTS) (UK) – sustained year-round
+oceanographic measurements (since 1997) relevant to
+investigations of climate change impacts on the ocean and
+ecosystem, and their feedbacks. The time series includes water
+column profile data (such as temperature, salinity, fluorescence)
+and discrete sample measurements (ammonium, nitrate, nitrite,
+phosphate, silicic acid and oxygen isotopes), which inform on
+physical and biogeochemical ocean variability on timescales from
+days to decades. Direct observations of sea ice conditions are also
+collected. (Venables et al., 2023). RaTS is also a key contribution to
+the Pal-LTER programme.
+Potter Cove Time Series (Argentina/Germany) – dynamics of coastal
+hydrography, sea ice, and productivity (since 1991).
+Marine Ross Sea Observation (MORSea) (Italy) – moorings deployed
+(since 1994) to monitor the oceanographic condition of the shelf
+waters, and to study the biogeochemical cycles of the largest
+Antarctic continental shelf sea and most biologically productive
+region of the Southern Ocean.
+Troll Observing Network (TONe) (Norway) – comprehensive
+infrastructure which aims to contribute significantly to observation
+and data gathering efforts, centred at the Norwegian Antarctic
+research station Troll. By utilizing TONe infrastructure and
+observations the research community will be able to answer
+questions and generate knowledge related to climate and sea-level
+change, atmosphere dynamics, solid Earth structure, cryosphere
+dynamics, space weather
+effects, robustness of communication networks, quality of weather
+and climate models, and the effects of global changes on marine
+ecosystems.
+Internationally coordinated observing programs
+Southern Ocean Observing System (SOOS) – an international
+initiative of SCAR and the Scientific Committee on Oceanic
+Research (SCOR) with the mission to facilitate the sustained
+collection and delivery of essential observations of the Southern
+Ocean to all stakeholders, through design, advocacy, and
+implementation of cost-effective observing and data delivery
+systems. SOOS is achieving this through building collaborative
+networks and products that align priorities, supporting resource
+sharing across the international community and removing barriers
+to collaboration. SOOSmap provides curated and standardised
+observation data from oceanographic and Antarctic research
+programs from many nations and scientific disciplines (Figure 2).
+Maps of existing observational coverage and data availability are
+being developed by SOOS Regional Working Groups for SOOS
+Science Themes including cryosphere, circulation, carbon and
+biogeochemistry, ecosystems and biodiversity (Figure 3), and
+ocean–sea ice–atmosphere fluxes (see ATCM XLV IP168 Status of
+Southern Ocean Observational Coverage).
+SCAR Antarctic Near-Shore and Terrestrial Observation System
+(ANTOS) – aims to establish a biologically focussed, integrated and
+coordinated Antarctic-wide observation, to identify and track
+environmental variability and change at biologically relevant scales,
+and to use this information to inform biological, physical, and earth
+science studies. Establishment of at least one ANTOS site in each
+Antarctic and Sub-Antarctic bioregion, including each of the 16
+Antarctic Conservation Biogeographic Regions (ACBRs) is desired to
+begin to meet the goal of comprehensive spatial coverage.
+Thirteen potential ANTOS sites have been identified in the Antarctic
+Treaty Area, following a consultation process that included two
+SCAR community surveys to assess where long-term biological
+monitoring is currently occurring (see Figure 4) and to nominate
+other potential sites.
+SCAR Antarctic Permafrost, Soils and Periglacial Environments
+(ANTPAS) Expert Group – aims to develop an internationally
+coordinated, web-accessible database and monitoring system on
+Antarctic permafrost and soils, including a system of boreholes
+providing data on permafrost and soils properties, records of past
+environmental change, and recording permafrost responses to
+climate change.
+Network for the Collection of Knowledge on Melt of Antarctic Ice
+Shelves (NECKLACE) – aims to facilitate a long-term circum-
+Antarctic network of instruments to provide time series of basal
+melt rates from Antarctic ice shelves. This would provide urgently
+needed control and validation data for models of ice shelf- ocean
+interaction, and a source of ground truth for satellite-derived
+estimates of average ice shelf basal melt rates. The goal is for
+circum-Antarctic coverage over a time interval of roughly five years
+but to provide the basis for longer-term monitoring.
+Global Sea Level Observing System (GLOSS) – tide gauge
+observations provide information on a wide spectrum of
+oceanographic processes, ranging from surface and internal tides to
+surface currents and ocean eddies. In situ observations of sea level
+are also needed to monitor and understand global sea level rise, as
+well as interannual to decadal sea level variations, which provide
+insight into ocean circulation changes on climate time scales. There
+are currently 11 core network stations around the coast of
+Antarctica.
+Considerations for further development of observing systems
+It is more pressing than ever to have an integrated, sustained and
+coordinated observing system to provide an understanding of the
+current Southern Ocean and Antarctic conditions, inform
+predictions of future states, and support policies and regulations for
+the benefit of society. This
+system requires coordinated observations from the entire southern
+polar region to understand larger-scale processes and such as an
+understanding of the impact of the Southern Ocean on heat,
+freshwater and carbon exchange and storage on the global ocean
+and understanding the changes in the Antarctic Ice Sheet and its
+impact on global sea level. Regional efforts nested within these
+broader perspectives are also important to understand how regional
+physical changes are impacting ecology and biogeochemistry such
+as the changing sea ice conditions on key species in regional food
+webs. 
+Due to the size and unique governance of the Southern Ocean and
+Antarctic, this requires international agreement, coordination and
+collaboration to determine the priority observations to be collected,
+and internationally coordinated data management and delivery. The
+community needs to align and advocate for scientific and
+observational priorities to provide a unified voice to funders,
+national programs and intergovernmental agencies. Integrated
+networks, tools and opportunities need to occur across nations,
+organisations, programs and stakeholders to deliver sustained and
+coordinated observing and data delivery systems.  
+The growth in observations is projected to increase considerably
+into the future with the development, capability and use of
+autonomous, remote and robotic systems driving a step change in
+Antarctic and Southern Ocean observing systems, allowing
+observations to be collected at previously difficult to observe
+seasons and/or regions to leverage improved data collection and
+coverages, scientific outcomes and coordination.
+Priorities for further development of Antarctic observing systems
+could include key areas highlighted in the SCAR ACCE Report, e.g.
+permafrost (active layer thickness), sea ice extent, ice sheet
+processes (Marine Ice Sheet Instability and Marine Ice Cliff
+Instability), long-term monitoring of terrestrial and marine
+biodiversity, and species colonisations, local extinctions and
+invasions.
+Further assessment and community consultation is needed to
+identify gaps in current observations, at both the circumpolar scale
+and regional scales. Antarctic Conservation Biogeographic Regions
+could be further used to help define observational requirements and
+coverage (e.g. Figure 4). Further assessment of gaps in observing
+systems could be undertaken by the joint CEP/SC-CAMLR
+workshop, particularly recognising the common interest in Southern
+Ocean observations. Large-scale, internationally collaborative
+programmes such as Antarctica InSync and the International Polar
+Year will also provide an opportunity to establish sustained and
+coordinated observing systems.
+References
+Heil, P, Stevens C., Lee W.S. et al. (2023) Bridging the gap for ice–
+ocean–ecosystem processes: integrated observing system for the
+Ross Sea-far East Antarctic Region. Front. Mar. Sci. 10:1206119.
+doi: 10.3389/fmars.2023.1206119.
+Terauds, A., & Lee, J. R. (2016). Antarctic biogeography revisited:
+updating the Antarctic Conservation Biogeographic Regions.
+Diversity and Distributions, 22(8), 836-840.
+Venables, H., Meredith, M.P., Hendry, K.R. et al. (2023) Sustained,
+year-round oceanographic measurements from Rothera Research
+Station, Antarctica, 1997-2017. Scientific Data, 10. https://
+doi.org/10.1038/s41597-023-02172-5.
+Wang, Y., Zhang, X., Ning, W. et al. (2023) The AntAWS dataset: a
+compilation of Antarctic automatic weather station observations.
+Earth System Science Data. 15, 411-429. https://doi.org/10.5194/
+essd-15-411-2023
+Figure 1: Automatic Weather Stations in Antarctica (2023). https://
+amrc.ssec.wisc.edu/aws/index.html
+Figure 2: The growth of the observing system showing all data
+available through SOOSmap (as of December 2021) and a timeline
+highlighting key example observational platforms, programs and
+tools that contribute to SOOS.
+Figure 3: Example map of existing observational coverage and data
+availability for SOOS Science Themes – understanding and
+quantifying the state and variability of Southern Ocean ecosystems
+and biodiversity. See ATCM XLV IP168 Status of Southern Ocean
+Observational Coverage for additional maps.
+Figure 4: Map of Antarctic Conservation Biogeographic Regions
+(ACBRs) (modified from Terauds & Lee, 2016), with current long-
+term biological monitoring efforts described in ANTOS survey
+responses (yellow dots). ACBRs highlighted in red do not have
+active long-term biological monitoring.

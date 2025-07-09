@@ -1,0 +1,2284 @@
+﻿
+
+
+
+
+
+The Antarctic Observing Network (AntON) to facilitate weather and climate information
+
+
+
+
+
+
+
+
+The Antarctic Observing Network (AntON) to facilitate weather and climate information
+Introduction
+Antarctica is a very data sparse area of the world and so it is important to maximise use of all of the meteorological and other data that are collected there for weather, climate and other research and operational activities. These data are useful for both the Global Cryosphere Watch (GCW) and for the Year of Polar Prediction (YOPP – see separate IP 15). However, the density of the current surface and upper-air stations is much less than that desirable to properly characterize Antarctic weather and climate.
+Both WMO (through its Executive Council Panel of Experts on Polar and High Mountain Observations, Research and Services and its Antarctic Task Team) and the Scientific Committee on Antarctic Research (SCAR) through its Expert Group on Operational Meteorology in the Antarctic aim to maximise the dissemination and use of such data through the Antarctic Observing Network (AntON). 
+
+The Antarctic Observing Network (AntON)
+AntON consists of manned and automatic weather stations currently in operation in Antarctica and the sub Antarctic islands. The current list (as of end Feb. 2016) is provided in Appendix 1 and is also available online (see below). The network distribution is updated on a regular basis when new details about stations are received (e.g. new installations, removals or failures). A subset of AntON makes up the Antarctic part of the Global Climate Observing System (GCOS) Surface Network (GSN). The British Antarctic Survey (BAS) carries out the GCOS monitoring for Antarctica and is also registered as a Data Collection or Production Centre for Antarctica under the auspices of the WMO Information System (WIS). Details about the monitoring can be found on the monitoring page at http://tinyurl.com/j7f5okr. This site also contains resources for national operators to see the quantity and quality of their observations and also links to online resources.
+Using AntON is a way of ensuring people know of the sites where data are available, but it does rely on national operators making WMO aware of any new installations or sites that are no longer functioning. 
+In addition to keeping a list of the operational meteorological sites in Antarctica, WMO and SCAR, through BAS also monitor the meteorological reports from ships that are operating in Antarctic waters (see Appendix 2). All ships operating in Antarctic waters are encouraged to make meteorological observations and then to transmit them on the Global Telecommunications System (GTS) to make them available through the WMO Information System. More details about doing this can be found in the ships section of the monitoring page.
+Aircraft operating in Antarctica are asked by the WMO to provide meteorological observations for use in weather forecasting. If an aircraft is fitted with Aircraft Meteorological Data Relay (AMDAR) capability, the system will automatically compile and transmit aircraft meteorological observations over Antarctica. National operators are asked to ensure that all Aircraft Reports generated for aviation purposes that contain meteorological information, including over Antarctica, are sent to one of the International Civil Aviation Organisation World Areas Forecast Centres (WAFCs) so that they can be compiled into bulletins and transmitted1. 
+At present information (metadata) about AntON is only reflected in a list of sites where meteorological data are collected but in future it will also include additional metadata, such as which parameters are recorded at a site, how long they have been measured and if they are manual or automated observations. These metadata will follow the WMO Integrated Global Observing Systems Metadata Standard (WMDS) defined in the WIGOS Manual2 and will be available via the OSCAR database (oscar.wmo.int) of the WMO. The need for such metadata was highlighted in the Outcomes of the Intersessional Contact Group on Information Exchange Requirements at ATCM 383 
+
+Recommendations
+Noting in particular the outcomes of the Intersessional Contact Group on Information Exchange Requirements, WMO and SCAR recommend that Treaty Parties:
+1.     Note the need for the Antarctic Observing Network (AntON) and its associated metadata in accordance with WMO practices4 
+2.     Notify the AntON (AntON@wmo.int) if there are any changes regarding stations/platforms in the Antarctic region where meteorological data are collected
+3.     Provide to the AntON (AntON@wmo.int) whenever possible the metadata concerning which information is collected at each site or ship that relates to meteorology and related (e.g. snow depth) data
+4.     Ensure aircraft operating in Antarctica provide meteorological observations, either through AMDAR or by compiling such information into bulletins and transmitting them to their local WMO Information System/GTS centre.
+
+    1.  
+Appendix 1
+WMO Antarctic Observing Network (AntON)
+
+This list shows the stations currently comprising the Antarctic Observing Network (AntON). It shows whether the stations currently contribute synoptic (S), climate (C) or upper-air (U) synoptic observations to the GTS, whether they are GCOS Surface Network (GSN), GCOS Upper-Air Network (GUAN) or GAW stations. Key stations are those that are GCOS stations or are over 200 km distant from a GCOS station. Station numbers beginning AA are sent on the GTS in SYNOP MOBIL code form. All operational AntON stations are expected to produce CLIMAT messages, provided that they have suitable data.
+
+Note: In addition to AntON stations, a number of other stations in the Southern Ocean (within the responsibility of RAs I, III and IV) lie in the EC-PORS zone of interest and are, therefore, listed below AntON for information.
+
+Abbreviations:  X = message or data expected; NO = not operational; 
+Add = suggestion for addition to the RBCN; Closed = GAWSIS indicates station is closed or inactive.  
+
+Updates: 
+2015 August 3 – 89536 and 89558 added
+2015 November 2 – 89079 and 89776 added
+2016 January 15 – 89011 and 89047 added
+
+Antarctic stations
+WMO no
+Station
+Operator
+
+S
+U
+Key
+GSN
+GUAN
+GAW
+88963
+Esperanza
+Argentina
+
+X
+
+X
+X
+
+
+88968
+Orcadas
+Argentina
+
+X
+
+X
+X
+
+
+89002
+Neumayer
+Germany
+
+X
+X
+X
+X
+X
+X
+89003
+Halvfarryggen EP11
+Netherlands
+AWS
+X
+
+
+
+
+
+89004
+SANAE
+South Africa
+
+X
+
+X
+X
+
+
+89009
+Amundsen-Scott
+USA
+
+X
+X
+X
+X
+X
+X
+89011
+Soerasen
+Germany
+
+NO
+
+
+
+
+
+89013
+Baldrick 
+UK (BAS)
+AWS
+X
+
+X
+
+
+
+89014
+Nordenskiold
+Finland
+AWS
+X
+
+X
+
+
+
+89022
+Halley
+UK (BAS)
+
+X
+X
+X
+X
+X
+X
+89034
+Belgrano II
+Argentina
+
+X
+
+X
+
+
+X
+89047
+Filchner
+Germany
+
+NO
+
+X
+
+
+
+89049
+AGO-2
+USA (USAP)
+AWS
+NO
+
+X
+
+
+
+89050
+Bellingshausen
+Russia
+
+X
+
+X
+X
+
+
+89051
+Petrel
+Argentina
+AWS
+
+
+
+
+
+
+89053
+Base Carlini
+Argentina
+
+X
+
+X
+
+
+X
+89054
+Dinamet
+Uruguay
+
+X
+
+
+
+
+X
+89055
+Marambio
+Argentina
+
+X
+X
+X
+X
+X
+X
+89056
+Frei
+Chile
+
+X
+
+X
+X
+
+X
+89057
+Arturo Prat
+Chile
+AWS
+X
+
+
+
+
+
+89058
+Great Wall
+China
+
+X
+
+
+
+
+
+89059
+O'Higgins
+Chile
+
+X
+
+X
+
+
+
+89061
+Palmer
+USA
+
+X
+
+X
+
+
+X
+89062
+Rothera
+UK (BAS)
+
+X
+X
+X
+X
+
+X
+89063
+Vernadsky
+Ukraine
+
+X
+
+X
+X
+
+X
+89064
+Juan Carlos I
+Spain
+
+X
+
+
+
+
+
+89065
+Fossil Bluff
+UK (BAS)
+AWS
+X
+
+X
+X
+
+
+89066
+San Martin
+Argentina
+
+X
+
+X
+
+
+X
+89070
+Gabriel de Castilla
+Spain
+
+
+
+
+
+
+
+89079
+Criosfera 1
+Brazil
+
+X
+
+X
+
+
+
+89087
+Thiel Mountains
+USA (ANI)
+AWS
+X
+
+X
+
+
+
+89108
+Henry
+USA (UoW)
+AWS
+X
+
+X
+
+
+
+89132
+Russkaya
+Russia
+AWS
+X
+
+X
+
+
+
+89251
+King Sejong
+Rep. of Korea
+
+X
+
+
+
+
+X
+89252
+Comandante Ferraz
+Brazil
+
+NO
+
+
+
+
+
+89253
+Joinville Island
+Brazil
+AWS
+NO
+
+
+
+
+
+89257
+Limbert 
+UK (BAS)
+AWS
+X
+
+X
+
+
+
+89260
+Larsen B Scar Inlet
+Netherlands
+AWS
+
+
+
+
+
+
+89262
+Larsen Ice Shelf
+UK (BAS)
+AWS
+X
+
+X
+X
+
+
+89265
+Larsen C North
+Netherlands
+AWS
+
+
+
+
+
+
+89266
+Butler Island
+UK (BAS)
+AWS
+X
+
+X
+X
+
+
+89267
+Larsen C South
+Netherlands
+AWS
+
+
+
+
+
+
+89269
+Bonaparte Point
+USA (UoW)
+AWS
+X
+
+
+
+
+
+89272
+Sky Blu
+UK (BAS)
+AWS
+X
+
+X
+X
+
+
+89314
+Theresa
+USA (UoW)
+AWS
+X
+
+X
+
+
+
+89324
+Byrd Station
+USA (UoW)
+AWS
+X
+
+X
+X
+
+
+89327
+Mount Siple
+USA (UoW)
+AWS
+X
+
+X
+X
+
+
+89329
+Harry
+USA (UoW)
+AWS
+X
+
+X
+X
+
+
+89332
+Elizabeth
+USA (UoW)
+AWS
+NO
+
+X
+
+
+
+89345
+Siple Dome
+USA (UoW)
+AWS
+X
+
+X
+X
+
+
+89376
+Gill
+USA (UoW)
+AWS
+X
+
+X
+X
+
+
+89377
+Lettau
+USA (UoW)
+AWS
+X
+
+X
+X
+
+
+89504
+Troll
+Norway
+AWS
+X
+
+X
+
+
+
+89507
+Kohnen EP9
+Netherlands
+AWS
+X
+
+X
+
+
+
+89512
+Novolazarevskaya
+Russia
+
+X
+X
+X
+X
+X
+Closed
+89514
+Maitri
+India
+
+X
+
+
+
+
+X
+89526
+Princess Elisabeth
+Belgium
+
+X
+X
+
+
+
+X
+89528
+AGO-3
+USA (USAP)
+AWS
+NO
+
+
+
+
+
+89532
+Syowa
+Japan
+
+X
+X
+X
+X
+X
+X
+89536
+Plateau
+Netherlands
+AWS
+X
+
+X
+
+
+
+89542
+Molodeznaja
+Russia
+AWS
+X
+
+X
+
+
+
+89558
+Pole of Relative Inaccessibility
+Netherlands
+AWS
+X
+
+X
+
+
+
+89564
+Mawson
+Australia
+
+X
+X
+X
+X
+X
+Unknown
+ 
+Taishan
+China
+
+
+
+X
+
+
+
+89570
+Davis (Whoop Whoop)
+Australia
+AWS
+X
+
+
+
+
+
+89571
+Davis
+Australia
+
+X
+X
+X
+X
+X
+X
+89573
+Zhongshan
+China
+
+X
+
+X
+X
+
+X
+89574
+Progress
+Russia
+
+X
+
+X
+X
+
+
+89575
+Druzhnaya 4
+Russia
+AWS
+X
+
+
+
+
+
+89577
+Dome A
+Australia
+AWS
+X
+
+X
+X
+
+
+89578
+Eagle
+Australia
+AWS
+X
+
+X
+
+
+
+89586
+Davis (Mount Brown)
+Australia
+AWS
+NO
+
+X
+
+
+
+89592
+Mirnyj
+Russia
+
+X
+X
+X
+X
+X
+Closed
+89598
+AGO-4
+USA (UoW)
+AWS
+NO
+
+X
+
+
+
+89601
+Oazic Bangera
+Russia
+AWS
+X
+
+
+
+
+
+89606
+Vostok
+Russia
+
+X
+
+X
+X
+
+Closed
+89610
+Casey (Cape Poinsett)
+Australia
+AWS
+NO
+
+X
+
+
+
+89611
+Casey
+Australia
+
+X
+X
+X
+X
+X
+X
+89614
+Wilkins Runway West
+Australia
+AWS
+X
+
+
+
+
+
+89615
+Wilkins Runway East
+Australia
+AWS
+X
+
+
+
+
+
+89625
+Concordia
+Italy
+
+X
+X
+X
+X
+
+X
+89628
+AGO-1
+USA (USAP)
+AWS
+NO
+
+X
+
+
+
+89642
+Dumont d’Urville
+France
+
+X
+X
+X
+X
+X
+X
+89643
+Port Martin
+USA (UoW / France)
+AWS
+NO
+
+
+
+
+
+89646
+Sitry (Irene)
+Italy
+AWS
+X
+
+X
+
+
+
+89648
+Mid Point (Giulia)
+Italy
+AWS
+X
+
+X
+
+
+
+89657
+Leningradskaya
+Russia
+AWS
+X
+
+X
+
+
+
+89659
+Priestley Nevee (Modesta)
+Italy
+AWS
+X
+
+X
+
+
+
+89661
+Cape Phillips (Silvia)
+Italy
+AWS
+X
+
+X
+
+
+
+89662
+Mario Zuchelli Station
+Italy
+
+X
+X
+X
+X
+
+
+89664
+McMurdo
+USA
+
+X
+X
+X
+X
+X
+X
+89665
+Scott Base
+New Zealand
+
+
+
+X
+
+
+X
+89666
+Cape Ross (Arelis)
+Italy
+AWS
+X
+
+X
+
+
+
+89667
+Pegasus North
+USA (UoW)
+AWS
+X
+
+X
+
+
+
+89671
+Cape Hallett
+USA (UoW)
+AWS
+
+
+
+
+
+
+89734
+Dome Fuji
+USA (UoW/Japan)
+AWS
+X
+
+
+
+
+
+89744
+Relay Station
+USA (UoW/Japan)
+AWS
+X
+
+X
+X
+
+
+89767
+Amery Ice Shelf (G3)
+Australia
+AWS
+X
+
+X
+
+
+
+89768
+Minna Bluff
+USA (UoW)
+AWS
+X
+
+
+
+
+
+89769
+Linda
+USA (UoW)
+AWS
+X
+
+
+
+
+
+89776
+Bharati
+India
+
+X
+
+
+
+
+
+89799
+Nico
+USA (UoW)
+AWS
+X
+
+X
+
+
+
+89807
+Casey (Snyder Rocks)
+Australia
+AWS
+X
+
+
+
+
+
+89809
+Casey Skiway South
+Australia
+AWS
+NO
+
+X
+
+
+
+89811
+Casey (Law Dome Summit)
+Australia
+AWS
+X
+
+X
+
+
+Unknown
+89815
+Casey (Haupt Nunatak)
+Australia
+AWS
+X
+
+
+
+
+
+89828
+Dome C II
+USA (UoW / France)
+AWS
+X
+
+X
+X
+
+
+89832
+D-10
+USA (UoW / France)
+AWS
+X
+
+
+
+
+
+89834
+D-47
+USA (UoW / France)
+AWS
+X
+
+
+
+
+
+89836
+D-85
+USA (UoW / France)
+AWS
+NO
+
+X
+
+
+
+89859
+Jang Bogo
+South Korea
+
+X
+X
+
+
+
+
+89864
+Manuela
+USA (UoW)
+AWS
+X
+
+
+
+
+
+89865
+Whitlock
+USA (UoW)
+AWS
+X
+
+X
+X
+
+
+89866
+Marble Point
+USA (UoW)
+AWS
+X
+
+X
+X
+
+
+89868
+Schwerdtfeger
+USA (UoW)
+AWS
+X
+
+
+
+
+
+89869
+Marilyn
+USA (UoW)
+AWS
+X
+
+X
+X
+
+
+89872
+Ferrell
+USA (UoW)
+AWS
+X
+
+X
+X
+
+
+89873
+Elaine
+USA (UoW)
+AWS
+X
+
+
+
+
+
+89879
+Possession Island
+USA (UoW)
+AWS
+X
+
+X
+X
+
+
+
+
+
+
+
+
+
+
+
+
+AAALE
+Cape King (Alessandra)
+Italy
+AWS
+X
+
+
+
+
+
+AABRP
+Bear Peninsula
+USA (UoW)
+AWS
+X
+
+
+
+
+
+AACBD
+Cape Bird 
+USA (UoW)
+AWS
+X
+
+
+
+
+
+AABRI
+Brianna 
+USA (UoW)
+AWS
+X
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+AADIS
+Dismal Island 
+USA (UoW)
+AWS
+X
+
+
+
+
+
+AACDN
+Cape Denison 
+USA (UoW / Australia)
+AWS
+X
+
+X
+
+
+
+AAEML
+Emilia 
+USA (UoW)
+AWS
+X
+
+
+
+
+
+AAEMM
+Emma
+USA (UoW)
+AWS
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AAERN
+Erin 
+USA (UoW)
+AWS
+X
+
+X
+
+
+
+AAEKN
+Evans Knoll
+USA (UoW)
+AWS
+X
+
+
+
+
+
+AAJNT
+Janet
+USA (UoW)
+AWS
+X
+
+X
+
+
+
+AAKMS
+Kominko-Slade 
+USA (UoW)
+AWS
+X
+
+
+
+
+
+AALR2
+Laurie II 
+USA (UoW)
+AWS
+X
+
+
+
+
+
+AALOL
+Tourmaline Plateau (Lola)
+Italy
+AWS
+X
+
+
+
+
+
+AAMGT
+Margaret
+USA (UoW)
+AWS
+X
+
+
+
+
+
+AAMIZ
+Mizuho 
+USA (UoW/Japan)
+AWS
+X
+
+X
+
+
+
+AAPEG
+Pegasus South 
+USA (UoW)
+AWS
+NO
+
+
+
+
+
+AAPET
+Peter I Oy
+USA (UoW)
+AWS
+NO
+
+X
+
+
+
+AAPIG
+Pine Island Glacier
+USA 
+AWS
+NO
+
+X
+
+
+
+AARIT
+Enigma Lake (Rita)
+Italy
+AWS
+X
+
+
+
+
+
+AASAB
+Sabrina
+USA (UoW)
+AWS
+X
+
+
+
+
+
+AASOF
+Sophia-B
+Italy
+AWS
+X
+
+
+
+
+
+AATHI
+Thurston Island
+USA (UoW)
+AWS
+X
+
+X
+
+
+
+AAUNI
+Union Glacier
+USA (ANI)
+AWS
+X
+
+X
+
+
+
+AAVTO
+Vito 
+USA (UoW)
+AWS
+X
+
+X
+
+
+
+AAWFD
+Willie Field 
+USA (UoW)
+AWS
+X
+
+
+
+
+
+AAWDB
+Windless Bight 
+USA (UoW)
+AWS
+X
+
+
+
+
+
+AAZOR
+Priestley Glacier (Zoraida)
+Italy
+AWS
+X
+
+
+
+
+
+
+PANDA-North
+China/Australia
+AWS
+
+
+X
+
+
+
+AANSC
+Nascent
+USA
+AWS
+
+
+
+
+
+
+
+Lindsey Island
+South Korea
+AWS
+
+
+
+
+
+
+
+Criosphera
+Brazil
+AWS
+
+
+
+
+
+
+
+AWS 1
+USA
+AWS
+
+
+
+
+
+
+
+Camp Maudheimvida
+Finland
+AWS
+
+
+
+
+
+
+
+JASE 2007
+Japan
+AWS
+
+
+
+
+
+
+AAPDS
+PANDA-South
+USA (UoW) / China
+AWS
+
+
+
+
+
+
+
+Paola
+Italy
+AWS
+
+
+
+
+
+
+AAMP2
+Marble Point II
+USA (UoW)
+AWS
+
+
+
+
+
+
+AALOR
+Lorne
+USA (UoW)
+AWS
+
+
+
+
+
+
+AABAT
+Alexander Tall Tower!
+USA (UoW)
+AWS
+
+
+
+
+
+
+
+Sub Antarctic stations (in Region I, III or V)
+WMO no
+Station
+Operator
+Type
+S
+RBSN
+C
+RBCN
+GSN
+U
+GUAN
+GAW
+61997
+Isle Crozet
+France
+
+X
+X
+X
+X
+X
+
+
+X
+61998
+Isle Kerguelen
+France
+
+X
+X
+X
+X
+X
+X
+X
+X
+68906
+Gough Island
+South Africa
+
+X
+X
+X
+X
+X
+X
+X
+
+68992
+Bouvetoya
+Norway
+
+NO
+X
+X
+X
+X
+
+
+
+68994
+Marion Island
+South Africa
+
+X
+X
+X
+X
+X
+X
+X (NO)
+Closed
+88870
+Mount Byron
+UK
+AWS
+X
+
+X
+
+
+
+
+
+88878
+Pebble Island
+UK 
+AWS
+X
+
+X
+
+
+
+
+
+88881
+Mount Kent
+UK
+AWS
+X
+
+X
+
+
+
+
+
+88883
+Weddell Island
+UK 
+AWS
+X
+
+X
+Add 
+
+
+
+
+88889
+Mount Pleasant Airport
+UK
+
+X
+X
+X
+X
+X
+X
+X
+
+88894
+Mount Alice
+UK
+AWS
+X
+
+X
+
+
+
+
+
+88897
+Sea Lion Island
+UK 
+AWS
+X
+
+X
+
+
+
+
+
+88900
+Bird Island
+UK (BAS)
+AWS
+X
+
+X
+Add
+
+
+
+X
+88903
+Grytviken
+UK (BAS)
+AWS
+X
+X
+X
+Add
+X
+
+
+X
+88986
+South Thule Island
+South Africa 
+AWS
+NO
+
+
+Add
+
+
+
+
+93929
+Enderby Island 
+New Zealand
+AWS
+X
+X
+X
+
+
+
+
+
+93947
+Campbell Island 
+New Zealand
+AWS
+X
+X
+X
+X
+X
+
+
+
+94997
+Heard Island (The Spit)
+Australia
+
+NO
+X
+X
+
+
+
+
+
+94998
+Macquarie Island
+Australia
+
+X
+X
+X
+X
+X
+X
+X
+X
+95997
+Heard Island (Atlas Cove)
+Australia
+
+NO
+
+
+
+
+
+
+
+
+
+
+Appendix 2
+
+List of ships that operated in Antarctica during the 2015/16 season, with call signs and names.
+
+The SCAR and WMO request that all ships operating in Antarctic waters should make meteorological observations and report them on the GTS.  
+
+The following ships, which entered Antarctic waters in 2015/2016, made meteorological reports, they may have reported from outside Antarctic waters after the date given here.  For most ships the season begins in November or December and ends in March.  Country is the country of registration, VOS is the country of recruitment.  Monitoring is manual and may miss some ships.  
+
+Call sign	Name	Country	VOS	Arrive	Depart	Latest obs
+5BMC3	Ortelius (Tourist)	Cyprus		2015 November		2016 February
+9HJD9	Celebrity Infinity (Tourist)	USA	US	2016 February		2016 February
+C6JC3	Bremen (Tourist)	Germany	DE	2015 December		2016 February
+C6WR2	National Geographic Explorer (Tourist)	Bahamas	UK	2015 November		2016 February
+C6YZ5	Seabourn Quest (Tourist)	Bahamas	US	2015 December	2016 February	2016 February
+DBLK	RV Polarstern (Research)	Germany	DE	2015 December	2016 February	2016 February
+DDUG	Alcyone (Yacht)	Germany		2016 January	2016 February	2016 February
+DIXX	Dagmar Aaen (Cutter)	Germany		2016 January	2016 February	2016 February
+FHZI	L’Astrolabe (Supply)	France	AU	2015 October		2016 February
+HO-2847	Xplore (Yacht)	New Zealand		2016 January		2016 February
+KAOU	Roger Reville (Research)	USA	US	2016 February	2016 February	2016 February
+OXGN2	Mary Artica (Containership)	Denmark		2016 January	2016 February	2016 February
+PBGH	Prinsendam (Tourist)	Netherlands	US	2016 January	2016 February	2016 February
+PBQK	Plancius (Tourist)	Netherlands	NL	2015 November	2016 February	2016 February
+PDAN	Zaandam (Tourist)	Netherlands	US	2015 December	2016 February	2016 February
+PDZS	Europa (Ice strengthened tall ship)	Netherlands	FR	2016 January		2016 February
+PWAR	Ary Rongel (Navy ice breaker)	Brazil	BR	2015 November		2016 February
+PWPM	Almirante Maximiano (Navy ice breaker)	Brazil		2015 November		2016 February
+SHIP	A			2016 January	2016 January	2016 January
+SHIP	B			2016 February		2016 February
+UCKZ	Akademik Fedorov (Research)	Russia	RU	2015 December	2016 February	2016 February
+VNAA	RV Aurora Australis (Supply)	Australia	AU	2015 November	2016 January	2016 January
+WBP3210	Nathaniel B Palmer (Oceanographic)	USA	US	2015 August		2016 February
+WCX7445	Laurence M Gould (Oceanographic)	USA	US	2015 October		2016 February
+WDG4379	Ocean Giant (Cargo)	USA		2016 January	2016 February	2016 February
+WHKM	Maersk Peary (Oil Tanker)	USA	US	2016 January	2016 February	2016 February
+ZDLP	RRS James Clark Ross (Research)	UK	UK	2015 November	2016 February	2016 February
+ZDLS1	RRS Ernest Shackleton (Supply)	UK	UK	2015 December		2016 February
+ZSNO	SA Agulhas II (Supply)	South Africa		2015 December		2016 February
+
+Notes:
+    1. No Antarctic obs in December - 
+    2. No Antarctic obs in January - 
+    3. No Antarctic obs in February- 
+    4. Obs received by UK Met Office, but frequently missing from Sailwx – Bremen, Dagmar Aaen, Europa, Plancius
+    5. Reports via Yotreps - Alcyone
+    6. Obs occasional – Bremen
+    7. SHIP A sailed roughly from Australia to Casey, which might indicate that it was VNAA
+    8. SHIP B was at 60°S 88.5°E and might be KAOU with an incorrect longitude
+
+
+
+
+
+
+
+
+
+The following ships and yachts are known or suspected to have visited Antarctic waters in 2015/2016, but no synoptic reports were received whilst south of 60° (most records are via Palmer AIS).  Some have position only reports from Antarctica on the sailwx website :
+
+Call sign	Name	Country	VOS	Arrive/Present	Present/Depart	Comment/Last ob
+PG3465	13 Beaufort (Yacht)	Netherlands		2016 February		Yotreps position
+UAUN	Akademik Ioffe (Tourist)	Russia		2015 November	2016 February	
+UAUO	Akademik S Vavilov (Tourist)	Russia		2015 December	2016 February
+	Alvfrida (Yacht)	Sweden		2016 January
+LAWR	Antarctic Sea (Fishing)	Norway		2015 December	2016 January	Fishing off Palmer 
+CCAQ	Aquiles (Supply)	Chile		2016 February	
+DSQL7	Araon (Research)	Korea		2015 December	2016 February	2016 February
+CCLA	ATF Lautaro (Supply)	Chile		2015 December	2016 January
+LOCX	Ara Islas Malvinas (Military)	Argentina		2016 February
+E5U2905	Australis (Yacht)	Cook Is		2015 December	2016 February
+7JBI	Asuka II (Tourist)	Japan		2016 January
+LOCB	Canal Beagle	Argentina		2016 January	
+DB5470	Casa (Yacht)	Germany		2016 January
+9HUT9	Corinthian (Tourist)	Malta		2015 December	2016 February
+C6MY5	Crystal Symphony (Tourist)	Bahamas		2016 January	2016 February
+	Costa (Fishing)	Korea		2015 December		News report	
+PA6942	Dakota (Yacht)	Netherlands		2016 January
+L2EF	Dr Bernardo Houssay (Yacht)	Argentina		2016 January	2016 February
+L4EXP	Edition QQZ (Tourist)	Liberia		2015 December	2016 February
+V7HZ2	Enigma XK (FPV/Yacht)	Marshall Is		2015 December	2016 February
+A8QL4	Expedition (Tourist)	Liberia		2015 December	2016 February
+LADA7	Fram (Tourist)	Norway		2015 November	2016 February
+CCMF	Fuentealba (Millitary Ops)	Chile		2015 December
+L2AA	GC 24 Mantilla (Coastguard)	Argentina		2016 January	2016 February
+C6KA9	Hanseatic (Tourist)	Bahamas		2015 November	2016 February
+V2EI4	Hanse Explorer (Tourist)	Antigua		2015 December	2016 February
+GXRK	HMS Protector (Hydrographic)	UK	UK	2015 December	2016 January	News report
+ZCRY8	Icebird (Yacht)	Cayman Is		2016 January	2016 February
+YJVT7	La Manche (Supply)	Vanuatu		2015 December	2016 January	
+FLTU	L’Austral (Tourist)	W & F		2016 January	2016 February
+FIRS	Le Lyrial (Tourist)	W & F		2015 November	2016 February	
+BZYC	Longda (Trawler)	China		2016 January	2016 February
+BZZQ6	Long Teng (Trawler)	China		2016 January	2016 February
+	Lu Qing Yuan Yu 107 (Fishing)	China		2015 December	2016 February	412331111
+	Lu Qing Yuan Yu 108 (Fishing)	China		2016 January		412331112
+C6TE3	National Geographic Orion (Tourist)	Bahamas		2015 December	2016 February
+C6ZR5	Ocean Diamond (Tourist)	Bahamas		2015 November	2016 February	
+C6CA6	Ocean Endeavour (Tourist)	Bahamas		2015 November	2016 February	
+C6US3	Ocean Nova (Tourist)	Bahamas		2015 December	2016 February
+V7IR6	Ocean Tramp (Yacht)	Marshall Is		2016 January		
+CCOV	Oscar Viel (Supply)	Chile		2015 November	2015 December
+VJT6295	Pagodroma (Yacht)	Australia		2015 December		AIS 699 position
+ZJL6951	Pelagic Australis (Yacht)	Virgin Is		2016 January	2016 February	
+MWSC2	Podorange (Yacht)	UK		2016 January	2016 February
+UBST	Polar Pioneer (Tourist)	Russia		2015 December	2016 February
+NBTM	Polar Star (Icebreaker)	USA		2016 January		News report
+C6TA8	Prince Albert II (Tourist)	Bahamas		2015 November	2016 February	Aka Silver Explorer
+LNSK	Saga Sea (Trawler)	Norway		2015 December	2016 January	Fishing off Palmer 
+DPRL	Sarah W Vorwerk (Yacht)	Germany		2015 December	2016 Februar
+L2EE	SB 15 Tango (Tug)	Argentina		2016 January	2016 February
+C6PG6	Sea Adventurer (Tourist)	Bahamas		2015 November	2016 February	
+C6BG2	Sea Explorer I (Tourist)	Bahamas		2015 November	2016 January
+C6PJ8	Sea Spirit (Tourist)	Bahamas		2015 November	2016 February	
+EBBW	SPS RV Hesperides (Research)	Spain		2016 January	2016 February
+GUMF	Steve Irwin (NGO)	Netherlands		2016 February		News report
+LOCS	Suboficial Castillo (SAR)	Argentina		2016 February
+6KCB	Sun Star (Fishing)	Korea		2015 December		News report
+SM0HDX	SY-DUO (Yacht)	Sweden		2015 December		Yotreps position
+FAB8461	Tarka (Yacht)	France		2016 January
+C6RW4	The World (Passenger)	Bahamas		2015 December	2016 January
+D6FH2	Ushuaia (Tourist)	Comoros		2015 November	2016 February
+OS8477	Vaihere (Yacht)	Belgium		2015 December	2016 February
+UGWJ	Vasiliy Golovnin (Tanker)	Russia		2016 February	
+ZGBG9	Vava II (Motor Yacht, 96m)	Cayman Is		2016 January		
+BNSK	Xue Long (Supply)	China		2015 November	2016 February
+
+
+
+
+
+The following launches are known to have been in Antarctic waters in 2015/16, (records are via Palmer AIS).  Launches are not expected to make meteorological observations :
+
+MMSI	Name	Country		Arrive/Present	Present/Depart	Parent ship
+982589324	Amundsen Tender 4	Norway		2015 December		Fram
+982589325	Wilhelmina Tender 5	Norway		2016 January	2016 February	Fram
+982589326	Anneli Tender 6	Norway		2015 December	2016 February	Fram
+983110011	FRB	Bahamas		2015 December		The World
+985780037	Le Lyrial Tender 2	W&F		2016 January		Le Lyrial
+985780047	Le Lyrial Tender 12	W&F		2016 February		Le Lyrial
+985780024	L’Austral ZOD 01	W&F		2016 January	2016 February	L’Austral
+985780025	L’Austral ZOD 02	W&F		2016 January	2016 February	L’Austral
+985780026	L’Austral ZOD 03	W&F		2016 January		L’Austral
+985780027	L’Austral ZOD 04	W&F		2016 January	2016 February	L’Austral
+985780028	L’Austral ZOD 05	W&F		2016 January	2016 February	L’Austral
+985780029	L’Austral ZOD 06	W&F		2016 January		L’Austral
+985780030	L’Austral ZOD 07	W&F		2016 January	2016 February	L’Austral
+985780031	L’Austral ZOD 08	W&F		2016 January	2016 February	L’Austral
+985780032	L’Austral ZOD 09	W&F		2016 January	2016 February	L’Austral
+985780033	L’Austral ZOD 10	W&F		2016 January		L’Austral
+985780034	L’Austral ZOD 11	W&F		2016 January	2016 February	L’Austral
+985780035	L’Austral ZOD 12	W&F		2016 January	2016 February	L’Austral
+983110034	S’bn Quest Zodiac 8	Bahamas	US	2016 February		Seabourn Quest
+983110036	S’bn Quest Zodiac 4	Bahamas	US	2016 February		Seabourn Quest
+983110038	S’bn Quest Zodiac 10	Bahamas	US	2016 February		Seabourn Quest
+983110039	S’bn Quest Zodiac 5	Bahamas	US	2016 February		Seabourn Quest
+983110040	S’bn Quest Zodiac 2 & 1	Bahamas	US	2016 January	2016 February	Seabourn Quest
+983110041	S’bn Quest Zodiac 6	Bahamas	US	2016 January	2016 February	Seabourn Quest
+983681382	LMG Zodiac 1	USA		2016 January		Laurence M Gould
+983681383	LMG Zodiac 2	USA		2016 February		Laurence M Gould
+	Landing Craft	USA		2016 January		Palmer Station ?
+369970821	Palmer Skiff	USA		2016 January	2016 February	Palmer Station
+369970813	Palmer Zodiac 1	USA		2016 January	2016 February	Palmer Station
+369970817	Palmer Zodiac 5	USA		2016 January	2016 February	Palmer Station
+369970818	Palmer Zodiac 6	USA		2016 January	2016 February	Palmer Station
+369970819	Palmer Zodiac 7	USA		2016 January	2016 February	Palmer Station
+369970820	Palmer Zodiac 8 OSAR	USA		2016 January	2016 February	Palmer Station
+TNG02	Tango2 (Law enforcement)	Argentina		2016 February		SB Tango
+
+
+A list of IAATO member vessels that may visit Antarctica is at http://apps.iaato.org/iaato/vessel/listVessels.jsp.
+
+The following ships may or have operated in Antarctica over the last five years, but are not positively known to have done so in 2015/16.  The list has not been fully updated with VOS status.  The latest report is either the date of any noted on the GTS or the last time the ship was known to be in Antarctic waters, but may not be definitive as this section is updated on an ad-hoc basis:
+
+Call sign	Name	Country	Last Antarctic							 report		Last in Ant.	Latest obs/Comment
+KS085	[Seakeepers AWS]	USA	2010 December	2011 January	2011 January
+KS094	[Seakeepers AWS]	USA	2010 December	2011 January	2011 January
+5KMK	20 de Julio (Military Ops)	Colombia		2015 January	2015 February
+	Ady Gil (NGO)	New Zealand	2010 January		Sank after collision
+ZSAF	Agulhas (Expedition)	South Africa	2013 January	2013 February	2014 April
+UBNF	Akademik Shokalskiy	Russia	2013 December	2014 January	2013 December
+UBXH3	Akademik Tryoshnikov (Research)	Russia	2014 March	2014 April	2014 April
+PBAD	Amsterdam (Tourist)	Netherlands	2012 February	2012 February	2013 January
+PEAR	Anne Margaretha (Yacht)	Netherlands		2015 January	2015 March
+	Antarctic Chieftain (Fishing)	Australia	2015 February		News report
+HQXJ2	Antarctic_Dream (Tourist)	Honduras	2011 November	2012 March
+C6MA9	Arctic P (Yacht)	Bahamas	2013 January
+SGBF	Arianna (Yacht)	Sweden		2015 January
+V7WR4	Asteria (Pleasure)	Marshall Is	2013 December	2014 March
+PCVX	Atlasgracht (Cargo)	Netherlands	2010 March
+9HOB8	Azamara Journey (Passenger)	Malta		2015 January		IAATO 15/16
+9HOM8	Azamara Quest (Tourist)	Malta	2013 January		Reporting in February
+CBTZ	Betanzos (Fishing)	Chile	2013 December
+V7UH7	Big Fish (Pleasure)		2011 January
+5VBR5	Bob Barker (NGO)	Netherlands		2015 February		News report
+	Braveheart	New Zealand	IAATO 15/16
+UBRF9	Chiyo Maru 3 (Trawler)	Russia	2011 December		Nearby UAGL
+MKCG8	Dana Felicia (Yacht)	UK	2013 December	2014 January	2014 January	(1)
+SIGF	Dawnbreaker (Sailing Yacht)	Sweden	2012 January
+C6ZV6	Delphin (Tourist)	Bahamas	2013 January	2013 February	IAATO 14/15
+ZCTD	Deniki (Pleasure yacht)	Cayman Is	2011 December	2012 January
+DMMC	Deutschland (Tourist)	Germany	2010 February
+ZCGL9	Drumbeat (Yacht)	Cayman Is		2015 January	2015 February
+2ATM7	Elinca (Yacht)	UK	2013 December	2013 December	2013 December
+	Endurance of Antarctica		IAATO 13/14
+ZCDZ4	Erica XII (Sloop)	Bermuda	2013 January	2013 February
+ZR2369	Faraway (Yacht)	South Africa	2013 December	2014 January	2014 January	(1)
+2EHX6	Fidelis (Yacht)	UK		2015 January
+FLES	Fleur Australe (Yacht)	France	2013 December	2013 December	2013 December
+BAOC	Fu Rong Hai (Trawler)	China	2013 February
+	Gojira (NGO)		2011 January		News report
+	Golden Fleece (Yacht)		2009 January 	IAATO 15/16
+C6OX6	Hamburg (Tourist)	Bahamas	2012 December	2013 January
+	Hans Hansson		IAATO 15/16
+2CEK7	Happy Thaurus	UK	2012 January
+	HMNZS Otago	New Zealand	2013 November	2014 January	Obs not put on GTS
+ZMFS	HMNZS Wellington	New Zealand		2015 January		News report
+GCUP	HMS Scott	UK	2011 February
+ZCYH4	Hortense (Yacht)	Cayman Is	2013 January	2013 February
+VJT6066	Howard Burton (Pleasure Craft)	Australia		2015 January		AAD AIS
+UIFC	Igarka (Cargo)	Russia	2010 January
+ZR2219	Imvubu (Yacht)	South Africa	2014 January
+V7DM2	Insignia	Marshall Is	2011 January
+VLMJ	Investigator	Australia		2015 February		AIS 116 position
+FHNR	Isatis (Yacht)	New Caledonia	2010 December	2011 February (1)	2011 April (1)
+SPG3305	Isfuglen (Yacht)	Poland		2015 January
+	Island Sky	IAATO 13/14
+UCJE	Ivan Papanin (Container ship)	Russia	2011 November		(3)
+DSBC	Joides Resolution (Research)	USA	2010 February
+UCJP	Kapitan Dranitsyn	Russia	2014 February	2014 February	2016 January
+2CLQ7	Katharsis II (Yacht)	UK		2015 January	2015 February	AIS 116 position
+	Kotick (Yacht)		IAATO 15/16
+	Kunlun (Fishing)	Eq Guinea		2015 January	2015 February	News report
+FZY1954	La Francoise (Yacht)	France	2011 January	2011 January (1)
+EBDG	Las Palmas (Tug)	Spain	2011 December	2012 March
+	LB-01		2014 January
+FLSY	Le Boreal (Tourist)	W & F	ZZ	2014 December	2015 February	IAATO 15/16
+FIHV	Le Soleal (Tourist)	W & F	ZZ	2014 December	2015 March	2016 January
+	Le Sourire (Yacht)		IAATO 15/16
+HBY4333	Libellule (Yacht)	Switzerland		2015 January
+VSBL5	Licorne (Yacht)	Bermuda	2011 January
+GHJV	Lord Nelson (Yacht)	UK	2014 February	2014 March	2014 March
+	Louise (Yacht)		IAATO 13/14
+WMLI	Maersk Illinois (Oil Tanker)	USA	2014 January	2014 February	2014 February
+UDYN	Maksim Starostin (Trawler)	Russia	2010 March
+UFKU	Marina Cvetaeva (Passenger)	Russia	2011 January	2011 March
+WDF4078	Moana Wave (Research)	USA	2011 March
+UYDV	More Sodruzhestva (Fishing)	Ukraine		2015 February
+ZCIS	My Octopus	Cayman Is	2011 February
+V7MH7	MY Suri (Yacht)	Marshall Is	2012 December	2013 January
+2FZX2	Nimrod (RIB)	UK	2013 January		From HMS Protector
+JJCJ	Nisshin Maru (Whaler factory ship)	Japan	2014 January	2014 February	News report
+SMLQ	Oden (Oceanographic)	Sweden	2010 December	2011 February	2016 February
+PGNP	Oosterschelde (Tourist)	Netherlands	2014 January	2014 January	2014 January
+MWSE2	Pakea Bizkaia (Yacht)	UK	2013 January	
+	Paradise (Yacht)		IAATO 15/16
+PY2KAK	Paratii 2 (Yacht)	Brazil	2012 March	2012 April
+	Pelagic (Yacht)		IAATO 15/16
+WSC2276	Point Sur (Dive Vessel)	USA	2013 January	2013 February
+8PPK	Polar Star (Tourist)	USA	2011 January
+L2AE	Prefecto Derbes (Coastguard)	Argentina		2015 January	
+UAKA	Professor Molchanov (Tourist/Research)	Russia	2010 March
+LOPD	Puerto Deseado (Yacht)	Argentina	2013 February		2015 January
+ZGCI4	Pumula (Yacht)	Cayman Is		2015 January
+LW2760	Quijote (Yacht)	Argentina	2013 February
+WTEC	Ron Brown	USA	Came close in 2014	 January	2016 February
+MLRM6	RRS James Cook (Research)	UK	2010 December	2011 February	2016 Februaryr
+WECB	RV Melville (Research)				2013 October
+ZMFR	RV Tangaroa (Research)	New Zealand	2013 February	2013 March	2014 July
+FGE6996	Safari (Yacht)	France		2015 January	2015 February
+VJN4108	Sam Simon (NGO)	Australia		2015 February		News report
+ZM2534	San Aotea II (Long-liner)	New Zealand	2014 January		Internal news
+ZMGO	San Aspiring (Trawler)	New Zealand	2011 December		Rescue UAGL
+	Santa Maria Australis		IAATO 15/16
+9HB2145	Scorpius	Malta	2012 March	2012 April
+V7WD8	Sea Explorer I (Tourist)	Marshall Is		2014 November	2014 December	Presumably re-registered
+	IAATO 15/16
+LKYA	Seljevaer (Trawler)	Norway	2011 December		Stuck in pack near UAGL
+	Selma Expeditions (Yacht)					IAATO 15/16
+C6VV8	Seven Seas Mariner		2011 February		2013 January
+FGF9553	Shag 2	France	2012 January	
+PHDD	Sherakhan (Yacht)	Netherlands	2013 February
+JFCF	Shonan Maru #2 (Whale Research)	Japan	2014 February
+JFCF	Shonan Maru #2 (Whaler)	Japan	2013 February		News report
+JFCF	Shonan Maru No 2 (Whaler)	Japan	2010 January		News report
+URBX	Simeiz (Fishing)	Ukraine		2015 March
+	Songhua (Fishing)	Eq Guinea		2015 January		News report
+VLHJ	Southern Surveyor				2013 July
+UAGL	Sparta (Trawler)	Russia	2011 December		Holed in Ross Sea
+	Spirit of Enderby (Tourist)		IAATO 15/16
+	Spirit of Sydney (Yacht)		IAATO 15/16
+ZCDD6	Star Princess (Tourist)	UK	2010 December	2011 January	2013 January
+3ETH2	Sun Laurel (Tanker)	Panama	2013 February	2013 March	News report
+FVNM	Tara [Ex Antarctica] (Research)	France	2011 January	2011 January	2014 November
+ABCD1	Terra Nova (Tender)	UK	2013 December	2014 February	Boat from HMS Protector
+KTDQ	Thomas G Thompson (Research)	USA	2010 February		2012 January
+	Thunder (Fishing)	Nigeria		2015 January		News report
+PHFL	TIMCA (Cargo)	Netherlands	2013 April	2013May
+V7GFS	Triton (Yacht)	Marshal Is		2015 February
+MPTU5	Uhuru (Yacht)	UK	2011 January
+JPAT	Umitaka Maru (Fisheries research)	Japan	2013 January	2013 January	2015 October
+YM8176	Uzaklar II (Yacht)	Turkey	2012 February
+PHEO	Veendam (Tourist)	Netherlands	2013 January	2013 February	2015 April
+	Vertigo (Yacht)					IAATO 15/16
+VHMW	Whale Song (Research)	Australia	2014 January	2014 January	2015 November
+DD2MM	Xenia II	Germany	2013 August	2013 October	2013 October	(1)
+2FZW8	Yelcho (FRC)	UK	2014 March		From HMS Protector
+	Yongding (Fishing)	Eq Guinea		2015 January	2015 February	News report
+JPPV	Yushin Maru #2 (Whaler)	Japan	2014 January	2014 February	News report
+	Yushin Maru #3 (Whaler)	Japan	2014 February		News report
+JLZS	Yushin Maru (Whaler)	Japan	2014 February		News report
+
+
+The following launches are known to have been in Antarctic waters in the last five years, (records are via Palmer AIS).  Launches are not expected to make meteorological observations :
+
+Call sign	Name	Country		Arrive/Present	Present/Depart	Parent ship
+2ENT7	James Caird IV (Survey Boat)	UK		2015 January		HMS Protector
+2FZX4	MIB1	UK		2014 November		HMS Protector
+2FZX5	W2 (Launch ?)	UK		2013 January		HMS Protector
+578000501	LB9	W &F		2015 January	2015 February	Le Boreal
+983110032 	Zodiac 7	Bahamas		2014 December 		Seabourn Quest
+983110040 	Zodiac 1	Bahamas		2014 December		Seabourn Quest
+983110041 	Zodiac 3	Bahamas		2014 December		Seabourn Quest
+985780001	LS AXE01	W & F		2014 December		Le Boreal
+985780002	LS AXE02	W & F		2015 January		Le Boreal
+985780003	LS AXE03	W & F		2015 January	2015 March	Le Boreal
+985780004	LS AXE04	W & F		2014 December	2015 January	Le Boreal
+985780005	LS AXE05	W & F		2015 January		Le Boreal
+985780006	LS AXE06	W & F		2014 December	2015 March	Le Boreal
+985780008	LS AXE08	W & F		2014 December	2015 January	Le Boreal
+985780009	LS AXE09	W & F		2015 January		Le Boreal
+985780010	LS AXE10	W & F		2015 January		Le Boreal
+985780013	Zodiac 2	W & F		2015 January	2015 February	Le Boreal
+985780014	AXE 3	W & F		2015 January	2015 February	Le Boreal
+985780015	AXE 4	W & F		2015 January	2015 February	Le Boreal
+985780016	AXE 5	W & F		2015 January		Le Boreal
+985780017	AXE 6	W & F		2015 February		Le Boreal
+985780018	AXE 7	W & F		2015 January	2015 February	Le Boreal
+985780019	AXE 8	W & F		2015 January		Le Boreal
+985780021	AXE 10	W & F		2015 January	2015 February	Le Boreal
+985780022	AXE 11	W & F		2015 January	2015 February	Le Boreal
+985780023		W & F		2015 February		Le Boreal
+983681381	Zodiac 1	USA		2015 April		Palmer Station
+
+
+
+

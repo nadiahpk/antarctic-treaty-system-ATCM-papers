@@ -1,0 +1,184 @@
+New methodology for the quantitative assessment of the
+environmental impacts of the Argentine Antarctic Programme
+New methodology for the quantitative assessment of the
+environmental impacts of the Argentine Antarctic Programme
+Information Paper submitted by Argentina
+Summary
+Environmental impact assessments are the mechanism required by
+the Protocol on Environmental Protection to the Antarctic Treaty to
+determine the degree of impact that the development of an activity
+will have on the Antarctic continent. Article 8 of the Protocol
+establishes three categories of impacts: less than a minor or
+transitory impact, a minor or transitory impact, or more than a
+minor or transitory impact. An important aspect is that an objective
+methodology must be available to identify the environmental
+impacts of the activities through the quantitative assessment of the
+attributes that characterise them. Based on the guidelines of Annex
+I to the Protocol on Environmental Protection and Resolution 1
+(2016) "Guidelines for Environmental Impact Assessment in
+Antarctica", a new methodology has been designed for the activities
+of the Argentine Antarctic Programme to carry out the quantitative
+assessment of the impacts of the activities that are carried out on
+the Antarctic Continent and that are part of Argentina's Annual
+Antarctic Plan with the aim of having a more precise analysis of the
+effects of the mitigation measures implemented.
+Objective
+The objective was to design a new procedure that allows a
+quantitative evaluation of the environmental impacts of the
+activities evaluated by the Environmental Management and
+Tourism Programme (PGAyT) of the National Antarctic Directorate
+(DNA) and that also considers the effects of the mitigation
+measures. This methodology has been developed in the course of
+2021 and has begun to be implemented in the initial environmental
+impact assessments that are currently under development for the
+next Summer Antarctic Campaigns.
+General technical specifications
+In Resolution 1 (2016) “Guidelines for Environmental Impact
+Assessment in Antarctica” it is established that an activity is an
+event or process that results from (or is associated with) the human
+presence in Antarctica or that can lead to that presence. In addition,
+each activity should be analysed considering all the actions that
+each phase involves (for example, construction phase, operation
+phase and decommissioning phase). One of the important issues
+highlighted in this document is that understanding the ways in
+which a proposed activity may interact with the environment (i.e.,
+its environmental aspects) is an important step in identifying and
+addressing potential environmental impacts.
+According to the general guidelines for carrying out an
+environmental impact assessment, a procedure must be followed
+that can be summarised in five stages: 1) Considering the activity,
+2) Considering the environment, 3) Analysis of Impacts, 4)
+Comparison of Impacts 5) Measures to minimise or mitigate
+impacts. The new procedure contemplates these 5 mentioned
+points. An activity will not result in an impact to an environmental
+value or resource if there is no process of interaction, or 'exposure'.
+Characterisation of the Impacts
+The identification of environmental impacts consists of
+characterising all the changes in the environmental values or
+resources resulting from an activity. Only when the impact is
+identified can an assessment of its significance be made. In the case
+of this new methodology proposed for the Argentine Antarctic
+Programme, each impact will be identified by the following
+characteristics in a summarised manner:
+Activity (1): Set of actions within a process that are carried out to
+fulfil a specific stage of the process. The name of the activity that
+contains the aspects and impacts to be valued must be stated,
+together with the process in which it is included.
+Exposed Environmental Component (2): including the physical and
+biological features that could be directly or indirectly affected.
+Environmental Aspect (3): environmental aspects (synonym =
+cause) are those elements or derivatives of activities with a possible
+impact on the environment.
+Environmental Impacts (4): an environmental impact (synonym:
+effect) is a change in the values or resources of the environment
+that can be attributed to human activity. It is the consequence of an
+interaction between an activity and the environment, and not the
+interaction itself.
+Type of impact (5): establishes whether an impact is direct or
+indirect according to the following characterisations. A direct
+impact is the change in environmental values or resources as a
+result of the consequences of the interaction between the exposed
+environment and an activity or action. An indirect impact is a
+change in environmental values or resources due to the interaction
+between the environment and other impacts, both direct and
+indirect.
+Analysis and Evaluation of Impacts
+Once the actions that constitute the activity have been determined,
+the significance value of the environmental impacts surveyed is
+established. With the information collected or supplied, the extent,
+intensity, duration, probability and legal aspects are valued
+according to the following Table 1:
+Table1: rating scale from 1 to 4 for each of the elements analysed to
+identify an impact.
+Once the matrix of actions has been assessed, the Level of
+Significance without mitigation that each particular action will
+have is established. To do this, the following mathematical formula
+is used:
+Significance = extent x intensity x duration x probability x legal
+aspects (a)
+Thus, the significance of the impact is obtained by multiplying the
+impact score of each characteristic (for example, 2 x 2 x 2 x 2 x 2 =
+32).
+The overall impact score range is between 1 and 1024, considering
+that a score of all the minimums in each evaluation criterion is
+equal to one (that is, 1 x 1 x 1 x 1 x 1 = 1) and a maximum score is
+equal to 1024 (that is, 4 x 4 x 4 x 4 x 4 = 1024). This provides a
+simple means of comparing impacts, the higher the value, the
+greater the environmental impact.
+Once the impact analysis has been carried out, the prioritisation of
+the risk area or original Risk is determined, which allows us to
+determine which actions require immediate treatment. There are
+three levels of impact significance (Low, Medium and High) that
+correspond to those described in Article 8 (1) of the Protocol (Table
+2):
+Table2: impact significance levels.
+Table2: impact significance levels.
+Table3: matrix with impact analysis. The coloured columns
+correspond to the previous impact analysis methodology (table for
+the purpose of showing an example).
+Table3: matrix with impact analysis. The coloured columns
+correspond to the previous impact analysis methodology (table for
+the purpose of showing an example).
+If a given action presents a Medium or High level of significance, it
+will require the implementation of Mitigation Measures. That is, the
+use of practices, procedures or technologies in order to minimise or
+prevent the impacts associated with the proposed activities. The
+modification of some component of the activity (and, therefore, the
+consideration of environmental aspects and impacts), as well as the
+establishment of supervision procedures, are effective forms of
+mitigation.
+Table4: matrix with impact analysis. The initial and subsequent
+analysis are observed, where the effects of the mitigation measures
+are taken into account.
+Table4: matrix with impact analysis. The initial and subsequent
+analysis are observed, where the effects of the mitigation measures
+are taken into account.
+After this first analysis, the mitigation measures are considered in
+the matrix, and from these measures the Level of Significance with
+mitigation is calculated, which is the result of the mathematical
+formula of the rating (a) with the new values of extent x intensity x
+duration x probability x legal aspects, but after taking into account
+the mitigation measures applied. With this new calculation, the
+Mitigated Risk is obtained, the significance level of the impact after
+the application of the mitigation measures and the one that is
+compared again with...
+Figure1: Graphic summary of the analysis and quantitative
+evaluation of environmental impacts.
+Figure1: Graphic summary of the analysis and quantitative
+evaluation of environmental impacts.
+Conclusions
+The new methodology implemented to assess the environmental
+impact of the activities within the Argentine Antarctic Programme
+allows for a more precise analysis of the environmental impacts
+and, in particular, allows for the incorporation of the expected
+effect of the established mitigation measures. To validate it, a
+comparison was made with respect to other methodologies of this
+type used by some member countries of the Antarctic Treaty.
+Preliminary results indicate that the characteristics analysed and
+their categorisation are consistent with those used in Antarctica and
+that therefore the procedure adequately applies the required
+guidelines.
+Bibliography
+“Construction and operation of Belarusian Antarctic research station
+at Mount Vechernyaya, Enderby Land.  Final Comprehensive
+Environmental Evaluation” (2015). National Academy of Sciences
+of Belarus. State scientific institute for nature management. State
+scientific and production amalgamation the scientific and practical
+centre for bioresources. State institution the Republican Centre for
+Polar Research.
+“Final Comprehensive environmental evaluation for continuation
+and modernization of McMurdo Station Area activities” (2019).
+Environment National Science Foundation. Office of Polar
+Programs.
+“Guidelines for Environmental Impact Assessment in Antarctica”.
+Resolution 1 (2016) Annex 1. Final Report of ATCM XXXIX.
+“Proposed Construction and Operation of the New Chinese Dome A
+Station Dome A, Antarctica (2008). Final Comprehensive
+Environmental Evaluation” (2015). Chinese Arctic and Antarctic
+Administration.
+“Rothera Wharf Reconstruction & Coastal Stabilisation. Final
+Comprehensive Environmental Evaluation” (2018). British Antarctic
+Survey. Natural Environmental Research Council.
+"Scott Base Redevelopment. Draft Comprehensive Environmental
+Evaluation” (2020). Policy, Environment and Safety Team.
+Antarctica New Zealand.

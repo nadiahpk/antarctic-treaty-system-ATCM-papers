@@ -1,0 +1,103 @@
+﻿
+
+
+
+
+
+The Environmental Impact Assessment Feedback Process: Review of Project IceCube (2004 CEE)
+
+
+
+
+
+
+
+
+
+The Environmental Impact Assessment Feedback Process: Review of Project IceCube (2004 CEE)
+
+Information Paper submitted by the United States
+ 
+Summary 
+
+The United States Antarctic Program (USAP) implements the environmental impact assessment (EIA) feedback process identified in Resolution 1 (2016): Guidelines for Environmental Impact Assessment in Antarctica by conducting periodic field reviews of new and on-going projects to determine if the EIA documents prepared prior to implementing a project adequately identified impacts and if mitigations are effective in reducing environmental impacts.  In addition, the field reviews offer project teams an opportunity to identify issues, improvements, and mitigation alternatives.  
+The international IceCube Neutrino Observatory (IceCube) is comprised of 5,160 optical sensors embedded in a cubic kilometer of ice at Amundsen-Scott South Pole Station. IceCube, completed in 2010 and funded by the National Science Foundation and international partners, was constructed to detect neutrinos with energies up to teraelectronvolts. IceCube is in Antarctic Specially Managed Area (ASMA) No. 5 Amundsen-Scott South Pole Station, South Pole. The ASMA was designated to maximize valuable scientific opportunities at the Pole, protect the near-pristine environment and ensure that all activities can be conducted safely, environmentally responsibly and without disruption to scientific programs.
+Project IceCube was reviewed in 2016 by comparing operations and resulting impacts to the conditions described in the Project IceCube Comprehensive Environmental Evaluation (NSF, 2004) and the related Records of Environmental Review (ROER) (NSF, 2010, 2015 and 2017).  In general, IceCube environmental impacts were found to be consistent with the impacts identified in the environmental documents.  
+
+Introduction
+In 1997, Consultative Parties adopted ATCM XXI Resolution 2 (1997): Procedures for Comprehensive Environmental Evaluation follow-up. The resolution identified three steps for reviewing projects following completion of a Comprehensive Environmental Evaluation (CEE). These steps are review activities, record changes, and report to Parties the outcome of prior two steps. In 2016, Consultative Parties adopted ATCM XXXIX Resolution 1 (2016): Guidelines for Environmental Impact Assessment in Antarctica. The resolution provided additional guidance on fulfilling obligations of the Protocol related to environmental impact assessment. This resolution specifically identifies and more fully describes a feedback process (described in the 1997 resolution) to monitor projects once the EIA documentation is completed. The process includes monitoring, identifying changes to the activity, and review.
+The USAP implements the EIA feedback process by conducting field reviews of newly implemented and on-going projects to determine if the EIA conducted prior to implementing a project adequately identified potential impacts and if mitigations are effective in reducing environmental impacts.  These EIA reviews fulfil the monitoring requirements identified in Article 5 of Annex I of the Protocol on Environmental Protection to the Antarctic Treaty (Protocol) and U.S. regulations (45 CFR 641.21).  In addition, EIA field reviews are consistent with Section 3.6 (Monitoring) of the Guidelines for Environmental Impact Assessment on Antarctica (Resolution 1[2016] Annex).
+The objective of this paper is to describe the process the United States uses to review on-going projects as they are implemented.  The review of IceCube is used to illustrate the process and actions that result from the reviews.  
+
+Planned Project Scope and Intensity 
+
+Project IceCube proposed to deploy 80 vertical strings equipped with subatomic (neutrino) particle detectors deep into the ice sheet (over a period of six years) in a 1 km2 area located 0.5 km from Amundsen-Scott South Pole Station. It was planned that the project would comprise the following components: 
+    • Deep array, containing 4,800 Digital Optical Modules (DOMs) placed at depths up to 2,450 meters
+    • Surface array, known as IceTop, containing 320 DOMs placed at 1-meter depth
+    • Cables connecting the DOM hubs and connected the Ice Cube Laboratory
+In addition, it was planned that the project would occupy laboratory space in pod B2 of the new station.
+Installation of the strings involved operation of the Enhanced Hot Water Drill (EHWD) Site Structures, Tower Operations Site Structures, Rodriguez wells, heavy equipment and vehicles dedicated to the Project, with additional support provided as needed from the Station’s vehicle pool.
+
+Inspection
+
+In November 2016, environmental impact assessment specialist deployed to the Amundsen-Scott South Pole Station, inspected select IceTop stations, visited the Ice Cube Laboratory, and interviewed the South Pole Science Projects Coordinator and several Project IceCube team members. They also reviewed data presented in the Annual Report for the USAP Master Permit for the years 2005 through 2011 characterizing fuel consumption and materials released to the environment.
+
+Findings
+
+Project IceCube installation began in the 2004/05 operating season and was completed during the 2010/11 operating season, spanning seven years, one year more than projected in the CEE. Cables from the DOMs were connected to the IceCube Laboratory as planned (Figures 1 and 2). The final configuration included 86 detector strings, rather than 80, as originally planned. No additional environmental documentation was created for this change as it was considered to be reasonably within the scope of the project. However, the methods and resources utilized for the additional detector strings were consistent with the other planned deployments.
+
+Based on the inspection of the Project IceCube area and related information collected for 2005/06 through 2010/11 season activities, the mitigating measures described in the 2004 CEE (Table 6-1) were utilized for Project IceCube activities to the extent practical. No significant discrepancies were noted.
+
+Figure 1.  Project IceCube Laboratory
+
+Figure 2.  Project IceCube Laboratory Cables
+
+Two additional detectors (sodium iodide) were installed at the bottom of strings 79 and 80 during the 2010/11 season to support another NSF-funded research project, Feasibility Study for a Dark Matter Search (A-334-S). Impacts related to deployment of these instruments were reviewed and documented accordingly in a ROER (NSF, 2010). 
+
+Research personnel indicated that the IceTop (surface) detectors were becoming buried by accumulating snow and was blocking particle detection, thus generating less than optimal results. As a result, during the 2015/16 season, four test scintillators were installed to determine if these instruments could extend the life of the IceTop sensors. Two additional redesigned sensors (to improve efficiency at scale) were deployed during the 2017/18 season. These sensors were redesigned to enhance the sensitivity of IceTop and to ensure that a full set of scintillators (one per IceTop installation) could be operated. Impacts related to deployment of these instruments were reviewed and documented accordingly in two ROERs Installation and operation of scintillator panels at IceTop (NSF, 2015) and Temporary installation and operation of two test scintillator hubs at IceTop (NSF, 2017). All of the installed scintillators are operating in the field to ensure uninterrupted data collection.
+
+A proposal to deploy a full array of scintillators to support all IceTop instruments is currently under consideration and this activity would be subject to an EIA.
+
+Releases
+
+Environmental releases directly related to the IceCube project included the irretrievable deployment of the detector strings and air emissions caused by the combustion of fuel for the EHWD, generators, and other equipment. Other releases included air emissions from logistical support flights, and wastewater discharged by project personnel. These releases were identified in the CEE. 
+
+Several environmental quality indicators for the station such as fuel consumption/air emissions, wastewater releases, waste handling were effectively managed by the existing resources at the station even with the additional loads from Project IceCube. 
+
+Impacts to Station Operations
+
+Consistent with the projections in the CEE, Project IceCube utilized the Amundsen-Scott South Pole Station resources (e.g., staff, space, equipment) for the following:  
+    • Personnel support (e.g., berthing, food service)
+    • Equipment, vehicles and operators from station pool 
+    • Maintenance and repair of dedicated Project equipment and vehicles
+    • Flight Support (e.g., air traffic control, cargo handling)
+    • Bulk fuel management 
+    • Waste management 
+    • Communications and data transfer  
+Station support to Project IceCube was effectively planned and programmed into normal station operations, thereby mitigating impacts to station resources. 
+
+Similarly, the logistical support flights to the South Pole were within the capabilities available for normal USAP operations. The increased use of overland traverse resources to support the South Pole during the last four years of Project IceCube also freed up airlift resources, thereby enabling the USAP to redirect some airlift support to other research activities.
+
+Impacts to Science
+Several researchers identified potential effects that Project IceCube may have on other science projects at the South Pole including:
+    • Reduced ability to groom the snow around surface structures and telescopes in the Dark Sector, because of possible damage to IceCube cables;
+    • Increased drifting in the Dark Sector because of IceCube infrastructure;
+    • Blockage of parts of some of the sky viewed from various telescopes by temporary or permanent IceCube structures;
+    • Interference with infrared and cosmic background telescopes in the form of heat emission from IceCube structures, and the creation of spurious background anisotropies due to the interruption of a smooth snow surface;
+    • Generation of radio frequency interference by electronic equipment.
+Through coordination with science groups working at the South Pole these potential issues were addressed and no significant conflicts or impacts were noted. 
+
+Conclusions
+Project IceCube installation was initiated during the 2004/05 season and completed during the 2010/11 austral summer season. The environmental impact assessment specialist inspected Project IceCube resources and evaluated activities at the Amundsen-Scott South Pole Station in November 2016 and reviewed available data for previous seasons to facilitate a comparison of the measured or observed environmental effects to the predicted impacts. Project IceCube instrumentation (detectors) were installed as planned and the IceCube Laboratory functions as designed. No significant deviations from planned configuration occurred and no adverse impacts to station operations were realized. Continuing research activities are programmed accordingly into regular station activities. 
+While some parameters changed compared to the projections, including the number of detectors installed and installation period, these revisions to the original project plan did not substantially increase the project’s impact on the environment. Proposed mitigating measures were utilized for Project IceCube activities, and no significant discrepancies were noted.
+No conditions that would result in adverse impacts were observed; therefore, no additional mitigating measures, corrective actions, or modifications to current Project IceCube activities are recommended. 
+Installation of supplemental IceTop detectors may be needed in the future; however, this effort would be subject to environmental review as necessary. 
+Plans are currently being developed for the next-generation IceCube neutrino facility. The next-generation IceCube detector would expand the current installation. A larger detector array would enhance the rate of high-energy neutrino detection, increase statistical certainty, and improve instrument sensitivity across a broader range of neutrino energy levels. USAP is committed to conducting rigorous environmental review and EIA documentation for any future work.
+The field review of Project IceCube is only one example of the feedback process identified by the resolutions of 1997 and 2016 that USAP uses to monitor impacts of on-going projects. USAP also routinely conducts field reviews of projects evaluated by ROERs and IEEs.
+
+References
+NSF. Temporary installation and operation of two test scintillator hubs at IceTop. Record of Environmental Review. SPST1600.R01.AM1. November 30, 2017.
+NSF. Installation and Operation of IceTop Scintillators: IceCube maintenance and operation. Record of Environmental Review. SPST1600.R01. August 31, 2015.
+NSF. Installation of NaI Detectors at Project IceCube. Record of Environmental Review. SPST1100.R01. August 8, 2010.
+NSF. Project IceCube Comprehensive Environmental Evaluation Final. 30 August 2004.
+

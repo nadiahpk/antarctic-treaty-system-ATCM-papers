@@ -1,0 +1,81 @@
+ANTARCTIC TREATY
+XVIth CONSULTATIVE MEETING
+
+TRAITÉ SUR L'ANTARCTIQUE
+XVI e RÉUNION CONSULTATIVE
+
+
+                                                      TRATADO ANTÁRTICO
+                                                      XVI REUNIÓN CONSULTIVA
+
+                                                      ДОГОВОР ОБ АНТАРКТИКЕ
+                                                      XVI КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+Bonn
+
+07 - 18 October 1991
+
+XVI ATCM/INFO 10
+07 October 1991
+Original: English
+
+Autonomous Antarctic Observing Stations
+
+(submitted by Germany)
+Autonomous Antarctic Observing Stations
+
+Under the severe Antarctic conditions autonomous observing platforms are becoming 
+increasingly important for the following reasons:
+
+-   most of the scientific routine work can be done automatically with high reliability
+-   human environmental factors can be reduced drastically by automatic operation
+-   increasing satellite capabilities for data transfer and control are becoming available
+-   permanent attended stations are very expensive.
+
+As small battery powered systems can only be used for special tasks, in 1988 the Alfred-We-
+gener-Institut started the development of a more powerful compact autonomous station for 
+multipurpose applications. 5 kW of electrical power are available permanently for more than 
+one year. After final telemetry tests the station will be ready for shipment to Antarctica at the 
+end of this summer. A short description of the power supply, container set-up and telemetry 
+will be given in the following lines.
+
+Power Supply
+
+A reliable electrical power source is the precondition for any autonomous platform. Ideally 
+there should be enough power to use indoor electronics like in a laboratory while outdoor in-
+strumentation packages and sensors can be heated. Looking for such type of multipurpose 
+Antarctic "plug-box" 5 kilowatts of stable permanent power over one year were found to be a 
+good compromise between scientific demands and logistic expense.
+
+As alternative power sources operating under Antarctic conditions are still not available a 
+Diesel engine was considered to be the best solution at least for the first two years. We chose 
+a slightly modified two-cylinder Deutz engine in combination with a Leroy Somer three-phase 
+generator. The engine is of heavy-duty type normally used in various vehicles for road 
+construction. As lifetime mainly depends on lubrication there is a permanent double-cycle re-
+duced oil exchange from a 150 l tank through an extended filter system. For redundancy re-
+asons the power station contains two independent motor and generator units. They are run-
+ning alternately in time intervals of two weeks. The three-phase generator current is fed via 
+an UPS unit consisting of rectifier, battery buffer and inverse rectifier. The final output is a 
+220 V AC current of 50 Hz up to a total stabilized power of 5 kW.
+- 2 -
+
+Container Set-up
+
+The station consists of three standard 10' units, namely a basic measuring container and two symmetrically mounted tank containers. The central unit contains the complete power supply (Diesel engines, generators, control board, UPS), a 19" electronic rack and the air conditioning system. While the outside temperature ranges form -50°C  to  +5°C the inside temperature varies only from +10°C  to +25°C i.e. so that electronic equipment can operate almost like in a laboratory. The central unit is insulated by a 5 cm layer of ceramic wool. Each of the two cylindrical fuel tanks (mounted on 10' standard frames) has a volume of 10,5 m^(3) for about 8 tons of Arctic Diesel. The Station was tested at ESRANGE near Kiruna, Sweden, in the temperature range of -32°C to -1°C.
+
+Telemetry
+
+Geostationary satellites like METEOSAT/GOES, INMARSAT or INTELSAT have almost on-line capability, but unfortunately they can only be reached by some Antarctic coastal regions. Polar orbiting satellites like NOAA/TIROS-N are well-suited for polar research because they have about 14 useful passes per day, but data transmission is not bidirectional and limited to 256 bits in one-minute intervals.
+
+To overcome these problems for a more complex station a polar orbiting "mail-box" satellite was considered to be an acceptable compromise. Such a satellite was built at the Technische Universität Berlin under the name TUBSAT and scheduled together with ERS-1 from Kourou Center, French Guayana. After the successful launch on July 16 TUBSAT is working excellently up to now. The satellite is supposed to be a pilot project for data transfer between Antarctic stations and the home institute.
+
+Conclusions
+
+The development of autonomous stations for use in polar regions reveal a strange paradox. On the one hand the components must be of high reliability, preferable coming from high series production. On the other hand one needs sophisticated equipment being designed or adapted to perform under severe conditions. Therefore the final outcoming concept is a mixture of modern technology with plain but well proved elements.
+- 3 -
+
+Autonomous platforms together with remote sensing satellites will be of increasing impor-
+tance for future polar work. A powerful platform like the one described here needs only about
+1 % of the logistical material compared with a typical manned station but can do most of the
+scientific routine work. Our future activities will concentrate on the instrumentation of the
+platform.

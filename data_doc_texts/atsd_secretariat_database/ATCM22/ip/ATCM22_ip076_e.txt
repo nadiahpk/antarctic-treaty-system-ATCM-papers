@@ -1,0 +1,844 @@
+1
+
+ANTARCTIC TREATY
+XXII CONSULTATIVE MEETING
+
+OPERATIONAL ISSUES:
+
+IMPROVED METEOROLOGICAL NETWORKS IN ANTARCTICA
+THROUGH INTERNATIONAL COOPERATION
+
+
+Agenda item 14                        Submitted by WMO
+
+XXII ATCM/IP................
+May, 1998
+Original: English
+
+1
+2
+
+WMO SURFACE AND UPPER AIR NETWORKS
+
+Antarctica is one of the two large regional sinks of heat in the world. The Southern Ocean is 
+an area of intense interaction between the ocean and the atmosphere, and accordingly it plays 
+a significant role in the formation of global weather and climate. The influence of Antarctica 
+on the weather and climate of other parts of the Southern Hemisphere or globe has still to be 
+quantified, but polar-region processes are turning out to be of crucial importance to 
+human-induced global environmental changes.
+
+The basic synoptic network for meteorological observations in Antarctica is an important 
+element of the World Weather Watch coordinated by the World Meteorological Organization 
+(WMO). Operation and maintenance of this network and the timely transmission of the 
+observational data by means of the WMO's Global Telecommunications System (GTS) are 
+essential. Meteorological data are thus provided for global numerical weather analysis and 
+prediction models as well as providing the data bank for climate research, including the 
+monitoring of climate change and the environment.
+
+Network design
+
+The Antarctic Meteorology Working Group, of the Executive Council of the World 
+Meteorological Organisation, coordinates the annual exchange of information about 
+meteorological programs in Antarctica. The 1996 survey was completed by the representatives 
+of eleven WMO member nations. Some progress has been made in the last four years eg the 
+expansion of the Antarctic Basic Synoptic Network (ABSN) by inclusion of Automatic 
+Weather Stations and the successful launch of the International Programme for Antarctic 
+Buoys (IPAB). However the FROST project has clearly identified that deficiencies still exist 
+in observing and telecommunications networks in Antarctica. The number of upper-air stations 
+has decreased. There are delays between time of observation and insertion of data into the 
+GTS. Of greater concern is the failure of the GTS to deliver all of the observations from the 
+Antarctic network to all intended destinations.
+
+The 12^(th) Congress of WMO in 1995 emphasized the target time of "within three hours" for the 
+reception of data from stations at GTS Main Telecommunications Network Centres and at 
+other Antarctic stations. The availability and appropriate use of satellite communications 
+offers new opportunities for improvement in Antarctic telecommunications. Operational 
+activities and research in the Antarctic depend on the effective exchange of meteorological 
+and environmental data.
+
+SURFACE METEOROLOGICAL OBSERVATIONS
+
+Although some 35 occupied stations south of latitude 60°S are staffed throughout the year, the 
+distribution of these across the continent is not uniform, and less well distributed than during 
+the International Geophysical Year in 1957-58. For example eight of these stations are on 
+King George Island at approximately latitude 62°S. Excluding the Antarctic Peninsula, there 
+are 16 staffed stations located on the Antarctic continent, most on the coast at sites that can be 
+reached by ship. Not all staffed Antarctic stations contribute observer-measured surface 
+meteorological data to the Global Telecommunications System.
+
+2
+3
+
+The USA station Amundsen-Scott at the South Pole (2800 metres above sea level) and the Russian station Vostok (at an altitude of 3488 m above sea level) are the only long term stations over the continental interior that are staffed year-round. Vostok was originally established by a Soviet Antarctic expedition on 16 December 1957. Vostok was temporarily closed (including surface meteorological observations) from February to November 1994 and again from January 1996 to February 1997.
+
+The new station Japanese station Dome Fuji (77º 19’S 39º 42’E and 3810 metres above sea level) was settled in December 1994 for three years to carry out ice core drilling together with glaciological and meteorological research. Dome Fuji is located 1000 km south of Syowa. Surface meteorological observations are being provided three times a day for the three years while ice core drilling is being carried out at Dome Fuji. An automatic weather station operates continuously on the site.
+
+Automatic weather stations
+
+Automatic weather stations provide an essential contribution to the maintenance of a meaningful meteorological network over the continent, and particularly over the continental interior of East Antarctica and West Antarctica. WMO recommends a spacing of approximately 250 km between weather observing stations for land areas over more heavily populated continents than the Antarctic.
+
+The USA network of some 50 automatic weather stations is operated in the Antarctic by Principal Scientific Investigator Prof. Charles Sterns from the University of Wisconsin. These stations are operated to meet special meteorological objectives and measure air temperature, wind speed and direction, and air pressure. The data are received and stored by the ARGOS Data Collection System, at Landover, Maryland. ARGOS forwards the data to Regional Telecommunications Hub (RTH) Washington where it is entered into the GTS. The complete data set is provided daily to the University of Wisconsin from Service ARGOS, Landover, Maryland, via Internet.
+
+Another sizeable AWS network of 10 stations, all on the east Antarctic ice sheet, is operated by the Australian Antarctic Division (Antarctic Science Advisory Committee Project No. 187 under the leadership of Dr. Ian Allison). Six of these stations are in the hinterland of the Lambert Glacier Basin, between 1830 m and 2740 m altitude. The other four are in Wilkes Land, between 1360 m and 3070 m above sea level. Data are updated approximately every hour, and data from all except one station are contributed to the GTS. These stations are powered with solar-charged 12v batteries and the longest running station has operated continuously for over 12 years. Stations closer to the coast and at lower altitudes have a shorter lifetime because they become buried in snow accumulation. Antarctic Science Advisory Committee Project No. 187 “Ice-sheet atmosphere interaction and surface climatology of interior Antarctica” has the following objectives....
+
+·   To contribute to a surface climatology of east Antarctica by providing data from remote parts of the ice sheet.
+
+·   To provide data on the process of ice sheet-atmosphere interaction and katabatic wind flow.
+
+·   To contribute supporting surface synoptic data for operational forecasting.
+
+There are several other AWS that store data, rather than relay the information in real time via the GTS, in use by several other nations in Antarctica.
+
+3
+4
+
+Automatic Geophysical Observatories
+
+UK
+
+The British Antarctic Survey (BAS) Automatic Geophysical Observatory (AGO) is an unmanned station designed and built in-house to collect and store a wide variety of data sets from locations where permanently staffed activities are impractical. An AGO consists of a prefabricated housing, and is powered by renewable energy sources (wind power and solar panels) with energy storage in lead acid batteries. Novel features include the power management, and the thermal and environmental control systems. BAS AGOs collect key data for geospace and meteorology research. Two AGOs deployed in Antarctica in 1992 operated with great reliability, experiencing external temperatures as low as -50°C and wind speeds of 30 metres per second. Two years field experience led to an improved design for further deployments.
+
+BAS now has four Automatic Geophysical Observatories operating on the polar plateau south of Halley Research Station. These AGOs support equipment for collecting and storing data for studies on many solar-terrestrial physics and meteorological phenomena. Meteorological information from these AGOs is not yet included in the real time data distribution on the WMO Global Telecommunications System (GTS).
+
+U.S.A.
+
+Dr Ted Rosenberg, The Institute for Physical Science and Technology, University of Maryland, College is the Leader of the U.S.A. AGO Program. The network consists of a suite of identical instruments (optical and radio wave auroral imagers, magnetometers, and narrow- and wide-band radio receivers) placed at six locations on the polar plateau. Meteorological data (temperature, pressure, wind speed and direction) are also obtained at each site.
+
+The AGOs provide power and data acquisition as a host to the instruments in a room- temperature shelter. They are powered by propane-fuelled thermoelectric generators that use no moving parts and can run for a full year between servicing visits, and are designed to be deployed and serviced by ski-equipped LC-130 Hercules and Twin Otter aircraft operated by the VXE-6 Antarctic flight squadron of the U. S. Navy. Yearly service visits provide opportunities to exchange optical disks used as recording media, replace fuel supplies, and refurbish equipment as needed. The AGOs were designed, built, and installed at the field sites by Lockheed Palo Alto Research Laboratory.
+
+4
+5
+
+TABLE:  AGO Sites of the U.S.A.
+
+AGO  Date          Geographic location     Altitude    WMO
+     Established      Lat.        Long.      (metres)    No.
+
+P1   Jan 1994      S 83° 52’   E 129° 36’     2865       
+P2   Dec 1992      S 85° 40’   W 46° 23’      1860       
+P3   Jan 1995      S 82° 48’   E 28° 34’      3000*      
+P4   Jan 1994      S 82° 01’   E 96° 46’      3565       
+P5   Jan 1996      S 77° 14’   E 123° 31’     3000*      
+P6   Jan 1997      S 69° 31’   E 130° 01’     2500*      
+South Pole Station  S 90° 00’                  2800       89009
+McMurdo Station     S 77° 51’   E 166° 40’      24        89664
+
+                                  * approximate
+
+The need for real-time transmission of meteorological data from the AGOs on the GTS
+
+Meteorological data are brought out in near real time in routine health and status transmissions routed through the ARGOS satellite data retrieval system. Parameters measured include the ambient air temperature, barometric pressure, wind speed and wind direction. Currently, data from all satellite passes (about 28 per day in Antarctica) in the previous 24 hour interval are relayed by Service ARGOS to Lockheed on a once per day distribution via the Space Physics Analysis Network (SPAN). The health and status data are scaled, plotted and archived at Lockheed and a snapshot (the last satellite pass) is distributed to interested parties via the Internet. Scaled meteorological data are likewise available on the www (http://space.augsburg.edu/ago/index.html) but they reflect the one day lag time.
+
+The data transmitted to ARGOS is organised into the appropriate frame byte positions so that it should be directly compatible with WMO code. The Meteorology Sub-Program Manager of the USA AGOs (Dr J. A. Doolittle, Lockheed Research Laboratory) submitted a request through NOAA for WMO identification numbers for each of the USA AGOs. He intended that the meteorological data from the AGOs will eventually be distributed in real time via the WMO Global Telecommunications System (GTS).
+
+If Service ARGOS is requested to perform the function of delivery of WMO coded messages to the GTS, then it would be necessary for the Meteorology Sub-Program Manager of the USA AGOs to initially supply Service ARGOS with the applicable scaling factors for each sensor, and then to subsequently provide updates as re-calibrations occur during annual service visits to each AGO. This would be a very important step for Antarctic atmospheric science. These data are likely to have a significant impact on the performance of global models of the atmosphere over Antarctica because the spacing of the current “network” is 1000-2000 km over the continental interior of East Antarctica.
+
+Staffed stations and automatic weather stations tend to be mostly confined to the Antarctic coastline and adjacent hinterland. With the support of long range fixed wing aircraft the AGOs
+
+5
+have been located in the high elevation continental interior of Antarctica. Apart from 
+Amundsen-Scott station at the South Pole and Vostok, the deep interior of East Antarctica 
+will remain largely unrepresented in global weather prediction models for many years to 
+come, if the AGO network is not been brought on-line for this purpose.
+
+The International Program for Drifting Buoys
+
+The fourth session of the WMO/ICSU Joint Scientific Committee for the World Climate 
+Research Programme (WCRP) Working Group on Sea Ice and Climate (Rome, Italy, 
+November 1989) concluded that a network of drifting buoys with a basic grid-scale of 500 km 
+would be the most cost-effective means to obtain surface atmospheric pressure data and sea-
+ice drift observations over the Antarctic seasonal sea-ice zone, thus providing accurate wind 
+field and upper ocean current information, as required, to test sea-ice models (See WCRP-41 : 
+WMO/TD-No 377).
+
+The launch of an International Programme for Antarctic Buoys (IPAB), under the auspices of 
+the World Climate Research Programme, has provided a network of drifting buoys within the 
+seasonal sea ice zone of the Southern Ocean, which supplies data for operational and research 
+purposes.
+
+The IPAB is a cooperative project aiming to establish a network of some 50 drifting buoys for 
+both global weather forecasting and climate research. Ice strengthened drifting data buoys are 
+used. Position, air pressure and (for those buoys in water) sea temperature are collected as 
+basic data. Some systems are also equipped to measure parameters such as air temperature, 
+wind speed and direction. All buoys in the basic network should be equipped to enable data to 
+be transmitted in real time. As a preferred approach, platforms are located and data is collected 
+via CLS - Service ARGOS using the NOAA series of satellites. Some will be instrumented to 
+measure ocean temperatures to 200 m depth and other variables.
+
+There is a generally a northwards divergent flow of the pack ice drift in the Antarctic so many 
+buoys deployed at high southern latitudes eventually move north of the ice edge and out of a 
+main region of interest. Although IPAB has seen an increase in Antarctic drifting buoy 
+activities, it has not yet achieved the required network density. The IPAB plan proposes a 
+long-term commitment after the initial phase 1994 - 2000.
+
+Ships of opportunity
+
+Meteorological and sea ice data over the Southern Ocean is also obtained from voluntary 
+observing ships, these data may be increased with assistance from of the International 
+Association of Antarctic Tour Operators.
+THE UPPER AIR NETWORK
+
+Accuracy of temperature sensors in radiosondes
+
+Vaisala determined in 1996 that the F-Thermocap temperature sensor in it's new generation of 
+radiosondes (RS90) requires a much smaller radiation correction than the RS80 (five times in 
+fact!). At a pressure of 10hPa, for example, the maximum daylight radiation correction in the 
+tropics, for the RS90 is less than 0.5 °C. As might be expected, the night-time radiation error 
+(including the Antarctic polar night of winter) is negligible. This means that in practice the 
+radiation effect on the RS90 temperature profiles after the radiation correction has been 
+applied by the RS90 sounding software is less than 0.1 °C with the software upgrade that 
+became available in 1997.
+
+Replacement systems for Omega wind measurement
+
+Upper atmosphere wind finding using the Omega navigational aids was made by the majority 
+of the Antarctic upper air stations. With the closure of all Omega stations throughout the world 
+on 30 September 1997 aviation, maritime and meteorological users have had to find 
+alternative solutions for their navigational and wind finding needs. The Omega phase-out 
+prompted an intense research and development effort, as well as extensive tests and studies of 
+the availability and usability of alternative wind finding methods. World-wide over 250 upper 
+air stations in the synoptic network relied on Omega transmissions in their operations. If they 
+have not yet installed an alternative wind finding method, these stations can now only be used 
+to acquire pressure, temperature and humidity data. Any Vaisala DigiCORA or MARWIN 
+system can be upgraded for GPS wind finding. The upgrade is easy to carry out, even for less 
+experienced operators. For sounding stations outside Loran-C and VLF-Navaid reception, an 
+upgrade to GPS or RT is recommended.
+
+Four Omega replacement options are:
+•   VLF-Navaid transmissions may be used for Northern Hemisphere regions in which VLF-
+Navaid communications systems operate reliably. In some areas VLF equipment is used as 
+the primary system with a Loran-C, GPS or RT20 as a backup.
+•   Loran-C (this is an attractive alternative in North America, large areas of Europe, the 
+Middle East, much of China, and Japan),
+•   Global Positioning System (GPS) offers truly global coverage and can be used anywhere. 
+GPS has proven to be very accurate and has a high level of operational reliability with 
+some 24 polar orbiting satellites currently in service. Specifically GPS is a good solution 
+for sounding stations in areas without adequate VLF-Navaid and Loran-C reception (this is 
+particularly true of the Southern Hemisphere and especially Antarctica). The GPS wind 
+finding method, however, costs more than VLF-Navaid, because of the inherent 
+complexity of GPS signals is reflected in the price of GPS radiosondes.
+•   The RT20 radiotheodolite wind finding offers independence from fixed navigation 
+systems. While the RT20 is especially suitable for mobile systems it can also be used for 
+synoptic observations. The price of the ground equipment is higher, and the upgrading 
+more complex than the card-based MW upgrades for GPS. The cost of radiosondes 
+however, is lower with an RT20 system.
+8
+
+Calibration of upper air temperature information obtained via satellite remote sensing
+
+Calibrations of remotely sensed data from polar orbiting satellites, such as the mean 
+temperature of atmospheric layers, contained in TOVS data require at least one, and preferably 
+two or three sites, from which balloon-borne radio sonde measurements are made of 
+conditions over the continental ice cap are required. The only upper air sounding made over 
+the continental interior being made is at South Pole (Amundsen-Scott) which has two flights 
+per 24 hours (00 and 12 GMT) from November to February and one each day (00 GMT) for 
+the remainder of the year. It would be preferable to make daily balloon-borne radiosonde 
+measurements at least one more staffed station inland, other than the South Pole. The vertical 
+resolution and accuracy of mean temperatures of atmospheric layers are not as accurate as 
+those obtained via the historical technique of upper air sounding using balloon-borne 
+radiosondes. Although the satellite derived TOVS data are sufficiently accurate to constrain 
+day to day Numerical Weather Prediction models, the higher order of accuracy afforded by 
+radiosondes is necessary for climatic trend analysis of the upper atmosphere in our efforts to 
+detect and quantify climate change.
+
+The climate data bank
+
+Upper air observations from Antarctic in general, but in particular from the interior of the 
+continent now that only the Station at South Pole remains in operation, are of paramount 
+importance. As can be seen in the table below, there are currently 13 sites from which balloon-
+borne radiosondes are launched to measure vertical profiles of pressure, temperature, moisture 
+and wind velocities. The stations south of latitude 60°S, at which upper air soundings are 
+presently made, at either 00 UTC or 12 UTC are given in the table below. There is a long term 
+(34 years) climatological record of upper air soundings at 00 UTC and 12 UTC from Vostok 
+(WMO No. 89606) for the period December 1957- January 1992. It should be noted that in 
+some cases that climatological data are available in the form of manuscript tables prior to 
+1978.
+
+8
+9
+
+ANTARCTIC AND SUB-ANTARCTIC
+UPPER AIR SOUNDINGS NETWORK
+Atmospheric pressure, temperature, moisture and wind velocity
+
+NATION   STATION         LAT        LONG       WMO    GMT     YEAR
+                                      No.      00   12   began
+
+ceased
+
+Argentina Marambio       64° 14'S   56° 37'W    89055         Yes   1957
+Australia Mawson         67° 36'S   62° 52'E    89564   Yes   Yes   1957
+         Davis           68° 35'S   68° 36'E    89571   Yes   Yes   1959
+         Casey           66° 17'S  110° 32'E    89611   Yes   Yes   1959
+         Macquarie Island 54° 30'S  158° 56'E    94998         Yes   1950
+France   Dumont D'Urville 66° 40'S  140° 01'E    89642   Yes   Yes   1956
+Germany  Neumayer        70° 35'S     8° 15'W   89002         Yes   1981
+Italy    Terra Nova Bay  74° 42'S  164° 06'E    89662   Yes*  Yes*  1991
+Japan    Syowa           69° 00'S   39° 35'E    89532   Yes   Yes   1957
+New Zealand Campbell Island 52° 34'S  169°09'E   93944   Yes   Yes         1995
+Russia   Bellingshausen  62° 12'S   58° 58'W   89050   Yes                 1969
+         Molodezhnaja    67° 40'S   45° 51'E    89542   Yes   Yes   1964
+         Mirnyj          66° 33'S   93° 01'E    89592   Yes   Yes   1956
+         Novolazarevskaya 70° 46'S  11° 50'E    89512   Yes         1961
+         Vostok          78° 28'S  106° 48"E   89606   Yes         1957   1992
+         Leningradskaya  69° 30'S  159° 23'E    89657   Yes         1983   1991
+UK       Halley          75° 36'S   26° 15'W   89022         Yes   1957
+USA      Amundsen-Scott  90°S                   89009   Yes   Yes*  1957
+         Byrd            80°S      20°W         89324   Yes   Yes*  1957   1979
+         McMurdo         77° 51'S  166° 40'E    89664   Yes   Yes*  1957
+
+                                                  * November to February
+                                                  only
+
+MONITORING THE EXCHANGE OF ANTARCTIC DATA
+
+Monitoring exercises associated with the First Regional Observing Study of the Troposphere
+(FROST) showed that the availability of coded meteorological observations from Antarctic
+stations via the GTS has increased since 1991 but further improvement is possible. The main
+problems identified during FROST monitoring were as follows:
+(a) Some AWS and ships did not transmit data to the GTS;
+(b) Some observations missed the time slots;
+(c) Incorrect format of reports;
+(d) Reports were corrupted while being transmitted.
+
+9
+10
+
+The FROST monitoring showed that few SHIP reports were received from the ships in the 
+Antarctic. This was due to a lack of arrangements for the preparation of the reports aboard the 
+ships and their transmission to GTS collecting centres (e.g. via Inmarsat). WMO’s Expert 
+Meeting on Antarctic Telecommunication Arrangements held in Geneva in October 1996 
+recommended that, with a view to increasing the number of SHIP reports issued from 
+Antarctica, action be taken by the WMO Commission on Marine Meteorology in cooperation 
+with the Council of Managers of National Antarctic Programs (COMNAP).
+
+The monitoring of the availability of real time observational data (SYNOP, TEMP and 
+CLIMAT messages) from Antarctic stations at Regional Telecommunications Hubs (RTH) is 
+an important function. For the purposes of monitoring WMO recommends the following cutoff 
+times for the counting of the reports of SYNOP and TEMP reports:
+
+(a)    For SYNOP reports: 1, 3 and 12 hours.
+(b)    For TEMP reports 3 and 12 hours.
+
+The results of a specific monitoring exercise carried out by the British Antarctic Survey at the 
+Regional Telecommunications Hub (RTH) in Bracknell during 1-15 February 1996 are given 
+in the table below.
+
+                                 AVAILABILITY OF REAL TIME OBSERVATIONAL DATA 
+                                 FROM ANTARCTIC STATIONS AT BRACKNELL, UK,
+                                 DURING MONITORING PERIOD 1-15 FEBRUARY 1996
+
+                                                   Within       Within       Within
+                                                  1 hour       3 hours      24 hours
+Surface weather (SYNOP)                            32%          44%          57%
+
+                                                   Within       Within       Within
+                                                  3 hours      12 hours     24 hours
+Temperature soundings (TEMP)                       44%          59%          60%
+
+Figure 1 gives the results of a specific monitoring of the exchange of Antarctic data (SYNOP 
+reports) on 1-15 February 1997. The percentage of surface reports as WMO coded messages 
+received on the GTS, from staffed and automatic weather stations comprising the Antarctic 
+Basic Synoptic Network, for the main synoptic hours (00, 06, 12, &18 GMT) was between 
+50% and 100% for 48 stations. The percentage of upper air temperature profile sounding 
+reports as WMO coded messages received on the GTS, 1-15 February 1997, from stations 
+comprising the Antarctic Basic Synoptic Network for the main hours (00 and 12 GMT) is 
+shown in Figure 2. Between 50% and 100% of TEMP messages were received from 8 staffed 
+stations.
+
+The Antarctic Telecommunications meeting recommended preparing a review of these 
+Antarctic telecommunication arrangements before next session of the WMO EC Working 
+Group on Antarctic Meteorology planned to be held in September 1998. The WMO Secretariat 
+was requested to send a questionnaire to Members signatory to the Antarctic Treaty before the 
+next session of the Working Group.
+
+                                                                                                                     10
+11
+
+
+                                                                               SPECIFIC MONITORING OF THE EXCHANGE OF ANTARCTIC DATA
+                                                                               SYNOP reports
+                                                                               (1-15 February 1997)
+                                                                               Figure 7
+
+
+           WMO Secretariat                                                                                  Percentage
+                                                                                                            of reports received
+                                                                                                            from stations comprising
+                                                                                                            the Antarctic Basic Synoptic Network for main synoptic hours
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                
+12
+
+                  SPECIFIC MONITORING OF THE EXCHANGE OF ANTARCTIC DATA
+                  TEMP reports Part A                  (1-15 February 1997)
+                                                                Figure 2.
+
+
+Percentage of reports received from stations comprising the Antarctic Basic Synoptic Network for main synoptic hours.
+
+  WMO Secretariat
+
+
+12
+13
+
+GLOBAL OBSERVING SYSTEMS
+
+During the past six years, three global observing systems:
+- Global Ocean Observing System (GOOS),
+- Global Climate Observing System (GCOS), and
+- Global Terrestrial Observing System (GTOS)
+have been launched to provide data for marine services and for studies into possible climate change and sustainable development.
+
+The Global Ocean Observing System
+
+The Intergovernmental Oceanographic Commission (IOC) led the way in 1989 by deciding to establish GOOS as a scientifically designed, permanent, international system for gathering, processing and analysing oceanographic observations on a consistent basis, and distributing data products.
+
+In 1990 the Second World Climate Conference also called for the creation of GOOS, which was formally established in 1993 with co-sponsorship by the IOC, the WMO, the United Nations Environment Programme and the International Council of Scientific Unions.
+
+The main elements of GOOS are the collection and timely distribution of oceanic data and products, assimilation of data into numerical prediction models, development and transfer of technology, and capacity building within participating member states to develop analysis and application capability.
+
+The five GOOS modules are:
+- Climate (which it shares with GCOS);
+- Living marine resources (fisheries etc);
+- Coastal zone;
+- The health of the oceans (pollution issues);
+- Meteorological and oceanographic services.
+While WMO is generally supportive of GOOS, it is particularly interested in the climate and meteorological and oceanographic services modules.
+
+The Southern Ocean
+
+The Southern Ocean presents a challenge to many aspects of a Global Ocean Observing System (GOOS). GOOS is intended to provide a global framework for the gathering, coordination, quality control, distribution, and the generation of derived products, of all kinds of marine and oceanographic data of common utility, as defined by the requirements of a full spectrum of user groups. The gathering of data in the Southern Ocean, as an operational activity to generate products, is made difficult by climatological and logistical challenges. Historically this has resulted in a relatively sparse in situ data set for the Southern Ocean. Also, for a GOOS (unlike the WMO GCOS) coordination of observing systems in polar regions involve a different group of agencies and more specialised oceanographic observing platforms than those involved in subpolar and tropical oceanography. GOOS will be built to the extent possible on existing observational and data management systems. Because new resources for the growth of new observational systems (or expansion of existing systems) are extremely limited, a plan for a Southern Ocean component of GOOS must be very pragmatic.
+
+13
+14
+
+The Global Climate Observing System
+
+The issue: Global Climate Change
+
+The past few decades have seen growing concern about the climate band about the global change that may result from increased concentration of greenhouse gases in the atmosphere due to human activity. Scientists recognize that increases of greenhouse gases may modify the climate on a scale unprecedented in human experience. These changes could produce adverse effects and be detrimental to human health band welfare, and sustainable development. Consequently climate change is currently a topic of concern to national governments.
+
+In the current debate about climate change, it is evident that countries lack reliable information to answer critical scientific, economic and policy questions. In particular systematic and comprehensive global observations of the key variables are urgently needed and should be made available to the nations to
+- detect climate change at the earliest possible time
+- understand, model and predict climate variability and change
+- assess potential impact on ecosystems and socio-economics
+- develop strategies to diminish potentially harmful effects
+- support sustainable development.
+
+In reality, climate is not a national concern - it is a world-wide issue. International responses are required to address it. An international Global Climate Observing System is now available to assist governments in developing a coherent strategy to obtain this essential information.
+
+Global observations are essential
+
+It has been well established that the Earth's temperature is controlled by the balance between incoming radiation from the sun and outgoing radiation from the Earth. Certain atmospheric constituents (e.g., water vapour, and greenhouse gases such as carbon dioxide, ozone, methane) absorb outgoing radiation. In general, as concentrations of these constituents increase, the temperature of the Earth's surface and the atmosphere near the surface increases. Due to human activity over recent decades, global levels of several constituents have measurably increased, and thus the potential exists for a climate change on a global scale. To date, because of the large natural interannual and decadal climate variability, and the3 absence of a long-term observing system, measurable climate change due to human activity has not been detected with scientific certainty.
+
+According to the WMO/UNEP Intergovernmental Panel on Climate Change (IPCC) observations are urgently needed to better assess the likely magnitude, timing and regional effects of climate change. Specifically, observations are required to monitor the current state of the climate, and to provide a continuing source of global and regional information to be used as a basis to measure future change and assess its impact. It is necessary to include key processes and interactions linking all the climate system components (atmosphere, ocean, ice, land, biosphere). High quality and consistent measurements must be made, the information compiled into appropriate products for wide dissemination, and archived for future use.
+
+14
+15
+
+Due to the complexity of the climate system, scientifically advanced models are also necessary 
+to evaluate its natural variability, reduce the current level of uncertainty, and make meaningful 
+projections into the future. To be credible the models must be compared in detail with accurate 
+and representative global and regional data.
+
+In 1990 the Second World Climate Conference, noting that many critical climate elements 
+were not being observed, proposed a global climate observing system to be based on existing 
+programs and to ensure that appropriate information and products are accessible to 
+international and national user communities now and for the future. As a result, the Global 
+Climate Observing System (GCOS) was established in 1992 by the World Meteorological 
+Organization, the Intergovernmental Oceanographic Commission (IOC) of UNESCO, the 
+United Nations Environment Programme (UNEP), and the International Council of Scientific 
+Unions (ICSU).
+
+The GCOS is a long-term world-wide operational observing system designed specifically to 
+meet climate information requirements. It will provide a mechanism for international 
+coordination of observational programmes. The GCOS will not make observations, but rather 
+coordinate and facilitate observations by national or international organizations in support of 
+their own requirements as well as common goals. It is a key element in support of the World 
+Climate Programme that consists of climate research, data and monitoring, applications and 
+services, and impacts and responses. A Joint Scientific and Technical Committee was 
+established to identify the critical scientific issues requiring observations and to recommend 
+appropriate action to establish and implement the observing system.
+
+Antarctica and the Southern Ocean
+
+We need to design the WMO surface and upper air weather observing networks over 
+Antarctica and the Southern Oceans so that they will also serve to support the Global Climate 
+Observing System (GCOS). The instrumental record of the climate of Antarctica is for a 
+relatively short period compared with other parts of the world. Except for Antarctic Peninsular 
+stations, Mawson (1954) was the first permanently staffed station on the Antarctic continent.
+
+Despite the gradual expansion in the surface weather observing network which has been 
+achieved in the 1990's by the installation of automatic weather stations, there has been a 
+reduction of upper air observations, especially from the interior of the continent. Since the 
+cessation of upper air soundings at Vostok in 1992, the Amundsen-Scott station at the South 
+Pole has been the only station still conducting an upper air program of observations. This 
+contrasts with the situation during International Geophysical Year (IGY) of 1957-58 when 
+there were 9 manned scientific stations, providing meteorological data from the Antarctic 
+plateaus of East and West Antarctica from stations with elevations of 1500 m or higher above 
+sea level. Clearly the current lack of rawinsonde stations makes conventional upper air 
+analysis impossible over much of the continent without the input of data obtained by satellite 
+remote sensing.
+
+The current sparse weather reporting and climate reference station networks compared with 
+more  reference climate station network for the future. If funds were available, new weather 
+reporting and Reference Climate Stations could be installed in West Antarctic and the 
+continental interior of East Antarctica. Automated Geophysical Observatories currently
+15
+16
+
+operated by USA, UK and Japan have the potential to fill the gaps in the meteorological 
+network over the continental interior of East Antarctica for little additional costs.
+
+WMO appreciates that the CCOS Upper-air Network (GUAN) and the GCOS Surface 
+Network (GSN) have received the endorsement of many Members. In Antarctica and the 
+Southern Ocean there is still the need for practicable solutions to be defined.
+
+GSN
+
+Identification of general locations of sites for installation, maintenance, calibration and 
+replacement of AWS. Accordingly, a plan should be established as to where AWS should in 
+future be installed and maintained so as to provide a long-term climate record. An Antarctic 
+network with a spacing, of say about 500 km, could be our long-term goal. Some progress 
+towards this could be made in the next 5 years, with encouragement of GCOS, through 
+international cooperation.
+
+The International Programme for Antarctic Buoys (IPAB) of the World Climate Research 
+Programme (WCRP) will endeavour to provide and maintain a basic network of buoys in the 
+seasonal sea ice zone with a spacing of about 500km. Position, air pressure and (for those 
+buoys in water) sea temperature are collected as basic data. Some systems are equipped to 
+additionally measure other parameters such as air temperature, wind speed and direction. All 
+buoys in the basic network should be equipped to enable data to be transmitted in real time. As 
+a preferred approach, platforms should be located and data should be collected via CLS -
+Service ARGOS using NOAA (TIROS-N series) satellites.
+
+GUAN
+
+With respect to upper-air soundings, a basic network needs to be defined that:
+
+- Is sufficient for calibration of data obtained via satellite remote sensing.
+
+- Provides a continuity of the long-term climatic record at some strategic locations, 
+  sufficient to be able to carry out meaningful climatic trend analysis in the decades to come.
+
+- Is affordable and has the support of WMO Members who have meteorological programs in 
+  Antarctica or on Sub-Antarctic Islands.
+
+                                                                                                                      16

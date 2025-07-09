@@ -1,0 +1,238 @@
+﻿
+
+
+
+
+
+International Coordination of Hydrography in Antarctica: Significance to Safety of Antarctic Ship Operations
+
+
+
+
+
+International Coordination of Hydrography in Antarctica: Significance to Safety of Antarctic Ship Operations
+Submitted by COMNAP to ATCM XXX under agenda item 9 “Safety and Operations in Antarctica”
+Executive Summary
+1. Hydrography is the science of the measurement of all parameters of the seas and the oceans. It allows the production of marine charts, an essential tool for safe navigation. Even in time of conflict, national Hydrographic Offices have sustained intercommunication and a sense of international public good in which safety of life at sea and the pursuit of science have over-ridden national goals. This led to the emergence of the International Hydrographic Organisation (IHO).
+2. A range of international agreements, and in particular the Safety of Life at Sea (SOLAS) Convention, recognise the importance of the provision of adequate hydrographic services and specify arrangements for such provision, mostly based on 'responsibilities' of coastal states. The IHO and a number of Antarctic Treaty Parties have over the years put efforts into applying these provisions to Antarctica. This eventually led to the creation of the IHO's Hydrographic Committee on Antarctica (HCA) in which 17 Antarctic Treaty Parties participate. COMNAP and IAATO have observer status at the HCA and contribute actively to its work. The ATCM has recognised and supported the work of the HCA, in particular through Resolution 3 of 2003.
+3. The HCA together with its members and observers has developed a chart scheme and a long term survey plan for Antarctic waters and works towards production of the charts. While significant progress has been made over the years with the technologies and capabilities available at the time there is still much to be done and the output has not matched the expansion of maritime traffic. 
+4. The IHO estimates that less than 1% of the sea area within the 200m contour has been adequately surveyed to meet the needs of contemporary shipping entering Antarctic waters. The channels and approaches to bases around the Antarctic Peninsula have seen the most intensive effort, yet even here some 60% of the area within the 200m contour has never been systematically surveyed, whilst the remainder needs re-survey. 
+5. Whilst there have been relatively few accidents in the region, there is an increase in the number and size of vessels deploying into the region and pushing into sea areas where hydrographic surveys and charting are inadequate to support their safe operation. 
+6. Antarctic waters represent one of the most challenging marine regions on the globe, and also one of the most fragile.  Accurate charts are essential to management of human activity. Hydrographic activity is expensive and assets are scarce.  Coordination of international effort is of the utmost importance.  There is an urgent need to uphold, and where necessary clarify, responsibilities of both government and private sector operators.  
+7. Top-level support is required for the ongoing efforts of COMNAP, IAATO and the IHO HCA.  Planning and delivery of a substantial hydrographic component within national efforts during the IPY is of the utmost significance to signal the future commitment of Antarctic Treaty Consultative Parties.  Additionally, the commitment of the national Hydrographic Offices of other Antarctic Treaty Parties is required to take forward the completion of the chart schemes needed to support long-term safe ship operation and protection of the environment.   
+Hydrography and Antarctica
+8. Hydrography is the science of the measurement of all parameters of the seas and oceans, but primarily the shape of the bottom and the vertical and horizontal motions of the water column.  Traditionally it has been associated with the safe and optimum operation of shipping, but in the twentieth century its relevance to protection of the environment became ever clearer.  It is also an essential component of disaster warning and response, as illustrated in the Indian Ocean tsunami of December 2004.
+9.  The drivers for the development of national hydrographic programmes in modern times have been trade and commerce, war and the efficient operation of fleets, and exploration.  The latter has often been motivated by national prestige, but increasingly by science.  This aspect is particularly evident in Antarctica, where, after the existence of a populated Southern Continent was disproved in the late eighteenth century, and the fragility of marine mammal and fish stocks was exposed in the nineteenth and twentieth centuries, National Programs have been focussed on science.  Even in time of conflict, national Hydrographic Offices (HOs) have sustained intercommunication and a sense of international public good in which safety of life at sea and the pursuit of science have over-ridden national goals.  This sentiment led to the creation of the International Hydrographic Bureau (IHB) in the wake of the First World War and to the emergence of the International Hydrographic Organization (IHO) in 1970.
+10.  In July 2002 a substantial amendment to the Safety of Life at Sea (SOLAS) Convention entered into force which included recognition of the importance of the provision of adequate hydrographic services by all coastal states.  Chapter V, Regulations 2, 4 and 9, now specify the arrangements which must be made for surveys of national waters, the promulgation of the results in nautical charts and associated documents, and the systematic update of this information, especially the broadcast of urgent information by wireless or satellite links.  The efforts of the IHO to apply these provisions to Antarctica, a region beyond normal national jurisdiction, will be described later in this paper.
+11.  The core task of the hydrographic surveyor is to find safe routes and to identify and give warning of any adjacent dangers.  The challenge of this task increases with every technological advance e.g. bigger and bigger ships; wide availability of satellite-based navigation.  When assessing, for example, the safe navigation of a large passenger-carrying vessel in Antarctic waters, it is essential to have a grasp of the key dates of concomitant advances in the technology of hydrographic measurement.  Thus control of survey work in Antarctica by the Global Positioning System (GPS) has only been possible within the last decade, and precise positioning with differential GPS (dGPS) was introduced even more recently.  The mariner must therefore be alert for the need to apply significant corrections before a position derived from satellite navigation (SATNAV) systems can be plotted on charts constructed from older surveys which were based on astronomical observations.  Indeed, for some charts the corrections cannot even be computed because of lack of information about the original survey.  Moreover the precision with which features have been plotted in relation to the coast will depend upon means available at the time.  Both visual fixing and some radio-positioning systems were particularly susceptible to degradation in the harsh conditions of Antarctica.  Similar caution is necessary when assessing the effectiveness of surveys in detecting all dangers to modern deep draught ships.  Echo-sounding only came into general use in the 1930s, and constraints of time and weather limited the number of regularly spaced profiles which could be obtained during polar missions.  Towed sidescan sonar systems which can insonify the seabed between the echo sounder profiles were introduced in 1973, but their deployment in Antarctic waters is bedevilled by the presence of kelp and ice.  It is only within the last half decade that multi-beam echo sounders (MBES) have introduced the possibility of complete insonification of the seabed.  A number of groundings in areas surveyed in the twenty-first century, but without benefit of these most modern systems, have provided a reminder of the limitations of our hydrographic knowledge in the region.   
+12.  A number of countries have sustained significant programmes of hydrographic effort in Antarctica, particularly since the late 1940s.  However, the impact of the technological limitations outlined in the last paragraph has been enhanced by the remoteness of the region.  Even the activity of adjacent southern hemisphere countries has been strictly seasonal and generally limited to the immediate vicinity of scientific bases.  It is rare for a dedicated hydrographic survey vessel to be deployed in the region, and most work has had to be conducted from multi-role vessels in competition with a wide range of other tasks.  The result is an output which has not matched the dramatic expansion of maritime traffic.  Sea-borne tourism presents a particular challenge.
+Current status of surveys, charting and maritime safety information in Antarctic waters
+13.  Up to 1998 the IHO attempted to maintain a record of the contribution of its member states to survey and charting of Antarctica in Special Publication 59 (S-59).  Such a record is essential for co-ordination and planning of future effort, especially to ensure the maximisation of scarce resources.  The information is currently being transferred to a GIS format which will enable more efficient update and analysis of the data-base.  So far a chart catalogue has been created, and this and the original S-59 data can be viewed on the IHO web-site (www.iho.int).  Once the GIS survey section is populated, information for Antarctica can be included in the IHO’s world-wide over-view, the authoritative S-55 data-base, which is also accessible on the IHO web-site.  
+14.  For the time being it is only possible to give a broad estimate of the survey coverage around the continent.  Less than 1% of the sea area within the 200m contour has been adequately surveyed to meet the needs of contemporary shipping entering Antarctic waters.  The channels and approaches to bases around the Antarctic Peninsula have seen the most intensive effort, yet even here some 60% of the area within the 200m contour has never been systematically surveyed, whilst the remainder needs re-survey.  Elsewhere, barely 1% of the area within the 200m contour has been systematically surveyed.  Large areas along the E coast of Palmer Land, the coasts of Dronning Maud Land and Byrd Land, and the Ronne, West, Shackleton, Ross and smaller ice sheets, are of course ice-covered. 
+15.  Whilst examination of smaller scale charts of Antarctica may suggest that most open sea areas and channels are deep and that the areas of danger are contained and localised, the significance of the limited hydrographic measurement in the region becomes clear when set against the evidence of increased ship activity reported annually to the ATCM by the Ship Operations Group of the Council of Managers of National Antarctic Programs (COMNAP/SHIPOPS) and the International Association of Antarctic Tour Operators (IAATO).  Whilst National Program research vessels generally follow well-trodden paths, the tourist ship operators are hungry for access to new areas and must close the coast or ice-edge to satisfy their customers.  The next sections of this paper will describe how the IHO has sought to support efforts to identify key operating areas, and to prioritise survey and charting of routes, approaches and bases/landing sites.
+16.  A key IHO objective world-wide is to rationalise chart coverage through the promotion of an International (INT) Chart Series, to which national hydrographic offices are urged to contribute.  To this end the world is divided into INT Charting Regions, matched wherever possible by a Regional Hydrographic Commission which is tasked to define an INT charting scheme as well as to co-ordinate other hydrographic effort.  The area S of 60º S is defined as INT Charting Region M.  The next section of this paper will describe how cooperation has been achieved in the development of an INT Chart Scheme.  Currently, 55% of the required charts have been published.
+17.  Significantly greater progress has been achieved in putting in place arrangements for promulgation of urgent maritime safety information (MSI) through the NAVAREAS of the World-Wide Navigational Warning service (WWNWS).  Full coverage has been provided by the following coordinating countries: Argentina (NAVAREA VI), South Africa (NAVAREA VII), Australia (NAVAREA X), New Zealand (NAVAREA XIV) and Chile (NAVAREA XV).  Full details of the boundaries and contacts for each of these areas are at Annex A.  However, these provisions rely ultimately on the prompt reporting of information from those navigating in the region.  The NAVAREA VI coordinator, with responsibility for the most frequented waters around the Antarctic Peninsula and adjacent island groups, has voiced concern at the low level of input of information. COMNAP is currently attempting to find new solutions to this recurrent problem through an overhauled Ship Position Reporting System (SPRS) and associated services, though it should be noted that by far and large schedules and positions of ships operated by COMNAP and IAATO members are available through a number of channels. 
+The IHO Hydrographic Committee for Antarctica and its work
+18.  In 1989 the IHO was invited to participate in ATCM XV, in order to provide advice on the agenda item “Cooperation in Hydrographic Surveys in Antarctic waters”.  A recommendation of this meeting led to the establishment in 1992 of the IHO’s “Permanent Working Group of Cooperation in Antarctica”, renamed in 1997 as the Hydrographic Committee on Antarctica (HCA).  In effect the committee is the counterpart of the Regional Hydrographic Commissions in the other INT Charting Regions.  Membership of the HCA is open to any IHO Member State whose government has acceded to the Antarctic Treaty and which contributes resources and/or data to IHO INT Chart coverage in Antarctica and which becomes a signatory to the Statutes of the Committee.  Current members are: Argentina, Australia, Brazil, Chile, China, Ecuador, France, Germany, Greece, India, Italy, New Zealand, Norway, Russia, South Africa, Spain and the UK.  The membership of the following is still pending, awaiting signature of the HCA’s Statutes: Japan, Rep. of Korea, Peru, Poland, Ukraine, the USA and Uruguay.
+19.  The Committee’s objectives are to promote technical co-operation and exchange of information, and to stimulate its members to widen hydrographic activity in the region in accordance with ATCM Resolution 3 of 2003.  Technical advice and assistance is offered by the IHB to strengthen their capabilities.  In its first decade the prime focus of the WG/HCA was on the development of a comprehensive but rationalised INT Chart Scheme, and the identification of a producer nation for each chart. The first chart (INT 65) was published by New Zealand in October 1994. Out of the 89 small, medium and large scale charts envisaged in the first version of the scheme, 53 Charts have now been published.   However, new requirements have increased the scheme to 99 INT Charts.  There is an urgent need to identify additional producer nations, not only for these paper charts, but also for the Electronic Navigational Charts (ENCs) which are likely to be mandated in the near future.  This requirement would be assisted by increased participation in the HCA of Antarctic Treaty Parties that are IHO Member States.  At present less than 50% of these Antarctic Treaty Parties contribute to the work of the committee.
+20.  But dependable nautical charts can only be produced if adequate hydrographic data and information exists.  Hence, in 2004, the HCA formed a Survey Programme Working Group (HSPWG) which was tasked to develop assessment criteria, to produce a prioritised statement of areas requiring survey, based on geographical factors, maritime shipping routes and existing coverage, and to compare this statement with National Programs to avoid duplication.  The HSPWG was also asked to develop guidelines, complementing those in IHO S-44, for gathering and submitting survey observations in ships of opportunity.1  The over-arching target was to achieve maximum output during the International Polar Year (IPY) (2007-2008).  The HSPWG produced its deliverables in 2005, following widespread consultation.  A prioritised HCA Long Term Survey Plan identified Main Corridors, Branch Corridors and approaches.  A short list of High Priority Surveys, designed to exploit the IPY, was derived from the plan.  It was reported to the XXIX ATCM, where it was endorsed.  Sadly, as indicated in the updated Short List of High Priority Surveys at Annex B, few contributions to address this plan were forthcoming at the HCA meeting in November 2006.   
+The Way Ahead
+21.  The  IPY now under-way is a signal of the undiminished importance of the southern polar region in international efforts to monitor the global environment.  The Antarctic Treaty regime also recognises the fragility of the ecosystem of the continent, and the need to minimise pressure from human activity, including tourism.  Both COMNAP, with responsibility to promote and facilitate the coordination of national scientific effort, and IAATO, with a commission to promote responsible tourism, recognise the vital importance of improved hydrographic information for the region.
+22. In this situation COMNAP recognised that a successful, productive cooperation with HCA was essential in working towards safer navigation in Antarctic waters, safer access to more Antarctic areas and fewer grounding or sinking incidents. This is crucial in both protecting life at sea and reducing the risk of major environmental impacts. In line with this, the current mission of the COMNAP ship operations working group, SHIPOPS, includes: 
+    • Assess and evaluate relevant recommendations and measures of maritime and other organizations as well as provide input and if necessary take part at relevant meetings, for example the meetings of the Hydrographic Committee on Antarctica
+    • Maintain a productive relationship with HCA, contribute to its work and identify the ways by which National Programs could further support the work of the HCA.
+23.  COMNAP recognises the pressure on National Program resources, especially ship time.  To this end COMNAP has taken a proactive role as an observer in the HCA, using its SHIPOPS questionnaire to identify equipment in the vessels operated by its member Programs which might be made available for passage observations, and on an opportunity basis for small area surveys.  IAATO is another proactive HCA observer organisation, and has also canvassed its members, both to encourage the submission of hydrographic observations, and to identify opportunities to deploy hydrographic surveyors into areas where survey work is required.  COMNAP, IAATO and HCA have accelerated this effort during 2007 in an effort to produce a significant contribution in the IPY.  For example, the HCA is preparing to make a bid to the IHO Capacity Building Committee (IHOCBC) for funding to support deployment of personnel and equipment from states without their own National Program in Antarctica in any ships of opportunity which are identified.  This effort is worthy of the strongest possible commendation to the Consultative Parties during ATCM XXX.
+24.  Without a strong commitment from all Consultative Parties with a hydrographic surveying and charting capability in Antarctica, the HCA’s short term and longer term Survey Plan will not be achieved.  Whilst vessels have not been immune from accidents in the region, it is the annual increase in the number and size of tourist vessels deploying into the region which represents the greatest concern.  Vessels are pushing into sea areas where hydrographic surveys and charting are inadequate to support their safe operation. 
+25. There may be varying opinions about tourism and non-government operations in Antarctica as well as varying interpretations of how international agreements and principles may apply to the production of accurate Antarctic charts for the benefit of, among others, non-government operations. Irrespective of these, hydrography in Antarctic waters does support safety of life at sea and environmental protection through reducing the risk of groundings and other maritime accidents. It also reduces the need for rescue operations, usually carried out by the closest National Program or IAATO member vessel – with all the costs and operational disruptions it can cause. It can be noted that it should also reduce the risks of exposure to liability under Annex VI (on liability arising from environmental emergencies) of the Protocol on Environmental Protection to the Antarctic Treaty.
+26. Another urgent call is needed, during this ATCM, for national contributions to the HCA plan.
+Conclusions
+27. The waters of the Southern Ocean around Antarctica represent one of the most challenging marine regions on the globe, and also one of the most fragile.  Accurate measurement and representation in GIS systems are essential to management of human activity.  Hydrographic activity to probe where remote sensing cannot reach is expensive and assets are scarce. 
+28. Coordination of international effort is of the utmost importance.  There is an urgent need to uphold, and where necessary clarify, responsibilities of both government and private sector operators.  If public service activity is to support national and multilateral scientific and commercial activity, then National Programs, national Hydrographic Offices and commercial interests need to share information on their chosen operating areas, and ensure clear and timely promulgation of reports of significant navigational safety information.  All must equally allow time within their programs for hydrographic work to contribute to the safety of their and others' operations.  The HCA has noted with concern continued reports from Member State Hydrographic Offices that they cannot secure ship time for their work.
+29. Top-level support is required for the ongoing efforts of COMNAP, IAATO and the IHO HCA.  Planning and delivery of a substantial hydrographic component within national efforts during the IPY is of the utmost significance to signal the future commitment of Antarctic Treaty Consultative Parties.  Additionally, the commitment of the national Hydrographic Offices of other Antarctic Treaty Parties is required to take forward the completion of the INT Chart Scheme and the Electronic Navigational Charts (ENC) scheme needed to support long-term safe ship operation and protection of the environment.   
+Annex A
+NAVAREAS of the World-Wide Navigational Warning service (WWNWS) covering “ANTARCTICA”
+
+
+
+NAVAREA
+NAVAREA VI
+NAVAREA VII
+NAVAREA X
+NAVAREA XIV
+NAVAREA XV
+Country
+ARGENTINA
+ SOUTH AFRICA
+AUSTRALIA
+NEW ZEALAND
+CHILE
+Responsible
+Captain Carlos Ignacio Ruda
+Mr. Malcolm Nelson
+Manager AUMCC
+NAVAREA XIV Coordinator
+Capt. Jorge Ibarra 
+Position
+Head of Maritime Safety  Dept. Servicio de Hidrografia Naval
+Hydrographic Office
+
+AusSAR, Australian Maritime Safety Authority  
+LINZ Hydrographic Services
+
+Director, SHOA
+Address
+Avenida Montes de Oca 2124  C 1270ABV- Buenos Aires
+Private Bag X1  TOKAI  7966  
+Cape Town   
+GPO Box 2181 
+Canberra City ACT 2601
+PO Box 5501  Wellington 
+
+Errazuriz 254 Playa Ancha Valparaiso
+Telephone
++54 11 4301 2249
++27 21 787 2408,  787 2444  
++61 8 94302130  
+0800 665 463, +64 4 460 0110
++56 32 2266666
+Fax
++54 11 4303 2299,  4303 0939
++27 21 787 2233, 787 2228 9 (24hrs)
++61 8 94302121  
++64 4 460 0161
++56 32 2266542
+e-mail
+snautica@hidro.gov.ar  ciruda@hidro.gov.ar  amendoza@hidro.gov.ar
+hydrosan@iafrica.com
+chris.payne@amsa.gov.au
+info@linz.govt.nz  agreenland@linz.govt.nz
+rsalinas@shoa.cl      shoa@shoa.cl
+Annex B
+
+HCA Short List of High Priority Surveys 
+
+Categories
+Category
+Usage
+
+Category
+Current survey status
+A
+Frequent
+
+A
+Adequately surveyed
+B
+Regular
+
+B
+Requires re-survey at larger scale or to S-44 standard
+C
+Infrequent
+
+C
+Has not been systematically surveyed / Unsurveyed
+Note: 	In the tables below, indications of planned surveys appear in red while surveys completed appear in blue.
+Main corridors
+MSR
+Name
+Usage category
+Survey category
+Notes and INT chart coverage. Published and proposed.
+4
+Gerlache strait
+A
+A + C
+20% surveyed. INT 9156 & 9157.  Blocks surveyed by UK in 05/06. Block planned by UK in 06-07.
+17
+South Shetlands MSR
+A
+C
+INT 9151.  Block surveyed by UK in 05/06. Block planned by UK in 06-07.
+18
+Elephant Island MSR
+A+C
+C
+INT 9150.  Block surveyed by Brazil in 05/06.
+19
+Elephant Island to KGI
+A
+C
+INT 9150, INT 9151.  Block surveyed by Brazil in 05/06.
+20
+Deception Is to Brabant Island
+A
+C
+INT 9120, INT 9155, 9156, 9157. . Block surveyed by UK in 05/06.
+Branch corridors and approaches
+MSR
+Name
+Usage category
+Survey category
+Notes and INT chart coverage. Published and proposed.
+C
+Paulet Island
+A
+A + C
+50% surveyed, remaining area top of UKHO priority.
+ INT 9112. Block surveyed by UK in 05/06.
+D
+Brown Bluff and Fridtjof Sound
+A
+C
+INT 9154. Block planned by UK in 06/07.
+M
+Melchior Islands and approaches
+A+C
+C
+INT 9157. Block surveyed by UK in 05/06.
+N
+Errera Channel
+A
+C
+Includes Cuverville Is, Danco Is and Ronge Is. INT 9103. Block surveyed by UK in 05/06.
+O
+Andvord Bay
+A
+C
+Includes Neko Harbour. INT 9103. Block surveyed by UK in 05/06.
+P
+Paradise Harbour
+A
+C
+Almirante Station and Waterboat Point. INT 9104
+Q
+Neumayer Channel and Port Lockroy
+A
+A + C
+70% surveyed, North Neumayer Channel to finish
+INT 9158 & 9104. Block surveyed by UK in 05/06.
+Ae
+McFarlane Strait
+A
+A + C
+Half Moon Is cat A, Yankee Harbour cat B, rest cat C. 
+INT 9121 & 9112. Block surveyed by UK in 05/06. Yankee H. planned by UK in 06/07.
+Am
+Point Wild
+A
+C
+INT 9150. Block surveyed by Brazil in 05/06.
+
+Mawson
+C
+C
+AUS600
+
+Commonwealth Bay
+C
+C
+AUS603
+
+Davis to Larsemann Hills
+C
+C
+No chart coverage except at small scale.
+Sandjeford Bay to Cape Rundingen – AUS452 scale 1:500,000
+	 MSR = Maritime Shipping Route. The figures / letters in this column are shown on the MSR diagram which is on the preceding page.
+

@@ -1,0 +1,121 @@
+terrANTALife: Increasing the availability of terrestrial and
+freshwater biodiversity data checklists to inform CEP decision-
+making
+terrANTALife: Increasing the availability of terrestrial and
+freshwater biodiversity data checklists to inform CEP decision-
+making
+Summary
+This information paper presents terrANTALife 1.0, a curated
+biodiversity data checklist comprising a broad catalogue of known
+of eukaryotic and prokaryotic life forms in Antarctic terrestrial
+ecosystems (Pertierra et al 2024). This compendium represents a
+comprehensive tree of life in Antarctic non-marine ecosystems that
+solidifies the work of Wauchope et al. 2019 that collated a massive
+compendium of spatial records of living entities reported in the
+continent, now in the form of a taxonomically-resolved biodiversity
+checklist. This comprehensive baseline data basis represents an
+extraordinary tool for conservation and management. It will allow a
+better inclusiveness and representativeness of all life forms for
+holistic science and strategic conservation. Future biodiversity
+analyses compared with this baseline will allow considering the
+vulnerability of some species and the introduction of new ones as
+well as the identification of ecological knowledge gaps.
+Background information
+The Committee for Environmental Protection (CEP) provides advice
+to the ATCM on issues relating to the protection of the Antarctic
+Environment including its biodiversity. Through the CEP Five-Year
+Work Plan (available at https://www.ats.aq/e/committee.html), the
+Committee has identified ‘Biodiversity knowledge’ as a Priority 2
+issue where the need of science knowledge and information on the
+‘Collection and submission of further spatially explicit biodiversity
+data’ has been identified.
+The best available science regarding biodiversity knowledge of the
+Antarctic terrestrial and freshwater environment may assist the
+ATCM and CEP in its decision-making, including:
+the conservation of species and habitats through designation of
+Specially Protected Species and protected areas; and
+the delivery of the Environmental Impact Assessment (EIA) process.
+SCAR has a long track record of supporting the Committee in its
+provision of advice to the ATCM with regard to biodiversity
+information (see ATCMXLII IP52; ATCMXL WP13; ATCMXXXIX
+IP38; ATCMXXXVI WP37; ATCMXXXIII WP3). Currently, the most
+recently updated compendium of Antarctic diversity records is
+Wauchope et al. 2019 ‘Biodiversity Database’ (ATCMXLII IP52),
+which compiled terrestrial species occurrence records from
+Antarctic Special Protected Areas (ASPAs), covering over 2,000
+described terrestrial and freshwater taxa from the Antarctic.
+However, opportunities exist to build on this database, including in
+terms of data accuracy and comprehensiveness.
+Recent developments and potential improvements
+A research consortium created under the auspices of SCAR and its
+Scientific Research Programme ‘Integrated science to inform
+Antarctic and Southern Ocean Conservation’ (Ant-ICON) has
+compiled, improved and revised eukaryotic species inventories and
+provided a first compendium of microorganisms present in
+terrestrial and freshwater ecosystems in Antarctica in a checklist
+preliminarily called terrANTALife.
+Version 1.0 of terrANTALife
+contains all Antarctic life forms (i.e. 470 animals, 997 fungi, 306
+plants and 418 “protists”) detected from scientific literature in the
+continent, harmonized and revised by group of experts up to
+January 2024;
+includes genetic information (about 350,000 amplicon sequence
+variants) relating to prokaryotic biodiversity, which is relevant to
+Antarctic microorganism; and
+has been scrutinized through a peer-reviewed journal specialized in
+biodiversity data in order to ensure the data set conforms to
+existing quality standards (https://bdj.pensoft.net/article/106199/
+instance/8812334/).
+Links with global biodiversity knowledge
+The Antarctic Biodiversity Information Facility (AntaBIF), acting as
+the Antarctic node to the Global Biodiversity Information Facility
+(GBIF), represents a centralized digital meta-repository of Antarctic
+biodiversity datasets, allowing for the integration of Antarctic
+biodiversity information. The terrANTALife long-term intent is to
+make the biodiversity checklist a living repository integrated with
+GBIF and AntaBIF facilities that allows for open contributions,
+regular updates and interannual provision of key summary
+information to the CEP.
+The complete materials are publicly available for free usage in the
+Spanish CSIC server (https://digital.csic.es/handle/10261/307449)
+and are also deposited in GBIF under the DarwinCore’s biodiversity
+standardized information system for wider visibility as to follow the
+FAIR open science principles approach.
+Keeping the biodiversity knowledge current
+To provide a living database, it is anticipated that checklists will be
+updated (with the intent to be biennially) through open
+participatory processes involving SCAR and any interested Parties,
+with post-launch ongoing curation following the successful and
+pragmatic approach of GBIF DarwinCore. Subsequent revisions of
+the checklist will be updated regularly with new versions, provided,
+ideally, on an annual basis, post publication.
+To this end, members of the polar research community will be
+regularly consulted via social media and events asking for new
+contributions and updates to include. It is proposed that the updates
+shall be coordinated by a taxonomic expert consortium among
+current and new contributors from the Antarctic research
+community through open calls for offered added expert
+involvement under the auspices of SCAR, with approval of proposed
+updates confirmed following appropriate peer-review. Each version
+of the dataset will be made available to enable any changes, errors
+and/or sources to be traced back.
+Next steps
+The authors aim to ensure that datasets will be regularly revised
+and improved, with the new updates published under subsequent
+peer review processes. The resulting products will be presented to
+the CEP to inform environmental management policy making, and
+SCAR hopes to submit updates to future CEP meetings providing
+more information.
+References
+Pertierra LR, Varliero G, Barbosa A, Biersma EM, Convey P, Chown
+SL, Cowan D, De Los Rios A, Escribano-Alvarez P, Fontaneto D,
+Fraser C, Harris M, Hughes K, Griffiths H, le Roux P, Liu XP, Lynch
+H, Majewska R, Martinez PA, Molina-Montenegro M, Olalla-Tarraga
+MA, Peck L, Quesada A, Ronquillo C, Ropert-Coudert Y, Sancho L,
+Terauds A, Vianna J, Wilmotte A, Hortal J, Greve M (2024)
+TerrANTALife 1.0 Biodiversity data checklist of known Antarctic
+terrestrial and freshwater life forms. Biodiversity Data Journal 12:
+e106199.
+Wauchope, H., Shaw, J.D. & Terauds, A. A snapshot of biodiversity
+protection in Antarctica. Nat Commun 10, 946 (2019). https://
+doi.org/10.1038/s41467-019-08915-6

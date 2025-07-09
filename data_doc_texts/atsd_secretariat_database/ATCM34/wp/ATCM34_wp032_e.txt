@@ -1,0 +1,163 @@
+﻿
+
+
+
+
+
+Enhancing the Antarctic Protected Areas Database to help assess and further develop the protected areas system
+
+
+
+
+Enhancing the Antarctic Protected Areas Database to help assess and further develop the protected areas system
+Working Paper submitted by Australia
+Summary
+At CEP XIII (2010) Australia introduced ATCM XXXIII/WP 54 Enhancing the Antarctic Protected Areas Database to help assess and further develop the protected areas system. Following discussion during the meeting, Australia undertook to work with the Secretariat and interested parties to further develop options and to bring an updated proposal to CEP XIV. This paper reports on the results of intersessional consultations. It presents examples of how expanding the Antarctic Protected Areas Database and centrally managing relevant spatial information about Area boundaries could support the assessment and further development of the protected areas system. Australia proposes that the CEP: agrees that the Antarctic Protected Areas Database should be expanded to include further relevant information to be provided by proponents when submitting management plans; encourages proponents to make Area boundaries available in a digital format suitable for use in a geographic information system (GIS) where possible; and requests the Secretariat to take the steps necessary to accommodate these changes.
+    1. Background
+At CEP XIII (2010) Australia submitted WP 54 Enhancing the Antarctic Protected Areas Database to help assess and further develop the protected areas system. The paper recalled the Committee’s endorsement of recommendations by the Subsidiary Group on Management Plans, to:
+    • consider what information about protected areas could usefully be contained in the protected areas database; and
+    • promote the use of global positioning systems (GPS) to accurately define protected area boundaries, manage such information in the protected area database, and use such information in conjunction with Resolution 3 (2008) to assess representativeness.
+In response to these recommendations, Australia suggested that expanding the Antarctic Protected Areas Database to capture additional information could assist the CEP to move towards a more holistic approach to area protection. Australia also noted that a range of related objectives could also be addressed if ASPA / ASMA boundaries were centrally available in a digital format suitable for use in geographic information systems (GIS), and suggested that the Committee consider encouraging proponents to submit Area boundaries in a suitable digital format. Many Members supported these proposals. Other Members supported the proposals in principle but noted a need to further consider the detail of some elements. Australia undertook to work with the Secretariat and interested parties to further develop options and to bring an updated proposal to CEP XIV.
+    2. Further development of the proposal
+During the intersessional period Australia contacted each of the CEP Members responsible for preparing maps for existing ASPA and ASMA management plans. For each Area, the respondent was invited to indicate: whether a GIS was used to produce the maps. If the answer was ‘no’, the respondent was invited to indicate whether they anticipated having the capability to use a GIS to produce maps in the future. Respondents were also invited to provide any comments on the proposals outlined in ATCM XXXIII/WP54.
+Responses were received from 11 Members, addressing the approach to preparing the maps for 58 of the 71 ASPAs and all of the seven ASMAs. Members responsible for preparing 51 of the 58 ASPA management plans and all of the seven ASMA management plans do currently have the capability to use a GIS to produce maps. Several Members indicated that they do not currently utilise a GIS to produce management plan maps, although some anticipated having the ability to do so in the future. 
+In summary, it would seem that a process to encourage the submission of ASPA / ASMA boundary information in a digital format suitable for use in a GIS, where available, could usefully capture data for a large proportion of the current suite of Areas. Not all Members have the capability to produce maps using a GIS, so any process would need to be voluntary for the time being.
+    3. Examples of mapping and spatial analysis applications
+In ATCM XXXIII/WP 54, Australia noted that expanding the Antarctic Protected Areas Database to include further information fields (e.g. primary reason for designation; main Environmental Domain represented) and having ASPA/ASMA boundaries centrally available in a digital format suitable for use in a GIS would facilitate a range of potential applications, for example:
+    • determining the proportion of each environmental domain represented by one or more ASPAs; 
+    • producing maps for CEP reports, such as the CEP tourism study; 
+    • supporting state of the Antarctic environment reporting (e.g. total area under protection / portion of EDA under protection);  and
+    • generally, enhancing the CEP’s ability to visualise and further develop the protected areas system.
+To help illustrate some of these potential applications for mapping and spatial analysis of protected areas, the figures and table presented in Appendix A were developing using information for the 11 ASPAs and 2 ASMAs for which Australia is a/the proponent.
+In Australia’s view, these examples help demonstrate that a range of useful applications would be possible if spatial information for all ASPAs and ASMAs was centrally managed, and if the protected areas database was enhanced to capture relevant additional information about each Area. Utilising modern spatial data management tools in this way would be consistent with the importance afforded to the protected areas system as a key tool for promoting the comprehensive protection of the Antarctic environment, and would assist the CEP to move towards a more holistic approach to area protection and management. 
+
+Recommendations
+Australia proposes that the CEP:
+    1) agrees that the Antarctic Protected Areas Database should be expanded to include fields representing: (1) primary reason for designation; and (2) main Environmental Domain represented.
+    2) recommends that the ATCM modifies the coversheet for Working Papers presenting ASPAs and ASMAs appended to Resolution 1 (2008) to allow the Secretariat to capture the relevant information for inclusion in the database; 
+    3) encourages proponents to make ASPA and ASMA boundaries available in a digital format suitable for use in a GIS where possible, and to provide this information to the Secretariat for central management and access via the Antarctic Protected Areas Database; and
+    4) requests the Secretariat to modify the Antarctic Protected Areas Database as necessary to accommodate these changes.
+
+Appendix A. Examples of the use of a geographic information system (GIS) to assist with mapping and spatial analysis of protected areas
+
+Figure 1a. Selected ASPA boundaries displayed using a GIS to allow a visual comparison of size and to visually identify the primary reason for designation
+
+Figure 1b. Selected ASPA boundaries displayed using a GIS to allow a visual comparison of size and to visually identify the main Environmental Domain represented
+
+
+Table 1. Examples of statistics generated in a GIS using spatial information for the 11 ASPAs and 2 ASMAs for which Australia is a/the proponent
+Query
+Result
+Total area of all 11 ASPAs (km2):
+65.08
+Total area of all 2 ASMAs (km2):
+237.68
+Total area of all 11 ASPAs and 2 ASMAs (km2):
+302.76
+Primary reason for designation (Annex V, Article 3.21)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+Number of ASPAs:
+0
+1
+9
+0
+0
+0
+0
+1
+0
+Total area (km2):
+0
+20.88
+44.20
+0
+0
+0
+0
+0.0009
+0
+Area and proportion of each Environmental Domain represented in ASPAs and/or ASMAs
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+Total area (km2):
+0
+0
+0
+272.59
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.17
+10.22
+Proportion (%):
+0
+0
+0
+4.4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0.009
+0.03
+Number of ASPAs (out of a total of 11) within a certain distance of year-round station:
+<1 km
+1-10 km
+10-100 km
+100-1000 km
+
+1
+4
+4
+2
+

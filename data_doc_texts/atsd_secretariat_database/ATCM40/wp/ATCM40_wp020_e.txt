@@ -1,0 +1,371 @@
+﻿
+
+
+
+
+
+State of Knowledge of Wildlife Responses to Remotely Piloted Aircraft Systems (RPAS)
+
+
+
+
+
+
+
+
+State of Knowledge of Wildlife Responses to RPAS
+A Working Paper submitted by SCAR
+Summary
+The increasing use and utility of Unmanned Aerial Vehicles (UAVs), which are now preferably known as Remotely Piloted Aircraft Systems (RPAS), across the globe, including in Antarctic, brings corresponding challenges to their management.  The CEP has recognised on several occasions the need for more information to inform guidelines on RPAS use around wildlife in Antarctica, including a request for SCAR to present a summary of the current state of knowledge regarding wildlife responses to RPAS.  Here we present a synthesis from 23 published scientific research papers on wildlife responses to RPAS. Responses to RPAS were not consistent across species, and responses also varied in relation to flight path parameters (e.g. height and approach angle) and the type of RPAS. It is likely that wildlife responses are under-estimated in many cases due to a lack of data on physiological responses. Data on demographic effects (for example, changes in breeding numbers or breeding success) are also lacking. Guidelines for minimising RPAS disturbance to wildlife have been developed (see Hodgson and Koh 2016 [1] and Background Paper 1) and should be considered in Antarctic biological field research, but further studies are required to inform best-practice RPAS use in Antarctica around wildlife.
+Introduction
+    1) Unmanned aerial vehicles (UAVs), also known as unmanned aerial systems (UAS), drones, or preferably, to avoid gender bias, Remotely Piloted Aircraft Systems (RPAS), are increasingly used in wildlife research around the world (including Antarctica) due to their efficiency, cost effectiveness and accuracy [2,3,4].
+    2) In Antarctica, RPAS have been used for population monitoring [5,6,7], fine scale vegetation mapping [8], determining ecosystem function [9], operational applications [10,11] and during tourist activities (with permits [12])
+    3) Applications of RPAS in other parts of the world are even more diverse. Environmentally related applications include: monitoring habitat and biodiversity loss [13], biodiversity assessment [14], population monitoring [15,16,17,18), fine scale habitat assessment [19], locating tracked wildlife [20], as an anti-poaching measure [21] and vegetation monitoring [22].
+    4) Concomitant with this increasing use is an increasing awareness of the potential impacts, both from an operational and wildlife disturbance perspective [1, 7].
+    5) At ATCM XXXVII (2014) discussions on the use of RPAS in Antarctica culminated in a request to COMNAP, SCAR and IAATO to consider the issue of wildlife responses to RPAS and bring back information which explored the utility and risks of RPAS operation in Antarctica.
+    6)  In ATCMXXXVIII WP27, SCAR presented results of a meta-analysis of wildlife approach distances (see also [23]), and concluded that:
+    a. Consistent with earlier recommendations, there was no one-size-fits-all approach to managing human disturbance effects on wildlife. Management guidelines for different sites and species need to be developed on a case-by-case basis, ideally in conjunction with carefully designed experiments.
+    b. Animal behavioural changes do not necessarily reflect cryptic (physiological), and more deleterious impacts, such as changes in physiology, or long-term changes in population trends. 
+    c. The scientific evidence base for limiting human disturbance impacts to Antarctic wildlife is inadequate, and is in urgent need of improvement via a range of dedicated studies on RPAS, and other disturbances across a range of sites and species.
+    7) In its subsequent advice to ATCM XXXVIII (2015), the CEP recognised the benefits of developing guidance on the environmental aspects of RPAS use in Antarctica. Following submission of further information to CEP XIX in 2016 on RPAS use in Antarctica from Germany (ATCMXXXIX WP01- see also [7]), Poland (ATCMXXXIX IP057 – see also [24]), COMNAP (ATCMXXXIX WP014 [11]) and IAATO (ATCMXXXIX IP120 [12]), the CEP provided similar advice to the ATCM and agreed to initiate work in this respect at CEP XX in 2017.
+    8) Following the discussions at CEP XVIII, SCAR agreed to report back to the CEP in 2017 on the current state of knowledge of wildlife responses to RPAS.
+Approach
+    9) Literature searches were made using a range of search terms covering all RPAS nomenclature using Google Scholar, Web of Science, reference mining and citation tracking from key references. National Guidelines on RPAS use were also requested from SCAR Delegates, National Antarctic Committees and COMNAP. 
+    10) Studies were included in our assessment if they i) were published in peer reviewed literature, ii) included RPAS use around wildlife that was not captive, semi-captive or domesticated, and iii) included some form of monitoring of wildlife response to RPAS (even if it was incidental).
+    11) Summaries of the findings of these studies were compiled based on target species, RPAS type, behavioural response and flight path details (Appendix 1). A full list of references is provided in Appendix 2.
+Findings
+    12) Twenty-three published studies were included in the assessment. Of these, 12 documented a change in wildlife behaviour in response to RPAS. All studies used behavioural change as a measure of response, but only one [26] quantified physiological changes to measure the level of response to RPAS. 
+    13) Measurement of behavioural change ranged from observational (no recording, qualitative assessment of change) to experimental, where video recording was used with a quantifiable scale of behaviour change.
+    14) Responses to RPAS were not consistent across species, and responses also varied in relation to flight path parameters (e.g. height and approach angle [7,26] and the type of RPAS [24,27]. However, most studies that reported a response, found that lower RPAS flights elicited a stronger response. Vertical approaches to birds typically elicited more responses than horizontal or angled approaches [7,26].
+    15) Launching RPASs no closer than 100 m to bird colonies has been recommended [26], and supported by preliminary data on Antarctic penguins [7]. 
+    16) Noise of RPAS can be detected from large distances, and the ability to detect RPAS varies considerably among species [28]. Noise was identified in several studies as an important factor of interest in eliciting responses [6,7,24,29] and there is some evidence that electric powered fixed wing RPAS elicited less response than wet-fuel powered RPAS at the same altitude [24].
+    17) Preliminary evidence suggests that group size influences response [26,27] and that animals at different stages of the breeding cycle show different responses [30].
+    18) Physiological responses, for example heart rate, are a good indicator of acute and/or chronic stress in wildlife [23,31]. A variety of methods have been used successfully to measure the physiological responses of wildlife to disturbance in the Antarctic region. These include heart rate measurements using artificial eggs (e.g. [32,33,34]) or externally-mounted/implanted data loggers (e.g. [35,36]).  Monitoring changes in blood chemistry can also provide important insights into stress responses (e.g. [37,38]).
+    19) Pilot training is a key element in minimising the risk of accidents and major disturbance or injury to species under study. While this aspect received a higher profile in the operational guidelines (e.g. from national authorities), it is also relevant in mitigating negative responses from wildlife [1].
+    20) While there is some evidence that some species may habituate in response to repeated drone flights [39], data on this aspect are sparse and other studies present no evidence of habituation [7].
+    21) In addition to the COMNAP UAS Handbook [11], there are a range of national guidelines in place for use of RPAS in Antarctica that have been made available by national authorities. Most are operational in nature, and deal with the safe flying of RPAS with regard to other aircraft or infrastructure. Several require permits to be obtained prior to flying around any concentrations of wildlife. Some also prescribe specific minimum approach distances ranging from 100-350 m. All note that minimizing disturbance to wildlife needs to be considered as part of any plan to deploy RPAS in Antarctica. Some national authorities have separate guidelines for recreational use of RPAS in Antarctica.
+    22) IATTO currently bans any use of RPAS for recreational use, although permits are issued by the appropriate national authorities for commercial or scientific use during tourist activities [12].
+Conclusions
+    23) Use of RPAS around wildlife is increasing in Antarctica, and considering the similar increase observed globally, their use in Antarctica will not only continue to increase but also expand in their application.
+    24) Consistent with the SCAR recommendations in ATCMXXXVIII WP027, this review supports the conclusion that there will not be a one-size-fits-all solution to the mitigation of wildlife responses to RPAS. Guidelines will clearly need to be site- and species-specific and consider the type of RPAS used, including noise output.
+    25) Given that physiological responses (indicative of a stress) can occur without any sign of behavioural responses (e.g. [25]), further studies that include the physiological response of wildlife to RPAS are needed. Data on demographic changes in response to RPAS use are also lacking and more studies are required.
+Recommendations
+    26) SCAR recommends that the CEP considers implementation of the following preliminary best practice guidelines for all RPAS use in the vicinity of wildlife in Antarctica until further information becomes available: 
+    i. Take-off should be further than 100 m from wildlife and if possible, out of sight of the target species. Horizontal approaches to wildlife are preferable [7,26] and RPAS should be flown at the maximum height practicable to achieve the study objectives.
+    ii. Electric powered RPAS should be used where possible to minimise noise impacts, and careful consideration should be given to the altitude at which wet fuel driven RPAS are used.
+    iii. The recommendations of Hodgson and Koh (2016) ([1] and Background Paper 1) should be consulted and adhered to or exceeded wherever possible when planning RPAS use around wildlife in Antarctica.
+    27) SCAR further recommends that future studies on wildlife response to RPAS in the Antarctic should consider:
+    i. A range of species including flying seabirds and seals.
+    ii. Both behavioural and physiological responses.
+    iii. Demographic effects, including breeding numbers and breeding success.
+    iv. Ambient environmental conditions, for example, wind and noise.
+    v. The effects of RPAS of different sizes and specifications.
+    vi. The contribution of RPAS noise to wildlife disturbance.
+    vii. Comparisons with control sites and human disturbance.
+    viii. Habituation effects.
+Appendix 1 – Summary of peer reviewed published papers that monitored responses of wildlife to Remotely Piloted Aircraft Systems (RPAS)
+
+Reference
+Journal
+Species
+RPAS type
+Disturbance study?
+Vertical Heights (m)
+Were responses to sound observed?
+Were behavioural responses observed?
+Were physiological responses observed ?
+Antarctic region
+Rümmler et al. (2016) [7]
+Polar Biology
+Adélie penguins
+Octocopter
+Yes
+10-50
+NA
+Yes
+NA
+
+Goebel et al. (2015) [6]
+Polar Biology
+Chinstrap penguins Gentoo penguins, Fur seals
+Hexacopter
+No
+23-60
+No (but compared with ambient)
+No
+NA
+Korczak-Abshire et al. (2016) [24]
+CCAMLR Science
+Adélie penguins, Southern giant petrels
+Fixed wing
+Yes
+350
+NA
+
+Yes 
+NA
+Ratcliffe et al. (2015) [40]
+Journal of Unmanned Vehicle Systems (JUVS)
+Gentoo penguins
+Hexacopter
+No
+30
+NA
+
+Yes
+NA
+Global
+
+
+
+
+
+
+
+
+Ditmer et al. (2015) [25]
+Current Biology
+Bears
+Quadcopter
+Yes
+20
+Yes
+Yes
+Yes
+Vas et al. (2015) [26] 
+Biology Letters
+Greenshanks, Flamingos. 
+Quadcopter
+Yes
+4-30
+NA
+
+Yes
+NA
+McEvoy et al. (2016) [27]
+JPress
+Mixed waterbirds
+Multirotor, fixed wing
+Yes
+40-120
+NA
+
+Yes
+NA
+Smith et al. (2016) [41]
+
+ JUVS
+Marine mammals
+Multirotor, fixed wing
+Yes
+5-300 +
+Yes
+Yes
+NA
+
+Sarda-Palomera et al. (2012) [16]
+Ibis
+Gulls
+Fixed wing
+No
+30-40
+NA
+
+No
+NA
+Grenzdörffer (2013) [42]
+Book chapter
+Gulls
+Multirotor
+No
+15
+NA
+
+No
+NA
+Weissensteiner et al. (2015) [43]
+Journal of Avian Biology
+Canopy nesting birds
+Quadcopter
+No
+5
+NA
+
+Yes
+NA
+Chabot et al. (2015) [39]
+PLoS One
+Terns
+Fixed wing
+No
+90-122
+NA
+
+Yes 
+NA
+Chabot and Bird (2012) [15]
+Waterbirds
+Geese
+Fixed wing
+No
+30-40
+NA
+
+No
+NA
+Pomeroy et al. (2015) [30]
+JUVS
+Grey seals
+Multirotor
+No
+40-250 
+NA
+
+Yes
+NA
+Durban et al. (2015) [44]
+JUVS
+Killer whales
+Hexacopter
+No
+35-40
+NA
+
+No
+NA
+Duvala et al. (2015) [45]
+Environmental Practice
+Mixed waterbirds
+Fixed wing, gas powered
+No
+15-146
+NA
+
+Yes
+NA
+Moreland et al. (2015) [29]
+JUVS
+Ribbon and spotted seals
+Fixed wing
+No
+122
+NA
+
+Yes
+NA
+Koski et al. (2015) [46]
+JUVS
+Bowhead whales
+Mini-copter
+No
+120
+NA
+
+No
+NA
+Acevedo-Whitehouse et al. (2010) [47]
+Animal Conservation
+Whales
+RC Helicopter
+No
+13
+NA
+
+No
+NA
+Vermeulen et al. (2013) [17]
+PLoS One
+Elephant
+Fixed wing
+No
+100
+NA
+
+No
+NA
+Mulero-Pázmány et al. (2014) [21]
+PLoS One
+Rhino
+FW
+No
+100-180
+NA
+
+No
+NA
+Jones et al. (2006) [48]
+Wildlife Society Bulletin
+Manatee
+FW
+No
+100-150
+NA
+
+No
+NA
+Hodgson et al. 2016 [18]
+Scientific Reports
+Frigate birds, Crested terns, Royal penguins
+Multirotor, fixed wing
+No
+75-120
+NA
+No
+NA
+
+
+Appendix 2
+
+References
+
+    1. Hodgson JC & Koh LP (2016) Best practice for minimising unmanned aerial vehicle disturbance to wildlife in biological field research. Current Biology 26:R404-R405.
+    2. Anderson K & Gaston KJ (2013) Lightweight unmanned aerial vehicles will revolutionize spatial ecology. Frontiers in Ecology and the Environment 11:138-146.
+    3. Chabot D & Bird DM (2015) Wildlife research and management methods in the 21st century: Where do unmanned aircraft fit in? Journal of Unmanned Vehicle Systems 3:137-155.
+    4. Christie KS, Gilbert SL, Brown CL, Hatfield M & Hanson L (2016) Unmanned aerial systems in wildlife research: current and future applications of a transformative technology. Frontiers in Ecology and the Environment 14: 241–251.
+    5. Trathan PN (2004) Image analysis of color aerial photography to estimate penguin population size. Wildlife Society Bulletin 32:332–343.
+    6. Goebel ME, Perryman WL, Hinke JT, Krause DJ, Hann NA, Gardner S, & LeRoi DJ (2015) A small unmanned aerial system for estimating abundance and size of Antarctic predators. Polar Biology 38: 619–630.
+    7. Rümmler M-C, Mustafa O, Maercker J, Peter H-U & Esefeld J (2015) Measuring the influence of unmanned aerial vehicles on Adélie penguins. Polar Biology 39:1329-1334.
+    8. Lucieer A, Turner D, King DH & Robinson SA (2014) Using an Unmanned Aerial Vehicle (UAV) to capture micro-topography of Antarctic moss beds. International Journal of Applied Earth Observation and Geoinformation 27:53-62.
+    9. Malenovsky Z, Turnbull JD, Lucieer A & Robinson SA (2015) Antarctic moss stress assessment based on chlorophyll content and leaf density retrieved from imaging spectroscopy data. New Phytologist 208:608-624.
+    10. COMNAP (2015) Working Paper 022 - UAV use in Antarctica. ATCM XXXVIII – CEPXVIII. Sofia, Bulgaria 01 Jun 2015 - 10 Jun 2015.
+    11. COMNAP (2016) Working Paper 014 - The COMNAP Unmanned Aerial Systems-Working Group (UAS-WG). ATCM XXXIX – CEPXIX.  Santiago, Chile 23 May 2016 - 01 Jun 2016.
+    12. IAATO (2016) Information Paper 120 - IAATO Policies on the Use of Unmanned Aerial Vehicles (UAVs) in Antarctica: Update for the 2016/17 Season. ATCM XXXIX – CEPXIX.  Santiago, Chile 23 May 2016 - 01 Jun 2016.
+    13. Koh LP & Wich SA (2012) Dawn of drone ecology: low-cost autonomous aerial vehicles for conservation. Tropical Conservation Science 5:121-32.
+    14. Getzin S, Wiegand K & Schöning I (2012) Assessing biodiversity in forests using very high‐resolution images and unmanned aerial vehicles. Methods in Ecology and Evolution 3:397-404.
+    15. Chabot D & Bird DM (2012). Evaluation of an off-the-shelf unmanned aircraft system for surveying flocks of geese. Waterbirds 35:170–174.
+    16. Sarda-Palomera F, Bota G, Vinolo C, Pallares O, Sazatornil V, Brotons L, Gomariz S & Sarda F. (2012) Fine-scale bird monitoring from light unmanned aircraft systems. Ibis 154:177-183.
+    17. Vermeulen C, Lejeune P, Lisein J, Sawadogo P & Bouché P (2013) Unmanned aerial survey of elephants. PLoS One 8:e54700.
+    18. Hodgson JC, Baylis SM, Mott R, Herrod A. & Clarke RH (2016). Precision wildlife monitoring using unmanned aerial vehicles. Scientific Reports 6:22574
+    19. Chabot D, Carignan V & Bird DM (2014) Measuring habitat quality for least bitterns in a created wetland with use of a small unmanned aircraft. Wetlands 34:527-533.
+    20. Rodriguez A, Negro JJ, Mulero M, Rodriguez C, Hernandez-Pliego J & Bustamante J (2012) The eye in the sky: combined use of unmanned aerial systems and GPS data loggers for ecological research and conservation of small birds. PloS One 7:e50336.
+    21. Mulero-Pazmany M, Stolper R, van Essen LD, Negro JJ & Sassen T (2014) Remotely piloted aircraft systems as a rhinoceros anti-poaching tool in Africa. PloS One 9:e83873.
+    22. Berni JAJ, Zarco-Tejada PJ, Suarez L & Fereres E (2009) Thermal and narrowband multispectral remote sensing for vegetation monitoring from an unmanned aerial vehicle. IEEE Transactions on Geoscience and Remote Sensing 47:722-738.
+    23. Coetzee BW & Chown SL (2016) A meta-analysis of human disturbance impacts on Antarctic wildlife. Biological Reviews of the Cambridge Philosophical Society 91: 578-596.
+    24. Korczak-Abshire M, Kidawa A, Zmarz A, Storvold R, Karlsen SR & Rodzewicz M (2016) Preliminary study on nesting Adélie penguins disturbance by unmanned aerial vehicles. CCAMLR Science 23:1-16.
+    25. Ditmer MA, Vincent JB, Werden LK, Tanner JC, Laske TG, Iaizzo PA, Garshelis DL & Fieberg JR (2015) Bears show a physiological but limited behavioral response to unmanned aerial vehicles. Current Biology 25:2278-2283.
+    26. Vas E, Lescroel A, Duriez O, Boguszewski G & Gremillet D (2015) Approaching birds with drones: first experiments and ethical guidelines. Biology Letters 11:20140754
+    27. McEvoy JF, Hall GP & McDonald PG (2016) Evaluation of unmanned aerial vehicle shape, flight path and camera type for waterfowl surveys: disturbance effects and species recognition. PeerJ 4:e1831.
+    28. Scobie CA & Hugenholtz CH (2016). Wildlife monitoring with unmanned aerial vehicles: Quantifying distance to auditory detection. Wildlife Society Bulletin 40: 781-785.
+    29. Moreland EE, Cameron MF, Angliss RP & Boveng PL (2015) Evaluation of a ship-based unoccupied aircraft system (UAS) for surveys of spotted and ribbon seals in the Bering Sea pack ice. Journal of Unmanned Vehicle Systems 3:114-122.
+    30. Pomeroy P, O'Connor L & Davies P (2015) Assessing use of and reaction to unmanned aerial systems in gray and harbor seals during breeding and molt in the UK. Journal of Unmanned Vehicle Systems 3:102-113.
+    31. Willener AS, Halsey LG, Strike S, Enstipp MR, Georges JY & Handrich Y (2015) Reassessment of the cardio-respiratory stress response, using the king penguin as a model. Stress 18:115-120.
+    32. Giese M, Handsworth R & Stephenson R (1999) Measuring resting heart rates in penguins using an artificial egg. Journal of Field Ornithology 70:49-54.
+    33. Holmes N, Giese M & Kriwoken LK (2005) Testing the minimum approach distance guidelines for incubating Royal penguins Eudyptes schlegeli. Biological Conservation 126:339-50.
+    34. Ellenberg U, Mattern T & Seddon PJ  (2013) Heart rate responses provide an objective evaluation of human disturbance stimuli in breeding birds. Conservation Physiology 1:cot013-cot013.
+    35. Viblanc VA, Smith AD, Gineste B & Groscolas R (2012) Coping with continuous human disturbance in the wild: insights from penguin heart rate response to various stressors. BMC Ecology. 12(1):10.
+    36. Le Maho Y, Whittington JD, Hanuise N, Pereira L, Boureau M, Brucker M, Chatelain N, Courtecuisse J, Crenner F, Friess B, Grosbellet E, Kernaleguen L, Olivier F, Saraux C, Vetter N, Viblanc VA, Thierry B, Tremblay P, Groscolas R & Le Bohec C (2014) Rovers minimize human disturbance in research on wild animals. Nature Methods 11:1242-1244. 
+    37. Wingfield JC, Kelley JP, Angelier F, Chastel O, Lei F, Lynn SE, Miner B, Davis JE, Li D & Wang G. (2011) Organism–environment interactions in a changing world: a mechanistic approach. Journal of Ornithology 152:279-288.
+    38. Viblanc VA, Gineste B, Stier A, Robin JP & Groscolas R (2014) Stress hormones in relation to breeding status and territory location in colonial king penguin: a role for social density? Oecologia 175:763-772.
+    39. Chabot D, Craik SR & Bird DM (2015) Population census of a large common tern colony with a small unmanned aircraft. PloS One, 10:e0122588.
+    40. Ratcliffe N, Guihen D, Robst J, Crofts S, Stanworth A & Enderlein P (2015) A protocol for the aerial survey of penguin colonies using UAVs. Journal of Unmanned Vehicle Systems 3:95-101.
+    41. Smith CE, Sykora-Bodie ST, Bloodworth B, Pack SM, Spradlin TR & LeBoeuf NR (2016) Assessment of known impacts of unmanned aerial systems (UAS) on marine mammals: data gaps and recommendations for researchers in the United States1. Journal of Unmanned Vehicle Systems:1-14. 
+    42. Grenzdörffer GJ (2013) UAS-based automatic bird count of a common gull colony. In: Grenzdorffer G, Bill R, eds. Uav-G2013. Göttingen: Copernicus Publications, 169-174.
+    43. Weissensteiner MH, Poelstra JW & Wolf JBW (2015) Low-budget ready-to-fly unmanned aerial vehicles: an effective tool for evaluating the nesting status of canopy-breeding bird species. Journal of Avian Biology 46:425-430.
+    44. Durban JW, Fearnbach H, Barrett-Lennard LG, Perryman WL & Leroi DJ (2015) Photogrammetry of killer whales using a small hexacopter launched at sea. Journal of Unmanned Vehicle Systems 3:131-135. 
+    45. Dulava S, Bean WT & Richmond OMW (2015) Environmental Reviews and Case Studies: Applications of Unmanned Aircraft Systems (UAS) for Waterbird Surveys. Environmental Practice 17:201-210.
+    46. Koski WR, Gamage G, Davis AR, Mathews, LeBlanc B. & Ferguson SH (2015.)Evaluation of UAS for photographic re-identification of bowhead whales, Balaena mysticetus. Journal of Unmanned Vehicle Systems 3:22–29
+    47. Acevedo‐Whitehouse K, Rocha‐Gosselin A & Gendron D  (2010) A novel non‐invasive tool for disease surveillance of free‐ranging whales and its relevance to conservation programs. Animal Conservation 13:217–225.
+    48. Jones GP IV, Pearlstine LG & Percival HF (2006) An assessment of small unmanned aerial vehicles for wildlife research. Wildlife Society Bulletin 34: 750–758.
+
+
+

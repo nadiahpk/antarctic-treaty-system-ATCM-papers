@@ -1,0 +1,361 @@
+﻿º
+The Antarctic and Southern Ocean Coalition
+The Antarctica Project
+ASOC Secretariat
+ 1630 Connecticut Ave., N.W.
+Washington, DC 20009 USA
+Tel +1 202 234-2480
+Fax +1 202 387 4823
+antarctica@igc.org
+www.asoc.org
+
+
+
+XXVI ATCM
+Information Paper IP __
+CEP Agenda Item: 4c
+ASOC
+Original: English
+
+
+
+Marine Acoustic Technology and the Antarctic Environment
+
+Information Paper submitted by the Antarctic and Southern Ocean Coalition (ASOC)
+
+
+I. Overview
+
+This Information Paper provides recommendations concerning impacts of anthropogenic marine noise on marine life in the Antarctic region, based mainly on research undertaken in other regions. The paper was written in response to CEP V Working Paper 023 prepared by the SCAR Ad Hoc Group on Marine Acoustic Technology and the Environment, entitled “Impacts of Marine Acoustic Technology on the Antarctic Environment”, and CEP V Information Paper 024. The paper concludes that there are serious and likely extensive impacts of noise on the marine environment beyond those that we currently understand, and that therefore a precautionary response is required in Antarctica.
+
+The Precautionary Principle is implicit in the Protocol, notably under previsions for Environmental Impact Assessment (EIA) in Art. 8/Annex I and in Art. 3, paragraph 2, under c): “(A)ctivities shall be planned and conducted on the basis of information sufficient to allow prior assessments of, and informed judgments about, their possible impacts on the Antarctic environment and dependent and associated ecosystems and on the value of Antarctica for the conduct of scientific research....”
+
+ 
+
+Annex I describes some of the concerns about the impacts of various sources and types of noise on cetaceans, fish and other species in the marine ecosystem, based on recent research. Annex II highlights international recognition of noise threats in the marine environment. Annex III discusses legal proceedings in the United States involving noise impacts. Annex IV discusses military programs that generate intense noise, posing serious threats to the marine environment. Annex V summarizes recommendations for research on impacts of noise-generating technologies in the marine environment. Annex VI contains the sources used in compiling this paper.
+
+II. Recommendations
+
+1. ASOC’s recommends that a thorough investigation of the potential impacts of acoustic activities be initiated by the Committee for Environmental Protection or a Working Group led by a Party or an Observer. This intersessional investigation should involve those with relevant global expertise in marine mammal biology as well as in marine acoustic impacts, and should: 
+
+    • Include a thorough and detailed review and analysis of marine species, including predator/prey relationships and ecosystems in the Antarctic Treaty region that may be at risk from noise impacts.
+
+    • Set out the true extent of actual and potential impacts on those species and their ecosystems from various types of noise in the Antarctic, or coming from waters outside the Southern Ocean into the Antarctic, including the deployment of far-reaching low-frequency active sonars in oceans to the north of the Antarctic Convergence.
+
+    • Present the Antarctic Treaty System with recommendations about how to coherently make progress in understanding these issues, including what benign research programs are needed to shed light on the many unknowns and uncertainties, and convene a special workshop focused on benign research techniques.
+
+    • Provide full details on the extent of harmful impacts studied to date, and recommend measures that could be taken to more effectively protect marine life from such impacts in this region.
+
+2. In ASOC’s view, the best mitigation strategy would be to avoid introducing noise into the Antarctic marine environment to the greatest extent possible. Mitigation procedures on board vessels should not be considered to constitute a substantial alleviation of impacts either in the immediacy or longer term, given the need to consider cumulative impacts, particularly on critical habitats over time, and bearing in mind that mitigation measures merely consider short-term behavioural impacts. ASOC notes that standards for mitigation are commonplace in seismic survey procedures and some military applications in a number of countries, including Australia, UK, Canada and the U.S. It would be appropriate for the expert Working Group to survey such national legislation in those and other countries to assess how, and to what extent, acoustic impacts have been evaluated and “regulated”, and whether the standards being used in various countries are actually suitable for addressing the problems. They might also give advice on what specific mitigation measures would make the most sense in the Antarctic, including whether the risk of using a particular technology in the Antarctic is too great.
+
+3. ASOC suggests that the expert Working Group should recommend specific research programs. In ASOC’s view, it is vital to examine the cumulative and synergistic impacts of introduced noise over time. It is currently unclear how many noise-producing devices are operating in Antarctic waters overall, much less at what times of year in relation to the various natural cycles of marine life. So far as ASOC is aware, there are no studies currently under way to determine the long-term cumulative impacts of “noise pollution” in the Antarctic, and we look forward to future recommendations to address them. Developing effective and comprehensive protection measures will be greatly enhanced with an agreed framework for benign long-term research designed to close identified information gaps. One key aspect should be how to carry out benign investigations into the hearing and reactions to noise of Antarctic animals. Priority consideration should be given to research in waters where biologically important activities are known to occur, including calving, resting, migrating or feeding. Those are also areas where the strongest mitigation measures and guidelines are needed. 
+
+4. ASOC recommends that those Antarctic waters where biologically important activities occur should be entirely protected from the effects of high-intensity underwater sound, through a measure or other suitable form of regulation.
+
+5. Regarding military sonars, and in particular Low-Frequency Active Sonar (LFAS), ASOC recommends that all Antarctic Treaty Parties support a cessation for the indefinite future of any further deployment of LFAS that could harm species in the Southern Ocean, and those migrating to and from the Antarctic. On a global basis, ASOC urges all governments to consider appropriate steps to protect the marine environment from deployment of LFAS until such time as there is adequate scientific evidence available to properly evaluate the harmful impacts of its use.
+
+III. Conclusions
+
+Noise pollution is clearly an emerging threat in the Antarctic. ASOC is concerned about the possible impacts of introduced noise on all components of the marine ecosystem. There continue to be profound limitations on our knowledge about how anthropogenic noise affects marine species, including cumulative effects over the longer term. Obtaining the needed data should become one of the priorities of Antarctic research programs. 
+
+Despite the current scientific uncertainties surrounding the issue, there are serious and likely extensive impacts beyond those that we currently understand. Thus, precautionary measures should be taken and the Precautionary Principle applied until such data are available. 
+
+Annex I: Noise Impacts on Cetaceans, Seals, Penguins, Squid and Fish
+
+Sound is measured in Hertz (Hz), which are cycles per second. Sound travels 4.5 times faster in water than in air (Waller & Geoffrey, l996). Low-frequency sounds travel farther underwater than high-frequency sounds – hundreds, even thousands of kilometers further. There are conflicting definitions of low, mid and high frequency sound. In a recent lawsuit in San Francisco District Court in January 2003, Dr. Peter Tyack of Woods Hole Oceanographic Institute, provided the following definition in evidence.1
+
+Low Frequency: less than 1kHz
+Mid Frequency: 1-l0kHz
+High Frequency:  greater than 10kHz
+
+The hearing ranges of marine mammals differ from one species to another. Each species has different characteristics and perception ranges of sound frequencies. For example, Odontocetes have a hearing range up to l50 kHz, while Mysticetes (including Gray Whales) have a range from between 20 Hz to at least 3 kHz.
+
+As a guide to the relevance to these frequencies to whales and other marine life, ASOC cites the following:
+
+The auditory capability of cetaceans and the sounds they produce differ from species to species. In general, baleen whales produce intense, low frequency sounds (lower than 1 kHz) but they can reach up to 31 kHz. Baleen whales seem to be the most sensitive to noise at low and moderate frequencies. Toothed whales produce sounds mainly at moderate to high frequencies between 1 and 20 kHz but (unlike baleen whales) they also use very high frequency sounds (between 20 and 150 kHz) for echolocation, a technique analogous to sounds emitted by certain sonars. The latter species are most sensitive to noise at higher frequencies. Among marine mammals, seals are known to produce sounds mostly at moderate to high frequencies. Their auditory sensitivity varies between species, though certain species of seals are known to be less sensitive as the frequency of sound decreases... [S]ounds produced by fish are predominantly of a low frequency, mainly below 3 kHz. (Dotinga and Elferink, 2000).
+
+High-intensity low and mid-frequency sonar has been implicated in deadly strandings as well as other serious impacts on marine life around the world. The sheer volume of noise pollution introduced into the marine environment is of concern to ASOC. The table below gives a glimpse of the ambient interference caused by a large variety of sonar technologies generating different frequencies. Some of these devices use high frequencies that are said to dissipate swiftly in the marine environment, with impacts that may be localized. However, many use low and mid-frequencies, with wider ranges of potential impact. There is very little information available on the numbers of devices, rates of deployment, sites of deployment, and the possibly damaging effects caused by these devices in the Antarctic, or indeed in other marine areas. Examples of some devices of concern include:
+
+    • Fish finding sonar: 18-200 kHz  [in the hearing range of Odontocetes, for example]
+    • Depth sounding sonars with operating frequencies: often at 12 kHz [upper Baleen whales’ vocalization range and putative hearing range of Baleen whales as well as in the hearing range of Odontocetes]
+    • Bottom profilers: 400 Hz to 30kHz [Baleen whales’ vocalization range and putative hearing range as well as in the hearing range of Odontocetes]
+    • Side scan sonars: 50-500Hz [lower frequencies in the hearing range of Odontocetes]
+    • Navigation transponders: 7-60 kHz [lower frequencies in the upper Baleen whales’ vocalization range and upper putative hearing range of Baleen whales in the hearing range of Odontocetes]
+    • Various military search and surveillance devices: 2-57kHz)  [upper Baleen whales’ vocalization range and putative hearing range as well as in the hearing range of Odontocetes] 
+    • Mine avoidance sonars: 25-500 kHz. [lower frequencies in the hearing range of Odontocetes]
+
+Any reduction in hearing ability – whether by physical damage or masking of sounds – is likely to seriously compromise the viability of individuals and, potentially, populations. Therefore it is important that we achieve a much better understanding of the basic parameters of the uses of sound by various marine creatures, and the harmful impacts of various noise levels and types of noise. 
+
+[S]ome sounds are sufficiently intense compared to the animal’s sensitivity that they will rapidly and permanently damage the ear and decrease hearing ability precipitously. This occurs when the energy of the incoming sound exceeds the elastic limit [the dynamic range] of the inner ear tissues. The most extreme example is the massive, intense impact of an explosion, which can instantaneously blow out ear membranes as a result of a shock wave. Less intense sounds will not induce such graphic and extensive damage, but they can produce damage in some of the more delicate structures of the inner ear.2
+
+Obviously there are many complexities involved in attempting to determine hearing abilities and behavioural responses in any marine species.
+
+The zone of audibility is the area in which a specified organism can differentiate the sound of interest from background noise levels.  Identifying this zone has obvious importance in estimating areas of disturbance, as behavioural response will probably occur closer to a source than that to which a sound is audible. The extreme limit of the zone of audibility is influenced by the character of the sound signal, ambient noise levels, local propagation conditions (which may change on a daily and seasonal basis) and the hearing sensitivity and threshold of the species (McCauley, 1994).  
+
+Hearing capabilities also change with life cycle stage and to a certain extent between individuals of the same age group within a species. Hearing sensitivity in animals may vary with season, locality, duration of shooting, whether they are migrating and availability of food (Hirst & Rodhouse, 2000).
+
+One expert scientist describes noise impacts on marine mammals this way:
+ 
+Major impacts from noise can be divided into direct physiologic effects, such as permanent versus temporary hearing loss, and those that are largely behavioural, such as masking, aversion, or attraction. Although there is no substantial research accomplished in any of these areas in marine mammals, behavioural effects have been at least preliminarily investigated through playback and audiometric experiments, while marine mammal susceptibility to physiologic hearing loss is virtually unexplored.  Despite increasing concern over the effects on marine mammals of man-made sound in our oceans, we still have little direct information about what sound frequency-intensity combinations damage marine mammal ears, and at present there are insufficient data to accurately determine acoustic exposure guidelines for any marine mammal.3
+
+Continual displacement from important areas caused by sustained acoustic pollution could have a profound and serious effect on individual animals and populations. Those consequences will not become apparent until much more longer-term, focused research is conducted. These effects include habituation, sensitization, physiological damage and stress.4 Noise is clearly biologically significant if it induces long-term abandonment of an area important for feeding, breeding or rearing the young, as it may lead to reduced fecundity, carrying capacity, or both. Social disruption brought about by noise may be especially important if mother/calf pairs become separated. Animals resting or with young are weak and vulnerable to predation and exhaustion (McCauley et al., 1998).
+
+Avoidance behavioural responses have been shown to occur in a variety of marine mammals from a variety of underwater sound frequencies at received levels less than 140dB re 1 Pa (Richardson, et al, 1995). It is not possible to carry out tests to ascertain the hearing abilities of marine species before and after being exposed to high intensity underwater sound, but it is obvious that temporary and permanent threshold hearing loss can cause serious harm to all marine species. 
+
+Stress is another factor to be taken into account in terms of effects of noise on marine mammal populations. Stress increases the levels of glucocorticosterioids (cortisols) in the blood.  Chronically elevated levels of cortisols over time suppress the hormone essential to female ovulation and maturation of the ovum.  Elevated levels of cortisols in the blood also suppress growth hormone resulting in slower growth in growing animals and delayed sexual maturation.  The protraction of time before birth reproductive readiness could mean a lower reproductive rate for the population and a reduction in the annual production of calves. Chronically elevated blood cortisols destroy the nuclear DNA of lymphocytes, cells that play a major role in immune response thus increasing susceptibility to disease and infection  (Myrick, 2003).
+
+A. Cetaceans
+
+Estimates of cetacean populations in Antarctic waters are imprecise, and we still lack important information about their most important habitats and migration routes. Many populations are severely reduced, thereby increasing their vulnerability, a factor that must be a major consideration in any risk assessment process. Data compiled by Gill and Evans (2002) provide information on the distribution, population estimates and movements of marine mammal species encountered in the Antarctic Treaty area. Many cetacean species are resident all year round, while others migrate annually to feed. 
+
+Cetaceans are divided into discrete biological populations. Harm to a single population needs to be seen in the context of both the potential loss of a discrete biological entity and an integral component of a functioning ecosystem. Cetaceans are reliant on underwater sound for navigation, communication, breeding and foraging. This reliance makes them particularly vulnerable to the impacts of noise pollution. There are many examples of dedicated research highlighting the serious impacts of noise pollution on cetaceans.5 One of the longest studies of cetacean and seismic interactions began in the Alaskan Beaufort Sea in the 1980’s. Those data show behavioural changes in Bowhead whales in response to received levels of 107-126 dB re 1 Pa as far away from the source as 30 km. It has been shown that use of air guns can elicit behavioral changes in blue whales and probable avoidance at 3-20km (McCauley and Duncan 2001).  It has been observed that blue whales (Balaenoptera musculus) vary the intensity of their sound production level in response to varying ambient noise levels (Wiggins 2001). The potential impacts of noise pollution on cetaceans as listed by Dr. Lindy Weilgart, a bioacoustician at Dalhousie University, Nova Scotia, are set out in Table 1 and 2.6
+
+Table 1
+
+Detectable Effects of acoustic impacts on cetaceans
+Respiration rate, Swim speed, Vocalizations, Dive times, Dive depth, Residence time, 
+Distribution, Movement relative to sound source
+
+
+
+
+
+Table 2
+
+Non-Detectable Effects of Acoustic Impacts on Cetaceans
+Birth rate, Miscarriage rate, Pregnancy rate, Birth defects, Mating rate, Rate of finding mates, 
+Lactation rate, Changes in mating dynamics, Death rate, Injury, disease, morbidity, 
+Vulnerability to hazards, shipping, fishing nets, Vulnerability to predation, 
+Growth rate, Feeding rate and changes in appetite, Change in echolocation ability, 
+Change in group bonds and coordination (both within and between groups), 
+Change in mother calf bonds, Change in navigational ability, 
+Annoyance, pain, panic, confusion, anxiety and stress, 
+Change in memory, learning ability, cognitive functions
+Change in aggressiveness, Change in maternal behaviour, Resistance to immunity, 
+Change in metabolic Rate, Effects on vibro-tactile system, 
+Effects on contractile forces of muscles, Irregular heartbeat, 
+Lung-gas interface, Change in susceptibility to the “ bends”, 
+Cavitation, Hyperthermia, Tissue shearing due to radiation pressure, 
+Deafness and hearing impairment (temporary or permanent), 
+Change in stranding rates, Changes in population (long term)
+
+
+B. Mass Strandings of Cetaceans
+
+Strandings have involved multiple species and in at least one instance, the disappearance of an entire local population of Cuvier’s beaked whales. Ken Balcomb, a U.S. whale biologist and an invited specialist on the Scientific Committee of the International Whaling Commission, together with colleagues, was co-incidentally present when a major mixed species stranding event took place in the Bahamas during March 2000.
+
+I became personally aware of the traumatic effects of high intensity underwater sound on … [Cuvier’s] beaked whales (Ziphius cavirostris) due to the accidental death of many whales in my study population caused by U.S. Navy sonar. Although the exact mechanism is not known, beaked whales have been shown to suffer internal hemorhage and on multiple occasions have stranded and died as a consequence of being exposed to underwater sounds at received levels of approximately 165dB re 1uPa from either mid frequency or low frequency sonars or both.
+
+Balcomb has since informed the U.S. Navy that no Cuvier’s Beaked Whales have been seen in his study area following the sonar incident.  Investigations carried out by the National Marine Fisheries Service and the U.S. Navy led to a report in December 200l.  The report states in its Executive Summary:
+
+Based on the way in which the strandings coincided with ongoing naval activities involving tactical mid-range frequency sonar use in terms of both time and geography, the nature of the physiological effects experienced by the dead animals, and the absence of any other acoustic sources, the investigation team concludes that tactical mid-range frequency sonars aboard U.S. Navy ships that were in use during the sonar exercise in question were the most plausible source of this acoustic or impulse trauma” (Evans and England, 2001).
+
+Balcomb notes that whalers used intense underwater sounds (e.g., Asdic, a 14-20kHz active sonar device) to increase the efficiency of their catch when chasing whales. Ohsumi (l980) demonstrated that the behaviour of whales is obviously modified when they are exposed to Asdic:  “When Asdic is used, baleen whales swim faster and do not dive.”7
+
+Frantzis (1998) highlighted the relationship between military activities involving sonar and the stranding of beaked whales in Greece in 1996. A Bioacoustics Panel formed by NATO could not disprove this theory. Rowles et al. (2000) report that of 49 beaked whale mass strandings analyzed, 8 were associated with military activities, and all of those have involved Cuvier’s beaked whale (Ziphius cavirostris). Although Cuvier’s beaked whales are unlikely to occur in Antarctic waters, other relatives within the family of beaked whales (Ziphiidae), such as the Southern bottlenose whale (Hyperoodon planifrons) and Arnoux’s beaked whale (Berardius arnouxii), are true inhabitants of Antarctica.8 Little is known about their status and life cycles.  
+
+C. Seals, Penguins, Squid and Fish
+
+Very little research has been undertaken about hearing and use of sound by Antarctic seal and penguin species. For example, the effects of anthropogenic sounds on penguins are almost totally unknown (Gill and Evans 2002). Little is known about behaviour changes and the significance of these changes in the auditory capacity and limits of many seal and penguin species. Substantially better audiometric data are required (Ketten, 1998). We do know, however, that seals and fish use low-frequency sound to communicate and sense their environments (National Academy of Sciences, 2000).
+
+Some studies show that pinnipeds avoid locations associated with noise experiments even though those were areas where they also received food. It is postulated that marine mammals could avoid critical breeding or feeding grounds if they associate these with exposure to loud sounds, resulting in decreased reproduction (Kastak et al., 1999).
+
+Scientists and environmental organizations have many concerns relating to harm to fish species from noise. A 1993 Quality Status Report prepared by the North Sea Task Force identified seismic surveys and airgun explosions as a cause of lethal effects on fish eggs and larvae close to the energy source.  Studies in the wild have shown significant damage to fisheries as a result of seismic surveys and acoustic trauma, which could impact the entire life cycle of fish. 
+
+When marine fish were exposed to sound pressure levels 40-50dB above that in their normal environment severe problems occurred; the viability of fish eggs was reduced and growth rates for fry were significantly reduced (Banner and Hyatt, 1973).
+
+There are various sources of information about the close range, short time scale effects of airguns and sub-sea explosives (on fish). Adults, juveniles and eggs of fish appear to suffer immediate mortality, only if within very close range of an airgun detonation, typically a few tens of metres or less.  Physiological damage at 180dB re 1 Pa and above includes: inner ear damage, haemorrhaging, eye damage, blindness, swim bladder rupture and even death  (Turnpenny and Nedwell, 1994).  
+
+Sound is significant for many species of fish. One survey lists over 50 families of fish species that produce sound.  Most sounds produced by fish are used to communicate with individuals of the same species. Sound production can occur when an individual is disturbed by a predator or subjected to a noxious stimulus, as well as during reproductive activity. It has been suggested, moreover, that sound might be important for maintaining cohesion of schools of fish under poor visual conditions (Dotinga and Elferink, 2000).
+
+Fish with swim bladders appear more prone to physiological damage and mortality from explosions than fish lacking swim bladders. Air-filled structures may become over extended and rupture when decompressed as a result of shock waves, hence the greater vulnerability of this group (Christian, 1973.) The swim bladder may be one of the major sites for damage (Wright, l982).  Christian concluded that all biota will be killed at very short ranges from an underwater explosion, but fish that have gas-filled swim bladders are sometimes killed at much longer ranges than other organisms such as crabs, lobsters, oysters and even other types of fish that do not have a swim bladder.9
+
+In addition to immediate mortality, physiological damage and behavioural change leading to delayed mortality may also be caused by airgun sounds. Matishov (1992) found that exposure of cod (Gadus morhua) at a distance of 2 and 4 meters from an airgun led to eye damage, transient stunning and as a result of internal injuries, death within 48 hours. Sound levels at which physiological damage and the mortality of adult, juvenile and larval fish have been found are all at or in excess of 180 dB  re 1 uPa (Tunrpenny and Nedwell, 1994.) 
+
+Most studies of close-range impacts of airguns on fish have measured impacts under ex-situ, laboratory-controlled conditions and over short periods, where natural predators are excluded. Thus, natural mortality rates as a result of increased predation and disease susceptibility through behavioral change and physiological damage may well be underestimated. Physiological damage and behavioral changes may be missed in such studies because of the simple methods and short periods over which all studies so far have been conducted. Severe damage, including hearing loss, blindness and internal injuries, may lead to the subsequent death of individuals, even though under artificial laboratory conditions mortality may not have been observed. What may be of greater significance to fisheries, however, are the more diffuse behavioral impacts occurring at much greater distances (Hirst and Rodhouse, 2000).
+
+Little data are available for fish exposed to sound between 149 and 180dB. Thus more studies are needed to establish ‘safe’ levels of underwater sound at frequencies in the audible range of bony fishes. Given the existence of 20,000 different species of bony fish, each with a unique inner ear, the problem is enormous (Hastings, l995). But studies show harmful effects of even moderate noise on hearing in fish, and as background noise increases, fish hearing decreases (Myberg, 1980). Intense noise levels (180dB) destroy the hair cells of the auditory macula, resulting in hearing loss (Enger, l981).
+
+McCauley et al. (2003) demonstrated that exposure to seismic airguns can cause significant damage to the ears of fishes. Caution was suggested in the application of very intense sounds in environments inhabited by fish. Furthermore, given that hair cells form the ultimate end organs of the hearings system of all vertebrates, the results presented here may have important implications for other marine vertebrates (McCauley et al. 2003). McCauley et al. (2000) observed behavioural changes and avoidance in caged squid (Sepioteuthis australis) that were subjected to an individual operating airgun, suggesting thresholds at 161-166 dB re 1µPa rms.
+
+Notothenidae is perhaps the most important family of Antarctic fish. Noted fish expert, Professor Arthur Myrberg says: 
+
+Nothing would prevent them (Notothenidae) from producing sounds and if they did, there is a reasonable probability that they would communicate by sound. Since cod icefishes live where they do, investigators with hydrophones and associated equipment probably have never monitored them to determine if they do or do not produce sounds.10 
+
+There is little available research on the effects of acoustic pollution on krill. Several invertebrates are susceptible to low-frequency sound, though at close range. Invertebrates often have a limited action range, and especially activities on the seabed may be of particular concern in view of invertebrate acoustic sensitivity and ecological functioning. Acoustic communication and perception in invertebrates might be related to as many functions as in marine vertebrates.11 It is also important to recognize that adverse effects experienced at one level of the marine food chain may have repercussions throughout the chain as the delicate balance of predators and prey becomes disrupted.12
+
+
+ Annex II: International Recognition of Noise Pollution Threats
+
+The International Whaling Commission (IWC) has recognised that anthropogenic noise is a complex subject and that scientific study on this issue involves the integration of a broad range of disciplines including acoustics, audiology, physiology, behavioural ecology and population biology (IWC 1999). The Chairman’s Report at the 1999 IWC meeting expressed concern over noise issues and detailed some of the complexities, indicating the need for a broad, disciplined approach:
+15.1.4 Other Concerns 
+The Scientific Committee considered potential impacts that intense sounds might have on cetaceans. The sub-committee on small cetaceans discussed the use of acoustic pingers to reduce entanglement of harbour porpoises in fishing gear at this year's meeting. Arising from that focus, there was discussion concerning the potential for unintended, negative effects of acoustic devices on cetaceans. These effects potentially work on two levels: overall sound pollution of the environment, and possible exclusion of cetaceans from important habitats. 
+As a result, the Scientific Committee expressed concern over potential adverse effects of anthropogenic noise on cetaceans. It recognised that this is a complex subject and that scientific study on this issue involves the integration of a broad range of disciplines including acoustics, audiology, physiology, behavioural ecology and population biology. The Scientific Committee further recognised that with our current limited knowledge of cetaceans, the risks associated with noise exposure cannot be easily quantified for most species.
+
+In 2001, the IWC Scientific Committee strongly recommended that no seismic work be conducted while whales are present in their feeding grounds. The Committee has also stated:
+
+ Noise producing activities (such as seismic surveys or sonar operations) should not be conducted in critical habitats at certain times of the year, which could greatly reduce exposing mothers and calves or breeding animals to high sound level.13
+
+The IWC Scientific Committee meeting in 2001 received evidence of behavioural disturbance from seismic surveys in the Piltun feeding ground, a Western Pacific Gray Whale habitat. This evidence noted that whales appeared to have moved away from the region where seismic surveys were being conducted, reoccupying the region from which they had been displaced when the surveys ceased. In 2002 the Scientific Committee noted: 
+
+SC/54/BRGl4 provides strong empirical evidence in support of the Committee’s concerns last year that seismic activities can have a major impact on gray whales.14
+
+The potential effects of acoustic disturbance on marine mammals have been discussed in ICES’s Working Group on Marine Mammal habitats. In a report the Working Group expressed concerns about the continuing increase in noise levels and the possible effects on noise on marine mammals.15
+ASCOBANS (Agreement on the Conservation of Small Cetaceans of the Baltic and North Seas) was concluded in 1991 under the auspices of the Convention on Migratory Species. Its Parties are Belgium, Denmark, Finland, Germany, Netherlands, Poland, Sweden and United Kingdom. It is an example of a regional agreement that considers the impacts of noise pollution. It produced a Resolution on Disturbance at the 3rd session of the Meeting of the Parties in 2000, which invites range states and parties to introduce guidelines on measures and procedures for seismic surveys, as well as developing guidelines and measures to reduce other forms of disturbance to small cetaceans (ASCOBANS, 2000). ACCOBAMS, which has the Mediterranean Basin and Black Sea as its focus and has its interim Secretariat in Monaco, has also recently recognized this issue and addresses it in several documents.16
+As a result of concerns about marine noise pollution, workshops have taken place in the U.S. and Europe. The aim of one recent workshop was to consider various theories of why cetacean strandings are taking place, including the particular vulnerabilities of certain beaked whale species such as Cuvier’s beaked whale (Ziphius cavirostris), but also Blainville’s beaked whale (Mesoplodon densirostris) and Gervais’ beaked whale (Mesoplodon europaeus)
+. The Report of the Workshop on Acoustic Resonance as a Source of Tissue Trauma in Cetaceans (Evans et al. 2002) concludes that resonance in air-filled structures is unlikely to have played a primary role in the Bahamas stranding for various reasons. However, the report also discussed the possibility of beaked whale strandings being the result of acoustic activation of nitrogen bubble nuclei in tissues that are supersaturated with nitrogen from respiratory gases after diving – leading to decompression sickness. Crum and Mao (1996) conclude that a diver or marine mammal located in the vicinity of a sonar dome is under considerable risk from such gas bubble growth and its associated consequences.
+
+The 17th annual meeting of the European Cetacean Society conference was held in March 2003 in Gran Canaria, Canary Islands. The theme of the meeting was ‘Marine Mammals and Acoustics’. A workshop on active sonars preceded the meeting. The workshop and the meeting heard the latest data on the impacts of intense noise to cetaceans, including acoustic damage to auditory functions. Evidence also was presented of a decompression sickness-like condition in the bodies of 8 cetacean species stranded in the UK, in a number of events spanning ten years (Jepson et al. 2003) and in the Canary Islands (Fernández, 2003). Evidence of acoustically induced trauma was also recognised in the incidence of those animals that died as a result of the Canary Islands stranding (Degollada et al., 2003). Although the workshop largely focused on mid-frequency military sonars such as LFAS, the Chair of the meeting stated that the application of the results of this workshop were equally relevant to seismic activities and other intense noise sources introduced into the marine environment.
+
+
+Annex III: Legal Proceedings in the US
+
+Recently, there have been three legal cases in the United States relating to the use of powerful marine noise generated by humans:
+
+    • Hawaii Country Green Party v. Donald Evans, Secretary of U.S. Department of Commerce, et al., No. C-03-0078-SC, U.S. District Court, Northern District of California, January 24, 2003 (Permanent Injunction). The lawsuit challenged the legality of the U.S. National Marine Fisheries Service (NMFS) allowing a U.S. scientist, Dr. Peter Tyack, to experiment with low, mid and high-frequency sonar on 3,000 migrating gray whales. The judge found that NMFS had improperly invoked the categorical exclusion clause under NEPA and that there was a likelihood of that the experiment would cause harm, stating: “Plaintiffs have proven the NMFS acted arbitrarily, capriciously, and in a manner contrary to the law….”  
+
+    • Natural Resources Defense Council v. Evans, No. C-02-33805 EDL, N.D. California, October 31, 2002 (Preliminary Injunction). NMFS had granted a permit to the U.S. Navy to proceed with deployment of its wide-ranging and controversial Surveillance Towed Array Sensor System (SURTASS) Low Frequency Active Sonar (LFAS) globally, excluding the polar regions, within 22 kilometres of land and some small seasonal offshore biologically-important areas. The court issued a preliminary injunction that requires the U.S. Navy to reduce the area of application of LFAS and places various other restrictions. The area of operation has now been reduced to a large part of the Pacific Ocean focused around the Mariana Islands - an estimated area of one million square miles. A decision on a permanent injunction is expected around June 2003. U.S. Navy and other NATO navies intend to deploy LFAS in 75% of the world’s oceans in order to track “quiet” submarines. In its judgment, the Court agreed that there is a growing body of evidence indicating that decibel levels over 160dB are catastrophic to cetaceans. U.S. Magistrate Elizabeth LaPorte stated: “It is undisputed that marine mammals, many of whom depend on sensitive hearing for essential activities like finding food and mates and avoiding predators, and some of whom are endangered species, will at a minimum be harassed by the extremely loud and far travelling LFA sonar.”
+
+    • Center for Biological Diversity v. National Science Foundation, U.S. District Court, October 14, 2002, WL 31548073, Northern District of California (Temporary Restraining Order). U.S. Magistrate James Larson issued a temporary restraining order blocking geographers from the National Science Foundation, Columbia University and the Georgia Institute of Technology from “using an array of twenty airguns to fire extremely high energy acoustic bursts into the ocean to generate geophysical data in the Gulf of California” with sound blasts as high as 263 decibels at the source.  Not only did this project use an airgun array, but also an Atlas Hydrosweep Multibeam Echosounder, which has a source level of 237 dB at a frequency of 15.5 kHz and wide beam angles. Judge Larson noted that: “These levels are significantly higher than 180dB, which is acknowledged by the Government to cause significant injury to marine mammals.” The Center argued that NSF was violating NEPA and the Marine Mammal Protection Act. The Court ruled that airguns used by researchers on the vessel to create low-frequency sound for seismic imaging of the earth’s crust were likely to have disrupted marine mammal life in the vicinity. Whale beachings occurred some 30-50 miles away from source. 
+
+These court cases add substantially to an increasing body of evidence compiled over the past decade implicating human-induced intense acoustic activities in the marine environment in strandings and subsequent death of cetaceans.
+
+
+Annex IV: Military Activities
+
+Because public information on the exact nature and extent of military activities is highly restricted, the total impact of the military’s ensonification of the world’s oceans will be difficult to quantify (Simmonds et al. 2003). However, there is cause for real concern. Many countries already operate, or plan to operate, low-frequency active sonar systems throughout the worlds’ oceans. Although mid-frequency sonar has been implicated in most of the documented cetacean stranding events to date, the recent development in many countries of low-frequency active sonar (LFAS) adds a new level of concern about harmful impacts of these technologies. Low-frequency sounds have the ability to travel much further in the marine environment, and thus areas of ensonification associated with LFAS are likely to encompass thousands of square kilometers Therefore, military activities outside of Antarctica may result in intense acoustic sounds permeating into its waters. 
+
+Little is known about the development of low-frequency active sonar outside of the U.S. and the U.K., where legislation has required that Environmental Impact Statements (EIS) be produced. In the U.S. Navy’s EIS for SURTASS only three areas have been nominated as ‘off limits’ in terms of deployment of LFAS. Designated Offshore Biologically Important Areas (OBIAs) are defined as “those areas of the world’s oceans outside of 22km (12 nautical miles) of a coastline where marine animals of concern (those animals listed under the U.S. Endangered Species Act and/or marine mammals concentrated in high densities to carry out biologically important activities.” Those biologically important areas include migration, breeding and calving grounds, and feeding grounds. One of the three areas designated is the Antarctic Convergence Zone.
+
+According to some marine scientists, the EIS has significantly understated the range of LFAS’ impact and thus the potential harm. If these views are proven correct, then the Antarctic Convergence may not be adequately protected by current mitigation measures proposed by the U.S. Navy.
+
+Low frequency sonar can travel hundreds of miles with little loss of power. It may actually create a “kill zone” of several hundred miles in diameter, according to some marine scientists. NATO naval exercises using low frequency sonar conducted off Greece in 1996 killed whales more than 100 kilometers away.  In the Final EIS for its sonar system, the Navy admits that at an intensity of 160 decibels (a lethal level) would be felt several hundred miles away from the source. This would create a “ kill zone” the size of Texas.”17
+
+Professor Hal Whitehead, Dalhousie University, Nova Scotia, writes:
+
+….scientific evidence suggests that, despite uncertainty, a level of about 120dB is reasonable in considering when underwater noise may have a serious impact on marine mammals. This would extend several hundred kilometers from the LFA source and include areas of hundreds of thousands, or maybe millions of square kilometers. This is not relatively small.18
+
+Regarding military sonars, and in particular Low-Frequency Active Sonar (LFAS), ASOC recommends that all Antarctic Treaty Parties support a cessation for the indefinite future of any further deployment of LFAS that could harm species in the Southern Ocean or those migrating to and from the Antarctic. On a global basis, ASOC urges all governments to consider appropriate steps to protect the marine environment from deployment of LFAS until such time as there is adequate scientific evidence available to properly evaluate the harmful impacts of its use. The Antarctic Treaty Parties should take particular steps to ensure that acoustic technology, regardless of which country is deploying it, does not harm the Antarctic marine environment south of the Antarctic Convergence, or species coming to the Antarctic to breed and feed. 
+
+
+Annex V: Research Needs
+
+As long ago as 1985, UNEP’s Marine Mammal Global Plan of Action called for study of the long-term threats of anthropogenic noise in the ocean, and the Arctic Environmental Protection Strategy (AEPS) identifies underwater noise as a problem and priority in the Arctic region. But too little focused longer-term research is being done. Research needs identified by the U.S. National Academy of Science in 2000 and 2003 which have relevance for Antarctic research are identified in Annex 2.
+
+Research needs identified by the U.S. National Academy of Science in 2000 (Marine Mammals and Low Frequency Sound: Progress since l994), which have relevance for Antarctic research: 
+
+    • Basic hearing capabilities of various species of marine mammals.
+    • Hearing capabilities of larger marine mammals that are not amenable to laboratory study. 
+    • How marine mammals utilize natural sound for communication and for maintaining their normal behavioural repertoire.
+    • The responses of deep-diving marine mammals to low-frequency sounds whose characteristics duplicate or approximate those produced by acoustic oceanographers and other sources of human generated sound, such as low-frequency military sonars and sounds used for seismic exploration.19
+    • Audiometric data on multiple animals of different sexes and ages in order to understand variance in hearing capabilities within a given species.
+    • Sound pressure levels that produce temporary and permanent hearing loss in marine mammals.20
+    • Condition of a representative sample of important cochlear structures in different species of wild marine mammals using post mortem examination.
+    • Morphology and sound conduction paths of the auditory system in various marine mammals.
+    • Temporal resolving power for various marine mammals.
+    • Whether low-frequency sounds affect the behaviour and physiology of organisms that serve as part of the food chain for marine mammals.
+    • Whether low-frequency sounds affect the non-auditory physiology or structures of marine mammals.
+
+The National Research Council also has recently issued recommendations (2003), which are relevant for Antarctic research: 
+
+    • A federal agency should be mandated to investigate and monitor maritime marine noise and possible long-term effects on marine life by serving as a sponsor for research on ocean noise, the effects of noise on marine mammals and long-term trends in ocean noise.
+    • A research program should be instituted to investigate the possible causal relationships between the ambient and identifiable source components of ocean noise and their short and long term effects on marine organisms.
+    • Collect, centralize, organize and analyze existing data on marine noise from human sources to provide a reference database and to establish the limitations of research to date.
+    • Initiate a long-term ocean noise-monitoring program over a broad range of frequencies.
+    • Conduct research to determine quantitative relationships between levels of human activity and resulting noise.
+    • Conduct research to describe the distribution and characteristics of sounds generated by marine mammals and other marine organisms seasonally, geographically, and within behavioural contexts.
+    • Develop and verify a model of global ocean noise that properly reflects the impact of background and transient noise on marine mammals.
+    • Target efforts to measure ocean noise toward important marine mammal habitats. Until these habitats are fully described, long term monitoring programs should begin in coastal areas, marine mammal migration paths, foraging areas and breeding grounds.
+    • Whenever possible, structure research to relate individual observed responses to population-level effects.
+    • Conduct research to determine whether subtle changes in marine mammal behaviour might result from the masking of biologically important sounds by anthropogenic sounds.
+    • Determine whether there are reliable long-term stress indicators and whether they can be used to differentiate between noise-induced stress and other sources of stress in representative marine mammal species.
+    • Examine the impact of noise on non-mammalian organisms in the marine ecosystem.  Fish are important members of the marine habitat and food web, and have been shown to use sound in ways that are comparable to the ways marine mammals communicate and sense their environment.
+
+Simmonds et al. (2003) produced a marine noise action plan involving six recommendations that are relevant to the Antarctic region:
+
+    • Attention should be given to the development of international law to regulate marine noise pollution, either through an international treaty dedicated to this issue, or development of comprehensive regulation through existing regimes.
+    • An independent body should be established to initiate, promote, monitor and fund marine noise research.
+    • All major developments in the marine environment, including those of an industrial or military nature, are subject to full environmental assessment in terms of their input of noise pollution to the wider environment. This process should take due regard of the precautionary principle, and wherever it occurs, environmental assessment should be subject to full public scrutiny.
+    • These same major developments should make a public commitment to mitigate their effects relating to noise and employ effective mitigation measures and develop alternative technologies to address this issue.
+    • The navies of the world should seek to effectively mitigate their noise-producing activities, avoid the deployment of powerful sonars and ideally develop a treaty that means that powerful sonars are not required.
+    • The boundaries and management regimes of  Marine Protected Areas  and	Sanctuaries should be developed to take noise pollution and its propagation beyond those declared boundaries into account, including the creation of buffer zones.
+Annex VI: Sources
+
+Balcomb, K.C. and D. E. Claridge. 2001. A mass stranding of cetaceans caused by naval sonar in the Bahamas. Bahamas Journal of Science 8(2): 1-12.
+
+Coastal Carolina University Table On Ambient Noise, 2000, from Underwater Noise Pollution and Marine Mammals, B.Brost, B. Johnson, a paper for MSCI 375, Biology of Marine Mammals, submitted October, 5, l998.
+
+Crum, L. A. and Y. Mao. 1996. Acoustically enhanced bubble growth at low frequencies and its implications for human diver and marine mammal safety. J. Acoust. Soc. Am. 99 (5), 2898-2907.
+
+Degollada, E., M. Arbelo, M. André, A. Blanco and A. Fernández. 2003. Preliminary ear analysis report of the 2002 Canary Islands Ziphius mass stranding. Presentation to the European Cetacean Society Conference, Las Palmas de Gran Canaria, March 2003.
+
+Department of the Navy, Chief of Naval Operations. February, 1999. Overseas Environmental Impact Statement and Environmental Impact Statues for Surveillance Towed Array Sensor System Low Frequency Active (SURTASS LFA) Sonar.  
+
+Dotinga, H. and A. Oude Elferink. 2000. Acoustic Pollution in the Oceans: The Search for Legal Standards. Ocean Development and International Law; 31: 151-182.
+Evans, D. L., C.C. Lautenbacher, Jr. and W.T. Hogarth. 2002. Report of the Workshop on Acoustic Resonance as a Source of Tissue Trauma in Cetaceans. Silver Spring, MD, USA.
+
+Evans, D. L. and England, G. R. 2001. Joint Interim Report Bahamas Marine Mammal Stranding Event of 15-16 March 2000.
+
+Fernández, A., M. Arbelo, E. Degollada, M. André, A. Castro-Alonso, R. Jaber, V. Martín, P. Calabuig, P. Castro, P. Herraez, F. Rodrígez and A. Espinosa de los Monteros. 2003. Pathological findings in beaked whales stranded massively in the Canary Islands. Poster presented at the European Cetacean Society Conference, Las Palmas de Gran Canaria, March 2003.
+
+Frantzis, A. 1998. Does acoustic testing strand whales? Nature 392: 29.
+
+Gill, A. and P. G. H. Evans. 2002. Marine Mammals of the Antarctic in relation to Hydro-Acoustic Activities. Report to the German Federal Agency for Nature Conservation (BfN). 226 pages.
+
+Gisiner, R. C. 1998. Proceedings of the Workshop on the effects of anthropogenic noise in the marine environment. 140 pages.
+
+Hess, 1997. Draft panel recommendations, High Energy Seismic Workshop. June 13-14, 1997. 
+
+Hirst, A and P. Rodhouse. 2000. Impacts of geophysical seismic surveying on fishing success.  Reviews in Fish Biology and Fisheries 10: 113-118.
+
+IWC 1999. Report of the Scientific Committee. IWC/51/4.
+
+Jepson, P. D., R. Deaville, T. Patterson, J. R. Baker, H. R. Ross, A. Pocknell, F. Howie, R. J. Reid and A. A. Cunningham. 2003. Novel cetacean gas bubble injuries: Acoustically induced decompression sickness? Presentation to the European Cetacean Society Conference, Las Palmas de Gran Canaria, March 2003. 
+
+Ketten, D.R.  Declaration in Hawaii Green Party, et al v. Donald L. Evans, January 17, 2003.  Civ. No. C03-0078-SC ; Ketten, D. R. 1998. Marine mammal auditory systems: A summary of audiometric and anatomical data and its implications for underwater acoustic impacts. NOAA Technical Memorandum. NOAA-TM-NMFS-SWFSC-256.
+
+Marine Mammals and Low Frequency Sound: Progress since l984. 2000. The National Academy of Sciences.
+
+McCauley, R. D., Fewtrell, J. and Popper, A. N. 2003. High intensity anthropogenic sound damages fish ears. J. Acoust. Soc. Am. 113 (1): 638-642.
+
+McCauley, R. D. and Duncan. 2001. Marine acoustic effects study, blue whale feeding aggregations, Otway Basin, Bass Strait, Victoria. Report by CMST, Curtin University, Perth, WA for Ecos Consulting. Report R2001-7. 46 pages.
+
+McCauley, R. D., J. Fewtrell, A. J. Duncan, C. Jenner, M. Jenner, J. D. Penrose, R. I. T. Prince, A. Adhitya, J. Murdich and K. McCabe. 2000. Marine seismic surveys - A study of environmental implications. APPEA Journal. pages 692-708. 
+
+McCauley R., M. Jenner, C. Jenner, K. McCabe and J. Murdoch. 1998. The response of humpback whales (Megaptera novaeangliae) to offshore seismic survey: Preliminary results of observations about a working seismic vessel and experimental exposures. APPEA Journal: 692-706.
+
+Myrick A.C. Declaration in Hawaii Green Party, et al v. Donald L. Evans, January 17, 2003.  Civ. No. C03-0078-SC.
+
+Moscrop, A. & Swift, R. 1999. Atlantic Frontier Cetaceans: Recent research on distribution, ecology and impacts, A Report to Greenpeace UK.
+
+National Acadamies. 2003. Ocean Noise and Marine Mammals, study conducted under the auspices of the National Academies’ Ocean Studies Board at the request of the federal interagency National Ocean Partnership Program, with the sponsorship of the Office of Naval Research, the National Oceanic and Atmospheric Administration, the National Science Foundation and the U S Geological Society.
+
+National Research Council. 2003. Ocean Noise and Marine Mammals. Committee on Potential Impacts of Ambient Noise in the Ocean on Marine Mammals. National Academies Press, Washington DC, US. 94 pages.
+
+National Research Council. 2000. Marine Mammals and Low Frequency Sound: Progress since 1994. Committee to review results of ATOC’s Marine Mammal Research Program. National Academy Press, Washington DC, US.
+
+Report of a Review by an International Group of Scientists to Consider the Status of Western Gray Whales, Human-Related Threats to the Population, and Research and Monitoring Needs.  27-28 February, 1999. SC/51/AS20.
+
+Richardson, W. J. 2000. Needed research concerning airgun effects on marine mammals. Presented at ERCH conference. 2 pages.
+
+Richardson, W. J. 1997. Marine Mammals and Man-made Noise: Current Issues. Proceedings of the Institute of Acoustics 19(9): 39-50.
+
+Richardson, W. J. and B. Würsig. 1997. Influences of man-made noise and other human actions on cetacean behaviour. Mar. Fresh. Behav. Physiol. 29: 183-209. 
+
+Richardson, W.J. 1995. Documented disturbance reactions. In Marine Mammals and Noise (ed. W.J. Richardson, C.R. Greene, C.I. Malme and D.H. Thomson), pp. 241-324. Academic Press, San Diego.
+
+Roussel E. 2002. Disturbance to Mediterranean cetaceans caused by noise. In G. Notarbartolo di Sciara (Ed.), Cetaceans of the Mediterranean and Black Seas: state of knowledge and conservation strategies. A report to the ACCOBAMS Secretariat, Monaco.
+
+Rowles, T., D. Ketten, R. Ewing, J. Whaley, A. Bater and R. Gentry. (2000): Mass Stranding of Multiple Cetacean Species in the Bahamas on March 15-17, 2000. ANNEX J, Report of the Standing Working Group on Environmental Concerns SC/52/E28.
+
+Simmonds, M. and S. Dolman. 1999. A note on the vulnerability of cetacean to acoustic disturbance. International Whaling Commission meeting, SC/51/E15.
+
+Simmonds, M.P, and L. F. Lopez Jurado. 1991. Whales and the military. Nature, 351:448.
+
+Simmonds, M. P., Dolman, S. J. and Weilgart, L. S. (Eds) 2003. Oceans of Noise: A WDCS Scientific Report.  A report of the Whale and Dolphin Conservation Society.
+
+U.S. Institute for Fisheries Resources and the Pacific Coast Federation of Fishermen’s Associations. April 2002. Navy Low Frequency Sonar - A Threat to Marine Fish?
+
+Wiggins, S. M., E. M. Oleson and J. A. Hildebrand. 2001. Blue whale call intensity varies with ambient noise level. J. Acoust. Soc. Am. Vol.110, No.5, Pt.2. p. 2771.
+
+Van Dyke, J., E. A. Gardener and J. R. Morgan. 2003. Whales, Submarines and Active Sonar.

@@ -1,0 +1,98 @@
+﻿
+
+
+
+
+
+Oil Spill Response
+
+
+
+
+Oil Spill Response
+This paper was considered as Working Paper 6 at the Antarctic Treaty Meeting of Experts on the Management of Ship-borne Tourism in the Antarctic Treaty Area (December 2009). 
+New Zealand is now submitting this paper for the information of the ATCM.
+
+Introduction
+This paper discusses the special requirements and restrictions that mounting a response to a marine based spill in the Antarctic Treaty area can pose.  
+Most vessels transiting to, from and operating around the Antarctic Treaty area use either a ‘winterised’ heavy/intermediate fuel oil type or a distillate fuel.  The oil properties vary when exposed to the Antarctic environment and are further discussed in WP005 submitted by New Zealand.
+The Threat
+The inability of vessels to refuel in the Antarctic combined with the distance gateway countries are from this area1 require vessels to carry full bunkers on point of departure outbound for Antarctic.  A conservative estimate of bunker amounts would vary from 750 tonnes down to 500 tonnes on departure from the Antarctic (best case).  
+The fuel oil used for powering the vessel is generally carried in fuel bunkers in the bottom of the hull with ready use stocks being held in ‘daily user’ tanks located around the engine room with capacity of up to 120 tonnes of fuel.   The fuel is generally ‘heated’ to around 50°C to 60°C to improve viscosity and burn-ability (with heavy or intermediate fuel oils) in the bunkers.
+Therefore vessel design and construction becomes a factor in a response through the ability of the vessel to remain afloat during an emergency and retain bunkers if the vessel sinks.   Arguably ships built in the past 2 decades are not as strong as a result of increased steel prices and the need for fuel efficiency, thus increasing the risk of a spill in the event of damage to the vessel.
+Other related factors adding to the threat include the type of weather patterns experienced within the Antarctic environment and the unique seamanship that is required in a hostile environment where vessels operate in very close proximity to ice.  A dominant factor in a maritime incident is the experience of the master and crew in preventing a catastrophic outcome. 
+This starts to fashion response strategies in terms of the fuel type, the behaviours of fuel oils in different temperatures and quantities carried for distances travelled.  
+Considerations for Response in the Antarctic
+The following considerations are listed as factors that shape a response in the Antarctic region;
+    • The hostile nature of the environment and inability to sustain human interventions to respond including response limitations during summer months 
+    • Proximity of the spill to land based Antarctic stations
+    • The hazards associated with working in the Antarctic environment including the effects of cold temperatures on response personnel and their ability to work in bulky exposure suits and being exposed to very cold, damp conditions 
+    • The safety precautions and support (eg rescue capability) required before personnel may be deployed into the field  
+    • Where oil is widely spread amongst broken ice, there may be no practical method of responding
+    • The behaviour and nature of the oil on water
+    • Recovery techniques of oil on the sea surface
+    • Storage or disposal of waste during recovery of the oil; a major factor determining how response should occur given a conservative estimate of 5 times the waste generated to 1 times the oil spilled.
+    • Limited ability for aerial surveillance operations including the determination of the extent of oiling that has occurred
+    • The requirement for support of a ‘sea based’ response including the requirement for a response platform combined with a waste storage platform capable of holding up to 5 times the amount of oil released into the marine environment i.e. 2 vessel operation and the ability to treat injured wildlife.
+    • Time to mobilise a response effort from Gateway countries
+Types of Maritime Incidents
+There are two types of marine incidents that can occur within this region and be catagorised in the following ways; minor and catastrophic.  A near miss incident can also be included as a ‘type or marine incident’ albeit that the near miss may require preparations for either a minor spill or catastrophic spill.   In a minor incident where a spill occurs, the obvious response agency is the vessel operator. This represents the ‘Tier 1’ category of response and is consistent with the Shipboard Marine Pollution Emergency Plans (SOPEP) requirements.  In a catastrophic incident, the response agency is expanded out to the ‘Party to the operator’ or others who may want to assist in the incident response.  
+In a pollution sense a catastrophic incident would involve significant environmental impact and potentially include wildlife injuries/mortality.   A response to a catastrophic incident incurs the use of a lot of resources and assets to achieve a successful outcome.
+Response Options
+Threat Reduction
+The most preferred response option is to reduce the threat of a spill through an early assessment and declaration by a vessel in distress to enable other vessels to assist in a search and rescue phase and then potentially assist by reducing or removing the fuel oil from the vessel.  Assisting vessels would need to assess the risk involved in undertaking such operations.    This could include the use of a fishing fleet supporting tanker given proximity and availability of that vessel for fuel removal tasks.  Again the window of opportunity depends on how long the heating coils in the bunkers remain operative. However where time and risk permit, the removal of fuel oil from a vessel in distress to an assisting vessel remains the most preferred option in this region.
+Dispersant
+The ‘rule of thumb’ pre-requisites for using dispersant in the Antarctic are:
+    • Viscosity less that 10000 cSt 
+    • Water temperature is above the pour point of oil (oil is free flowing)
+    • Thickness of oil on water is greater than 0.1mm thick
+    • Use as soon as possible after the spill occurs
+    • For use on persistent oil spills only; intermediate or heavy fuel oils
+
+Other factors around a selection of dispersant for these conditions include good water exchange and wave energy and the types of fuel oil spilled.  There have been successful field trials2 conducted using dispersant3 in zero or sub zero temperatures on certain crude oils.  However trials of heavy or intermediate fuel oils in zero degree water and ambient temperatures have not been undertaken.  
+Invariably dispersants will have to be applied using small manoeuvrable vessels in lieu of having an aerial dispersant capability.  This further requires calm waters and good visibility of where the oil is sited.   Where dispersant is used between ice floes and while the wave energy may not be sufficient to achieve efficient dispersion, friction between the floes, particular during break-up may created enough energy to cause dispersion.
+A further factor will involve the time the oil has been in the environment and the ‘weathering’ of the oil making it less likely to disperse.  Noting vessel transit times mentioned above, unless dispersant can be applied reasonably quickly after the spill, then the dispersant option would be limited to the minor incident category.   
+Absorbents
+The use of absorbents particularly for a minor incident is considered a viable response if the absorbents can be put in direct contact with the oil and recovered to a support/delivery vessel.  Using absorbent booms to initially contain a small spill and then absorbent pads to recover the spilled oil is an effective option for the vessel operator.  There are some absorbent products available that market their ability to be ‘sprayed onto a spill including in zero degree water temperatures’ and absorb the spilled oil.  Recovery of this material may become difficult in these circumstances. The use of absorbents for a catastrophic spill may also be realistic but limited depending on the size and area of the spill. 
+Again the issue of waste generated becomes important.  Mobile burners have been successfully used to get rid of oily debris and sorbent in remote areas by other response organisations. The use of burners in the Antarctic would need to be carefully considered.
+4Containment
+The effective use of oil booms for containment is constrained in ice conditions due to the following factors;
+    • Safe deployment from a vessel by personnel exposed to cold conditions
+    • The size of ice pieces flowing into the boom
+    • The use of booms around ice flows
+    • The limited use of PVC and polyurethane booms due to durability
+    • Finding suitable anchorage for booms in broken ice 
+6On water recovery
+The use of oil skimming equipment requires positioning in areas of oil concentration in open water and in clear water between ice floes.  Issues with skimmer use in ice predominantly revolve around the collection of ice and consequent reduction of oil recovery by the skimmer.  The following issues must be considered:
+    • Vertical rope mops (operated from cranes), drum, brush, drum-brush and disc systems are the most useful skimmers
+    • Belt skimmers can be used if ice pieces are manually removed from directly in front of the skimmer or if they are picked up by the belt
+    • Expect minimal ice processing or deflection with most skimmers except brush and drum-brush units 
+    • The recovered fluid generally contains a significant amount of slurry and slush ice. This can be a problem unless sufficient storage capacity is available.
+
+Issues with skimmer use in ice predominantly revolve around the collection of ice and consequent reduction of oil recovery by the skimmer.  Mobile skimmer vessels are also a recovery option dependent on the ability of the ‘mother ship’ to be able to launch and recover a 3.5tonne vessel (dry). 
+Manual recovery using innovative techniques is also available to the spill responder.  The recovery of weathered or emulsified oil can be conducted with field tools such as rakes, forks, nets and ‘grabs’.
+6In-situ burning (ISB)
+Remains a viable option for response in the Antarctic and is possible with the following prerequisites:
+    • Emulsions should be at least 75% oil
+    • Slick thickness should be greater than 2-3 mm
+    • Wind speed should be less than 20 knots
+    • Crude oil should be burned within 2 - 5 days of the spill.  An ignition system is always needed; fire-resistant boom is usually required and spotter aircraft should also be used, if available.
+Early ISB trials have also shown that oil can be successfully burned contained in ice, ice troughs, in snow or when contained against a beach. 
+While in situ burning may be considered as a response option, a Net Environment Benefit Analysis should be conducted and include consideration of the impact of releasing high levels of carbon into the atmosphere, and the inevitable residue resulting from incomplete combustion.
+Natural recovery & Monitoring
+Leaving the oil in the environment to naturally recover is a very long slow process (due to the nature of the Antarctic environment) and with oil being trapped in ice and easily transported, there is the potential for the wider impact of a quantity of oil over a greater area.  Monitoring programs could be established to gauge the effects the oil spilled has on any impact areas while projecting timelines for natural recovery to occur can also assist in the overall appreciation of the effects of the spill on the environment.
+Responding in the Antarctic Region
+Any response to an environmental emergency in the Antarctic will invariably involve a sea based response from ships taken up from trade (STUFT).  Ideally these vessels will have an area of low freeboard and a reasonable working deck to lay out equipment, launch boats and have ease of access for response personnel into/ex small boats.  The second requirement will be to mount a two vessel operation where one vessel is the response unit and the other vessel is used to store the waste generated from the cleanup operation.   The normal requirements of operating below 60° South and in the ice include ice strengthened and ice categorised vessels, fuel limitations and self sustainability for up to 30 days in the Antarctic region supporting up to 30 additional response personnel (in addition to the crew).   The logistical support chain will need comprehensive planning for any extended response operation
+Another consideration in mounting a sea-based response is the time taken to mobilise equipment and stores from a port based at least 4 days steaming time away from the incident1.  Consideration could be given to utilising vessels already based in the Antarctic if aerial transport can be provided to transport personnel, stores and equipment to a site where potentially a vessel can be re-rolled and re-tasked into oil spill response.  The key component then becomes the abilities including training, experience and knowledge of the crew and responders to undertake oil spill response in ice and sub zero conditions.
+Summary
+Undertaking a response in the Antarctic to a minor incident relies on the vessel having the ability to recover spilled oil from the environment using homogenous assets and crew in sub zero temperatures.
+Undertaking a response to a catastrophic incident requires a lot more planning and effort in deciding whether a response should occur balanced over the safety of personnel, logistics and practicalities of minimising damage to the Antarctic environment.  The key issue is safety of responders lives especially given that there are very few personnel worldwide who have had experience in responding to a spill in this type of environment.  A secondary issue is the supportability of a response operation in this region and the dependency any response has on the platform support available.  The underpinning concept should always revolve around the effectiveness of mounting a response in this region; to this end, plans and exercising of crews in spill response is encouraged but the reality of operating in a hostile environment with clothing and ambient conditions that cannot be replicated anywhere else will add to the complexity of responding.
+Recommendations:
+The Antarctic Treaty Parties should consider the development of an oil spill contingency plan for the Antarctic Treaty area with an operational focus on response issues and listing assets and resources to be used when a catastrophic incident occurs. Such a plan should:
+    • Include all Treaty Parties
+    • Detail the capabilities of states, especially, Gateway States
+    • Detail the ‘on ice’ support of terrestrial Antarctic stations
+    • Designate ‘lead’ states for spill response for specific geographic areas 
+
+
+

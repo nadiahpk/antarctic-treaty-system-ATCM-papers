@@ -1,0 +1,623 @@
+ANTARCTIC TREATY                  TRATADO ANTARTICO
+XX CONSULTATIVE MEETING          XX REUNION CONSULTIVA
+
+TRAITÉ SUR L'ANTARTIQUE          ДОГОВОР ОБ АНТАРКТИКЕ
+XXe RÉUNION CONSULTATIVE         XX КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+                                 XX ATCM/INF 25
+                                 April, 1996
+                                 Original: English
+
+THE ANTARCTIC METEOROLOGICAL CENTRE AT CASEY
+(Agenda item 12)
+(Submitted by Australia)
+1
+
+THE ANTARCTIC METEOROLOGICAL CENTRE AT CASEY
+
+An information paper submitted by the Australian Delegation.
+
+XX Antarctic Treaty Consultative Meeting (ATCM),
+      Utrecht, The Netherlands,
+      29 April to 10 May 1996.
+
+16/0/2002  ANTARCTIC-POLITIX  3000 2000  15:18  16/0/9[?]6.
+2
+
+INTRODUCTION
+
+At the XIVth ATCM in 1987 representatives discussed their growing concerns over the lack of
+measures to ensure aviation safety, even though the volume and density of air traffic in Antarctia
+were known to be very low in comparison with the rest of the world. A Meeting of Experts n
+Paris in May 1989, confirmed these concerns. At the XVth ATCM held in 1989, Recommendat:on
+XV-20 was passed to address the problem. The Council of Managers of National Antarc:ic
+Programs (COMNAP) assigned to the Standing Committee on Antarctic Logistics and Operatio:s
+(SCALOP) the implementation of Recommendation XV-20.
+
+The specific item of weather and sea ice information services for marine navigation was al:o
+raised at the XIV ATCM in 1987. It was referred to SCAR which organised a jo:nt
+SCAR/WMO/IOC expert meeting held in Leningrad in 1989. The WMO view conveyed to XVI
+ATCM in 1991 was essentially that:
+    A need exists for high-quality comprehensive meteorological services for the safety and
+    efficiency of operational and research activities in the Antarctic;
+    Several meteorological forecast centres would be required on the continent and :ie
+    neighbouring sea areas to meet the existing requirements for detailed services for limit=d
+    areas and forecasts for particular local meteorological conditions;
+    These meteorological forecast centres must have:
+    -   Access to relevant Antarctic data and to products transmitted over the GTS;
+    -   Adequate comnunication facilities;
+    -   The ability to receive high-resolution data transmitted from satellites;
+    In view of the difficulties of maintaining staff and equipment in the Antarctic, there is no
+    current need to establish a global data-processing system on the continent. Support for
+    the meteorological forecast centres could be arranged by WMO through existing cent::s.
+
+OVERVIEW
+
+The National Operator of the Australian National Antarctic Research Expeditions (ANARE) is
+the Australian Antarctic Division. The Australian Bureau of Meteorology, with assistance from
+the Australian Antarctic Division, established an Antarctic Meteorological Centre (AMC) at Casey
+in December 1991, thus paving the way for a progressive improvement in provision of
+meteorological services for air operations and shipping. The cornerstone of the operations of the
+Australian Antarctic Meteorological Centre is the High Resolution Picture Transmission (HRPT)
+facility from which Advanced High Resolution Radiometer (AVHRR) data at 1 km resolution are
+obtained. All five channels of the AVHRR data from the latest two NOAA satellites are archived
+all year round at Casey. Casey AMC is equipped with satellite communication links to the
+National Meteorological and Operational Centre (NMOC) in Melbourne and its super comput:rs.
+A spur line in the communications network allows the Tasmania Regional Forecasting Centre to
+act as a back up for the AMC at Casey, if necessary. The Bureau of Meteorology Research Centre
+(BMRC) works closely with NMOC to develop operational numerical weather predic:ion
+products for Antarctica which can be used at the Casey AMC.
+
+15/0/15  26.9:15  2000 325 000  ANTARCTIC-POLICY  600/027 
+  
+
+
+
+(I couldn't find any text that was uncertain or unclear to represent with [?]. The text is extracted as per the given instructions.)
+3
+
+Features of the organisation of the Australian Antarctic Meteorological Centre are....
+        Part of the synoptic network of three-hourly surface meteorological observations.
+        An upper air sounding program making twelve-hourly balloon flights at four stations 
+        (including the sub Antarctic Macquarie Island).
+        NOAA HRPT ground station.
+        Routine archival of HRPT data stream throughout the year for research purposes.
+        NOAA APT ground station at the secondary weather service office.
+        Online access to global models of the atmosphere.
+        Meteorologists rostered for 24 hours coverage, if necessary, during summer.
+        Weather service to aviation on request.
+        Routine HF radio fax broadcast of high seas forecasts.
+        Weather service to shipping on request.
+        Sea ice imagery and analysis services broadcast and available on request.
+        An active research and development program.
+        Digital transfer of satellite imagery on request.
+
+HF Radio is to be phased out as the communications medium to shipping by the year 2000. We 
+plan to institute an INTERNET based "broadcast" system by the beginning of the 1996/97 
+shipping season. A list of 10 or so standard products will be made available on the World Wide 
+Web that can be down loaded by anyone with telephone access via INMARSAT.
+
+OPERATIONAL ASPECTS OF THE AUSTRALIAN AMC
+
+Satellite Imagery
+
+The first AVHRR images were received at Casey in February 1991. It represented a major step 
+forward in Australia's meteorological forecasting capability in Antarctica and provided the basis 
+for Casey being recognised as an Antarctic Meteorological Centre. High resolution pictures from 
+NOAA polar orbiting satellites covering an area within a radius of approximately 3,500 km from 
+Casey are received at the AMC, (see Figure 1).
+
+HRPT data received at the Casey Meteorological Centre, are transmitted in real time via a high 
+speed data link to our National Meteorological and Operational Centre in Melbourne for 
+operational purposes. HRPT data are also archived on Exabyte tapes for transport each summer 
+to Hobart and Melbourne where data bases are stored. Ready access to the tapes is provided to 
+Antarctic Cooperative Research Centre, CSIRO Office of Space Science & Applications and 
+other researchers.
+
+The computers used by the HRPT ground station at Casey are more than 5 years old and have 
+been in continuous use. The Bureau of Meteorology plans to replace the computers with UNIX 
+based HP equipment. Three HP 715/64's with DAT archive drives have been purchased and the 
+ingest software is currently being rewritten. The new system is to be installed in the summer of 
+1996/97. The new system will offer the following improved features:
+
+(1) Improved reliability and backup. Only one machine is required for the ingest and all 
+ancillary processing. The other two will provide backup, with one available for summer
+4
+
+research, and special processing, etc.;
+(2)  Data will be available sooner (order of 20 minutes after each satellite pass) for weather 
+and ice analysis.
+(3)  The DAT archive tapes will contain more data (4 Gbytes), they can be processed more 
+quickly, and require fewer tapes and tape changes.
+
+Global Numerical Weather Prediction Models
+
+Antarctica plays a unique role in the environment of our planet. Its icecap and surrounding sea 
+ice have a profound influence on the weather and climate, particularly of the Southern 
+Hemisphere. Increasingly, data are becoming available from land-based Automatic Weather 
+Stations, drifting buoys and remote sensing via radiometers on polar orbiting and geostationary 
+meteorological satellites. Improvements in the efficiency of the Global Telecommunications 
+System (GTS) and the development of more sophisticated data assimilation has led to significantly 
+improved skill in numerical weather prediction for high southern latitudes, using global models. 
+The skill displayed in pressure pattern predictions over the Australian Region by operational 
+models is now as great for the fourth day beyond data cut-off time, as it was for 24 hours 
+predictions in the early 1970's. Possibly, some of the improvement in 4-day prognoses for middle 
+latitudes has been due to better simulation of the atmosphere at high latitudes in the models and 
+the impact of improved data assimilation. A conceptual diagram of the data requirements to 
+predict the weather over southeast Australia for 1,3 & 5 days ahead is given in Figure 2.
+
+The present land-based surface observing network, including staffed stations and automatic 
+stations, but excluding weather reports from ships and drifting buoys, is given in Figure 3. The 
+distribution of drifting buoys at 29 February 1996 over the eastern part of the Southern 
+Hemisphere is given in Figure 4. The major links of the Global Telecommunications System 
+(GTS) are shown in Figure 5. The Australian Global Assimilation Prognosis (GASP) system 
+developed by BMRC is currently used for operational meteorology over Antarctica and the 
+Southern Ocean south of latitude 50° S. During the next five years the Australian Bureau of 
+Meteorology aims to develop additional numerical weather prediction products for Antarctica.
+
+Area for which Meteorological Services are Provided
+
+Meteorological support for aviation (long range intra continental and intercontinental flights) and 
+marine weather forecasts and sea ice information are provided from Australia's Antarctic 
+Meteorological Centre at Casey. The Australian AMC responds to requests for meteorological 
+services and sea ice information that are received for the area which is covered by our High 
+Resolution Picture Transmission (HRPT) aerial at Casey. We have provided requested services 
+to ships and aircraft between 50°E and 180° E, an area which is three times the size of the 
+Australian continent. Routine High Seas forecasts (synoptic situation, prognoses of sea surface 
+winds and total wave heights) are issued once daily between 0700 and 0900 UTC from Casey 
+valid for 1200 UTC on the current day, 0000 UTC & 1200 UTC the following day. The High 
+Seas charts are for two overlapping areas Western Waters (50S-70S, 60E-115E) and Eastern 
+Waters (50S-70S, 105E-160E), while Meteorologists are stationed at the AMC from November 
+to April.
+
+12/0/16  19:14   16/8/96      
+2000 32000 
+ANTARCTIC-PUBLIC      
+006/027T
+5
+
+The comprehensive range of services and high resolution data available for a large part of the 
+East Antarctic has positioned the Australian AMC to assume a very important role in support of 
+marine and air transport as well as scientific research.
+
+Staffing and duties
+
+The AMC at Casey is staffed by three meteorologists from November to April inclusive each 
+"summer." There is normally 21 hours coverage daily during "summer" (2000UTC to 
+1700UTC), but the coverage can be increased to 24 hours for special operational purposes. 
+Meteorological and sea ice products routinely produced by the AMC at Casey include:
+    MSLP ANALS at 6 hourly intervals.
+    MSLP PROGS for +12 and +36 hours.
+    500hPa ANALS at 12 hourly intervals (00 & 12 UTC).
+    Daily graphical High Seas forecasts of sea surface wind velocity and ocean wave heights.
+    Weekly sea ice images of the approaches to Casey, Davis and Mawson.
+
+Two meteorological observers and an electronics technician winter-over at the AMC to continue 
+the archiving of HRPT data on Exabyte tapes (to be replaced by DATs) for research purposes. 
+During the period May to October the Tasmania Regional Forecasting Centre in Hobart provides 
+any meteorological services or sea ice information requested.
+
+Aviation Weather Services
+
+The types of meteorological services provided to aviators commonly include: 
+METAR/SPECI      These are both observations of actual conditions within the immediate 
+                 vicinity of an aerodrome, designated as SPECI when conditions are 
+                 unfavourable for aircraft operations but otherwise as METAR. These 
+                 weather reports are made half hourly when special conditions prevail. 
+                 If the criteria for issuing a SPECI (eg. cloud base and visibility are 
+                 above the alternate minima) are not met then routine weather reports 
+                 are issued hourly and identified as METAR by international 
+                 agreement.
+TTF              Trend Type Forecast. This consists of a SPECI or METAR, to which is appended a short statement describing any significant 
+                 changes that are expected, during the next three hours.
+TAF              Terminal Aerodrome Forecast. This is a forecast of conditions within 
+                 the immediate vicinity of an aerodrome for up to 24 hours ahead.
+ROFOR            Route Forecast. This is a forecast of upper winds and temperatures, 
+                 any significant weather en route, etc.
+ARFOR            Area Forecast. Similar to a ROFOR, but referring to a specific area 
+                 rather than a particular flight.
+
+The role and importance of meteorological support for ANARE science and operations are 
+strengthening. The frequency of long range helicopter flights is increasing, as is ANARE's
+
+18/0/4  16:19   2000 322 005   ANTARCTIC-PUBLIC   900/ZT[?]
+reliance on their success and timeliness. The susceptibility of helicopters in Antarctica to 
+significant en route weather during long range flights is of considerable importance. Our role in 
+support of these flights is paramount.
+
+Similarly, Qantas sight-seeing flights are increasing in their frequency and the quantity and detail 
+of information they demand is not decreasing. The number of users of our AVHRR products is 
+increasing with some important US contacts and collaboration being formed over the 95/96 
+summer. Our other forecasting products are well used and demands for these services has never 
+been stronger.
+
+Davis Aviation Weather Service Office
+
+Davis is the hub of the air transport operations of the Australian National Antarctic Research 
+Expeditions (ANARE). In five of the last six operational seasons an aviation weather forecaster 
+has been stationed for the "summer" at Davis. Since the summer of 1994/95 there have been intra 
+continental helicopter flights. e.g. Davis to Casey via Mirny, a distance of nearly 1500 kilometres. 
+The Aviation Weather Services Office located at Davis provides pilot briefings in person, 
+ARFOR, ROFOR, TAF and TTF forecasts are issued on request under the guidance of the 
+Antarctic Meteorological Centre at Casey. There is an Automatic Picture Transmission (APT) 
+ground station at Davis which provides visual and infra red imagery with a resolution of 5 km. 
+Upper air temperature, pressure, humidity and wind velocity profiles are measured daily at 00 and 
+12 UTC at Davis and Mawson. In the summer of 1995/96 there were fifty-two separate flights 
+between Davis and Mawson and eight flights between Davis and Casey. A total of 650 hours were 
+flown by two helicopters for the season.
+
+The National Meteorological and Operational Centre
+
+The National Meteorological and Operational Centre (NMOC) in Melbourne provides guidance 
+wind velocity and temperature forecasts for some flights. In these cases requests must specify 
+ETD and ETA as well as the major way points along the route to be flown. These upper winds 
+and upper temperature forecasts are derived from the World Area Forecast System (WAFS) 
+operated in the USA. In the form provided from NMOC they may include information for up to 
+four standard pressure levels.
+
+Intercontinental Flights
+
+Between 26 November 1995 and 7 February 1996 there were 10 Qantas sightseeing flights over 
+the Antarctic continent. Six departed from Melbourne and three from Sydney to fly over Dumont 
+d"Urville, the Transantarctic Mountains, Terra Nova Bay and Cape Adare. One flight departed 
+from Perth to overfly the Antarctic coast near Casey. Flight planning was carried out on the basis 
+of meteorological advice provided by the Antarctic Meteorological Centre at Casey. Products 
+from the high resolution picture transmission aerial at Casey and the GASP model were used as 
+part of the documentation supplied to Qantas. A detailed weather outlook was provided 24 hours 
+before ETD and the Flight Forecast documentation being issued 4 hours before ETD. An Update 
+15-09-96  19:16  2000 323 500
+ANTARCTIC-PUBLIC  100/027T
+   6
+to the Flight Forecast was communicated to the Air Crew 4 hours after ETD. Vertical cros 
+sections of the atmosphere were constructed from Australian global model (GASP) data using the 
+Grid Analysis and Display System (GrADS) developed by Brian E. Doty at the Centre for Ocean- 
+Land-Atmosphere Interactions at the University of Maryland, USA. These cross sections (see 
+example given as Figure 6) have been well received by pilots, when provided at the route selection 
+stage and finally as part of the official forecast documentation for a specific flight plan.
+
+Sea Ice Information
+
+The Australian Antarctic Meteorological Centre provides satellite images of sea ice and hard 
+drawn sea ice analyses for shipping and in support of research. However the analytical tools 
+needed to gather information on ice are limited and the models to predict the motion of sea ice 
+are not yet widely available on an operational basis. The Antarctic CRC is one of world leaders 
+in sea ice research.
+
+Broadcast of Marine Weather Forecasts and Warnings
+
+An impression of the relative frequency of shipping voyages between Australia and Antarctica can 
+be gained from Figure 7 which shows a dot plot for each message from ships received during the 
+three months January, February and March 1995.
+
+Daily hand drawn surface streamline and isotach prognoses and total wave height predictions 
+(see examples given as Figures 8 & 9) are issued daily between 0700 & 0900 UTC for the High 
+Seas south of latitude 50°S and between longitudes 60°E and 160°E, divided into two sectors - 
+western and eastern waters. As suggested by the Master of R/VAurora Australis, the maps for 
+the two sectors over lap between 105°E and 115 E. The Australian Meteorological Centre 
+transmits these products from Casey, via INMARSAT, to a Fax on board the ANARE ships 
+R/VAurora Australis and M/V Polar Bird. This same service is available to ships from any other 
+nation, provided any substantial costs of transmission from Casey can be recovered. Alternatively, 
+arrangements can be made for the interrogation of a polling FAX system at Casey or Hobart from 
+ships at sea, so then all communications costs are borne by the user. These same products are 
+available on HF radio fax. HF radio facsimile broadcasts continue over radio VLM Casey (HF 
+radio fax) broadcasts using HF frequencies 11,453.1 kHz and 7,468.1 kHz. The frequency is 
+changed to best suit known shipping in the area.
+
+We can meet our basic obligation under the Safety Of Life At Sea (SOLAS) Convention for the 
+"broadcast" of forecasts and warnings of marine weather services through HF Fax. Graphical 
+products in the form of gridded forecasts of winds 75 metres above the sea surface and contours 
+of total wave heights (derived from the Australian global model GASP) are issued and broadcast 
+at 12 hourly intervals. However, the HF Radio is to be phased out as the communications medium 
+to shipping by the year 2000. We plan to institute an INTERNET based "broadcast" system by 
+the beginning of the 1996/97 shipping season. A list of 10 or so standard products will be made 
+available on the World Wide Web that can be down loaded by anyone with telephone access via 
+INMARSAT.
+
+T20:000# 
+ANTARCTIC-FORECAST 
+3200 500 
+18:18 96. 10/8T
+8
+
+RESEARCH AND DEVELOPMENT
+
+FROST
+
+The First Regional (Antarctic) Observing Study of the Troposphere - the FROST project - is 
+organised by the Physics and Chemistry of the Atmosphere Working Group of the Scientific 
+Committee on Antarctic Research (SCAR). The main contributors to FROST are British Antarctic 
+Survey, The Australian Bureau of Meteorology, the Antarctic CRC at the University of Tasmania, 
+the Meteorological Institute at Bonn University in Germany and the Byrd Polar Research Centre 
+at the Ohio University in USA. It is anticipated that FROST will lead to improvement in the 
+weather services provided for Antarctica and the Southern Ocean south of latitude 50° S. A paper 
+"The Antarctic First Regional Observing Study of the Troposphere (FROST) Project." by Jo in 
+Turner et al is to appear in a forthcoming issue of the Bulletin of the American Meteorological 
+Society.
+
+The Tasmanian Earth Resources Satellite Station (TERSS)
+
+Visible and infrared imagery taken from satellites is most useful but such observations are affected 
+by clouds and not all geophysical parameters on or near the Earth's surface can be "seen", even 
+under clear-sky conditions. The importance of remote sensing techniques, utilising the microwave 
+part of the spectrum has been recognised.
+
+Scatterometer Wind Vectors
+
+Over the vast Southern Ocean, apart from drifting buoys and isolated ship observations, sea level 
+air pressure measurements and sea surface wind vectors are almost totally lacking. This deficiency 
+limits the performance of numerical weather prediction models and will be exacerbated as model 
+resolution improves.
+
+ERS-1 launched in 1991 was the first satellite since SEASAT in 1978 to carry a scatterometer 
+for making sea surface wind observations. ERS-2 was launched in April 1995. Research scientists 
+at the Antarctic Cooperative Research Centre, University of Tasmania, have obtained access to 
+data from the ERS-1/ERS-2 satellites operated by the European Space Agency (ESA).
+
+TERSS is capable of receiving low bit rate data and it is hoped that the European Space Agency 
+(ESA) will downlink the low bit rate signal in the Australian region, so that direct readout can be 
+achieved with follow-on active microwave satellites. Japan's Advanced Earth Observation 
+Satellite (ADEOS) is scheduled to be launched in August 1996 and it will use a wind 
+scatterometer instrument (NSCAT). An application has been made to the National Space 
+Development Agency of Japan (NASDA) to obtain access to data from the ADEOS programme.
+
+Surface winds obtained, via the scatterometer instrument on board the active microwave satellites, 
+from ice-free zones of the Southern Ocean may be of use to meteorologists in three ways...
+   • Assimilation of scatterometer data in global and regional numerical weather prediction 
+      models.
+
+Tas.800# 
+AVH370-1T0170T 
+2000 3200 18/10/96  18:20
+9
+
+-   Subjective assessment in regional forecasting centres leading to improvements in sea level 
+    meteorological analyses and hence better marine weather forecasts.
+-   Post analysis in case studies of significant wind storms.
+
+Sea Ice Imagery
+
+Some national meteorological services provide sea ice analyses for the use of shipping. However 
+the tools needed to gather information on ice are limited and the models to predict the motion of 
+sea ice are not yet widely available on an operational basis. Evaluation of the Alaskan region 
+Synthetic Aperture Radar (SAR) imagery from ERS-1 for operational sea ice analysis has given 
+extremely encouraging results. In this application simple algorithms work well and could generate 
+sea ice concentration and ice type products with good precision in an automated mode. Improved 
+sea ice analyses through studies have been made by the Antarctic CRC at the University of 
+Tasmania, comparing observations made from ship and aircraft with passive microwave and active 
+microwave - Synthetic Aperture Radar - (SAR) imagery available from the new generation of 
+polar orbiting satellites. It is planned to investigate the feasibility of a joint venture agreement to 
+install an X-band reception and archiving facility at Davis beyond the year 2000.
+
+Limited Area Modelling
+
+A new Limited Area Prediction Scheme (LAPS) is intended to replace the Regional Assimilation 
+Scheme (RASP). The new high resolution latitude-longitude numerical weather prediction model 
+extends down to latitude 65°S for the entire domain. In its trial form in BMRC, LAPS has a 
+horizontal grid spacing of 0.75 degrees and 19 sigma levels in the vertical. It covers an area from 
+65°S to 15°N and 65°E to 175°W. The model contains a detailed parameterisation of physical 
+processes that include deep and shallow convection, large-scale rain, diagnostic clouds, stability 
+dependent constant flux layer, radiative transfer, etc. The system has been running in BMRC, 
+parallel with RASP, since December 1994, and verifications show significant gains over the RASP 
+system.
+
+The Bureau of Meteorology in conjunction with the Antarctic CRC has commenced to develop 
+a Limited Area Model with the domain covering the whole polar area south of latitude 50S for 
+synoptic scale work, which uses the fields from a global model such as GASP for the boundary 
+conditions. Initially, it is intended that the domain of the Australian LAPS be extended to latitude 
+75°S in a special version that can be used for some Antarctic applications.
+
+A mesoscale version of LAPS run at a resolution of say 0.25 degrees of latitude and longitude 
+over a domain of perhaps 2000 km x 2000 km is also required for scientific research such as 
+modelling the heat flux associated with variable sea ice concentration. Another application is to 
+the prediction of changes in wind direction and strength in the vicinity of a runway being used 
+for aircraft landing and takeoff.
+
+16/10/96   18:12   00200 3200 
+ANTARCTIC-POLICY   010/020T
+10
+
+CONCLUSION
+
+The standard of service available from the Australian Antarctic Meteorological Centre is
+continuously improving. Advanced satellite reception facilities are being used to improve the
+access of forecasters to high quality images used in the preparation of forecasts and briefing
+materials, while high speed satellite links to our national meteorological centre is allowing access
+to powerful computing facilities and improved numerical models of the atmosphere and
+cryosphere. New products are becoming available as commercial operators enter the Antarctic
+and need new services. HF radio is gradually being replaced by satellite technology, for direct
+telephone voice contact, for fax polling and, more recently, for accessing forecasts via Internet
+on the World Wide Web.
+
+REFERENCES
+
+1. WMO, 1992. "Antarctic Operational Meteorology - Past, Present and Future". N.A. Streten.
+WMO Bulletin Volume 41 No. 2 April 1992, pages 145-154.
+
+2. COMNAP, 1995. "Antarctic Flight Information Manual", Second Edition, November 1995.
+Prepared by the Standing Committee on Antarctic Logistics and Operations (SCALOP) of the
+Council of Managers of National Antarctic Programs.
+
+15/0/16  19:22  2000/3200  ANTARCTIC-POLICY  TIZ/OTT[?]
+Figure 1     Area for which 1 km resolution images are received via the aerial at Cas:y. 
+ANTARCTIC-POLICY    15:04  96.  19:12  2000  323  0092
+19:04 '88 10:23
+DATA REQUIREMENTS FOR PREDICTION
+0002 32 3300
+
+5 DAYS         3 DAYS         1 DAY
+
+Figure 2     Conceptual diagram of the data requirements to predict the weather over 
+             southeast Australia for 1, 3 & 5 days ahead.
+
+ANTARCTIC-POLICY
+013021
+80 N                                 80 N
+0 E       40 E       80 E       120 E       160 E       160 W       120 W       80 W       40 W       0 W
+                                                                                                 18.04 .98
+                                                                                                 19:25
+40 N                                 40 N                       2002 322
+                                                                                                 3500
+EQ                                   EQ
+                                                                 ANTARCTIC-POLICY
+40 S                                 40 S
+                                                                 
+80 S                                 80 S
+0 E       40 E       80 E       120 E       160 E       160 W       120 W       80 W       40 W       0 W
+
+Figure 3     The present land-based s[?]ace weather obsereving network.
+
+                                                                                                 014/021
+ANTARCTIC-POLICY                  002 323500  
+18/04 '96 19:25                  015/021
+
+
+                               
+                              Pressure vs non-pressure buoys 
+                              in the Indian Ocean
+
+
+The distribution of drifting buoys over the 
+Hemisphere at 29 February 1996.
+
+
+FEBRUARY 1996
+THE GLOBAL TELECOMMUNICATIONS SYSTEM, MAJOR LINKS
+
+18/04/88 19:21
+ANTARCTIC-POLICY
+Figure 5
+2002 32 3500
+0108 021
+Cross-Section for Latitude -67.5 and longitde 110 170
+
+
+1000                                                                 00
+500                                                                  50000
+600                                                                  600
+700                                                                  700
+600                                                                  600
+500                                                                  500
+400                                                                  400
+300                                                                  300
+200                                                                  200
+
+
+GASP +24HR valid 000UTC  3/DEC/1995 
+(Issued 000UTC 02/DEC/1995)
+
+
+105E
+110E
+115E          -70                                             
+120E                 -25         -15                              
+125E          -30              -20                              
+130E     -15      -40    -30                                    
+135E     -25      -50                                            
+140E          -30              -40                              
+145E     -40                                                        
+150E                                                                  
+155E                                                                  
+160E                                                                  
+165E                                                                  
+170E                                                                  
+
+
+Figure 6     A vertical cross section of the atmosphere taken from the Australian global 
+             model GASP, using the Grid Analysis and Display System developed at the 
+             University of Maryland, USA.
+
+ANTARCTIC-POLICY     320 503 
+12/8/04  16:28  96. 18:10  0L7/0L[?]
+60E     90E     120E    150E    180     150W    120W    90W     60W     30W     0
+
+                                                                                  60N
+
+                                                                                  30N
+
+                                                                                  0
+
+                                                                                  30S
+
+                                                                                  60S
+
+                      60E     90E     120E    150E    180     150W    120W    90W     60W     30W     0
+
+Dot-plot of SHIP messages reported during the 3-month period.
+
+Figure 7     An illustration of the relative frequency of ship messages received during the
+             three months period January, February & March 1995.
+
+Total : 356642
+
+18/01
+'98 19:29         002 322 3500                  ANTARCTIC-POLICY                  018/021
+'29/03 '95 15:11       0015 6721253/1      
+
+SURFACE WIND VALID : 
+12000 UTC 29/03/96
+
+
+High Seas Western Waters
+(50S-70S, 60E-110E)
+
+Figure 8    A sample of the graphical wind speed and direction predictions made for 
+western and eastern sectors of the High Seas for which the Casey AMC is 
+responsible.
+
+201/010 Q  ANTARCTIC-POLICY.  
+15/19/0  2000  2352     002  [TT/RK NO 5784]  
+15/03 '95 19:30  15/19/0  ST/01  '95 19:30
+Western Waters (50S-70S, 105E-160E)
+
+Synoptic Situation:
+
+A low, central pressure of about 970 hPa, is expected near 66S068E at 1200UTC, 29/03/96 and is expected to move slowly southeast and weaken. A second low pressure system should develop near 53S065E by 0000UTC, 30/03/96 and move southeast. By 1200UTC, 30/03/96 the low pressure system should be near 57S073E at 982hPa.
+
+------------------------------------------------
+
+Key:
+
+- - - - 20 - - - -   Contours of wind speed (knots)
+- - - - 30 - - - -   
+--------->          Direction of wind
+
+MIN                  Minimum in wind (less than 20 knots)
+MAX                  Maximum in wind (knots)
+L                    Low pressure centre
+H                    High pressure centre
+
+
+12/020/Z
+ANTARCTIC-POLICY     28/03  '96 FRI 17:13  [TY/RX NO 5784]  001
+                     18/0/10  96  19:21  3200 3200Z
+28/03 '95 15:15       2015 67212357
+                                 
+                  High Seas Western Waters (50S-70S, 60E-115E)
+
+                                 
+                      80E       
+             70E                   
+      60E                              100E
+                                 110E
+ 55S                                55S
+
+                  4-5 m                    
+             3-4 m                   
+      <2 m       2-3 m                 
+ 60S                                60S
+                                 
+ 65S                                65S
+
+ 70S                                70S
+
+
+SURFACE WIND VALID :  0000 UTC  30/03/96
+
+Figure 9
+Map of ocean wave height predictions (in metres) for the "western" waters of the High Seas for which the AMC at Casey is responsible.
+
+ANTARCTIC-POLARICY
+18.8.2002  32 3500
+120.66  62.8  KX  13 1:1  18/10/81  1208  ITL/RI NO 57
+                                 
+ ® 2021/02

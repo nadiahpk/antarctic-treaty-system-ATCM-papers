@@ -1,0 +1,788 @@
+﻿XXVII ATCM
+Information Paper
+IP 078
+Agenda Item: 4 c
+SCAR
+Original: English
+
+ 
+
+
+
+
+SCAR REPORT ON MARINE ACOUSTIC TECHNOLOGY AND THE ANTARCTIC ENVIRONMENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCAR REPORT ON MARINE ACOUSTIC TECHNOLOGY AND THE ANTARCTIC ENVIRONMENT
+
+INTRODUCTION
+1.	The sea is a naturally noisy environment but the environmental effects of noise generated specifically by human activities in the ocean have generated considerable concern in some circles.  Research to identify clearly the risks, the problem and the possible management solutions has made significant progress since the last SCAR workshop and report in 2001.  Additional incidents of injury to marine mammals have also taken place in various parts of the world and these provide lessons for the management of activities in the Antarctic.  To make use of the new scientific results in understanding how marine noise impacts on the Antarctic environment, SCAR sponsored a second workshop on 12–13 May 2004 at the British Antarctic Survey, Cambridge.  Those attending (Annex 3) included international experts in the field some of whom had not worked in the Antarctic and the group also received input from experts who could not attend.
+2.	The meeting addressed the question: What major research outputs have become available since the 2001 workshop and how do they change the understanding of the risks and impacts (Annex 1)?
+3.	The meeting undertook a structured risk evaluation of examples of scientific instruments deployed in Antarctic research programs.  In addition, the meeting carried out the same process for other activities known to impact marine life to provide perspective on the particular risks posed by scientific activities (Annex 2).
+4.	The meeting then discussed what improvements have been made in mitigation measures and their application and reviewed documents submitted since the 2001 workshop by Germany, Spain and the ASOC.
+5.	In the light of these discussions the first SCAR report will now be significantly revised but it is important to note that this workshop supported the major finding of the previous workshop that there is no new evidence that leads SCAR to the conclusion that a blanket ban on acoustic technology is warranted.
+
+
+MAJOR RESEARCH ADVANCES
+
+Marine mammal hearing - Temporary Threshold Shift (TTS) levels. 
+6.	Since 2001 a body of data has been published that sets out the exposure levels needed to induce TTS in toothed whales and seals.  In humans and other animals, TTS over an extended period produces Permanent Threshold Shift (PTS) or deafness.  It is now possible to decide whether a sound pressure level and duration of the sound has the potential to cause hearing loss in a cetacean.  This means that it is now possible to say how close and for how long an animal needs to be to a particular piece of equipment of known output to experience hearing damage.  This puts risk assessment on a much firmer basis than was possible in 2001.
+
+Beaked whale strandings and injuries
+7.	The meeting received a report on a recent (three weeks previously) meeting on beaked whale mass strandings and injuries, held in the USA.  The report centred on the possible mechanisms for the conditions shown by beaked whales that died in mass stranding events in the Canary Island and other places, many of which were associated with the use of a particular military submarine-detecting sonar system.  These whales showed extensive development of gas bubbles and fat embolisms in organs and blood, similar to symptoms seen in cases of decompression sickness in humans. 
+8.	A number of mechanisms have been proposed for these effects.  The consensus of the US meeting was that they were a result of modifications to beaked whale diving behaviour.  Two proposed mechanisms involve panic reactions to the high-powered, long pulse sonars. One such mechanism involves group panic, the other explains the internal injuries of the whales as resulting from high stress producing disorientation, panic and internal bleeding that would be reversible if the animals did not strand.
+9.	Two other proposed mechanisms involved the animals being forced to remain at the sea surface by the sound of the sonar that was transmitted in a surface duct.  New data indicate that beaked whales seldom remain at the sea surface for more than 10 minutes and may maintain a state of tissue gas saturation by spending most of their time at 10 m depth or deeper, in order to be able to dive to depths around 1000 m regularly.  Strong sound from the long-pulsed military sonars may have caused the animals to stay in the sound shadow at the sea surface for too long, resulting in decompression sickness-like symptoms.
+
+
+RISK EVALUATION
+10.	The risk evaluation was carried out using a qualitative technique involving developing Impact/Likelihood matrices for typical acoustic equipment in use on research vessels.  Some quantitative calculations were employed to arrive at the qualitative ranking.  This method was employed to provide guidance for proposal evaluation and to put the possible impacts of acoustic technology into perspective.  The matrices and notes on how they were developed are included in the Annex 2.
+11.	Matrices were also developed for seismic refraction using a large chemical explosion, (as was used rarely during the 1960s and 1970s), for normal Antarctic ship operations including ice breaking, and for the military sonar implicated in some whale mass stranding events. Scientific instruments subjected to scrutiny were acoustic releases, 12 kHz bathymetric echo sounders, fisheries echo sounder arrays, sub-bottom profiler, multi-beam echo sounders (both deep water and mid range), a small airgun array and a large airgun array.
+12. Six levels of environmental impacts and six levels of likelihood were defined.  Each activity was then ranked according to the chance of it causing a particular impact.  For the more serious impacts, the matrices distinguish between ranking for impacts on individual animals and impacts on populations.
+13.	The major result of the risk evaluation was that none of the scientific systems likely to be use in Antarctic waters had a higher risk of causing serious impacts (levels 4-6) on individual animals or populations than did Antarctic shipping operations.  Both the chemical explosives and military sonar had higher risks of causing serious impacts than might be caused by shipping or scientific instruments. 
+
+
+MITIGATION MEASURES
+14.	Although the meeting concluded that the risks from scientific instruments were generally low, uncertainties were such that mitigation measures similar to those suggested in the first SCAR report should be used for individual surveys using higher risk equipment such as large airgun arrays.  These measures should be modified to take into account developments in methods of monitoring the presence of marine mammals and increased knowledge of the distribution of animals in the Antarctic.
+15.	To mitigate against unknown, long term, cumulative effects, the conclusion of the first workshop that higher risk surveys should not revisit areas in consecutive seasons was also supported. 
+
+
+MATERIAL SUBMITTED SINCE THE PREVIOUS WORKSHOP
+16.	Comments from Germany on SCAR Report – The comments received from Germany in April 2003 will be considered when revising the SCAR report.  The delay in providing the comments to SCAR means that they encompass material not available for consideration by the original workshop.  Since the purpose of the SCAR report is both to provide an introduction to the subject and a synthesis of relevant research in revising the report SCAR will use the German comments to ensure that misunderstanding of the technical details is minimised in future. 
+17.	Draft Berlin workshop report – The draft report from the workshop held in Berlin in 2002 is an extensive set of papers plus the deliberations of three working groups of participants.  The Action Group was pleased that the Berlin workshop reached similar conclusions to the original SCAR ad hoc group.  This suggests that a consensus is growing among the experts in the field.  SCAR hopes that the final version of the Berlin report will shortly be published so that it can be used more widely.
+18.	XXVI ATCM WP-34 Anthropogenic acoustic noise and discharges and their impact on marine mammal populations contributed by Spain.  Participants in the SCAR Action Group reported that Spanish research was considered in the Beaked whale workshop in the USA and the Action Group agreed that information in the Working Paper would be incorporated in the revised SCAR report.
+19.	XXVI ATCM IP-73 Marine acoustic technology and the Antarctic Environment contributed by ASOC.  The ASOC document makes five recommendations.
+In response to Recommendation 1: “that a thorough investigation of the potential impacts of acoustic activities be initiated by the Committee for Environmental Protection.” The SCAR Action Group welcomed the call for further research, which echoed the statement in the original SCAR report, and noted that several of these key areas were under active investigation.
+In response to Recommendation 2: “that the best mitigations strategy would be to avoid introducing noise into the Antarctic marine environment to the greatest possible extent”.  The SCAR Action Group notes that reduction of environmental footprints is good practice wherever possible but that acoustic technology provides fundamental and indispensable tools for understanding the marine environment.
+In response to Recommendation 3: “that the Working Group should recommend specific research programs”.  The SCAR Action Group concluded that the low levels of anthropogenic noise in the Antarctic could offer the opportunity to establish a global baseline for noise pollution of marine systems.
+In response to Recommendation 4: “that those Antarctic waters where biologically important activities occur should be entirely protected from the effects of high-intensity sound”.  The SCAR Action Group noted that this is not a practical measure at present because there is no agreed definition of “biological importance” and it could be in conflict with a range of legal activities (fishing, logistics, tourism) where impact is yet to be proved.  Furthermore, protection of high seas areas within the Southern Ocean is a responsibility with CCAMLR.
+In response to Recommendation 5: “that all Antarctic Treaty Parties support a cessation for the indefinite future of any further deployment of LFAS (Low Frequency Active Sonar).”  The SCAR Action Group noted that this recommendation is outside the remit of SCAR.
+
+
+CONCLUSIONS – The next steps
+20.	The SCAR Action Group on the environmental impacts of marine acoustic technology will produce a revised version of the previous report using the results of this workshop and comments received since 2001.  This revised report will be published in the SCAR Report series.  The rapid developments in the field suggest that another report should be provided by SCAR to XXIX ATCM in 2006.
+
+
+
+Annex 1
+
+NEW FINDINGS
+
+Impacts on Animal Hearing – criteria for Temporary Threshold Shifts in marine mammal hearing
+There has been a major improvement recently in the understanding of the possible impacts of anthropogenic noise on the marine environment and on marine mammals in particular.  The focus has been on the sound levels needed to produce Temporary Threshold Shift (TTS) in marine mammal hearing.  TTS is the condition of reduced sensitivity of hearing produced by loud noise.  It is reversible but if it is repeated persistently, the cumulative effect can lead to Permanent Threshold Shift (PTS) or deafness.  Knowing the levels at which TTS starts allows an understanding of what sound pressure levels represent the start of potential hearing damage.  The Berlin workshop in 2002 recognized this as a high priority for investigation.
+There is now a body of data available that allows a plot of sound intensity versus duration needed to produce TTS in marine mammals (Fig. 1).  The form of the relationship is very similar to the relationships worked out for terrestrial animals so the group felt confident it could be used to predict TTS criteria for other marine animals.  This plot was developed using Odontocetes that have hearing mechanisms anatomically closer to baleen whales than the animal models used to establish risk criteria for humans.  The basic relationship is that increased energy is the cause of TTS expressed as sound intensity by duration.  A doubling of sound duration causes a reduction of 3 dB in the level at which TTS occurs. 
+
+Figure 1.	Temporary Threshold Shifts in marine mammal. Sounds above the blue line are expected to produce TTS. TTS results from a combination of sound peak pressure and duration.
+The implications for understanding the risks posed by scientific instruments is that it is now possible to calculate the amount of exposure needed to produce TTS based on the sound level and the duration of exposure.  For example, if an instrument produces pulses of 200 dB re      1 µPa of 1 ms duration, an animal would need to receive around 1000 pulses to suffer TTS, provided there was insufficient time between pulses to allow the ear to recover.  This allows realistic calculations of the area of influence of both an individual instrument and of an overall survey activity, providing a firmer basis for estimating risk.
+The length of sound pulses also influences the degree of disturbance by the sound. Mammalian nervous systems require approximately 200 ms to process the “loudness” of a sound.  Therefore, sounds of shorter duration will not be perceived as being as loud as longer pulses.  This may explain the occasional observations of cetaceans approaching loud sources such as airgun arrays.  The animals may not be perceiving the true “loudness” of the source.  At greater distances, the short pulses of scientific equipment may be less disturbing to animals than the long pulses produced by some military sonars.
+
+Whale mass strandings and anthropogenic noise
+The Action Group received a report on a recent (three weeks previous) meeting held in the USA on beaked whale mass strandings and injuries.  These mass strandings of beaked whales have involved more than two or three whales stranding within an area of tens of square kilometres over a short period, in the order of hours.  Such stranding events have taken place in the Canary Island, the Greek islands and the Bahamas, and many events have been associated with the use of a particular submarine-detecting sonar system.  The best-documented case in the Bahamas involved whales being exposed to sound levels of about 160 dB re 1 µPa.
+The report centred on the possible mechanisms for the conditions shown by beaked whales that died in mass stranding events.  These whales showed extensive development of gas bubbles and fat embolisms in organs and blood, similar to the symptoms seen in cases of decompression sickness in humans. 
+A number of mechanisms have been proposed for these effects.  The consensus of the US workshop was that the effects were a result of modification to beaked whale diving behaviour.  Two proposed mechanisms involve panic reactions to the high-powered, long pulse sonars.  One such mechanism involves group panic, the other explains the internal injuries of the whales as resulting from high stress producing disorientation, panic and internal bleeding that would be reversible if the animals did not strand.
+Two other proposed mechanisms involved the animals being forced to remain at the sea surface by the sound of the sonar that was transmitted in a surface duct.  New data provided to the workshop indicate that beaked whales seldom remain at the sea surface for more than 10 minutes and may maintain a state of tissue gas saturation by spending most of their time at 10 m depth or deeper, in order to be able to dive to depths around 1000 m regularly.  Strong sound from the sonars may have caused the animals to stay in the sound shadow at the sea surface for too long, resulting in decompression sickness-like symptoms.
+
+
+Annex 2
+
+RISK EVALUATION
+
+The marine environment is an inherently noisy place with a wide variety of processes contributing both to the ambient, background noise (that may resemble traffic noise in a large city) to high intensity sounds such as lightening strikes or earthquakes (Fig. R-1).  Biological noise input can also be quite high with fish choruses, snapping shrimps and marine mammals capable of producing noise that interferes with scientific instruments.  Non-scientific human activities such as shipping also produce significant noise.  In this context, there needs to be a framework to consider, in a systematic way, the risks of scientific activities using acoustic technology compared to other noise sources or activities.
+This risk analysis is offered as a guide to the management of scientific surveys with the aim of identifying surveys that require more attention to minimizing impacts.  It starts from the perspective of a regulator faced with the question: 
+ “What are the risks of this proposed survey?”
+For most parts of the world, the discussion has been on how to regulate and mitigate industry seismic and high-powered military sonars.  In Antarctica, the discussion has covered the full range of acoustic equipment.  Hence, the approach starts with the equipment typically deployed in scientific surveys.  Risk analysis that starts from the biological end is also valid and necessary to inform the analysis of equipment.  Some of this was attempted in a less structured way at the first SCAR workshop.  The different risk matrices have been constructed for typical instruments in use in marine science but excluding the large airgun array deployed by the R.V. Maurice Ewing, which has a large volume, by most standards.  To provide some perspective on the risks of scientific equipment, matrices have been constructed for shipping, for the military sonar implicated in whale mass strandings and for chemical explosives used for seismic refraction, a method employed in the past and no longer in use because of environmental and safety issues.
+The method is based on a standard technique employed in many fields around the world.  It is set out in the Australian and New Zealand Standards Association Risk Management report (Standards Australia 1999).  The system is simple but has the advantage that no specialized risk analysis training is necessary so all stake holders can appreciate what is going on.  The method was modified by not using single word descriptors of Consequences or Likelihood to avoid arguments over semantics.  It is also important to note that some matrices distinguish between the risk to individual animals and the risk to populations where the group felt they were different.
+Whilst it is accepted that there are much more sophisticated approaches possible, they require real statistical detail for a specific activity in a specific place which is largely lacking for the Southern Ocean.  The group had access to some detailed calculations of instrument outputs and footprints to compare with TTS information to aid the risk estimates but the main source of information was the research experience within the group and knowledge of the literature.
+In arriving at a ranking, the group considered the conservation status of the most sensitive Antarctic species would be.  The result might be different for critically endangered species such as the Blue Whale when compared to the Minke Whale.  Because the process looked at generalized activities, risks might increase for biological “hot spots”, or narrow seaways.  Assessment of long-term cumulative risk will be discussed after the presentation of the risk matrices.
+
+
+Figure R-1.	Sources of noise in the marine environment. Their source level is displayed on the vertical axis and frequency on the horizontal axis.  The ambient noise is the level of background noise.
+
+Risk matrices
+The risk matrix is constructed using qualitative descriptions of impacts or consequence versus qualitative description of likelihood.  The key issues are the detailed description of the levels in each matrix and the number of levels. 
+
+Consequences – In defining consequences or impacts, we define injuries as including auditory damage and reduced hearing sensitivity as well as other trauma.  Only one of the impacts listed is necessary to be classified at a level where injury is possible for individuals but the Action Group thought that the risks to populations were lower.  The risks are separated with risk to individuals shown by an I in the matrix with P indicating the risk for populations.  This approach is appropriate for the Antarctic.  It would not apply to such an endangered species as the Northern Right whale where numbers are so low that injury to individuals has a severe consequence for the whole population.
+
+Likelihood – The likelihood is based on what is known about the equipment, experience with the marine environment and knowledge of the most sensitive species.  For the more severe consequences, we have tried to ask the question: 
+“How could you produce such a result with such equipment?”
+For example: How could you produce an effect of Levels 4 to 6 with an acoustic release? If we could not think of any way of producing the impact, it was listed Likelihood F.  This is not to say that the likelihood is zero, although for some equipment it may be extremely small.
+This approach is directed at individual surveys in Antarctic waters.  Issues of long-term effects will be discussed separately.
+Consequence
+Level
+Detailed description
+1
+Individuals show no response, or only a temporary (minutes) behaviour change.  No change to environment or populations.
+2
+Individuals show short-term (hours) behaviour change.  Temporary displacement of a small proportion of a population; small proportion of habitat affected; no impact on ecosystem function.
+3
+Longer term (days) simultaneous displacement of a higher proportion of a population; disruption to behaviour; interference with feeding.
+4
+Simultaneous displacement and disruption over a period of weeks to behaviour and feeding of a large part of a population, a few injuries, some interference with breeding success.
+5
+Long-term displacement (months) of much of a population, injuries common, substantial interference in a season’s breeding success, fatalities rare.
+6
+Injuries very common, fatalities, population jeopardized, long-term displacement from a large or important area 
+
+Likelihood
+Level
+Description
+A
+Expected in almost all instances
+B
+Will probably occur in most cases
+C
+Could occur in some cases
+D
+Could occur in a few cases
+E
+May occur in exceptional circumstances
+F
+Cannot see how it could happen
+
+
+Equipment Risk Evaluation
+
+1. 	Acoustic Release - 7.5-50 kHz, 
+
+Output:	185-190 dB re 1 µPa @ 1m. Omnidirectional.  Pings of millisecond length over about 15 minutes during recovery.
+			Consequences
+Likelihood
+1. 
+2. 
+3. 
+4. 
+5.
+6. 
+A
+X
+
+
+
+
+
+B
+
+
+
+
+
+
+C
+
+
+
+
+
+
+D
+
+
+
+
+
+
+E
+
+X
+
+
+
+
+F
+
+
+X
+X
+X
+X
+
+Acoustic releases are located and released using a sequence of pings over a short time.  The source levels are low compared to the level required to produce TTS and the noise might displace one or two animals in unusual circumstances.  Regarded as benign by the Berlin Workshop.
+
+2.	Bathymetric echo sounder, single beam, 12 kHz, 
+
+Output:	232 dB re 1 µPa @ 1 m, pulse lengths of 1 ms.
+
+Main beam vertically below ship, around 10 degree beam width.
+			Consequences
+Likelihood
+1. 
+2. 
+3. 
+4. 
+5.
+6. 
+A
+X
+
+
+
+
+
+B
+
+
+
+
+
+
+C
+
+
+
+
+
+
+D
+
+X
+
+
+
+
+E
+
+
+X
+
+
+
+F
+
+
+
+X
+X
+X
+
+Calculations of the volume affected by the echo-sounder and comparisons between its outputs and TTS data indicate that the chance of TTS is only in a small volume up to a few metres immediately under the transducers, making Level 4 and above impacts inconceivable.  Some minor displacement may occur.
+
+3.	Echo sounder array for mapping krill distributions, single beam, 38, 70 120 and 200 kHz
+
+Output:	Based on Simrad EK 60 system, 230 dB re 1 µPa @ 1 m, 4 ms pulse length, 7° beam width.
+			Consequences
+Likelihood
+1. 
+2. 
+3. 
+4. 
+5.
+6. 
+A
+X
+
+
+
+
+
+B
+
+
+
+
+
+
+C
+
+
+
+
+
+
+D
+
+X
+
+
+
+
+E
+
+
+X
+
+
+
+F
+
+
+
+X
+X
+X
+
+Similar to the 12 kHz system above but with a smaller volume affected and greater absorption of the outputs. Again, the volume affected by the echo-sounder indicate that the chance of TTS is only in a small volume up to a few meters immediately under the transducers, making Level 4 and above impacts inconceivable. Some minor displacement may occur.
+
+4.	Multi-beam echo-sounder, 
+
+Output:	Frequency, 12 kHz, or 30 kHz systems, ~236 dB re 1 µPa @ 1 m (common seabed mapping tool).
+Based on two systems: SIMRAD EM300 multi-beam sonar which is a middle depth range system, that operates at a frequency of 30 kHz and a swath width of 150° x 1°.  Echo-sounder pulses (pings) are emitted every 4-8 seconds depending on water depth and are of short duration (0.7–15 milliseconds).
+SEABEAM 2000 multi-beam sonar is a deep water 12 kHz system.  It has a swath width of 120° x 1°.  Echo-sounder pulses (pings) are emitted every 4-8 seconds depending on water depth and are of short duration (2–20 milliseconds).
+			Consequences
+Likelihood
+1. 
+2. 
+3. 
+4. 
+5.
+6. 
+A
+X
+
+
+
+
+
+B
+
+
+
+
+
+
+C
+
+X
+
+
+
+
+D
+
+
+
+
+
+
+E
+
+
+X
+I?
+
+
+F
+
+
+
+P
+P/I?
+X
+
+The high output and broad width of the swath abeam of the vessel makes displacement of animals more likely, although the fore and aft beam widths of multi-beams are still small and the pulse length is very short making the risk of insonification above TTS levels still quite small, so the likelihood of auditory or other injuries seems low.  Displacement might occur in the form of displacement from the survey area for days during the systematic mapping of an area.  Level 4 impacts might conceivably occur to individuals in narrow seaways where animals could be driven onto islands, although the difference between this and military systems make this a low likelihood.  The meeting could not see how populations could be affected adversely to Level 4 or 5 but was less confident that there would be no rare fatalities, hence the I? for level 5.  This should be compared to the likelihood of ship strikes to gain a perspective of the risks.
+
+5.	Sub bottom profiler 3.5 kHz. 
+Typical sub-bottom profiler with out put of 204 dB re 1 µPa @ 1m, 30° beam width and pulse lengths of 1, 2 and 4 ms.
+			Consequences
+Likelihood
+1. 
+2. 
+3. 
+4. 
+5.
+6. 
+A
+X
+
+
+
+
+
+B
+
+
+
+
+
+
+C
+
+
+
+
+
+
+D
+
+X
+
+
+
+
+E
+
+
+X
+I?
+I?
+
+F
+
+
+
+P
+P
+X
+Similar risks to other single beam systems. TTS data indicate that an animals would require 250 to 1000 pulses to produce TTS.  The wider beam width of the sub-bottom profiler would mean a larger area insonified than other higher frequency, single beam echo-sounders.
+
+6.	Small seismic system - 2 air guns.
+The GI guns use a 45 cu. inch generating chamber.  The output from 2 GI guns working together is a maximum of 229 dB re 1 µPa @1 m (0-p).  The area > 180 dB re 1 µPa would be approximately 50 m in radius (LGL, 2003).
+			Consequences
+Likelihood
+1. 
+2. 
+3. 
+4. 
+5.
+6. 
+A
+X
+
+
+
+
+
+B
+
+X
+
+
+
+
+C
+
+
+X
+
+
+
+D
+
+
+
+
+
+
+E
+
+
+
+I
+I?
+
+F
+
+
+
+P
+P
+X
+
+The small airgun system considered here would have a similar likelihood of severe impacts to multi-beam surveys in that some herding and trapping of animals would be necessary for the impact.  Lesser impacts would be more likely than multi-beam because of frequency content and the near-omnidirectional nature of the beam; however slow ship speed would facilitate avoidance.
+
+7.	Large airgun array 8575 cu inches
+
+Output:	256 dB re 1 µPa @ 1 m (0-p) (far field), lines spaced tens of kilometres apart, ship moving at 5 knots.  The area > 180 dB re 1 µPa would be approximately 900 m in radius (LGL, 2003).
+			Consequences
+Likelihood
+1. 
+2. 
+3. 
+4. 
+5.
+6. 
+A
+
+X
+
+
+
+
+B
+
+
+X
+
+
+
+C
+
+
+
+
+
+
+D
+
+
+
+
+
+
+E
+
+
+
+I
+I
+
+F
+
+
+
+P
+P
+X
+
+This array is one of the largest operating in a research context and has not been deployed in the Antarctic to our knowledge.  Large airgun surveys are certainly known to displace animals ranging from cetaceans to fish.  The duration of displacement will depend on survey design.  Closely spaced lines in a small area as with 3-D surveys would mean that displacement from a region for the duration of the survey is highly likely, however 3-D surveys are unlikely in the Antarctic for the foreseeable future.  A large airgun array produces sound levels probably in excess of those needed to damage animal hearing although the near-field sound is spread between the 20 airguns over several hundred square meters and source levels do not reach the nominated far-field figure.  Animals may still approach the array, possibly because airguns sound like breaching whales (McCauley, et al., 2000) and because the pulse length is too short for the nervous system to register the full loudness of the signal (McCauley, pers. comm., 2004).  Management of individual animals that approach the vessel is an issue here but the Action Group did not think severe impacts on populations likely.
+
+8.	Large chemical Explosion 
+This is offered as an end member “sensitivity test” for the risk evaluation method.  It is based on a seismic refraction experiment with 10 tonnes of chemical explosives in 1976 in the North Pacific.  There are no records of biological effects or source level.  Such refraction data are now collected using air guns.
+Consequences
+Likelihood
+1. 
+2. 
+3. 
+4. 
+5.
+6. 
+A
+
+
+
+I
+
+
+B
+
+
+
+
+I
+
+C
+
+
+
+
+
+I
+D
+
+
+
+
+
+
+E
+
+
+
+
+P
+P
+F
+
+
+
+
+
+
+
+The action group considered that serious impacts on individuals would be likely and that severe population impacts were also possible.
+ 
+9.	Shipping
+
+We considered the risk of Antarctic shipping operations to marine life, including noise and the potential for ship strikes.  Sound source levels can reach up to 200 dB re 1 µPa @ 1 m for ice breaking activities.
+Consequences
+Likelihood
+1. 
+2. 
+3. 
+4. 
+5.
+6. 
+A
+X
+
+
+
+
+
+B
+
+X
+
+
+
+
+C
+
+
+X
+
+
+
+D
+
+
+
+I
+I
+
+E
+
+
+
+
+
+
+F
+
+
+
+P
+P
+X
+
+The level 4 to 5 risk for individuals reflect anecdotal evidence for ship strikes, mostly involving pack ice seals and penguins during ice breaking.  For cetaceans, ship collisions are regarded as a known risk globally.  This is likely to be lower for Antarctic resupply and research vessels because they are slower than many modern cargo vessels.  Risks to populations were considered to be very low.
+
+10.	Military echo sounder AN SQS 53C, 
+
+Output:	>235 dB, 2–4.5 kHz, 1-2 s, ~30° beam width oriented horizontally. 
+Consequences
+Likelihood
+1. 
+2. 
+3. 
+4. 
+5.
+6. 
+A
+
+
+
+
+
+
+B
+
+
+
+
+
+
+C
+
+
+
+I
+I
+
+D
+
+
+
+P
+P
+I
+E
+
+
+
+
+
+P
+F
+
+
+
+
+
+
+
+This sonar is the unit implicated in mass strandings of beaked and other whales.  The very long pulse lengths compared to scientific echo sounders would make the system likely to produce TTS in marine mammals and for it to be perceived as “loud”.  The orientation of the beam would make it more likely to insonify animals in the area.  Standard naval anti-submarine search patterns and the generally higher speed of vessel operations would enhance the chances of impacting on marine mammals.
+
+Conclusions of Risk Evaluation
+1.	The Action Group concluded that the risks of most scientific acoustic techniques likely to be used in the Antarctic were less than or comparable to shipping activities on their own. 
+2.	Even airgun seismic surveys were not considered a threat to populations.
+3.	Survey planning and mitigation measures could be used to reduce the risk to individual animals.
+
+Long-term cumulative effects
+There have been concerns expressed about long-term cumulative effects of anthropogenic sound on the marine environment.  While some animal populations elsewhere in the world are clearly subjected to persistent high levels of sound, the Action Group recognized that the Antarctic was not heavily exposed to anthropogenic sound.  For example, the total amount of seismic data ever collected in the Antarctic represents 50–60% of the total collected every year in the Gulf of Mexico.  The level of activity is so low that we suggest that the Antarctic marine environment may be suitable for base line studies for comparison with other areas.  This requires more consideration because the Action Group recognized that the levels of natural, ambient noise may be higher in the Antarctic than elsewhere.
+The Action Group supported the conclusions of the first SCAR report that the best way of mitigating long term, unknown risks from scientific activities is to use data sharing and survey planning to minimize activities in consecutive seasons for higher risk activities such as airgun seismic reflection surveys.  Such measures are mostly in place through Treaty and SCAR data sharing provisions.  Noise levels produced by other shipping activities may need to be considered in some higher traffic areas.
+
+
+References
+LGL Ltd.  2003.  Request by Lamont-Doherty Earth Observatory for an Incidental Harassment Authorization to Allow the Incidental Take of Marine Mammals During Marine Seismic Testing in the Northern Gulf of Mexico, April 2004.  National Marine Fisheries Service web site.
+McCauley, R.D., Fewtrell, J., Duncan, A.J. Jenner, C., Jenner, M-N., Penrose, J.D., Prince, R.I.T., Adhitya, A., Murdoch, J. and McCabe, K.  2000.  Marine seismic surveys: analysis and propagation of air-gun signals; and effects of air-gun exposure on humpback whales, sea turtles fishes and squid.  Centre for Marine Science and Technology, Curtin University of Technology, Project CMST 163, Report R99-15, 198 pages.
+Standards Association of Australia.  1999.  Risk management.  AS/NZ4360:1999.
+
+
+Annex 3
+
+Participants in the Cambridge Workshop
+
+Dr P E O’Brien (Chairman)	Dr J Plötz
+Geoscience Australia	Alfred-Wegener-Institut 
+GPO Box 378	     für Polar und Meeresforschung
+Canberra	Postfach 120161
+ACT 2601	D-27568 Bremerhaven
+Australia	Germany
+E-mail:	phil.obrien@ga.gov.au	E-mail:	jploetz@awi-bremerhaven.de
+
+
+Dr O Boebel	Dr C P Summerhayes
+Alfred-Wegener-Institut für	SCAR Secretariat
+     Polar und Meeresforschung	Scott Polar Research Institute
+Postfach 120161	Lensfield Road
+D-27568 Bremerhaven	Cambridge CB2 1ER
+Germany	United Kingdom
+E-mail:	oboebel@awi-bremerhaven.de	E-mail:	cps32@cam.ac.uk
+
+
+Dr P D Clarkson	Dr P Tyack
+SCAR Secretariat	Woods Hole Oceanographic Institution
+Scott Polar Research Institute	Woods Hole
+Lensfield Road	MA 02543
+Cambridge CB2 1ER	United States
+United Kingdom	
+E-mail:	pdc3@cam.ac.uk	E-mail:	ptyack@whoi.edu
+
+
+Professor R Coates	Professor D W H Walton
+Seiche Ltd	British Antarctic Survey
+Bodfan	High Cross
+Trefor 	Madingley Road
+Anglesey LL65 4TA	Cambridge CB3 0ET
+United Kingdom	United Kingdom
+E-mail:	rcoates@seiche.com	E-mail:	d.walton@bas.ac.uk
+
+
+Dr R D Larter	Dr D Wartzok
+British Antarctic Survey	University Graduate School
+High Cross	Florida International University
+Madingley Road	Miami
+Cambridge CB3 0ET	FL 33199
+United Kingdom	United States
+E-mail:	r.larter@bas.ac.uk	E-mail:	wartzok@fiu.edu

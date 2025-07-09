@@ -1,0 +1,55 @@
+﻿
+
+
+
+
+
+The Polar Climate Predictability Initiative of the World Climate Research Programme 
+
+
+
+
+
+
+
+
+The Polar Climate Predictability Project of the World Climate Research Programme
+Background
+Polar predictability stems from the unique persistence of signals in ice and snow and through exchange with the atmosphere and with the ocean at all depths. The Polar Climate Predictability Initiative (PCPI) is concerned with the success of modelling and observing the changes seen in the Antarctic and Arctic as well as the role of the poles in global climate and prediction. 
+
+The focus of the PCPI is on finding elements of the climate system that contribute to predictability, and how these processes may be improved in models. PCPI aims to advance understanding of the sources of polar climate predictability on timescales ranging from seasonal to multi-decadal. It represents the longer-term component of the WMO Global Integrated Polar Prediction System (GIPPS), along with the World Weather Research Programme’s Polar Prediction Project (PPP), which represents the shorter time scales (as does the Year of Polar Prediction – see IP 116). 
+
+PCPI is an initiative of the World Climate Research Programme’s1 Core projects CliC (Climate and Cryosphere) and SPARC (Stratospheric Processes And their Role in Climate). The PCPI has also benefited from a WMO Trust Fund (Global Framework for Climate Services) supported by the Government of Canada through the Federal Department of the Environment.
+
+PCPI Themes 
+The PCPI has six core themes, each related to a different aspect of polar predictability: 
+Improve understanding of polar climate predictability on seasonal to decadal timescales
+The aim is to coordinate research that investigates the physical mechanisms that give rise to polar climate predictability on seasonal to multi-decadal timescales. The intent is to ascertain the potential for improving the actual skill of operational climate predictions for polar regions. The participants of this group coordinate and collaborate with operational forecasters wherever possible. An important focus is the impacts of polar variability on lower latitudes, for which there is growing evidence. This theme aims to apply understanding of the system gained through investigating seasonal to decadal prediction to guide observational network design and deepen our understanding of longer timescales and validate and/or improve models for all timescales.
+
+Assess reanalyses in polar regions 
+The goal of this theme is to assess the reliability and self-consistency of atmospheric and oceanic reanalyses in the polar regions in light of the comparatively limited observations at the poles. Metrics are being developed that reflect the coupling processes between the different components of the climate system. These are being used to inform the development of coupled reanalyses. Uncertainties in reanalyses are being investigated (e.g. by looking at increments) to determine whether they reflect biases in modelled processes.
+
+Model error - identify processes & develop strategies to improve
+This topic, focusing on model error, concentrates on two goals: (a) to determine which processes in Global Climate Models contribute most to error growth on hourly to seasonal time scales and seasonal to interannual time scales in the polar regions, and (b) to develop observational and modelling strategies to improve these processes. The current understanding is that the processes contributing to model error are the same over all these timescales when focusing on the atmosphere, ocean and sea-ice physics.
+
+Assessing model performance in the polar regions
+The goal of this theme is to perform comprehensive evaluations of coupled models in the polar regions. This assessment of model performance must go beyond identifying model biases against trusted observational benchmarks and quantifying inter-model spread. The activities within this theme must ask "Why" questions to assess model performance.  Why do models behave in a different ways? Why do they or don't they match observations?  Answering "why" questions requires understanding important climate forcings and feedbacks and their process representation in models.  This theme seeks to mitigate problems that arise from the frequent disconnect between model development and model evaluation timescales and barriers from limited personnel.  As a result, a process-level link between model evaluation and improvement is a backbone of this initiative.  Model evaluation and improvement should address the mean climate state but also changes in response to internal variability and external forcing.
+
+Improve knowledge and understanding of past polar climate variations (up to 100 years)
+The goal of this topic is to understand changes in the polar regions that are occurring and the processes behind them by considering a variety of resources that are available from the last century and longer in a unified, multi-disciplinary way. Participants will bring together estimates of past behaviour in the polar regions, such as instrumental and proxy data records, modelling, and reanalyses techniques, in an optimal manner, to obtain estimates of past variability and change. These efforts can also help in the design of optimized observing systems for detecting and attributing changes, and quantifying the impact of maintaining or obtaining certain observations.
+
+Improve understanding of how jets and non-zonal circulation couple to the rest of the system in the Southern Hemisphere
+The goal of this theme is to improve understanding of atmospheric circulation and its role on climate variability and climate change in the Southern Hemisphere. Many of the current pressing scientific questions involve the response of the atmospheric circulation to ozone depletion/recovery and greenhouse-gas increases, and how this impacts surface climate, ocean circulation, sea ice, and ice shelves. These interactions have implications for carbon and heat uptake and the stability of ice sheets. We need to understand the observed relationships and how they are represented in models, in order to improve decadal prediction and longer term projections of Antarctic climate. Studies suggest that the zonal and non-zonal circulation influence the climate system of the high latitude Southern Hemisphere. This influence may be reflected in the variability in Antarctic sea ice extent as well as the climate over the Antarctic continent. Activities associated with this theme examine the coupling between the larger scale atmospheric circulation and the climate system of the Southern Hemisphere, especially with regard to how the southern jets and the non-zonal circulation couple to the rest of the system (ocean, sea ice and land ice). These activities may include but are not limited to, theoretical, observational and modeling studies on the vertically coupled processes.
+
+Recent Highlights
+In 2016 a Spring School on Polar Prediction for 30 post graduate and early career scientists was held at the Abisko Field Station in Sweden in collaboration with PPP. Three workshops were organised with the topics: Polar Prediction (with PPP), Polar Feedbacks, and Sea Ice Thickness. Two review papers were published, one on recent trends in the Southern Ocean (Jones et al, 2016), the other on the Amundsen Sea Low (Raphael et al, 2016). Both are direct outcomes of PCPI workshops. An intercomparison paper was also published on the sensitivity of predictions to initial sea ice thickness (Blanchard-Wrigglesworth et al, 2016). Several PCPI sessions were also hosted at AGU and EGU on Polar Prediction and at AGU on Data Assimilation Products. 
+Figure: Antarctic climate system trends in the instrumental record period. These trends were found to be typical of variability in Antarctic paleoclimate records of the past two centuries, while most climate model simulations are incompatible with these observations (Jones et al, 2016).
+
+2016 key Publications
+Jones, J. M., S. T. Gille, H. Goosse, N. J. Abram, P. O. Canziani, D. J. Charman, K. R. Clem, X. Crosta, C. de Lavergne, I. Eisenman, M. H. England, R. L. Fogt, L. M. Frankcombe, G. J. Marshall, V. Masson-Delmotte, A. K. Morrison, A. J. Orsi, M. N. Raphael, J. A. Renwick, D. P. Schneider, G. R. Simpkins, E. J. Steig, B. Stenni, D. Swingedouw and T. R. Vance, 2016. Assessing recent trends in high-latitude Southern Hemisphere surface climate, Nature Climate Change, 6, 917-926, doi:10.1038/NCLIMATE3103.
+Blanchard-Wrigglesworth, E., A. Barthélemy, M. Chevallier, R.I. Cullather, N. Fučkar, F. Massonnet, P Posey, W. Wang, J. Zhang, C. Ardilouze, C.M. Bitz, G. Vernieres, A. Wallcraft, and M. Wang, 2016: Multi-model seasonal forecast of Arctic sea-ice forecast uncertainty at pan-Arctic and regional scales, Climate Dynamics, doi:10.1007/s00382-016-3388-9.
+Raphael, M.N, G.J. Marshall, J. Turner, R.L. Fogt, D. Schneider, D.A. Dixon, J.S. Hosking, J.M. Jones, W.R. Hobbs, 2016. The Amundsen Sea Low: variability, change, and impact on Antarctic climate, Bulletin of the American Meteorological Society 97 (1), 111-121. DOI: http://dx.doi.org/10.1175/BAMS-D-14-00018.1
+Further Information
+The chairs of the PCPI are Marilyn Raphael, University of California at Los Angeles (raphael@geog.ucla.edu) and Cecilia Bitz, University of Washington (bitz@uw.edu).
+Website: http://www.climate-cryosphere.org/wcrp/pcpi
+

@@ -1,0 +1,209 @@
+The Value of Low-Powered Geospace Instrumentation in Antarctica
+The Value of Low-Powered Geospace Instrumentation in Antarctica
+Information paper submitted by the United States
+Summary
+Naturally occurring phenomena in near-Earth space, or geospace,
+can lead to negative impacts on human life and technology. This
+‘space weather’ is a major national interest of the United States and
+other countries, as the most significant space weather events can
+affect humans’ technological infrastructure “critical to the economy
+and security of the United States and nations around the world.
+Technologies such as the electric power grid, the Global Positioning
+System (GPS), satellite and other space activities, communications,
+aviation, and pipelines may be degraded or disrupted during space
+weather events,” [Space Weather Advisory Group, 2023]. Much like
+wind and temperature are vital measurements for understanding
+and monitoring atmospheric weather, measurements of magnetic
+fields at the Earth’s surface (B) are key parameters for
+understanding and monitoring space weather. The ground-based
+magnetometers that measure B are remote sensing tools for
+electrical currents that define the electrodynamics of geospace, and
+they have made it possible to track and comprehend the way
+electromagnetic energy propagates throughout the geospace system,
+in addition to many other applications [Engebretson and Zesta,
+2017 and references therein].
+Background
+Measurements of B in high-latitude polar regions are critical to
+space weather research and modeling as much of the energy from
+the Sun and solar wind enters the upper atmosphere near the poles.
+Polar regions are crucial for modeling global geospace dynamics
+and potential space weather impacts including atmospheric heating
+that causes enhanced satellite drag, loss of tracking, and/or
+unplanned satellite re-entry. Ground-based magnetometers are
+needed to be deployed in both polar regions since numerous north-
+south hemisphere asymmetries exist and space weather phenomena
+occurring in the Arctic may differ significantly from the Antarctic.
+Thus, to develop our understanding of space weather and validate
+models used for space weather predictions, we need simultaneous B
+measurements from both the Northern and Southern Hemispheres.
+The greater polar land area in the Antarctic (relative to the Arctic
+which is mostly the Arctic Ocean) also provides opportunities for
+instrument deployments up to very high latitude regions that are
+difficult to sample in most of the Northern Hemisphere.
+Several autonomous, low-power magnetometer systems supported
+by the U.S. National Science Foundation/United States Antarctic
+Program (NSF/USAP) like the site shown in Figure 1 have been
+deployed at strategic locations in remote regions of the East
+Antarctic Plateau to enable investigations of space weather
+phenomena in both hemispheres simultaneously [e.g., Clauer et al.,
+2014; Xu et al., 2020]. These systems, when combined with other
+autonomous magnetometer systems and magnetometers at
+permanent bases, provide novel 2D coverage that has led to several
+key outcomes and results in recent years.
+Key Outcomes
+In this section we provide two examples of key outcomes from
+distributed networks of low-powered magnetometers in the
+Antarctic.
+Figure 1 – A Twin Otter plane arrives to bring the team back to
+South Pole Station after they deploy an Autonomous Adaptive Low
+Power Instrument Platform [Clauer et al., 2014] at the PG4 site in a
+remote part of the East Antarctic Plateau. Credit: Zhonghua Xu,
+Accessed from https://eos.org/science-updates/space-weather-from-
+a-southern-point-of-view.
+1 – Researching the causes and consequences of north-south
+hemisphere asymmetries in the Geospace system
+Routine simultaneous measurements from distributed networks of
+low-power autonomous magnetometers are already producing new
+understanding of the geospace system dynamics and space weather.
+These include significant advances in the understanding of
+mesoscale (<~500 km) electrical current systems and their
+corresponding geomagnetic disturbances, a key objective of the
+broader space weather research community [Gabrielse et al., 2023].
+Figure 2 shows one example that takes advantage of 2D networks
+(distributed in latitude and longitude) of magnetometers with close
+enough spacing to resolve a north-south hemisphere asymmetry in
+electrical currents related to a particular solar wind driving
+condition [Weygand et al., 2023]. Critically, the ground-based
+magnetometers shown in the top part of this Figure are providing
+sufficiently dense spatial sampling to capture mesoscale electrical
+currents, whereas the bottom currents (red/blue color) inferred
+from satellites provide only large-scale currents; the magnetometers
+can also sample the 2D electrical currents far more frequently,
+every second rather than every ~10 minutes for the satellites. This
+Figure, and the discussion in Weygand et al., 2023, point to large
+asymmetries in mesoscale current intensity and location between
+the two hemispheres. This example of research enabled by 2D
+networks is crucial to understand the generation of electrical
+currents that cause upper atmospheric heating and other space
+weather phenomena; thus, to improve the development of models
+that can predict unwanted space weather impacts such as the
+unplanned re-entry of spacecraft.
+2 – Assimilation of ground magnetometer data into geospace
+models for space weather modeling and monitoring
+Advances in data assimilation techniques have made it possible to
+combine ground-based magnetometer measurements with other
+measurements such as radars and satellite measurements to more
+comprehensively sample the geospace environment and
+fundamental parameters needed to understand and model space
+weather, including electrical current. For example, these tools make
+it possible to more accurately specify space weather model
+boundary conditions needed to specify upper atmospheric heating.
+Smith et al., [2023] used the Assimilated Modeling of Ionospheric
+Electrodynamics (AMIE) framework to assimilate measurements
+from 217 magnetometers (173 in the north, 44 in the south) to
+constrain a
+numerical simulation during a geomagnetic storm, finding major
+asymmetries in atmospheric heating between the north and south.
+Figure 2 – Taken from Weygand et al., 2023 Figure 6. The left is for
+electrical currents flowing above the northern hemisphere, the right
+for the southern hemisphere. The top panels are remote sensed
+currents based on closely spaced networks of magnetometers, while
+the bottom shows these currents superposed on radial currents
+(red/blue color) inferred from more sparse satellite measurements.
+These results highlight the need for southern hemisphere
+magnetometer measurements to capture the electrodynamic
+processes that lead to atmospheric heating and space weather
+impacts: northern hemisphere measurements alone are not enough
+to specify space weather models. As the demand for increasingly
+accurate space weather nowcasts and forecasts increases in the
+coming years [Space Weather Advisory Group, 2023], so too will
+the demand for increased spatial and temporal sampling of B from
+Antarctica that can be assimilated into these nowcasts and forecasts.
+Lessard et al., [2014] noted that “The Antarctic region forms an
+important source of high latitude data that can be made available in
+real, or near-real, time for space weather use by government and
+other agencies. The geography in the Earth’s polar regions makes
+the Antarctic essentially the only Earth-based platform from which
+these latitudes can be monitored on a continuous basis and to the
+highest latitudes.”
+The future of low-power magnetometers in Antarctica and NSF
+Geospace Facilities
+Networks of low-power, autonomous magnetometers in Antarctica
+are already transforming our understanding of Geospace
+environment dynamics and space weather. However, coverage
+across the Antarctic continent is still very sparse with gaps in key
+regions needed to both understand and monitor space weather (e.g.,
+compare top left and top right of Figure 2). This is due in large part
+to the challenges of operating and deploying systems in Antarctica.
+In the coming years, advances in technology and international/
+interdisciplinary partnerships can help address these challenges. For
+example, autonomous instrument networks are becoming more
+reliable and robust, with some systems operating unattended for
+more than a decade due to the ability to service systems remotely,
+fewer moving parts, etc. [Clauer et al., 2014; Xu et al., 2020]. At
+the same time, magnetometer sensors are becoming less expensive
+and much smaller [Regoli et al., 2018], solar panels more efficient,
+etc. These advances should lead to fewer logistical resources needed
+to operate and maintain magnetometers, thus enabling the
+deployment of larger networks of magnetometers.
+International and interdisciplinary partnerships can also be
+leveraged to expand networks of magnetometers into key polar
+regions. Indeed, the results shown in Figure 2 are already
+combining data collected by multiple countries, including the
+United States, Canada, Denmark, the United Kingdom, and
+Germany. As another example, joint funding of instrument
+platforms and sharing of logistical resources have both proven
+successful in several projects.
+Literature Cited
+Clauer, C. R., Kim, H., Deshpande, K., Xu, Z., Weimer, D., Musko,
+S., Crowley, G.,
+Fish, C., Nealy, R., Humphreys, T. E., Bhatti, J. A., & Ridley, A. J.
+(2014). Autonomous adaptive low-power instrument platform (AAL-
+PIP) for remote high-latitude geospace data collection. Geoscientific
+Instrumentation, Methods and Data Systems, 3, 211-227. https://
+doi.org/10.5194/gi-3-211-2014
+Engebretson, M., & Zesta, E. (2017). The future of ground
+magnetometer arrays in
+support of space weather monitoring and research. Space Weather,
+15, 1433–1441. https://doi.org/10.1002/2017SW001702
+Gabrielse, C., Gkioulidou, M., Merkin, S., Malaspina, D., Turner, D.
+L., Chen, M. W.,
+Ohtani, S.-i., Nishimura, Y., Liu, J., Birn, J., Deng, Y., Runov, A.,
+McPherron, R. L., Keesee, A., Yin Lui, A. T., Sheng, C., Hudson, M.,
+Gallardo-Lacourt, B., Angelopoulos, V., Lyons, L., Wang, C.-P.,
+Spanswick, E. L., Donovan, E., Kaeppler, S. R., Sorathia, K., Kepko,
+L., & Zou, S. (2023). Mesoscale phenomena and their contribution
+to the global response: A focus on the magnetotail transition region
+and magnetosphere-ionosphere coupling. Frontiers in Astronomy
+and Space Sciences, 10, 1151339. https://doi.org/10.3389/
+fspas.2023.1151339
+Lessard, M.R., Gerrard, A.J., Weatherwax, A.T (2014). Solar-
+Terrestrial Research in
+Polar Regions: Past, Present, and Future, “Proceedings of the Polar
+Research Meeting: November 12-13, 2012,” UNH
+Regoli, L. H., Moldwin, M. B., Pellioni, M., Bronner, B., Hite, K.,
+Sheinker, A., &
+Ponder, B. M. (2018). Investigation of a low-cost magneto-inductive
+magnetometer for space science applications. Geoscientific
+Instrumentation, Methods and Data Systems, 7, 129–142. https://
+doi.org/10.5194/gi-7-129-2018
+Smith, A. R., Ozturk, D. S., Delamere, P., Lu, G., & Kim, H. (2023).
+Investigating the
+interhemispheric asymmetry in Joule heating during the 2013 St.
+Patrick's Day geomagnetic storm. Space Weather, 21,
+e2023SW003523. https://doi.org/10.1029/2023SW003523
+SWAG. (April 17, 2023). Findings and Recommendations to
+Successfully Implement
+PROSWIFT and Transform the National Space Weather Enterprise.
+Retrieved from https://www.weather.gov/swag
+Weygand, J. M., Hartinger, M. D., Strangeway, R. J., Welling, D. T.,
+Kim, H., Matzka,
+J., & Clauer, C. R. (2023). Interhemispheric asymmetry due to IMF
+By within the cusp spherical elementary currents. Journal of
+Geophysical Research: Space Physics, 128, e2023JA031430.
+https://doi.org/10.1029/2023JA031430
+Xu, Z. H., Hartinger, M. D., Clauer, R., et al. (2019). Newly
+established autonomous
+adaptive low-power instrument platform (AAL-PIP) chain on East
+Antarctic Plateau and operation. Advances in Polar Science, 30(4),
+362-374. https://doi.org/10.13679/j.advps.2019.0028

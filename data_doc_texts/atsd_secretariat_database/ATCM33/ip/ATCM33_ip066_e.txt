@@ -1,0 +1,49 @@
+﻿
+
+
+
+
+
+SCAR Data and Information Strategy (DIMS)
+
+
+
+
+
+SCAR Data and Information Strategy (DIMS)
+Information paper submitted by SCAR
+Introduction
+    1. Although it has been developing capacity for international data management amongst its member nations since 1992, in 2009 SCAR endorsed its first Data and Information Strategy (DIMS). This Strategy is designed to assist SCAR to more effectively implement its programs and activities aimed at coordinating high quality, international scientific research in the Antarctic and research related to examining the Antarctic region’s role in the Earth system. Strategy outcomes will also improve SCAR’s ability to provide independent scientific advice to the Antarctic Treaty System Consultative Parties and other organizations on issues of science and conservation affecting the management of Antarctica and the Southern Ocean. 
+
+    2. The committee in SCAR responsible for all aspects of data and information management is the Standing Committee on Antarctic Data management (SCADM). Data and information are valuable and irreplaceable resources. In the pursuit of many science objectives (especially those of a pan-Antarctic nature) it is necessary to use data and information collected by scientists from many countries. SCAR recognizes the critical importance of the stewardship of data and information within national and international programs and the importance of data accessibility by the international Antarctic scientific community. SCAR does not consider data management to be an “add-on” or an additional task in Science. It is a fundamental aspect of modern earth system science and is essential to addressing complex questions about how our planet works and how it will respond in the future.
+Vision
+    3. The Strategy’s vision is to build an Antarctic Data Management System (ADMS), capable of supporting inter-disciplinary Antarctic science and SCAR activities within the Antarctic Treaty System. The ADMS should be viewed as a science enabler. Through a range of individual activities SCAR is already making progress towards achieving this vision. But much more can be achieved. The likelihood of realising desired goals will be greater if appropriate strategic foundations are put in place to facilitate better coordination of individual and often disconnected efforts. The success of the Strategy will be highly correlated with the extent to which SCAR’s national members commit to Strategy execution.
+
+Strategies
+    4. The strategies that SCAR will pursue have been grouped under five topics and include:
+
+(i) Policy, Leadership, Coordination and Governance
+    5. This cluster of recommendations aim to better articulate governance arrangements and foster strong leadership, suitable for driving the development of a distributed, but loosely federated, shared infrastructure. This will involve development of a SCAR Data Policy that stipulates the norms that SCAR members should adopt with respect to data sharing and access; data management planning; and establishment of National Antarctic Data Centres (NADCs). Recognising that dedicated leadership is essential for driving development of any shared infrastructure, SCAR members should consider seconding appropriately trained professionals to the SCAR Secretariat and/or assist with raising external funds to support infrastructure development positions. To strengthen existing components of the ADMS, opportunities for partnering arrangements should be explored between SCAR data management groups and those institutions involved in the reformation of the Intergovernmental Oceanographic Data Exchange (IODE) and ICSU World Data Centre Systems. If the ADMS ultimately expands more through partnerships with these types of global systems than through an expansion of the SCAR NADC network, it may then be prudent to review the role, membership and function of SCADM.
+
+(ii) Cultural Change and Incentives 
+    6. Strategies in this group focus on fostering a culture willing to share and collaborate on data management related activities. Data sharing between SCAR scientists is highly patchy both within and between member countries. Data citation systems are being touted as a mechanism to achieve improved data sharing practices between scientists. The Scientific Committee on Oceanic Research (SCOR), amongst others has been trialling approaches to data citation. SCAR could formally partner with SCOR in piloting such a system within its NADCs. More could also be done to build an ADMS and to change cultural practices if SCAR’s peak data groups harnessed their collective capabilities to garner funding from external sources. Additionally, more money would be available for scientific data management if SCAR educated funding sources about the need for data management to be an explicitly funded component of supported projects.
+
+(iii) Leveraging Resources and Systems
+    7. In this category recommended actions involve leveraging existing SCAR and non-SCAR systems, capabilities and resources and supplementing these where there are obvious deficiencies to create a network of designated permanent data archives capable of the long-term management and publication of all types of SCAR related data. The number of NADCs is low relative to the number of national SCAR Members. Of the NADCs that do exist, only a few have significant capabilities. A functional ADMS will be difficult to develop solely through an expansion of the NADC network. SCAR should identify a small number of existing and complementary data access networks with which to affiliate and then promote NADC involvement in these networks. By “affiliating” rather than building from scratch, SCAR can expand its ADMS at minimal cost and at the same time achieve greater interoperability with other networks. It is also important that SCAR’s peak data management groups (i.e. SCADM and the Standing Committee on Antarctic Geographic Information - SCAGI) work more closely together in pursuing common goals. Now that the distinction between managing and publishing spatial and non-spatial data is disappearing, consideration might be given in the future to amalgamating SCADM and SCAGI.
+
+(iv) Standards and Interoperability 
+    8. Strategies in this grouping revolve around agreement on, and implementation of, standards that support the interoperation of technology platforms and data transport protocols. In particular, development or adoption of standards to describe and encode data objects, equipment, processing techniques and instruments that ultimately function to permit data integration and aggregation. A key component of the ADMS is the Antarctic Master Directory (AMD) metadata system. It is therefore crucial that SCAR works closely with the AMD host organisation (i.e. the Global Change Master Directory-GCMD, sponsored by NASA) to help determine the functionality of future iterations of this technology platform. Equally important is the need to recognise that SCAR science covers highly diverse data types and data management requirements. The ADMS must be geared to meeting this diversity of needs. To achieve this goal, further enhancement of the ADMS should be under-pinned by developing an implementation roadmap.
+
+(v) Outreach and Guidance 
+    9. Actions presented in this topic encompass education, outreach and guidance on all facets of the system’s operation, protocols and functions. Growing the number of NADCs and improving the capabilities of those that exist could be achieved using a more formalised training and mentoring campaign. Both SCADM and SCAGI should improve their communication mechanisms and mediums. Much of the data management that currently occurs within SCAR science projects is conducted under circumstances outside of the influence of either of SCAR’s peak data management coordinating groups. The network of NADCs on which the SCAR ADMS should be founded therefore needs to be expanded and become interdependent with other, successful thematic and global data networks that are currently being patronised by SCAR research programs or which have the potential to add value to SCAR science. Several opportunities exist to more closely align SCAR data management with large international data management facilities and networks (notably the ICSU WDCs, IODE, the WMO Information System [WIS], the IPY Data and Information Service [IPYDIS] and the Polar Information Commons[PIC] initiative), all of which conversely need to align themselves with scientific data sources (such as SCAR). 
+Implementation
+    10. To realise its strategic data management vision SCAR has developed a roadmap to action recommendations in the DIMS in the form of a Data and Information Strategy Implementation Plan. Several nations are already offering assistance to implement this Plan through collaboration on pilot projects and by contributing to the formation of the Polar Information Commons (see http://www.polarcommons.org/). 
+
+    11. However, it will only be through individual national commitments to the policies and projects outlined in the Implementation Plan that will guarantee successful outcomes. SCAR therefore urges ATCM members to actively engage in delivering on the DIMS goals.
+
+Resources and Contacts
+    12. Additional information on the Implementation Plan and how your nation can become involved is available from the SCADM Chief Officer, Ms Kim Finney, at kim.finney@aad.gov.au.
+
+    13. The Data and Information Strategy is available in full from: http://www.scar.org/publications/reports/Report_34.pdf
+.
+

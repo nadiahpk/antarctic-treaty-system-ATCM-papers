@@ -1,0 +1,189 @@
+﻿
+
+
+
+
+
+The Global Cryosphere Watch and CroNet
+
+
+
+
+
+
+
+
+The Global Cryosphere Watch and CryoNet
+Background
+The cryosphere, its changes, and its impacts on weather, climate and water have received increased attention in recent years. Today it receives constant coverage by the media, creating a demand for authoritative information on the state of the world’s snow and ice resources from polar ice to tropical glaciers, based on data from paleoclimate records, current observations, and future projections. The World Meteorological Organization (WMO), a specialized agency of the United Nations, has as one of its current priorities improving the operational meteorological and hydrological monitoring, prediction and services in polar and high mountain regions. This agenda is carried out under the auspices of the WMO Executive Council Panel of Experts on Polar and High Mountain Observations, Research and Services (EC PHORS) with the goal of promoting and coordinating relevant programmes that are carried out in the Antarctic, Arctic and high mountain1 regions by nations and by groups of nations. EC-PHORS is strongly engaging with partner organizations to fulfill its objectives.
+Two interconnected initiatives fall within the purview of the EC-PHORS. One is the implementation of the Global Cryosphere Watch (GCW), as a cross cutting activity and in close cooperation with national and international bodies and organizations, using the WMO well-established global observing and telecommunication capability. When fully operational, GCW will enable an integrated, authoritative, and continuing assessment of the cryosphere and its changes, and provide wide access to cryosphere information, e.g. to support infrastructure design in cold climates, improved management and protection of terrestrial, coastal and marine ecosystems, and an improved understanding of environmental factors affecting human health and well-being. 
+The second set of activities is carried out by the Polar Space Task Group (PSTG), which provides coordination across Space Agencies to facilitate acquisition and distribution of fundamental satellite datasets, and contributes to or supports the development of specific derived products for cryospheric, polar, and high-mountain scientific research and applications (see IP 114)
+Global Cryosphere Watch Organization and Structure
+The GCW Implementation Plan (GCW-IP) was approved by the Seventeenth World Meteorological Congress (Cg-17) in 2015, formalizing the GCW priorities on the development of its Observations component, the availability of Integrated Products (e.g. Snow Trackers), and the Information and Services components, towards its operationalization, expected by 2020. The GCW conceptual model is given in Figure 1. It illustrates the “why, what, and how” of GCW operation. GCW’s governance is integrated with WMO structures and interfaced with those of partner organizations. Regional groups are formed where they can foster multi-national collaboration between WMO Members and partners with interests in the same region. 
+
+
+Figure 1: GCW functional structure.
+The Core GCW Observing Network - CryoNet
+The observing component of GCW focuses on developing the GCW surface observing network, building on existing observing systems operated by national and international organizations (governmental, non-governmental, or private). The goal is to establish a network of high quality, robust stations meeting a defined minimum observing program and making their data and metadata freely available, including in situ ancillary meteorological observations, in a timely manner.
+The basic component of the GCW observing network is a “station”. At its core, GCW has a network of standardized observing stations called CryoNet. GCW Contributing stations and affiliated networks complement CryoNet in the GCW surface network. CryoNet stations must measure at least one recommended variable of one of the cryosphere components (i.e. snow, solid precipitation, lake and river ice, sea ice, glaciers, ice sheets, frozen ground and permafrost). Additionally, a CryoNet station must demonstrate a commitment to operational continuity and compliance with agreed regulatory practices and GCW recommended best practices on observational procedures, the instruments and method of observations, data quality control practices and data exchange.
+
+Contributing stations are those that provide useful measurements of the cryosphere but do not fulfill CryoNet minimum requirements. These stations may be in hard to access regions where cryospheric observations are scarce or in regions where they complement other cryospheric measurements. Mobile platforms such as ships, drifting stations and buoys may also be contributing stations. 
+
+To enable the standardization of observations across all stations, GCW is currently reviewing existing instrument and observing methods and practices for the cryosphere to develop a compilation of best practices, guidelines and standards that are in use in the cryosphere community. A GCW Manual and a GCW Best Practices Guide will be made available by 2019. 
+
+Currently, the GCW Observing Network includes 77 CryoNet Stations and 43 Contributing Stations (Figure 2). A number of these stations are organised as CryoNet “sites”,  comprising two or more stations, at least one of which being a CryoNet station. Stations in a CryoNet site operate in a coordinated fashion and provide  linkages to other components of the earth system, for example, the atmosphere, the hydrosphere, the biosphere, the oceans, soil, vegetation, etc.
+
+
+Figure 2: The geographic distribution of stations and sites in the GCW surface network. The complete list of stations is available at http://globalcryospherewatch.org/cryonet/sites.php 
+
+GCW coordinates relevant cryospheric activities with other major international initiatives, e.g. the WMO-IOC-UNEP-ICSU Global Climate Observing System (GCOS), hence enhancing support to the United Nations Framework Convention on Climate Change (UNFCCC). Space agencies, particularly through PSTG, and modelling groups such as European Centre for Medium-Range Weather Forecasts (ECMWF) provide guidance in the development of the GCW surface observing network, given the importance of in situ observations for the validation of satellite products and model parameterization.
+GCW observing Network in the Antarctic regions
+Organizations from eight countries operating stations in the Antarctic regions have committed stations for inclusion in the GCW observing network. As of May 2017, there are 22 GCW stations and sites formally approved as part of the GCW observing network, as noted in Figure 3 and Annex 1.
+
+Figure 3: GCW Observing Network in the Antarctic region (the list of stations is provided in Annex 1)
+GCW will continue working with operators of stations and platforms (including land-based, coastal, ships and buoys) in the Southern Ocean and Antarctica to facilitate their inclusion in the GCW observing network, which would further enable the free exchange of standardised cryosphere observations in data sparse areas.
+GCW Data Portal and Information Website
+The GCW Data Portal2 is currently under development and is hosted by the Norwegian Meteorological Institute. When fully implemented, the GCW Data Portal will enable the free exchange of cryosphere metadata3, data, information and analyses among a distributed network of providers and users in support of informed decision-making. It is not at this stage, however, an archive of all cryosphere-related data, but rather a catalogue of data that are primarily stored at major data centres. 
+
+
+Figure 3: The GCW web portal has two components, a Data Portal (left) and an information website (right).
+
+Currently metadata are routinely harvested from several major data centres, e.g. British Antarctic Survey, Chinese National Arctic and Antarctic Data Center, National Institute of Polar Research (Japan) – Arctic Data Archive System, Norwegian Polar Institute, National Snow and Ice Data Center of USA, etc. (Figure 4). 
+The GCW Website4 has been developed and is operated by the University of Wisconsin-Madison (USA) on behalf of WMO.  The website contains dynamic information (news, state of the cryosphere plots, highlights), as well as background, higher-level information, GCW documents, and outreach material. In the future, the GCW website will be used for the dissemination of GCW products, including those developed by partner organizations.
+The GCW website serves as the primary interface for the GCW observing network, including the display of the GCW Observing Network maps and information, station and site criteria, guidance materials. The CryoNet station/site questionnaire is available online for use by station/site managers wishing to contribute to CryoNet. 
+
+
+Figure 4: GCW Data Portal interoperability with other Data Centres providing cryosphere information (March 2017). Solid lines indicate existing linkages; dashed lines indicate ongoing discussions and/or testing.
+Integrated Products Activities
+The goal of the Integrated Products Working Group of GCW is to encourage and support, where possible, workshops for intercomparisons of similar cryosphere products to assess quality and to ensure the authoritative basis for products. 
+For example, the collaboration of PSTG and GCW led to the successful completion of the ESA-funded project "Snow Product Intercomparison Exercise" (SnowPEx5). It has met its objectives to intercompare and evaluate (pre) operational global and hemispheric snow products (snow extent and water equivalent) derived from different Earth Observation sensors. The SnowPEx has benefitted the validation of satellite based snow algorithms with reference to independent station data and reference datasets, and identified weaknesses in algorithms leading to differences between similar products.
+Snow Anomaly Trackers are made available on GCW Website, provide the near real-time tracking of the North Hemisphere snow extent and snow water equivalent from GlobSnow (developed for GCW by the Finish Meteorological Institute) and a daily snow depth analysis (by Environment Canada). 
+Recognizing the need to provide a full representation of the state of the cryosphere, GCW is planning the development of additional integrated products regarding the state of the cryosphere, e.g. Snow Water Equivalent (SWE), snow cover extent, September sea ice, in collaboration with the GCW partners, e.g. the WCRP CliC (Climate and Cryosphere project), and the Scientific Committee for Antarctic Research (SCAR). 
+Concluding Remarks
+
+WMO asks Parties and other organizations to consider contributing to the Global Cryosphere Watch by:
+
+(i) considering if any of the observing stations they manage and operate in Antarctica could be proposed as CryoNet Sites or Stations 
+(ii) Informing GCW if they are aware of existing sources of cryospheric data for Antarctica that could contribute to GCW and be made discoverable through the GCW Data Portal.
+
+
+WMO is committed to a positive, mutually beneficial engagement with Treaty Parties in Antarctic weather and climate services and research. For further details please contact Rodica Nitu (GCW Project Manager, WMO, Rnitu@wmo.int).
+
+Annex 1: GCW observing network stations and sites in the Antarctic region
+
+
+Station
+Country of the operating organization
+Location
+GCW observing network
+1
+Traub Glacier ( Quito )
+Ecuador
+Antarctica
+Contributing Station
+2
+Base Belgrano II
+Argentina
+Antarctica
+CryoNet Station
+3
+ARA Suboficial Castillo
+Argentina
+Antarctica, Southern Ocean
+Contributing Station
+4
+ARA Puerto Deseado
+Argentina
+Antarctica, Southern Ocean
+Contributing Station
+5
+ARA Canal de Beagle
+Argentina
+Antarctica, Southern Ocean
+Contributing Station
+6
+ARA Almirante Irizar
+Argentina
+Antarctica, Southern Ocean
+Contributing Station
+7
+Base Esperanza
+Argentina
+Antarctica
+CryoNet Station
+8
+Base Jubany (Carlini)
+Argentina
+Antarctica
+CryoNet Station
+9
+Base Marambio
+Argentina
+Antarctica
+CryoNet Station
+10
+Base Orcadas
+Argentina
+Antarctica
+CryoNet Station
+11
+Base San Martin
+Argentina
+Antarctica
+CryoNet Station
+12
+Adelie Land
+France
+Antarctica
+CryoNet Station
+13
+Syowa
+Japan
+Antarctica
+CryoNet Site
+14
+Concordia
+France-Italy
+Antarctica
+CryoNet Site
+15
+Davis main AFIN station
+Australia
+Antarctica
+CryoNet Station
+16
+Davis Bureau of Meteorology Station
+Australia
+Antarctica
+CryoNet Site
+17
+Vesleskarvet
+South Africa
+Antarctica
+CryoNet Station
+18
+Dome C Concordia air / snow observatory
+France / Italy
+Antarctic plateau
+CryoNet Station
+19
+Dome C GLACIOCLIM SAMBA stakes network north    
+France
+Antarctic plateau
+Contributing Station
+20
+Dome C GLACIOCLIM SAMBA stakes network south
+France
+Antarctic plateau
+Contributing Station
+21
+Dome-C Surface-Snow-Meteo
+Italy
+Antarctica
+CryoNet Station
+22
+Juan Carlos I
+Spain
+Antartica
+CryoNet Station
+

@@ -1,0 +1,113 @@
+﻿
+
+
+
+
+
+The Polar Space Task Group: Coordinating Space Data in the Antarctic Region 
+
+
+
+
+
+
+
+
+The Polar Space Task Group: Coordinating Space Data in the Antarctic Region
+1. Background
+In the 50 years between the International Geophysical Year in 1957 and the 4th International Polar Year (IPY) in 2007-2009, the space era has transformed our capability to study the cryosphere. With increased scientific and economic interest in the polar regions it has become imperative to assemble scientific knowledge with which to exercise responsible management and stewardship. 
+The WMO Polar Space Task Group1 (PSTG), established in 2011 and modelled on the successful IPY Space Task Group, currently has 15 space agency members2. The PSTG’s mandate is to provide coordination across Space Agencies to facilitate acquisition and distribution of fundamental satellite datasets, and to contribute to, or support the development of, specific derived products for cryospheric, polar, and high-mountain scientific research and applications. The PSTG seeks realisation of benefits from the growing constellation of polar orbiting satellites, by mobilising the unique and complementary capabilities of each of the respective participating Agencies, whether oriented towards research and development, or to sustained monitoring. In the case of the latter, the role is to support the scientific activities that may lead to improved numerical weather and climate forecasting, or development of improved operational polar products and services, to the extent that these activities fall within each Agency’s mandate.
+2. Objectives
+The PSTG regularly reviews cryosphere, high-mountain, and polar scientific requirements, including user needs and observational requirements stemming from, but not limited to the Global Climate Observing System3 (GCOS), the IGOS-P Cryosphere Theme Report, the WMO Global Cryosphere Watch (GCW – see IP 113), the World Climate Research Programme (WCRP), SCAR, and the Group on Earth Observations (GEO). The group sources these requirements through scientific representatives from the user community, together with workshops, meetings, etc. The PSTG has been recognized as a key mechanism to address community needs for Southern Ocean satellite data (Ref 1) and for products to support scientific investigation within the upcoming Year of Polar Prediction (YOPP) 2017-2019 (see IP 116).
+
+The PSTG has developed a set of key strategic goals to meet user needs and observational requirements and prioritise them considering existing Agency-specific programmes or international project frameworks. A 3-year PSTG Strategic Plan (2015-2018) expresses the near term strategic goals and requirements, covering atmosphere, ocean and terrestrial domains (Ref 2).
+
+Members of PSTG establish commitments on behalf of their Agency to support data acquisition and product development, and establishment of relevant accompanying scientific studies, as appropriate for the respective Agency. Agency Members also participate in the joint development and coordination of mission acquisition plans with consideration of:
+    • existing in-situ observing system infrastructure;
+    • individual agency mandates and resources, including space-segment and ground-segment assets;
+    • time-space distribution of planned in-situ and air-/ship- borne campaign activities;
+
+The group also develops and coordinates plans for satellite data product distribution and archiving.
+3. Antarctic Satellite Products
+Ice Sheet Products
+A large combination of complementary satellite radar altimetry, synthetic aperture radar (SAR) images, optical images, and gravimetric datasets are scheduled, acquired, recorded, downlinked and processed by PSTG Agencies in order to contribute directly to the ice sheet Essential Climate Variable (ECV). The ECV data reported at the Antarctic Ice Sheet Climate Change Initiative site (http://esa-icesheets-antarctica-cci.org) includes surface elevation changes, ice velocities, grounding line locations, and gravimetric mass balance. Figure 1a below shows an independent pole-to-coast compilation of ice sheet velocity from multiple datasets.
+
+
+
+Figure 1. (a) Composite mosaic of surface ice speed generated from ERS-1&-2 SAR (ESA), RADARSAT-1&-2 SAR (CSA), ENVISAT ASAR (ESA), ALOS PALSAR (JAXA), TerraSAR-X SAR (DLR), Sentinel-1 SAR (ESA) and Landsat-8 (USGS) in Antarctica acquired between 1992 and 2016 (after Mouginot et al., 2017); (b) Sentinel-2A austral summer 2016-17 acquisition plan for to complement routine summer Landsat 8 optical images, and all-weather, year-round SAR images (Ref 3).
+
+Various tools have been developed to allow ease of user access to these data sets, such as the TU Dresden Antarctic ice sheet gravimetric mass balance time-series plotting tool (https://data1.geo.tu-dresden.de/ais_gmb/), or the ENVEO CryoPortal (http://cryoportal.enveo.at/) shown below in Figure 2.
+
+
+
+
+
+
+
+Figure 2. (a) TU Dresden Antarctic ice sheet gravimetric mass balance time-series showing example of ice mass loss time series from West Antarctica; (b) ENVEO CryoPortal examples of ice sheet velocity maps, and velocity time series derived from routine Copernicus Sentinel-1 image data
+
+Both tools shown provide new, unrivalled advances in user ability to browse and generate graphical output from large satellite datasets. 
+
+Sea ice
+Agencies are responding to increasing user demand for routine mapping of Southern Ocean sea ice using SAR images at intervals of 3 days or less, for ice charting and operational services in support of maritime safety. Figure 3 shows an example of the typical 3 day mapping accomplished in austral summer over the interval 1-3 January, 2017, along with a chart produced routinely by the AARI-NIC-NMI collaborative ice analysis initiative (http://ice.aari.aq/gallery_ct.html), based on the identified input satellite datasets (see red box). 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. (a) 1-3 January, 2017 image composite from Sentinel-1, illustrating the typical SAR image coverage in austral summer (modified Copernicus Sentinel-1 data); (b) collaborative sea ice analysis by AARI-NIC-NMI, based on various satellite image data; (c) sea ice concentration from AMSR-2 (courtesy NSIDC); and (d) accompanying sea ice drift (courtesy JAXA/NIPR).
+
+Atmospheric Products
+Figure 4 (a) shows an example of Antarctic atmospheric motion vectors routinely produced from pairs of overlapping MODIS polar orbiting image swaths by the Cooperative Institute for Meteorological Satellite Studies (CIMSS) and NOAA at the University of Wisconsin-Madison. Similar data products are now routinely produced by various PSTG agencies, including NOAA, CMA, EUMETSAT as a critical input to numerical meteorological forecast models in the polar regions. Other key atmospheric composition products, such as Bromine (BrO), are also being produced using data from GOME-2 on MetOp (courtesy DLR). Bromine is recognised as a key natural halogen species due to its higher ozone destruction potential, whilst it also plays an important role in the deposition of mercury to the polar ecosystem. One of the main sources for natural halogens in polar regions is the sea salt found in high concentrations at the surface of the ice during young sea ice growth. The PSTG recognises the important synergy between cryosphere and atmosphere products, particularly in terms of the feedbacks and coupling between atmosphere, ice and ocean.
+
+
+(a)							  (b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. (a) Example of Atmospheric Motion Vectors derived from cloud and water vapour tracking, using NASA Aqua MODIS image data (courtesy NASA/NOAA); (b) April monthly mean column content of halogen Bromine (BrO) from MetOp GOME-2 (courtesy, D. Loyola, DLR).
+
+For an overview of Products which are routinely available from data collected by PSTG members, please see the Global Cryosphere Watch Cryosphere Now Imagery page, such as that for atmosphere here: http://globalcryospherewatch.org/state_of_cryo/atmosphere/
+4. References
+Ref. 1. Pope A. et al. (2016): Community review of Southern Ocean satellite data needs. Antarctic Science 1-42, doi:10.1017/S0954102016000390
+
+Ref. 2. Polar Space Task Group: Strategic Plan (2015-2018): http://www.wmo.int/pages/prog/sat/documents/SAT-GEN_PSTG-StratPlan2015-2018.pdf
+
+Ref. 3. WMO Polar Space Task Group SAR Coordination Working Group (2016). Data Compendium: SAR Coordination Working Group, Update for 2015 and Plans for 2016, Summary Documentation of SAR Satellite Data Collections, Plans and Activities, Version 3.2, March 4, 2016, 41 pp.
+

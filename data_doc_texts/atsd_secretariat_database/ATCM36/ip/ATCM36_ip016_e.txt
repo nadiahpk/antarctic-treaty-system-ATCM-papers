@@ -1,0 +1,41 @@
+﻿
+
+
+
+
+
+Status of the fluid in the EPICA borehole at Concordia Station: an answer to the US / Russian Inspection in 2012
+
+
+
+
+
+
+
+
+
+Status of the fluid in the EPICA borehole at Concordia Station: an answer to the US / Russian Inspection in 2012
+Summary
+At CEP XV in Hobart, the US and the Russian Federation reported the results of their joint inspection at Concordia station in January 2012. Among the comments, a doubt was raised about a possible leakage of the drilling fluid of the EPICA borehole and inaccurate information was provided on the nature of this drilling fluid. The aim of this Information Paper is to answer to these remarks. 
+The US / Russia Inspection Report 2012
+In January 2012, an inspection was conducted by the US and the Russian Federation at Concordia Station pursuant to Article VII of the Antarctic Treaty of 1959 and Article 14 of the Protocol for Environmental Protection to the Antarctic. In their report (ATCM XXXV IP 47), the inspectors noted that they “paid special attention to the situation involving the deep ice borehole at Concordia drilled under the EPICA project, where liquid consisting of kerosene (jet) and Freon (F141B) was used to conserve the hole. According to the information available, this liquid appeared to be similar to the one used at the Vostok Station drilling project”.
+In addition, they reported that they “learned that an unexplained and un-investigated drop of liquid level has in the recent past been suspected in the borehole”. The inspectors concluded that “it is reasonable to assume this fluid migrated into the surrounding snow/ ice which would be considered a permanent release”.
+The EPICA Project and the nature of the drilling fluid
+The European Project for Ice Coring in Antarctica (EPICA) was a consortium of laboratories and Antarctic logistics operators from ten European nations. This project aimed at retrieve two deep ice cores, one in Dronning Maud Land (EDML) and one in Dome C. In Dome C, the drilling project began in 1995, following a draft CEE presented to ATCM in 1994 (before the establishment of the CEP). The drilling was completed in December 2004 at the depth 3 270.2 m. This drilling allowed retrieving ice back to 800 000 years ago and to date, this is the oldest ice record. 
+To compensate for ice pressure and maintain the hole open, such a drilling requires the use of a fluid, and since the beginning the intention was to leave this borehole open so that measurements could continue.  The fluid used in the Dome C borehole was the solvent EXXOL-D40 a dearomatised kerosene with Forane 141 b as densifier to reach a density slightly higher than the one of the surrounding ice. The used ratio was respectively about 80 parts to 20. EXXOL D-40 major components include normal paraffins, isoparaffins, and cycloparaffins. Therefore it is low soluble in water and is not expected to cause short-term toxicity to fish or other aquatic organisms as it is biodegradable1. Forane 141 b is a low toxicity HCFC with a low potential for bioaccumulation although not biodegradable. It was the only product available at the time for drilling down to great depths.
+This drilling fluid was the same fluid used in the second EPICA borehole in Dronning Maud Land, which had had a draft CEE considered by the CEP III in 2000 (SATCM XII WP 1). 
+In order to minimize the risk of environmental damages resulting from dispersion of the drilling fluid, two main actions were conducted:
+    • A casing (tubes) was installed in the upper part of the hole to isolate the permeable part of the ice thus preventing any fluid leakage into the snow and firn. The base of this casing is 130 m below the surface, (see Figure 1, panel “hole diameter”) well below the firn-ice transition (around 85 m).  
+    • The drilling was, on purpose, stopped at a depth estimated to be at least 5 m above bedrock to prevent contamination of the underneath system.. 
+The drilling was conducted only in summer and required several drilling seasons from 1995 to 2004. Fluid level measurements were performed at the end of each drilling season and at the beginning of the next one and did not indicate any leakage during winters. 
+Monitoring of the drilling fluid in the borehole
+The EPICA borehole is still of high interest for the scientific community. Therefore it was never abandoned and after the completion of the drilling during the 2004-2005 season, the following measurements were performed.
+    • 2007-2008 and 2008-2009. Vertical temperature profile measurement with a French high precision temperature probe. The extrapolation of the temperature profile confirms that the hole does not reach the ice-rock interface. The temperature probe does not include a pressure sensor and thus cannot detect the fluid level with confidence (also because the measurement was done with steps, a continuous descent could have given it in the temperature profile). The load cell was expected to give an indication but it appears that it detected only the bottom of the casing and not the fluid level.
+    • 2009-2010. A Danish logger was used in the borehole by a French team. This tool measures fluid pressure, borehole diameter and temperature (with a poorer precision than the previous probe). Measurement was done with a continuous descent and is displayed on Figure 1. The fluid level is clearly seen both on the fluid pressure and the temperature profile (the two probes are not exactly at the same level on the tool). The fluid depth was around 74 m, same as its value at the end of the drilling.  During the same season an optic probe was used by an US team to provide a profile of dust layer and volcanic eruptions all along the borehole.
+    • 2010-2011. A sonic probe was used to determine seismic-waves velocity in the ice (US/French team). This characteristic is a proxy of ice fabric. This measurement does not give directly the level of fluid but from the sonic record, the level of the fluid was also estimated at around 75 m. 
+As a conclusion, we do not have any evidence of past leakage of the fluid either in the firn or at the ice-bed interface. It is therefore extremely unlikely to imagine a future leakage if the conditions will remain the same.
+In the future, plans are to keep the borehole accessible as long as possible. It is indeed a crucial facility to study glacial processes in depth. As an example, a new logging device is being developed by the French team (for future drilling in the context of the International Partnerships in Ice Core Sciences - IPICS), and should be tested in this borehole in 2014-2015.
+In addition, measurements that are interesting to repeat and new original instruments, even not existing yet, might be developed and can be tested in this borehole.  The proximity of Concordia Station as well as the existing cable system (winch and cable) will make these tests easy with relatively light logistic involvement. As in the recent years, this opportunity is open internationally.
+
+Figure 1 - Logging of the EDC borehole in 2009, with the Danish logger (courtesy of Simon Sheldon, CIC, Copenhagen). Left, pressure increases from 0 (no fluid) to a depth pressure linear relationship (fluid), the level of fluid is estimated at 74 m. Middle, the shape of the casing is easily recognizable with the diameter measurement (central panel), and (right) the temperature profile displays a drop when the probe enters the fluid. Only the top 150 m are displayed but the tool went down to 3330 m.
+

@@ -1,0 +1,50 @@
+﻿
+
+
+
+
+
+The Polar Challenge: towards a new paradigm for long-term under-ice observations
+
+
+
+
+
+
+
+
+The Polar Challenge: towards a new paradigm for long-term under-ice observations
+1. Introduction
+The cryosphere is a major indicator of global climate change and plays a fundamental role in the climate system. Despite advances in numerical modelling, the reliability of long-term climate change predictions in the Arctic and Antarctic is severely limited by the lack of systematic in situ observations of and beneath the sea-ice. The World Climate Research Programme1 (WCRP) and the Prince Albert II of Monaco Foundation (FPA2) are jointly promoting, together with other co-sponsors (see Section 4), a Polar Challenge2 to reward the first team to complete a 2000 km continuous mission with an Autonomous Underwater Vehicle (AUV) under the Arctic or Antarctic sea-ice. Bonus awards will go to the team that can demonstrate regular measurements of sea-ice thickness or draft, or successful transmission of under-ice position and environmental data to operational networks. 
+In situ ocean observations in polar regions are inherently expensive, risky and sparse, even more so under the sea-ice. A new paradigm is required to complement remotely sensed Earth Observations. WCRP and the FPA2 identified AUV technology as the answer due to its potential scalability, limited risks and cost-effectiveness.
+
+2. The challenges of under-ice observations
+Different types of AUVs are already operating in ice-free zones around the world, surfacing regularly to obtain a GPS (Global Positioning System) fix and to transmit near real-time environmental data. They are able to collect high-quality oceanographic observations – temperature, salinity, chlorophyll concentration, pH levels and more – at much lower cost compared to conventional, for example ship-based, observing systems. Operating range, positioning and data transmission represent major challenges for AUVs under sea-ice but the integration of some recent innovations – for example in power systems, navigation and communication techniques – could expand the range of their application.
+WCRP and the Prince Albert II of Monaco Foundation aim to promote technological innovation towards a future cost-effective, autonomous and scalable observing network for sea-ice covered regions based on a fleet of AUVs. The goal is to achieve what ARGO3 has accomplished for the open ocean.    
+
+3. The competition
+Prize details and the start of the competition have been announced at the Arctic Science Summit Week (ASSW)/Arctic Observing Summit (AOS) in Fairbanks, 12-18 March 2016. The competition will run from 2016 until at least 2019. Registration is welcome anytime during that period. Competitors are responsible for mobilizing their own resources for attempting the Challenge. The main prize represents a significant incentive for teams with adequate capabilities to attempt the Challenge missions, taking into account the costs of engineering developments, operations and the AUV itself. The Prize may be increased with any subsequent sponsorship received during the course of the competition. 
+Detailed rules of the Challenge are available from the web page2 and are summarized hereafter:
+
+- Main mission (mandatory):
+    • A continuous 2 000 km AUV mission under the sea-ice;
+    • Autonomous and accurate navigation; and
+    • Regular observations of temperature and salinity from the near-surface to a depth of at least 700 metres.
+
+- Bonus demonstration 1 (optional):
+    • Regular observations of sea ice thickness or draft.
+
+- Bonus demonstration 2 (optional):
+    • Successful under-ice transmission of position and environmental data on operational data networks.
+
+All Challengers will have to demonstrate that they made best efforts to minimize environmental impacts. The full science data sets will have to meet expected quality standards and be made freely available to the scientific community. Completion of the missions is subject to final validation by a Judge Panel. Challengers will retain the intellectual property rights to the knowledge generated in the framework of the challenge.
+The implementation of the Challenge may take place in the framework of in situ field experiments planned in 2017-2019 within the « Year of the Polar Prediction » (see associated IP15 but other options can be considered at the discretion of competitors.
+
+4. The long-term benefit
+This initiative is co-sponsored (as of March 2016) by the World Climate Research Programme (WCRP), the Prince Albert II of Monaco Foundation (FPA2), the World Meteorological Organization (WMO), Environment Canada (EC), the World Weather Research Programme (WWRP), the European Space Agency (ESA), the Global Climate Observing System (GCOS), the Group on Earth Observation (GEO), the Intergovernmental Oceanographic Commission (IOC) of UNESCO, and the Scientific Committee on Oceanic Research (SCOR). It is aligned with WCRP research priorities, in particular the Grand Challenge on Melting Ice and Global Consequences, and the Grand Challenge on Regional Sea Level Rise. It contributes to WMO polar initiatives, (such as the Global Cryosphere Watch – GCW - and the Global Integrated Polar Prediction System - GIPPS) and the Global Framework for Climate Services (GFCS). The initiative is endorsed by the Scientific Committee on Antarctic Research (SCAR) and the International Arctic Science Committee (IASC).
+If successful, this initiative will make a tremendous impact in shaping climate research in the polar regions. New collocated multidisciplinary data sets of sea-ice and under-ice properties at unprecedented temporal and spatial resolution far into unexplored territories could revolutionize our knowledge of climate change, for example, in the areas of heat fluxes and storage, fresh water exchanges, carbon sequestration and ocean acidification, in those regions. 
+The proof of concept could be scaled up into a game-changing polar ocean monitoring network with wide-ranging benefits for climate research and services as well as for other sectors such as environmental protection, weather forecast, tourism, safety, security, transport, energy, biodiversity, fisheries and insurance.
+Additional contributions from the public and private sector are most welcome to support this effort and complement the Prize money award. All applications from prospective competitors will be duly considered. For more information, please visit www.wcrp-climate.org/polarchallenge or contact us at polarchallenge@wcrp-climate.org.
+
+
+

@@ -1,0 +1,116 @@
+﻿
+
+
+
+
+
+Proposed update to the Antarctic Conservation Biogeographic Regions
+
+
+
+
+
+
+
+
+Proposed update to the Antarctic Conservation Biogeographic Regions
+Working Paper submitted by Australia, SCAR, New Zealand
+Summary
+At CEP XV (2012) the Committee endorsed the Antarctic Conservation Biogeographic Regions (ACBRs), and agreed that they should be used consistently and in conjunction with other tools agreed within the Antarctic Treaty system as a dynamic model for the identification of areas that could be designated as Antarctic Specially Protected Areas, within the systematic environmental-geographic framework referred to in Article 3(2) of Annex V of the Protocol. The ATCM welcomed the ACBRs through Resolution 6 (2012). Information Paper 15 summarises a recent revision of the ACBRs, reflecting updates in underlying spatial layers, together with the results of new analyses justifying the inclusion of an additional (16th) biologically distinct large-scale ice-free area in the Prince Charles Mountains region (Annex to Attachment A). Australia, New Zealand and SCAR propose that the Committee endorses the revised ACBRs (ACBRs Version 2) and, if agreed, forwards the draft Resolution at Attachment A to the ATCM for approval.
+Background
+At CEP XV (2012) Australia, New Zealand and SCAR presented WP 23 Rev.1 Antarctic Conservation Biogeographic Regions, which introduced the results of analyses undertaken by Terauds et al. (2012) to identify large-scale biologically distinct ice-free regions encompassing the Antarctic continent and close-lying islands within the Antarctic Treaty area. The Committee agreed that the resulting 15 Antarctic Conservation Biogeographic Regions (ACBRs) represented the best classification of Antarctic terrestrial biodiversity based on data available from the SCAR Biodiversity Database at that time.
+The Committee further1:
+    • agreed that the Antarctic Conservation Biogeographic Regions should be used consistently and in conjunction with other tools agreed within the Antarctic Treaty system as a dynamic model for the identification of areas that could be designated as Antarctic Specially Protected Areas within the systematic environmental-geographic framework referred to in Article 3(2) of Annex V of the Protocol;
+    • requested the Antarctic Treaty Secretariat to make the spatial data layer representing the Antarctic Conservation Biogeographic Regions available via its website;
+    • reiterated its agreement that Members should encourage the further collection and timely submission of spatially explicit biological data;
+    • recognised the relevance of the Antarctic Conservation Biogeographic Regions to its work to address non-native species risks, particularly the risk of transfer of species between locations in Antarctica; and
+    • agreed to incorporate the attached ‘Map of Antarctica showing the 15 Antarctic Conservation Biogeographic Regions’ into the CEP Non-Native Species Manual, and to identify opportunities to utilise the Antarctic Conservation Biogeographic Regions to manage non-native species risks.
+The ATCM welcomed the ACBRs through Resolution 6 (2012).
+Update to the Antarctic Conservation Biogeographic Regions
+The ACBRs endorsed at CEP XV were the culmination of a multinational collaboration that reviewed and refined the conservation biogeography of Antarctica (Terauds et al., 2012). The 15 original ACBRs covered most of the ice-free area of the Antarctic continent and Antarctic Peninsula. While the original classification was based on the best available information at the time, it was acknowledged that the ACBRs would require updating over time to reflect new data and analytical techniques. Not all ice-free area was included in the original delineation.  For example, the relatively large ice free area in the vicinity of the Prince Charles Mountains in East Antarctica was not clearly delineated by the classification protocols in Terauds et al. (2012).
+Information Paper 15 summarises the results of recent work by Terauds and Lee (2016) to revise the ACBRs to reflect the most current representation of Antarctic ice-free areas (the SCAR Antarctic Digital Database rock outcrop layer, Version 7). The new analyses, which drew on the updated ice-free area data and compared community structure and composition across all ACBRs, identified an additional (16th) distinct ACBR in the Prince Charles Mountains. This updated version of the ACBRs (ACBRs Version 2) now covers all ice-free areas of Antarctica. 
+As was noted with the original classification, the updated ACBRs are purposely broad in scale, and do not preclude localised differences at finer scales. As more biodiversity data become available, especially at a phylogeographic level, future assessments using emerging multivariate methods and other analytical techniques will be possible.
+The spatial layer representing the updated classification is available from the Australian Antarctic Data Centre and will be provided to the Antarctic Treaty Secretariat for general access and use.
+The ACBRs v2 are a contemporary, practical and evidence-based representation of Antarctic biogeography at a continental scale. They continue to have clear relevance as a robust foundation for conservation and management of terrestrial Antarctica, including ongoing work by the CEP to further develop the protected areas system and to prevent the transfer of species between biologically distinct regions.
+Recommendations
+To ensure that the work of the CEP and Parties is based on the most up-to-date understanding of the spatial distribution of Antarctic terrestrial biodiversity, Australia, New Zealand and SCAR recommend that the CEP endorses the revised Antarctic Conservation Biogeographic Regions (ACBRs Version 2) and, if agreed:
+    • forwards the draft Resolution at Attachment A to the ATCM for approval; and
+    • requests the Antarctic Treaty Secretariat to make the updated spatial data layer available via its website.
+Attachment A.
+Draft Resolution XX
+Revised Antarctic Conservation Biogeographic Regions
+
+The Representatives,
+Recalling Article 3 of Annex V to the Protocol on Environmental Protection to the Antarctic Treaty which provides for the designation of Antarctic Specially Protected Areas;
+Recalling that Article 3.2 of Annex V states that Parties shall seek to identify such areas within a systematic environmental-geographic framework;
+Recalling also that Resolution 6 (2012) welcomed a classification of the ice-free areas of the Antarctic continent and close lysing islands within the Antarctic Treaty area into 15 biologically distinct Antarctic Conservation Biogeographic Regions;
+Welcoming the advice of the Committee for Environmental Protection that the Antarctic Conservation Biogeographic Regions should be updated to reflect the most recent analyses of the spatial distribution of Antarctic terrestrial biodiversity, including the identification of a 16th biologically distinct region; 
+Recommend that:
+    1. the revised Antarctic Conservation Biogeographic Regions annexed to this Resolution (ACBRs Version 2) be used in conjunction with the Environmental Domains Analysis and other tools agreed within the Antarctic Treaty system to support activities relevant to the interests of the Parties, including as a dynamic model for the identification of areas that could be designated as Antarctic Specially Protected Areas within the systematic environmental-geographic framework referred to in Article 3.2 of Annex V to the Environmental Protocol; and
+    2. the Secretariat of the Antarctic Treaty post the text of Resolution 6 (2012) on its website in a way that makes clear that it is no longer current.
+
+Annex: Antarctic Conservation Biogeographic Regions (Version 2)
+The use of quantitative analyses to combine spatially explicit Antarctic terrestrial biodiversity data with other relevant spatial frameworks has identified 16 biologically distinct ice-free regions encompassing the Antarctic continent and close-lying islands within the Antarctic Treaty area (see Table 1). A full description of the methods employed is presented in Terauds et al. (2012) and Terauds and Lee (2016). The Antarctic Conservation Biogeographic Regions illustrated in Figure 1 represent the best classification of Antarctic terrestrial biodiversity based on currently available data and spatial layers.
+The spatial data layer representing the regions is publicly available for download from the Australian Antarctic Data Centre: http://dx.doi.org/10.4225/15/5729930925224.
+References
+Terauds, A., Chown, S., Morgan, F., Peat, H., Watts, D., Keys, H., Convey, P. & Bergstrom, D. (2012) Conservation biogeography of the Antarctic. Diversity and Distributions, 22 May 2012, DOI: 10.1111/j.1472-4642.2012.00925.x.
+Terauds, A. & Lee, J.R. (2016) Antarctic biogeography revisited: updating the Antarctic Conservation Biogeographic Regions, Diversity and Distributions, 1–5, DOI:10.4225/15/5729930925224.
+
+Table 1 – Descriptions of Antarctic Conservation Biogeographic Regions
+Region
+Name
+Area (km2)
+1 
+North-east Antarctic Peninsula
+1215
+2 
+South Orkney Islands
+160
+3 
+North-west Antarctic Peninsula
+5183
+4 
+Central south Antarctic Peninsula
+4962
+5 
+Enderby Land
+2188
+6 
+Dronning Maud Land
+5523
+7 
+East Antarctica
+1109
+8 
+North Victoria Land
+9431
+9 
+South Victoria Land
+10038
+10 
+Transantarctic Mountains
+18480
+11 
+Ellsworth Mountains
+2859
+12 
+Marie Byrd Land
+1128
+13 
+Adelie Land
+178
+14 
+Ellsworth Land
+217
+15 
+South Antarctic Peninsula
+2875
+16
+Prince Charles Mountains
+5992
+
+
+Figure 1 – Map of Antarctica showing the 16 Antarctic Conservation Biogeographic Regions
+
+
+

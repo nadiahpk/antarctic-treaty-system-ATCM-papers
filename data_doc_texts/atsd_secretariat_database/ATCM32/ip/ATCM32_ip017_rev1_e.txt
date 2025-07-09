@@ -1,0 +1,141 @@
+﻿
+
+
+
+
+
+Proposal for submission to the International Maritime Organization
+
+
+
+
+
+
+MARITIME SAFETY COMMITTEE
+87th session 
+Agenda item 
+
+ MSC 87/INF.**
+	2010
+	 Original:  ENGLISH
+
+AMENDMENTS TO THE GUIDELINES FOR SHIPS OPERATING IN
+ARCTIC ICE-COVERED WATERS
+
+Progress report from the work of an ATCM intersessional contact group on prevention and mitigation of maritime incidents with passenger ships in Antarctic Waters
+
+Submitted by Norway, [other treaty countries] 
+
+
+SUMMARY
+
+Executive summary:
+
+This document contains a report from the work of an Antarctic Treaty Consultative Meeting (ATCM) intersessional contact group on prevention and mitigation of maritime incidents with passenger ships in Antarctic waters.
+
+Strategic direction:
+
+5.2
+
+High-level action:
+
+5.2.1
+
+Planned output:
+
+5.2.1.2
+
+Action to be taken:
+
+Paragraph xx
+
+Related documents:
+
+DE 52/9; DE 52/9/1; DE 52/9/2; DE/52/INF.4; MSC/Circ.1056-MEPC/Circ.399; MSC 79/8/2 and MSC 79/INF.2 
+ 
+
+Background
+    1. There has been a steady increase (doubling) of cruise activity in the Antarctic Sea Area over the last 5-6 years. A similar increase has been observed in the Arctic, made more available because of less ice in the summer season. In order to support the ongoing work within IMO, the Antarctic Treaty Consultative Meeting hereby submits a progress report from an intersessional contact group (ICG) that was established at ATCM 30 in 2007 with the aim to consider measures to prevent or mitigate maritime incidents, concentrating on passenger ships trading in Antarctic waters. 
+
+    2. It is acknowledged that some of the issues considered in the outcome reported below have already been discussed in the DE and other sub-committees.  It is also noted that another Member State, the United States, has indicated in DE 52/9/2 that it intends to propose a new work programme item to the Committee so that the current efforts to revise MSC/Circ.1056-MEPC/Circ.399 might be expanded to consider mandatory requirements.  As Convenor of the ICG, Norway hopes that the outcome of the ICG’s work on these issues may serve as further basis for decision-making at the IMO. 
+
+
+
+
+
+
+
+ 
+
+Report of the ICG’s work
+    3. An initial risk assessment had earlier been employed by the ICG to identify hazards associated with the operation of vessels in the Treaty Area that were of priority concern to the Parties. These hazards included:  
+
+        1. Unknown submarine topography and inaccurate charting;
+        2. Localized or extreme weather conditions;
+        3. Variable ice conditions;
+        4. Inexperienced crews;
+        5. Deficiencies in search and rescue coordination, coverage, and assets; and
+        6. Tender operations.
+
+Review
+    4. In order to refine its initial risk analysis, it was proposed that the ICG consider Event Tree Analysis (ETA), which could be used to identify possible gaps in existing control measures relevant to the previously specified hazards. ETA methodology develops visual models, known as Event Trees, to portray how, proceeding from an initiating event, certain control measures may either prevent or mitigate undesirable outcomes. These visual models link initiating events to specific consequences through incident chains that are specific pathways through a series of control measures. Once the incident chains are assembled, control measures in question may be qualitatively analyzed with a view to determining their effectiveness. Absent or ineffective control measures can then be highlighted and appropriate recommendations made. By applying the ETA methodology the ICG sought to identify regulatory inadequacies or gaps and highlight their potential to yield undesirable outcomes.
+
+Initiating Event Selection
+    5. Twenty-four different initiating events were nominated, each of which that could occur with grave consequences in the presence of the six hazards listed above. From these, seven were chosen for development into Event Trees because they potentially posed either the greatest or the most Antarctic-specific threat to passenger vessel operations in the Treaty Area. Explanations for the selection of specific initiating events of concern is summarized below.
+
+        1. Grounding was chosen as the initiating event for Hazard #1 (Unknown Submarine Topography) because of its relative likelihood and high potential for catastrophic consequences in terms of life and the environment. 
+
+        2. For Hazard #2 (Localized or Extreme Weather Conditions), Collision with Ice was selected as the initiating event. This initiating event acknowledges the frequent presence of ice in Antarctic sea lanes and the often associated phenomenon of low visibility.
+
+        3. Stranding, or becoming stuck in ice, was selected as one of two initiating events for Hazard #3 (Variable Ice Conditions) on account of the distinct possibility of encountering ice floes in the Antarctic and its’ potential to cause significant damage to a vessel. A second initiating event selected for Hazard #3 was the disabling of a vessel on account of a damaged propeller. An encounter with ice floes carries the potential for damaging a vessel’s propeller, thus reducing its manoeuvrability and its ability to safely navigate in heavy weather.
+
+        4. Navigational Errors was selected as the most likely and problematic initiating event for Hazard #4 (Inexperienced Crew). Navigational errors can happen anywhere, but navigational errors in the Antarctic operating environment could result in especially catastrophic consequences.
+
+        5. Loss of propulsion was chosen as the initiating event of greatest concern for Hazard #5 (Deficiencies in Search and Rescue (SAR) Coordination, Coverage, and Assets). In the event a vessel looses propulsion and cannot be readily repaired, the need for SAR will be paramount given the remote and inhospitable nature of the Antarctic environment.
+
+        6. In some cases, passenger vessels are utilizing small, rigid-hull, inflatable boats (RIB) as tenders, or small landing craft, to transfer passengers and crew to shore. Due to the inherent hazards of potentially navigating through ice, and the unforgiving Antarctic environment, capsizing was chosen as the initiating event of greatest concern for Hazard #6 (Tender Operations). RIBs are highly manoeuvrable and their small size enables them to enter shallow bays and other areas with limited hydro graphic charting. Despite their flexibility, the consequences are dire if an RIB were to capsize while separated from its mother vessel.
+
+    6. Event Trees were constructed for each of the seven initiating events, applying existing control measures identified by the participants. Consequences were then determined for a succession of possible incident chains, based on physical conditions and success or failure of relevant control measures.
+
+Analysis
+    7. In order to derive useful information from the Event Trees, a number of incident chains pertaining to each hazard and flowing from each designated initiating event. Attention was focused its attention on those incident chains where a succession of independent control measures failed, thus creating a cascading effect correlating highly to more adverse outcomes. The incident chains most closely examined were those in which more than half of control measures failed, or in which more than a third of control measures failed in the case of Hazard #6 (tender operations). Where a failure of a single control measure was most commonly encountered in the context of several control measures having failed; an attempt was made to identify the potentially weakest link among incident chains which lead to the most adverse consequences.
+
+    8. It was suggested that there are limit , of course, to how useful an attempt can be to locate “weak links” in the absence of more quantitative analysis of the actual probability of a control measure failing. Assigning those probabilities with any measure of confidence requires more consultation among those who operate passenger vessels in Antarctic waters and maritime regulators than was possible through a web-based intersessional contact group. Nonetheless, some ICG participants suggested that some general conclusions could be reached which could usefully guide consultation among experts as the process of risk analysis proceeds beyond discussion of this working paper and its recommendations at the 32nd ATCM.  
+
+Results
+    9. While not all participants necessarily agreed, the conclusion drawn from the event trees presented to the ICG suggested that incidents of concern were characterized by a succession of control measure failures showed a recurrence of absent or inadequate control measures in five key areas: Training, Search and Rescue (SAR), Lifesaving, Vessel Construction, and Other.  These are discussed below.  
+
+        1. Training
+Potential gaps identified in this category concern officer and crew training, as well as possible deficiencies in the vessel’s Safety Management System (SMS). While officer and crew training are only explicitly identified as a gap in Hazard #4, it is in the view of the group arguably applicable to all six hazards. The International Maritime Organization’s (IMO) Standards of Training, Certification and Watchkeeping for Seafarers Code (STCW Code) outlines specific training requirements for officers and crew. It was noted that while the IMO has recommended in a separate set of guidelines (MSC/Circ.1056-MEPC/Circ.399) that ships operating in Arctic waters have as part of their crew an individual who is specially trained to direct the movement of a ship in ice-covered waters, neither those guidelines nor the STCW Code mandate geographically specific training or experience (e.g., ice navigation or capacity for medical treatment of hypothermia on vessels operating in Polar Regions) that may better prepare mariners for unique environments.  
+
+            i. Another potential regulatory gap identified by the ETAs may be compliance with the IMO’s International Safety Management Code (ISM Code).  In accordance with the ISM Code, a vessel must have a Safety Management System (SMS). In accordance with the ISM Code, a vessel must have a Safety Management System (SMS), which requires the development of policies and procedures, and the retention of maintenance and training records. This SMS requires regular review and update by ship owners and operators, and periodic verification by Flag States. The IMO has approved guidelines recommending that ships operating in Arctic ice-covered waters carry an operating manual and training manual for recommended ice navigators, (MSC/Circ.1056-MEPC/Circ.399) but those guidelines are not mandatory and are not applicable to Antarctic waters. It was suggested that failure to appropriately consider Antarctic operations in these SMS reviews and updates of safety policies, procedures and training programs could result in equipment malfunction, vessel disablement, environmental damage, or loss of life.
+
+
+
+        2. Search and Rescue
+            i. A possibly inadequacy identified for SAR was lack of coverage, or the scarcity of regional SAR resources. This inadequacy was identified in incident chains for all six hazards. It was highlighted that due to remote operating areas and unpredictable weather patterns, SAR operations in the Antarctic are difficult and, at times, impossible to render in a timely fashion. 
+
+        3. Lifesaving
+            i. Potential inadequacies identified in this category included the use of open or partially enclosed lifeboats and the sole use of personal floatation devices for passengers in freezing waters. This deficiency is present in five of the six hazards. All vessels are required to carry enough lifeboats to safely disembark all passengers and crew in the event of an emergency. However, depending on the date of construction, vessels may either carry open lifeboats, partially enclosed lifeboats, or fully enclosed lifeboats. In the event of a vessel sinking, passengers and crew may be required to board open lifeboats in adverse weather conditions decreasing the likelihood of survival unless sufficient SAR resources are nearby. 
+
+            ii. A similar inadequacy includes the reliance on personal floatation devices (PFD). These devices are designed to help the wearer remain afloat, but lack crucial protection against exposure. Without appropriate exposure protection, and with an average summer air temperature of -21 degrees Celsius and water temperature of 1degree Celsius,  it was suggested that the sole use of a PFD for protection against the Antarctic environment was insufficient even during the Austral summer when virtually all Antarctic tourism occurs. It was also noted that protection from such exposure in the harsh Antarctic environment was essential to prevent the loss of life until SAR resources could arrive.
+
+        4. Vessel Construction
+            i. Potential inadequacies and gaps associated with this category include the sufficiency of ship hulls and tender or small landing craft construction. Currently, there is no international requirement for vessels operating in the Antarctic to be constructed with ice-strengthened hulls, or any requirement limiting a vessel’s operation in the vicinity of ice when not built with an ice-strengthened hull. Additionally, depending on a vessel’s length, it might not be constructed with a double bottom hull over its entire length. This potential inadequacy was identified in four of the six hazards.
+
+            ii. Another potential inadequacy in this category is the arrangement and/or design of the RIBs used to transport passengers from the vessel to shore or on wildlife excursions. Depending on the number of passengers on board and the specific RIB design, some passengers must sit on the sponsons, or sides of the craft, while in transit with only a hand hold to keep them from falling overboard. If such a fall overboard were to take place, it was suggested that the consequences could be dire.
+
+        5. Other
+This category included other inadequacies that did not fit squarely into the categories above. Such inadequacies include accurate charting, and weather and ice forecasting.
+
+            i. The need for accurate charting in the Antarctic is a well known and understood inadequacy.  As vessels push into new, unexplored areas to provide passengers with memorable experiences, they are exposing the vessel and her passengers to potentially fatal consequences if their charts are inaccurate. This inadequacy is present in incident chains for four of the six hazards.
+
+            ii. Weather and ice forecasting were identified as an inadequacy in incident chains for all six hazards due to the extreme Antarctic environment. Vessels rely on a combination of methods to determine current weather conditions. These include, but are not limited to Navigational Text (NAVTEX), INMARSAT and weather information collected from other vessels or land-based stations. NAVTEX and INMARSAT coverage varies and may not be available throughout the Antarctic region. Additionally, the variability of weather and ice conditions in the Antarctic means that what one vessel or land station experiences may not be representative of what is actually occurring in the vicinity of the requesting vessel. Without accurate meteorological information, vessel crews are handicapped in their ability to take proactive measures to ensure the safety of their vessel while in the presence of a hazard.  
+
+Conclusion
+    10. It is believed that through the work carried out in the group, the ICG has identified areas of potential regulatory deficiency across several scenarios that carried a high likelihood of adverse consequences. Some of the ICG participants suggested that areas where regulatory gaps raised highest concern were training of officers and crew for operations in Antarctic waters, inadequate SAR coverage, the use of open lifeboats, and inaccurate charting. The proponents of the ETA process acknowledged the qualitative nature of this analysis, but believed awareness is the key to initiating change.  
+
+Action requested of the Maritime Safety Committee
+
+    11. The Maritime Safety Committee is invited to consider the information provided.
+

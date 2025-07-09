@@ -1,0 +1,44 @@
+﻿
+
+
+Wastewater Treatment in Antarctica: Challenges and Process Improvements
+
+
+
+
+Wastewater Treatment in Antarctica:  Challenges and Process Improvements
+Introduction
+The United States Antarctic Program began processing wastewater produced from McMurdo Station in 2003.  The Wastewater Treatment Plant (WWTP) uses conventional methods of solids removal (clarification) and microbial digestion.  The system is capable of treating 495,900 liters per day (l/day) of domestic wastewater.  The four major treatment components are shown in Figure 1: an anoxic zone, an aerobic zone, clarification, and disinfection.  These four components comprise a single treatment train at the plant. 
+
+Figure 1. Schematic of the McMurdo Station wastewater treatment process.  The four major treatment components of an individual treatment train are an anoxic zone, an aerobic zone, clarification, and disinfection.  The plant can operate from 1 to 3 trains simultaneously.
+
+Wastewater is supplied to the plant from the station by gravity feed and is pumped from lower laying areas by two lift stations.  There are two by-products of treatment.  Clear and disinfected effluent released to McMurdo Sound and settled, de-watered sludge is packaged and removed from the continent.  Water quality monitoring demonstrates that use of the treatment process, versus discharging non-treated waste as represented by the influent, does reduce the amount of solids, live bacteria and other constituents that would otherwise be introduced to the marine environment (Figure 2).
+Operators have experienced problems at the plant well into the second year of operation.  Microbial digestion of waste under anoxic conditions was not occurring effectively and higher than expected levels of nitrates remained in the effluent.  Dissolved oxygen levels in the aeration basin were hard to control especially during periods of peak flow such as after mealtimes.  In addition, effluent was not as clear as anticipated and solids were being released in the final effluent over clarifier weirs. 
+
+
+Figure 2. Benefits of wastewater treatment process.  Note: Biochemical Oxygen Demand (BOD) is a measurement of organic content in the water that consumes dissolved oxygen.
+
+In November of 2005, a wastewater treatment expert was brought to the station to diagnose problem areas, experiment with process improvements during a pilot study, and provide recommendations for further improvement.  Overall, the project was successful.  Some problems could be resolved while others, linked to the original design of the plant, were overcome as best possible by improved data collection and process control.  Improvements entailed a mechanical retro-fit to the anoxic basin and manually pumping lift stations up-line of the plant to prevent septic conditions from forming and affecting plant influent. 
+Resolutions implemented at McMurdo Station and shortcomings discovered in treatment design may be of interest to other programs around the continent considering changes to practices for discharging wastewater.
+Problems and Solutions
+The primary reason identified for plant problems was a design that is oversized for current hydraulic loading characteristics.  Each train was designed to operate optimally at an average of 167,000 l/day. By contrast, during the winter of 2006 the plant is supplied with 85,000 l/day.  Use of the oversized plant causes an increase in detention time for water being processed and leads to increased age for sludge, which can hinder healthy microorganism processing.  Further, due to improper sizing of the plant, the amount of organic content entering was not sufficient for microorganisms to thrive and perform in each treatment train.  Both factors were thought to contribute to outbreaks of undesired filamentous bacteria.  
+Another problem analyzed and addressed was in the anoxic basin.  Incoming wastewater to the anoxic basin was not being held long enough for processing to occur to the full extent.  Lack of adequate processing in the anoxic basin was also thought to be contributing to poor sludge settling downstream, in the clarifier. To resolve this problem, the length of time wastewater stayed in the anoxic basin was extended by directing wastewater around baffles constructed from 208-liter (55 gallon) drums. This retrofit provided a 2 meter (m) extension to the channel of water going through the basin.  
+Initial results demonstrated a 73.5% increase in total solids removal after installation.  Reductions in phosphorous and alkalinity in the final effluent were observed as well (Figure 3).  Results support the need for a more permanent retrofit to the basin.
+
+
+Figure 3. Plant performance improvements as a result of better mixing in the anoxic basin, and manually pumping at the lift stations up-line of the plant.
+
+Finally, unexpected plant upsets were suspected to be related to the use of lift stations on automatic pumping cycles.  Wastewater would sit for a length of time at a lift station before the station filled enough to prompt automatic pumping into the plant.  During this time, the wastewater developed septic conditions where levels of dissolved oxygen dropped and other chemical and biological characteristics of the influent were altered.  To overcome this problem, operators began manually pumping the lift stations periodically and began periodic disinfection to prevent septic conditions from occurring.  This change in practice appears to be having a positive effect on plant stability.  
+Lessons Learned
+Challenges in wastewater treatment have always existed but as new technologies emerge, the nature and extent of issues can be increasingly complex.  Process control often does not work as originally designed. These issues are compounded in Antarctica by a lack of nearby technical expertise that would be available in most other areas of the world. 
+With these issues in mind, ease of operation, maintenance, and process control ability could have been more fully considered in plant design at McMurdo Station.  Other issues related to flow rates into the plant and fluctuations in loading within a season (not just between summer/winter) created additional, unexpected problems.  Finally, planning for follow up technical assistance, pilot tests, and other measures after installation of a new wastewater treatment plant is recommended based on experience at McMurdo Station.  A competent and knowledgeable operational staff is also important, especially during the first two to five years of operations. 
+
+References
+McMurdo Station Waste Water Treatment Plant Assessment, Integrity Environmental, LLC, 2005.
+National Recommended Water Quality Criteria, U.S. Environmental Protection Agency, Office of Water, 2004
+40 CFR Part 122, Code of Federal Regulations, 2003 Edition.
+Operation of Wastewater Treatment Plants, Vol. 1-2, U.S. Environmental Protection Agency, Office of Water Programs, 1998
+Performance Evaluation and Troubleshooting at Municipal Wastewater Treatment Facilities, U.S. Environmental Protection Agency, Office of Water Program Operations, 1978.
+Aeration System Control, Technical Brochure, Turblex, Inc. 2004
+Ultraviolet Disinfection, Wastewater Technology Fact Sheet, U.S. Environmental Protection Agency, Office of Water Programs, 1999
+

@@ -1,0 +1,310 @@
+﻿
+
+
+
+
+
+COMNAP Report to ATCM XXX
+
+
+
+
+COMNAP Report to ATCM XXX
+
+Table of Content
+1. Introduction 
+2. Predominant Focus
+3. COMNAP activities relevant to current ATS work and concerns
+Section
+Topic
+Agenda Items
+
+
+ATCM XXX
+CEP 
+X
+3.1
+Contingency planning and emergency response
+9
+11
+3.2
+Ship Position Reporting System and liaison with Rescue Coordination Centres
+9,16
+11
+3.3
+Extension of Ship Position Reporting System into a generalised Voyage Information System
+9,11,14,16
+
+3.4
+Hydrography
+9
+11,13
+3.5
+Automatic Identification System (AIS)
+9
+
+3.6
+Medical Facilities
+9,16
+
+3.7
+Accident, Incident and Near-Miss Reporting (AINMR)
+9,16
+11
+3.8
+Best practice for energy management
+14
+15
+3.9
+Fuel handling and storage guidelines
+14
+11
+3.1
+Training resources
+14,16
+
+3.11
+Use of inspection checklists as a management tool
+12,16
+10
+3.12
+Joint operations and stations; exchange of personnel between National Programs
+14,16
+
+3.13
+Wildlife awareness manuals
+14
+8
+3.14
+Alien species / quarantine
+14
+8
+3.15
+Waste management and clean-up
+14
+12
+3.16
+Marine acoustics
+14
+8
+3.17
+COMNAP Information Centre
+14,16
+
+3.18
+Exchange of information under Resolution 6 (2001); geo-referencing
+16
+
+3.19
+Collaboration with the Antarctic Treaty Secretariat
+16
+
+3.2
+Operational publications
+14,9,16
+
+3.21
+General information publications
+16
+
+3.22
+Facilitating and promoting the distribution and use of publications
+16
+
+3.23
+Support of the International Polar Year (IPY) 2007-2008
+10
+
+4. COMNAP general activities and organisation
+5. Conclusion
+1. Introduction
+It is traditional in the Antarctic to work together and help each other, wherever you come from. In keeping with this tradition, COMNAP (the Council of Managers of National Antarctic Programs) brings together 29 National Antarctic Programs undertaking and supporting scientific and other work in Antarctica on behalf of their respective national governments.
+COMNAP provides a forum for development of practical and technical solutions for dissemination among National Antarctic Programs. Safety, increased international collaboration, environmental protection and effective Antarctic governance are among our main concerns.
+While supporting its members is its primary role, COMNAP also takes very seriously the privilege and responsibility of being a formally recognised member of the Antarctic Treaty System (ATS). It remains committed to contributing actively to the work of the ATS through provision of a range of practical, technical and non-political advice developed using members' pool of expertise. 
+This COMNAP Annual Report to the ATCM and the CEP provides an overview of COMNAP's current activities, with an added focus on their relevance to the ATS. Particular topics may also be complemented by a formal working or information paper.
+2. Predominant focus
+2.1 Objectives
+In line with its mission, and the missions of its members, COMNAP’s current predominant focus is on four often inter-related objectives:
+    • Safety
+    • Efficiency
+    • International collaboration
+    • Environmental management and protection
+2.2 Support Systems
+A significant part of COMNAP’s work includes the development and maintenance of resources and communication infrastructure to support and sustain progress towards these objectives. This includes in particular the following support systems: 
+    • Manuals, guidelines and other reference documents
+    • Communication systems to support the various COMNAP work groups
+    • Web-based “COMNAP Information Centre” to collect, manipulate and record a range of practical, dynamic information and facilitate discovery and exchange of this information
+3. COMNAP Activities relevant to current ATS work and concerns
+This section provides brief status reports on a selection of COMNAP activities relevant to current ATS work and concerns. Whenever possible, references have been included to relevant documents, agenda items or Antarctic Treaty Resolutions, Decisions or Measures. 
+Naturally, each of these activities often contributes to progress towards several of these objectives concurrently and uses a combination of support systems.
+3.1 Contingency planning and emergency response
+Safety is a very important focus and priority for National Antarctic Programs, COMNAP and the ATCM. Emergency response and contingency planning are regular topics on the agenda of the ATCMs and of the meetings of CEP. In 2006 ATCM XXIX and CEP IX included a number of questions and discussions on that topic, in particular around Working Paper ATCM XIX-WP017.   
+COMNAP prepared an up-to-date overview on Contingency Planning and Emergency Response in the Antarctic, presented in Information Paper ATCM XXX-IP099. 
+IP099 confirms the value and effectiveness of the current systems based on good planning, sound use of risk management processes and effective contingency planning and on the collaboration between and with the five Rescue Coordination Centres (RCCs) which under international agreements cover the Antarctic region. 
+The paper also highlights the limited availability of assets for rescue of third parties, with the exception of the Joint Antarctic Naval Patrol (Patrulla Antártica Naval Combinada) of the Argentine and Chilean Navies in the Antarctic Peninsula region.      
+For further information: ATCMXXX-IP099 Contingency Planning and Emergency Response
+3.2 Ship Position Reporting System and liaison with Rescue Coordination Centres
+The COMNAP Ship Position Reporting System (SPRS) has been operational since 2001. It is an optional, voluntary system for exchange of information about National Program ship operations and capabilities. Its primary purpose is to facilitate collaboration between National Programs.
+The SPRS cannot, and does not, constitute an operational alert and rescue system on which vessels should count in case of emergency. However it can make a very useful contribution to safety with all SPRS information made available to the 5 Rescue Coordination Centres (RCCs) which cover the Antarctic region, as an additional source of information complementing all other national and international systems in place. 
+The SPRS has been the subject of a significant overhaul in early 2007 and a range of new SPRS information products will be automatically pushed out to the 5 RCCs from the 2007/2008 Antarctic season. 
+3.3 Extension of Ship Position Reporting System into a generalised Voyage Information System
+The Ship Position Reporting System (SPRS) is currently being extended into a generalised Voyage Information System (VIS). The VIS will cover all kinds of voyages – sea but also air and land voyages. It will include advance information on future schedules and will be dynamically linked to information on the capability of relevant vessels, aircraft or tractor trains. It will also include a mapping interface and the capability to create reports. 
+An interface will be developed to exchange information between the COMNAP VIS and the IAATO schedule and position systems so that both groups can integrate each other information.
+The VIS will be an integral part of the new COMNAP Information Centre and, as such, will be able to exchange data as appropriate with the Antarctic Treaty Secretariat’s Electronic Information Exchange Systems (EIES). This means for example that any advance vessel, aircraft or traverse schedules entered on the VIS will not need to be re-entered on the Treaty’s EIES in the pre-season section - it will be possible to just fetch that information from the COMNAP VIS.
+The VIS will also become proactive and interactive. Instead of just receiving and storing information, it will send back a range of information to participating Programs, including tailored products (eg list of maps and contact details of RCCs covering the zone a vessel is scheduled to navigate through) and will also respond to requests for information (eg email back on request an up-to-date list of contact details or a list of all schedules available). 
+This will increase the potential for collaboration between National Programs but will also greatly enhance the quantity and quality of additional information that can be pushed out to the 5 RCCS for increased safety.
+The VIS is being designed to provide significant value-added services and become a very valuable asset to participants. It is worth noting that once this becomes a reality, offering use of the system to any non-governmental expedition could provide an effective means of obtaining information about these expeditions and knowing where they intend to travel and where they are - this could contribute to safety and promote and facilitate compliance.  
+3.4 Hydrography
+Hydrography is essential to safety - safety of life at sea and protection of the marine environment. For the Antarctic it is coordinated by the International Hydrographic Organisation (IHO) Hydrographic Committee on Antarctica (HCA), to which COMNAP contributes actively as an observer. COMNAP has prepared Information Paper ATCMXXX-IP050 International Coordination of Hydrography in Antarctica: Significance to Safety of Antarctic Ship Operations.  
+This paper highlights the need for more, and better coordinated, hydrographic and charting work in the Antarctic region.
+A large proportion of Antarctic waters still remain to be adequately surveyed to meet the needs of contemporary shipping entering Antarctic waters. Whilst there have been relatively few accidents in the region, there is an increas in the number and size of vessels deploying into the region and pushing into seas where hydrographic surveys and charting are inadequate to support their safe operation.
+Hydrographic activity is expensive and assets are scarce. Coordination of international effort is of the utmost importance. There is an urgent need to uphold, and where necessary clarify, responsibilities of both government and private sector operators.  
+For further information:  ATCMXXX-IP050 International Coordination of Hydrography in Antarctica: Significance to Safety of Antarctic Ship Operations
+3.5 Automatic Identification System(AIS)
+The Automatic Identification System (AIS) is a standard, international system developed for short range automatic identification of vessels. Information transmitted includes ship name, type, course, speed and other relevant safety information. The AIS has potential applications in Antarctica for crafts and other vehicles, in particular in areas where several nations operate, for increased safety.
+Uruguay reported at ATCM XXIX in Working Paper ATCMXXIX-WP006 on initial trials by the Uruguayan Antarctic Program of the use of AIS to track crafts and vehicles around its station. COMNAP agreed to work with Uruguay to build upon this work.
+The COMNAP Safety Working Group has been working with Uruguay to analyse the potential, advantages and disadvantages of the system and discuss potential applications. Four National Programs have indicated an interest in participating in trials or in coordinated AIS networks.
+This is a work in progress on which the ATCM will be kept informed.   
+3.6 Medical Facilities
+The COMNAP Antarctic Medical Officers Network (MEDINET) has been working on the establishment of a database of National Program Medical Capabilities, including details of facilities, equipment and staffing available. 
+This will facilitate access to information on medical capabilities available, as an additional layer of information available to doctors in case of emergency, for increased safety.
+This is in the final stages of development and will be integrated into the COMNAP Information Centre. As such it will be also connected to the new Voyage Information System (for better access to relevant medical and medical evacuation information) and to the Antarctic Treaty's EIES (to export medical information components of Treaty information exchange requirements).
+3.7 Accident, Incident and Near-Miss Reporting (AINMR)
+The COMNAP Environmental Incident Reporting System (EIRS) is in the process of being extended into a general Accident, Incident and Near-Miss Reporting system (AINMR) that will integrate with the new COMNAP Information Centre. Requirements and objectives of the system were outlined in COMNAP’s report to ATCM XXIX.
+The design of the AINMR and its integration into the COMNAP Information Centre are being finalised.
+For  further information: COMNAP Report to ATCM XXIX, section 3.9
+3.8 Best practice for energy management
+COMNAP has had for many years a work group focused on energy management that continually looks at ways of recording and reducing the use of energy to support activities in Antarctica. This group has over the years developed a number of energy management principles that are generally adopted by national operators. There is a significant recognition amongst operators that energy saving is essential to reduce environmental impact and the cost of purchasing fuel.
+COMNAP is presenting these energy management guiding principles to CEPX in Working Paper ATCMXXX-WP035. The paper invites the CEP to consider recognising, endorsing and adopting these guiding principles.
+For further information: ATCMXXX-WP035 Best practice for energy management: guidance and recommendations. 
+3.9 Fuel handling and storage guidelines
+Following discussions at CEP VIII, COMNAP reviewed in 2005/2006 its set of fuel handling and storage guidelines. 
+It was agreed that while the text of the guidelines required only relatively minor amendments there was a need to rejuvenate the guidelines with graphics, actual examples, associated brochures and posters and give them a higher profile. 
+A way forward has been formulated and a revised text drafted. Production of a new, comprehensive Fuel Manual is scheduled for 2007/2008. 
+For  further information: COMNAP Report to ATCM XXIX, section 3.7
+3.10 Training resources
+The COMNAP Training Officers Network (TRAINET) is the COMNAP work group dealing with the training of National Program staff for deployment to Antarctica. TRAINET convened in July 2006 in Hobart and identified a number of needs for exchange and availability of training resources. 
+Work is under way on two main tasks:
+    • Development of an archive/database of training related material used by member Programs - this will cover a range of material from course syllabus, standard operating procedures and training regulations and policies, in various languages
+    • Development of a glossary of terms commonly used in training Antarctic personnel - to facilitate understanding, use and reuse of training material and to facilitate participation of personnel in joint training initiatives 
+Discussions are also under way on the value and possibility of producing model elements for a field manual, to assist individual Programs with development of their own Program-specific manuals.
+3.11 Use of inspection checklists as a management tool
+The new COMNAP Information Centre under development will integrate operational information listed in inspection checklists. A management tool based around inspection checklists will then be implemented as indicated in COMNAP’s report to ATCM XXIX:   
+The system will include specific functionality to support the use of inspection checklists as a management tool. It will facilitate the process of conducting audits, building audit reports and analysing these reports. The system will allow generation of actual checklist forms with tick-boxes and with boxes for text comment against individual portions of the information. Initially this may be restricted to static forms that one can print and take away on an audit or formal inspection. Later this will include forms that can be filled online, with the capability to attach external information such as images or documents. It will be possible to aggregate into one report a number of separate audits of the same facility that one has access to. The user filling the form will have the prerogative to decide who can later view the audit report – clear understanding and control of who can view reports being essential to supporting use of the system as an effective management tool at different levels, from internal audits to joint National Programs audits to formal Treaty inspections. 
+The ATS will be kept informed on progress, and close collaboration will be maintained with the Antarctic Treaty Secretariat to avoid duplication and ensure that the same information does not have to be entered twice in two different systems. 
+For  further information: COMNAP Report to ATCM XXIX, section 3.11
+
+3.12 Joint operations and stations; exchange of personnel between National Programs
+COMNAP remains committed to facilitating and promoting collaboration between National Programs and joint activities when possible. This is one of COMNAP's main missions. 
+The new COMNAP Information Centre will not only facilitate collaboration and joint operations (for example by improving exchange and discovery about advance plans and schedules) it will also facilitate the identification of reporting of collaborations and joint operations and stations.
+Two other 'routine' projects which support the development of joint operations can be noted:
+    • the ongoing work by the COMNAP Medical Officers Network (MEDINET) on common standards for medical screening for the interchange of personnel between National Antarctic Programs; and
+    • the current work by the COMNAP Training Officers Network (TRAINET) on Joint Training Initiatives, the objectives of which include increasing the potential for, and facilitating, the exchange of personnel between National Programs and the development of joint or coordinated operations.
+For  further information: COMNAP Report to ATCM XXIX, section 3.12
+3.13 Wildlife awareness manuals
+The UK presented to CEP IX through ATCMXXIX-WP003 the excellent “Wildlife Awareness Manual” it had prepared. The manual provides practical information on breeding wildlife colony locations for those operating aircraft within the Antarctic Peninsula. The CEP requested COMNAP to consider:
+    • options for providing readily accessible information about the location of wildlife concentrations for all areas of Antarctica in which aircraft operations may take place;
+    • options for how such information could be best presented to aircrew for both fixed and rotating wing aircraft; and
+    • the practicalities of how such a product might be best developed and updated.
+The COMNAP environmental group has started addressing this. It has identified and acknowledged a number of similar guidelines produced by other nations for other areas. COMNAP is in the process of ascertaining what other wildlife awareness manuals exist around the continent and will encourage National Programs to develop partnerships to fill gaps in the coverage of the continent.  
+3.14 Alien species / quarantine
+COMNAP discussed at its 2006 meeting how it could respond to the emerging issues of quarantine and non-native species. It was noted that prevention was better than cure and that the current key issue was to raise awareness and reduce risk of introductions.
+The COMNAP Antarctic Environmental Officers Network (AEON) is undertaking a survey on National Programs procedures concerning introduction of non-native species and will report its finding at the July 2007 COMNAP meeting. AEON is also liaising with the organisers of “Aliens in Antarctica”, a project to research ship based vectors of seeds and spores carried on clothing of visitors to Antarctica, to facilitate collaboration with, and support of, the project by individual National Programs.
+COMNAP will also be participating in the development of codes of conducts for scientific field work in Antarctica. 
+A special session of the 2007 COMNAP Annual General Meeting will be dedicated to the topic of alien species and quarantine.    
+3.15 Waste management and clean-up
+The COMNAP Antarctic Environment Officers Network (AEON) conducted, in conjunction with the 2006 COMNAP Annual General Meeting, a Workshop: Waste Management in Antarctica. The outcomes of the workshop are presented to CEP X in Information Paper ATCMXXX-IP098. 
+The focus of the two day workshop was to share practical information on waste management in Antarctica, and more specifically on current waste management practices and clean up of old waste. 
+This was the first time since the Madrid Protocol was signed in 1991 that the issue of waste management in Antarctica had been specifically tackled at international level. The workshop therefore provided a welcome opportunity to exchange practical experience on a wide range of environmental, operational and cultural issues concerned with waste management in Antarctica. 
+AEON and COMNAP recognise the importance of implementing sound waste management procedures and this workshop constituted a significant step up in the ongoing flow of information on these issues among National Antarctic Programs. 
+The workshop offered an invaluable opportunity to bring waste management officers together, and will encourage the implementation of alternative, creative and/or likely joint initiatives among National Antarctic Programs on these matters. 
+The Proceedings of the workshop have been published and copies will be made available at CEP X.
+COMNAP agreed to plan for another AEON workshop on a practical environmental issue as part of COMNAP XX in 2008, on a topic to be defined in 2007 at COMNAP XIX. 
+The results of this workshop and flow-on actions will gradually favour new standards, conditions, techniques and/or procedures and scenarios for waste management on the continent, and make a significant contribution towards the enhancement of the Antarctic environment for the future.
+For further information:  ATCMXXX-IP098 COMNAP's 2006 Workshop on Waste Management in Antarctica
+3.16 Marine acoustics
+CEP X discussed Working Paper ATCMXXIX-WP041 SCAR Report on Marine Acoustics and the Southern Ocean which included seven recommendations. Aspects of some of these recommendations correspond to work COMNAP can help with and COMNAP agreed to do so over time. These aspects include the need to describe the background noise in the Southern Ocean, construct a noise map from ships tracks and marine geophysics data, and better coordination to reduce duplication
+As outlined in various sections of this report, work is underway on a number of initiatives that will support progress on these recommendations. In particular, the Voyage Information System (VIS) and its integration with the COMNAP Information Centre and associated links to ship capability information will support the collection of ship tracks, of information collected from ships and further improve coordination between Programs to further reduce duplication.  
+3.17 COMNAP Information Centre
+A new web-based “COMNAP Information Centre” is under development. 
+It will include a repository of documents such as reports, guidelines or manuals and a range of dynamic information on National Program capabilities and activities: facilities, operational and research support capabilities, voyage schedule and tracking, incident reports and lessons learned, etc.. 
+Importantly, it will provide a framework to collect, manage, manipulate and explore this information. The primary objective is to facilitate exchange of relevant information between National Programs with a view to facilitating partnerships, increasing efficiencies and, very importantly, increase our capability to support new or smaller Programs. 
+An important requirement and characteristics of the COMNAP Information Centre will be its capabilities to exchange information with other systems as appropriate. In particular it will allow export to the Antarctic Treaty’s Electronic Information Exchange System (EIES) of those portions of information included in Treaty information exchange requirements.  
+In practice, it should mean that any information entered by a National Program into the COMNAP Information Centre should NEVER need to be manually re-entered in the Antarctic Treaty systems or in the systems used by that National Program;
+3.18 Exchange of information under Resolution 6 (2001); geo-referencing
+Under instructions from the ATCM, the Antarctic Treaty Secretariat is developing an electronic information exchange system. This system is intended to support exchange of information under current Treaty requirements, corresponding chiefly to those requirements spelled out in Resolution 6 (2001).
+While the information exchanged within COMNAP is more directly connected with program requirements in the fields of logistics, transportation, communications, safety and health, it does proceed from the same basic data reported under the Treaty System.  The Electronic Information Exchange Systems developed and maintained respectively by the Antarctic Treaty and by COMNAP, while serving very different functions, do overlap to a considerable extent.
+These systems should be coordinated wherever possible, so that they will be able to exchange information between each other as appropriate, in particular to avoid duplication of data entry and to ensure consistency of information across systems. COMNAP and the Antarctic Treaty Secretariat continue to work closely together towards this. 
+This does however require effective, unambiguous and consistent geo-referencing of the information, and we are  now at a stage of development where we need to confirm how we will achieve this. 
+COMNAP has prepared ATCMXXX-WP042 Antarctic Information Exchange: Importance of Unambiguous and Consistent Geo-referencing. It argues that this geo-referencing is best achieved through associating information directly with relevant Antarctic geographic and administrative features whenever applicable, and by identifying each feature with a persistent, unique Antarctic identifier (AQ-UID). This is essential for any geographic information system if countries are to share data
+This requires the use of two non-overlapping lists, one master list of administrative features (eg stations, refuges, airfields, visitor sites or ASPAs) and one master list of geographic features (eg islands, capes, coves, mountains or lands).  
+The list of administrative features would be an ATS master list maintained as appropriate by the Antarctic Treaty Secretariat and Parties. 
+The list of geographic features would need to be based on the existing Feature Catalogue and Composite Gazetteer of Antarctica, compiled exclusively from official national gazetteers over the last 15 years by successive SCAR geographic information groups to provide a sound basis for a master list of geographic features.    
+A clear, appropriate process would be put in place to manage the combined lists and allow Parties to view, check and provide corrections for those names assigned by their own national naming authorities. 
+This would provide for a more effective exchange of Antarctic information and better input into management decision processes – with benefits in many areas including safety of life, international collaboration or environmental management.
+WP042  recommends that the ATCM recognise the need for an unambiguous and consistent geo-referencing of Antarctic Exchange Information and support implementation of the preferred method: identifying each Antarctic administrative or geographic feature by a persistent, unique Antarctic identifier (AQ-UID).  
+For further information: ATCMXXX-WP042 Antarctic Information Exchange: Importance of Unambiguous and Consistent Geo-referencing
+3.19 Collaboration with the Antarctic Treaty Secretariat
+COMNAP has established through its secretariat a good working relationship with the Antarctic Treaty Secretariat and a number of ad-hoc meetings and informal workshops have been held between members of the two secretariats in the last three years. 
+COMNAP looks forward to its secretariat maintaining a long-standing, productive relationship with the Treaty Secretariat, when and as appropriate, to better support their respective memberships and the Antarctic Treaty System.
+3.20 Operational publications 
+COMNAP publishes a number of operational publications in support of Antarctic operations, in particular in support of safety and best environmental practice. This includes a number of operational guidelines and workshop reports. 
+COMNAP publishes and regularly updates the Antarctic Flight Information Manual (AFIM) as a tool towards safe air operations in Antarctica as per ATCM Recommendation XV-20. It contains exhaustive information on Antarctic airfields and on procedures to contact and access these airfields. Migration to the AFIM to an online publication is under consideration.
+A comprehensive fuel handling and storage manual is in preparation, and development of model elements for a field manual is under consideration. 
+3.21 General information publications
+COMNAP is also publishing some general interest information about COMNAP's activities and National Programs' installations and logistics. 
+It includes a number of mapping products, in both printed and online form. Some ‘layers’ of information for overlaying on maps and satellite imagery are also under trial.
+The commissioning of the new COMNAP Information Centre will allow provision of richer and more dynamic information products. 
+For  further information: COMNAP Report to ATCM XXIX, section 3.18
+3.22 Facilitating and promoting the distribution and use of publications
+COMNAP continues, as reported in previous years, to research and test ways of facilitating and promoting the distribution and use of its publications and information. In particular, it includes considerations of alternative licences such as the Creative Commons Attribution Share-Alike licence which promotes the distribution and re-use of work while protecting the rights of all contributors. 
+3.23 Support of the International Polar Year (IPY) 2007-2008
+COMNAP member National Antarctic Programs provide a significant contribution to the support of National and International IPY projects in the Antarctic, in particular through their national IPY committees. The normal processes in place whereby scientists deal with their respective National Program, and National Programs work with each other as appropriate, continue to work well, including for multinational IPY projects. 
+COMNAP is clearly contributing to that success through the provision of a forum in which National Program managers can coordinate their support of international projects as required.
+COMNAP however continues to stand ready to help facilitate support solutions between national operators, when that cannot be achieved through the normal collaboration processes in place. 
+4. COMNAP general activities and organisation
+4.1 COMNAP meetings and events 
+‘COMNAP XVIII’, the 2006 Annual General Meeting (AGM), was held from 09 to 14 July 2006 in Hobart, Tasmania, Australia, where COMNAP had been formally founded 18 years earlier and where its secretariat has been based since 1997. It was hosted by the COMNAP member for Australia, the Australian Antarctic Division and included:
+    • one and a half days of plenary sessions;
+    • one and a half days of parallel meetings of COMNAP's various work groups - committees, working groups, coordinating groups and networks;
+    • a one-day workshop of the COMNAP Training Officers Network (TRAINET), focused on Joint Training Initiatives;
+    • a two-day workshop of the COMNAP Antarctic Environmental Officers Network (AEON), focused on waste management and on clean up of old waste;
+    • a very successful and well attended one-day Symposium on Antarctic Logistics and Operations
+The Symposium, titled “Going forward together, safely and efficiently” focused on safety and on new technologies and directions for stations, vessels and other infrastructures and for energy reduction. It included two successful and constructive keynote addresses – one on crisis management and one on the peak oil theory and potential implications for National Programs.
+Three group officers ended their term at the meeting after several years of valuable service to COMNAP:
+    • Jorge Berguño of the Chilean National Program on the COMNAP Executive Committee;
+    • Lou Sanson of the New Zealand Program as Chair of the COMNAP Environmental Coordinating Group (ECG); and
+    • Jan Stel of the Netherlands Program as coordinator of the COMNAP Information Officers Network (INFONET). 
+and were succeeded by: 
+    • Christo Pimpirev of the Bulgarian Program, elected on the COMNAP Executive Committee;
+    • Yves Frenot of the French Program, new Chair of the the COMNAP Environmental Coordinating Group (ECG); and
+    • Emma Reid of the New Zealand Program, new coordinator of the COMNAP Information Officers Network (INFONET). 
+In addition, José Retamales of the Chilean Program was elected next Chair of COMNAP and will succeed to current Chair Gérard Jugie this July 2007. 
+A number of intersessional meetings were held, including
+    • a meeting of those COMNAP members attending the 2006 ATCM in Edinburgh, UK, in June 2006; and 
+    • a two-day meeting of the COMNAP Executive Committee near Pretoria, South Africa, in October 2006 to finalise the conclusions and results of the 2006 Annual General Meeting and the work plan for 2006/2007. 
+The 2007 AGM, COMNAP XIX, will be held from 09 to 13 July 2007 in Washington DC, USA. The meeting will be hosted by the COMNAP member for the USA, the US National Science Foundation's Office of Polar Programs. It will include:
+    • one and a half days of plenary sessions;
+    • two days of parallel meetings of the various COMNAP work groups;
+    • a number of special sessions on topical issues.
+
+4.2 COMNAP IT support infrastructure 
+COMNAP has continued to progress the re-development of its IT support infrastructure, following the principles and directions outlined last year in COMNAP's report to ATCM XXIX (section 4.2).
+Most of these developments are described in several previous sections of this report. As shown, these have a strong focus on supporting safety, facilitating collaboration between Programs and on reducing duplication by interfacing as appropriate with the Antarctic Treaty's Electronic Information Exchange System (EIES).   
+4.3 COMNAP Secretariat operation 
+The COMNAP Secretariat operates from an office located in Hobart, Tasmania, Australia. It is provided at no charge by the secretariat’s supporting organisation, the Tasmanian State Government through its office of Antarctic affairs ‘Antarctic Tasmania’. This invaluable support has now been provided since 1997 and the current support agreement runs until September 2009. The free support provided by Antarctic Tasmania includes a range of office equipment and administrative support, notably through accounting and auditing services.  Another new and extremely valuable support provided is the employment of the COMNAP Executive Secretary by the State of Tasmania on a cost recovery basis. While the COMNAP Executive Secretary still reports directly and exclusively to the COMNAP Chair, he his technically an employee of the Tasmanian State Service, with all the additional protection and support it does entail.
+COMNAP is very thankful to the Tasmanian State Government for its continued and increased support which allow its secretariat to operate very efficiently and in a quality, supportive environment.
+4.4 Member participation, capacity building and secondments 
+Starting in Sofia, Bulgaria in July 2005 at COMNAP XVII, COMNAP has rolled out a number of procedures to facilitate member participation in meetings and intersessional group work, especially for members that do not routinely use English as a working language. COMNAP cannot properly achieve its goals if a number of members cannot adequately participate to the debates and contribute their valuable skills, experience and views. Significant progress has been made and the successful procedures are being fine-tuned and incorporated in updated COMNAP work processes.  
+Capacity building between National Programs is already implicit within COMNAP objectives and terms of reference and is embedded in the structure and procedures of the organisation. Increased member participation as described above will also contribute to improve capacity building, as will the new IT support infrastructure. 
+Another new initiative is the secondment of member Program staff to the COMNAP Secretariat to work on projects beneficial to COMNAP and the National Program community.  The focus will be on allowing significant progress on specific COMNAP projects while providing beneficial training and capacity building opportunities to member staff. 
+5. Conclusion 
+COMNAP remains committed to supporting the Antarctic Treaty System. 
+COMNAP and its members continue to work together and help each other to place all National Antarctic Programs in the best possible position to undertake and support scientific and other work in Antarctica on behalf of their respective national governments – safely, efficiently and in the most environmentally responsible manner. 
+ Appendices
+Appendix 1: 
+Main Antarctic facilities operated by the National Antarctic Programs in 2007 in the Antarctic Treaty Area (South of 60 degrees latitude South) 
+Appendix 2: 
+COMNAP work groups 2006/2007
+
+

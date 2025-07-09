@@ -1,0 +1,54 @@
+﻿
+
+
+
+
+
+Supporting the regional-scale analysis of Antarctica: A tool to enable broader-scale environmental management
+
+
+
+
+
+
+
+
+Supporting the analysis of environments and impacts: A tool to enable broader-scale environmental management
+Information Paper submitted by New Zealand
+Summary
+This paper provides an update on a New Zealand research project that is developing a tool to understand and minimise environmental impacts when assessing the planning, permitting, and implementation of Antarctic activities. The tool will allow overlaying and querying of spatial data including environmental variables and human activity, and has been designed to be applied to any part of the Antarctic continent. The tool is based on the established principle of a ‘spatial decision support system’ (SDSS), which is an interactive approach that provides evidence to support management using analysis of spatially explicit data. Members are invited to continue to be involved in the development of this tool and we welcome CEP representatives who are attending the upcoming POLAR2018 conference (which includes the SCAR Open Science Conference) to attend a workshop to showcase the tool and its use.
+Background
+The Antarctic terrestrial environment faces environmental pressures including: increasing human activity; accelerating climate change; and the introduction of non-native species1. Article 3 of the Protocol on Environmental Protection to the Antarctic Treaty highlights the environmental principles which the Committee aims to enact, through its leadership on monitoring, minimising, or mitigating environmental pressures in Antarctica, established in Articles 12.1.(e) and 12.1.(j).  In addition, the Committee’s Climate Change Response Work Programme2 highlights that there is a need to consider and develop a broader scale approach to environmental management in Antarctica. 
+A 4-year New Zealand research programme, led by Landcare Research, is developing a web-based tool to support broader scale environmental management, in accordance with the Environmental Principles of the Protocol. This management tool will facilitate regional scale assessments of activities and impacts while allowing variations in environments to be more readily accounted for in assessments. 
+The tool will fill a gap in the suite of management tools available to Parties, and will provide context for Parties to undertake informed decision-making of the planning, permitting, and implementation stages of activities. This will also assist Parties in limiting and quantifying adverse impacts on the Antarctic environment. The tool will allow overlaying of spatial data on environmental variables (climate, soils, geology, water)  and human activity data across broad scales, and has been designed to be applied to any part of the Antarctic continent (dependant on available data). 
+IP53 presented at CEP XIX (2016)3 provided an update on the first steps towards developing the tool to enable policy makers to visualise and query data to support environmental decision making at a regional scale in Antarctica. IP76 presented at CEP XX (2017) 4 provided an update on progress made, and feedback received, in relation to this web-based tool.
+Potential uses of the tool
+How the users interact with the tool will be framed around key questions a typical user will have that would be improved by additional contextual environmental information to assist their decision making. Key examples of these would be: 
+    • Investigating a non-native species incursion and the likelihood of continued incursions in areas based on current and future climate as well as current and predicted future human activity. This would occur through graphs and tabular data as shown in the screenshots below (Figure 1 as an example). 
+    • The comparison of multiple sites for future activities or to provide a set of baseline environmental data to support area protection (Figures 2 as an example). 
+    • Supporting CEP Members to undertake Environmental Impact Assessments of their activities in context with regional scale environmental patterns and data. This is particularly relevant to the Protocol requirement to “take full account of …the cumulative impacts of the activity [being assessed] …in combination with other activities in the Antarctic Treaty area” in Article 3.2(c). 
+Tool development
+Using feedback from a workshop held at the 2016 SCAR Open Science Conference, we developed a tool that will form the basis of the Antarctic Regional-scale Environmental Decision Support System. This tool is built using open source software and will be available to use and access from any web browser. A ‘beta’ version of the tool will be shown to key interested parties at the upcoming SCAR Open Science Conference. Within the tool will be a range of data that informs the user about a range of environmental pressures on the part of Antarctica that we have data for (in this case the Ross Sea Region). Key layers that will be within the tool (when launched) are: land surface temperature changes for the last 15 years for the entire Antarctic continent; Regional scale climate analyses for the Ross Sea Region out to 2100 using the high-end ‘business as usual’ (IPCC RCP 8.5) climate scenario; Human activity patterns for the last 15 years within the Ross Sea region; Soil and Geological information for all ice-free areas in the Ross Sea region with the identification of areas of risk based on ‘recoverability’, strength, and age of the ice-free surface; and hotspots of biological activity across the region. New data layers which provide context on other environmental attributes will be able to be added (with clear attribution to the country and scientists who develop these layers) in the future.
+Currently, three types of analyses are able to be utilised to query the data at any point within the terrestrial Ross Sea region area: a point query; comparison between two point queries; and exploring the data along a transect. Screenshots of these types of queries are shown below (Figures 1 to 3 respectively) using the land-surface temperature data as an example. If CEP members would like more information we welcome them to contact the New Zealand delegation for a demonstration at a later date. 
+Figure 1. A single location point query:
+
+
+Figure 2. A dual location point query:
+
+
+Figure 3. A transect query:
+
+Engagement
+As outlined in previous IPs, New Zealand welcomes engagement, feedback and ideas from interested Members. If you wish to receive updates on the project, please email morganf@landcareresearch.co.nz to indicate your interest. We will present a ‘beta’ version of the tool for discussion at the upcoming SCAR Open Science Conference, but would be happy to show the tool with those interested before then.
+Timeline
+    • CEP XIX (2016): Information Paper outlining the intention to develop a regional scale tool to support regional-scale environmental management in Antarctica. Invitation to CEP Members to be involved in a workshop held in the margins of the SCAR Open Science Conference in Kuala Lumpur.
+    • CEP XX (2017): Information Paper discussing the workshop and the key questions that arose from the workshop. Outlined that the development of the regional-scale tool has commenced.
+    • CEP XXI (2018): Presentation of an Information Paper that discusses the development of the tool and how the tool can be used to support regional-scale environmental management in Antarctica. We will invite feedback from CEP Members to ensure that the tool is fit-for-purpose at the upcoming SCAR Open Science Conference in Davos in June 2018.
+    • Planned for CEP XII (2019): Presentation of a Working Paper highlighting the feedback received and presenting the framework and tool implemented for the Ross Sea region of Antarctica for use by all CEP Members.
+Next Steps
+The authors invite Members to:
+    1. Attend the upcoming workshop on the tool at the upcoming SCAR Open Science Conference in Davos in June 2018, to provide feedback on the tool but also to learn how to use it.
+    2. Note the continued development of a regional-scale tool to support and improve environmental decision-making and a broader assessment of environmental impacts in Antarctica;
+    3. To continue to communicate suggestions, questions, and comments about the tool to the New Zealand delegation to ensure the tool is fit-for-purpose; 
+    4. Continue to support the open sharing of monitoring and scientific data for inclusion in tools, such as this one, to improve the information that is used by the CEP Members to make informed environmental decisions for the Antarctic Continent.
+

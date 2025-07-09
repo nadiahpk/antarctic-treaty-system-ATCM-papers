@@ -1,0 +1,267 @@
+Further Plans of the Year of Polar Prediction in the Southern
+Hemisphere (YOPP-SH) and Completion of the Polar Prediction
+Project
+Further Plans of the Year of Polar Prediction in the Southern
+Hemisphere (YOPP-SH) and Completion of the Polar Prediction
+Project
+Summary
+This IP summarises recent activities undertaken in the Antarctic
+region as part of the World Weather Research Programme (WWRP)
+of the World Meteorological Organization's (WMO) Polar Prediction
+Project (PPP).
+PPP formally concluded on 31 December 2022 but activities in
+three key areas (Year of Polar Prediction in the Southern
+Hemisphere (YOPP-SH), the Model Intercomparison and
+Improvement Project (MIIP) and the PPP Societal and
+Environmental Research Applications group (PPP-SERA)) will
+continue during 2023. The WWRP is finalising approvals for a
+follow-on project currently known as the Polar Coupled Analysis
+and Prediction Services which is expected to commence in 2024.
+Introduction
+PPP coordinated international research with the main goal of
+significantly improving weather and sea-ice prediction capabilities
+in the polar regions, on time scales from hours to seasonal. It is part
+of the World Weather Research Programme (WWRP) of WMO, with
+close links to its sister programme, the WMO/IOC-UNESCO/ISC
+World Climate Research Programme (WCRP). SCAR has been a
+partner and supportive of PPP activities over the last ten years.
+The YOPP included Special Observing Periods (SOP) and Targeted
+Observing Periods (TOPS) in the Arctic and Antarctic to increase
+the number of atmospheric and oceanographic observations. Extra
+radiosondes were launched from polar meteorological stations, and
+additional buoys were deployed from research vessels. The
+additional data enables improved representation of polar key
+processes in uncoupled and coupled models used for high-quality
+prediction in polar regions.
+Winter Antarctic Special Observing Period (SOP) in 2022
+The second YOPP-SH SOP from mid-April to the end of August 2022
+coincided with the rapid expansion of the Antarctic sea-ice cover.
+The goal of this winter SOP was to improve forecast capabilities
+during the non-summer months as nations contemplate expanding
+to year-round scientific field investigations. In recognition of
+limited personnel and resources at this time of year, the TOP
+approach was adopted and included seven intensive observing
+periods during the overall structure of the SOP, each ranging from 5
+to 10 days in duration.
+Four of these TOPS were Pan-Antarctic and three were regional
+TOPS, with two focused on the East Antarctica/Ross Sea and one on
+the Antarctic Peninsula. The scientific focus was on major oceanic
+cyclones, atmospheric rivers and related events. The primary
+additional observations were extra radiosonde ascents (totalling
+1100 during the 7 TOPS, see Fig. 1) although additional
+instrumentation was added at many
+stations, particularly in the Antarctic Peninsula to aid in the
+investigation of the atmospheric-river events.
+A manuscript for the Bulletin of the American Meteorological
+Society is being prepared that describes the TOPS. With support
+from the U.S. National Science Foundation, The Ohio State
+University and the National Center for Atmospheric Research are
+performing data-denial experiments with the Antarctic Mesoscale
+Prediction System (AMPS) to explore the forecast improvement
+resulting from the extra radiosondes launched during the TOPS. In
+addition, more advanced data assimilation is being tested in the
+AMPS system, and the best microphysics scheme to capture the
+atmospheric river events is under investigation.
+Sea-ice prediction in the Antarctic
+One of the flagship activities of YOPP-SH is the Sea Ice Prediction
+Network South (SIPN South), which was initiated in 2017 and has
+run without interruption since then. SIPN South was launched due
+to the increasing need for sea-ice information in the Southern
+Ocean, the existence of predictability mechanisms for summer sea
+ice recently suggested in the scientific literature, and the lack of
+knowledge regarding the skill of state-of-the-art operational
+forecasts at the seasonal time scale.
+In the five years, SIPN South received more than 3000 forecasts of
+sea-ice area and concentrations from 21 unique groups representing
+five continents, many of which were ensembles. Forecasts
+conducted for the 2022-2023 summer season (Figure 2) are
+currently being analysed but the early results shown below reveal a
+continued overestimate of Antarctic sea-ice area, at least at the
+beginning of the forecast period. Notably, the minimum extent
+during February 2023 was a record low for the satellite era that
+started in 1979 (https://nsidc.org/news-analyses/news-stories/
+antarctic-sea-ice-settles-record-low-2023). A scientific paper
+(Massonnet et al. 2023) describes the skill of contemporary
+dynamical models and statistical models in predicting summer
+Antarctic sea ice at the global and regional scales. SIPN South will
+continue for the next few years, and a pending evaluation of model
+predictions during the sea-ice growth season was conducted during
+the SOP of May-August 2022 that had the embedded TOPs.
+Figure 1. Stations (red dots) releasing extra radiosondes during the
+YOPP-SH winter Targeted Observing Periods in 2022. Numbers
+given for each station explained at bottom left of the figure.
+Figure 2: Forecasts of total Antarctic sea-ice area for the 2022-2023
+melting season (submitted before 1st December 2022) contributed
+by 17 groups. Verifying observations are in black.
+YOPP-SH TOP Outreach
+Facebook, Twitter and Instagram social media sites were established
+and maintained by the Polar Meteorology Group of the Byrd Polar
+and Climate Research Center at Ohio State University during the
+TOPS. Videos and pictures obtained from the participants in the
+TOPS at the research stations were regularly posted:
+https://www.facebook.com/YOPPSHOSUPolar?ref=page_internal
+https://mobile.twitter.com/YOPPSHOSUPolar
+https://www.instagram.com/yoppshosu/
+A video publicizing the TOPS was prepared by the Byrd Polar and
+Climate Research Center and is available here: https://
+vimeo.com/784878087
+YOPP-SH Data Archival
+With funding provided by the U.S. National Science Foundation, the
+Antarctic Meteorological Research and Data Center (AMRDC) is the
+official data center for YOPP-SH. All YOPP-SH data sets it holds can
+be found here: https://amrdcdata.ssec.wisc.edu/group/year-of-
+polar-prediction-in-the-southern-hemisphere. These include the
+radiosonde observations from the winter TOPS and all data sets
+have digital object identifier (doi) numbers.
+Meetings
+YOPP-SH Community
+The seventh YOPP-SH meeting was a hybrid meeting held on 6
+August 2022 at the Pyle Centre at the University of Wisconsin,
+Madison. The meeting was organized by the Byrd Polar and Climate
+Research Center and was aligned with the annual Workshop on
+Antarctic Meteorology and Climate (WAMC, 4 and 5 August 2022).
+During the meeting the first results from the TOPs were discussed.
+The presentations are available online (https://polarmet.osu.edu/
+YOPP-SH_2022/) as is a meeting report (Wang et al. 2022; https://
+polarmet.osu.edu/YOPP-SH_2022/
+BPCRC_tech_report_2022-001.pdf), and a scientific article
+summarising the WAMC and the YOPP-SH meeting is presently
+under review (Tomanek et al., 2023).
+YOPP Final Summit
+The YOPP Final Summit (https://yoppfinalsummit.com/) took place
+in Montreal, Canada, 29 August - 1 September 2022, and brought
+together the polar prediction community – from operational
+centres, academia, environment services, polar prediction users and
+northern communities. The Summit showcased the successes of
+YOPP and included Science-to-Service sessions where key users
+described their engagement with environmental predictions. The
+YOPP-SH efforts provided an important contribution to the Summit.
+The successes of YOPP from the Summit presentations included:
+a better understanding of the impact of key polar measurements
+(radiosondes and space-based instruments such as microwave
+radiometers), and recent advancements in the current NWP
+observing system, achieved through coordinated OSEs in both polar
+regions (e.g., Sandu et al 2021);
+enhanced understanding of the linkages between Arctic and mid-
+latitude weather (e.g., Day et al 2019);
+advancements in the atmosphere-ocean-sea ice and atmosphere-
+land-cryosphere coupling in NWP, and in assessing and recognizing
+the added value of coupling in Earth System Models (e.g., Bauer et
+al 2016);
+deployment of tailored polar observation campaigns to address yet
+unresolved polar processes (e.g., Renfrew et al 2022);
+progress in verification and forecasting techniques for sea-ice,
+including a novel headline score (e.g., Goessling and Jung, 2018);
+advances in process understanding and process-based evaluation
+with the establishment of the YOPPsiteMIP framework and tools
+(Svensson 2020);
+better understanding of emerging societal and stakeholder needs in
+the Arctic and Antarctic (e.g., Dawson et al 2017); and
+innovative transdisciplinary methodologies for co-producing salient
+information services for various user groups (Jeuring and Lamers
+2021).
+The YOPP Final Summit identified a number of areas worthy of
+prioritized research in the area of environmental prediction and
+services for the polar regions:
+coupled atmosphere, sea-ice and ocean models with an emphasis on
+advanced parameterisations and enhanced resolution at which
+critical phenomena start to be resolved (e.g., ocean eddies);
+improved definition and representation of stable boundary layer
+processes, including mixed-phase clouds and aerosols; incorporation
+of wave-ice-ocean interactions;
+radiance assimilation over sea ice, land ice, and ice sheets
+understanding of linkages between polar regions and lower
+latitudes from a prediction perspective;
+exploring the limits of predictability of the atmosphere-cryosphere-
+ocean system;
+an examination of the observational representativeness over land,
+sea ice and ocean; better representation of the hydrological cycle;
+and,
+transdisciplinary work with social scientists around the use of
+forecasting services and operational decision-making.
+The discussions around the Science and Service sessions identified
+that, whilst good progress had been made in identifying key user
+groups and their needs, more effort is needed to expand research
+around identifying the range of information needs of a greater
+diversity of user groups as well as tailoring services to their needs.
+Societal and Environmental Research Applications (SERA)
+The PPP-SERA group are currently compiling a review paper for the
+journal “Weather, Climate and Society” that synthesises the work
+done over the last few years on the use of WWIC information. Some
+key themes that will be explored in the review paper include:
+user requirements
+service reliability
+barriers to use
+mismatch between services and user needs
+the importance of experience and local knowledge
+community-based monitoring
+planning and decision-making
+safety and risk
+education and training
+search and rescue
+The group will further discuss the legacies of the PPP for users of
+WWIC in the conclusion. 
+A WWRP/PPP-SERA workshop held in Hobart, Australia, 17-19
+April 2023, is expected to help to formulate a strategy for the next
+polar research project of the WWRP, proposed to begin in 2024 that
+takes into consideration social-science aspects and establishes
+strong connections with stakeholders in order to move towards co-
+production. 
+Acknowledgement
+The Polar Prediction Project has been a ten-year effort of the
+WMO’s World Weather Research Programme and has been very
+successful, in part due to the enormous support provided to the
+project by many partner organisations and support of the Antarctic
+Treaty partners. WMO would like to thank those contributors and
+acknowledge their support.
+References:
+Bauer, P., Magnusson, L., Thépaut, J.-N., Hamill, T.M.,
+2016: Aspects of ECMWF model performance in polar areas. Quart.
+J. Roy. Meteor. Soc., 142: 583–596, DOI:10.1002/qj.2449.
+Dawson, J., et al, 2017. Navigating weather, water, Ice and climate
+information for Safe polar mobilities. Available: https://
+zenodo.org/record/7440086#.Y6llGhVBzrc.
+Day, JJ., et al, 2019. Increased Arctic influence on the midlatitude
+flow during Scandinavian Blocking episodes. Quart. J. Roy. Meteor.
+Soc., 145 [725], 3846–3862. https://www.zenodo.org/
+record/3548329#.Y6lQDxVBzrd.
+Goessling, H. and Jung, T. (2018) A probabilistic verification score
+for contours: Methodology and application to Arctic ice-edge
+forecasts. Quart. J. Roy. Meteor. Soc., 144, [712], 735–743. https://
+doi.org/10.1002/qj.3242.
+Jeuring, J., and Lamers, M., 2021. Towards useful forms of co-
+production in metocean services for the European Arctic. Report
+from PPP-SERA Special Services Workshop Online meeting. https://
+zenodo.org/record/7483419#.Y6ltnBVBzrc.
+Massonnet, F., S. Barreira, A. Barthélemy, R. Bilbao, E. Blanchard,
+E. Blockley, D. Bromwich, M. Bushuk, X. Dong, H. F. Goessling, W.
+Hobbs, D. Iovino, W.-S. Lee, C. Li, W. N. Meier, W. J. Merryfield, E.
+Moreno- Chamarro, Y. Morioka, X. Li, B. Niraula, A. Petty, A.
+Sanna, M. Scilingo, Q. Shu, M. Sigmond, N. Sun, S. Tietsche, X. Wu,
+Q. Yang, and X. Yuan, 2023: SIPN South: five years of coordinated
+seasonal Antarctic sea ice predictions. Frontiers in Marine Science,
+provisionally accepted.
+Renfrew, I.A., et al. (2019): The Iceland Greenland seas project.
+Bulletin of the American Meteorological Society, 100, 1795– 1817.
+https://doi.org/10.1175/BAMS-D-18-0217.1.
+Sandu, I., et al, 2021: The potential of numerical prediction systems
+to supportthe design of Arctic observing systems: Insights from the
+APPLICATE and YOPP projects. Quart. J. Roy. Meteor. Soc., 147,
+[741], 3863-3877. https://rmets.onlinelibrary.wiley.com/doi/
+pdf/10.1002/qj.4182
+Svensson, G., (2020): YOPPsiteMIP: Year of Polar Prediction site
+Model Inter-comparison Project. EGU General Assembly Conference
+Abstracts, May 2020. DOI: 10.5194/egusphere-egu2020-11272
+Tomanek, A.J., M.A. Lazzara, D.E. Mikolajczyk, T.P. Norton, I.I.
+Onsi, D.H. Bromwich, and M.F. Litell, 2023: The 17th Workshop on
+Antarctic Meteorology and Climate and the 7th Year of Polar
+Prediction in the Southern Hemisphere Meeting. Advances in
+Atmospheric Sciences, in review.
+Wang, S.-H., D. H. Bromwich, and M. Fontolan Litell, 2022: The 7th
+Year of Polar Prediction in the Southern Hemisphere (YOPP-SH)
+Meeting, Pyle Center, University of Wisconsin, Madison, WI, August
+6, 2022. BPCRC Technical Report 2022-001, Byrd Polar and Climate
+Research Center, The Ohio State University, Columbus, Ohio, USA,
+21 pp.
+https://polarmet.osu.edu/YOPP-SH_2022/
+BPCRC_tech_report_2022-001.pdf

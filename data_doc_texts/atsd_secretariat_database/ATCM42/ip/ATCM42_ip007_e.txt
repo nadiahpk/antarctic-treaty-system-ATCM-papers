@@ -1,0 +1,102 @@
+﻿
+
+
+
+
+
+NASA Operation IceBridge: An airborne mission for Earth’s polar ice
+
+
+
+
+
+
+
+
+
+
+NASA Operation IceBridge: 
+An airborne mission for Earth’s polar ice
+Information paper submitted by the United States
+Introduction
+NASA’s Operation IceBridge (OIB) is an airborne mission that surveys changing polar ice in both the Arctic and Antarctic. OIB leverages NASA airborne science heritage that stretches back to the 1990s to “bridge the gap” in laser altimetry mapping of changing polar ice between the ICESat (2003–2009) and ICESat-2 (2018–present) satellite laser altimetry missions. OIB was conceived in 2009 and its last airborne campaign will occur in late 2019. Along with multiple laser altimeters to measure surface elevation, the OIB instrument suite typically includes multiple ice-penetrating radars to measure snow and ice thickness, multiple imaging cameras that record both visible-wavelength and infrared surface emissions, gravimeters and magnetometers to infer ocean bathymetry and bedrock geology, respectively. Typically, OIB undertakes two campaigns per year beginning at the end of the winter growth period, with one in the Arctic during the boreal spring (March–May) and another in the Antarctic during the austral spring (October–December), although in several years additional campaigns were also carried out in the Arctic during the boreal summer.
+In the Antarctic, OIB campaigns have typically focused on the rapidly changing West Antarctic Ice Sheet and its surrounding seas, basing out of Punta Arenas, Chile or Ushuaia, Argentina. The research foci for these campaigns are typically the Weddell and Bellingshausen Seas for sea ice, and the Amundsen Sea and Ronne–Filchner Embayments, the Antarctic Peninsula and the South Pole sector for land ice. However, additional regions have been surveyed by two campaigns based out of McMurdo Station, including the Transantarctic Mountains, the Ross Ice Shelf and the East Antarctic plateau.
+Research program description
+OIB’s scientific mission and evaluation of the success of that mission is outlined in its Level 1 Science Requirements and Scientific Basis document. NASA established OIB and mandated it to fulfil the following programmatic goals:
+    1. Make airborne altimetry measurements over the ice sheets and sea ice to extend and improve the record of observations begun by ICESat.
+    2. Link the measurements made by historical airborne laser altimeters, ICESat, ICESat-2 and CryoSat-2 to allow accurate inter-comparison and production of a long-term, ice altimetry record.
+    3. Monitor key, rapidly changing areas of ice in the Arctic and Antarctic to maintain a long-term observation record.
+    4. Provide key observational data to improve our understanding of ice dynamics, and better constrain predictive models of sea level rise and sea ice cover conditions.
+At the highest level, OIB datasets address the following science goals:
+    1. Document volume changes over the aircraft-accessible portions of the Greenland and Antarctic ice sheets during the period between the ICESat and ICESat-2 missions. A particular focus will be to document rapid changes. OIB will answer: How have the ice-sheet volumes within areas accessible by aircraft changed during the measurement period?
+    2. Document glacier and ice-shelf thickness, ice-shelf bathymetry, snow accumulation-rate variability and other geophysical properties to better interpret volume changes measured with laser altimetry and to enable more realistic simulations of ice-sheet flow and mass balance with numerical models. OIB will help answer: How are the ice sheets likely to change in the future?
+    3. Document spatial and interannual changes in the mean sea ice thickness in the Arctic and Southern Oceans in the period between ICESat and ICESat-2, in support of climatological analyses and assessments.
+    4. Improve sea ice thickness retrieval algorithms by advancing technologies for measuring sea ice surface elevation, freeboard and snow depth over sea ice in the Arctic and Southern Oceans.
+Note that OIB data alone cannot answer these important questions. Supporting data comes from other sources (e.g., ice-sheet surface velocity, sea ice deformation and motion data).  However, OIB surface elevation, surface-elevation change, and ice-thickness data are essential information needed to resolve these questions. Moreover, some of the measurements are presently implemented on airborne platforms only (swath altimetry and radar sounding).
+These programmatic and science goals lead to a series of science questions specific to Antarctic land and sea ice. Based on these questions, present technology and instruments available to be deployed on aircraft, a series of quantitative threshold and baseline science requirements were developed by the OIB Project Science Office and competed Science Team to quantitatively assess the success of OIB. Those are outlined in detailed in the Level 1 Science Requirements and Scientific Basis document. Due to the duration of the overall mission, which has now lasted a decade, projected science requirements were also developed in anticipation of technological improvements and new logistics opportunities, many of which have since been realized.
+OIB data have enabled innumerable discoveries regarding key geophysical conditions (e.g., surface-elevation change, bed elevation, sub-ice-shelf bathymetry) and processes (e.g., rapid ice-shelf melting, spatiotemporal variability of snow accumulation) – among many others – in Antarctica. These discoveries include identification of rapid submarine melting and retreat of West Antarctic ice shelves (Rignot et al., 2014; Sutterley et al., 2014; Khazendar et al., 2016), significant contributions to the Bedmap2 bed elevation model (Fretwell et al., 2013) and bathymetry mapping (Tinto and Bell, 2011), validation of snow accumulation models (Medley et al., 2013) and measurements of sea ice freeboard, snow depth and ice thickness for Antarctic sea ice (Kwok and Maksym, 2014; Kwok and Kacimi, 2018).
+With the long-term success of OIB and the successful launch and continued operation of ICESat-2 in September 2018, OIB’s key programmatic goals are nearly fulfilled and it will conduct its last polar campaigns in 2019, followed by close-out mission operations in 2020. While ICESat-2 does not possess all the measuring capabilities of the OIB aerogeophysical instrument suite, its next-generation laser altimeter permits high-resolution mapping of surface-elevation change over land and sea ice across the Earth and fulfils a key NASA Earth Science measurement goal.
+Field seasons
+OIB has now completed eleven dedicated Antarctic campaigns over the ten years since the mission began in 2009, and sponsored additional flights during five other campaigns by another international Antarctic airborne mission (ICECAP). Table 1 lists the aircraft used, primary target regions and instruments deployed, and Figure 1 shows their locations. Keyhole Markup Language files for all campaigns, including both planned and flown flight lines, are available on the OIB website in the Campaigns section. One final Antarctic campaign will take place in the fall of 2019 onboard the NASA Gulfstream-V jet, for which flight planning is ongoing.
+
+All OIB data are archived at the NSIDC and can be accessed through an OIB-specific portal. Data from each campaign is typically archived there six months after data collections and is freely accessible following registration.
+
+During the planning stage for our Antarctic campaigns, OIB complies with the Antarctic Treaty by designing flight plans that specifically avoid Antarctic Specially Protected/Managed Areas (ASPAs/ASMAs) and known wildlife colonies, as identified by a commercially available database. During those campaigns, we also actively avoid these areas by displaying a database of ASPAs/ASMAs within our in-flight navigation systems to act as a layer of redundancy and situational awareness in regions with numerous such features (e.g., McMurdo Sound). These areas are avoided both horizontally and vertically, i.e., we avoid all ASPAs/ASMAs and do not overfly them at any altitude, and we do not overfly wildlife colonies within a 2-kilometer radius at any altitude lower than 1000 meters above ground level.
+Contacts for international collaboration and cooperation
+International collaboration with OIB by nations other than United States is always welcomed. These collaborations typically take four forms: 1. Formal requests for surveys over target areas with the OIB instrument suite that are both aligned with OIB science objectives and could help others achieve their science objectives; 2. Logistics collaboration with local Antarctic national programs and knowledge sharing regarding airborne operations over target regions; 3. Outreach with Antarctic national programs that are local to the base of operations for a given campaign. 4. Participation in and knowledge exchange during our twice-yearly science team meetings. The primary contacts are:
+
+Joseph MacGregor, NASA, OIB Project Scientist; telephone: +1 (301) 614-5876, email: joseph.a.macgregor@nasa.gov
+Linette Boisvert, NASA, OIB Deputy Project Scientist; telephone: +1 (301) 614-5710, email: linette.n.boisvert@nasa.gov
+Brooke Medley, NASA, OIB Deputy Project Scientist; telephone: +1 (301) 614-6705, email: brooke.c.medley@nasa.gov
+Eugenia De Marco, NASA, OIB Project Manager; telephone: +1 (301) 286-3402, email: eugenia.l.demarco@nasa.gov
+John Sonntag, NASA, OIB Mission Scientist; telephone: +1 (301) 614-6964, email: john.g.sonntag@nasa.gov
+ 
+Table 1 – 2009–2019 OIB Antarctic campaigns. Asterisk denotes campaign partially sponsored by OIB.
+Year
+Platform(s)
+Survey regions
+2009
+DC-8, BT-67*
+Amundsen Sea and Ronne–Filchner Embayments, Antarctic Peninsula, Transantarctic Mountains, East Antarctica, Weddell and Bellingshausen Seas
+2010
+DC-8, BT-67*
+Amundsen Sea Embayment, Antarctic Peninsula, Transantarctic Mountains, East Antarctica, South Pole, Weddell and Bellingshausen Seas
+2011
+DC-8, BT-67*, 
+G-V
+Amundsen Sea and Ronne–Filchner Embayments, Antarctic Peninsula, Transantarctic Mountains, East Antarctica, Weddell and Bellingshausen Seas
+2012
+DC-8, BT-67*
+Amundsen Sea and Ronne–Filchner Embayments, Antarctic Peninsula, Transantarctic Mountains, East Antarctica, Weddell and Bellingshausen Seas
+2013
+P-3, BT-67*
+Transantarctic Mountains, Ross Ice Shelf, Ross Sea, East Antarctica
+2014
+DC-8
+Amundsen Sea and Ronne–Filchner Embayments, Antarctic Peninsula, Weddell and Bellingshausen Seas, South Pole
+2015
+G-V
+Amundsen Sea and Ronne–Filchner Embayments, Antarctic Peninsula, Weddell Sea
+2016
+DC-8
+Amundsen Sea and Ronne–Filchner Embayments, Antarctic Peninsula, Weddell and Bellingshausen Seas, South Pole
+2017
+P-3, BT-67
+Antarctic Peninsula, Weddell Sea, Transantarctic Mountains, Ross Ice Shelf, East Antarctica, South Pole
+2018
+DC-8
+Amundsen Sea and Ronne–Filchner Embayments, Antarctic Peninsula, Weddell and Bellingshausen Seas, South Pole
+
+
+Figure 1 – 2009–2018 OIB flights across Antarctica.
+
+References
+Fretwell, P. et al. (2013), Bedmap2: improved ice bed, surface and thickness datasets for Antarctica, The Cryosphere, 7(1), 375–393, doi:10.5194/tc-7-375-2013.
+Khazendar, A., E. J. Rignot, D. M. Schroeder, H. Seroussi, M. P. Schodlok, B. Scheuchl, J. Mouginot, T. C. Sutterley, and I. Velicogna (2016), Rapid submarine ice melting in the grounding zones of ice shelves in West Antarctica, Nat. Comms., 7, 1–8, doi:10.1038/ncomms13243.
+Kwok, R., and T. Maksym (2014), Snow depth of the Weddell and Bellingshausen sea ice covers from IceBridge surveys in 2010 and 2011: An examination, J. Geophys. Res. Oceans, 119(7), 4141–4167, doi:10.1002/2014JC009943.
+Kwok, R., and S. Kacimi (2018), Three years of sea ice freeboard, snow depth, and ice thickness of the Weddell Sea from Operation IceBridge and CryoSat-2, The Cryosphere, 12(8), 2789–2801, doi:10.5194/tc-12-2789-2018.
+Medley, B. et al. (2013), Airborne-radar and ice-core observations of annual snow accumulation over Thwaites Glacier, West Antarctica confirm the spatiotemporal variability of global and regional atmospheric models, Geophys. Res. Lett., 40(14), 3649–3654, doi:10.1002/grl.50706.
+Rignot, E. J., J. Mouginot, M. Morlighem, H. Seroussi, and B. Scheuchl (2014), Widespread, rapid grounding line retreat of Pine Island, Thwaites, Smith, and Kohler glaciers, West Antarctica, from 1992 to 2011, Geophys. Res. Lett., 41, 1–8, doi:10.1002/2014GL060140.
+Sutterley, T. C., I. Velicogna, E. J. Rignot, J. Mouginot, T. Flament, M. R. van den Broeke, J. M. van Wessem, and C. H. Reijmer (2014), Mass loss of the Amundsen Sea Embayment of West Antarctica from four independent techniques, Geophys. Res. Lett., 41, doi:10.1002/(ISSN)1944-8007.
+Tinto, K. J., and R. E. Bell (2011), Progressive unpinning of Thwaites Glacier from newly identified offshore ridge: Constraints from aerogravity, Geophys. Res. Lett., 38(20), doi:10.1029/2011GL049026.
+

@@ -1,0 +1,64 @@
+﻿
+
+
+
+
+
+Antarctic trial of WWF’s Rapid Assessment of Circum-Arctic Ecosystem Resilience (RACER) Conservation Planning Tool
+
+
+
+
+
+
+
+
+
+Antarctic trial of WWF’s Rapid Assessment of Circum-Arctic Ecosystem Resilience (RACER) Conservation Planning Tool
+
+Working Paper submitted by the United Kingdom, Germany, Norway and Spain
+Summary
+Early outcomes from a trial of RACER (Rapid Assessment of Circum-Arctic Ecosystem Resilience) in a relatively productive and diverse part of the terrestrial Antarctic Peninsula indicate that some of the methodology and the RACER concept have value in an Antarctic context, but limitations and challenges exist.  Some modification to the methodology is required to make it more relevant and applicable. The proponents recommend Parties take into consideration resilience in the designation, management and review of protected areas, and that RACER is recognised as one possible tool for use in more productive and diverse parts of the Antarctic to determine key features important for conferring resilience more widely. 
+Introduction
+The 2010 Antarctic Treaty Meeting of Experts on Climate Change recommended that the Committee for Environmental Protection (CEP) “should remain alert to the development of climate change related conservation tools elsewhere in the world that may also have application in an Antarctic context”. At ATCM XXXV, the UK and Norway introduced WP33 RACER: a tool from the Arctic to assess ecosystem resilience and areas of conservation importance, and its possible application to Antarctica.
+
+RACER is an eco-region based conservation tool that aims to identify areas and features that may be significant for building ecological resilience to anticipated climate change. Key features may be in new areas or RACER may provide additional reasons or focus for conserving existing protected or managed areas in the context of anticipated change. The RACER methodology does not define management actions to safeguard the continued functioning of these key features. Rather it aims to initiate discussion on these issues in appropriate fora. As RACER focuses on identifying sources of ecological strength rather than vulnerability and on ecological function rather than species per se, it is not intended to address the issue of non-native species under climate change.
+The CEP endorsed a trial to test the applicability of the RACER methodology in the terrestrial Antarctic (CEP XV report paragraphs 18-24). ATCM XXXVI/IP073 presented initial findings. Following discussions about RACER with SCAR and other Antarctic scientists, seventeen experts from Australia, Chile, China, Germany, the Russian Federation, Spain and the United Kingdom participated in a three half-day workshop using on-line conferencing to undertake the RACER analysis for the selected eco-region. The initial outcomes of this workshop and the trial are summarised here and discussed in detail in ATCM XXXVII/IP 94.
+Antarctic RACER trial 
+The Antarctic Conservation Biogeographic Regions (ACBRs) (Resolution 6 (2012)) were identified as suitable ecoregion-scale RACER study units.  ACBR 3 (North-west Antarctic Peninsula) was selected for the trial, based on size, data availability, and expert knowledge. 
+
+Under Part 1 – mapping resilience - of the methodology, areas of ecological vitality, specifically areas with exceptional productivity and/or biological diversity, were identified using remote sensing, literature review and by scientists familiar with the region’s terrestrial biology. Exceptional was determined using a percentile-based analysis of significance in the remote sensing analysis, with 80th percentile (or higher) considered exceptional. More subjectively, ‘expressions of exceptional’ (compared to the rest of the eco-region) were drawn from literature and experts. ATCM XXXVII/IP 94 provides detailed information, including methodologies.
+
+Fifty-four small but distinct areas of exceptional productivity and/or diversity were found initially within the eco-region. Key features and their drivers were then identified by developing a careful understanding of the characteristics and processes at work in these areas. Drivers are characteristics – such as soil type, temperature, topography, and nutrients – that drive ecosystems by promoting productivity and by facilitating vegetation and other organism to occur and thrive. Drivers respond to changes in the environment at different speeds and degrees (e.g. temperature and sea ice change faster than topography in response to changes in climate). Based on more detailed driver analysis during the workshop, experts grouped these smaller areas into possible ‘RACER key feature clusters’. The first such cluster included King George Island: Western shores of Admiralty Bay, Potter Peninsula, Fildes Peninsula and Barton Peninsula; Ardley Island; Nelson Island: Harmony Point; Robert Island: Coppermine Peninsula. Livingston Island: Byers Peninsula and Hannah Point need further driver analysis to determine if they are a separate key feature or part of the South Shetland Islands cluster.
+
+Three other possible clusters were identified: (a) James Ross Island cluster, (b) Brabant Island and central western Peninsula cluster, and (c) Marguerite Bay cluster. Driver analysis is being carried out currently by experts in these regions and will be presented at CEP XVII. 
+
+The second part of the RACER process - persistence analysis - was carried out on the South Shetland Islands cluster during the workshop. This part of the methodology associates climate-relevant drivers with identified features and uses variables from General Circulation Models (GCMs) up to 2100 to assess the feature's likelihood of persistence with climate change. Experts highlighted four key drivers for this cluster: nutrient availability, water availability, temperature and habitat. They concluded high persistence with a high confidence rating for three drivers (water availability, temperature and habitat), and medium persistence with a moderate confidence rating for nutrient availability. Persistence analysis will be carried out for any further key features identified for the eco-region prior to CEP XVII. 
+Key outcomes from the trial
+    1. The RACER framework methodology was tested in, and adapted for, the Antarctic trial eco-region. Adaptations included using higher-resolution LandSat analysis imagery for remote sensing analysis of productivity, in order to address the finer scale of vegetated area found in the Antarctic. 
+    2. The RACER methodology was completed in full for one sub-region of the trial area, with work underway to complete the analysis of ACBR 3 ahead of ATCM XXXVII. 
+    3. A new community of experts from seven countries with polar expertise (Australia, Chile, China, Germany, the Russian Federation, Spain and the United Kingdom) has been created with a good understanding of WWF's RACER methodology and resilience/systems thinking. 
+    4. Recognition that elements of the RACER methodology may offer opportunities – for example landform heterogeneity remote sensing analysis can point to areas of possible future ecological significance and sources of resilience that may warrant protection (i.e. they may become important for conservation and resilience, should physical parameters become more favourable to life).
+    5. Recognition of the significant importance of the ocean environment for driving ecological processes on both land and sea, which leads to questions beyond the scope of this trial about the relationship between marine and terrestrial area designations for resilience.  
+    6. Initial thoughts on possible key features that could warrant special consideration include the South Shetland Island cluster. This includes existing ASPAs, but also goes beyond ASPA boundaries to include the wider functional ecological unit exhibiting exceptional productivity and or diversity (as uniquely identified by the RACER methodology).
+    7. Finally, a better understanding of the limitations and challenges of using RACER in an Antarctic context was developed, noting that aspects of the RACER methodology may be limited in parts of the Antarctic:
+    (i) The very small areas of ice-free ground and vegetation cover present challenges relating to spatial scale, both with regard to acquisition of remote sensing data and the use of broad-based GCM parameters in the persistence analysis.
+    (ii) Data bias, as studied areas are generally close to stations and accessible areas. This is mitigated in part through using remote sensing, but is limited to certain organism groups and physical scales. 
+    (iii) There is limited knowledge and information on local ecological processes, their drivers, and linked climate variables at that local scale for much of terrestrial Antarctica. 
+    (iv) The RACER conceptualisation of resilience as conveyed by exceptional productivity, and diversity may be challenged at the very low end of the productivity and diversity spectrum, as found in many Antarctic regions.
+    (v) RACER’s remote sensing analysis of primary productivity in terrestrial ecosystems uses the Normalised Difference Vegetation Index which can lead to underrepresentation of ecologically important Antarctic species. In addition, vegetation, animal and microbial diversity may not be so tightly linked in the Antarctic as in other regions.
+    (vi) Challenges were also identified that would need to be addressed in utilising RACER in less productive and diverse areas of Antarctica outside of the initial trial region.  
+Recommendations
+    1) Based on the RACER trial outcomes, and given the rapid climatic change occurring in the Antarctic Peninsula, the proponents recommend that Parties take into consideration resilience in the designation, management and review of protected areas.
+
+    2) The CEP is invited to recognise RACER as one possible tool to determine key features important for conferring resilience (noting that it may be adapted for use in more productive and diverse parts of Antarctica); and to note that protecting areas which are resilient to climate change may ultimately assist in the longer-term protection of biodiversity. 
+
+    3) The proponents also seek the CEP’s ongoing support for further collaboration among interested experts to investigate the applicability of the RACER methodology in Antarctica.
+
+
+
+
+
+
+
+

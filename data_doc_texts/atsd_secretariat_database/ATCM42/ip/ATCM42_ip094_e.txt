@@ -1,0 +1,91 @@
+﻿
+
+
+
+
+
+The Year of Polar Prediction in the Southern Hemisphere: Consolidation Phase
+
+
+
+
+
+
+
+
+
+
+The Year of Polar Prediction in the Southern Hemisphere: Consolidation Phase
+An Information Paper submitted by WMO
+Summary
+This paper summarises recent activities undertaken in the Antarctic as part of the World Meteorological Organization's (WMO) Polar Prediction Project (PPP). The Year of Polar Prediction (YOPP), which is a hallmark activity of the PPP, galvanised extra observation and modelling efforts in both the Arctic and Antarctic.  
+In the Antarctic, YOPP included a Special Observing Period in the summer season 2018-2019 during which more than 1,800 additional radiosondes were launched from 18 different meteorological stations.
+The advancement of numerical prediction models, including physical linkages to lower latitudes, and their verification is particularly relevant to enhance forecasting services for the Antarctic and beyond. An open-access YOPP data portal has been developed to ensure the data sets produced during the Year of Polar Prediction are publicly available. 
+
+In July 2019, the Polar Prediction Project will move into its Consolidation Phase (July 2019 to 2022). This final phase of YOPP is crucial to synthesize the data and research from the Preparation and Core Phases, to determine measures of the long-term success of YOPP.
+Introduction
+PPP is coordinating international research efforts with the main goal of significantly improving the environmental prediction capabilities in the Arctic and Antarctic regions, on time scales from hours to seasonal. 
+
+The YOPP Core Phase included Special Observing Periods in the Arctic and Antarctic to increase the number of atmospheric and oceanographic observations. For example, extra radiosondes were launched from polar meteorological stations, and additional buoys were deployed from research vessels. The additional data will enable improved representation of polar key processes in uncoupled and coupled models used for high-quality prediction in polar regions.
+Contributions to the Antarctic Special Observing Period
+The first Antarctic Special Observing Period (SOP) took place from 16 November 2018 to 15 February 2019. An overview of the activities during the YOPP-SH SOP will be provided in the coming weeks on the website of the Polar Prediction Project. 
+As during the first two SOPs in the Arctic in 2018, field campaigns and expeditions endorsed by YOPP provided additional specific observations which will enable a better understanding and hence representation of environmental processes in the Antarctic weather, climate, and sea-ice models. During the Antarctic SOP, more than 1,800 extra radiosondes were launched from 18 Antarctic research stations and vessels involving eleven different countries. 
+Additional buoy deployments from research icebreakers in Antarctic waters have expanded the buoy network over the recent Antarctic season. Southern Ocean buoy data were sent to the Global Telecommunications System (GTS). The German Alfred Wegener Institute (AWI) deployed a Surface Velocity Project buoy (SVPs) as well as three Snow Buoys in the Weddell Sea. Of these buoys, only one Snow Buoy has survived to date (22 May 2019). In addition, between January and March 2019, AWI deployed another 19 SVPs in the western Weddell Sea, which are all still transmitting (Fig. 1). 
+
+
+Figure 1. Active buoys deployed by the Alfred Wegener Institute (position from 22 May 2019; source: Meereisportal.de).
+Maps in Figure 2 and 3 show the buoys that were operating during the YOPP-SH Special Observing Period. While the number of buoys are steadily increasing, the maps show that the sea-ice region of the Southern Ocean is still poorly sampled by drifting buoys which can provide valuable information about sea level pressure and air temperature. Although most data are transmitted to the GTS, different archives (e.g., Météo France and JCOMMOPS) show different numbers and kinds of sensors whose data they receive.
+
+
+Figure 2. Overview of transmitting buoys during the austral summer season 2018/2019 (source: Météo France).
+
+Figure 3. Overview of the Global Ocean Observing System (April 2019; source: JCOMMOPS).
+
+The potential for holding a Special Observing Period in Antarctica in winter is currently being discussed. To allow sufficient time for planning and scientific preparations, the currently suggested time frame is March/April to July 2021 when the sea ice is rapidly expanding in the Southern Ocean. There is general agreement within the science community that a winter SOP would be useful, in particular for oceanographic observations. A decision on whether a winter SOP will be undertaken is envisaged to be made at the fourth YOPP Southern Hemisphere meeting in Charleston, SC, in late June 2019. 
+
+Antarctic YOPP Supersites
+The Antarctic YOPP Supersites (overview in Fig. 4) are key locations for joint observation, modelling and verification efforts. Here, additional weather balloons were launched during the Antarctic SOP (for exact locations of YOPP Supersites the YOPP Observations Layer). Additional radiosonde launches from meteorological stations and cruise expeditions have been monitoring by the AMPS Team at NCAR (see here) and by the European Centre for Medium-Range Weather Forecast (ECMWF) (Fig. 5). 
+
+Figure 4. YOPP Supersites in the Antarctic (source: Google Earth).
+
+
+Figure 5. Monitored increased radiosonde activity from meteorological stations and cruise expeditions (source: ECMWF).
+
+YOPP-SH Data
+The YOPP Data Portal as a metadata catalogue that connects to data held by the different data centres contributing to YOPP, including data centres that are connected to the WMO Information System’s (WIS) Global Telecommunication System (GTS). 
+
+A GTS monitoring page set up by Kevin Manning (NCAR, Boulder, CO) has proven extremely useful for planning the data denial experiments. This archive has led to the decision to collect all the detailed radiosonde ascents from national operators and reformatted into a standard format by Steve Colwell (BAS FTP site).
+
+
+YOPP-SH Modelling and Forecasting
+Modelling efforts, e.g. with the Polar Weather Research and Forecasting model (PolarWRF) are based around the YOPP Supersites with enhanced verification and data assimilation efforts. Data denial experiments by different operational centres, such as Météo France, are being carried out using extra observations during the YOPP-SH Special Observing Period. Extra observations from the SOP will also be used in a range of data assimilation techniques to evaluate the forecast impact in the Antarctic Mesoscale Prediction System (AMPS). The work will include data denial experiments and is likely to result in a more advanced data assimilation approach. The Chilean Weather Service plans to use the Polar WRF model for its Antarctic Peninsula forecasts.
+
+YOPPSiteMIP 
+In order to best use observations made during the Year of Polar Prediction to understand the sources of forecast error in polar regions, the YOPP Supersite Model Inter-comparison Project (YOPPsiteMIP) has been initiated. It aims to use observations from YOPP Supersites to do process level assessment of the performance of different forecast models in the Arctic and Antarctic. Efforts are carried out to synergistically combine information from Arctic and Antarctic Observatories and Numerical Weather Forecasts to further both the understanding of the mechanisms of the polar environment and to improve model forecast skill. The current goal of YOPPSiteMIP is to develop detailed recipes for both the model and the observation outputs for the various YOPP Supersites. This will enable detailed analysis of how the effects of the coupling of the atmosphere, ocean and cryosphere emerge very rapidly through fast, small-scale processes. 
+
+Sea ice prediction in Antarctica
+One of the flagship activities of YOPP-SH is the Sea Ice Prediction Network South (SIPN South), initiated in 2017. SIPN South was launched due to the increasing need for sea-ice information in the Southern Ocean, the existence of predictability mechanisms for summer sea ice recently suggested in the scientific literature, and the lack of knowledge regarding the skill of state-of-the-art operational forecasts at the seasonal time scale. 
+
+Twelve groups responded to the call for contributions in November 2018. All together a total of 198 forecasts of Antarctic sea-ice area and concentration were produced for each day from December 2018 to February 2019. Further information on SIPN South can be found here. 
+
+User Engagement
+Engagement with users of Antarctic forecasting services is a key component of PPP. During the 2019 meeting of the YOPP Task Team on Societal and Economic Research and Applications (PPP-SERA) in April 2019 in Punta Arenas, Chile, an Open Session was held to engage with local stakeholders and Antarctic operators to create a dialogue between social scientists, environmental forecasters and end-user groups. A report of the PPP-SERA meeting can be found here. Further information on the 2019 Open Session have been published by Carrasco and Uribe (2019) in Polar Journal 9(1).
+
+Education
+About four hundred students are involved in the Italian educational project CAPIRE-YOPP which has added two more radiosondes daily from 1 to 14 January 2019 to the Italian Meteo observatory programme of the Italian-French research station Concordia. With this, for the first time, four daily soundings at synoptic hours were performed from this Antarctic Plateau station. The unique data set produced during the YOPP-SH SOP will allow modellers and operational forecasting centres to evaluate the effect of enhanced weather observations to their forecasts for the Ross Sea and Victoria land areas throughout to the East Antarctic Plateau. 17 Italian schools are involved in performing data analysis and presenting their scientific results in summer 2019.
+Next Steps
+YOPP Consolidation Phase
+In July 2019, PPP will move into its Consolidation Phase. The final phase of YOPP is crucial to synthesize research efforts from the Preparation and Core Phases, to determine measures of the long-term success of YOPP, and provide recommendations (Fig. 6). An updated version of the YOPP Implementation Plan with further details on the Consolidation Phase is currently being finalized. 
+
+A major challenge for YOPP during the Consolidation Phase is ensuring the data sharing and consolidating of research by the various institutions and partners involved with YOPP, as well as the translation of improvement in prediction skill into services and products. PPP-SERA will contribute to the synthesis to feedback user needs in polar forecasting to the research community and operational centres.
+
+Figure 6. The major elements of the YOPP Consolidation Phase with some selected activities.
+
+Next YOPP Southern Hemisphere meeting
+The fourth Year of Polar Prediction in the Southern Hemisphere meeting will be held in Charleston SC, USA, from 27 to 28 June 2019. The meeting will again be aligned with the annual Workshop on Antarctic Meteorology and Climate (25-27 June 2019). The meeting will discuss modelling and verification efforts resulting from the recent YOPP-SH SOP and whether to hold a winter SOP in Antarctica. 
+
+Special Services Periods and Weather and Society Workshops
+PPP-SERA is developing a series of regional Weather and Society workshops to further engage with users of forecast products to learn about their requirements for improvement in weather and sea ice services. The Weather and Society Workshop in the Southern Hemisphere will be held in conjunction with the 2020 SCAR meeting in Hobart, Tasmania. 
+Recommendation
+PPP encourages Antarctic Treaty Parties to share information about the YOPP Data Portal to enable the national research communities to make use of the portal and to contribute their own data via their national data centres in an effort to build a comprehensive polar meteorological database.
+

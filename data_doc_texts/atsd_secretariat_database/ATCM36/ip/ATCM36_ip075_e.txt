@@ -1,0 +1,298 @@
+﻿
+
+
+
+
+
+Initial Environmental Evaluation for Establishment of the Ground Station for Earth Observation Satellites at the Indian Research Station Bharati at Larsemann Hills, East Antarctica
+
+
+
+
+
+
+
+
+Initial Environmental Evaluation for Establishment of the Ground Station for Earth Observation Satellites at the Indian Research Station Bharati at Larsemann Hills, East Antarctica
+Introduction
+India established its second permanent research station “Maitri” at Schirmacher hills in 1989. In order to expand the scientific studies to other parts of Antarctica, another research station “Bharati” was established at Larsemann Hills in East Antarctica which was commissioned in March 2012. In this regard, a draft Comprehensive Environmental Evaluation (CEE) report was submitted to the 30th Antarctica Treaty Consultative Meeting (ATCM) held at New Delhi. Final CEE of the station was circulated in September 2010 to all Treaty parties. An earth station to provide better communication and real time data transfer facility between Antarctica and mainland India had also been proposed in the CEE report of the new research station at Larsemann Hills. 
+The task of setting up and operationalizing the Earth Station in Larsemann Hills was taken up by the Ministry of Earth Sciences (MoES), Government of India in collaboration with the Department of Space, Government of India, the Electronic Corporation of India Limited (ECIL) and the National Centre for Antarctic and Ocean research (NCAOR).  This Initial Environmental Evaluation Report has been prepared in agreement with Article 2 of annex 1 to the Protocol on Environmental Protection to the Antarctic Treaty. The document pertains to the proposed activities for installing ground station for earth observing satellites at the Bharati research station. Having carried out the identification and evaluation of the probable impacts and taking care of the mitigation measures, it is concluded that the adverse impacts on the environment at the site are of low category and that the Initial Environmental Evaluation (IEE) is sufficient to address the issue.  
+Scientific Studies at Larsemann Hills
+The location of Bharati station is of interest on account of scientific and logistic reasons, the availability of an ice-free terrain in the Larsemann Hills and easy access from the sea. This area, including the islands and promontories offers an excellent scope for extensive studies on geological structures and tectonics with special reference to Gondwanaland, palaeoclimatology, solid earth geophysics, space-weather and meteorology, oceanography, marine biology, microbiology, environmental science etc. India has been conducting scientific studies   at the Larsemann Hills area since 2003/04 when the area was first identified as the site for India’s new Research Station. The studies are being conducted, during the austral summers and recent winter-over, in the realms of following disciplines:
+    • Earth Science
+    • Upper Atmosphere 
+    • Meteorology
+    • Geomagnetism
+    • Environmental Science and Biology
+
+Need of Activity and Purpose
+National Remote Sensing Centre (NRSC) is one of the Centres of the Indian Space Research Organization (ISRO), under the Department of space, Government of India. The prime responsibility of NRSC is to acquire payload data from the remote sensing satellites and generate the product for user requirement. The Ministry of Earth Sciences (MoES) in collaboration with the Department of Space, Government of India, and the National Centre for Antarctic and Ocean Research (NCAOR) has planned to set up Satellite Earth Stations Larsemann hills as well as at Maitri to provide better communication and real time data transfer facility between Antarctica and mainland India. The ground station for earth observing satellites is already functional at Maitri.
+A Remote Sensing Ground Station was planned at Larsemann Hills, Antarctica (69°24’28.8”S: 76°11’14.7”E) ) with the state of the art technology having full redundancy and remote monitoring and control for remote operations from NRSC to receive data from Indian Remote Sensing Satellites in S/X-Band and to establish a communication link between Antarctica and two ground stations in India (NRSC, Shadnagar and NCAOR, Goa). The link will support transfer of satellite data @2x40 Mbps in near-real time to NRSC and two-way communication services @ 4 Mbps to NRSC, Shadnagar and NCAOR, Goa simultaneously.
+The ground Station will make its particular contribution to global climatic observations and environmental monitoring. It will be an important platform for international cooperation in the Antarctica.Construction of the Ground Station and the environmental evaluation of the three Radom platforms have already been taken into account in the Final CEE of Bharati station. A suitable Generator to tap 40 kVA electrical load for providing power to the entire system will be installed in future on need base.  
+Alternatives for the Location
+For the establishment of the Radom, three places were initially identified, which are marked as A, B, and C in the figure below. Subsequently however, Site “A” in the north-western part was not considered suitable because this section has been marked for helicopter approach and landing. Site “B”, situated at western site of promontory was also not considered because of its proximity to the lake. . Site “C” situated to the south-eastern part of the station complex was finally selected on account of its favourable location from the point of view of technical and logistics advantages. 
+
+Figure 1: Alternate sites for installation of Radom at Grovnes, Larsemann Hills 
+
+
+
+
+
+
+
+
+
+
+
+
+The selected site (69°24’28.8”S: 76°11’14.7”E) is proximal to the Bharati station at Grovnes Peninsula in the Larsemann Hills. The northern and western slopes have a high gradient with the edge being exposed in the form of a steep cliff. The southern margin merges with the Polar ice. The western part has ice up to 50 m thick at places and is largely inaccessible. The area is fairly undulated, is bordered by the Thala fjord and Quilty bay, and remains ice-free during most of the summer months. The site is accessible from open sea through a passage between McLeod and Sandercock Islands. A suitable landing site has been constructed in the north-eastern corner of the promontory, in an area of low gradient, where landing can be made by barges. The area being rocky, an approach path has been made from the landing site up to the site of the station. The flat ground available at the location is suitable for establishment of earth station.   
+Description of Area and Environment
+The proposed location, situated at Grovnes promontory between Stornes and Broknes peninsula in the Larsemann Hills (69°24’-690 25’S latitude and 76°10’-76013’E longitude) is an ice-free coastal oasis fringing the Prydz Bay. It is located approximately midway between the eastern extremity of the Amery Ice Shelf and the southern boundary of the Vestfold Hills.  
+The Larsemann Hills area is marked by persistent, strong katabatic winds that blow from east to southeast during austral summer. Daytime air temperature from December to February at times exceeds 4°C, with the mean monthly temperatures being a little above 0°C. Extreme minimum temperature recorded in the region has been -400 C. Annual mean wind speed of 7 m/s and maximum wind speed 50 m/s have been recorded at the nearby Zhongshan station. Annual mean gale days are about 171 (47%). Precipitation occurs as snow and is unlikely to exceed 250 mm water equivalent annually. Snow cover is generally thicker and more persistent on Stornes Peninsula than on Broknes Peninsula. The sea ice grows steadily during March – September, with the maximum growth seen during April – June.
+Lakes present in the Larsemann Hills area are mostly saline in nature (Gillieson et al, 1990) and are characterized by low microbial diversity (Burgess and Kaup, 1997). However the promontory supporting the proposed site has small fresh water lakes and a saline lake at upper reaches. The area adjoining the proposed site does not support any population of breeding penguins or seals
+Description of Activity
+The remote Sensing Satellites are Low Earth Orbiting Polar Satellites.  These  satellites  complete  about  14 orbits per day  out of which  about 10 to 12 orbits   have  visibility  at Larsemann Hills.  It  is  planned   to  receive   the  global  coverage  data  from  these satellites,  as also  the  Telemetry, Tracking & Control  (TTC)  commands , which can be uplinked  to the  satellites  from  this  location as  India  have  multiple  satellites.  the  time  duration  between  the   visibility  of  different  satellites   is  very short and  most of the  times  it  is   simultaneous (Clashing) .   In case  of  clashes,  the   priorities  are  assigned  for  supporting  the  identified  mission/ Satellite.  In  view  of  presence  of  multiple  satellites and   the  need to acquire data /uplink TTC commands,  it is envisaged that  this  station  will be  operational  on a 24 X 7 basis. The scope of project includes development of systems (software, firmware, and hardware), transportation to Antarctica, installation & commissioning. 
+Communication Station at Antarctica (DCS): 
+The  configuration  of the  Data  Communication  Station  will have capability  such  that  two  C - band transponders of  36 MHz. Bandwidth each  can be utilized simultaneously to transmit at 2x40 Mbps data rate,  Optimum  Bandwidth utilization techniques  for transfer of high speed satellite data along with other communication services will be  incorporated. However initially, only one transponder with  36 M Hz bandwidth will be operated. The satellite link shall be established between one node at Antarctica and  two  nodes in India  viz. NRSC and NCAOR.
+
+
+
+
+
+Figure 2: Overall scheme of Antarctica Ground Station Project
+
+
+The link between Antarctica and NRSC shall support high speed data transfer and two way communication services at 4 Mbps data rate for VoIP, Video conferencing, M &C, TTC and  Internet. Whereas scientific data, entertainment channel, Internet, M&C of systems of Bharti station @ 2 Mbps data rate will be transmitted. 
+Following tasks have been perceived to comprise the installation: 
+
+    • Reception of data from all the possible Remote Sensing satellites.
+    • Visibility of about 10 passes/day for each mission.
+    • Establishment of High Speed GEO link for Data transfer to NRSC for further processing.
+    • Remote Control & Monitoring from NRSC for Station Operations & Maintenance
+    • Redundancy for Station Reliability and Availability.
+    • S-Band chain configuration with TTC capability.
+    • Power efficient systems (Total 40 KVA max.)
+    • Withstand extreme Low Temperatures and high wind velocity under RADOMEs
+    • Systems with a proven record in such locations will be established.
+    • Sufficient storage capacity to store 5 days data of all planned missions
+    • About 22 % No Clash, 43 % two mission clashes and 24% three mission clashes are expected.
+Transportation and Site preparation 
+All the construction material needed for establishment of two Radoms and the control room will be transported from India to Cape Town by cargo ship and further onto Larsemann Hills in a chartered ice-class vessel M/v Ivan Papanin, commencing late November 2012. I/B Vladimir Ignatyuk, which is an icebreaker has also been chartered to make way for Ivan Papanin where high sea-ice condition prevails. The construction material and related machinery will be off loaded and further transported by pisten-bulley to the site. One Kavov-32 helicopter would also be utilised to transfer material from ship to the site in case of adverse conditions. 
+The construction of the ground station is planned to be completed during the austral summer of 2012-13 and will be made operational during same season.  A total of 15 members will be engaged for installation and commissioning of the ground station.  Subsequently two persons will be deployed every year at Bharati for maintenance purposes. The antenna systems will be located just about 200 meters in a southerly direction from the Bharati Station. For the construction purposes, equipment and machineries such as pisten-bulley, bulldozer, drilling machine and crane are planned to be used.  .  
+Construction of three Radom platforms has already been carried out concurrently with the construction of the station building. Establishment of disks, laying of connection wire for communication, control room and placement of module to operate a generator (to produce 40 kVA electrical output), are needed in addition to the tasks already completed. For the operation of control room and the antenna movement, maximum power requirement is estimated to be 40 kVA; however this requirement is intermittent and is dependent on the passing of satellite and transmission of data. Platforms of size 11x11 meter shall be made for each antenna system, whereas a total 280 meters of cable will be laid between antenna and Bharati station.
+
+Figure 3: Location of two foundations (existing) for Radom platform adjacent to existing station
+								
+
+
+
+
+
+
+
+It is estimated that about 50 MT steel and 8 MT of fibre material will be required for the construction of the random. EN 10210 grade steel for rectangular and square sections and IS 2062 grade -C for channels, plates, covers and gussets will be used. It is envisaged that a control room inside the station will cover an area of two containers (20’x16’). Noise generation from the control room during operation will be almost negligible. 
+Precautions against environmental damage and extended use of system
+    • All the material will be packed in wooden crates for transportation from India to Antarctica. After unpacking, all the articles will be placed and waste packing material will be transported back to India for proper disposal.
+    • Designing and construction of system have been done for a life span of 20-25 years; once the life span is over all the material may be removed from the site and sent back to India. 
+    • All Indian Remote sensing satellites and any one of the Geo-stationary satellites that have common Foot print between Bharati Station and India will be used for receiving and transmitting data; however this technology may be extended to receive data from other satellites available in that range from other country, at present or in future.
+    • All the electronic systems to be installed are well within ISI/EU norms of electromagnetic radiation. 
+    • Area of foundation of one Radom estimated to be 77 m2 and diameter of Radom will cover 12.5 meters. Radom will be placed around 100 meters distance from each other to avoid any hindrance. Presently only one communication and one remote sensing antenna Systems will be installed. Second remote sensing antenna will be installed in future after few years, subjected to need.
+    • To reduce the emission loads from operation of generator power  reduction  is  achieved  by reducing  the  number  of  Remote Sensing  antenna  systems  and by eliminating  the  heating requirements for  the  outdoor  equipment. 
+    • It  is  planned  to  have  cable  trays  for connecting  control room and Radom of total  length  equal  to   200 meters.  The  tray size  is  planned  as  8" x 4", raised  to  a  height  of  about one meter. It is estimated that total number of small supports will be around 100 in numbers which will be placed at equal distance.
+Energy Management  for Present Radom and Communication Antenna
+Fuel based power generation system is the main source of energy for the station needs. The heat generated from the generators utilized for heating the station using Combined Heat and Power (CHP) concept. These provisions reduce the environmental impact of the fossil fuel. Maximum electrical load of the station is had been to be around 153 kW, however at present station is being run in lower demand of power need. Three CHP of 100 kW (operated with ATF) have been installed in the station. Only one CHP unit  runs and second unit starts whenever additional load demand arises. The maximum demand of station is 96 kW and additional peak load of around 57 kW, has been envisaged. Power requirement of maximum 40 kVA, for the operation of one Radom and one communication antenna will be met through station’s power generation unit. Additional generator of small capacity will be installed in future, if need envisaged.
+Environmental Impact due to Operation
+Once the establishment of one Radom and one communication antenna is completed, the only source of emission will be through the operation of 75 kW generator set which will be used to supply power to the system in future, if additional two Radoms will be established. Since a part of supply of power will also be drawn through existing operational generator of the station, it is estimated that around 40-50% load will be shared by 75 kW generator set.
+It is predicted that around 50 MT of ATF in form of fuel will be required to operate generator for a year in addition of present requirement for station. During the operation throughout the year it is predicted that 62 kg of PM10, 46 kg of SO2, 711 kg of NOx and 49 kg of CO will be released to the atmosphere, if new generator is installed. 
+Cumulative Impact Evaluation
+A matrix was prepared to identify the impacts and define appropriate practical mitigation measures. The main environmental disturbances during the establishment of earth station and operational phases pertain to:
+    • air pollution due to emissions from the vehicles, vessels, helicopters, and generator
+    • ground impact due to vehicular and human movement
+    • noise pollution
+ Impacts associated with propsed activities are identified and defined in matrices (Table 1). Impacts, mitigation measures related to the impact and ranking of the activities are defined according to their extent, duration, intensity and significance. The environmental evaluation matrix indicates, by and large, low category impacts. Proper preventive and mitigation measures have been proposed for strict implementation during the construction phase.
+
+Extent
+Site Specific
+Area adjoining to operational or construction site
+
+local
+Within Larsemann Hills, approach way from ship to site and other modules
+
+regional
+Prydz Bay Area
+
+continental
+Antarctica and southern ocean
+
+global
+All continents and sea
+
+
+
+Probability
+unlikely
+Should not occur under normal operation and condition
+
+Low
+Possible but unlikely
+
+Medium
+Sometimes may occur
+
+High
+Likely to occur during span of project
+
+Certain
+Certain to occur
+
+
+
+Duration
+very short
+Few minutes to Few hours
+
+short
+Few hours to Few weeks
+
+medium
+Few weeks to Few months
+
+long
+Few months to Few years
+
+very Long
+Decade to Century
+
+
+
+Significance
+A
+Very low - Ecosystems or natural processes or scientific research not affected
+
+B
+Low – Changes to ecosystems or natural processes or scientific research are less than minor or transitory
+
+C
+Medium – Changes to ecosystems or natural processes or scientific research are minor or transitory
+
+D
+High change to ecosystems or natural processes or scientific activities are greater than minor or transitory
+
+E
+Very high – Major changes to ecosystem or natural processes or scientific research are significant and irreversible
+
+
+
+Table 1: Impact Evaluation
+
+Environmental
+Parameters /
+Indicator
+Potential Impact from activities
+Extent
+Duration
+Probability
+Significance
+Mitigation
+Measures
+Air
+Impact from movement and operation of ship, helicopter, bulldozer,  crane and generators
+site specific
+medium
+low
+B
+Abiding by MARPOL 73/78. Annex IV will ensure use of quality fuel and thereby controlled emissions. The ship will be berthed away from the site so it will not add cumulative impact at site on the air quality. Material will be shifted from ship to site using piston-bulley and by few helicopter sorties. However, care will be taken to operate the machineries to minimum required time and engine will be switched off while not in use. Thus the emission levels are expected to be minimal.  Engines of helicopter will be shut after landing on helipad, located near station. The impact on the air is, therefore, expected to be minimal. Machineries viz. dozer and crane will be operated with ATF which emits much lower particulate matter and exhaust gases as compared to the diesel fuel. 
+
+Airborne dust emission due to drilling operation and excavation and filling
+site specific
+short
+low
+A
+Drilling of the holes in ground will be done only for foundation of 10 cm diameter small steel trestle to hold cable. This operation will be carried out taking into consideration enclosing the area to arrest the dust spread due to operation. If needed, water will be sprinkled over area to reduce the possibility of generating air borne dust. Columns to erect platforms for Radom are already completed in the past.
+
+Impact due to operation of generator
+local
+long
+low
+B
+It is envisaged that maximum power requirement for the three Radom (one communication and two remote sensing) operation will be 60 kVA. Since only two Radom will be operational (one communication and one remote sensing) for initial two-three year power requirement can be met through station’s existing generator, however while third Radom will be operation, power requirement will be met through operation of one 75 kW generator which will operate on 40-50% load. Exhaust of generator will be kept higher to increase dispersion and dilution of emission, will contribute nominal gases and particulate matter in the surrounding environment
+Water
+Airborne particulate matter due to drilling, excavation, filling, vehicular movement and generator operation may have impact on  surrounding small water bodies
+
+Site specific
+short
+low
+A
+Care will be taken to put up barriers in the form of sheets in the leeward wind side to arrest the airborne particles. However, as the prevailing wind direction is mostly from east to south-east direction, the effect on the water bodies will be minimal as these water bodies are situated away from leeward side. 
+Vehicles/machineries and generator will be operated on ATF which emits minimal particulate matter and gases. Care will be taken to operate the vehicles during appropriate wind condition to avoid dispersion of the particulate matters in the ecologically sensitive area. Speed of the vehicle will be maintained less than 10 kmph to avoid higher consumption of fuel.
+The exhaust of generator will be kept higher for proper mixing and dispersion of particulate and gases which will not mix with surrounding lakes. 
+
+Solid-waste and wastewater release from the ship, which will introduce nutrients, heavy metals, faecal coliforms to the marine ecosystem
+Site specific
+Very short
+unlikely
+A
+All kind of solid waste will be stored for proper disposal out of Treaty area. Treated and disinfected sewage will be stored in the tanks for disposal. 
+Noise
+Helicopter, generator and machineries and drilling operations may affect the fauna of the area
+local
+short
+low
+B
+Helicopter will not remain in air for long hours. At the landing site engine will be switched off. Helicopter will not fly over any breeding site of terrestrial fauna i.e. penguins, seals etc. New generator will be installed in a separate containerized module paneled with acoustic absorber so overall noise will be felt very less. Low noise drilling machine will be used. However, suitable media will be used to absorb and reduce the propagation of vibration and sound to operation of machines and generators.
+Land
+An area of  around 440 square meter ( 363 m2 for Radom + 57 m2 for cabling and 20 m2 for container module ) will be affected
+Site specific
+short
+high
+A
+The Radom platform had already been taken into account for the development of CEE of new station. Additional 57 m2 will be required for cable laying over tray and placing a containerized module near station covering area of 20 m2.  Since all Radom, cable and module will be on platform which will be raised above ground with proper clearance to pass air and snow actual land disturbance is minimal.  Once construction of station is over the vehicular movement will be very minimal except those used for transportation of resupply materials
+Flora and  Fauna
+Bird hit by helicopter flying
+
+local
+Very short
+unlikely
+A
+The site does not fall under any observed migratory route of birds and the probability of bird hit is negligible
+
+Alien species may be introduced from human clothing etc
+local
+short
+low
+B
+It will be ensured that adequate cleaning and inspection of materials are done before sending these to Antarctica.
+Wilder-ness and Aesthetic values
+Radom establishment  may affect the aesthetic value of the area
+
+Site specific
+long
+low
+B
+Two Radom will be near to station building and almost at the height station; one Radom will attain height up to existing building and another one will be raised only few meters above the building level.  This establishment will have slight effect on the aesthetic value of the area if seen from few ten  meters away from station site otherwise from few hundred meters away this will not be visible.
+HSM,ASPA, ASMA
+Present site falls under ASMA- 6
+local
+long
+low
+A
+No direct impact on the area, but the ASMA guidelines will be strictly followed.  
+Supporting Bibliography
+Antarctica Treaty, (2006). (In) CEP Handbook, pp 13-17.
+Beg M.J., Das M., Shrivastava M., Singh J., Wanganeo A, (2006). A preliminary report on the scientific study and establishment of first structure in the area (Larsemann), XXIV-Indian Scientific Expedition to Antarctica, NCAOR. 
+
+Burgess J.S. and Kaup E. (1997), Some Aspects of Human Impact on Lakes in the Larsemann Hills, Princess Elizabeth Land, Eastern Antarctica, (In) Lyons, W.B., Howard-Williams, C. & Hawes I., (Eds), Ecosystem Processes In Antarctic Ice-Free Landscapes, Rotterdam: Balkema, 259–264
+COMNAP, (2005). Guideline for Environmental Impact Assessment in Antarctica, COMNAP/ATCM.
+COMNAP, (2005). Practical guideline for developing and designing monitoring programmes in Antarctica, COMNAP Secretariat, Hobart, Australia.
+Gillieson D. S., Burgess J., Spate A., Cochrane A, (1990). Atlas of the lakes of the Larsemann Hills, Princess Elizabeth Land, Antarctica, A N A R E Research Notes, No.74.
+IP 26, (2008). Initial environmental evaluation for installation of earth station at Maitri, Schirmacher Oasis, Antarctica, XXXI-Antarctica Treaty Consultative Meeting, Kyiv, Ukraine
+IP 64, (2011). Final  Comprehensive Environmental Evaluation of new Indian research station  at Larsemann hills, Antarctica and update on construction activity. XXXIV-Antarctica Treaty Consultative Meeting, Argentina.
+Khwairakpam G., Singh R.K., Pal N., Sharma B., Verma V.K., Khandal R.K, (2007). Water quality of some lakes in Grovnes promontory (Larsemann Hills): East Antarctica, A Report, Shriram Institute for Industrial Research, New Delhi.
+Ravindra R., Rajan S., Dhar A., Malhotra P, (2004). Prydz Bay: Voyage to select site for Indian Second research station in Antarctica. Report of First Task Force to Select Site for Indian Research Base, NCAOR, India.
+The Environmental Protocol, (1991). Protocol on environmental protection to Antarctic Treaty. (In) Committee for Environmental Protection,  Handbook-2006, pp 19-64.
+Turner J ., Pendlebury S, (2004). The international Antarctic weather forecasting handbook, BAS, United Kingdoms.
+U.S. EPA, (2000). AP-42 Emission Factors, Fuel Oil Combustion, Ver 8.0.
+WP8, (2007).  Larsemann Hills east Antarctica, Antarctic Specially Managed Area Management Plan, (Australia, China, India, Romania and Russian Federation). XXX-Antarctica Treaty Consultative Meeting, New Delhi.
+
+
+

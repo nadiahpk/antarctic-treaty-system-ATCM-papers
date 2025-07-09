@@ -1,0 +1,1257 @@
+﻿Talos Dome Ice Core Project (TALDICE): Initial  Environmental Evaluation for Recovering a Deep Ice Core at Talos Dome, East Antarctica: Comments from CEP Contact Points.
+Talos Dome Ice Core Project (TALDICE): Initial  Environmental Evaluation for Recovering a Deep Ice Core at Talos Dome, East Antarctica: Comments from CEP Contact Points
+
+At the sixt meeting of the Committee for Environmental Protection (CEP VI), the Italy submitted a IP intitled “Talos Dome Ice Core Project (tdice): information note for environmental evaluation”, in view of next IEE for submission at the XXVIII ATCM.
+During the summer 2005 Italy prepared a draft of the initial environmental evaluation (IEE ) on the beginning activities at the Talos Dome ice core drilling camp,  in preparation in the next 2004-05 antarctic campaign.
+During this campaign it was installed a camp built using the module of IT-ITASE plus 3 tents, the camp itself is temporary and will be disassembled at the end of the drilling.
+A trench for drilling, ice core processing facility and “field laboratory” (40  m long, 4 and 3 m wide, and 4 m high) has been excavated and the mechanical drill erected. The trench was lined with a wooden floor comprising approximately 2000 kg of timber and covered with a “weatherhaven” shelter.
+During the 2004-2005 season, an initial pilot hole has been drilled to a depth of approx 100 m. The first 90 m have been lined with a Fibre Reinforced Plastic casing, to prevent the borehole from collapsing in on itself, and to prevent the drilling fluids (see section 2.2.4 of trhe IEE draft) from seeping out the  bore hole. 
+Before the beginning of the activities a monitoring program it was performed collecting samples of the snow around the field to use as reference during future ispections.
+Project, planning and execution are monitored by the environmental protection officer at PNRA Consortium. During the deep ice core drilling project, in compliance with PNRA environmental policy and mitigation measures outlined in this IEE will be the responsibility of the PNRA, principal  investigator, to undertake environmental inspection of field camp.
+During the antarctic campaign the IEE was completed and at the beginning of 2005 the IEE was sent to the CEP Contact Points which were invited to examine the IEE draft and give their considerations.
+Summary of comments received and responses are reported below.
+
+
+Section
+Comments/ Suggestions
+Response
+1
+Is it sufficient an IEE in the present case,  and anyway this should be mentined in the present study itself.  ( Germany)
+Based on other, drilling project s, hearing the opinion of the experts in the issue ( French, Austalian, English), has been decided that it was pertinent, with the scope of the project, to report the Talos Dome Ice Core Project as a IEE. ( see references)
+2
+Drilling activity has started before the procedure laid down in the Protocol was finalized. ( Germany)
+Information on drilling activity, with introduction of a casing, for the first 100 m with no insertion of the drilling fluid during 2004-05 Antarctic campaign , it was  reported in the information paper proposed at CEP VII in Cape Town.
+2
+From environmental point of view it was asked whether waste water  should not be pre-treated before it is discharged in the ice-pit ( Germany)
+Item 2,5 of thge IEE draft it was implemented. Ansewering to the question on waste waters pre-treating before the discarge ,we think that this option should add chemical compounds and could result in on encreasing of the contamination.
+5
+There are methods to remove the fluid from the borehole and what kind of impact would be to leave the fluid behind (Australia)
+The impact of this amount of fluid should be transitory, on the basis of known releases of petroleum products in Antarctic environments, also taking into account the extremely slow release that can be foreseen. (see section 5.1.1, 2.2.4)
+5
+Addicional mesure to prevent spills of fuel could be to place the containers on an oil collecting tray.
+The recommendation it was take in account (5.1.4)
+8
+Clarify the number of scientist involved in the project and possible other uncertains. ( Germany).
+The question it was clarified in the item number 8 of the IEE draft.
+9, 5
+Use in preference words from the Protocol when describing the expected impacts (Australia)
+Expressions like “the impacts are not more than minor or transitory or transitory” have been add where necessary
+
+Submit an Information Paper to the CEP advising the people on completed IEE to obtain a copy of the document ( Australia)
+Done
+
+General comments reported from the Parties agreed that the environmental evaluation was been carried out very carefully and meets the requirements of the Environmental Protocol.  In the majority of the cases, the Parties corfirmed that the format IEE chosen for the environmental evaluation seemed right to the scope given the scale of the activities.
+
+
+
+
+
+DRAFT,  April 2005
+TALOS DOME ICE CORE PROJECT (TALDICE): INITIAL ENVIRONMENTAL EVALUATION FOR RECOVERING A DEEP ICE CORE AT TALOS DOME, EAST ANTARCTICA
+
+
+
+
+
+
+
+
+
+
+
+
+IT-ITASE module and vehicles (Photo courtesy L. Simion)
+
+
+
+Consortium for the implementation of the
+ National Programme of Antarctica Research
+ENEA CR Casaccia
+Via Anguillarese, 301
+00060 Roma
+Italy
+ 
+On behalf of PNRA Consortium this IEE was prepared by Dr. M. Frezzotti (ENEA, Climatic Project) with the contribution of Ing. P. Giuliani and Dr. S. Torcini (PNRA Consortium).
+
+Table of Contents
+Non-technical summary 	4
+1. Introduction 	6
+2. Description of the activity	6
+2.1 Location of the proposed activity	6
+2.2 Principal characteristic of the proposed activity	7
+2.2.1 Aim and objects	7
+2.2.2 Field Camp	9
+2.2.3 Drilling methodology	10
+2.2.4 Drilling fluids	11
+2.2.5 Termination of drilling operations	11
+2.3 Duration and intensity of proposed activity	13
+2.4 Transportation requirements	14
+2.5 Waste management	14
+2.5.1 Alternative waste disposal methods	15
+2.6 Use of existing facilities	15
+2.7 Construction requirements	15
+2.8 Decommissioning	15
+3. Description of the environment	16
+3.1 Description of existing environment	16
+3.2 Biota	16
+3.3 Past uses of the area	16
+4. Consideration of alternatives	17
+4.1 No action alternative	17
+4.2 Alternative locations	17
+4.3 Alternative drilling methods	18
+4.4 Alternative drilling fluid	18
+4.5 Use of alternative energies	19
+4.6 Prediction of future environmental state in absence of the proposed activity	19
+5. Prediction of the impacts of the proposed activity	19
+5.1 Direct impacts of activities at Talos Dome Camp	19
+5.1.1 Non recovery of drilling fluid	19
+5.1.2 Atmospheric emissions	20
+5.1.2.1 Air pollution from vehicles and generators	20
+5.1.2.2 Air pollution from drilling fluid 	21
+5.1.3 Waste	21
+5.1.4 Minor Spills of fuel or drilling fluid	21
+5.1.5Minor change in local topography due to snow drifts	22
+5.1.6 Biota	22
+5.1.7 Effects on areas of geological or glaciological significance	22
+5.2 Indirect and second order impacts	22
+5.3 Cumulative impacts	22
+5.4 Potential impacts on research and other uses	23
+5.5 Unavoidable impacts of the proposed activity	23
+5.6 Methods and data used to predict the impacts of the proposed activity	23
+5.6.1 Data and information	23
+5.6.2 Methods	23
+6. Mitigating measures	27
+7. Environmental monitoring and management	27
+8. Gaps and uncertainties of the CEE process	28
+9. Conclusion	29
+References	29
+Appendices	30
+
+NON-TECHNICAL SUMMARY
+FOR A PROPOSED DEEP ICE CORE DRILLING PROJECT AT TALOS DOME (TALDICE)
+
+This initial environmental evaluation (IEE) has been carried out by the PNRA Consortium Scrl for a proposed deep ice core drilling project at Talos Dome (TALDICE), Antarctica. 
+Based on the other drilling projects, hearing the opinion of the experts we have chosen on IEE because it appeared appropriate given the scale of the proposed activities.
+The IEE has been prepared in accordance with Annex 1 of the Protocol on Environmental Protection to the Antarctic Treaty (1998). 
+
+The deep ice drilling at Talos Dome project (TALDICE) is one of the major components of the scientific programme envisaged for the Italian and French Glaciology communities in the next future with the collaboration of other European countries (Germany, Switzerland, UK).
+The purpose of the activity is to obtain information on the past conditions of the terrestrial atmosphere and thus on past climates, through the analysis, the study and the analysis of ice cores recovered at Talos Dome.
+The location of Talos Dome is particularly suited for this scientific investigation because of the horizontal layering of the ice, the extremely slow transversal flow (some centimetres per year) and the great thickness of the ice (between 1500 and 2000 m). Horizontal layering and slow flow improve the quality and the reliability of the record. Drilling at Talos Dome should reach depths lower than 1500 m, giving thus the possibility of investigating paleoclimates of about 120 kyr ago. The results obtained at Talos Dome could complement, verify and increase the paleorecord collected at the "near-coastal sites" EPICA- DML, Berkner Island, Taylor Dome, Siple Dome and Law Dome DSS etc., and at other Antarctic deep drilling sites (EPICA-Dome C, EPICA-DML, Vostok, Dome Fuji). Planned activities during the ice core recovery project involve setting up a temporary drilling camp over 3 austral summer seasons (2004-2007), including a trench for drilling, processing and storage of ice core. The drilling equipment and the material necessary for the establishment of a drilling camp (with a total mass of approx 50t) will be transported to Antarctica by sea, unloaded at the Mario Zucchelli Station, then transported by airplane. The drilling camp is designed for approx. 12 scientists and technicians involved in and supporting the ice core project. The construction of the field camp have limited impact because it is built using the module of IT-ITASE plus 3 tents; the camp itself is temporary and will be disassembled at the end of the drilling. 
+
+Talos Dome (elevation 2316 m, T – 41.0 °C, 72°48’S; 159°06’E) is an ice dome on the edge of the East Antarctic plateau and adjacent to the Victoria Land mountain in western Ross Sea. Talos Dome is located about 290 km from the Southern Ocean, 250 km from the Ross Sea, 550 km North of Taylor Dome and 275 from the Mario Zucchelli Station at Terra Nova Bay. There are no ice free grounds in the vicinity (>50 km), and no known biota (>250 km). Shallow ice core drilling, without the use of drilling fluids and geophysical survey, have been performed at the site in the past, and therefore it has already been subject to minor human disturbance.
+
+Four alternatives have been examined:
+    1- Do nothing
+    2- Drill elsewhere in Antarctica
+    3- Use alternative drilling technology
+    4- Use alternative drilling fluid
+All four alternatives were considered not viable for scientific, technical and safety reasons.
+
+The area likely to be impacted by the deep ice core drilling project is estimated at around 2 km2 for field camp and airstrip. The main environmental impacts that have been identified are the use of HCFC 141b (an Ozone Depleting Substance) as a densifying agent for the bulk drilling fluid, and the non-recovery of the drilling fluid.
+
+The fluid will remain in the ice for many tens of thousands of years, until the ice present at Talos Dome at the time of the drilling will eventually reach the sea. A conservative estimate is of the order of 50 to 500 thousand years from now. During this time the ice will deform plastically, until the fluid will be dispersed in a very large volume of ice. The impact of this amount of fluid should be transitory, on the basis of known releases of petroleum products in Antarctic environments, also taking into account the extremely slow release that can be foreseen. Using current technology, it has been assessed by PNRA Consortium that recovery of the drilling fluid would cause greater environmental impact than leaving it in place.
+
+In additions, minor environmental impact occurs from air pollution by vehicles and generators emission, grey and black water discharged into the ice via a drainage pit. Other minor environmental impacts may occur as a result of the field camp, including the production of a small quantity of waste and contamination of snow caused by minor spills and leaks of fuel and drilling fluid.
+
+On the other hand, the impact of drilling activities at Talos Dome will be more important at the Mario Zucchelli Station at Terra Nova Bay, where the potential impact due to aircraft movements is clearly one of the main environmental concerns related to the entire Talos Dome activity.
+
+Appropriate measures are recommended to mitigate any adverse impacts deriving from the proposed activity. Project and planning and execution are monitored by the environmental protection officer at PNRA Consortium. 
+
+During the deep ice core drilling project, in compliance with PNRA environmental policy and mitigation measures outlined in this IEE will be the responsibility of the PNRA principal investigator. Environmental inspection of field camp will also be undertaken by the PNRA Environmental officer.
+
+Having taken all the above factors into consideration, the PNRA Consortium has come to the conclusion that the unavoidable strains imposed on Talos Dome by the deep ice core recovery project is likely to be confined to a level at which the impacts on the Antarctic environment are minimal on the whole.
+1. Introduction
+
+This initial environmental evaluation (IEE) has been carried out by the PNRA Consortium Scrl for a proposed deep ice core drilling project at Talos Dome (TALDICE), Antarctica. Based on the other drilling projects, hearing the opinion of the experts we have chosen on IEE because it appeared appropriate given the scale of the proposed activities.
+The IEE has been prepared in accordance with Annex 1 of the Protocol on Environmental Protection to the Antarctic Treaty (1998). 
+
+2. Description of the activity
+
+2.1 Location of the proposed activity
+
+Talos Dome (elevation 2316 m, T – 41.0 °C, 72°48’S; 159°06’E) is an ice dome on the edge of the East Antarctic plateau and adjacent to the Victoria Land mountain in western Ross Sea (Fig. 1). Talos Dome is located about 290 km from the Southern Ocean, 250 km from the Ross Sea, 550 km North of Taylor Dome and 275 from the Italian Station (Terra Nova Bay). 
+
+
+
+
+Fig 1 Schematic map of Talos Dome, contour every 500 m, contour every 10 m in Talos Dome area.
+
+2.2 Principal characteristic of the proposed activity
+
+2.2.1 Aim and objects
+
+The proposed activity is a collaboration project between Programma Nazionale di Ricerche in Antartide, Italy, Laboratoire de Glaciologie et Géophysique de l’Environnement (LGGE-CNRS) - Institut Polaire Francais Paul-Emile Victor (IPEV, France, University of Bern, Switzerland, Alfred Wegner Institute (AWI), Germany and the British Antarctic Survey UK. 
+
+Two criteria have been used in the selection of the site (Frezzotti et al., 2004):
+
+- find the best age-depth relationship both quantitatively, in order to obtain ice as old as possible, and qualitatively, in order to have still a good resolution when close to the bedrock;
+
+- find a site where dating of ice cores and determination of their origin is not particularly difficult.
+
+The purpose of ice drilling is to retrieve ice cores coming from layers all the way down to the bedrock, which is at a depth of more than 1550 m under Talos Dome. The retrieval of cores and their subsequent study and analysis will yield valuable data on the temperature and atmosphere composition prevailing in the remote past. The cores will be transported to Europe and distributed amongst the collaborating institutes for laboratory analysis. Talos Dome has a good geochemical and paleoclimatic record preserved in the ice (Stenni et al., 2001), because the accumulation (80 mm w eq yr-1) is higher there than at other domes in East Antarctica, and the ice thickness (about 1550 m) could cover more than a glacial/interglacial cycle (120 kyr) to decade time-scales (Frezzotti et al., 2004). A surface strain network of nine stakes measured using GPS. GPS survey indicate that the stake closest to the summit and along the SSE ice divide moves a cm yr-1, the other stakes, located 8 km away, move up to 0.34 m yr-1  (Fig.2). 
+
+
+
+Fig. 2 Detailed Talos Dome map from GPS survey with GPR-GPS profiles, ice velocities and summit position (TDS). Map projection in UTM (Frezzotti et al., 2004).
+Snow radar and GPS surveys show that internal layering is continuous and horizontal in the summit area (15 km of radius). The depth distribution analysis of snow radar layers reveals that accumulation decreases downwind of the dome (N-NE) and increases upwind (SSW). The statistical analysis of third layer profiles shows the lowest standard deviation along the SE ice divide. The palaeo-morphology of the dome has changed during the past 500 years, probably due to variation in spatial distribution of snow accumulation, driven by wind sublimation. The radio echo-sounding result indicates that the bedrock of the Talos Dome summit (TDS) is about 440 m in elevation, and that it is covered by about 1880 m of ice. The dome summit is situated above a sloped bedrock, but there is a relatively flat bedrock 5-6 km in the distance along the SE ice divide (ID1), where the bedrock is about 770 m in elevation and covered by 1545 m of ice (Fig. 3). At ID1, internal layering is continuous and horizontal with divergent flow, under the dome summit internal layers follow the bed topography and site moves around ten cm yr-1 (fig. 2). ID1 site (159°11’00” E 72°49’40”S, 2315 m) can be considered a good location for the drilling project (Frezzotti et al., 2004).
+
+A deep drilling at Talos Dome could improve the knowledge about the response of near-coastal sites to climate changes and Holocene history of accumulation rates in the Ross Sea region.
+
+
+ Fig. 3 Surface and bedrock, elevation in Talos Dome area, TDS summit of dome, ID1 ice divide, see figure 1 for area location  (Urbini et al., in preparation).
+
+2.2.2 Field Camp
+
+A field camp (ID1; 159°11’00” E 72°49’40”S) is yet established at 5-6 km distant from Talos Dome summit (along the SE ice divide), where the bedrock is flat at about 750 m in elevation and covered by 1550 m of ice.
+
+The distance from the Italian base at Mario Zucchelli Station at Terra Nova Bay (275 km) is such to make easier. Access to Talos Dome will be mainly by Twin Otter, from the Mario Zucchelli Station at Terra Nova Bay. Planned activities during the ice core recovery project involve setting up a temporary drilling camp, including a trench for drilling, processing and storage of ice core. 
+
+The drilling equipment and the material necessary for the establishment of a drilling camp (with a total mass of approx 50t) is transported to Antarctica by sea, unloaded at Zucchelli Station, then transported by airplane (1.5 h travel time). 
+The drilling camp is designed for approx. 12 scientists and technicians involved in and in support of the ice core project. The construction of the field camp have limited impact because it is built using the module of IT-ITASE plus 3 tents; the camp itself is temporary and will be disassembled at the end of the drilling. 
+IT-ITASE modules mounted on steel sledges and 3 tents make up the summer camp. They are grouped in four groups:
+
+    1 The first module is for living accommodation, kitchen, dinning room; it is made up of the sleeping-living module of ITASE (8 beds) plus 1 tents (4 beds).
+    2 the second group is for a toilet and shower, diesel-electric generator, workshop, snow-melter; it is made up of the generator-workshop module of ITASE plus 1 tent.
+    3 the third group is for storage area it is made up of the storage module and 3 fuel sledges of ITASE.
+    4 the fourth group is for drilling activity and second diesel-electric generator; it is made up of the drilling-core storage module of ITASE plus 1 tend and trench dug in the snow.
+
+An enclosed passage way connects the first two groups. Various electric and service connections link the three groups. 
+
+Fuel is stored in the 3 fuel sledges and positioned in such a way as to simplify fuel management and minimise the possibility of spills during fuel transfers to the smaller steel tanks for day-to-day use. A fuel spill emergency plan is being prepared; the base will be equipped with absorbent materials and the staff will receive specific training in oil spill control.
+
+The same precautions will be taken for the drilling fluid, which is basically petroleum with additive.
+
+Power supplied by generators (2 diesel generators of 30 kVA) are installed at field camp to operate the drilling equipment and to supply power to the field camp. Generator waste heat is used to provide a supply of water (snowmelter). In order to operate the various vehicles, aircraft and generators, Jet-A1 is required. Combustions of these fuels result emissions that are calculated on the basis of the total supply volume. The wastes, except for sewage will be collected and taken back to Mario Zucchelli Station and then away from the Antarctic Treaty Area. Grey and black waters are discharged into the ice via a drainage pit. 
+
+The area likely to be impacted by the deep ice core drilling project is estimated at around 2 km2 for field camp and airstrip. A trench for drilling, ice core processing facility and “field laboratory” (40 m long, 4 and 3 m wide, and 4 m high) is excavated over which the mechanical drill will be erected. The trench is lined with a wooden floor comprising approximately 2000 kg of timber and covered with a “weatherhaven” shelter. 
+
+2.2.3 Drilling methodology
+
+Drilling activities will take place during the summer months because of the extremely low temperatures prevailing at the site at other times. Drilling will be performed with electro-mechanical drilling equipments using a drilling fluid to balance the overburden pressure and to prevent ice flow closure of the borehole.
+
+The use of this fluid is vital for the deep drilling operations and special attention is given to its selection and use. Depending on the properties of the ice, dry drilling is possible to depths of approx. 200 m (max approx. 350 m). Greater core depths require the use of a stabilising fluid that compensates the hydrostatic pressure of the surrounding ice, thus preventing the plastic deformation of the borehole and constriction of its diameter. 
+
+During the 2004-2005 season, an initial pilot hole will be drilled to a depth of approx 100 m. The first 90 m will be lined with a Fibre Reinforced Plastic casing, to prevent the borehole from collapsing in on itself, and to prevent the drilling fluids (see section 2.2.4) from seeping out the bore hole. Drilling the pilot hole, and reaming for FRP casing, will be carried out using LGGE electromechanical medium depth ice core drill. 
+
+During the 2005-6 and 2006-7 austral summer seasons, the initial pilot hole will be filled with drilling fluid and drilling will be continued down to the bedrock at a depth of 1550 m. In the first full drill season a LGGE-BAS-IPEV drill system (Berkner Island drill system) and in the second full drill season a new Italian drilling system made in collaboration with LGGE will be used. The new system will be an evolution of the drill system used at EPICA Dome C (Fig. 4). The main evolution of the new system in respect of EPICA is the airborne and the provision of a pump system within the drill transfer chip/fluid slurry from the drill head to a collection chamber.
+
+
+Fig. 4 Design of the new Italian drilling system
+
+The electro-mechanical drilling equipments will be hung by a cable consisting of 7 conductors surrounded by 40 piano wires. The drills will be lowered into the borehole, coring will be performed, the drill will be brought back to the ground surface, and the core will be removed. The borehole will be 130 mm in diameter and the extracted ice core will be 100 mm in diameter. Each drilling operation will extract an ice core segment from 2 to 4 m long together with ice chips produced during the drilling operation. On the ground, the ice core segment will be taken out of the core barrel and ice chips containing borehole liquid will be removed from the chip chamber of the drill.
+
+2.2.4 Drilling fluids
+
+As mentioned before the use of a drilling fluid for such deep drilling with core recovery is inevitable. The high overburden pressure of ice would close the bore hole at depths under about 200-300 m, making the recovery of ice cores impossible. The fluid has also the function of helping the drilling process itself.
+
+Among the desirable characteristics of a drilling fluid for ice coring are:
+- freezing point below -41°C , the lowest ice temperature at  Talos Dome ;
+- density adjustable between 0.92 and 0.98 at temperatures between -41°C and about -10°C, in order to match ice density;
+- viscosity of 12 cp. at -41°C and of 5 cp. at -20°C; 
+- boiling point of about 50°C; 
+- dielectric properties; 
+- compatible with all metals;
+- compatible with plastics, in particular viton, teflon, polyethylenes; 
+- environmentally acceptable; 
+- non-toxic; 
+- non-explosive;
+- non-flammable.
+Its use should not create particular problems, especially during transport and drilling operations.
+
+Up to now a number of additives have been used to adjust the density of the drilling fluid; among which:
+- trichloroethylene and tetrachloroethylene, used at Camp Century and at Byrd in the sixties, 
+- anisole, used at GISP with butyl acetate as main fluid,
+- CFC F11 and CFC F13, used at Vostok, at D47, at Dome Law, at GRIP with ATK as main fluid.
+- most recently, the chlorofluorocarbon HCFC-141b with Exssol D series as main fluid has been employed at North GRIP, (NGRIP; University of Copenhagen), Dome C (East Antarctica; EPICA program), Dronning Maud Land (East Antarctica; EPICA program), Berkner Island (France and UK) and in the completion of the Russian Vostok - station borehole. The latter holds the current world-record depth at 3623 meters. 
+
+Tri-and tetra-chloroethylenes are toxic to man, therefore careful precautions are needed during their use; they are furthermore very unpleasant materials to work with, given their pungent and disagreeable smell. They are very volatile, but they do not damage the Ozone layer. They are slightly toxic, perhaps carcinogenic and therefore appropriate ventilation of the drilling shed must be implemented.
+
+CFC F11 and CFC F13 are technically good, non-toxic and no particular precautions have to be taken in their use, but they are damaging to the Ozone layer if released to the atmosphere. CFC F13 is the less volatile of the two, and thus the better one for this use.
+
+The Montreal Protocol placed HCFC-141b on its Class II substance list. Originally, Class II compounds were slated for restrictions starting in year 2015 and for outright prohibition by 2030. 
+
+The release to the atmosphere of evaporating drilling fluid can be envisaged in two instances: during normal drilling operations and when in the far future the mass of ice containing the borehole will eventually reach the marine environment.
+
+During drilling operations, contact will certainly occur between the fluid and the atmosphere, but it will be very limited, the surfaces being the area of the bore hole and any surface interested by a spill. In both cases, the evaporation should be very limited in time and also limited in absolute, because of the extremely low temperatures.
+
+When the bore hole will eventually reach the sea, between 50 and 500 thousands years, the release will be very gradual and the amounts of Ozone damaging compounds will be in any case very small.
+
+In any case it must be stressed that the absolute amounts of these compounds are quite small during this drilling operation. 
+
+The mixture of petroleum and the additives used recently in ice drilling complies with practically all of these desirable characteristics. The petroleum of Exssol D-series has been extensively employed in the several European ice core projects, including the EPICA DC that successfully reached the longest ice record in 2003.
+
+Based upon extensive experience in the framework of European deep ice core projects (GRIP, EPICA DC-, EPICA-DML, Berkner Island), the most appropriate fluid for use at Talos Dome has been identified as a mixture of 80% of Exxsol D40 drilling fluid with 20% Solkane 141b (HCFC 141b) densifying agent. Exxsol D40 is a complex hydrocarbon mixture. With regards to its environmental impacts, petroleum of the Exxsol D type is preferable to other types of petroleum, because the proportion of aromatic compounds is only 0.5% (the maximum concentration in turbine fuels is 20-25%). D40 is a highly volatile substance, which will rapidly evaporate and degrade in the atmosphere. However, evaporation at surface of the borehole itself is negligibly small due to the small surface involved and low surface temperature. Appendix 1 contains the data sheet for Exxsol D40.
+
+Solkane 141b, otherwise known as HCFC 141b, is a colourless liquid, which is more commonly used as blowing agent for plastic foams. Its chemical name is 1,1-Dichloro-1-fluoroethane. It has an atmospheric lifetime of 11.4 yr, and has been identified as an Ozone Depleting Substance (ODS). Appendix 2 contains the data sheet for Solkane 141b.
+
+The Ozone Depleting Potential (ODP) of substance is measured against CFC-11, for which the ODP is considered to be 1. The ODP of Solkane 141b is 0.11 in comparison to CFC-11. For this reason, it has been recognized as a viable alternative in the rapid phase out of CFCs. Solkane 141b has a high ecotoxicity and it is harmful to aquatic organisms.
+
+A total of 28 m3 of drilling fluid is required to drill a borehole to a depth of 1550 m, with a borehole diameter of 130 mm, taking in account the experience in EPICA and GRIP programme. It is not dangerous to handle and no special precautions are needed, apart from ventilation of the areas where it is used and general precautions against spillage. 
+
+The drilling bit has a diameter of 128 mm and it is suspended a cable. The borehole a diameter of 130 mm and the recovered ice core a diameter of 100 mm. The drilling fluid is fed into the borehole through tubes. The surface of the drilling fluid is some meters down the borehole. As the borehole depth increases, drill fluid is added to the borehole to maintain a constant head and prevent its contraction and sealing up due to ice deformation. Precautions are taken in the transport and handling and a contingency plan are prepared to control and contain possible spillages.
+
+At surface, the ice core is removed from the core barrel, and the chamber its emptied of the ice chips and drilling fluid mixture. The amount of ice chips produced results from the difference in volume between the recovered core (11.775 m3) and the borehole (19.900 m3), i.e. approx 8.1 m3 or approx. 7.5 t in the unconfined state. The impregnated drillings are separated from the drilling fluid in a centrifuge. The drilling fluid is recovered with an efficiency of 92-95% and can subsequently be fed back into the borehole. The ice chips dry out further by subsequent evaporation, such that they can be tipped into a shaft in the snow. Since the density of centrifuged chips is only around 550 kg m-3, a shaft of about 26 m3 will be needed.
+
+2.2.5 Termination of drilling operations
+
+The area likely to be impacted by the deep ice core drilling project is estimated at around 2 km2 for field camp and airstrip.
+
+Once retrieved, the cores will be flown by Twin Otter airplane to Mario Zucchelli Station, from where they will be loaded onto the PNRA vessel, to be sent to Europe for analysis.
+
+When drilling has been completed, the borehole is to remain open so that a sensor can be lowered for follow up measurements. Since the trenches will be closed, it will be necessary to extend the FRP piping to the upper snow surface.
+
+The drilling fluid and FRP casing will not be recovered from the borehole. The wooden floor of the drilling trench will also be left in place for future use. The field camp, drilling equipment, unused fuel and drilling fluid, and any remaining waste, will be returned to Mario Zucchelli Station for reuse or safe disposal.
+
+2.3 Duration and intensity of proposed activity
+
+The drilling activity should not last for more than three years. In the TALDICE schedule drilling at Talos Dome should be finished by 2007 when all the modules of IT-ITASE will be used for other scientific traverse and all others equipment should be taken back to the Mario Zucchelli and Concordia Stations and the drill equipment to Europe:
+
+2004/2005
+5 personnel (3 Drillers, 1 Scientists, 1 Mechanics) for 40 days. 
+
+A temporary field camp (summer camp) for the drilling activity is established using the vehicles and modules of the IT-ITASE programme plus 3 tents (drill and accommodation). 
+
+The traverse vehicles consisted of eight sledges (4 modules: sleeping-living, generator-workshop, drilling-core storage, 3 fuel sledges) and 4 vehicles. These are already at Talos Dome. 
+
+Drill facility (shelter, drill and science trench) is prepared.
+
+A pilot hole is drilled to a maximum of 100 m, reamed, and the FRP casing installed using 200 m France driller system. The ice cores is storaged at site.
+
+2005/2006
+12 personnel (7 Driller, 3 Scientists, 1 Mechanic, 1 Logistic) for 80 days. 
+
+The pilot hole will be filled with drill fluid and drilling will start and continue to approximately 700 m using the Berkner driller system, while the Italian driller system will be tested.
+
+Cores will be cut and processed for physical/electrical properties and be shipped to European Laboratories. 
+
+2006/2007
+12 personnel (7 Driller, 3 Scientists, 1 Mechanic, 1 Logistic) for 80 days. 
+
+Drilling will continue towards the bedrock (1550 m) using the Italian driller system.
+the 
+
+Core will be cut and processed for physical/electrical properties and be shipped to European Laboratories.
+
+November-December 2007 If necessary. 
+
+Drilling will continue to reach the bedrock, using the Italian driller system.
+
+Deep ice cores will be transported to MZS and be shipped to European Laboratories.
+
+Twelve personnel will spend a maximum of 40 days in the field.
+
+The field camp will be cleaned up and removed from TD to Mario Zucchelli Station and ITASE vehicles will move to Concordia Station.
+
+The hole will be used for a couple of decades for temperature or ice dynamics studies. This will imply adding tubes (around 2 m) and fluid from time to time at the surface to give access to the hole.
+
+2.4 Transportation requirements
+
+The tents and their associated equipment, including the drilling equipment will be carried to the Talos Dome area by Twin Otter starting from the Mario Zucchelli Station; also consumables, food and scientific, technical material, fuel and drilling fluid will follow the same route. 
+
+2.5 Waste management and disposal
+
+The waste management at the summer camp is based on the differential separation of the wastes at the origin. Solid wastes such as paper, cardboard, packaging material, wood, plastics, glass will be separated by type, compacted and stored to be taken back to the Mario Zucchelli Station. At the Mario Zucchelli Station, wastes are collected according to the following categories:
+
+1. paper, cardboard, wood and food scraps
+2. metals
+3. recyclable cans
+4. glass
+5. plastics
+6. photo-chemicals
+7. expired medicines
+8. batteries
+9. liquid chemicals
+10. oils (engine, hydraulic fluids)
+11. engine filters with oil residues
+12. sludge from sewage treatment
+
+The wastes retrograded from the Talos Dome area will go to the Mario Zucchelli Station, where burnable wastes may be incinerated in the two-stage incinerator the exhaust of which is monitored. Only paper, cardboard, wood and food remains are incinerated; ashes are collected in used fuel drums and sent to Italy at the end of the campaign, together with all other wastes. The agreement for this operation is renegotiated each year.
+
+More than 90% of the borehole liquid clinging to the ice chips will be recovered by means of an industrial centrifugal separator and be returned to the borehole. Later, the ice chips will be buried in a trench and covered with snow to avoid evaporation.
+
+Grey waters from showers or kitchen use or washing machines will be collected in appropriate containers and directly discharged into holes in the ice. Grey and black water will be discharged into the ice via a drainage pit. To limit to the maximum extent practicable the accumulation of black waters, it will be foreseen a service tent where will be adopted the sewage recovery system such as the wastes will be retro grated to MZS at the end of campaign.
+Following article 4, Annex III, Protocol of Environmental Protection to the Antarctic Treaty, liquid wastes may be disposed using the above considered system, on condition that this is the only possible means of disposal. Otherwise such deep ice pits are not located on known ice flow lines which terminate at ice-free area nether in area at high ablation.
+
+2.5.1 Alternative waste disposal method
+
+An alternative method would be to transport the wastes in drums to MZS at Terra Nova Bay.
+For an estimated maximum water consumption of 60 L per day and person and a medium operating time of 70 days for season, the total water requirement should be approx. 14000 L corresponding 70 drums. This corresponds, for a payload capacity per flight of 900 Kg, to approx 15 flight of Twin-Otter. Wastes could be then treated and disposed at MZS. 
+This method is impractical in view of high cost and great amounts of energy required for transportation and treatment of the wastes. In addition, such an increase in the number of flights would generate more negative impacts to the environment.
+
+2.6 Use of existing facilities
+
+The closest existing fixed facilities at Talos Dome site is, as already mentioned, the Mario Zucchelli Station at Terra Nova Bay (at 276 km).
+
+2.7 Construction requirements
+
+The drilling activity is located at a certain distance from the field camp. Personnel involved in drilling will be housed in tents and modules while a trench will be dug in the snow for housing part of the laboratory for the examination and packing of the ice cores.
+Construction requirements will therefore be very simple: also the generators and all other technical equipment will be located in the modules, which have already been described.
+
+2.8 Decommissioning
+
+The housing for personnel and for equipment at the drilling site are IT-ITASE modules composed of stainless steel containers mounted on steel sleds plus tents. They will be towed on site by tractors and shall be towed away when the drilling operation will be concluded. The capped well head shall remain on site but it should be the only trace of the drilling operation, until it  will also be covered by the accumulation of snow.
+The decommissioning of the summer camp should be a straightforward operation and it should leave the site basically as it was.
+
+3. Description of the environment
+
+3.1 Description of existing environment
+
+Talos Dome (elevation 2316 m, T – 41.0 °C) is an ice dome on the edge of the East Antarctic plateau and adjacent to the Victoria Land mountain in western Ross Sea. Talos Dome is located about 290 km from the Southern Ocean, 250 km from the Ross Sea, 550 km North of Taylor Dome and 275 km from the Mario Zucchelli Station at Terra Nova Bay. There is no ice free ground in the vicinity (>50 km), and no known biota (>250 km). 
+
+The environment at the Talos Dome site is basically a flat area of the East Antarctica plateau, devoid of any form of life, either flora or fauna. The area is featureless. The summer temperature is around –20°C, the winter temperature is around -55°C, and wind speed is moderate.
+
+3.2 Biota
+
+There are no ice free grounds in the vicinity (>50 km), and no known biota (>250 km). The absence of liquid water and the extremely low temperatures inhibit the presence of fauna and flora. There are no snow algae and no nutrients of any kind.
+
+3.3 Past uses of the area
+
+Research activities within the framework of France - Italy ITASE programme were started not far from the site in 1996. Two traverse surveys were carried out in the Talos Dome area in November 1996 and January 2002, and sporadic field activities have been performed since 1999. Airborne radar surveys were conducted in 1997, 1999 and 2001.
+An Automatic Weather Station (http://meteo.pnra.it) started to operate in on January 2003 and has been operating since then.
+4. Consideration of alternatives
+
+4.1 No action alternative
+
+Different countries have been involved or are still involved in deep ice drilling in Antarctica, namely the USA, Russia, Australia, Japan and Europe (Belgium, Denmark, France, Germany, Italy, the Netherlands, Norway, Sweden, Switzerland and the United Kingdom). There is a clear indication that this activity has produced extremely interesting results in the study of paleoclimates: there is also an indication that further drilling is necessary in order to obtain deeper cores needed to understand the evolution of remote past atmospheres and climate evolution over a very long period of time. To be able to do this at sites such as Talos Dome where the layering of ice allows a good control of data is particularly important. Drilling performed in Antarctica in any site is complementary to the drilling in other sites and all together contribute to the overall picture.
+
+The no-action alternative for this programme would represent a serious setback to the scientific Antarctic programmes of the participating countries. It would represent also a missed opportunity for the international cooperative studies on the past climates and atmospheres because of the very good local conditions for the implementation of an ice drilling programme, the results of which can complement and integrate those obtained in other Antarctic sites.
+
+A deep drilling at Talos Dome could improve the knowledge about the response of near-coastal sites to climate changes and Holocene history of accumulation rates in the Ross Sea region. It will provide detailed Holocene records of temperature, accumulation rates, trace-gas changes and aerosol variations with regard to other Antarctic sites. As such, it would be a significant contribution to a future network of drillings, focussing on Antarctic spatial distribution of key-tracers (complementing studies at EPICA DML, Berkner Island, Inland US core, etc…). In addition, Talos Dome would strongly contribute to the understanding of the last glacial-interglacial transition when different climatic features and trends are observed between East Antarctica, Taylor Dome, Siple Dome and DSS. Lastly it would provide a perspective for future variability of accumulation and dynamic changes in this sensitive area (Frezzotti et al., 2004). 
+
+4.2 Alternative locations
+
+Alternative location has been considered and rejected on the ground that Talos Dome has been assessed as the best site in the north Victoria Land-Oates Coast area for obtaining a high resolution climate record of the region. No other domes are available or already drilled (Dome C, Taylor Dome, Siple Dome, Law Dome) in an area of more than 1500 km in radius. As mentioned before, Talos Dome is an excellent location for deep ice drilling because of the favourable layering of ice that allows for a good time resolution/restitution (Fig. 3). Talos Dome has a good geochemical and paleoclimatic record preserved in the ice, because the accumulation (80 mm w eq yr-1) is higher there than at other domes in East Antarctica, and the ice thickness (about 1500 m) could cover more than a glacial/interglacial cycle (120 kyr) to decade time-scales.  This enhanced time resolution and time extension will help to investigate more precisely the relationship between different climatic parameters such as temperature, air composition, ice volume, etc. Talos Dome is located close to Mario Zucchelli Station. This allows easier logistic and scientific efforts, and will lead to a better scientific output, while allowing more possibilities for reducing the environmental impacts. No possible alternative site provides all of the aforementioned advantages.
+
+4.3 Alternative drilling methods
+
+The drilling method proposed for Talos Dome is an electro-mechanical one (evolution of EPICA system) using a drilling fluid to counteract the lateral pressure of ice that tends to close the borehole. Alternatives to this method have been examined.
+
+1. Thermal drilling does not appear to be a viable alternative in this case because of the depths that shall be reached at Talos Dome, with associated loss of power along the cable. Also, if any failure occurs in the power system, the whole equipment could be stuck by freezing at the bottom of the borehole. EPICA experiences show that the electro-mechanical system provides very high ice core quality.
+
+2. Furthermore, thermal drilling could result in the recovery of very small cores on which it may be difficult to perform the wide range of foreseen studies.
+
+3. Dry drilling is possible and it has been used at other locations, but at the depths that shall be reached at Talos Dome it is not possible to avoid the use of the drilling fluid, which becomes indispensable for depths greater than 300m. Consequently the use of a drilling fluid appears to be inevitable and all possible precautions, both in the selection of the least environmentally damaging fluid and in the prevention and control of spillages will be taken. The total amount of fluid is however rather small, of the order of 25 tons.
+
+4.4 Alternative drilling fluid
+
+As mentioned the use of a drilling fluid for such deep drilling with core recovery is inevitable. The high overburden pressure of ice would close the bore hole at depths below about 200-300m, making the recovery of ice cores impossible. The fluid has also the function of helping the drilling process itself.
+
+It would be conceivable to use other drilling fluids having different characteristics and impacts on the environment. The properties, advantages and drawbacks of drilling fluids commonly used up to now have been described in detail in the specific manuscript (Talalay and Gunderstrup, 1999; Gerasimoff, 2003).
+
+Given the foregoing requirement, described in the specific manuscripts and experience in previous and ongoing deep drilling (EPICA, GRIP, NGRIP, Berkner Is.), there are no alternatives to the chosen drilling fluid (Exxsol D40 and HCFC-141b), among the various drilling fluids currently available, that would provide for a similar quality of core recovery result with less severe impacts on the environment and human health hazard.
+
+For this bore hole going to the depth of about 1500 m and assuming a diameter of about 130 mm the total volume of fluid needed would be of the order of 26 m3 . This will be the total volume of fluid left in the borehole at the end of the drilling operation; its recovery at that point would be extremely difficult and could give rise to substantial spills; it will be gradually released to the ocean in about one hundred thousand years from now, taking into consideration the exceedingly slow rate of lateral movement at Talos Dome, less than a meter per year.
+The important characteristics of the drilling fluid will be mentioned in detail later.
+
+The borehole is to remain open so that measurements can be taken in future. This means that the drilling fluid must remain in the borehole in order to prevent the hole from closing up.
+
+An alternative ice chips disposal methods involves transport in drums by Twin Otter (26 m3), but it is impractical considering the great amount of energy and air pollution required for transportation.
+
+The fluid is prevented by borehole depth from being pumped away. It would theoretically be possible to pump the fluid from the greater depths using a cascade of pumps, but a consequence would be that the hole would close in while the fluid is being pumped out, and that the pumps would remain stuck in the borehole if there any deformations of the ice. However, using current technology, it has been assessed by PNRA Consortium that recovery of the drilling fluid will cause greater environmental impact than leaving it in place.
+
+4.5 Use of alternative energies
+
+Two possible sources of energy other than fossil fuels could be used at Talos Dome: solar energy and wind energy.
+
+The use of energies other than the fossil one is important for an isolated station on the plateau, for which transportation of supplies relies on airplane. The environmental advantages would also be remarkable, in terms of less fuel burned. For example, it was reported that at the German station Georg von Neumayer the use of a wind generator made it possible to save about  16500 litres of fuel in one year. Other stations have also reported interesting fuel savings.
+
+At the drilling site of Talos Dome the use of solar energy is probably possible, with all the usual limitations, such as only summer months use, very high cost and low power available. 
+
+However, the practical possibility of using alternative energies is being analysed and if at all practicable they will be used. As far as wind energy is concerned, however, the potential for its use at Talos Dome does not appear very promising, given the rather low wind speed prevailing there.
+
+4.6 Prediction of future environmental state in absence of the proposed activity
+
+If no activity is performed at this site, there will be no changes in the present state: only a slow accumulation of snow as it has been in the past. Scientific activities have been undertaken at the site in the past, and therefore it has already been subject to minor human disturbances.
+
+5. Prediction of the impacts of the proposed activity
+5.1  Direct impacts of activities at Talos Dome Camp
+5.1.1 Non recovery of drilling fluid
+
+The Exxsol D40 and Solkane 141b will not be recovered from Antarctica instead, the fluid will remain in the borehole. Talos Dome ice drains into the blue ice field along the Rennick and Priestley glaciers. Blue ice field are formed by ablation due to katabatic winds. The fluid will remain in the ice for many tens of thousands of years, until the ice present at Talos Dome at the time of the drilling will eventually reach the sea or drain into the blue ice field (Fig. 5). A conservative estimate is of the order of 50 to 500 thousand years from now for the sea and 10 to 50 thousand years from now for the blue ice field. During this time the ice will deform plastically, until the fluid will be dispersed in a very large volume of ice. The release to the marine or blue ice area environment will be gradual and the quantity involved should be of the order of 140 drums of aviation kerosene released gradually over a long period of time. 
+
+The impact of this amount of fluid should be transitory, on the basis of known releases of petroleum products in Antarctic environments, also taking into account the extremely slow release that can be foreseen. In order to prevent diffusion of the drilling fluid to the snow and ice of the upper part of the borehole a metal casing will be used in the first 2 m of boring. 
+
+To recover the drilling fluid would require a heavy pumps system (>30 t) to displace the drilling fluid and force it to the surface of the borehole for collection. This would entail at least additional 60 flights of a Twin Otter and at least one or two additional field season at Talos Dome. However, the operation of pumping would  not be secure with the possibility of pumps remaining stuck in the borehole. It is therefore been assessed by PNRA Consortium that, using current technology the recovery of the drilling fluid will cause greater environmental impact than leaving it in place (Environmental Protocol, Annex III Article 1, 5 b).
+
+
+Fig. 5 Talos Dome and Rennick Glacier area, in blue the blue ice field.
+5.1.2 Atmospheric emissions
+5.1.2.1 Air pollution from vehicles and generators
+The impact of drilling activities at Talos Dome will be more important at the Mario Zucchelli Station at Terra Nova Bay and along the way to Talos Dome, where the potential impact due to aircraft movements is clearly one of the main environmental concerns related to the entire Talos Dome activity. Air pollution will result from the use of diesel generators and vehicles at Talos Dome. Emission will include carbon monoxide, carbon dioxide, and nitrous oxides. Sulphur dioxide, heavy metals and particulates. Fuel consumption of generators and vehicles is evaluated around 9000 litres per season of JET-A1. Atmospheric pollution will result mainly from the estimated 300 flight hours of the Twin Otter required for the project. However, since the amount of CO2 released by the TALDICE project is few ppt, (ppt = parts per trillion = 1 part CO2 in 1012 parts of air) will be several orders of magnitude smaller than the current annual increase, (CO2 mixing ratio in Antarctica is about 350 parts per million), the indirect impact of “green house gases” can be ignored.
+
+5.1.2.2 Air pollution from drilling fluid
+During the drilling activity small quantities of the drilling fluid can be released to the atmosphere. Good handling procedures should help to keep these amounts minimal. Furthermore, the low temperature prevailing at the site will reduce the evaporation of fluid reaching the open air. The vaporized fraction of the drilling fluid will break down in the troposphere into carbon dio- and mono-oxide, hydrochloric acid and water. The amounts of these products will be however insignificant, given the very small quantities involved. Solkane 141b is an Ozone Depleting Substance (ODS), and its use is likely to give rise to a minor, but cumulative, impact on stratospheric ozone depletion. It can persist in the atmosphere for up to 11.4 years and has a global warming potential of as small as 0.152 and ozone depletion potential of as small as 0.11, compared to those of CFC11 are taken as 1 (WMO/UNEP, 1998). Moreover, Solkane 141-b is not likely to evaporate since it will be injected into depths greater 1550 m. For this reasons, its effect on global warming and ozone depletion are expected to be negligible for the next tens of thousand of years. Use of an inferior substitute for the bulk drilling fluid or densifier could result in the loss of the drill. This would compromise the scientific goal of the deep ice core drilling project.
+
+5.1.3 Waste
+If grey and black water is discharged into the snow, their subsequent fate will depend on the temperature at the site (average –41°C, max around –20°C). At negative temperature, they will freeze after being discharged into the snow. No seasonal melting of snow could be expect, the deposited matter will remain in frozen form at the site and will be buried and transported over the long term by glacial movement. Based upon an estimated 0.25 kg of waste (excluding sewage and grey/black water) produced per person per day, it is estimated that approximately 500 kg of waste will be produced by the field party during the project.
+At the end of each season all wastes (excluding sewage and grey/black water) will be returned at MZS (Terra Nova Bay). The field will be supplied with a copy of waste management guidelines for field parties. Different modality of stoking, colour and numerical code for waste container will be used for the separation and disposal of wastes.
+5.1.4 Minor Spills of fuel or drilling fluid
+All possible precautions will be taken to avoid spillage of fuel and other fluids during transport, storage and utilization. JET-A1 will storage in tanks made of double walled steel, whereas the drill fluid will stored in drums. All storage systems are located in protected positions with antisyphoning devices. However with the aim to prevent spills of fuels or  drilling fluid an oil collecting tray will be used.  Eventual spilled fuel or drilling fluid would pass through the surface layer of snow, and be absorbed by it. A negligible quantity may also evaporate. There would be no biological effect of a minor fuel spill or leak at Talos Dome.
+
+Exhaust products will be released from the diesel generators and from vehicle engines during the operation of the drilling facility. Considering the small size of the diesel generators (30 and 15 Kw) and the filtering of the exhausts this would lead to a limited deposition of combustion products on abiotic areas of ice. Vehicles may be occasionally driven in the summer camp area for shifting fuel tanks mounted on sleds. The releases of combustion products from vehicles will be limited in time.
+
+Releases due to stationary equipment like the diesel generators for electricity and heat production will be constant during the summer drilling operation, but they will be filtered. A considerable experience with exhaust filtering exists at the Mario Zucchelli Station and Concordia Station and this experience will be put in good use at Talos Dome.
+
+5.1.5 Minor change in local topography due to snow drifts
+Snow drifts will form downwind of the vehicles and tents.
+
+5.1.6 Biota
+There are no biota in the area. Biologically significant areas on the coast lie at more than 200km away. No direct effect on biota is thus anticipated. The only area to have indirect impact on biota is the operation connected to the TALDICE project at the Mario Zucchelli Station due mainly due to Twin Otter operation. Therefore, the impact on biota is expected to be temporary and insignificant with respect to the usual Station activity. There is a very small risk of introduction of non-native biota, particularly micro-organisms, because of the importation of materials.
+
+5.1.7 Effects on areas of geological or glaciological significance
+
+The area likely to be impacted by the deep ice core drilling project is estimated at around 2 km2 for field camp and airstrip. The areas surrounding the drilling site will be affected by a modified pattern of snow deposition due to the pattern of wind altered by the presence of the field camp. The area of Talos Dome is characterised by comparatively moderate velocity winds. Thus, the <<shadow>> effect of the summer camp should not be noticeable at distances beyond a few hundred meters. Areas within this distance may have a different glaciological significance for a few years.
+
+5.2 Indirect and second order impacts
+Drilling activities at Talos Dome have potential indirect impacts elsewhere. The materials which is used for the construction of the summer camp is unloaded at the Mario Zucchelli Station and from where they will be transported by air to the Talos Dome area.
+Consequently there will be impacts due to the higher level of activity at the Mario Zucchelli station, impacts due to more people at the station, and increased transportation activities, as well as air movements.
+
+5.3 Cumulative impacts
+Cumulative impacts may result from the addition of impacts due to the activities in discussion to impacts of either precedent or future activities in the same area or region. Examination of cumulative impacts is important for the planning of future activities in the same area or region; it is therefore necessary to consider the possibility of such impacts in the case of drilling at Talos Dome. In the same general area of Talos Dome, shallow ice drilling and geophysical surveys were performed in the past. The actual location of the new drilling has not yet been precisely determined, but it is going to be at a certain distance from the old drilling site. The impact of the previous drilling can be considered as having less than a minor or transitory impact and its addition to the impact due to future drilling operations is going to produce also a minor cumulative effect, mainly because of the small quantities of fluid involved. The total amounts of fluid will be of the order of 28 cubic meters of drill fluid, released for several years to the marine environment in several tens of thousands of years from now.
+
+Other cumulative impacts will occur at the coastal base, where the materials for the erection of the drilling camp will arrive. These cumulative impacts should not be very important because they will occur at a rather large Station, already active for a considerable period of time, so that a slight increase in activity should not create a significant cumulative impact.
+5.4. Potential impacts on research and other uses
+The site of Talos Dome is a remote site having desirable characteristics for deep ice drilling, as mentioned before. It is thus conceivable that the site might be used again in the future for similar purposes, as it was in the past. The present activity is going to be very well documented and future users all information should be made available to avoid interferences. Apart from this, no other potential impact is identifiable to the writers of this report.
+
+5.5 Unavoidable impacts of the proposed activity
+The drilling activity at Talos Dome will have the unavoidable impacts due to the use of a drilling fluid, to the presence of personnel at the site, to flights to bring materials and supplies.  All of these impacts are unavoidable. However, they are minor in themselves and trivial if seen in the perspective of the scientific interest of the entire activity. Careful operation of all components of the activity, monitoring of the impacts, mitigation measures can ensure that these unavoidable impacts remain minor.
+
+5.6 Methods and data used to predict the impacts of the proposed activity
+5.6.1 Data and information
+In the assessment of the environmental impacts of activities in Antarctica previous CEEs and IEEs provide the best source of information. In these cases a very useful source document was the EIA performed in 1994 by France (IPEV) and Italy (ENEA) for the EPICA deep ice drilling at Dome C, CEEs for recovering a deep ice core in Dronning Maud Land, Antarctica, prepared by AWI, IEE for a proposed deep ice core Drilling Project on Berkner Island prepared by BAS, and IEE for deep ice core drilling activity at Dome Fuji Station, Antarctica (second Dome Fuji project) prepared by NIPR. These documents deal with the same type of activity and use a methodology analogous to the one used in the other environmental evaluation.
+5.6.2 Methods
+The methodology used for the assessment starts with the identification of the environmental components sensitive to the potential impacts deriving from the proposed activity.
+This identification is performed on the basis of the existing literature, the existing IEE reports for similar activities, on the basis of consultation with experts with specific experience. 
+
+In this case the environmental components that are impacted by the drilling activity are:
+    • the marine environment, 
+    • the ice and snow surface, 
+    • the atmosphere.
+The marine environment is the final destination of the drilling fluid, when the ice that is at present in the Talos Dome area and which will contain the borehole eventually reaches the ocean.
+The ice and snow surface will support physically all the activities and will thus be the recipient of several impacts.
+The atmosphere will receive evaporated drilling fluid, its fumes and those from fuel, exhausts from the engines of tractors and from stationary diesel-powered sets. It will also serve as a transport and diffusion medium for airborne contaminants.
+A modified matrix method has been used to identify, predict and analyse impacts and their possible mitigation. This method has been used in IEE in Antarctica and in other environments. 
+The Madrid Environmental Protocol in its Annex I, art. 3, identifies three impact categories. They are:
+
+a)	 likely direct effects
+b)	potential indirect or second order effects 
+c)	cumulative impacts
+
+The <<likely direct effects>> can be assumed to be associated directly with the proposed activity, such as disturbance to the ice surface by the passage of tracked vehicles, deposition on snow or ice of particles of soot emitted by engine exhausts, acute toxic effects on fauna or flora due to oil spills during refuelling operations.
+The <<potential indirect or second order effects>> for the drilling activity are the impacts due to the increase in the activities at the coastal bases because of the operation of the drilling camp. These impacts are the object of the assessment made for those stations in this general context.
+The "cumulative impacts" result from the superimposition of impacts due to the activity under consideration to impacts due to previous activities in the same area or region.
+For the purpose of the assessment of impacts a project can be divided into different stages; for each of them impacting activities can be identified and their impacts evaluated:
+1) pre-construction: includes activities on site and off site prior to the actual start of construction, including site preparation.
+2) construction: includes activities on and off site, transport of materials to the site, erection of the drilling camp.
+3) operation: all activities, both logistic and scientific, that are carried out during the lifetime of the drilling operation.
+4) decommissioning: all activities that must be carried out after it has been decided that the drilling camp has concluded its operational life. In this report consideration of this activity has not been detailed, beyond the expression of the intent that the drilling camp is going to be decommissioned and that due attention is given to this problem in the design of the field camp and its scientific and technical installations.
+In the matrices (see tables 1,2,3 ), which have been prepared the assessment of the impacts and the identification of possible mitigation, measures are summarized.
+Criteria for the assessment 
+a) nature of impact
+b) extent: size or physical extent of the impact; it can be:
+-- local: extending as far as the activity itself
+-- site: affecting the site of the camp
+-- regional: affecting the camp, the transport routes to the coast, the coastal area
+c) duration: life span of impact, measured in the perspective of the duration of the drilling ; can be:
+-- short term: will disappear with mitigation, natural processes may mitigate it in a short time, comparable to the construction time of the drilling camp
+-- medium term: could last to the end of the preparation of the drilling camp
+-- long term: could last for the full operational life of the drilling camp and could be mitigated or substantially reduced by man or by natural processes
+-- permanent: non-transitory impact: no mitigation or natural processes will reduce it.
+d) intensity: measure of how the impact affects the environment:
+it can be:
+-- low: it does affect the environment in such a way that natural processes or functions are not affected
+-- medium: the impacted environment is affected in such a way that natural processes and functions are modified but not permanently affected
+-- high: functions and processes are affected in such a way that the impacted environmental features do not recover (parameters change above system resilience limits).
+This level of intensity is also used when health or safety hazard of personnel is involved
+e) probability: refers to the actual probability of the impact, i.e., the probability that the impact occurs; four levels of probability are considered and they are self explaining:
+-improbable
+-probable
+-highly probable
+-definite
+f) significance: is an indication of the importance of the impact in terms of its physical size or extent and time scale; it indicates the level of mitigation required, if it is possible.
+On the basis of these general criteria the following tables in a matrix form have been prepared.
+Tab 1 ASSESSMENT OF POTENTIAL IMPACTS	 	PHASE: PREPARATION
+
+ACTIVITY/ELEMENT
+IMPACT
+POSSIBLE MITIGATION
+
+1.
+
+Air transport by light plane
+---
+Atmosphere
+DURATION
+NATURE
+EXTENT
+DURATION
+INTENSITY
+PROBABILITY
+SIGNIFICANCE
+Y/N
+DESCRIPTION
+
+
+
+1 hour
+
+
+Exhaust Gases
+
+
+From MZS to Talos Dome
+
+
+Low
+
+
+Low
+
+
+Probable
+
+
+Low
+
+
+Y
+
+
+Appropriate fuel
+                 2.
+
+Air dropping of supplies and fuel
+---
+Atmosphere ice surface 
+
+
+
+0.30 hour
+
+
+Exhaust Gases Fuel spill
+
+
+Site
+
+
+Low
+
+
+Low
+
+
+Probable
+
+
+Low to
+medium
+
+
+Y
+Careful palletization of loads
+---
+Strict operation rules
+---
+Limited quantity of fuel in each container
+
+Tab 2 ASSESSMENT OF POTENTIAL IMPACTS	  PHASE: SUMMER-DRILLING CAMP PREPARATION
+
+ACTIVITY/ELEMENT
+IMPACT
+POSSIBLE MITIGATION
+ 
+1.
+Installation of                            camp
+
+---
+
+
+Ice surface
+DURATION
+NATURE
+EXTENT
+DURATION
+INTENSITY
+PROBABILITY
+SIGNIFICANCE
+Y/N
+DESCRIPTION
+
+
+
+about 3 years
+
+Air quality
+
+Glacial Environment
+
+Change 
+ snow surface
+
+
+
+
+Drilling site
+
+
+Medium
+
+
+---
+
+    Long
+
+
+Medium
+
+
+Definite
+
+
+Low
+
+
+Y
+
+
+Removal of camp at the end of drilling
+2.
+Excavation of trench for laboratory
+---
+Ice surface
+
+
+about 3 years
+
+Disruption of snow surface
+
+Drilling site
+
+
+Long
+
+Medium
+
+Definite
+
+Low
+
+Y
+
+At the end of the activity trench will be slowly refilled by snow
+3.
+Operation of diesel generator
+---
+Atmosphere ice surface
+
+
+3 months for 3 years
+
+Exhaust gases
+---
+Soot deposition
+
+
+Drilling site
+
+Long
+
+Medium
+
+Definite
+
+Low
+
+Y
+
+Catalyzed + Filtered exhausts
+---
+Appropriate Fuel
+4.
+Fuel management
+---
+Ice surface
+
+
+3 months for 3 years
+
+Oil spills
+
+Drilling site
+
+Long
+
+Medium
+
+Low
+
+Low
+
+Y
+
+Design of tanks
+---
+Contingency plan
+---
+Administrative rules
+5.
+Refuelling operations
+---
+Ice surface
+
+
+3 months for 3 years
+
+Oil spills
+
+Drilling site
+
+Long
+
+Low
+
+High
+
+Low
+
+Y
+
+Administrative rules
+---
+Small amounts
+---
+Contingency plan
+6
+Air transport by light plane
+
+
+Atmosphere
+
+100 hours for 3 years
+
+Exhaust gases
+
+From MZS to Talos Dome
+
+Low
+
+Low
+
+Probable
+
+Low
+
+Y
+
+Appropriate 
+Fuel
+
+Tab 3 ASSESSMENTS OF POTENTIAL IMPACTS				PHASE: OPERATION
+
+ACTIVITY/ELEMENT
+IMPACT
+POSSIBLE MITIGATION
+ 
+1.
+Deep ice drilling
+---
+Atmosphere marine environment
+DURATION
+NATURE
+EXTENT
+DURATION
+INTENSITY
+PROBABILITY
+SIGNIFICANCE
+Y/N
+DESCRIPTION
+
+
+about 3 years
+
+Release of drilling fluid in the sea
+---
+Evaporation of drilling fluid
+
+Coastal areas
+
+Several tens to hundred thousands of years in very far future
+
+High
+
+Definite
+
+Low
+
+
+Y
+
+Selection of additive with low ozone layer damaging capability
+---
+Comparatively small amount
+2.
+Management of fuel and of drilling fluid
+---
+Ice surface
+
+
+about 3 years
+
+
+Oil spills
+
+
+Drilling site
+
+
+Long
+
+
+Medium
+
+
+Low
+
+
+Low
+
+
+Y
+
+Design of tanks
+---
+Contingency plan
+---
+Administrative rules
+
+3.
+Operation of diesel Gen.
+---
+Atmosphere ice surface
+
+
+about 3 years 
+
+
+Exhaust gases
+---
+Soot deposition
+
+
+Drilling site
+
+
+
+Long
+
+
+Medium
+
+
+Definite
+
+
+Low
+
+
+Y   
+
+Catalysed + Filtered exhausts
+---
+Appropriate fuel
+4.
+Water Supply
+
+
+Ice surface
+
+
+3 months/y for 3 year
+
+Change snow surface
+
+Glacial Environment
+
+
+Site
+
+
+Medium
+
+
+Medium
+
+
+Definite
+
+
+Low
+
+
+Y
+
+ Removal of camp at the end of drilling
+5.
+Waste
+
+
+   Ice surface
+
+3 months/y for 3 year
+
+Release
+
+Snow surface
+
+
+Site
+
+Medium
+
+High
+
+Definite
+
+Low
+
+Y
+
+Transport of all waste back to Europe
+6.
+Wastewater
+Disposal
+
+Ice surface
+
+3 months/y for 3 year
+
+
+Release
+
+Glacial environment
+
+
+
+Site
+
+Medium/High
+
+High
+
+Definite
+
+Low
+
+No
+
+6. Mitigating measures
+
+Appropriate measures are recommended to mitigate any adverse impacts from the proposed activity. These include:
+Project and planning and execution are monitored by the environmental protection officer at PNRA Consortium. 
+
+Appropriate precautionary and safety measures will be taken to cover any conceivable disruptions or accidents.
+
+Daily checks of generator and vehicles exhaust will be carried out, and maintenance is to be carried out as required.
+
+All reasonable precautions will be ensured by the field party that minor fuel and drill fluid leaks and spills do not occur.
+
+All waste, other than sewage, will be correctly packaged and labelled and removed from Antarctica.
+
+Laboratory analysis will be performed continuously to establish the minimum quantity of HCFC-141b required to densify the bulk drilling fluid, without compromising the borehole safety and scientific outcome of the project. All precautions will be adopted to prevent the evaporation of drilling fluid.
+
+The non recovery of the bulk drilling fluid and HCFC 141b will be reassessed if and when practicable recovery methods become available.
+
+7. Environmental monitoring and management
+
+During the deep ice core drilling project, compliance with PNRA environmental policy and mitigation measures outlined in this IEE will be the responsibility of the PNRA principal investigator. Photographs and videos will be taken of the site at all major stages of the drilling project, including the clean up and removal of the camp during the final season. Environmental inspection of field camp will also be undertaken by the PNRA Environmental officer. In addition, a further environmental inspection will be carried out on completion of the project. The object of the inspection would be to examine the project and verify its compliance with Environmental Protocol, and the mitigation measures recommended in this IEE.
+
+Environmental monitoring for a project can be defined as the repeated measurement of one or more environmental variables in order to detect and possibly quantify changes. These should be investigated and interpreted to determine whether they have been caused by the project or by other extraneous factors. The objective of monitoring is then to check predictions, detect unpredicted effects,  act to mitigate effects of impacts.
+
+In the case of the drilling activity and its logistic support, separating the activity from the other, more impacting actions elsewhere, the variables to be monitored are few:
+
+- exhausts of engines;
+- deposition patterns of snow;
+- degradation of ice surface due to passage of vehicles;
+
+Considering the extremely low temperature it is likely to examine the impact of exhausts of engines through the chemical analysis of the snow samples collected around the site instead of monitoring of exhaust gas directly.
+For these variables, a programme defining distances at which to monitor, frequency of sampling, where and how to analyse the samples will be studied.
+The sampling of the snow will be performed at distances not greater than 500 m from the engines; the same distance will apply to the band of snow around the vehicle tracks. The timing of the sampling has to be evaluated locally, when it will be possible to have an idea of the magnitude of the impact. Tentatively, it can be anticipated that the impact will be minor, because of size of engines and exhaust filtering.
+
+8. Gaps and uncertainties of the CEE process
+
+A CEE process is basically a predictive process based on the knowledge of a certain number of actions and on the evaluation of their consequences on the environment or on other actions which may have a final impact on some environmental elements or systems.
+
+Like all such processes there is a number of uncertainties which cannot be properly solved beforehand. Consequently, conservative hypotheses are usually taken into consideration in order to obtain results corresponding to worst case scenarios.
+
+On these worst cases, mitigation measures are applied or corrective actions are taken to modify the activity in such a way that the impacts, which are unavoidable, may be acceptable.
+
+The uncertainties are due to gaps in the knowledge of some parameters, to the variability of parameters due to unforeseeable natural circumstances; also the fact that the CEE is a prediction exercise, it is prepared before the action takes place, makes it possible that some operational conditions may change and the activity will be different from the one originally planned and analysed in the CEE.
+
+Among the uncertainties in this evaluation, one may mention:
+
+    • use and number of flights by light plane will depend from scientific and logistic material transport and a consequent need for more fuel;
+    • changes in the flow patterns of ice;
+    • correct functioning of catalysed exhaust systems in extreme temperatures.
+
+The exact timetable may change, transport methods may evolve, technological aspects may change during the operation. All of these factors are more relevant in case of a complex action or series of actions like the ones described here in this report.
+The Antarctic environment and Antarctic operations with their complexity and very difficult conditions do not lend themselves to easy and precise assessments.
+This CEE, like all other such documents, tries to predict and study impacts by making assumptions which are conservative enough to ensure that no unacceptable and unretrievable damage is done to the environment.
+The monitoring of impacts gives a good feedback for the correction of actions with appropriate countermeasures which may range from slight changes in some secondary questions to radical changes in plans and operations or to the full stop of the activity.
+
+One can finally consider action, environment, environmental impact assessment, monitoring and mitigation as a closed loop which, if functioning properly should ensure that valid scientific activities take place with no serious environmental damage.
+
+9. Conclusion
+
+This document has presented information about the future drilling activity at Talos Dome. The activity, its schedule, its characteristics, its impacts have been presented, together with a description of the environment in which the activity will take place.
+
+Measures that can reduce or mitigate the impact have been identified and they can actually substantially reduce the overall impact of the activity.
+
+The main activity of TALDICE project are to be carried out in an abiotic environment inland Antarctica and will not have direct impact on living things in Antarctica.
+
+The scientific relevance of the activity has been indicated and the possible alternatives have been discussed.
+
+The only serious environmental impact is the future release of the drilling fuel in the marine environment, in the very far future. 
+
+This impact is mitigated by the use of environmental friendly additives, even if it is not possible to predict if there will be an environment to impact upon then.
+
+Having taken all above factors into consideration, the applicants have come to the conclusion that the unavoidable strain imposed on Talos Dome by the TALDICE project can be confined to a level at which the impacts are expected to be not more than minor or transitory. The high quality core recovered by TALDICE project will greatly contribute to the study of global environmental changes and provide ice core information that will complement, verify and increase the paleorecord collected at the "near-coastal sites".
+
+Acknowledgement
+
+We thank the Authors of previous ice core projects CEEs and IEEs for very helpful documents produced.
+
+10. References
+
+Acero et al. (1992) Environmental Impact Assessment associated with the salvage operation of the remaining oil of the Bahia Paraiso", Instituto Antartico Argentino, and Rijkswaterstaat.
+
+Australian Antarctic Division (1989) EIA for the Dome Law deep ice drilling.
+
+Benninghoff, W.S., Bonner W.N. (1985). Man's Impact on the Antarctic environment", SCAR, Cambridge.
+
+COMNAP (1999). Guidelines for Environmental Impact Assesment in Antarctica
+
+Dept. of Environment Affairs, Republic of South Africa, “ SANAE IV” (1993) Draft CEE.
+
+Downie R.H., Mulvaney R. and Shears JR (2001) IEE for a proposed deep ice core Drilling Project on Berkner Island prepared, BAS 18 pp.
+
+Frezzotti M., Bitelli, G., De Michelis, P., Deponti, A., Forieri, A., Gandolfi, S., Maggi, V., Mancini, F., Rémy, F., Tabacco, E.I., Urbini, S., Vittuari, L., and Zirizzotti, A.( 2004). Geophysical survey at Talos Dôme (East Antarctica): The search for a new deep-drilling site. Ann. Glaciol., 39, [39A165].
+
+Gendrin R. and Giuliani P. (1994) Concordia Project: Drilling activity at Dome C, Antarctica. Final Comprehensive Environmental Evaluation. December 1994, ENEA-IFRTP.
+
+Gerasimoff M. (2003) Drilling fluid observations and recommendations for U.S. Polar Programme, WAISCORES Drilling Project. Univ. of Wisconsin, Madison, 32pp.
+
+Keys, J.R. (1984). Antarctic Marine Environments and Offshore Oil., Commission for the Environment, Wellington.
+
+NIRP (2001) IEE for deep ice core drilling activity at Dome Fuji Station, Antarctica (second Dome Fuji project), NIPR, 54 pp.
+
+Stenni B., M. Proposito, R. Gragnani, O. Flora, J. Jouzel, S. Falourd and M. Frezzotti. 2002. Eight centuries of volcanic signal and climate change at Talos Dome (East Antarctica). J. Geophys. Res, 10, 1-13.
+
+USNSF (1984) US Antarctic Program Final Environmental Impact Statement.
+
+USNSF (1991) Final Supplemental EIA for the US Antarctic Program.
+
+Talalay, P.G. and Gunderstrup, N.S. (1999). Hole fluids for deep ice core drilling: a review. Univ. Copenhagen. 120 pp.
+
+Von Juterzenkka and Spindler M. (2000) CEEs for recovering a deep ice core in Dronning Maud Land, Antarctica, ed. A. Oerter, AWI 80pp.
+
+WMO/UNEP (1998). Scientific assessment of Ozone depletions. Global Ozone Research and Monitoring Project Report, No 44.
+
+
+Appendices
+Appendix 1 contain the data sheet for Exxsol D40
+
+Appendix 2 contain the data sheet for Solkane 141b
+
+Physical properties
+
+Chemical name
+1,1- Dichloro - 1 - fluoroethane
+Chemical formula 
+
+CCI2F-CH3
+CAS number
+ 
+1717-00-6
+EINECS
+ 
+404-080-1
+Molecular weight
+ 
+116.9
+Boiling point
+°C
+32
+Melting point
+°C
+-103.5
+Critical temperature
+°C
+208.3
+Critical pressure
+bar
+42,5
+Density of the liquid at 25 °C 
+g/cm3
+1.24
+Density of the liquid at 50 °C
+g/cm3
+1.18
+Heat of vaporization
+kJ/kg
+225
+Viscosity of the liquid at -20 °C
+mPa.s
+0.44
+Flammability
+ 
+non flammable
+Ignition temperature
+°C
+550
+Lower explosion limit
+% volume in air
+5.6
+Upper explosion limit
+% volume in air
+17.7
+Thermal conductivity(gasphase)
+W/mK
+0.0095
+Vapour pressure at
+
+
+20 °C 
+kPa
+64.0
+50°C
+kPa
+183.0
+Solubility in water
+g/kg
+4
+
+	• 	Solkane 141b has no flash point. For this reason, as in this respect comparable liquids such as for example trichloroethane and methylene chloride, it is not subject to the Flammable Liquid's Regulation .
+	• 	Air-vapour mixtures comprised of between 5.6 and 17.7% by volume (the explosion limits) are flammable. However the minimum energy necessary to initiate ignition is 20 Joules (in comparison to 0.001 Joule for acetone).
+	• 	Solkane 141b is not categorized as toxic according to the Dangerous Substances Regulations (Gefahrstoffverordnung). Solvay provisionally recommends a maximum exposure limit of 500 vol-ppm (8 h/d, 40 h/w).
+
+Storage and handling
+
+Solkane 141b must be stored in a cool and well ventilated area; direct exposure of the containers to sunlight must be avoided. Due to the low boiling point of Solkane 141b, there may be a slight, normal over-pressure in the packagings; care must, therefore, be exercised when opening them. Solkane 141b must be kept in a tightly closed container. Humidity and rust must be avoided to ensure optimum stability of the product.
+ Solkane 141b is not subject to any transport regulation.
+ It can be handled without risk with the normal precautions. Solkane 141b is slightly irritating to the skin, the eyes and the digestive mucous membranes.
+
+Quality
+
+Purity
+min. 99,7%
+
+Water content
+max. 20 ppm
+
+Acid content (as HCI)
+max. 1 ppm
+
+Non-volatile residue
+max. 10 ppm
+

@@ -1,0 +1,247 @@
+﻿
+
+
+
+
+
+Initial Environmental Evaluation for Installation of Earth Station at Maitri, Schirmacher Oasis, Antarctica
+
+
+
+
+
+
+Initial Environmental Evaluation for Installation of Earth Station at Maitri, Schirmacher Oasis, Antarctica
+Introduction
+Indian endeavour in the icy continent on a year-round basis began in 1983, when the first permanent Indian Antarctic base”Dakshin Gangotri” ” (70O 5’ 37”S: 12O E) was commissioned on the ice shelf, off the Princess Astrid coast in Central Dronning Maud Land. This station continued to host the members of Indian expeditions to Antarctica till 1989, when it had to be decommissioned due to excessive snow accumulation. The scene of activity thereafter shifted to Schirmacher Oasis, where an ice free, rocky foundation was selected to build the Second Research Station “Maitri (70o45’52”S: 11o44’03”E).  This site and the building erected upon it in 1988-89 have stood the test of time since then. Since 1988-89, India is pursuing its scientific activities at Schirmacher Oasis and adjoining regions of Central Dronning Maud Land in east Antarctica, keeping Indian permanent research station “Maitri” as its Base. 
+The present document has been prepared in agreement with Article 2 of annex 1 to the Protocol on Environmental Protection to the Antarctic Treaty. This Initial Environmental Evaluation Report pertains to the proposed activity for installing an Earth Station, at Maitri research base in Antarctica. Having done identification and evaluation of the probable impacts and taking care of the mitigation measures it is concluded that the adverse impacts on the environment at the site are of low category and Initial Environmental Evaluation (IEE) is sufficient to address the issue. The activities have been planned with the scope of minimizing environmental impacts.
+Scientific Studies at Maitri
+Ever since 1981, the Indian endeavors in the icy continent have continued uninterrupted and annual scientific expeditions to Antarctica have remained one of the high priority scientific activities of the country.  Till date, twenty-seven expeditions have been successfully launched.  In addition to these, four special expeditions to the Southern Oceans and Antarctic waters have also been undertaken. These expeditions have provided an avenue for over 1800 scientists and logistics personnel from more than 60 national laboratories, universities, and research institutes to conduct experiments/studies in some of the frontier areas of polar sciences.  The studies have contributed significantly to a better understanding of the state of the Antarctic environment in general and of the central Dronning Maud land in particular. Many of the scientific studies have continued uninterruptedly since 1985 and have produced important results and a substantial database. The broad scientific fields of studies are:
+    • Earth Science
+    • Upper Atmosphere and Astronomy 
+    • Meteorology
+    • Geomagnetism
+    • Environmental Science and Biology
+Need of Activity and Purpose
+The Ministry of Earth Sciences in collaboration with the Department of Space, Government of India, (Electronic Corporation of India Limited (ECIL) and National Centre for Antarctic and Ocean research (NCAOR) planned to set up a Satellite Earth Station at Maitri to provide better communication and real time data transfer facility between Antarctica and mainland India. Once operational it will help in enhancing the capabilities and efficacies of Indian polar orbiting satellites. The oceanographic and IRS data collected at Indian station Maitri, Antarctica will be transferred to NCAOR and National Remote Sensing Agency (NRSA) respectively for further analysis. In addition to this, the link will also support voice and video service and an entertainment channel link between Maitri and NCAOR. It is proposed have the data transfer rate of around 2 Mbps between Maitri and NCAOR. Data received from remote sensing satellite in x-band at Maitri, will be transferred to NRSA at a rate of 40 Mbps using C band communication links.
+Alternatives for the Location
+A team of scientist including technicians from ECIL and Survey of India inspected four possible sites for the earth station keeping in view the limitation of cable length for functioning of the system which had to be within 30 to 40 meters of the station. One of the sites selected was in eastern side of the station, while the second site was located west of the station. The third and forth sites were located in front and in northwestern side of station (Figure 1) respectively.
+
+
+
+
+
+
+
+
+
+Figure 1: Front view of the Maitri Station 
+The first site was not found suitable by the expert team as the soil was very loose. A heavy structure could sink 4 or 6 inches on any side in this loose soil. This could destabilize the entire structure and affect the communication. The second site had a comparatively firm and level ground, but it came in the shadow zone of the station which experiences lot of snow deposition during winter.
+The third site in front of the station had a tough compact level ground. It was situated between the two staircases leading to the station building– the main entrance and the dinning hall entrance. The Expert team obtained best inclination of angles for antenna from this site but the structure would have blocked frontal view of the station and at least two rooms would have lost the outside view available now from the glass windows.
+The fourth choice was judged as the best possible location for installation of the Earth station on the grounds that it offered a good angle of inclination, a firm ground and did not come in way of maintaining the aesthetic appearance of the station.
+Description of Area
+Location
+The Schirmacher oasis, with a maximum width of 3.5 km and a length of about 17 km, is considered one of the smallest oases near the shore in East Antarctica. It is oriented approximately in east-west direction with an area of about 35 sq. km confined within the coordinates 700 46′ 04″ - 700 44′ 21″ S and 110 49′ 54″ - 110 26′ 03″ E. The elevation of oasis ranges between 0 to 228 m with an average of 100 m. 
+The Maitri station, situated in the eastern part of the Schirmacher, is located in between the margin of the continental ice and one of the biggest fresh water lakes of the area. (0.75 Sq km), called Zub or Priyadarshni Lake. 
+The Station is reinforced with iron bars to withstand high wind speed (upto 320 km/hr) and the walls are thermally insulated for protection against low temperature. The energy is supplied by generators in the station. The station is kept warm (~ 25 C) by circulating hot water from the boilers. There are also several insulated huts for the summer team, which are used as laboratory during the winters. The location for the installation of the Earth Station was selected at the north-western side of the station, around 10 meters from edge of the station wall.
+Geology
+The undulated expense of Schirmacher Oasis exposes a granulite to amphibolite facies metamorphic terrain. The rock types are represented by charnockites, enderbites, garnet-sillimanite, gneisses, garnet-biotite gneisses, quartzofeldspathic augen gneisses with some foliated lamprophyres, amphibolites, dolerite, metagabbro and metabasalt. The rock suites dominantly fall under Grenvillean (1000 Ma) and Pan-African (550 Ma) events. Three phases of deformation are distinct. The Charnockite-Khondalite type of rocks (quartz-garnet-sillimanite-perthite±graphite gneisses) with some interlayering of garnet-sillimanite quartzites, calc silicate gneisses and mafic granulites are exposed in the western parts. Two sets of faults (N30E and N50E) are quite prominent. One such major fault runs from the north-eastern corner of the Area; cutting all the three geomorphological units- shelf ice, rocks and continental ice sheet.
+Climate
+Since 1990 the meteorological observations such as pressure, temperature, wind speed and wind direction, total global solar radiation, surface ozone, radiometersonde, ozonesonde etc., are being recorded at Maitri (WMO station index No.89514). The mean and extreme temperature data for Maitri, based on the 16 years record (1990 to 2005), is shown in Figure – 2. Annual cycle of temperature takes a familiar form with broad summer maximum and a minimum in July or August. This is a typical feature of costal Antarctic stations. The lowest mean temperature and extreme daily minimum temperature are recorded in July and August while highest mean temperatures are observed in January & December. February 1996 had been an exceptional year when on Feb 3rd the Maximum temperature rose to 12.2 deg C. The lowest temperature of –35.3 degree Celsius was recorded on 21st July 2005. 
+
+
+
+
+
+
+
+
+Figure 2: Average Surface Air Temperature Variation at Maitri
+December is the warmest month of the year and August is the coldest. The blizzards touch a gale speed of 90 to 95 knots; the mean annual wind speed is 18 knots. The dominant wind direction is E-SE. Snowfall is quite frequent during the winter months, but gale force winds scrub the rocky surfaces clean and snow deposition is widespread on the leeward side of the hillocks.
+
+
+
+The surface wind regime at Maitri is characterized by alternating spells of strong and light or calm winds. The duration of these spells varies considerably from few hours to several days. The mean daily wind speed varies between 5 and 10 m s –1 (~10 and 20 kt). Wind maxima recorded in each month varies between 28 and 45 m s –1 (~55 and 90 kt). Wind speed exceeding 100 knots has been recorded during winter months.
+
+
+
+
+
+
+
+Figure 3: Average Wind Speed at Maitri
+Wind direction is a significant feature of weather at Maitri. The most predominant direction at Maitri is southeast (28.5%). Sector–wise, it is the east–southeast sector (090 –135 º) that accounts for 56% of what at Maitri. The next important sector is the south sector (160 – 200 º).
+Flora and Fauna
+Schirmacher Oasis has been studied in detail for the faunal diversity and ecology of the moss-inhabiting terrestrial invertebrate fauna. The Oases has also been studied for the algal and cyanobacterial diversity. Terrestrial mosses are quite widespread and colonizing a range of habitats. The bryophytes, because of their poikilohydric nature and alternative strategy of adoption, are one of the very few plant groups which grow in Antarctica. As such their role in habitat modification, nutrient cycling, primary production and providing shelter and security to associated invertebrate animals. 
+Other groups of plant reported from the area are lichens, fungi, and bacteria. Distribution of algae and cyanobacterial flora of fresh water streams of the Oasis, in the area adjoining the designated area, has been established. Examination of algae and cyanobacteria, in the glacier-melt water stream, have also been studied  with some of the  species reported being  G.magma, Chaemosiphon subglobosus, Oscillatoria limosa, O.limnetica, P. frigidum, P. autumnale, Nostoc commune, N.punctiforme, Calothrix gracilis, C.brevissima, Uronema sp., and Cosmarium sp.. Studies on polar Skuas have also been conducted at Schirmacher Oasis and their nesting and breeding pattern is reported around 2-3 km from Maitri in west side of station.
+Description of Activity
+The task undertaken includes setting up a two way communication link between Indian station Maitri and mainland India by using INTELSAT-802 located at 330 E longitudes. A Satellite Earth Station at Maitri was envisaged to provide better communication and real time data transfer facility between Antarctica and mainland India. The complimentary station will be located at NCAOR Goa and National Remote Sensing Agency (NRSA), Hyderabad.
+ All the pre-designed and prefabricated material,  made mostly of cold resistance galvanized steel (IS 2062 Grade “C” paltes, ASTM A333 Grade ‘6’ seamless tubes) which can withstand -40 oC  were transported from India to Indian Bay at Antarctica by the expedition ship. Around 18 tons of this material was transported from Antarctic shelf to Maitri station in 35 different sorties covering a distance of 80 km in each sortie. All the material was placed very near to the construction site using the helicopters.
+
+
+Installation
+The foundation of the platform was designed as anchoring in concrete base. The design of the platform and rock anchoring was carried out for antenna self weight, radome weight, and wind load on platform at 250 kmph. The platform size of 8m x 8m was considered for installing Antenna along with 5.5 m diameter radome. The platform consists of 5 numbers of lattice type trusses, 0.8 m high at 2 m centre to centre, both ways (total 10 nos.). Self weight of Antenna was considered to be 800 kg while that of radome was taken at 570 kg. The work, including the digging of a total of 9 pits of size 4’x4’x2’ was also carried out manually. 
+Around 150 kg of cement, 300 kg of sand and 650 kg of gravel was used to prepare the concrete base, to hold the platform columns for the antenna and radome. The columns were anchored to concrete base with steel rods. These columns were interlinked by steel trusses and over these the steel plates of size 2x2 meter of 8 mm thickness were placed to prepare the platform.  The central column was used to hold the antenna. This system was connected with the control room located inside the Maitri station. Teflon coated cables of various cores ranging from 4 to 25 were laid to connect antenna with control room at distance of 50 meters distance. All such cables were placed in the pipe of 4” diameter.
+The station crane was used for limited period to station antenna and the radome (Figure 4).
+
+
+
+
+
+
+
+Figure 4: Installation (before and after) of Earth Station at Maitri
+
+
+Cumulative Impact Evaluation
+Impact identification and evaluation, carried out for the proposed activity as well as the mitigation measures, pertaining to activity are presented in Table 1, and 2.
+Table 1: Activity Potential on Environment
+
+Activity
+Effect in Environment
+
+Air Environment
+Water Environment
+Solid Waste Environment
+Noise Environment
+Land
+Heat
+Shifting of material from ship to site through helicopter
+Fuel burning emission
+None
+None
+Engine noise
+If accidentally under sling broken, may fall on land, otherwise none
+Engine heat very limited. Radiation not assessable
+Shifting of material from storage site to installation site
+Fuel burning emission
+None
+Anchor or fixtures may left unattended if not accounted
+Hammering onto anchor rods almost negligible
+None
+None
+Installation of the system
+Excavation of the ground may lead to air borne dust
+None
+Excavated material may be left at site
+For three days little noise almost negligible
+Area will be occupied 8m x 8m
+None
+
+Table 2: Impact Evaluation and Mitigation Measures
+
+Environ-mental Parameters/
+Indicator
+Description of Potential Impact from Activities
+Evaluation of Impact
+Value
+Mitigation Measures
+Air
+Emission is expected from Helicopters: Exhaust gases shall have potential to mix with the air i.e. SO2, NOx and SPM. Jet A-1 fuel has minimum emission of SO2 and SPM. However cumulative emission from crane, piston bully and chopper will contribute emission.
+Extent:       Low
+Duration:   Low
+Intensity:   Low
+Probability: Medium
+Low
+Helicopters will execute around 35 sorties during the entire period of operation. The engines shall be shut while at the site. The impact on the air is, therefore, expected to be minimum
+Water
+If any wastewater is produced and care is not taken at downstream it may mix with Zub lake
+Extent:       Very Low
+Duration:   Very Low
+Intensity:   Very Low
+Probability: Very Low
+Very Low
+There shall not be any wastewater  production and  discharge at the site
+Noise
+Helicopter operation expected to make around 35 sorties. Noise emission of medium intensity is bound to occur. Crane operation for few hours and piston bully for few hours may produce noise.
+Extent:       Low
+Duration:   Low
+Intensity:   Low
+Probability: Medium
+Low
+Helicopter shall not remain in air for long hours. At the landing site engine shall be switched off. Helicopter will not fly over terrestrial fauna of the area. Similarly the piston bully and cranes are supposed to use for limited period of 5-8 hours only during entire operation.
+
+Land
+Emissions from exhaust is likely to deposit on the open land mainly from crane in relation with prevailing wind direction which will have low intensity and may alter the soil characteristics of very limited area
+Solid waste produce during excavation, may disperse in high wind if kept in open place
+An area of 64 square meter shall be occupied 
+
+Extent:       Low
+Duration:   Low
+Intensity:   Low
+Probability: Low
+Low
+Crane operation shall be for limited hours
+Excavated material shall be carefully placed to level the site
+Conceptualization and careful design  has minimized the area to be occupied
+Flora
+Lichen, moss and cynobacteria recorded near by area in western side of site also in Zub lake present at North direction from station may be affected by air emission particle which may deposit in this area and affect the natural presence. 
+
+Extent:       Low
+Duration:   Low
+Intensity:   Low
+Probability: Low
+Low
+It is supposed that installing earth station will not affect flora directly. No unique species are recorded near by installation site
+Fauna
+May affect fauna if present any
+Alien species may be introduced from human clothing etc. 
+Extent:       Low
+Duration:   Low
+Intensity:   Low
+Probability: Low
+Low
+Operation in the area shall not have direct impact on fauna and no unique species are recorded in the past study.
+Cleaning and inspection of clothing items and material before sending to Antarctica shall reduce the probability
+
+Wilder-ness and Aesthetic values
+New installation at site may affect the wilderness and aesthetic value of area
+Extent:       Low
+Duration:   Low
+Intensity:   Low
+Probability: Low
+Low
+The human presence will be at site for few days only, and they are the part of regular scientific activity at Maitri 
+Maitri station exists, since 1989 along with summer huts, so wilderness is not going to be affected directly. Very low aesthetic affect may be present
+HSM,ASPA, ASMA
+One, ASPA (No 163) present in western side around 3 km away from the site, may affect from activity
+Extent:       Low
+Duration:   Low
+Intensity:   Low
+Probability: Low
+Low
+No direct impact on the area however The ASPA guidelines to be following Any activity shall not affect ASPA and management plan. 
+
+Supporting Bibliography
+
+
+
+Asthana, R., Gaur, M.P. and Chaturvedi, A. (1996): Notes on Pattern of Snow Accumulation/ablation on ice shelf and Secular Movement of Dakshin Gangotri Glacier Snout in Central Dronning Maud Land, East Antarctica. In: scientific Report of the Twelfth Indian Scientific Expedition to Antarctica, Tech. Pub. No. 10 D.O.D., Govt. of India, New Delhi, pp.111-122
+Beg, M.J., Prasad, A.V.K. and Chaturvedi, A. (2000): Interim Report on Glaciological Studies in the Austral Summer of 19th Indian Antarctic Expedition. In: Scientific Report of Nineteenth Indian Expedition to Antarctica, Tech. Pub. No. 17, D.O.D., Govt. of India, New Delhi, pp. 121-126. 
+Bejarniya, B.R., Ravikant, V. and Kundu, A., (2000): Glaciological Studies in Schirmacher Hill and on Ice Shelf during XIV Antarctica Expedition. In: Scientific Report of Sixteenth Indian Expedition to Antarctica, Tech. Pub. No. 14, D.O.D., Govt. of India, New Delhi, pp. 121-126.
+Chaturvedi, A., Singh, A., Gaur, M.P., Krishnamurthy, K.V., and Beg, M.J., (1999): A confirmation of Polar Glacial Recession by Monitoring the Snout of Dakshin Gangotri Glacier in Schirmacher Range. In: Scientific Report of Fifteenth Indian Expedition to Antarctica, Tech. Pub. No. 13, D.O.D., Govt. of India, New Delhi, pp. 321-336. 
+D'souza, M.J. and Kundu, A., (2000): Glaciological studies during the Seventeenth Antarctic Expedition. In: Scientific Report of Seventeenth Indian Expedition to Antarctica, Tech. Pub. No. 15, D.O.D., Govt. of India, New Delhi, pp.67-72
+GSI, (1991): Geology of Schirmacher and Wolthat Region, Central Dronning Maud Land, Antarctica (Scale 1: 250,000), Government of India
+GSI, (1999): Geology of Schirmacher Oasis, Central Dronning Maud Land, East Antarctica (Scale 1:25,000), Government of India
+GSI, (2006a): Geological Map of Orvinfjella Central Dronning Maud Land, East Antarctica (Scale 1: 50,000), Government of India
+GSI, (2006b): Geomorphological Map of Schirmacher Oasis, Central Dronning Maud Land, East Antarctica (Scale 1:25,000), Government of India
+Hazra, A.K. (1990): Terrestrial invertebrate fauna of Antarctica, Taxonomy in Environment and Biology (ed. Director, ZSI), pp 229-242.
+
+Hazra, A.K. (1994): A study on the population ecology of soil nematode fauna in relation to some edaphic factors in Schirmacher Oasis, Antarctica, In: Scientific Report of Indian Expedition to Antarctica Tech Pub No 6, Department of Ocean Development, pp 65-90
+
+Kashyap, A.K. (1988.): Studies on Algal flora of Schirmacher Oasis, Dronning Maud land, Antarctica. In: proceedings of Workshop on Antarctic Studies, D.O.D., CSIR, Govt. of India, New Delhi, pp.435-439
+Kaul, M.K., Chakraborty, S.K. and Raina, V.K. (1985): A Note on the snout of the Dakshin Gangotri Glacier, Antarctica. In: Scientific Report of Second Indian Expedition to Antarctica, Tech. Pub. No. 2, D.O.D., Govt. of India, New Delhi, pp. 91-93.
+Kaul, M.K., Singh, R.K., Srivastava, D., Mukerji, S. and Jayaram, S. (1998): Observations on the Changes in the Snout of Dakshin Gangotri Glacier, Antarctica. In: Scientific Report of the Fifth Indian Expedition to Antarctica, Tech. Pub. No. 5, D.O.D., Govt. of India, New Delhi, pp. 205-209.
+Mukerji, S., Ravikant, V., Bejarniya, B.R., Oberoi, L.K. and Nautiyal, S.C. (1995): A Note on the Glaciological Studies Carried Out During Eleventh Indian Expedition to Antarctica. In: Scientific Report of Eleventh Indian Expedition to Antarctica, Tech. Pub. No. 9, D.O.D., Govt. of India, New Delhi, pp. 153-162.
+Nayaka, S. and Upreti, D.K (2005): Schirmacher Oasis, East Antarctica, a lichenologically interesting region, Current Science, VOL. 89, NO. 7, pp 1069-1071
+Pandey, K.D. and Kashyap, A.K. (1995): Diversity of Algal Flora in Six Fresh Water Streams of Schirmacher Oasis, Antarctica. In: Scientific Report of Tenth Indian Expedition to Antarctica, Tech. Pub. No. 8, D.O.D., Govt. of India, New Delhi, pp. 218-229.
+Ravikumar, N and Malaimani, E.C. (2000):  Recent Results of The Strain Accumulation between Antarctica and Southern Indian Peninsula by GPS-Geodesy, http://www.tu-dresden.de/ipg/polenet/program/004.kumar.rn.pdf
+Ravindra, R. (2001): Geomorphology of Schirmacher Oasis, East Antarctica. Proc. Symp. On Snow, Ice and Glaciers, Geological Survey of India Spl. Pub. No. 53, pp. 379-390.
+Ravindra, R., Chaturvedi, and Beg, M.J. (2001): Melt Water Lakes of Schirmacher Oasis - Their Genetic Aspects and Classification. In: Advances in Marine and Antarctic Science, Ed. Sahu, DB and Pandey, PC, Dariyaganj, New Delhi, pp. 301-313.
+Ravindra, R., Srivastava, V.K., Sharma, B.L., Dey, A. and Bedi, A.K. (1994): Monitoring of Icebergs in Antarctic Waters and a Note on the Secular Movement of Dakshin Gangotri Glacier. In: Scientific Report of Ninth Indian Expedition to Antarctica, Tech. Pub. No. 6, D.O.D., Govt. of India, New Delhi, pp. 239-250.
+Sanyal, A.K. (2004): Diversity of Invertebrate Fauna of Schirmacher Oasis, East Antarctica, Nineteenth Indian Expedition to Antarctica, Scientific Report, Department of Ocean Development, Technical Publication No. 17, pp 173-187
+Singh, D.K., and Semwal, R.C. (2000): Bryoflora of Schirmacher Oasis, East Antarctica: A Preliminary Study. In: Scientific Report of Sixteenth Indian Expedition to Antarctica, Tech. Pub. No. 14, D.O.D., Govt. of India, New Delhi, pp.173-186
+Upreti, D. K. and Pant, G.( 1995): (In) Scientific Report,   Eleventh Indian Expedition to Antarctica, Department of Ocean Development, New Delhi, pp. 229–241.
+
+Venkataraman, K. (1998): Studies on Phylum Tardigrada and Other Associated Fauna, South Polar Skua and Bird and Mammal Lagging during 1994-1995 Expedition. In: Scientific Report of Fourteenth Indian Expedition to Antarctica, Tech. Pub. No. 12, D.O.D., Govt. of India, New Delhi, pp.220-243
+

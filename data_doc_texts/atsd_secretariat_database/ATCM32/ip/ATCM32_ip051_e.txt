@@ -1,0 +1,52 @@
+﻿
+
+
+
+
+
+Strategic assessment of the risk posed to marine mammals by the use of airguns in the Antarctic Treaty area
+
+
+
+
+Strategic assessment of the risk posed to marine mammals by the use of airguns in the Antarctic Treaty area
+
+prepared by the Alfred Wegener Institute for Polar and Marine Research
+
+Information Paper submitted by Germany
+
+
+
+1. Introduction
+During CEP X Germany introduced IP 4 (2007), “International Workshop “Impacts of seismic survey activities on whales and other marine biota”. IP 4 (2007) describing the general outcome of this workshop, conducted by the Federal Environment Agency (Umweltbundesamt – UBA) in Dessau, Germany in September 2006 and outlining the planned further steps.
+As an outcome of the workshop it was concluded that further investigations should clarify, how, and to which degree, academic seismic surveys impact the Antarctic environment. Differences in field observations have to be reconciled, biological significance of effects should be assessed, appropriate mitigation procedures should be developed and tested and a long-term monitoring could be used to evaluate biological effects as well as mitigation measures. All available information should be used for assessing academic seismic surveys according to the provisions of the Protocol on Environmental Protection to the Antarctic Treaty.
+In accordance with the planned common German approach subsequent to the workshop described in IP 4 (2007) the Alfred-Wegener-Institute for Polar and Marine Research (AWI) prepared a risk analysis for the use of airguns in academic seismic surveys (cf. 3.1 IP 4 (2007)). So far, this risk analysis is not yet assessed by the Federal Environment Agency - the German Competent Authority. UBA will evaluate how to categorise academic seismic surveys in best compliance with the provisions of the German Act implementing the Protocol on Environmental Protection to the Antarctic Treaty (cf. 3.2 IP 4 (2007)). 
+AWI and UBA have started at the end of 2008 a five-years common research project on the occurrence and distribution of whales in Antarctic waters and on technologies for automated ship borne whale detection (cf. 3.2 IP 4 (2007)). 
+The present IP is to present this risk analysis prepared by AWI to the Committee of Environmental Protection (CEP) and the Antarctic Treaty Consultative Meeting (ATCM).
+
+2. General outcome of the risk analysis 
+This strategic assessment considers the risk posed to marine mammals by the use of airguns in the Antarctic Treaty area for a generic seismic survey layout. The paper is structured in seven chapters:
+I. Risk analysis: Survey characteristics
+This chapter combines seismic survey characteristics of 25 years (e.g. survey layout, airgun description), region and time specific environmental information (e.g. oceanography, geology, topography), and state-of-the-arte source and acoustic propagation modeling to develop 24 “generic” acoustic scenarios which embrace the conditions under which the majority of conditions under which AWI have conducted seismic surveys in the Antarctic Treaty Area.
+
+II. Risk analysis: Species description
+Herein, the current knowledge on cetaceans and pinnipeds of Antarctica to the extent relevant to this study is summarized.
+III. Risk analysis: Hazard identification
+Based primarily on three recent review articles by Southall et al., [2007], Cox et al., [2006] and The National Research Council, [2005], this chapter develops three different risk categories: “direct, immediate injury”, “indirect, immediate damage”, and “biologically significant acoustic disturbance”. For each of these categories, a set of evaluation criteria is extracted, or – if unavailable – developed, from the aforementioned papers. With still significant gaps in the current scientific knowledge on this issue, these criteria have diverse levels of uncertainty, as emphasized by their authors. Nevertheless, at this time, they represent the state of knowledge in the field and a best-effort to develop sensible, conservative guidelines for a highly complex issue.
+IV. Risk analysis: Exposure analysis
+This chapter combines the numerical results of the sound propagation modeling of chapter I with the metrics developed in chapter III to independently estimate for each acoustic scenario the conditions under which an individual animal might be placed at risk under any of the three categories.
+V. Risk management
+Herein suggestions are developed on how to further reduce possible impacts of scientific seismic operations, as based on the findings of chapter IV and VI.
+VI. Risk evaluation 
+This chapter discusses separately the risks as posed with and without mitigation efforts in place, thereby distinguishing between two distinctly different types of levels: the risk for an individual and the ensuing risk for the population.
+VII. Appendix 
+The appendix provides an overview of current research concepts and research needs in the context of this study, along with a comparison of the impact of different exposure metrics on critical radii.
+The resulting evaluation matrix considers three risk categories, each with and without mitigation, for 24 acoustic scenarios, and with regard to both individuals and populations level implications. Any of the three risks listed above depend on the condition of the mammal actually being in the vicinity of the ship and need to be weighted with the probability of a whale-ship encounter. With (AWI) seismic operations being conducted in Antarctica for less than 14 days per year the risk for individual to be involved in such an encounter is small, and hence species and population levels risks are significantly reduced.
+Without any mitigation measure in place, the analysis reveals that – depending on the air gun cluster used – the risk of “direct, immediate injury” for marine mammals cannot – given the current state of knowledge – be excluded in the immediate to near vicinity of the acoustic source. A risk of “biologically significant acoustic disturbance”, i.e. cow calf separation appears possible (though improbable) for cow/calf pairs when present in the near to wider vicinity of the ship. Other types of behavioural disturbances to animals in the wider vicinity of the ship are expected to be localized and short term and to not reach a level of biological significance. Similarly, the risk criterion of “indirect, immediate damage” is shown to be of marginal relevance in the context of this study.
+The remaining risks of “direct, immediate injury” and of “biologically significant acoustic disturbance” via cow/calf separation for individual mammals can readily be mitigated and thereby reduced to residual levels by implementation of appropriate shut-down and ramp up procedures. With the mitigation proposals in place, no long term or significant effects are expected on individual marine mammals.
+With these risks, when mitigated, being already at a residual level, population level effects are found to be of marginal relevance for any of the risk categories and acoustic scenarios discussed. Hence, with the mitigation proposals in place, no long term or significant effects are expected on native Antarctic marine mammal species or populations of species.
+
+3. Further information
+The entire risk analysis (271 pages, file size 18 MB) will be distributed on CD at the CEP. Additionally it can be downloaded from http://epic.awi.de/Publications/Boe2009c.pdf 
+
+

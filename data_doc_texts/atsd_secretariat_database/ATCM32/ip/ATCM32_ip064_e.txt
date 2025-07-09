@@ -1,0 +1,41 @@
+﻿
+
+
+
+
+
+Ukrainian Antarctic Research for 2008-2009 summer season
+
+
+
+
+Ukrainian Antarctic Research for 2008-2009 summer season
+
+
+Geological research
+
+Electronic Atlas of the Antarctic deep structure with the gravimetric tomography data (version 1) was created. The Atlas contains information on anomalous dense heterogeneities determined with the gravimetric tomography method using the EGM96 global gravity potential model geoid. 3D images of vertical cross-sections and maps of lateral slices on different depths of the Antarctic lithosphere plate within 30°S are the main data. Tectonic structure, interpolate and interpolate processes of the Antarctic region are shown. Atlas includes 40 slides, 57 maps and sections and the following topics: Ground of the gravimetric tomography method; Legend for images of the cross-sections and maps; Regional models; Scotia Sea, Shackleton Fracture Zone, Antarctic Peninsula region (Graham Land, Bransfield, Deception, Palmer, Transition Zone, Ellsworth); West Antarctic Rift System; World lateral slices on depths of 5300 km, 2800 km, 1500 km, 750 km, 100 km; References. CD Presentation of the Atlas at the SCAR Conference 2008 in Saint Petersburg was passes to Dr Hank BROLSMA, the Chairman of the SCAR Standing Committee on Antarctic Geographic Information (SC-AGI). One of the important scientific directions is research of the shallow water in surveyed archipelagos in the West Antarctic which remain as blank spots on the maps during ten years. Results of the echo sounding surveys during seasonal Ukrainian Antarctic expeditions 1998, 2002, 2004, 2006 and 2008 were prepared and submitted to Dr Hans Werner Schenke, chairman of the IBCSO editorial board. NASC of Ukraine supports effort of SCAR to create the IBCSO and supposes that these data can be used for the IBCSO Project. Echo sounding surveys will be continued during following expeditions within the Anagram, Cruls and Roca archipelagos.
+
+
+Astrophysical research
+
+One of the interesting tasks intensively studied in the National Antarctic Scientific Centre of Ukraine (NASC) is the problem of detecting of cosmic rays of ultrahigh energy (>1020 eV). It is proposed in the NASC to detect such cosmic rays measuring electromagnetic pulses which appear during the interaction of secondary particles of air showers with the ice of the whole Antarctica. Such a pulse after encroachment of the ice can reflect on the ionosphere layers and be detected by special antenna located at one of the Antarctic stations. Such special antenna of Beveredge type was erected in 2008 at the Ukrainian Antarctic Vernadsky station. At the present time the electronic facility and mathematical processing program debugging is performed.
+
+
+Geophysical research
+
+The problem of the natural Earth pulse electromagnetic radiation occurrence and its usage for the Earth interior exploration is studied in NASC during last several years. The model of such radiation generation based on the initiation of optical vibrations of complex crystal lattice and therefore associated electromagnetic oscillations that appear due to formation and movement of point, linear (dislocation) and volume (micro cracks, pores) defects of crystals was proposed. In solid state physics the electromagnetic radiation associated with inherent (optical) lattice vibrations is called polariton radiation. As long as intensity of defect creation is in direct proportion of deformation of the crystal, the intensity of the signal generated will be maximal in maximal deformation zones of the Earth crust. This fact allows the application of this radiation for the Earth crust structure study. Such a study of several glacier structure and shelf structure in the vicinity of Argentina Islands was performed on the base of facility and mathematical processing program developed in Ukraine.
+
+On the basis of available geological and geophysical information on distribution of regional and local heterogeneities in the crust the schemes of structural and tectonic background have been constructed for the Antarctic structure of Western Antarctica. Automated systems were developed for geophysical data processing and interpretation including that for marine geophysical observations. This allows efficiently fitting model parameters in regard to geoid height anomalies and various components of gravity and magnetic field. Joint geophysical models have been constructed by 2D gravity and magnetic modelling and new geoelectrical data for the crust and upper mantle along lengthy lines crossing the Antarctic Peninsula continental margin. They take into account compilation and generalization of potential field data in t5he study region and use as a structure constrains the velocity models on seismic lines acquired in the Antarctic Peninsula shelf by Polish Academy of Sciences. It has the technique for three-dimensional gravity modelling using the methods of "back-stripping analysis", which makes it possible to reveal density heterogeneities in the lithosphere when they are masked by thick sedimentary cover. This approach is rather effective for studying the deep structure of the Earth's crust and upper mantle within the areas with active sudduction processes, such as Western Antarctic region. The seismic tomography method for setting up three-dimensional velocity models of the upper mantle using is accomplished. In this regard we start to acquire seismological data for developing the seismic tomography model for the lithosphere of large segment of Western Antarctica. GIS-based data base developed for (storing) geological and geophysical information will allow us to visualize the field work data and interpretation results in real time on unified mapping system.
+
+
+Biotechnologies
+
+Complex geoinformational system database, which characterizes structural and functional connections in microbial communities of typical biotopes of Antarctic Region in a zone (30x60 km) of islands shelf of passage Penola of the western coast of Antarctic peninsula, is developed.
+For the first time it is shown that resistance of chemoorganotropic microorganisms to very high concentration of toxic metals is the widespread biological phenomenon on an internal island shelf and the western coast of Antarctic Peninsula. The system of quantitative criteria of resistance of microorganisms to toxic metals is developed. On the basis of Antarctic microorganisms, which effectively accumulate toxic metals, universal nature protection biotechnologies of sewage treatment from a wide spectrum of metals in any concentration range will be developed.
+
+New industrial environment protection "RMM-biotechnology" that allows utilizing of ecologically dangerous food waste is implemented at Vernadsky Station. RMM-biotechnology is based on the use of Antarctic microorganisms adapted to food waste and RMM -regulators of microbial metabolism (non toxic and ecologically safe compounds) that increase the speed of waste fermentation and utilization. During fermentation cycle (7-12 days) weight of food waste decreases 30-50 times, final products are non toxic.
+
+On the base of sea microorganisms from bottom sediments "C-biotechnology" for purification of household (faecal) waste water is developed. The biotechnology allows achieving high level of purification - decreasing concentration of organics from 10000 to 10-20 ppm "C-biotechnology" will be implemented at Vernadsky Station.
+
+

@@ -1,0 +1,71 @@
+﻿
+
+
+
+
+
+Considerations for the use of unmanned aircraft systems (UAS) for research, monitoring, and observation in Antarctica
+
+
+
+
+
+
+
+
+Considerations for the use of unmanned aircraft systems (UAS) for research, monitoring, and observation in Antarctica
+Working Paper submitted by the United States
+Summary
+Unmanned aircraft systems are being used worldwide as tools for scientific data collection and environmental monitoring.  This paper invites the CEP and ATCM to consider the potential for expanded use of unmanned aircraft in Antarctica and how best to ensure the safety of personnel, infrastructure, wildlife, and the environment.
+Introduction
+The use of unmanned aircraft systems (UAS), some of which are known as remotely-piloted aircraft systems (RPAS), has expanded worldwide over the past few decades.  Recent advances in the technology, decreasing cost, and advantages over manned aircraft have resulted in increased UAS use in scientific research.  UAS utilization by scientists, national programs, and visitors in Antarctica is currently limited, but expected to increase in the near future.  This paper includes a description of UAS, their applications, the potential impacts of their use in Antarctica, and measures to mitigate those impacts.
+Description and classification
+Unmanned aircraft systems used in research consist of an unmanned aircraft, a ground control system, a control link, and a sensor payload. Some UAS are also known as RPAS.  The aircraft component of the UAS can be referred to as an unmanned aerial vehicle (UAV), a remotely piloted vehicle (RPV), a remotely operated aircraft (ROA) or a drone.
+ UAS vary widely in size and application and, as an emerging technology, continue to evolve.  UAS can generally be classified according to their size, the altitudes at which they operate, and their endurance.  UAS weighing 25 kg or less are often classified as small (sUAS), generally operate at low altitudes (≤ 1 km) for a few minutes to hours, and are usually battery-operated.  Larger UAS operate at medium (up to 10 km) to high altitudes (20 km or more) for longer periods of time (many hours to days) and may use battery packs, petroleum fuels, and/or solar panels. 
+Vertical take off and landing (VTOL) UAS have the ability to operate in limited or uneven terrain and are highly portable.  These systems generally operate at low altitudes and for limited durations, as their ability to hover can strain their batteries.  Certain VTOL UAS are referred to as copters, with some designation of the number of rotors (e.g. “quadcopter” for a 4-rotor aircraft).
+A UAS crew includes a remote pilot and usually at least one observer.  The observer can assist in maintaining the visual line-of-sight (VLOS) with the aircraft and monitor the airspace for potential collisions.  The pilot and the observer(s) should maintain a constant communications link.
+Advantages and considerations 
+As an alternative for Antarctic research and monitoring, UAS can offer some advantages over manned aircraft missions and satellites including lower initial investment and operating costs, logistical flexibility, and, as compared to manned aircraft missions, increased personnel safety and reduced fossil fuel use.  sUAS are also very quiet and could fly over animal colonies with minimal disturbance.
+UAS used in polar environments should be capable of operating in extreme cold temperatures and under icing conditions.  Weather restrictions, including wind speed and cloud cover limitations, should be carefully considered.  The size and terrain of the area required for take off and landing merit consideration, as do options for launch methods.  Bandwidth requirements and the degree of automation of UAS are important in light of the limited communications infrastructure in Antarctica.
+Current and emerging Antarctic applications
+Current Antarctic UAS applications include wildlife monitoring, remote sensing, and aerial filming.  The U.S. National Oceanographic and Atmospheric Administration (NOAA) estimated abundances of krill-dependent predators with VTOL sUAS and camera payloads to help fulfill CCAMLR monitoring obligations.  The Center for the Remote Sensing of Ice Sheets (CRESIS) at the University of Kansas, with U.S. National Science Foundation (NSF) funding, used a mid-sized UAS to perform radar soundings and collect images of the ice sheet in the Whillans Ice Stream area.  Tour operators are using radio-controlled VTOL sUAS to film Antarctic landscape features inaccessible by other means to expand the experience for visitors.
+Expansion of UAS utilization in Antarctica should be expected as these systems offer advantages over manned flights and ground-based observations for monitoring environmental conditions and wildlife.  National programs and visitors could employ UAS for way-finding and obstruction detection and UAS have the potential for use in search and rescue.  Tour operators and visitors will likely seek to expand their use of UAS for filming and photography.
+Risk to operations and ecosystems
+UAS, though small and remotely-piloted, are still aircraft.  Therefore, risks should be assessed as for any airborne object and UAS should be operated as safely as manned aircraft.  Risks to science and support operations include collisions with other aircraft and vital infrastructure; radio signal and electromagnetic interference; and injury of personnel.  UAS use in Antarctica also puts wildlife, especially birds, at risk for disturbance and, in the case of collision or crash, injury or death.  Crashes or collisions involving UAS risk damaging or destroying the Antarctica’s wilderness and sensitive areas including Antarctic Specially Protected Areas (ASPAs) and Historic Sites and Monuments (HSMs).
+Mitigation of risks
+Mitigation measures should be implemented to ensure that the advantages of operating UAS in Antarctica outweigh the risks to personnel, science, ecosystems, and infrastructure.  Thorough analyses of the aforementioned risks, as well as the potential for waste generation, should be performed for each application of UAS.
+Guidelines and best practices for UAS utilization in Antarctica should be established to ensure safety and to minimize risk to people, wildlife, the environment, and property in the air and on the ground.  Notification of airspace coordinators and station operators of intended UAS use will help to separate UAS from other aircraft and minimize interference with research and science support operations.  Mitigating the risks of harmful interference to Antarctic fauna and flora (Annex II to the Protocol on Environmental Protection to the Antarctic Treaty) could be accomplished via implementation of the Guidelines for the Operation of Aircraft Near Concentrations of Birds in Antarctica (Resolution 2 (2004)) with modifications for UAS.  Restricting the use of UAS within ASPAs and near HSMs will help to ensure the preservation of these sensitive areas.
+Best practices for operating UAS should include essential design features, training regimes, and operating conditions.  All UAS should have safety features that minimize the risk of failure, crashes, and collisions including, but not limited to: automated return-to-home and landing modes should the system experience a loss of control link; pairing of aircraft to ground control to avoid loss of control due to signal interference; and, as available, sense-and-avoid technology.  Safe operations can also be supported through training of UAS pilots and observers including, but not limited to, simulations, test flights indoors or in restricted airspace, and field test flights.
+ Attention to operating parameters and conditions including altitude and range limitations of the device; guidelines for proximity to personnel, wildlife, and infrastructure; and weather limits such as wind and cloud cover is critical.  Maintaining VLOS is an important practice to avoid collisions with other aircraft and to minimize harmful interference of wildlife (maintenance of VLOS and use of observers may vary with UAS platforms and applications).  Airworthiness maintenance is critical to avoid failure – factors such as remaining battery charge and integrity of the aircraft and payload should be considered, amongst others.  Plans should be in place for landing the aircraft away from personnel, structures, wildlife, and APSAs if an in-flight emergency occurs.
+Including UAS activities in environmental evaluations and permit issuance could also help to ensure safety and mitigation of risk.  To ensure safety for all aircraft and to minimize injury and loss of life, many national civilian aviation authorities have issued and/or are developing standards and regulations for UAS use within their airspace including certifications of airworthiness and crews (Resources Annex).  Consideration of guidelines and best practices that are compatible between National Antarctic Programs is merited.
+Recommendations
+Expanded UAS use has the potential to contribute substantially to the study and monitoring of the Antarctic environment and to other scientific research.  UAS have distinct advantages over manned aircraft and other monitoring techniques.  However, there are inherent risks to UAS operations that should be considered and efforts should be made to mitigate those risks.  The CEP and ATCM are recommended to:
+    1) note the potential for UAS to contribute to scientific research and environmental monitoring in Antarctica and acknowledge that use of UAS in the Antarctic is likely to expand in the near future;
+    2) consider requesting that SCAR review the risks of UAS operations on the safety of wildlife and the environment;
+    3) consider requesting that COMNAP review the risks of UAS operations on the safety of other aircraft and on station operations; and,
+    4) after reviewing the results of the risk analyses, invite COMNAP, in consultation with SCAR and external experts in the safe operations of UAS, to discuss establishing guidelines for the environmentally- and operationally-safe use of UAS in Antarctica that are compatible across National Antarctic Programs.
+Annex: Resources
+UAS use in scientific research
+Arctic Monitoring and Assessment Programme. 2012. Enabling Science Use of Unmanned Aircraft Systems for Arctic Environmental Monitoring. By: Crowe, W., Davis, K.D., la Cour-Harbo, A., Vihma, T., Lesenkov, S., Eppi, R., Weatherhead, E.C., Liu, P., raustein, M., Abrahamsson, M., Johansen, K-S., Marshall, D., Storvold, R., Mulac, B. Oslo, 30 pp. (http://www.amap.no/documents/doc/enabling-science-use-of-unmanned-aircraft-systems-for-arctic-environmental-monitoring/716)
+Arctic Monitoring and Assessment Programme. In preparation. Handbook for Scientific UAS Operation in the Arctic. (http://www.amap.no/documents)
+Perryman, W., Goebel, M.E., Ash, N., LeRoi, D., and Gardner, S. 2014. Small unmanned aerial systems for estimating abundance of frill-dependent predators: a feasibility study with preliminary results. In: Walsh, J.G., ed. AMLR 2010-2011 Field Season Report. NOAA National Marine Fisheries Services. Technical Memorandum: NOAA-TM-NMFS-SWFSC-524, pp. 64-72. (http://swfsc.noaa.gov/uploadedFiles/Divisions/AERD/Publications/FSR2011_AMLR_FINAL.pdf?n=9809)
+Watts, A.C., Ambrosia, V.G., and Hinkley, E.A. 2012. Unmanned aircraft systems in remote sensing and scientific research: classification and considerations of use. Remote Sensing. 4 (6), 1671-1692; doi: 10.3390/rs4061671 (http://www.mdpi.com/2072-4292/4/6/1671)
+Relevant frameworks, guidelines, and policies
+Antarctic Treaty Secretariat. 2004. Guidelines for the Operation of Aircraft Near Concentrations of Birds in Antarctica. Resolution 2, Annex II to the Protocol on Environmental Protection to the Antarctic Treaty. (http://www.ats.aq/documents/cep/Guidelines_aircraft_e.pdf)
+European Aviation Safety Agency. 2009. Policy Statement – Airworthiness Certification of Unmanned Aircraft Systems (UAS). Doc # E.Y013-01. (http://www.easa.europa.eu/certification/docs/policy-statements/E.Y013-01_%20UAS_%20Policy.pdf)
+European RPAS Steering Group. 2013. Roadmap for the Integration of Civil Remotely-piloted Aircraft Systems into the European Aviation System. Final Report.  (http://ec.europa.eu/enterprise/sectors/aerospace/files/rpas-roadmap_en.pdf)
+Federal Aviation Administration. 1981. Model Aircraft Operating Standards. Advisory Circular: AC 91-57. (http://www.faa.gov/documentLibrary/media/Advisory_Circular/91-57.pdf)
+Federal Aviation Administration. 2007. Unmanned Aircraft Operations in the National Airspace System. Federal Register Notice: Docket No. FAA-2006-25714.  (http://www.faa.gov/about/initiatives/uas/reg/media/frnotice_uas.pdf)
+Federal Aviation Administration. 2012. Expanding Use of Small Unmanned Aircraft Systems in the Arctic: Implementation Plan.  (http://www.faa.gov/about/initiatives/uas/media/sUAS_Arctic_Plan.pdf)
+Federal Aviation Administration. 2013. Integration of Civil Unmanned Aircraft Systems in the National Airspace System Roadmap.  (http://www.faa.gov/about/initiatives/uas/media/UAS_Roadmap_2013.pdf)
+International Civil Aviation Organization. 2012. Unmanned Aircraft System (UAS). Circular: Cir 328, AN/190.  (http://www.icao.int/Meetings/UAS/Documents/Circular%20328_en.pdf)
+Websites
+Center for the Remote Sensing of Ice Sheets (CRESIS), University of Kansas https://www.cresis.ku.edu
+European Aviation Safety Agency: Unmanned Aircraft System (UAS) and Remotely Piloted Aircraft Systems (RPAS) http://www.easa.europa.eu/rulemaking/Unmanned-Aircraft-Systems-(UAS)-and-Remotely-Piloted-Aircraft-Systems-(RPAS).php
+European Commission: Remotely Piloted Aircraft Systems (RPAS) http://ec.europa.eu/enterprise/sectors/aerospace/uas/index_en.htm
+Federal Aviation Administration: Unmanned Aircraft Systems (UAS) http://www.faa.gov/about/initiatives/uas/
+International Civil Aviation Organization: UAS http://www.icao.int/Meetings/UAS/Pages/default.aspx
+National Oceanographic and Atmospheric Administration: Antarctic Ecosystem Research Division (NOAA Fisheries, U.S. AMLR) http://swfsc.noaa.gov/aerd/
+National Oceanographic and Atmospheric Administration: Unmanned Aircraft System Program http://uas.noaa.gov
+
+

@@ -1,0 +1,179 @@
+Report on Low Earth Orbit communication systems trials
+Report on Low Earth Orbit communications systems trials
+Summary
+The British Antarctic Survey (BAS) has been trialing two Low Earth
+Orbit (LEO) satellite communication systems which can provide
+high speed internet connections to locations in Antarctica. These
+trials have demonstrated the large impact and potential these
+communication systems can have on operations and science
+capabilities in the Antarctic.
+Introduction
+Before March 2023 BAS’ primary internet connection to it’s three
+Antarctic research stations (Rothera, Halley and Signy) and the RRS
+Sir David Attenborough (SDA) was via Very Small Aperture
+Terminal (VSAT) satellite links. Smaller camps and field parties
+were supported by Iridium devices. Trials were started this year on
+Starlink and OneWeb. Both of these have had a high immediate
+impact on operations and welfare at all locations and demonstrate
+the potential benefits to science and as a enabler to new ways of
+working in support of carbon reduction.
+Starlink
+Starlink is a satellite communications system with over 6000 LEO
+satellites at approximately 600km in altitude. The majority of the
+Starlink constellation orbit at an inclination of 53 degrees and a
+small number in a polar orbit, which Antarctic locations can use. In
+March 2023, Starlink user terminals were initially introduced on the
+SDA and at Rothera. These were added with only the addition of a
+firewall and only for personal devices. The VSAT was retained for
+operations purposes at Rothera and the SDA until second user
+terminals were added in January 2024 and added to the business
+system network. To use the advantages of Starlink’s higher speeds
+whilst retaining the VSAT for redundancy, a simple failover system
+was developed so that the VSAT would take over if the operations
+Starlink user terminal lost connection.
+Further user terminals were added across the UKs Antarctic and sub
+Antarctic operations during the summer season but were not
+integrated with the VSAT system.
+Speed tests have shown an average download speed close to 150
+Mbps and average upload speeds of approximately 15 Mbps.
+The onsite power usage for each user terminal is approximately
+80W with the heater off. When there is icing the heater will
+increase this power usage to approximately 150W. This can be
+compared with the Rothera VSAT system which uses approximately
+3kW.
+Figure 1. Starlink high performance user terminal installed at
+Rothera.
+Monthly data transfer amounts for Rothera are shown in figure 2
+below. Initially introduced as a welfare network only for personal
+devices. During the austral winter monthly transfer rates were fairly
+low, however as the station population increased in October (and
+Starlink terms and conditions changes, uncapping stationary user
+terminals not deemed to be at sea) the demand increased
+dramatically. Monthly data transfer of the 2nd user terminal for
+work devices, fully configured with a Virtual Private Network
+(VPN) back to BAS in Cambridge for operational purposes is also
+shown in figure 2.
+Figure 2. Monthly data transfers on Rothera Starlink user terminals.
+OneWeb Talaria
+OneWeb, now merged with Eutelsat has developed a scalable,
+lightweight ground network, called Talaria, that operates outside
+the normal OneWeb network but utilises the same LEO satellites.
+OneWeb has a constellation of LEO satellites that are all polar
+orbiting at an altitude of roughly 1200km. This should be better
+suited to the polar regions. As the Talaria system works outside the
+normal OneWeb network, it has the advantage of providing a
+sovereign network, however the disadvantage is that a custom user
+terminal is required.
+In January 2024 a ground station consisting of three 2.4m dishes
+was installed just outside Punta Arenas. The installation of this
+ground station allows the OneWeb satellites continuous coverage of
+the Antarctic peninsula. Two user terminals were installed at
+Rothera and the system tested.
+Initial tests showed download speeds up to 100 Mbps and upload
+speeds of 20 Mbps. Testing of the system will continue with the
+possibility of upgrading to allow coverage of all of BAS’ stations in
+the future.
+Each user terminal uses a maximum of 220W. Once again this is
+much less than the VSAT system at Rothera.
+Figure 3. OneWeb Talaria user terminal installed at Rothera. Note
+the VSAT dome in the background.
+Impact on VSAT at Rothera
+Our VSAT system is very reliable and the infrastructure on the
+stations is mature. All our stations and our research vessel use
+bandwidth on the SES4 satellite. To utilize our bandwidth
+allocation most efficiently each station has a minimum allocation
+but can share any spare bandwidth that is not being used by
+another station. Over the years as data transfer demand has
+increased bandwidth availability has meant that the VSAT system
+has been overloaded. An attempt to alleviate this has been to
+purchase more bandwidth during the Antarctic summer season. By
+introducing an alternative LEO connection at any station, this frees
+up VSAT bandwidth for that station but also the other stations due
+to the sharing ability. The impact on the VSAT connection at
+Rothera of introducing the Starlink user terminals at Rothera can be
+clearly seen in the figure below which shows the weekly data
+transfer to and from the station.
+Figure 4. Weekly data transfers to and from Rothera using the
+VSAT. A Starlink unit was introduced for welfare use on the 20th of
+April 2023. An additional Starlink unit was added for operational
+purposes on the 10th of January 2024. Both additions demonstrate
+the impact of LEO services on the VSAT system.
+Opportunities enabled by LEO satellite systems
+As is demonstrated in the plots above the use of LEO satellites
+systems is already having an impact on the welfare and operational
+areas at BAS stations and the SDA, however this has the potential
+for fundamental change on the Science and the way that Science is
+carried out enabled by these systems.
+As connectivity becomes better, this allows new autonomous
+platforms to be used for gathering scientific data. Continuous, low
+latency, fast communications will enable safe operation of
+autonomous systems. This connectively will also support live access
+to data from science and operational systems when previously data
+was recorded locally and manually collected and transferred back to
+the UK for analysis.
+Beyond Visual Line of Sight (BVLOS) Remotely Piloted Aircraft
+Systems (RPAS)
+This has been most recently demonstrated by the Windracers
+ULTRA that was flown off the Rothera runway (refer to UK IP
+Operations and Scientific use of Remotely Piloted Aircraft Systems
+(RPAS) in Antarctica: a review for further details). With a Starlink
+terminal fitted the Remotely Piloted Aircraft System (RPAS) was
+able to be controlled and operated safely beyond visual line of
+sight.
+Marine Autonomy
+With increasing use of marine gliders and other autonomous
+underwater vessels (AUVs) as well as unmanned surface vessels
+(USVs) and as LEO modems become lower power and smaller, the
+advances in connectivity will enable much quicker widely spaced
+oceanographic.
+Terrestrial Instrumentation
+Many of the remote instruments that are deployed by BAS over
+Antarctica store all their data locally. This data collection
+necessitates visits by engineers or scientists using the BAS aircraft.
+In some cases, some data is already transferred using the Iridium
+Satellite network, however for large data sets this is not economical.
+New LEO systems have the potential to reduce the requirement to
+visit these remote sites and reduce the carbon emissions to get all
+the data.
+Building Management Systems (BMS)
+As the Antarctic infrastructure on stations is modernized, more
+complex BMS systems are being installed. Due to the poor
+connectivity these BMS systems have traditionally been monitored
+by local personnel. With the introduction of LEO communications,
+the BMS data can be transferred back to the UK, live, and
+monitored by experts that can support technicians and engineers via
+video link. This has the potential to allow better control of building
+systems and reduce operational and environmental costs.
+Safety and Wellbeing
+Improved connectivity is already having a large impact on personal
+communications home for deployed staff . This can be seen from the
+data transfers on the Welfare Starlink in figure 2 at Rothera and has
+been fed back anecdotally. This will help with BAS’ new Safety
+Together culture (refer to IP ‘Safety together culture’ using a
+holistic approach to expeditioner’s safety and wellbeing for further
+details). Not only will better communications help with
+telemedicine, with on-site medics able to access specialist support in
+the UK via video link, but also with mental and social wellbeing.
+Improved communications will reduce isolation and could improve
+mental health.
+Risks, Challenges and Lessons Learned
+Although the previous relatively low data transfer rates on the
+VSAT systems used by BAS did not allow the opportunities outlined
+above, this same poor connectivity did mitigate some risks.
+Cyber Security
+As more complex systems are networked and with LEO services
+providing better connectivity this could cause more cyber security
+issues. For instance, a safety critical building system could be
+networked, to protect this but allow legitimate access it might be
+simply password protected. Automated password cracking
+techniques would previously have been detected due to the slow
+connection and shutdown may now require better prevention
+measures.
+Demand Management
+New business computing systems are more data intensive and as
+staff become used to good connectively the culture where demand
+for data was minimized will change. Previously, efforts were made
+to ensure all information required for a project was collected before
+deploying to the Antarctic. LEO will change this leading to further
+demand for data. This will be fine until either the links go down or
+a cap in capability is reached.

@@ -1,0 +1,52 @@
+﻿XXVII ATCM
+Information Paper
+IP 021
+Agenda Item: CEP 4a
+Sweden
+Original: English
+
+ 
+
+
+
+
+
+
+
+
+
+RENEWABLE POWER GENERATION FOR THE SWEDISH ANTARCTIC STATION WASA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Renewable power generation for the Swedish Antarctic Station Wasa
+
+The Swedish Polar Research Secretariat is currently developing a technical platform to enable all the year round, remotely controlled, scientific projects at the two Swedish Antarctic summer stations Wasa and Svea. 
+
+One of the main challenges is power and this was investigated in a master’s thesis at the Royal Institute of Technology, Department of Energy Technology, Stockholm, Sweden by Mattias Henryson and Martin Svensson. 
+
+
+Abstract
+As the debate on fossil fuel usage in Antarctica has been more and more highlighted, the participating countries, bound by the Antarctic treaty, have encouraged changes in their power systems. Some of the stations or research stations in Antarctica are very large, constituting smaller towns with all conceivable service, and hence very energy consuming. Focus is put on partly or completely replacing fossil fuelled energy with renewable energy such as wind and solar power, supported by either batteries or fuel cells. Today there are a number of both successful and unsuccessful installations of renewable energy systems in Antarctica. Implementing a power system in remote areas where continuous access is limited comprises great technical challenges and Antarctica fulfils by all means every difficulty involved. 
+
+The objective of this thesis is to propose ways of meeting power and energy demands for the Swedish Antarctic Research Program (SWEDARP) under the strict environmental legislations by as far as possible utilising the free renewable energy resources. A new power system is aimed at supplying 1 kW of electric power for continuous monitoring and collection of research data. The station is manned for three months, which implies a need of an autonomous system with high reliability. The following was based on a technical viability and economical feasibility study. Results are based upon analyses and computer simulations (HOMER) on how each fundamental system component is expected to work in the harsh climate conditions found at the station Wasa in Antarctica. It was found that wind power has the greatest potential as primary energy source in Antarctica. Supported by appropriate batteries, a reliable and in many ways feasible system can be obtained. Nevertheless, for the chosen techniques to endure the harsh climate conditions, sufficient modifications and developments of each component are needed. Based on the analyses the survey results in a proposal for a final system solution.
+
+
+The complete report can be obtained from the Swedish Polar Research Secretariat. For more information or a complete report, contact Sven Lidström, Technical Officer, e-mail sven.lidstrom@polar.se.
+

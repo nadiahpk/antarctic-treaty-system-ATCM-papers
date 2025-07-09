@@ -1,0 +1,80 @@
+﻿
+
+
+
+
+
+Remote Sensing Techniques for Improved Monitoring of Environment and Climate Change in Antarctica 
+
+
+
+
+
+Remote Sensing Techniques for Improved Monitoring of Environment and Climate Change in Antarctica
+Working Paper submitted by the United Kingdom
+Summary
+Satellite remote sensing is already widely used to monitor the Antarctic environment and help study the effects of regional climate change.  This paper invites the CEP to consider how such techniques might aid its work and how to ensure that we take advantage of the significant, and increasing, opportunities. 
+Introduction
+The use of satellites to monitor Antarctica has increased since its origins over 30 years ago. Observations from space based instruments are now routinely used to detect and measure change. Improved access to an increasing range of satellite data means these applications are pervasive across almost all branches of polar climate and environmental science. This paper presents the advantages and disadvantages of space based observations for monitoring the Antarctic climate and environment, plus examples of current successful application.
+Advantages of space based remote sensing
+Environmental observations are required to detect change, accurately locate features, quantify them and identify their physical characteristics. Without remote satellite based instruments, observations are limited to those collected on the ground, ship or aircraft. These are expensive, limited in their coverage, resolution and repeatability, and often come with an associated environmental impact such as atmospheric emissions and habitat disturbance.
+Surface and airborne measurements are limited by the harsh Antarctic environment, summer only access, the cost and difficulty of logistics in remote regions and the vast size of the area to be monitored.
+Satellite remote sensing provides a number of real advantages over surface and airborne observation systems:
+        1. They provide regional scale observations over very large areas.
+        2. Observations are repeatable and regular.
+        3. Measurements can be collected through the entire year.
+        4. For some types of instrument, observations can be collected despite cloud cover or lack of sunlight.
+        5. The collected data is quantifiable.
+        6. Instruments are calibrated and consistent.
+        7. Observations are non-intrusive and do not impact the local environment
+        8. The cost of access to data is low compared to the cost of operating ground or airborne systems.
+Limitations of space based remote sensing
+Despite these very significant advantages, satellite based methods do have some limitations:
+        1. Many satellite instruments rely on sunlight meaning no cloud and daylight is required to observe the ground surface.
+        2. Large data volumes mean there is a trade-off between spatial resolution and coverage, i.e. a larger swath width generally means less spatial detail.
+        3. The interval between repeat observations is often fixed, meaning less flexibility in data collection.
+        4. Data collected by satellite instruments are often not direct measurements of the required parameter but rely on algorithms designed to approximate the measurement.
+        5. In order to validate data derived from satellite instruments, direct measurements of the ground are required.
+        6. When considering the total costs of a satellite mission including design, build, launch and in-orbit operations, satellite remote sensing is expensive.
+        7. The data policy and end user licence agreements of some satellite operators can be very restrictive and costly when considering use of the resulting data.
+Application of remote sensing data in Antarctica
+Satellite remote sensing is already widely used to monitor the Antarctic environment and help study the effects of regional climate change. Current applications include:
+    • Vegetation change detection
+Well established methods to detect the distinctive spectral signature of chlorophyll using satellite data have been proved to work on the Antarctic Peninsula (Fretwell et al, 2011). Despite the relatively low levels, it is possible to use Landsat-type or higher resolution imagery (Figure 1) to map the distribution of vegetation in Antarctica. An increase in vegetation and viability of invasive species is one of the expected consequences of warming in this region.
+    • Species monitoring
+Penguins and other birds are rarely visible in satellite imagery because the spatial resolution is not sufficiently good. However colonies or groups of some species are clearly visible due to their size and contrasting colour. Recent work mapping the distribution of Emperor penguin colonies (Fretwell et al, 2009) detected areas of faecal staining of sea ice to identify colony locations (Figure 2). High resolution satellite imagery is now being used to estimate emperor penguin colony size and population. Recent work in the Ross Sea has counted Weddell seal numbers using hi-resolution imagery (Figure 3).
+    • Ice sheet and glacier changes
+Data from satellite instruments has been essential in detecting changes across the entire Antarctic ice sheet. Repeat measurements of ice sheet and glacier height from satellite altimeters provide valuable information about changes in ice volume and contributions to sea level rise. More recent techniques using synthetic aperture radar provide more information about the ice dynamics by mapping the surface velocity.
+    • Ice shelf collapse
+A key indicator of regional climate change is the retreat and loss of ice shelves on the Antarctic Peninsula (Cook & Vaughan, 2010). In order to understand what controls ice shelf collapse and predict future ice-shelf change it is necessary to have a clear picture of the spatial and temporal patterns of these changes. Given the size and distribution of these features, necessary observations can only be provided by satellite remote sensing (Figure 4).
+    • Trends in sea ice extent
+Satellite instruments have been recording global sea ice concentration data for over 30 years. This allows the study of trends in sea ice extent, currently indicating an increase since the late 1970s (Turner et al, 2009). The details of spatial variability in sea ice extent (Figure 5) provides information about the drivers of sea ice formation and clues to the distribution of species such as penguins. 
+    • Oceanic changes
+Satellite derived data on other ocean parameters such as ocean productivity and sea surface temperature are available and contribute valuable information to climate change models of the region.
+Future development and conclusions
+Satellite remote sensing will continue to develop, offering new satellites and new capabilities for monitoring Antarctica. 
+In particular the specifications of satellite instruments will improve, delivering higher spatial resolution data over larger areas. More satellites will lead to more frequent acquisitions, therefore allowing a clearer picture of change over time.
+The spectral information collected by new instruments is also likely to increase, allowing much improved characterisation of the ground surface. Recent work funded by the UK has investigated the use of very detailed spectral information (hyperspectral data) to determine its use for mapping different vegetation species and detecting change in their distribution. Plans for future hyperspectral satellites will allow widespread use of these methods and application to monitoring other topics, e.g. pollution and human impacts.
+Recommendation
+It is clear that satellite remote sensing provides effective techniques to monitor the Antarctic environment and changes resulting from regional climate change. Development and launch of future satellite systems will result in new data and opportunities to improve monitoring of the continent. The CEP is recommended to:
+    1. note and endorse the potential for remote sensing to contribute significantly to future environmental monitoring programmes, including in the context of protected area management and monitoring the impacts of climate change;
+    2. consider how else the utilisation of remote sensing data can support the CEP’s work and that of the ATCM; and
+    3. continue to explore opportunities to use and investigate new monitoring applications.
+References
+LaRue, M.A., J.J. Rotella, R.A. Garrott, D.B. Siniff, D. Ainley, G.E. Stauffer, C.C. Porter, and P.J. Morin. 2011. Satellite imagery can be used to detect variation in abundance of Weddell seals (Leptonychotes weddellii), in Erebus Bay, Antarctica. Polar Biology, in press. Fretwell et al. 2011 Detecting and mapping vegetation distribution on the Antarctic Peninsula from remote sensing data. Polar Biol., 34. 273–281
+Fretwell, Peter T.; Trathan, Philip N. 2009 Penguins from space: faecal stains reveal the location of emperor penguin colonies. Global Ecology and Biogeography, 18 (5). 543-552.
+Cook, A.J.; Vaughan, D.G.. 2010 Overview of areal changes of the ice shelves on the Antarctic Peninsula over the past 50 years. The Cryosphere, 4 (1). 77-98.
+Turner, J., J. C. Comiso, G. J. Marshall, T. A. Lachlan‐Cope, T. Bracegirdle, T. Maksym, M. P. Meredith, Z. Wang, and A. Orr. 2009 Non‐annular atmospheric circulation change induced by stratospheric ozone depletion and its role in the recent increase of Antarctic sea ice extent, Geophys. Res. Lett., 36, L08502, doi:10.1029/2009GL037524. 
+Annex 1 – Supporting Figures
+
+
+Figure 1: Vegetation (seen as red colours) detected in high resolution Quickbird satellite imagery of islands in Ryder Bay, Antarctic Peninsula. Image copyright DigitalGlobe, Inc.
+
+Figure 2: The brown colour of faecal staining on sea ice indicates the location of Emperor penguin colonies. Image copyright DigitalGlobe, Inc.
+
+Figure 3:  WorldView-1 image (0.6m resolution) of Weddell seals hauled out east of Inaccessible Island, Erebus Bay, Antarctica at 1:2,000 scale.  This is an example of a suitable satellite image for use in counting seals.  Image copyright DigitalGlobe, Inc., provided by National Geospatial-Intelligence Agency (NGA) Commercial Imagery Program.
+Figure 4: Polar View synthetic aperture radar image of the remnants of the Wilkins Ice Shelf after its partial collapse in 2009 (the red line shows the previous extent).Envisat ASAR satellite image provided by European Space Agency.
+
+Figure 5: A 30 year archive of satellite passive microwave sea ice observations provides a picture of the change in annual sea ice duration. Graphic produced by A Fleming (British Antarctic Survey) based on passive microwave satellite data. (Comiso, J. 1990, updated quarterly. DMSP SSM/I Daily and Monthly Polar Gridded Bootstrap Sea Ice Concentrations, [1979 - 2007]. Edited by J. Maslanik and J. Stroeve. Boulder, Colorado USA: National Snow and Ice Data Center. Digital media.)
+
+

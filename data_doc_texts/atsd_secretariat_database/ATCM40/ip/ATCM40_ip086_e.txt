@@ -1,0 +1,107 @@
+﻿
+
+
+
+
+
+Use of UAS for Improved Monitoring and Survey of Antarctic Specially Protected Areas
+
+
+
+
+
+
+
+
+Use of UAS for Improved Monitoring and Survey of Antarctic Specially Protected Areas
+Information Paper submitted by New Zealand
+
+Summary
+The issue of monitoring Antarctic protected areas has been the subject of discussion in the past by the ATCM and more recently by the CEP.
+Unmanned aerial system (UAS) technology provides new opportunities for undertaking regular, low-impact, high resolution and highly repeatable monitoring of some protected areas.
+We present a summary of recent work undertaken by New Zealand scientists who used UAS technology to undertake high resolution surveys at two Antarctic Specially Protected Areas in the Ross Sea region; Botany Bay (ASPA 154) and Cape Evans (ASPA 155).
+The survey work at Botany Bay will be completed in the 2017/18 season and an updated management plan will be prepared on the basis of the survey results and submitted to CEP XXI.
+
+Background
+The issue of monitoring designated protected areas in Antarctica has been a subject of discussion by the ATCM and CEP for a number of years.
+At ATCM XIV (1987), SCAR presented a comprehensive paper on the Antarctic protected areas system and made a series of recommendations for improvement (ATCM XIV / Information Paper 7).  This included a recommendation that existing and proposed Specially Protected Areas (SPAs) and Sites of Special Scientific Interest (SSSIs) should be subject to periodic assessment (including site visits) to determine whether the objectives of conservation were being achieved and the extent to which existing regulations were being observed.
+In considering SCAR’s report, the ATCPs agreed that periodic site assessments would be important to determine whether the objectives of designation were still being met, and if not, what steps would need to be taken better to meet them (paragraphs 77-80 of the Final report of ATCM XIV, 1987).  ATCM XIV agreed a checklist of information required in the compilation of reports following visits to SPAs and SSSIs.  This checklist included the need to compile “information about the physical environment, soils, vegetation and fauna which is additional to or differs from that set out in the relevant description or management plan” as well as “evidence of recent physical or biological change, particularly when such change might have been brought about by human activities” (Annex G to the Final Report of ATCM XIV).
+This was the first time that the ATCPs had, on scientific advice, identified the importance of regular assessments and on-going monitoring within protected areas to ensure that the values identified for protection remained intact.
+Annex V to the Protocol requires reviews of management plans to be initiated at least every five years, on the assumption that the area is designated for an indefinite period of time (unless the management plan specifies otherwise) (Annex V, Article 6(3)).  However, Annex V to the Protocol does not explicitly specify the requirement for regular monitoring or survey of ASPAs.  
+To facilitate the drafting of ASPA management plans, the CEP has developed a Guide to the Preparation of Management Plans for Antarctic Specially Protected Areas (Resolution 2 (2011)).  The guide makes little reference to the need for regular monitoring or surveys of ASPAs, though it does suggest that the following language be included as standard in draft management plans within the section on “management activities”:
+“The Area shall be visited as necessary, [and no less than once every five years,] to assess whether it continues to serve the purposes for which it was designated and to ensure that management [and maintenance] activities are adequate.
+Visits shall be permitted as necessary in order to facilitate the study and monitoring of anthropogenic changes that could affect the protected values in the Area, in particular, [insert specific activity]. Impact study and monitoring should be conducted, to the maximum extent possible, by non-invasive methods.” 
+
+The issue of monitoring and survey within ASPAs has been debated more recently by the CEP at its XVth and XVIIth meetings (2012 and 2014), in response to papers submitted by the Russian Federation (ATCM XXXV / Working Paper 35 and ATCM XXXVII / Working Paper 59 respectively). 
+In debating the issue, CEP Members agreed that monitoring of protected areas over the long-term was important to ensure that protection remained effective, though the proposal for making this compulsory was not supported.  CEP Members were concerned that a compulsory system could compel access to protected areas, with the potential to compromise the values being protected.  Some Members also expressed concern that compulsory monitoring might discourage management plan revision, not least at some sites where remote monitoring may not be feasible (paragraphs 191 and 192 of the Final Report of CEP XV, 2012).
+In 2014 CEP Members reiterated their doubts with regard to mandatory monitoring of ASPAs, though recognised that new remote sensing technologies offered solutions to avoiding impacts on the very values that protection was being afforded to and agreed to consider how to accommodate monitoring issues in a future review of protected area guidelines (paragraph 231 of the Final Report of CEP XVII, 2014).
+At the same meeting the UK provided a report on monitoring vegetation cover in Antarctic Specially Protected Areas using satellite remote sensing (ATCM XXXVII / Working Paper 36).  CEP XVII agreed that remote sensing techniques were of great importance for monitoring impacts within ASPAs (paragraph 225 of the Final Report of CEP XVII, 2014).
+Despite the long evolution of the Antarctic protected areas network, recent assessments in the academic literature have suggested that further attention needs to be paid to it to ensure it adequately addresses the objectives of Annex V to the Protocol, as well as meeting international best practice (see for example: Pertierra and Hughes (2013); Hughes et al., (2013); Hughes et al., (2016); Shaw et al., (2014); Chown et al., (2017)).
+These recent assessments make a number of improvement recommendations for consideration by the CEP and ATCPs, including the need for improved monitoring and assessment of the values that are being protected.
+
+Using UAS to undertake ASPA monitoring and survey
+New Zealand scientists at Auckland University of Technology have recently tested UAS technology to undertake low-impact, high-resolution surveys at selected ASPAs in the Ross Sea Region of Antarctica.
+Two Antarctic Specially Protected Areas were selected to test the technology: ASPA 154 (Botany Bay), designated to protected native vegetation and ASPA 155 (Cape Evans), designated to protected the Historic Hut of Scott’s Terra Nova expedition.
+ASPA 154 (Botany Bay) is established on Cape Geology in the south-western corner of Granite Harbour, southern Victoria Land.  The Area comprises a sloping, rocky foreshore and is one of the most botanically rich sites in the whole of continental Antarctica. The area includes a high diversity and abundance of lichens (at least 30 species) and mosses (9 species) with abundant growths of algae (at least 85 taxa). 
+In addition to the biological values described, the Area includes the remains of a rock shelter and associated artefacts of historical importance (from the British Antarctic Expedition 1910-1913), known as Granite House, designated as Historic Site and Monument (HSM) No. 67 in Measure 4 (1995).  The management plan for ASPA 154 records that the primary reason for the designation of the site as an ASPA is to protect the Area's unusual ecological features and its exceptional scientific and historic values.
+Historically, Botany Bay has received a low level of visitation.
+ASPA 155 (Cape Evans) is situated on the western side of Ross Island and is designated to protected the Terra Nova hut which was built in January 1911 by the British Antarctic Terra Nova Expedition of 1910-1913, led by Captain Robert Falcon Scott. It was subsequently used as a base by the Ross Sea party of Sir Ernest Shackleton’s Imperial Trans-Antarctic Expedition of 1914-1917.
+The area includes a range of external artefacts including two anchors from the ship Aurora of the Imperial Trans-Antarctic Expedition, two instrument shelters, several supply dumps and numerous smaller artefacts distributed around the site.
+Historically, Cape Evans has received a high level of visitation.
+
+UAV Surveys
+The surveys were undertaken during the 2015/16 summer season, with seven days spent at each of the two sites.  
+Using a combination of fixed wing and multirotor UAVs, aerial surveys were conducted over ASPAs 155 and 154. The fixed wing system comprised a rugged, blended wing body design with a wingspan of 2.3 m, and the multirotor system was a co-axial quadcopter. For this deployment, we used a Sony alpha 5100 RGB and an Agrosensor Multispectral camera. 
+The work was undertaken following approval of an environmental impact assessment as well as a safety risk assessment for flying the UAS in accordance with Antarctica New Zealand’s UAS manual.  A precise chain of communication was pre-agreed with the US McMurdo Station (who control flight operations in the Ross Sea Region) and this was strictly adhered to for every flight. The aircraft were under autopilot control which was programmed prior to launch and photographs were taken at regular intervals to optimise overlap. All our operations were conducted below 400 ft AGL. A primary ground control station and GPS base station formed part of the essential field equipment.
+Small samples of vegetation were taken to help identify species present through the Botany Bay ASPA, and this identification work is ongoing.
+
+Results
+Botany Bay
+The results of the preliminary survey of a portion ASPA 154 are shown in figures 1 to 4 below.
+
+Figure 1 shows the map which is included within the current management plan for ASPA 154, and an overlay of the area that was surveyed during the 2015/16 season.
+Figure 2 provides an overlay of the UAV imagery captured during the 2015/16 survey on the current map.
+Figure 3 provides a more detailed section of the surveyed area showing the level of detail that can be achieved to describe the extent of the vegetation cover within the ASPA.
+Figure 4 shows the level of detail that can be achieved in representing the coverage of different vegetation types within the ASPA.  It is intended to continue the survey at this level of detail throughout the whole ASPA during the 2017/18 season and to undertake species identification to further improve the quality of the information provided in the ASPA management plan.  
+Future, repeat surveys can be undertaken at the same level of detail and accuracy so as to assess any change in vegetation cover and species distribution over time.
+
+
+
+Figure 1. Current map for ASPA 154, with UAV surveyed area marked in blue.
+
+
+
+Figure 2. Detailed UAV imagery overlain on the ASPA 154 map.
+
+
+Figure 3. Detailed image within ASPA 154 showing moss and lichen cover.
+
+
+
+Figure 4. Detailed image within ASPA 154 showing classification detail.
+
+Cape Evans
+The results of the preliminary survey of ASPA 154 is shown in figure 5 below.  The figure shows a high-altitude image of the Cape Evans ASPA, with key features of the site such as human tracks, artefacts and structures highlighted.
+The high-quality imagery allows detailed analysis of the surface to be undertaken.  Human foot traffic can be distinguished from seal tracks (figure 5), and repeat surveys will allow for accurate reassessment of key features of the site to be undertaken such as loss or removal of historic artefacts, changes in snow cover and changes in human tracking.
+
+Discussion
+New technologies are now available for undertaking straightforward and highly detailed surveys of ASPAs.
+Such surveys are quick and easy to undertake; low impact, in that they can often be undertaken without needing to enter the ASPA, and are relatively cheap and highly repeatable.
+This approach is highly relevant to monitoring change within ASPAs, ensuring the values being protected remain intact and that management actions remain relevant in light of any observed change at the site; whether as a result of climate change or human activity pressures.
+Plans are underway to complete the survey work at Botany Bay during the 2017/18 summer season.  An updated management plan, with new maps will be presented to the Committee at CEP XXI.
+Application of the technology at other sites is also being explored.
+
+
+
+
+Figure 5. High altitude UAV image of the Cape Evans ASPA with key details highlighted (ASPA boundary not shown).
+
+
+
+References
+Hughes, K.A., Ireland, L., Convey, P. & Fleming, A.H. (2016) Assessing the effectiveness of specially protected areas for conservation of Antarctica’s botanical diversity. Conservation Biology, 30, 113–120.
+Hughes, K.A., Pertierra, L.R. and Walton, D.W.W. (2013). Area protection in Antarctica: How can conservation and scientific research goals be managed compatibly?  Environmental Science and Policy 31, 120 – 132.
+Pertierra, L.R. and Hughes, K.A. (2013).  Management of Antarctic Specially Protected Areas: permitting, visitation and information exchange practices.  Antarctic Science 25(4), 553-564.
+Shaw, J., Terauds, A., Riddle, M.J., Possingham, H.P. & Chown, S.L. (2014) Antarctica’s protected areas are inadequate, unrepresentative and at risk. Plos Biology, 12, e1001888.
+Chown, S.L., Brooks, C.M., Teruds, A., Le Bohec, C., van Klaveren-Impagliazzo, C., Whittington, J.D., Butchart, S.H.M., Coetzee, B.W.T., Collen, B., Conver, P., Gaston, K.J., Gilbert, N., Gill, M., Hoft, R., Johnston, S., Kennicutt, M.C., Kriesell, H.J., Le Maho, Y., Lynch, H.J., Palomares, M., Puig-Marco, R., Stoett, P. and McGeoch, M.A.  Antarctica and the Strategic Plan for Biodiversity.  Plos Biology 15(3) https://doi.org/10.1371/journal.pbio.2001656
+

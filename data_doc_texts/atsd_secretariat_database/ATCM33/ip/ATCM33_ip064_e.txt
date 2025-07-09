@@ -1,0 +1,49 @@
+﻿
+
+
+
+
+
+Japan in IPY 2007–2008
+
+
+
+
+
+Japan in IPY 2007–2008
+1.	Summary
+Japan established a national committee for IPY 2007–2008 in the Science Council of Japan (SCJ) in 2004. A total of 63 projects endorsed by the IPY/IPO (International Programme Office) had been planned with Japanese participants. One biological research project, the Microbiological and Ecological Responses to Global Environmental Changes in Polar Regions (MERGE), was organized by a Japanese scientist, collaborating with scientists from 16 nations that include non-Antarctic Treaty parties. It will continue to serve as a coordinating platform for post-IPY activities. In the Science MetaData Base (SMDB) at the National Institute of Polar Research in Japan (NIPR), a total of 148 metadata sets have been accumulated so far with regard to IPY 2007–2008. 
+A kickoff and relevant symposia as well as education-outreach activities for the younger generation were held in Japan for IPY 2007–2008. The Polar Open Forum for Junior High and High School Students was started in 2004 as part of the IPY 2007–2008 outreach program by the SCJ and the NIPR to broaden interest in polar sciences among the next generation. This five-year outreach campaign was reviewed, and it was decided that this kind of activity for the younger generation would be continued as a legacy of the IPY for the recruitment of polar scientists in Japan.
+2.	Introduction
+In response to the call of the ICSU and the WMO, Japanese scientists joined IPY 2007–2008. The National IPY Committee (http://polaris.nipr.ac.jp/~ipy/index.htm; in Japanese) was established within the Science Council of Japan (SCJ: http://www.scj.go.jp/en/index.html) in March 2004, which organized, promoted, and supported research plans proposed by polar scientists in universities and institutes in Japan prior to and during the IPY period.
+The committee had been announcing the progress of the activities of the Joint Committee (JC) and other scientific bodies to scientists and many relevant scientific societies in Japan with newsletters and Web pages, from which various kinds of relevant information can be browsed and downloaded. After submission of research applications to IPY/IPO, 63 projects as shown in Annex 1 were endorsed in which Japanese scientists were involved.
+3.	Endorsed projects with Japanese participants
+The polar community, including scientists, was invited to submit brief expressions of interest (EoI) to the IPO in November 2004. More than 1,200 EoIs were submitted, which can be viewed on the Website (http://classic.ipy.org/development/eoi/). After three calls from 2005 to 2006 for full proposals, 231 proposals were endorsed among 410 after review by an expert panel within the IPO, according to the IPY database. The number of projects endorsed by the IPY/IPO with which Japanese scientists were concerned is 63, as shown in Annex 1.
+A biological research project, the Microbiological and Ecological Responses to Global Environmental Changes in Polar Regions (MERGE; project number 55), was organized by a Japanese microbiologist as the leader to work in three field seasons from 2006–2007 in five areas in the Antarctic with scientists from 16 nations, including non-Antarctic Treaty parties. MERGE is endorsed as an IPY core coordinating activity to integrate 11 original and several later proposals. They utilized several national antarctic programs and research stations in the Antarctic and the Arctic. This is a good example of international scientific collaboration.
+Under the MERGE umbrella, Belgium, Canada, and Spain have developed their own national and international projects. The Belgian Antarctic Microbial Biodiversity (AMBIO) project has been a major scientific thrust for the construction of the new Belgian station in Antarctica, Princess Elisabeth Station. MERGE-Canada is a powerful component in understanding lake ecosystems in the Canadian high Arctic for comparison with similar systems in Antarctic areas. The Spanish LIMNOPOLAR project conducted a campaign called the IPY at Byers Peninsula (ASPA 126) in the 2008–2009 season and invited international scientists.
+MERGE will continue to serve as a coordinating platform for post-IPY activities and will develop closer and greater contributions to the SCAR program called Evolution and Biodiversity in Antarctica (EBA): The Response of Life to Change.
+
+Figure 1. Proposals endorsed for IPY 2007–2008 with Japanese participants
+4.	IPY data management
+Metadata relating to the above IPY-endorsed projects, together with other Japanese original and international projects, have been compiled at the IPY Portal in the Global Change Master Directory (GCMD) (http://gcmd.gsfc.nasa.gov/KeywordSearch/Home.do?Portal=ipy&MetadataType=0) at the U.S. National Aeronautics and Space Administration (NASA). In the IPY Portal at GCMD, the total number of metadata descriptions (DIFs: Directory Interchange Format) exceeds 90.
+In the Science MetaData Base of the National Institute of Polar Research  Japan (SMDB/NIPR), a total of 148 metadata sets have been accumulated so far. The metadata format is an original one, but it includes the items listed in the DIFs of the Antarctic Master Directory (AMD). There are also links to the corresponding metadata in the AMD for each SMDB/NIPR metadata set.
+5.	Outreach activities in Japan
+5.1	Scientific symposia
+The kick-off symposium, Asian Collaboration in IPY 2007–2008, was held on 1 March 2007 at the SCJ in Tokyo with 117 participants from 14 countries. The IPY Finalizing Symposium for summarizing scientific results and formulating adequate orientation to the post-IPY generation targeting the national science community was held on 1 March 2010 at the SCJ with 84 participants.
+Other symposia were also held that related to projects of IPY 2007–2008. The First International Symposium on Arctic Research (ISIRA-1: http://www.jamstec.go.jp/iorgc/sympo/isar1/index.html) was organized by the National Committee for the International Arctic Science Committee (IASC) of the SCJ and held in early November 2008 at the National Museum of Emerging Science and Innovation (Miraikan) in Tokyo. The International Symposium: Fifty Years after IGY—Modern Information Technologies and Earth and Solar Sciences (http://wdc2.kugi.kyoto-u.ac.jp/igy50) was held in mid-November at the National Institute of Advanced Industrial Science and Technology (AIST) in Tsukuba with 160 participants, sponsored by several National Committees on IPY: Electronic Geophysical Year (eGY), International Year of Planet Earth (IYPE), International Heliophysical Year (IHY), etc.
+
+Figure 2. Participants in The IPY Finalizing Symposium for summarizing scientific results and formulating adequate orientation to the post-IPY generation, held on 1 March 2010 at the SCJ in Tokyo
+
+5.2	Education-outreach activities for the young generation
+5.2.1	Polar Open Forum for Junior High and High School Students
+The Polar Open Forum for Junior High and High School Students was started in 2004 as part of IPY 2007–2008 as an outreach program by the SCJ and the NIPR to broaden interest in polar sciences among the next generation. The catchphrase of the forum was “Arctic and Antarctic Proposals from School Students.” The forum has been held annually for five years. 
+The proposals were implemented by the Japanese Antarctic Research Expeditions (JAREs) overwintering at Syowa Station. The results of the experiments were reported to the students through an Intelsat TV conference system from Syowa, while the expedition members enjoyed conducting the experiments.
+This five-year outreach campaign was reviewed, and it was decided that this kind of activity for the younger generation will be continued as a legacy of the IPY as a measure to  recruit future polar scientists. The title of this campaign was renamed to “Contest on Antarctic and Arctic Science for Junior High and High School Students,” and the event to honor and introduce proposals was named the “Junior Forum on the Antarctic and the Arctic for Junior High and High School Students.” A total of 128 proposals from 32 schools were submitted, and a research proposal to study the dreams of the Antarctic expedition personnel won the first prize. The forum was held in mid-November 2009 at the NIPR in Tokyo with 120 participants, including 70 students. 
+
+Figure 3. The 6th Junior Forum on the Antarctic and the Arctic for Junior High and High School Students, held on 15 November 2009 at the NIPR in Tokyo
+5.2.2	IPY Junior Summit
+An outreach event titled the IPY Junior Summit was held at the National Science Museum in Tokyo on 1 March 2009, until when the IPY 2007–2008 campaign continued. Students who had won prizes in the first to fifth forums described above were invited to speak about “Polar Research in 2057–2058,” i.e. during the period when the next IPY will be held. More than 100 audience members, mostly quite young as well, listened to the talks, which included interesting proposals for future polar research. A panel discussion followed the theme talks. The entire house, including the audience, joined in the discussion. A retired professor who had been a member of the IGY research team and who overwintered at Syowa in 1957 was invited as a guest panelist. He introduced the legendary early years of JARE, stretching the time span from 50 years ago for 100 years.
+
+
+
+

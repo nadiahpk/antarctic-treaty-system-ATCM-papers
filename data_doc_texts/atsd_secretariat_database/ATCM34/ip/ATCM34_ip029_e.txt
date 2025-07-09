@@ -1,0 +1,97 @@
+﻿
+
+
+
+
+
+Potential of Technical Measures to Reduce the Acoustical Effects of Airguns
+
+
+
+
+
+Potential of Technical Measures to Reduce 
+the Acoustical Effects of Airguns 
+1. Introduction
+Scientific seismic surveys have already been executed or are planned for the future in all regions around Antarctica by many nations. Airgun based systems that are used for this kind of surveys, produce sound that is episodic and spatially limited, but the acoustic and seismic signals sent out are intense and cover a broad frequency range.  
+The concern on the impacts of underwater sound on the marine environment has been expressed in several papers (e.g. ATCM XXX IP4 International Workshop “Impacts of seismic survey activities on whales and other marine biota”) and also the need for seismic mitigation guidelines has been voiced (e.g. ATCM XXX IP 80 Taking Action on Marine Noise in the Southern Ocean). 
+The most promising national mitigation strategies are those that reduce sound output and those that separate sound-generating activities, spatially and temporally, from marine mammals. To describe the state of the art for the former, DW-ShipConsult, Schwentinental, Germany, commissioned by the German Federal Environment Agency (UBA), evaluated the current developments to reduce acoustical effects of airguns: Their report (cf. Annex) will summarize recent information on noise reduction for airgun based systems as well as possible alternative acoustic methods and equipment. Estimated time schedules for selected developments are indicated.
+2. Summary of the Evaluation
+Today’s seismic surveys rely almost completely on the airgun as a noise source. Equipment and procedures are very mature and are continuously developed further to improve data quality and reduce cost. However environmental concerns remain: There are very few technical developments to reduce unintended environmental effects from airgun use.
+Airguns are impulsive sound sources which due to their characteristics create a wide spectrum with high noise level. There are only very limited possibilities to improve this source. High low frequency levels are required for deep penetration into the sea bottom and high signal to noise ratio at the receiver. Higher frequency by-products cannot be reduced without stretching the pulse shape. Only one recent development has been made to achieve this by specifically designing the opening characteristics of the airgun. No accompanying hardware has been produced yet.
+The only secondary mitigation measure tested is the bubble curtain which should reduce lateral radiation. Its efficiency in the field has not been proven for seismic surveys, but it is safe to assume that at higher frequencies substantial improvements in lateral radiation can be expected. The system has been abandoned due to high complexity and difficult handling.
+Four alternative concepts for airguns are discussed:
+    • the Deep Towed Acoustic Geophysical Systems (DTAGS) is a higher frequency system where its main advantage is depth independence and possibility of use close to the sea bottom also at great depth. It has limited use as an alternative for airguns as it cannot be extended to lower frequencies without re-development.
+    • the Low Level Acoustic Combustion Source (LACS) is a gasoline driven source operating with a high impulsive repetition rate developed for minesweeping. If further developed for seismic surveys lower peak level can be expected compared to airguns, all other criteria are not yet evaluated. Currently no funding is foreseen to qualify the system as an alternative seismic source.
+    • Low Frequency Passive Seismic covers special applications but lack ability to operate at above 10 Hz. It is further developed for specialized applications but not for replacements of airguns.
+    • the Marine Vibrator is hitherto the only identified possible alternative for airguns. It has no obvious disadvantages as to signal quality compared to airguns, but it can be driven with arbitrary, presumably more environmentally friendly signals without impulsive content. Disadvantageous are its not sufficiently advanced state of development and the insufficient depth range. 
+
+The systems are compared as follows:
+System
+Airgun 
+Array
+DTAG
+LACS
+LFPS
+Marine
+Vibrator
+Principal
+Release of pressurized air
+Helmholtz Resonator
+Combustion driven piston
+passive
+mechanical
+Signal shape
+Single, high level impulse
+Continuous
+Rapid sequence of low level impulses
+-
+continuous
+Level
+256 dB
+
+212 dB
+-
+20-30 dB below airguns
+Pulse 
+duration
+30 ms
+250 ms
+8-100 ms
+
+6-10 s
+Frequency range
+5-200 Hz depending on size and type
+220-1000 Hz
+10-150 Hz
+0.1-10 Hz
+6-100 Hz
+Source depth
+3-12 m
+0-6 km
+
+
+0-300 m
+Tow rate
+4 kts
+2 kts
+2 kts?
+stationary
+0-4 kts
+status
+developed
+Demonstrator tests
+Demonstrator tests
+Land applications
+Demonstrator test
+Remark
+
+Tow rate depth dependent
+Tow rate limited by data processing
+
+Higher frequencies with smaller designs possible
+3. Future Prospects
+In the medium term scientific surveys performed in Antarctica will have to rely on airguns further as long as recent developments, as for the Marine Vibrator, have not sufficiently advanced to yield a reliable system. However, availability is regarded as possible within five years sufficient funding provided. Its application may also boost efficiency of seismic surveys with possible reduction of number and duration of surveys. Secondary measures as a bubble curtain or a compliant wall may be feasible for smaller arrays as used for scientific purposes but require special development to match the specific application. New developments of secondary measures as e.g. a static bubble curtain should be closely observed. The increasing observation of environmental effects of seismic surveys is clearly noticed by the oil and gas industry and could foster the development of alternative systems.
+4. Further information 
+The detailed evaluation report is attached to this paper (cf. Annex). Germany would highly appreciate any comments, proposals and hints, especially from those Antarctic Treaty Parties having own experiences and knowledge in the field of alternatives and technical measures of noise reduction.
+

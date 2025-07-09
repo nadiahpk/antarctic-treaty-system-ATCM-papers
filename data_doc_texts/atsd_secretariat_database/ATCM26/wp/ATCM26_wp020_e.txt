@@ -1,0 +1,129 @@
+﻿
+ATCM XXVI
+Working Paper
+Agenda Item: CEP 4g
+NEW ZEALAND
+
+Original: English
+
+
+
+
+
+
+
+
+
+
+
+SYTEMATIC ENVIRONMENTAL PROTECTION IN ANTARCTICA (SEPIA)
+
+The creation of a systematic environmental-geographic framework for Antarctica using Environmental Domains Analysis
+
+
+
+
+
+
+Systematic environmental protection in Antarctica (SEPIA): creation of a systematic environmental geographic framework for Antarctica using Environmental Domains Analysis.
+
+New Zealand
+Working Paper 
+16 April 2003
+
+Executive Summary
+A systematic environmental geographic framework for Antarctica can be developed using Environmental Domains Analysis.  Such a scientific classification of Antarctic environments would be a systematic way to assist the CEP in identification and protection of special areas in the Antarctic and other measures for managing human impact.  
+
+To be robust the classification work will require considerable time.  The bulk of funding needed is being sought within New Zealand government.  However identification of suitable datasets is a key step that CEP members could assist with.
+
+Progress since CEP V
+New Zealand presented Working paper XXVATCM/WP13 at CEP V on its efforts to further define and advance the concept of a strategic environmental geographic framework as set out in Article 3 (2) of Annex V of the Protocol.  The CEP asked New Zealand to continue its work on a SEGF and to present further information at CEP VI (CEP V Final Report paragraphs 88-89).  This paper reports on the progress made since the Warsaw meeting and the process we intend follow in further developing the SEGF concept.  
+Within New Zealand, the research institute Manaaki Whenua Landcare Research New Zealand Ltd have commenced detailed feasibility work on the project.  In particular, the work has focused on the potential use of an existing environmental classification tool, Land Environments of New Zealand, or LENZ developed by Landcare in association with the New Zealand Ministry of the Environment (e.g. Leathwick 2002).  LENZ is a classification system that identifies areas of New Zealand with similar potential ecosystem character. The concept of SEGF and its envisaged use in the Protocol align well with the LENZ model.  That project is currently in its final stages, with two publications scheduled for release in 2003. (http://www.environment.govt.nz/indicators/lenz/)
+Landcare Research has carried out a scientific feasibility study on the use of the LENZ model in Antarctica.  Further information on this project is presented in a separate Information Paper.  The paper investigates the possibility of applying the methods and concepts behind LENZ to the Ross Sea region of Antarctica.  It looks at the process required to create a Ross Sea region classification, evaluates the data required for this type of classification and makes recommendations to improve and/or direct the classification.  This Working Paper summarises that Information Paper.
+
+Use of a systematic environmental geographic framework
+Working papers prepared by New Zealand for CEP III-V (working papers 16, 12, 13 respectively) noted that a systematic environmental geographic framework would:
+    1. attach substance to the words, presently undefined, in Article 3(2) of Annex V of the Protocol; 
+    2. provide a tool for the CEP to use within the protection framework provided by the Protocol, consistent with modern approaches to conservation.; and
+    3. fill a gap long noted during discussions by SCAR and others on the Antarctic protected area system; 
+
+
+ Ross Sea Region 2001 A state of the environment report for the Ross Sea region of Antarctica (Waterhouse [editor] 2001) noted that a more systematic approach to protected area planning would provide an important basis for identifying, assessing and designating areas in the future.  
+
+A SEGF based on environmental domains would assist the CEP in its identification and protection of special areas in the Antarctic by:
+
+    1. identifying areas with similar environmental and habitat characteristics including places where important aspects of biodiversity and ecosystem processes are likely to be located;
+    2. enabling more systematic risk assessments of proposed protected areas by taking account of  environmental and geographic differences in Antarctica;
+    3. enabling representativeness of proposed and existing protected areas, ecosystems etc to be assessed efficiently, transparently and repeatedly  (Representativeness is widely considered to be a very important part of protected area systems and was included in the Guidelines for protected areas accepted at CEP III);
+    4. assisting with the assessment of rarity and/or distinctiveness of areas, species and ecosystem processes; 
+    5. supporting the designation of Antarctic Specially Protected Species and Areas by helping identify specific areas where additional protection would best be applied to protect designated species;
+    6. allowing the CEP to assess goals and achievement of targets for specific types or numbers of areas that may be agreed as especially important (e.g. inviolate or reference areas (CEP I Report paragraph 49 iii)) within an overall goal of achieving an agreed comprehensive system of protected areas.
+
+In addition a SEGF based on environmental domains would also assist the CEP and the Antarctic Treaty System by:
+    7. providing a scientific basis for classification of Antarctic environments that could underpin and potentially help integrate management of protected areas, cumulative impacts, environmental monitoring and reporting and other measures in the Antarctic Treaty System for managing human impact;
+    8. helping predict the potential spread of introduced species and severity of invasion in order to optimise management response;
+    9. helping identify key gaps in environmental knowledge for understanding human impacts including climate-sensitive processes, other earth system processes, ecosystem sensitivity, disturbance to biota and natural variation.
+
+These potential benefits and uses of systematic environmental classification are quite far-reaching. Therefore we suggest that a concept of Systematic Environmental Protection in Antarctica (SEPIA) is worth considering.  It encapsulates SEGF and describes what it might achieve.
+
+A Potential Tool for SEGF - Environmental Domains Analysis 
+Environmental Domains Analysis (EDA) is a method for identifying areas with similar environmental characteristics.  In the Antarctic it would define areas with similar habitat character wherever these areas are in the region.  The CEP could use this information on a SEGF map or a Geographic Information System of Antarctica depicting environments or habitats of like types (e.g. classifications).
+Numerically explicit approaches to environmental classification first appeared in Australia in the late 1980s, exploiting the increasing availability of Geographic Information Systems, interpolated climate data, and multivariate procedures capable of handling very large amounts of data.  New Zealand researchers began to explore environment-based classifications as a spatial framework for biodiversity and resource management at both regional and national scales. 
+Relationships between New Zealand’s forest pattern and environment gave a robust basis for the selection of candidate environmental variables to include in the classification. Fifteen climate, slope and soil-related variables were used to describe chemical and physical drivers and/or limits of plant growth. These variables were assembled as 100 m resolution raster or grid layers and four levels of classification detail containing 20, 100, 200 and 500 environmental groups respectively.  The organisation of data in this manner allows application at varying spatial scales. 
+Multivariate classifications such as this offer significant advantages over traditional classifications based on subjective synthesis of multiple map layers because they are explicit, repeatable and scaleable.  The concept of environmental distance is fundamental to the multivariate classification process. Given two data points, each of which is described by some set of environmental variables, the environmental distance between these points is the proportional difference in environment, averaged across all environmental variables.  This approach offers an improved means of representing the fundamental environmental parameters (layers) moulding the environment and driving ecosystems.  This approach allows, for example, prediction of ecosystem and habitat locations in ways useful to management. 
+
+Developing an Environmental Domains Analysis for the Ross Sea Region 
+Landcare Research will use the Ross Sea region to develop an initial Environmental Domains Analysis (EDA).  This process includes three main sections: the initial assembly of the data layers to be used in the classification process, the classification process itself and the creation of the documentation surrounding the classification.  
+Data layers will be selected that identify and differentiate the physical environment within Antarctica.  Layers may include climate data (air and soil temperature, wind speed, solar radiation, air pressure), landform and geological data (slope, topographic roughness, aspect, geology) and ice cover (e.g. year-round glacial ice, seasonal sea ice, ground ice).  International databases will be used but derivation of some layers (e.g. climate) will be easier than others (e.g. landform) due to lack of digital data.  
+A 200m Digital Elevation Model (as already developed in the Radarsat Antarctic Mapping Project) will probably be the starting point for determining the cell size in the Ross Sea region EDA. One cell size (spatial resolution around 200-500m) is recommended.  A coarser resolution (e.g. 1-5 km) could be used for an Antarctic-wide EDA.
+Once the underlying data layers have been found and all created at a uniform cell size, a systematic sample of data points will then be exported using a C++ program and analysed using multivariate classification software.  The classification process is not expected to be problematic for the Ross Sea region as it has been proven to work elsewhere albeit in a non-polar region.
+A varied swath through a well understood part of the Ross Sea region from sea ice to ice sheet (e.g. from McMurdo Sound up to the East Antarctic Ice Sheet, or from Terra Nova Bay up to the Ice Sheet) will be used in a pilot classification to test data interpolation techniques, models and other variables used for creating spatial data layers.  More data are available for the “McMurdo” swath but the “Terra Nova” swath is more representative.
+After the classification layer is complete, the next phase is to discern the various levels at which the classification is useful for management.  This process should involve end-users of the system including the CEP. Fewer levels of detail (possibly only one with perhaps 100 distinct environments) will probably be used for Antarctica in comparison with New Zealand (which has four levels and up to 500 distinct environments).  Promotion of a standard set of levels and environments is desirable to provide a common language for activities such as environmental reporting and to maximise the ability to readily compare or combine results from different locations and national programmes active in the Antarctic. 
+
+Expert Discussion
+To confirm that the assumptions and choices made about the Antarctic physical environment are acceptable to the wider user community, liaison will be necessary with a range of experts in various disciplines of Antarctic science. Although many initial contacts have been made through requests for spatial data, more researchers will be contacted during the EDA development process.  These experts will be consulted to verify initial layer selections and to suggest alternative candidate variables available with comprehensive spatial coverage with known error limits.  New Zealand is grateful to Australia and the Australian Antarctic Division for making Lee Belbin available as an Antarctic data specialist with significant experience in environmental classification.
+
+Looking Ahead – an Antarctic-wide EDA? 
+At this stage New Zealand is not in a position to perform a classification across the entire Ross Sea region let alone the whole of Antarctica.  When a threshold has been reached in both the amount of data and its spatial and temporal coverage, a classification of the Ross Sea region could commence.
+It should then be possible, using the knowledge gained creating the Ross Sea region EDA, to create a higher-level classification like an Antarctic-wide EDA. The first level of this classification would probably be limited to 20 – 30 distinct environments such as Glaciers, Sea Ice, Dry Valley, Mountain, Nunatak etc.  The Ross Sea region can be used as a relatively representative part of the Antarctic continent. The level of detail created by the Ross Sea region EDA will be far greater than could be derived by an Antarctic wide EDA but would allow some form of comparison between the two EDAs.  At this stage it should also be possible to extend the classification well offshore using sea ice and bathymetry layers.
+Environmental Domains Analysis requires environmental data.  This one needs data on air and soil temperature, wind speed, solar radiation, air pressure, slope, topographic roughness, aspect, geology and ice cover.  New Zealand asks that members identify researchers who may have spatial datasets suitable for Environmental Domains Analysis in Antarctica (especially in initial swaths west to the ice sheet from both McMurdo Sound and Terra Nova Bay) and forward their contact details to New Zealand [hkeys@doc.govt.nz].
+
+Preliminary Timeline (depending on funding)
+
+Year one (2003-04)
+    • Work with potential end-users to identify key environmental factors (climate, geology, topography, ice) driving the various physical environmental patterns in the Ross Sea region;
+    • Perform pilot classification for study sites encompassing a range of conditions e.g. sea ice, coastal islands, ice-free land areas, mountain ranges, nunataks, glaciers, ice sheet.
+Year two (2004-05)
+    • Produce report describing pilot classification and outlining options for an operational classification;
+    • Begin assembly of environmental data layers required to define an environmental classification for the Ross Sea region;
+    • Evaluate the feasibility of applying the classification methodology to the entire Antarctic continent, including seeking funding support from international agencies.
+Year three (2005-06)
+    • Interact with end-users to determine suitability of different classification options;
+    • Develop operational classification for the Ross Sea region;
+    • Produce publication describing classification of the Ross Sea region;
+    • Develop a web site for Internet delivery of the Ross Sea operational classification and its underlying data to end-users.
+Years four to six (2006-08)
+    • Develop operational classification for the Antarctic continent;
+    • Produce publication describing classification of the Antarctic continent;
+    • Develop a web site for Internet delivery of the operational classification and its underlying data to end-users.
+
+Funding
+New Zealand is carrying out this work largely through the cooperation of various national agencies and institutes.  An application has been made to the main provider of public science funding in New Zealand and if successful the Ross Sea Region Environmental Domains Analysis will be carried out (i.e. carry out work outlined above into year three).  An additional NZ$40,000 is also being sought more directly within government to apply the “Terra Nova” swath, investigate an Antarctic EDA and start on data layers for an operational classification for Antarctica in 2004-05 or earlier.  Additional funding will be required to develop any Antarctic EDA and SEGF thereafter.
+
+
+Conclusion
+Environmental Domains Analysis is technically feasible and will provide a scientific basis for a systematic environmental geographic framework to be developed for Antarctica as set out in Annex V of the Protocol.  Such a scientifically-based classification of Antarctic environments would assist the CEP in its identification and protection of special areas in the Antarctic.  It would also make it possible to better integrate management of protected areas, cumulative impacts, environmental monitoring and reporting, and other measures for managing human impact.  These potential benefits and uses of systematic environmental classification can be encapsulated by a broader concept of Systematic Environmental Protection in Antarctica (SEPIA).
+
+To be robust the classification work requires considerable data accumulation and processing.  This will take some time and a programme of work for up to six years has been identified in a preliminary timeline.  An application has been made for funding of a Ross Sea Region Environmental Domains Analysis under the auspices of the New Zealand government.  Further funding will be required for an Antarctic EDA that would underpin a systematic environmental geographic framework.  
+
+In the meantime identification of suitable datasets and access to them is the key step.  New Zealand trusts CEP members can assist with this.
+
+Recommendations for CEP:
+    1. That the CEP note the applicability of Environmental Domains Analysis (EDA) for establishing a systematic environmental geographic framework                                                 for Antarctica within which areas can be identified for special protection under Annex V of the Protocol. 
+    2. That the CEP  note the feasibility and success of creating a SEGF for Antarctica using the EDA framework will depend on data availability and the ability to both access and extrapolate known datasets.
+    3. That members identify researchers who may have spatial datasets suitable for Environmental Domains Analysis in Antarctica (especially in initial swaths west to the ice sheet from both McMurdo Sound and Terra Nova Bay) and forward their contact details to New Zealand [hkeys@doc.govt.nz].
+    4. That the CEP requests New Zealand continues with the development of an SEGF and consults the CEP on progress with this work at CEP VII, given that the CEP is a major end user of any SEGF that is developed.   
+
+References
+Leathwick J 2002.  Land environments of New Zealand – a tool for integrated management of ecosystems and human activities. In Ross Sea region: the next steps. Proceedings of a workshop to build on the first Antarctic state of the environment report (SM Huston and EJ Waterhouse [editors]). New Zealand Antarctic Institute. Pages 33-34
+Waterhouse EJ [editor] 2001. Ross Sea Region 2001:a state of the environment report for the Ross Sea region of Antarctica. New Zealand Antarctic Institute. 

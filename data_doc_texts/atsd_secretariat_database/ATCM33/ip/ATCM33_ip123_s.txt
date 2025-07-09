@@ -1,0 +1,37 @@
+﻿
+
+
+
+
+
+Desarrollo de Robots Submarinos Autónomos no Tripulados para exploración Antártica
+
+
+
+
+Desarrollo de Robots Submarinos Autónomos no Tripulados                                  para exploración Antártica
+Arturo Cadena1
+
+1Escuela Superior Politécnica del Litoral, Facultad de Ingeniería Eléctrica y Computación. Av. Perimentral Km 30.5, Guayaquil, Ecuador,  Email: acadena@fiec.espol.edu.ec
+Objetivo: 
+Desarrollar Robots Submarinos Autónomos no Tripulados para la adquisición de datos científicos en aguas ecuatoriales y en la Antártida. 
+Descripción: 
+Ante el fenómeno del cambio climático es imprescindible conocer que esta sucediendo muy por debajo de la superficie del mar. Parámetros físico-químicos como temperatura, presión, conductividad, cantidad de oxígeno disuelto, presencia de isótopos de 16O proveniente de casquetes polares, pH entre otros, se necesitan conocer para generar pronósticos a corto y largo plazo de cómo el calentamiento global afectará a la humanidad. Estos parámetros no son fácilmente medibles desde satélites, ellos no pueden “ver” más allá de la superficie del mar. Por eso se utilizan instrumentos de medición oceanográficos como derivadores ARGO, derivadores con capacidad de inmersión y buques oceanográficos. Los derivadores proveen datos con una alta resolución temporal pero con una pobre resolución espacial y no hay manera de controlar su ubicación, dependen de las corrientes, desplegar un buque oceanográfico siempre va resultar costoso, es por eso que surge la necesidad de contar con robots submarinos autónomos no tripulados de largo rango para mar abierto y de corto rango para sitios donde un buque no puede acceder, que hagan el mismo trabajo de un buque oceanográfico pero a una fracción del costo. Otra necesidad de contar con estos robots es la recolección de muestras biológicas submarinas en ambientes extremos donde un buzo no puede acceder. Los robots submarinos no tripulados se dividen en dos grupos: Vehículos Remotamente Operados o ROV (Remotely Operated Vehicle) y Vehículos Submarinos Autónomos o AUV (Autonomous Underwater Vehicle).
+La función de un robot submarino tipo AUV es de transportar equipos y sensores a lo largo de una trayectoria predefinida para la adquisición de datos científicos. Actualmente en Ecuador se desarrolla un AUV para operar en aguas ecuatoriales y en la Antártida.  
+Antecedentes:
+
+En el del 2007 se tuvo la primera reunión con miembros del INAE en el Centro de Visión y Robótica (CVR), centro de investigación de la Escuela Superior Politécnica del Litoral, planteando la necesidad de contar con un robot submarino que pueda operar en aguas ecuatoriales y en ambientes polares. Con el auspicio del INAE se planteo una propuesta de investigación a los fondos concursables del programa VLIR-ESPOL. El proyecto, UVIP a Underwater Vehicle Investigation Prototype fue aprobado, un Robot Submarino de primera generación con capacidad de operar en piscinas y lagos. La ejecución de este proyecto de la hizo en el CVR. Los resultados del proyecto UVIP se expusieron en el Open Science Conference 2008, celebrado en St. Petersburgo, Rusia y en el I Simposio Ecuatoriano de Ciencia Polar llevado a cabo en La Libertad, Santa Elena.
+
+
+Durante la estancia en Rusia se obtuvo la información técnica necesaria para desarrollar robots submarinos de segunda generación capaces de operar en el mar y se elaboro un nuevo diseño de un Robot Submarino no Tripulado. Este nuevo vehículo submarino ha sido construido y evaluado exitosamente en pruebas de inmersión en Ayangue, Ecuador. Los resultados obtenidos se los publico en un congreso internacional de Robótica Aplicada TEPRA 2009 celebrado en Woburn, MA, Estados Unidos y en el V Simposio Latinoamericano de Ciencia Polar en La Libertad, Ecuador. 
+
+Estudios realizados en la XIV Expedición Ecuatoriana a la Antártida:
+Un problema técnico que hacía el proyecto no viable era el hecho de no contar con un sistema de navegación inercial que pueda operar en altas latitudes y ambientes polares. El sistema de Navegación Inercial o  INS (Inertial Navigation System) es el encargado de estimar la velocidad, posición y orientación de un vehículo submarino cuando navega debajo de la superficie del mar. Este es el sistema primario de navegación de un robot submarino. Este sistema es considerado por el Tratado Internacional de Tráfico de Armas (International Traffic in Arms Regulations ITAR) como equipo militar sensible, por lo tanto su exportación es sumamente controlada. Por eso surgió la necesidad de efectuar una serie de experimentos con el sistema de navegación inercial desarrollado en el Ecuador en la Antártida, Base Científica Pedro Vicente Maldonado con el propósito de obtener la información necesaria para desarrollar un nuevo Sistema de Navegación Inercial que equipara a un futuro Robot Submarino con capacidad de operar en la Antártida. Estos experimentos fueron realizados de forma exitosa en la XIV Expedición Ecuatoriana a la Antártida. Para las pruebas de campo de este sistema se utilizo el Robot Terrestre no Tripulado “Antártico 1” que se lo desplegó en las inmediaciones de la estación Pedro Vicente Maldonado. 
+
+                             
+
+ Fig. 1 Robot “Antártico 1” en pruebas
+
+
+Con los resultados obtenidos en la XIV Expedición se desarrolla un nuevo Robot Submarino tipo AUV para operar en aguas ecuatoriales y en la Antártida. 
+

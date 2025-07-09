@@ -1,0 +1,264 @@
+﻿
+
+
+Approaches to marine bioregionalisation for the Southern Ocean
+
+
+
+
+
+Approaches to marine bioregionalisation 
+for the Southern Ocean
+
+CEP Information Paper submitted by the United Kingdom
+
+
+Summary
+    1. Bioregionalisation is a process to classify data on a range of environmental attributes, resulting in a set of bioregions which can be used to identify representative areas for protection. Recent discussions within CCAMLR have recommended that such a process should be undertaken for the Southern Ocean, as part of work towards the development of a system of marine protected areas (MPAs). This paper provides background information on approaches to marine bioregionalisation that have been developed for Antarctica and elsewhere, and highlights the types of data that might be required for such a process. This information is provided in support of the recommendations made by the CCAMLR Workshop on MPAs, and by the UK in ATCM XXIX/WP004.
+Introduction
+    2. Bioregionalisation of the Southern Ocean has been identified by CCAMLR as a key task to be undertaken towards the development of a comprehensive and ecologically representative system of MPAs for Antarctica. The representation of different ecosystems or biogeographic regions is frequently included in criteria for the selection of MPAs worldwide (e.g. the Convention on Biological Diversity, World Summit on Sustainable Development). Annex V of the Environmental Protocol also calls for the designation of Antarctic Specially Protected Areas (ASPAs) to include “representative examples of major marine ecosystems”.
+    3. Recognising the expertise of the CEP, CCAMLR has suggested that the CEP be invited to undertake the initial work necessary to develop a bioregionalisation of the coastal provinces. ATCM XXIX/WP004 recommends that the CEP should welcome and engage fully in this process, and begin consideration of how it might best contribute to the proposed work. 
+    4. This paper provides background information on approaches to bioregionalisation that have previously been developed for Antarctica and elsewhere. The paper aims to inform the CEP on the types of data and methodologies that might be utilised in the process proposed by CCAMLR. Summary information is presented on:
+    • Existing biogeographic classification systems for the Southern Ocean;
+    • Bioregionalisation studies undertaken elsewhere (methodologies and types of data used);
+    • Types of data that may be required for a bioregionalisation of the Southern Ocean;
+    • Relevant literature.
+
+    5. This paper does not aim to make a critical evaluation of bioregionalisation processes and techniques, however it will highlight methodologies and data types that may have particular relevance to the Antarctic situation, where appropriate. A reference list includes sources for the information summarised here, as well as other relevant literature.
+
+Definitions of bioregionalisation
+    6. Annex V of the Protocol on Environmental Protection states that Parties shall seek to identify a series of ASPAs “within a systematic environmental-geographic framework”. The term ‘environmental-geographic framework’ has been defined as: “a method of classifying or organising subsets of environmental and geographic characteristics such as different types of ecosystems, habitat, geographic area, terrain, topography, climate, individual features and human presence into geographic regions. Each region would be distinctive or in some way different from other regions but some might have characteristics in common.” (ATCM XXIV/WP012).
+    7. Furthermore, the term ‘systematic environmental-geographic framework’ has been defined as: “different environmental-geographic regions of the framework fitted together into a logical, integrated and complete system of regions (representing Antarctica as a whole) to provide a fundamental scientific basis for a protected area strategy consistent with Article 3(2) of Annex V. (ATCM XXIV/WP012).
+    8. Bioregionalisation is defined in the CCAMLR MPAs Workshop Report (2005) as:
+ “…a process to classify marine areas from a range of data on environmental attributes. The process results in a set of bioregions, each reflecting a unifying set of major environmental influences which shape the occurrence of biota and their interaction with the physical environment”. (adapted from Interim biogeographic regionalisation for Australia (IBRA) 1997). 
+    9. Thackway (1994) defines environmental classification as:
+“…a procedure for grouping spatial units or objects into groups (i.e. types) based on the association of environmental attributes recorded for these objects, that is objects that have similar environmental attributes are classed together. The output from the classification is a regionalisation, which comprises a mosaic of regions usually presented as a map, with a key to the types of ecosystems present”. 
+    10. Bioregionalisation or environmental classification provides a framework for decision support in the selection of protected areas. It can offer a scientific basis for further decisions on the design of protected area systems, particularly relating to the selection of representative areas. However, it does not provide a complete mechanism by which an MPA system can be established, and further procedures for area selection, design and implementation must also be developed.
+CCAMLR discussions and recommendations on bioregionalisation
+    11. The CCAMLR Workshop on MPAs (2005) identified bioregionalisation of the Southern Ocean as an important step towards the development of a system of marine protected areas. Key tasks to be undertaken include:
+    • Collation of existing data on coastal and oceanic provinces, including benthic and pelagic features and processes;
+    • Determination of the analyses required to facilitate a bioregionalisation, including the use of empirical, model and expert data;
+    • Development of a broad-scale bioregionalisation of the Southern Ocean, based on existing datasets;
+    • Delineation of fine-scale biogeographic provinces within regions, where possible;
+    • Establishment of a procedure to identify areas for protection.
+    12. This proposed work corresponds closely to current efforts by the CEP to elaborate a ‘systematic environmental-geographic framework’ of protected areas, and could therefore contribute significantly to progress towards this objective.
+    13. The relative expertise of the CEP was recognised by CCAMLR, and it was suggested that the CEP should be invited to undertake the initial work necessary to develop a bioregionalisation of the coastal provinces, to include examination of both benthic and pelagic systems.
+    14. CCAMLR has also agreed that a workshop should be held in 2007 with the aim of providing advice on a bioregionalisation of the Southern Ocean and, where possible, on potential areas for protection. It is proposed that this workshop should involve members of both the CCAMLR Scientific Committee and the CEP (as well as external experts if appropriate). 
+    15. In preparation for the proposed workshop, the CEP should begin consideration of how it can best contribute to this work. The background information provided in the following sections aims to support CEP discussions on this subject.
+Existing approaches to bioregionalisation for Antarctica
+    16. The first biogeographic classifications of the Antarctic marine environment were developed by Ekman (1955), Knox (1960), Hedgpeth (1970) and Dell (1972). More recent classifications by Tréguer & Jacques (1992) and Longhurst (1998) further defined concentric zones around the continent. Figures 1-4 show these classifications, and describe the types of data used in their development.
+
+
+Figure 1: Knox, 1960	Figure 2: Hedgpeth, 1970
+Classification using oceanographic patterns (water masses and circulation) and distribution of littoral organisms.
+
+Two major biogeographic provinces:
+Continental Antarctic and Western Antarctic (including the Antarctic Peninsula and Scotia Arc).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3: Tréguer and Jacques, 1992	Figure 4: Longhurst, 1998		
+Tréguer and Jacques (1992) defined four functional units south of the Polar Front on the basis of nutrient and phytoplankton dynamics: Polar Front Zone (PFZ), Permanently Open Ocean Zone (POOZ), Seasonal Ice Zone (SIZ) and Coastal and Continental Shelf Zone (CCSZ). A fifth area is the Permanent Ice Zone (PIZ). This study demonstrated the roles of ice dynamics in controlling phytoplankton initiation and growth, and the nutrient regimes that discriminate each of these zones.
+Longhurst’s (1998) Ecological Geography of the Sea proposed a global system of classification based on a simple set of environmental variables (e.g. sea surface temperature, mixed layer depth, nutrient dynamics and circulation) together with planktonic algal ecology. The Southern Ocean includes two provinces in the Westerly Winds Biome between approximately 40ºS and 50ºS (SSTC and SANT) and two in the Antarctic Polar Biome between 50ºS and the continental coast (ANTA and APLR).
+
+
+    17. The SCAR ecosystem matrix classification was one of the first attempts to develop a comprehensive classification for Antarctic terrestrial, freshwater, and shallow-water (benthic) marine ecosystems, with the aim of establishing representative protected areas (Lewis Smith et al., 1994). This matrix included ice, depth and substratum characteristics, but no biological variables. A geographic basis for this classification was elaborated by Keage (1987), based on ice catchments and broad environmental factors (e.g. coastal, ice shelf and sea ice zones).
+    18. More recently, Environmental Domains Analysis (EDA) has been used by New Zealand to undertake a bioregionalisation for the Antarctic continent, expanding on these previous classifications (ATCM XXVI/WP004; ATCM XXVII/WP024; ATCM XXVIII/WP002). This analysis uses physical data including temperature, wind speed, solar radiation, diurnal length, landforms and ice cover. At this stage, EDA has not been expanded to include the marine environment, however it was agreed during the 2005 CCAMLR MPAs Workshop that this type of approach would be useful for combining available data into a single analysis. It was cautioned that care must be taken when applying terrestrial algorithms in a bioregionalisation of the marine environment. 
+
+Marine bioregionalisation for sub-Antarctic island EEZs
+    19. The sub-Antarctic Heard Island and McDonald Island (HIMI) Marine Reserve was declared in 2002, as part of Australia’s National Representative System of Marine Protected Areas (NRSMPA) (Meyer et al, 2000; Australia, 2005a; 2005b; AAD, 2005). It was established using a combination of a scientific assessment of values and the identification of threats to those values. Analysis of physical and biological data, together with consideration of the ecology of these areas, identified thirteen biophysical units within the HIMI EEZ. Using this information, selection criteria were used to define the reserve configuration. The HIMI Reserve provides the best model of an existing MPA within the CCAMLR area (although outside the Antarctic Treaty area) that has been developed using this type of systematic, regional approach. 
+    20. South Africa is currently developing an MPA around its sub-Antarctic Prince Edward Islands (South Africa, 2004; 2005). A science-based approach has been taken to the design of an MPA to afford the greatest biodiversity and fisheries management benefits. With input from stakeholders and experts, a mapping process collating existing spatial information and expertise into a decision-making framework aims to identify important physical and biological patterns and processes, as well as to classify benthic and pelagic habitats. Current work is focusing on analysis of both pattern data (e.g. species occurrence and habitat information) and process data (e.g. nutrient availability and oceanographic features), with the aim of developing an initial management plan proposal for the MPA. The science-based approach adopted by South Africa has drawn on experience from the development of the HIMI Marine Reserve, and will serve to further refine this type of analysis.
+Bioregionalisation studies undertaken elsewhere
+    21. Bioregionalisation studies undertaken in other parts of the world may also provide helpful guidance on the types of data and methodologies that might be applied in the Antarctic situation. The following examples briefly summarise some of the relevant cases.
+Global Representative System of MPAs – Great Barrier Reef Marine Park Authority, World Bank, IUCN
+    22. This study aimed to identify priority areas for the establishment of a global, representative system of MPAs (Kelleher et al., 1995). The IUCN Commission on National Parks and Protected Areas (CNPPA) defined 18 marine biogeographic regions worldwide, and further elaborated constituent zones within regions using physical and biological characteristics. Although the Antarctic marine region was not subdivided further in this study, data and approaches used for other regions may provide guidance for this task.
+
+National Representative System of Marine Protected Areas (NRSMPA) – Australia 
+    23. The National Representative System of Marine Protected Areas (NRSMPA) aims to contain a comprehensive, adequate and representative sample of Australia’s marine ecosystems. The principles developed for establising the NRSMPA draw heavily on the concept of regional marine planning, and highlight the need to include within the system the full range of ecosystems across each identified bioregion (ANZECC TFMPA, 1998; IMCRA, 1998; Australia, 2005). The Guidelines for Establishing the National Representative System of Marine Protected Areas (ANZECC TFMPA, 1998) provide information on the principles for establishing the NRSMPA, criteria for identification and selection of candidate MPAs, and the process for establishment of individual MPAs. The use of scientific information data in the classification and identification of areas is emphasized.
+    24. The Interim Marine and Coastal Regionalisation for Australia (towards a National Representative System of Marine Protected Areas) (IMCRA, 1998) provides technical guidance on how this framework can be used as a regional planning tool for conservation and sustainable resource use.  It is noted that IMCRA provides only the first layer in a broader planning framework in which more detailed information on ecosystems must be used to assist decision-making within a region.
+
+    25. IMCRA was developed in three stages:
+    • meso-scale regionalisation developed by the inshore waters working group (coastline to limit of state territorial waters);
+    • various provincial to meso-scale regionalisation products developed by the offshore waters working group (extending to the limit of the Australian EEZ); and 
+    • regionalisations developed by the inshore and offshore waters working groups
+    • synthesized into several integrated biogeographic regionalisations at different scales.
+
+This approach is similar to that proposed by CCAMLR, in that it involves both coastal and offshore work, which is then combined to develop an overall framework.
+	
+Patagonian Shelf Project
+    26. This project has applied a ‘landscape conservation’ approach to the Patagonian Shelf Large Marine Ecosystem (PSLME) (Sea and Sky Project, 2003; Falabella, 2004). This approach aims to select a series of ‘landscape species’ for conservation that capture the range of habitat types, management units and threats present in a particular conservation landscape, thus conserving those species and the species dependent on them, as well as the landscape as a whole. Oceanic regimes and management zones have been delineated according to biological and human landscapes, including dominant oceanographic patterns such as bathymetry, sea surface temperature, ocean colour and salinity, as well as management authorities, fisheries conservation measures and human activities. 15 zoning units have been defined, and this framework has been used to analyse a suite of candidate species in terms of their area requirements, heterogeneity of habitat use, vulnerability to threats, ecological functions and socio-economic importance. 
+OSPAR (Convention for the Protection of the Marine Environment of the North-East Atlantic)
+    27. The OSPAR Convention guides international cooperation on the protection of the marine environment of the North-East Atlantic, and includes an Annex on ‘Protection and Conservation of the Ecosystems and Biological Diversity of the Maritime Area’. Guidelines for the identification and selection of MPAs within the OSPAR maritime area state that the OSPAR Network of MPAs should aim to: “protect and conserve areas that best represent the range of species, habitats and ecological processes in the OSPAR maritime area”. (OSPAR Commission, 2003).
+    28. A synthesis of biogeographical distribution patterns for the North-East Atlantic is provided by Dinter (2001). This gives an overview of how a biogeographic classification system for the OSPAR region was created from a number of other pre-existing systems. This analysis used oceanographic and bathymetric data, as well as information on the distribution of benthic and pelagic (including deep-sea) flora and fauna.
+Irish Sea Pilot – United Kingdom
+    29. The Irish Sea Pilot aimed to develop a strategy for marine nature conservation that could be applied to all UK waters and, with international collaboration, to the adjacent waters of the North-East Atlantic under the commitments of the OSPAR Convention. The study collated geophysical, hydrographical, nature conservation, ecological and human use data, and developed a marine landscape classification for the Irish Sea, validating predictions through new surveys where necessary. Boundaries for a system of biogeographically defined Regional Seas were proposed, with the aim of improving management planning, data collection, survey and research at the Regional Seas level. The pilot also tested the concept of 'Marine Landscapes', using geophysical and hydrographic data to identify habitat types, complemented where possible by biological data. This concept was applied successfully for the Irish Sea, identifying and mapping 18 coastal and seabed marine landscape types, and 4 water column marine landscape types. 
+
+    30. The Irish Sea Pilot Report (Vincent et al., 2004) and the Report on the development of a Marine Landscape classification for the Irish Sea (Golding et al., 2004) provide detailed information on the types of information collated, data sources and methodologies employed with regard to the identification and mapping of marine landscapes.  
+Marine Environmental Classification – New Zealand
+    31. The Marine Environmental Classification for the New Zealand EEZ (New Zealand Ministry for the Environment, 2004) was defined using multivariate clustering of several data layers that describe the physical environment, including sea surface temperature, bathymetry, solar irradiance, tidal currents, sea bed slope and suspended sediment. A physical classification was chosen because of the availability of data, and because environmental patterns are an appropriate surrogate for biological patterns, particularly at larger spatial scales. The Marine Environment Classification provides a spatial framework for analysis and management of marine conservation and resource management issues. This framework is a tool to organise data and analyses, but it is acknowledged to be only one component of the information that would be employed in the selection of candidate MPAs.
+Hierarchical geophysical approach to marine conservation – Canada  
+    32. A hierarchical classification system was developed as a framework for ocean conservation in Canada (Roff and Taylor, 2000). Physical features such as temperature, sea ice frequency and depth were used to define the broader classification levels, and finer-scale regions were then defined using data on benthic substrate, topography and nutrient regimes. Recognizing that biological data are often not available across larger scales, this study uses geophysical characteristics as a surrogate for community types.
+Data requirements
+    33. Many of the studies described in the previous sections have used physical data as the basis for initial classifications, and incorporated biological data where available to generate finer-scale classifications. This approach may also be most suitable for the Antarctic situation, given the availability of data.
+    34. The CCAMLR MPAs Workshop identified a series of potential data types that might be used in a bioregionalisation of the Southern Ocean, many of which have been used elsewhere as outlined in the previous sections. Table 1 shows the types of data that might be utilised. This is based on the CCAMLR MPAs Workshop Report (2005) (drawn from work undertaken for development of the Prince Edward Islands MPA and the Heard Island and McDonald Islands Marine Reserve).
+
+Table 1: Types of data that might be used in a bioregionalisation of the Southern Ocean. These data may be used to delineate important patterns, areas in which important processes occur, and areas where pressures may exist now or arise in the future (CCAMLR MPAs Workshop Report, 2005).
+
+Category
+Data type
+Geology/geomorphology
+Bathymetry
+
+Geological zones (coastal formations, islands, seamounts, plateau, banks, ridges, canyons)
+
+Substratum
+Ocean
+Sea surface heights
+
+Temperature and salinity
+
+Biogeochemistry
+
+Fronts and gyres
+
+Currents (surface, midwater, deep)
+
+Upwelling areas
+Climate
+Wind shear and direction
+
+Pressure systems
+
+Temperature
+Ice
+Ice shelves
+
+Sea ice coverage and progression
+Biota (distribution, abundance, movement)
+Sessile and sedentary benthos, including habitat forming
+
+features
+
+Surface chlorophyll
+
+Secondary producers
+
+Demersal species (e.g. nototheniids)
+
+Small mesopelagic species (e.g. krill, myctophids)
+
+Large mesopelagic species (e.g. finfish and squid)
+
+Marine mammals
+
+Birds
+Outcomes of dynamic models Existing and/or potential pressures
+Outputs from existing ocean models
+
+Existing fishing patterns
+
+Target and by-catch statistics
+
+Pollution
+
+Climate change
+
+Ocean noise
+
+Shipping activity
+
+Introduced species
+
+Tourism and/or national operations potentially impacting on marine species or ecosystems
+
+
+
+    35. The availability and coverage of physical data on, for example, ocean, climate and ice, is likely to be sufficient to allow progress with the larger-scale bioregionalisation for the Southern Ocean. However, biological data may have a more patchy distribution, and their availability is likely to vary between regions. Delineation of fine-scale biogeographic provinces may therefore depend in part on whether such data are available (or are likely to become available in the future). An important task will be to identify areas that may require interim protection to ensure that existing activities do not compromise their values, while this process is developed further.
+Work to be undertaken by the CEP in coordination with CCAMLR
+    36. There is a necessity for co-ordinated approach to bioregionalisation both between and within CCAMLR and the CEP. Expertise and data from different Parties, as well as from appropriate external organisations and experts such as SCAR and IUCN, must be synthesized.  Individual Parties may be most able to contribute data for those regions in which they currently undertake research. Given its major areas of expertise, the CEP is likely to be most able to contribute data and expertise relating to the coastal provinces, although this should not exclude work on the oceanic provinces if appropriate. 
+    37. An ‘interim’ bioregionalisation using currently available data would allow for further improvements to be made as additional data become available, and would have the additional advantage of helping to steer future research if necessary.
+    38. The examples provided in this paper demonstrate the experience available from bioregionalisation processes that have been undertaken elsewhere in the world. Lessons learned from such experience should be taken into account, and representatives from CCAMLR and the CEP should engage with wider international discussions on this subject where possible. In particular, opportunities exist to exchange information and expertise with external agencies and organisations, including Parties’ national agencies that may be engaged in similar work.
+    39. Further work will be required to elaborate selection criteria for the development of MPAs within any bioregionalisation framework. Current international discussions on this topic (e.g. OSPAR Commission 2003, Dearden and Topelko, 2005) may have particular relevance to such work.
+
+    40. Bioregionalisation corresponds closely to current efforts by the CEP to elaborate a ‘systematic environmental-geographic framework’ of protected areas, and would therefore contribute significantly to progress towards this objective. A coordinated approach using the expertise of both the CEP and CCAMLR would be a significant advance in the protection of Antarctic marine ecosystems. 
+
+
+
+
+May 2006
+
+
+
+
+
+
+
+
+
+
+ANNEX I - References (including links to documents available online)
+
+ANZECC TFMPA. 1998. Guidelines for Establishing the National Representative System of Marine Protected Areas. Australian and New Zealand Environment and Conservation Council, Task Force on Marine Protected Areas. Environment Australia, Canberra.
+(available at: http://www.deh.gov.au/coasts/mpa/nrsmpa/pubs/guidelines.pdf)
+ATCMXXVI/WP4. New Zealand. 2003. The creation of a systematic environmental-geographic framework for Antarctica using Environmental Domains Analysis. Working Paper 4. XXVI ATCM (Madrid, Spain, 9 – 20 June 2003)
+ATCMXXVII/WP24. New Zealand. 2004. Systematic environmental protection in Antarctica – first progress report. The creation of a systematic environmental-geographic framework for the Ross Sea Region using Environmental Domains Analysis. Working Paper 24. XXVII ATCM (Cape Town, South Africa, 23 May – 4 June 2004)
+ATCMXXVIII/WP2. New Zealand. 2005. Systematic Environmental Protection in Antarctica: A draft Systematic Environmental-Geographic Framework for Antarctica created using Environmental Domains Analysis. Working Paper 2. XXVIII ATCM (Stockholm, Sweden, 6 – 17 June 2005)
+Australia. 2005a Guidelines for establishing the [Australian] National Representative System of Marine Protected Areas. CCAMLR Workshop on MPAs, 29 Aug – 1 Sep 2005. WS-MPA-05/6
+Australia. 2005b. The Heard Island and McDonald Islands Marine Reserve. CCAMLR Workshop on MPAs, 29 Aug – 1 Sep 2005. WS-MPA-05/7
+Australian Antarctic Division. 2005. Heard Island and McDonald Islands Marine Reserve Management Plan. Australian Antarctic Division, Department of the Environment and Heritage, Hobart.
+(available at: http://www.heardisland.aq/protection/management_plan/index.html)
+Dearden, P. & Topelko, K.N. 2005. Establishing criteria for the identification of ecologically and biologically significant areas on the high seas. Background Paper Prepared for Fisheries and Oceans Canada. University of Victoria, British Columbia.
+Dell, R.K. 1972. Antarctic benthos. Adv. Mar. Biol. 10: 1-216
+Dinter, W.P. 2001. Biogeography of the OSPAR Maritime Area: a synopsis of biogeographical distribution patterns described for the north-east Atlantic. Federal Agency for Nature Conservation, Bonn, Germany.
+Ekman, V.K. 1953. Zoogeography of the Sea. Sidgwick and Jackson, London.
+Falabella, V. 2004. Zoning of the South-West Atlantic: Phase 1. First scientific-technical workshop on zoning of the south-west Atlantic / Patagonian Sea (December 6-7, Lobos, Argentina). Final Report (Summary).
+Fisheries and Oceans Canada. 2005. Identification of Ecologically and Biologically Significant Areas. DFO Can. Sci. Advis. Sec. Ecosystem Status Rep. 2004/006.
+(available at: http://www.dfo-mpo.gc.ca/csas/Csas/status/2004/ESR2004_006_E.pdf)
+Golding, N., Vincent, M.A. & Connor, D.W. 2004. Irish Sea Pilot - Report on the development of a Marine Landscape classification for the Irish Sea. JNCC.
+(available at: www.jncc.gov.uk/irishseapilot)
+Hedgpeth, J.W. 1970. Marine biogeography of the Antarctic regions. In: Holdgate, M.W. (ed.) Antarctic Ecology (Volume 1) Academic Press, London (pp. 97-104)
+IMCRA Technical Group. 1998. Interim Marine and Coastal Regionalisation for Australia (IMCRA): an ecosystem-based classification for marine and coastal environments. Version 3.3. Environment Australia, Canberra.
+(available at: http://www.deh.gov.au/coasts/mpa/nrsmpa/imcra.html)
+Kelleher, G., Bleakley, C. & Wells, S. (eds.) 1995. A Global Representative System of Marine Protected Areas. The Great Barrier Reef Marine Park Authority, The World Bank, The World Conservation Union (IUCN), Washington DC.
+Knox, G.A. 1960. Littoral ecology and biogeography of the southern oceans. Proc. Roy. Soc. Lond. B. 152: 577-624
+Lewis Smith, R.I., Walton, D.W.H. & Dingwall, P.R. (eds.) 1994. Developing the Antarctic Protected Area System. IUCN, Gland & Cambridge.
+Longhurst, A. 1998. Ecological Geography of the Sea. Academic Press, London  
+Meyer, L., Constable, A. & Williams, R. 2000. Conservation of marine habitats in the region of Heard Island and the McDonald Islands. Australian Antarctic Division, Department of the Environment and Heritage. Hobart. 
+(available at: http://www.heardisland.aq/protection/marine_reserve/documents/HIMI_Conservation_Report.pdf)
+New Zealand Ministry for the Environment. 2004. New Zealand Marine Environmental Classification. Ministry for the Environment, New Zealand. 
+(available at: http://www.mfe.govt.nz/publications/ser/marine-environment-classification-jun05/html/index.html)
+OSPAR Commission. 2003. Guidelines for the Identification and Selection of Marine Protected Areas in the OSPAR Maritime Area. Annex 10. Meeting of the OSPAR Commission (OSPAR), Bremen, 23-27 June 2003. 
+(available at: http://www.jncc.gov.uk/pdf/ANNEX10_Guidelines%20identification%20MPA.pdf)
+Roff, J.C. & Taylor, M.E. 2000 National frameworks for marine conservation – a hierarchical geophysical approach. Aquatic Conservation: Marine and Freshwater Ecosystems 10: 209-223
+Sea and Sky Project. 2003. Sea and Sky Project: the Patagonian Shelf Seascape. Report of Workshop Meeting, The Wildlife Conservation Society, New York, 29 April – 1 May 2003.
+South Africa. 2004. Towards the creation of a marine protected area around South Africa’s sub-Antarctic Prince Edward Islands. CCAMLR-XXIII/BG/22
+South Africa. 2005. Progress towards the declaration of a large marine protected area around South Africa’s sub-Antarctic Prince Edward Islands. CCAMLR Workshop on MPAs, 29 Aug – 1 Sep 2005. WS-MPA-05/15.
+Thackway, R. 1994. Uses and misuses of regionalisations: experiences gained from terrestrial environment. Paper presented at the Australian and New Zealand Environment and Conservation Council’s (ANZECC) Marine Biogeographic Regionalisation Workshop, held in Sydney, New South Wales, 1994.  
+(available at: http://www.deh.gov.au/coasts/mpa/nrsmpa/regionalisation/background4.html)
+Tyldesley, D., (2004) Coastal and Marine Spatial Planning Framework for the Irish Sea Pilot Project
+(available at: http://www.jncc.gov.uk/pdf/Tyldesley%20Marine%20spatial%20planning.pdf)
+Vincent, M.A., Atkins, S.M., Lumb, C.M., Golding, N., Lieberknecht, L.M. and Webster, M. 2004. Marine nature conservation and sustainable development - the Irish Sea Pilot. Report to Defra by the Joint Nature Conservation Committee, Peterborough.
+(available at: http://www.jncc.gov.uk/PDF/irish_finalreport(3).pdf)
+Walls, K. 1994. The New Zealand Experience in Developing a Marine Biogeographic Regionalisation. Paper presented at the Australian and New Zealand Environment and Conservation Council’s (ANZECC) Marine Biogeographic Regionalisation Workshop, held in Sydney, New South Wales, 1994.
+(available at: http://www.deh.gov.au/coasts/mpa/nrsmpa/regionalisation/background2.html)
+

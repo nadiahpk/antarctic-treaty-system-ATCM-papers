@@ -1,0 +1,898 @@
+ 
+ 
+ 
+ 
+ 
+Introduction 
+ 
+ 
+According to Art. 16 of the Protocol of Environmental Protection to the Antarctic Treaty, the 
+Parties undertake to elaborate rules and procedures relating to liability for damage arising from 
+activities taking place in the Antarctic Treaty area. 
+ 
+ 
+The attached paper provides a summary of a report which describes and analyses historical and 
+current developments in the law of international liability to protect the environment. 
+The report was prepared by the Max-Planck-Institute for Comparative Public Law and 
+International Law (Heidelberg, Germany) for the German Federal Environment Agency. 
+ 
+ 
+The summary is submitted for information and as a contribution to the deliberations about an 
+annex on annexes on liability. 
+1 
+ENGLISH SUMMARY 
+ 
+ENVIRONMENTAL PROTECTION THROUGH THE LAW OF 
+INTERNATIONAL LIABILITY 
+ 
+A REPORT PREPARED FOR THE FEDERAL ENVIRONMENT AGENCY 
+ 
+ 
+Part 1. Introduction 
+ 
+The report describes and analyzes historical and current developments in the law of international liability 
+to protect the environment. The main focus is international treaty law, but rules of customary international 
+law as well as developments at the European level are also explored. Finally, the rules of national law 
+relevant to environmental liability in both Germany and the United States are discussed, as are 
+developments in international private law. 
+ 
+The scope of international environmental treaty law is continuously expanding, accompanied by a 
+strengthening of the material legal duties addressed not only to States but also to natural and legal persons. 
+At the same time international institutions are coordinating and overseeing more responsibilities. 
+However, enforcement mechanisms are not keeping pace with these developments. Non-compliance 
+procedures are being developed only very cautiously in isolated areas with related functions for 
+international bodies, especially for areas outside of State jurisdiction. one example is environmental 
+protection related to seabed mining, where the International Seabed Authority has assumed almost all 
+relevant competencies. 
+ 
+Absent such bodies, it is left to the States to enforce international environmental standards. However, the 
+range of enforcement mechanisms available to them is limited. The introduction of liability instruments 
+may help to close this enforcement gap. Liability provisions are found, for example, in the UN 
+Convention on the Law of the Sea, the Protocol for Protection of the Antarctic Environment and the Basel 
+Convention on the Transboundary Movement of Hazardous Wastes and their Disposal. Less far-reaching 
+liability rules are found in the convention for the protection of the marine environment from oil pollution. 
+These instruments begin to draw upon liability mechanisms that have existed much longer in national law, 
+both in German law and the much more effective rules of US environmental liability laws. 
+ 
+Liability rules serve different functions depending upon the environment they are intended to protect. For 
+State-free areas, liability can serve three functions: compensation for damage to person and property, 
+compensation for environmental damage and the enforcement of environmental standards.  
+2 
+ 
+ 
+These last two functions are closely related and the more important of the three. For areas subject to 
+national sovereignty, liability serves more complex ends. Here, the realization of an international liability 
+regime must be more closely integrated with national liability systems. The international rules may serve 
+to develop national law further, in effect contributing the pressure on States to enforce international 
+liability standards. The rules also serve a preventive function by offering incentives for environmentally 
+favorable behavior. 
+ 
+International environmental liability law is in the early stages of development. This report evaluates the 
+content and scope of various approaches within the international liability regime. It looks as well at the 
+more developed national environmental liability laws, focusing on the US system as a possible model for 
+the development of effective international rules. 
+ 
+ 
+Part 2. International Public Law 
+ 
+2.I. International Treaties and Conventions 
+ 
+The appeals to the international community in the 1972 Stockholm and the 1992 Rio Declarations to 
+develop common standards for environmental liability have met with only limited response to date. A 
+mere handful of relevant treaties are actually in force, for oil pollution, nuclear damage and space objects: 
+the Brussels International Conventions on Civil Liability for oil Pollution Damage (1969) and on the 
+Establishment of an International Fund for Compensation for oil Pollution Damage (1971); the 196O 
+Paris Convention on Third Party Liability in the Field of Nuclear Energy with the 1963 Vienna 
+Convention on Civil Liability for Nuclear Damage; and the 1972 Convention on Liability for Damage 
+Caused by Space objects. The last is unique in that it establishes State liability while the others construct a 
+civil liability system for the party causing harm. All of the treaties share the minimum goal of 
+compensating for damages from environmental risks related to a specific activity. As a rule, they require 
+an environmental impact causing injury to a. legally protected good from which injury the damages arise. 
+Civil liability is generally not only tied to the conduct of an activity that is potentially dangerous for the 
+environment but also channeled to the party who engages in it. 
+3 
+ 
+ 
+The polluter pays principle on which the conventions are based has at its core the concept that the party 
+who is both the beneficiary of the activity and the source of the damages should be liable. Liability does 
+not depend on the legality of the activity or the fault of the actor but simply on the causal relationship 
+between the environmental impact, the injury to the legally protected good and the resulting damages. 
+Transboundary damage is a condition for the applicability of several civil liability conventions and 
+proposed drafts1 whereas other treaties, such as the Council of Europe Convention on Civil Liability for 
+Damages arising from Activities Dangerous to the Environment (Council of Europe Convention) or the 
+Convention on Liability for Damages caused by the Transport of Hazardous and Noxious Substances at 
+Sea (the HNS Convention) also address damage within national boundaries2. 
+ 
+ 
+State or Private Liability? 
+ 
+It bears repeating that the primary goal of the agreements reviewed is full compensation for damages 
+arising from environmental impact and that, generally, liability is an appropriate tool to achieve this goal. 
+The ILC Draft on International Liability for Injurious Consequences Arising out of Acts not Prohibited by 
+International Law deviates from this model in aiming for State negotiations which need not necessarily 
+lead to full compensation. By contrast, the civil liability conventions build on the fact that a legally 
+protected object has been injured. They assume that the resulting damages must be made good, even if the 
+activity giving rise to the damage is legal. Thus, the ability to impose liability is determined independently 
+of the substantive provisions of environmental law. This reflects the character of civil liability generally, 
+which only arises when a legally protected good has been injured. Release from liability does not depend 
+on the existence of a public license for the activity in question. The risk of the dangerous activity is placed 
+squarely on the operator of the dangerous facility. 
+ 
+ 
+ 
+ 
+1  
+ E.g. the Convention on Civil Liability for Damage Caused during Carriage of Dangerous Goods by Road, 
+Rail and Inland Navigation Vessels, 1989 ("CRTD Convention", discussed in Part 2.I.4.4 of the Report); the 
+Draft Protocol on Liability and Compensation for Damage Resulting from the Transboundary Movements 
+of Hazardous Wastes and their Disposal (“Draft Basel Protocol”, see Report, Part 2.I.5.1.); the ILC Draft on 
+International Liability for Injurious Consequences Arising out of Acts not Prohibited by International Law, 
+see Report, Part 2.II. 
+ 
+2  
+ For the Council of Europe convention see Part 2.I.4.1. of the Report; the HNS Convention is discussed at 
+Part 2.I.2.1.2. See also the 196O Paris and 1963 Vienna nuclear liability conventions (Report, Part 2.I.6.1. 
+and 2.I.6.2., respectively) and the 1969 Brussels oil pollution damage convention mentioned in the 
+preceding paragraph, discussed at Part 2.I.2.1.1.1. of the Report. 
+4 
+How or whether States which permit dangerous activities will be made liable is regulated with great 
+variety in the conventions examined, from systems of pure civil liability3 to those where the States - rather 
+than the individual party - pay certain amounts into funds which are drawn upon to pay liability claims.4 
+other systems make States liable only when the private actor has failed to fulfill its duty to provide 
+compensation for environmental damage.5 The Brussels supplemental agreement to the Paris convention 
+on third party liability for nuclear damage goes even further: up to a certain amount the actor is liable; 
+beyond that amount the State on whose territory the nuclear facility is located provides the means to pay 
+damages. The 1997 Vienna Convention on Nuclear Liability gives the State where the facility is located 
+the option of limiting the operator's liability, provided that the State guarantee the availability of public 
+funds to cover liability up to that limit. In a third category, all States party to the convention provide the 
+means to pay damages, based on a distribution formula. However, other than the Space objects convention 
+mentioned above, none of the systems examined establishes original State liability for the damages. The 
+circumstances giving rise to liability are based upon the strict liability of the party engaging in the 
+damage-causing activity. Accordingly, the State's duty to stand in the place of the liable party depends on 
+whether the conditions for civil liability exists. Also to be distinguished from these systems are those 
+which provide for a "true" State liability. Under the latter, the State is liable when it can be proven that it 
+failed in its duty to oversee the operator and that this inadequate supervision resulted in damage6.  
+ 
+ 
+Defining Damage and the Scope of Compensation 
+ 
+Giving shape to the concept of damage raises special difficulties in the context of environmental liability. 
+Damage as such is understood to include injury to legally protected objects - such as bodily integrity, 
+economic worth, the environment it self - which injury is the result of a harmful environmental impact. 
+ 
+ 
+3 
+The 196O Paris nuclear liability convention, a.a.o., the 1969 Brussels oil pollution damage convention, a.a.O. 
+the Convention on Civil Liability for oil Pollution Damage through Research and Exploitation of Marine 
+Mineral Resources (Part 2.I.2.2.1.), the CRTD convention (Fn. I) and the Council of Europe convention 
+ 
+(Fn.2). 
+4 
+The 1971 oil Pollution Damage Fund convention (See Report, Part 2.I.2.1.1.1.), the HNS Convention, a.a.o. 
+Before it can be made so liable, a State must have issued a statement to this effect when ratifying the 
+convention.  
+5 
+The 1963 Vienna convention on nuclear liability (Fn.2) and the Convention on Civil Liability for the owners of 
+Nuclear Vessels (Report, Part 2.1.6.4.). 
+6 
+See the Convention on the Regulation of Antarctic Mineral Resource Activities (CRAMRA) and the Eighth 
+offering for a liability annex to the Antarctic Treaty Environmental Protocol, Parts 2.1.7.1 and 2.1.7.2., 
+respectively, in the Report. 
+ 
+5 
+The legal consequence of injuring a legally protected object is the duty to make good the resulting 
+damage. The international law of civil liability contains no provisions for the assessment of damage to the 
+environment. Only the national laws to be applied by national courts provide guidance, which means no 
+practical uniformity exists for this essential aspect of the international environmental liability system. 
+ 
+Assessing bodily damage poses no special problems. In determining economic damage, a distinction must 
+be made between damages that result directly from a bodily or property injury - i.e. lost of ability to work 
+- and pure economic damages which arise from the injurious incident - i.e. lost profits of a hotelier or 
+restaurateur due to a decline in tourism following an oil spill. The International Fund for Compensation of 
+oil Pollution Damage (established by the Brussels 1971 Fund convention) covers such damage to a limited 
+degree, as do newer treaties and drafts. However, these contain strict causation requirements between the 
+economic damage and the environmental incident. 
+ 
+Environmental damage goes beyond injury to life, health or economic interests. All of the treaties 
+examined impose liability for environmental damage, although the current nuclear conventions are 
+somewhat unclear on this point7. Under German law, property damage can encompass environmental 
+damage when private land is contaminated or a forest there is destroyed. Only the Council of Europe 
+Convention defines the environment as a legally protected good8. A similar definition is found in the Final 
+Report of the UNEP Working Group of Experts on Liability and Compensation for Environmental 
+Damage arising from Military Activities9. Drawing in part on Iraq's actions in the Gulf War, IO this report 
+makes the distinction - unique in international law - between environmental damage and “the destruction 
+of natural resources which occur in their natural States ... and which have a primarily commercial use or 
+commercial value ..." Examples of such damages are the depletion of natural oil reserves or destruction of 
+fish stocks to the extent they serve primarily economic ends.  
+ 
+ 
+ 
+7 
+The proposed amendments to the Vienna nuclear convention opened for signature in 1997 change 
+this situation considerably with a wide-reaching definition of environmental damage. See Part 
+2.I.6.2.2. of the Report. 
+8 
+Art. 3(1O): "Environment includes natural resources both abiotic and biotic, such as air, water, soil, 
+fauna and flora and the interaction between the same factors, property which forms part of the 
+cultural heritage and the characteristic aspects of the landscape." 
+9 
+UNEP/Env. Law/3/lnf.1., 15 October 1996 (,,UNEP Report"), discussed in Part 2.1V. 
+IO 
+This distinction is based on UN Security Council Resolution 687/1991 making Iraq liable for 
+depletion/damage of natural resources. 
+6 
+The conventions examined do not make this distinction, but this does not mean that environmental 
+damage is precluded just because commercial interests are also affected. Such reasoning would allow 
+uncontrolled exploitation of natural resources without consequences of liability. 
+ 
+The existing treaties allow compensation of costs for reasonable and proportionate measures necessary to 
+restore the damaged environment. That only the Eighth offering for a liability annex to the Antarctic 
+Treaty environmental protocol11 defines reasonableness is regrettable, given that the content of the duty to 
+restore is so directly affected by the definition of reasonableness. Questions are raised, for example, as to 
+whether it is desirable to restore the environment to its exact previous condition, if natural restoration 
+should be allowed to take its course, or if artificial measures should be allowed to interfere with the 
+natural regeneration. Here the UNEP Working Group proposes that "the basic aim should be to reinstate 
+the ecologically significant functions of injured resources and the associated public uses and amenities 
+supported by such functions''12. A closely related question, for which the answer remains unclear, is the 
+extent to which restoration encompasses the duty to bring components of equal worth to the damaged area 
+if the original components are irreparably damaged.13 
+ 
+International practice imposes liability in the amount of costs necessary to remove the environmental 
+harm and restore the damage. Several newer proposals call for monetary damages which go beyond 
+restoration costs.14 The category of irreparable damage includes permanent damage as well as damage 
+arising between the time of the incident and final restoration. The Eighth offering provides that the 
+damaging party propose an estimate of the damages to be paid and that the consultative parties decide if 
+the proposal is reasonable. 
+ 
+The conventions impose liability on the ship owner, the transporter of a dangerous good or the one 
+engaging in a dangerous activity. The treaties' respective definitions of damage and causation then 
+determine who is able to bring actions against these liable parties. Who is entitled to carry out restoration 
+measures and subsequently to make good for damages claims is generally determined by national law. 
+This leaves the question open for areas such as Antarctica or the high seas where no national law applies. 
+ 
+ 
+11 
+Fn. 6, above. 
+12 
+UNEP Report (Fn. 9), Rdnr. 66 
+13 
+he Council of Europe Convention (Fn. 2), ECE Guidelines on Responsibility and Liability Regarding 
+Transboundary Water Pollution (Report, Part 2.I.3.3.) and the Vienna Convention on Nuclear Liability 1997 
+(Fn. 7) lean toward requiring this 
+14 
+E.g. the Eighth offering (Fn. 6), the Draft Basel Protocol (Fn. 1), CRAMRA (Fn. 6), UNEP Report (Fn. IO). 
+7 
+ 
+The Eighth offering foresees liability for restoration costs by third parties and spells out requirements for 
+persons undertaking restoration measures. 
+ 
+ 
+ 
+Problems of causation 
+ 
+To relieve the difficulties often associated with proving causation when more than one actor is involved in 
+environmental damage, the conventions examined provide for joint and several liability of all polluters. It 
+is left to the individual polluter to prove the degree of injury that can be traced to him. Only the Council of 
+Europe Convention contains a procedural rule to ease the burden of proof. Article 10 of the convention 
+requires, imprecisely, that when evaluating the causal link between the incident and the damage, the judge 
+"take due account" of the "increased danger of causing such damage inherent in the dangerous activity." 
+ 
+Special problems arise in connection with long-range and cumulative damage such as involved in acid 
+rain and similar phenomena. As discussed under German law, below, the sheer number of pollution 
+sources spread over a broad geographic area make it next to impossible to determine causation. This raises 
+the fundamental question of whether liability is an appropriate mechanism for such environmental harms. 
+The conventions examined do not address the question directly. Indeed, the early liability conventions 
+were not concerned with long-range and cumulative damage but with responding to individual, 
+identifiable incidents such as oil spills and nuclear accidents. 
+ 
+ 
+ 
+Mitigating Factors/Statutes of Limitation 
+ 
+All conventions reviewed provide a limited number of exceptions to liability when the injury is caused by 
+an act of God, an act of war, acts or omissions of third parties or negligence of the injured party. Some 
+conventions exclude liability when a party acts according to law or regulation and/or takes the interests of 
+the injured party into consideration.15 Others exclude liability when the owner or transporter could not or 
+should not have known of the dangerous character of the goods handled and was not so informed.l6 
+Statutes of limitation vary with each convention. 
+ 
+ 
+ 
+15 
+Council of Europe Convention (Fn. 2), arts. 8(c) and (e); Draft sasel Protocol, a.a.o., art.4(4)(d). 
+16  
+HNS Convention (Fn.2), art.7; but cf. CRTD Convention, (Fn.1) Art.5(3)(c). 
+8 
+ 
+Limitation of Liability, Proof of Financial Responsibility, Funds 
+ 
+Only the Council of Europe Convention, the Draft Protocol for the Basel Convention and the Draft 
+Mining Code for the Law of Sea Convention envision unlimited liability. Other treaties limit liability 
+usually based on the size of the vessel or facility in question. All of the treaties examined require the 
+private operator of a dangerous facility or vessel to maintain evidence of its ability to pay for any potential 
+liability under the treaty in question. 
+ 
+The only currently operating international indemnification fund is the International Fund for 
+Compensation of oil Pollution Damage, established in the Brussels 1971 Fund convention. Payments into 
+the fund complement the liability of the ship owner under the Brussels 1969 Convention on Civil Liability 
+for oil Pollution Damage and are limited according to the size of the vessel. The Fund becomes liable only 
+when the protection afforded under the 1969 civil liability convention is insufficient to cover all damages, 
+for example when a ship owner cannot be made liable because a natural disaster or the act of a third party 
+caused the environmental impact.l7 
+ 
+ 
+Access to Information/ Environmental Groups 
+ 
+Access to information and the right of environmental interest groups to bring claims are not specifically 
+regulated by any of the international liability treaties except the Council of Europe Convention and, in a 
+very limited fashion, in the ILC draft. The Council of Europe Convention incorporates almost entirely EC 
+Directive 9O/313/EWG on Free Access to Environmental Informationl8 according to which every person 
+has the right to free access to environmental information without having to show a special interest. The 
+Council of Europe Convention creates a special right of initiative for environmental groups to seek the 
+prohibition of activities that are illegal and highly dangerous to the environment. 
+ 
+ 
+Jurisdiction/ Enforcement 
+With few exceptionst19, the liability conventions grant jurisdiction to the national courts. The oil Pollution 
+and HNS conventions grant exclusive jurisdiction for 
+ 
+17 The HNS Convention, a.a.o., which is not yet in force, provides specifically for a Fund, whereas CRAMRA (Fn. 
+6) and the Draft Basel Protocol (Fn. 1) merely require the parries to enter agreements with the eventual goal-of 
+establishing a fund. 
+18 OJ EC 1990/L/158, S.56. 
+19 The Convention on Liability for activities in outer Space (Report, Part 2.1.8.1.) provides for diplomatic channels; 
+the LOS Draft Mining Code (Part 2.I.2.4.) gives jurisdiction to the International Seabed Authority established 
+by the LOS or an international tribunal established for that purpose; and the Antarctic Eighth offering (Fn. 6) 
+provides that conflicts are to be brought before an international tribunal unless no agreement can be reached on 
+judges, in which case the national court where the polluter has his usual seat of business is given jurisdiction. 
+9 
+claims against the party causing damage to the national courts in whose territory or territorial waters the 
+damage occurs. By contrast, the nuclear liability conventions grant such jurisdiction to the national courts 
+where the emitting facility is located or where the nuclear accident takes place. The Council of Europe 
+and CRTD conventions as well as the Draft Protocol for the Basel hazardous waste convention allow a 
+choice of venue between the States where the damage occurs, where the incident originates or where the 
+damaging party resides. All conventions that establish jurisdiction for national courts require them to 
+guarantee certain legal protections such as the same access to the courts for citizens of other States party 
+to the treaty as is afforded its own citizens. Many of the conventions provide for mutual recognition and 
+enforcement of judgements? Unless the decision is the result of fraud or a faulty judicial process. Some of 
+the conventions preclude the recognition or enforcement of a foreign court's decision when it would con-
+flict with an existing domestic decision or rule of law. 
+ 
+ 
+Part 2.II. State Responsibility and Environmental Liability under 
+Customary International Public Law 
+ 
+The general rules of customary public international law apply only to relations between subjects of 
+international law and then only when the affected States have no treaty between them to address the 
+problem at hand. The possibility of competing environmental claims under civil liability treaties and 
+under the customary law of liability is especially problematic. For example, when an injured State seeks 
+reimbursement under a treaty for costs of restoring the injured environment in a civil process against the 
+polluter, it is debatable whether the injured State can rely on general rules of State responsibility. These 
+first require the defendant State to have violated a duty under international public law. Competing claims 
+under international public law and civil law could also arise if an injured private party sought damages in 
+civil law (either against a private or State polluter) and the State sought damages for his injuries under 
+international public law. Arguably, satisfaction of the private claim in such a case extinguishes any claims 
+the State had, since the State was affected only to the extent the private party suffered. 
+ 
+The customary rule of State responsibility differs from some civil liability treaties in that it requires 
+transboundary environmental impact.  
+ 
+ 
+10 
+No one treaty governs all forms of such impact and no general definition of it exists; rather separate 
+conventions govern individual problems such as marine or air pollution. Even more problematic is the 
+treatment of environmental impact in Stateless areas such as the High Seas or Antarctica, where the 
+imposition of international responsibility cannot be based upon territorial integrity. For the international 
+community to be entitled to make good on claims for environmental impact in such areas, a violation of an 
+erga omnes norm would have to occur or a universally accepted treaty would have to govern the injury, 
+just as the Law of the Sea Convention envisions for the High Seas. 
+ 
+States' treaty practice and other behavior reflect their considerable hesitancy to accept a rule in public 
+international law of responsibility for transboundary environmental impact. This reluctance does not, 
+however, allow the blanket conclusion that such responsibility has not been recognized. Since the 1927 
+Chorzow factory decision2O it is not disputed that a State which violates a rule of public international law 
+and thereby causes injury to another State is obligated to repair the damaged property to its earlier 
+condition or to pay damages. This rule is strengthened in light of the numerous treaties since then which 
+address transboundary environmental impact, by the customary principle that a State is obligated to 
+prevent significant transboundary environmental impact, and by the growing State practice o£ objecting to 
+such impacts. In spite of resistance in individual cases, the international community can be said to 
+acknowledge that a violation of an obligation of international environmental law based on treaty or 
+customary law constitutes an act that is contrary to public international law giving rise to State 
+responsibility. The environmental impact must arise from violation of a duty; the simple fact that such 
+impact has occurred is insufficient to give rise to responsibility, even in the case of ultra-hazardous 
+activities. This assumption forms the basis for the work of the ILC regarding liability for damages arising 
+from activities, which do not violate international law. However, the existence of strict liability in 
+customary public international law for environmental damage cannot be supported given the lack of 
+uniformity in treaty practice. 
+ 
+A due diligence standard is applied to determine if a duty has been violated. States are not liable for every 
+activity within their jurisdiction, but the actions of private parties play a special role in international 
+environmental law. The fact that transboundary environmental impact is often caused by private actors is 
+evidenced by the general approach of civil liability conventions to include private owners and operators in 
+the duties spelled out by the agreements.  
+ 
+ 
+ 
+20 PCIJ Ser.A.,Nr.7,1927,S.3O. 
+11 
+Thus, a State fulfills its duty if it acts with due diligence, e.g. in relationship to private parties. States are 
+also obligated to avoid activities that threaten to impact the environment in other States, such as the 
+discharge of hazardous substances into rivers or the atmosphere. 
+ 
+State responsibility does not arise if the activity in question is taken in the context of a reprisal, a sanction 
+under Chapter VII of the UN Charter, emergency, legal self defense, an act of God, and the like. 
+ 
+The legal consequences of State responsibility for transboundary environmental impact include the 
+obligation to make good the damage, either through restoration to the earlier condition (restitutio in integrum) 
+or, when that is not possible, through payment of damages. In addition to making good the material 
+damage, immaterial damages such as damage to the honor or reputation of a State shall also be 
+compensated. These consequences are generally enforced through dispute resolution mechanisms. 
+ 
+Part 3. Environmental Liability in the Law of the European Community 
+ 
+The polluter pays principle in art. 130r of the EC Treaty is a constitutional foundation of European 
+Community environmental policy. However, it is far from being realized in the form of binding 
+community-wide rules on civil liability for environmental damage. Individual non-environment specific 
+provisions on liability appear only in a handful of documents, such as the directive on product liability21. 
+Several initiatives for media-specific and comprehensive environmental liability legislation have failed to 
+advance beyond the drafting stage. 
+ 
+The product liability directive of 1985 contained the first EC norm to indirectly protect the environment 
+through introduction of strict liability. While a 1984 directive on the shipment of hazardous waste had 
+called for the Council to come up with conditions for applying civil liability to damages arising from such 
+shipment by October 1988, this deadline was removed when the directive was repealed and incorporated 
+in substance in Council Regulation 259/93 on control of transboundary movement of hazardous waste into 
+and out of the European Community. Now the regulation requires only that a system of insurance or 
+comparable financial guarantees be created. 
+ 
+The Commission's Fourth Action Program for. the Environment (1987) built upon the polluter pays 
+principle of art. 13Or by calling on the Commission to examine the possibility of civil liability for 
+environmental damage. 
+ 
+ 
+ 
+21 
+oJ EC Nr. L, 21O/1985, S. 29. 
+12 
+The resulting1989 proposal for a Directive on civil liability for damage caused by waste, amended 1991, 
+has still not been adopted.22 Its goal is to eliminate the differences in the liability provisions of the 
+Member States. That some States require facility operators to pay for environmental damage and others do 
+not could lead to the general public having to bear certain environmental costs. This in turn could cause 
+both investment and waste to flow artificially into those Member States where liability provisions are 
+most beneficial to the operators. Different national rules on liability could also lead to differing levels of 
+protection for human health and the environment. 
+ 
+The draft waste directive channels liability to the waste producer, defined as each person who produces 
+waste in connection with a commercial or industrial activity or who so treats waste as to change its nature 
+and composition. Liability is joint, strict and several and operators must provide evidence of financial 
+capacity. The draft extends protection to damages for death, personal and property injury, and to 
+environmental impacts, defined as any significant physical, chemical or biological degradation of the 
+environment. Member States would determine who is entitled to bring actions for damages, which would 
+cover measures to restore the environment as well as preventive measures. Irreparable damage is not 
+covered. Environmental protection groups are entitled to participate in specified legal actions. 
+ 
+A 1991 proposal for a Directive on waste facilities called for strict liability for environmental damages 
+and impacts caused by the waste and would have established a fund for cleanup of inactive sites financed 
+by fees from the site operators. The 1997 update to the proposal eliminated these provisions.23 The Fifth 
+Action Program for the Environment (1993) proposed a catalog of measures to protect the environment, 
+including enactment of a general Directive on civil liability for environmental darnage.24 The Program 
+contemplated adoption of the waste liability directive by 1993 and a general environmental liability 
+regulation by 1995, but neither goal was reached. 
+ 
+In isolated instances the Commission has met some of the liability goals of the Fifth Action Program.  
+ 
+ 
+ 
+ 
+ 
+ 
+22 See, e.g. Proposed Directive on civil liability for damage caused by waste, OJ Nr. 
+ 
+C/251/1989, S. 3, amended by OJ Nr. C 192/1991, S. 6, first introduced in 1989. 
+ 
+Draft Directive of the Council of the European Community on Civil Liability for 
+ 
+Damage Caused by Waste, COM (89) 282 final SYN 217 of 15 September 1989, p. 
+ 
+1. . 
+23 Proposed Directive on Waste Sites, 5 March, 1997, COM(97), lO5 final, 97/OO85 
+ 
+(S~. 
+24 (93/C 139/O1), OJ Nr. C 138 of 17 May 1993, p.- 1, 57, point 5.7. 
+13 
+For example, the 1993 Communication regarding a common policy in the area of marine traffic safety25 
+recommended that the Member States’ make it a priority to ratify the 1992 Protocol to the International 
+Convention on Civil Liability for oil Pollution Damage and the related Fund convention. The Commission 
+is currently preparing a communication on civil liability for environmental damage that will also address 
+development of a system of criminal penalties.26 
+ 
+The Commission had hoped that its 1993 Green Paper on remedying damage27 would revitalize 
+discussions on establishing an environmental liability system. The European Parliament responded by 
+calling on the Commission to propose a directive on liability for environmental damage. In 1994 the 
+Commission undertook a study of the Member States' liability systems for environmental damage and of 
+the economic effects of liability systems. And the Commission is also currently working on a 
+Communication regarding the introduction of a Community framework for civil liability for 
+environmental damage.28 The Green Paper itself indicates that an environmental liability directive should 
+include a definition of environmental damage, liability limits, restoration duties, causation provisions, and 
+specification of who is entitled to bring a complaint. The channelling of liability is identified as an 
+efficient and fair means to internalize environmental costs, and a duty to provide insurance is viewed 
+favorably. As of late 1997, however, no such general directive has been proposed. 
+ 
+Part 4. Environmental Liability in German Law 
+ 
+Environmental liability in Germany is a question of both private and public law. Under German civil law, 
+liability is three-pronged: (i) fault based or "tort" liability under 823 BGB; (ii) strict liability of 
+neighboring parties under 9O6 (2) BGB and 14 BImSchG, known as "Aufopferungshaftung" and 
+irnprecisely translated as "beneficial impairment liability"; and (iii) liability under specific laws governing 
+particular media or sources, the latter of which are regulated either as conduct- or facility-based sources.29 
+Liability for damage to air, soil and water are covered not only by the laws specific to each media, rather 
+provisions are also spread throughout a patchwork of other laws. 
+ 
+ 
+25 24 February 1993, CoM (93) 66 final. 
+26 A.a o, S. 23 point 2. 
+27 Communication of the Commission of 14 May 1993 to the Council and European 
+ 
+Parliament and the Economic and social committees: Green Paper on Remedying 
+ 
+Environmental Damage, CoM (93) 47 final. 
+28 ,,Fur eine dauerhafte und umweltgerechte Entwicklung", CoM (95)624, p.117. 
+29 Examples of media based liability are  22 WHG (Water Law),  32 ff. GenTG 
+ 
+(Genetic Technology Law),  25 ff. AtG (Atomic Energy Law), das Olschadensgesetz  
+ 
+(Marine oil Pollution Law) vom 3O.O9.1988 BGBI. 1988 I, S. 177O ff. Source based liability is found in  
+ 
+the Umwelthaftungsgesetz (UHG) (general Environmental Liability Law 
+14 
+ 
+ 
+For German liability law generally, fault based liability is the prevailing norm and strict liability is the 
+exception. In environment-specific German law this is changing. As compensation for society accepting 
+increased environmental risk, the party who engages in the high risk activity is made subject to liability. 
+The public law standards help only to reduce the risk; they do not remove the operator's liability. 
+ 
+Environmental Liability in Private Law 
+ 
+Section 823 of the Civil Code (BGB or Bürgerliches Gesetzbuch) covers liability for tortious actions 
+generally and requires injury to a right that is enforceable against everyone. Environmental damage is 
+included only to the extent it is caused by tortious human actions. 
+ 
+Strict liability for environmental damage can also arise under one of several laws dealing with specific 
+media (e.g. air) or areas of law (e.g. product liability), beginning with the general Environmental Liability 
+Law (UHG or Umwelthaftungsgesetz), in force since 1991. The UHG does not protect the environment as 
+such but regulates settlement of civil law compensation claims for material injury to person and property 
+arising from environmental impacts to air, water or soil. The party causing the environmental impact that 
+leads to injury is strictly liable for damages. The law lists facilities covered, notably those which require a 
+permit to operate. Liability, which is limited to 32O million DM, can arise for normal operation of the 
+facility as well as accidents. The default presumption that the facility caused the injury if it was factually 
+in a position to do so does not apply if the operator can show the facility was run in accordance with all 
+applicable standards. The UHG is criticized for including so few potentially liable parties and regulated 
+facilities. 
+ 
+The Water Resources Law (WHG) establishes joint and several, non-fault based liability for damage to 
+surface and ground waters, S 
+22 (1), and for damage arising from certain facilities, S
+ 22 (2). Prevailing 
+opinion is that illegal behavior is still required before liability arises, placing in question whether it is truly 
+"strict". Any party who, through discharge of a substance into the protected waters, negatively changes the 
+physical, chemical or biological characteristics of the waters is liable for damages to property. Restoration 
+is not explicitly mentioned. 
+  
+.
+ 
+ 
+15 
+Liability does not depend upon the violation of a duty or the forseeability of the damage, rather on the 
+creation of a special danger for the waters. The WHG contains no liability limits; these can only be 
+determined through general civil code provisions. Facilities listed under the UHG are nevertheless subject 
+to the unlimited liability of the WHG. 
+ 
+The Genetic Technology Law (GenTG or Gentechnikgesetz) imposes strict liability for damages arising 
+from death or injury to body or health that are based upon genetic modification. Liability for operation of 
+a facility is not specified but is encompassed in the imposition of behavior-based liability. Distinguishing 
+between traditional biotechnology and the genetic technology covered by the law remains problematic. 
+Restitution for damage to natural resources is covered in part by indicating that S  251 (2) BGB applies 
+(allowing money damages when restoration is impossible or insufficient to make good a loss). 
+ 
+The Nuclear Material Law (AtG) enforces the international Paris and Brussels Conventions on nuclear 
+liability and contains its own liability rules for incidents not so covered to create a specialized regime that 
+contrasts with the general rules of environmental liability in Germany.3O The AtG domestic norms impose 
+a modified strict liability. The owner of the radioactive material that caused the injury may be exonerated 
+if he shows the incident could not be avoided in spite of due care and that it was not caused by a defect in 
+the protective devices or their installation. The AtG provides for maximum liability and requires evidence 
+of financial security as part of the permitting process. The federal government is liable for up to 1 billion 
+DM in damages caused abroad by a domestic nuclear accident when the injured parties have no other 
+recourse. 
+ 
+Beneficial impairment liability (Aufopferungshaftung) 
+ 
+Beneficial impairment liability (Aufopferungshaftung) is governed by S  9O6 BGB, which regulates the 
+relative interests of neighboring parties. Section 9O6 applies when a legal or administratively approved 
+activity which benefits third parties or the public also impacts relations between private parties. S  9O6 (2) 
+BC;B establishes a claim for beneficial impairment liability when a piece of property is impacted by a 
+discharge (omission) typical for the neighborhood from another piece of property and cannot be prevented 
+by economically feasible measures. Air pollution, noise and vibrations are among the environmentally 
+relevant discharges covered. 
+ 
+ 
+ 
+30 This can be said as well of the oil Pollution Law (olSG) and the Brussels 1969 International Convention on Civil 
+Liability for oil Pollution Damage (Fn. 3) and its related 19?1 Fund convention (Fn. 4). 
+16 
+ 
+17 
+ 
+Independently of S  9O6 BGB, four other German laws provide for a duty to tolerate certain public 
+encroachments on private interests: the laws on Air Discharges (BImSchG), Air Traffic (LuftVG), 
+Nuclear Energy (AtG), and Genetic Technology (GenTG). These involve a more limited concept of 
+compensation, which is a substitute for judicial consideration under S  9O6 BGB of what discharges are 
+typical for a neighborhood. 
+ 
+Environmental Liability in Public Law and the Law of Public order 
+ 
+German public law claims for environmental damage compensation can be based upon official liability as 
+well as expropriation and similar encroachments, S
+ 75 VwVfG (Administrative Procedure 
+Act/Verwaltungsverfahrensgesetz) or upon appropriate application of S
+ 14 BImSchG. Expropriation 
+related damages claims are based upon violation of the lawmaker's duty to protect the constitutional rights 
+of citizens, for example by failing to improve environmental protection laws or by promulgating 
+environmentally harmful laws. Further, compensation claims for expropriation are appropriate if the 
+damaged party, as a member of the public, is required to tolerate a legally permitted discharge when that 
+discharge has an expropriating effect. 
+ 
+The German law of public order (Ordnungsrecht) relevant to the environment is found primarily in special 
+laws such as those governing liability for hazardous waste or water pollution.3l If no specific law applies, 
+the terms of each Land's public order laws take over. 
+ 
+Compensation for Injury to the Environment 
+ 
+Neither the UHG nor the GenTG refers to direct environmental damage but under both laws it could be 
+included as part of a general damages claim. Both laws adopt the basic provision of S  249 BGB, that when 
+an object is injured the impairing party is liable for restoration. Under S  251 BGB, if restoration is 
+impossible or only feasible with disproportionate cost or effort, money damages must be paid. When 
+direct environmental damage accompanies injuries to non-environmental goods, the danger exists that the 
+"disproportionality" test will be applied only to the market value of the non-environmental goods. 
+However here both 1G UHG and S  32 (7) GenTG are responsive, providing that in applying S  251 BGB, 
+costs for restoration to the previously existing condition shall not be considered disproportionate just 
+because they exceed the value of the injured objects. 
+ 
+ 
+31 
+Cf. S  36(2) KIW-/AbfG and S  3(1), 3(2), 26(2), 34(2) WHG. 
+18 
+This does not, however, lead to unlimited liability for restoration since a balance must be struck between 
+the financial burden placed on the injuring party and the interest in restoration. 
+ 
+Acting without mandate (“Geschaftsfuhrung ohne Auftrag” or GoA) by public authorities is another 
+possible route to obtain environmental damages. The German Federal High Court applies this doctrine in 
+cases where the public administration takes measures to protect the public safety against threats and then 
+seeks reimbursement for costs of the measures.32 
+ 
+Proposed Liability Laws 
+ 
+Liability for environmental damages are central to two proposals for a comprehensive environmental law: 
+the UGB (Umweltgesetzbuch)-Allgemeiner Teil, known as the Professors' Draft33 and the more recent 
+Sendler Commission Draft.34 In contrast to the existing law on environmental liability, which simply lists 
+dangerous facilities potentially subject to liability (S  1 UHG), the Professors' Draft presumes liability for 
+all environmentally dangerous facilities, for all activities dangerous to water and soil and for the transport 
+of hazardous substances. The Sendler draft also expands the scope of application of S  1 UHG. Both drafts 
+combine the approaches of facility-based and substance or media-based liability. 
+ 
+General Characteristics of German Environmental Liability Law 
+ 
+In Germany, liability for environmental damage has developed from the beneficial impairment model to 
+the more recent strict liability approach, which is regarded as better suited to influence behavior toward 
+higher standards of care and prevention of harm.35 It also recognizes at least partially the costs of using 
+"free" natural resources by discouraging, for example, the operator of a sewage treatment plant from 
+discharging a toxic substance into the water stream even though he may do so under his permit. Strict 
+liability raises the question of how to insure for damages arising from the fully legal operation of a facility 
+that nonetheless causes harm, as is possible under the UHG or WHG.  
+ 
+ 
+ 
+ 
+ 
+32 See, e.g. the F~nkenflug case, BGHZ, 4O, 28. 
+33 Begrundung zum Gesetzentwurf, UBA, 7/9O, S. 424 
+34 Kloepfer/Durner, Der Umweltgesetzbuch-Entwurf der Sachverstandigenkommission, 
+ 
+DVBI. 1997, S. IO83. 
+35 Wagner, Handbuch des Umweltrechts, Bd. 1, 2. AuQ. 1994, Haftung, column 955. 
+19 
+Newer proposals on causation differ from the approach in S  6 UHG whereby the presumption of damage 
+does not apply if the facility is operated according to law. Reform proposals tend to favor the plaintiff in 
+cases of a legally operated facility, requiring him to show just a preponderant possibility of causation. 
+ 
+The concept of compensation for injury to the environment as such poses problems because damage to 
+nature and landscape does not necessarily damage individuals' ownership interests. This raises the 
+question of whether civil liability, which is based on the framework of a two-way relationship between the 
+injured and impairing parties, can be effectively applied to compensation for environmental damage. The 
+current German discussion favors public law solutions that impose liability somewhat independent of this 
+two-way relationship, but no such comprehensive instrument is yet in place. 
+ 
+Part 5. Environmental Liability Legislation in the United States 
+ 
+In the United States, strict liability for environmental damage is well established in five major statutes and 
+finds support in decisions of the federal courts. The media protected by these laws include navigable 
+waters, soil and groundwater; air pollution is notably absent. This report focuses on the Clean Water Act 
+(CWA), the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA), the 
+Trans-Alaska Pipeline Authorization Act (APAA), the Marine Protection, Research and Sanctuaries Act 
+(MPRSA) and the oil Pollution Act (OPA), each of which establishes liability for harm to the 
+environment. Federal judicial decisions relevant to the statutes are examined as well but space limitations 
+preclude discussion of the body of non-statutory liability law in the United States. An examination of the 
+many individual States statutes on environmental liability, hazardous waste cleanup or oil pollution is 
+beyond the scope of the report. 
+ 
+United States legislation provides an advanced model for timely response to environmental damage, for 
+assessing and placing a value on harm caused to the environment and for determining appropriate 
+measures for clean-up and/or restoration. Identifying which parties are liable for the costs of each of these 
+steps is central to the statutory liability scheme and builds on the polluter pays principle. Potentially 
+responsible parties are defined more broadly in laws, which govern harm coming from a specific source - 
+e.g. an oil tanker, pipeline or hazardous waste site. CERCLA, which governs the cleanup of hazardous 
+waste sites, casts the net most widely: almost every party ever having had contact with the contaminated 
+site is potentially liable for cleanup and restoration costs, including any party who generated, transported, 
+treated or owned the waste or who owned, managed, rented or used the property where the waste was 
+stored. 
+20 
+The CWA, OPA and TAPAA channel liability to the owner or operator of the ship or facility from which 
+the oil escapes; notably the owner of the oil is not directly subject to liability. TAPAA also places liability 
+on the holder of the pipeline right of way for damage in the vicinity of the pipeline. The Marine 
+Sanctuaries Act, which governs harm to the marine environment from any source, channels liability 
+directly to the party actually causing the harm. 
+ 
+Generally the courts have interpreted the statutory standard of liability to be strict, that is, independent of 
+fault, as well as joint and several. Specific causation plays a minimal role; for example with multiple 
+defendants CERCLA does not require the government to prove that a specific harm was caused by a 
+specific party. To recover or impose cleanup costs, the government need only show that the party falls 
+under the category of potentially responsible parties, that the facility in question qualifies as a facility 
+under the law, that a hazardous substance was released at the site and that the government incurred 
+response costs in connection with the release. If the response measures were not taken in accordance with 
+the National Contingency Plan, which sets out standards for response measures, the potentially responsible 
+party may escape liability. Several of the statutes provide that parties made liable under the law can sue 
+other potentially responsible parties for contribution to the cleanup and damage liability of the plaintiff 
+ 
+Although liability is independent of fault, it is limited based on the size or the type of facility or vessel 
+from which the oil or hazardous substance escapes. For example, CERCLA liability cannot exceed 50 
+Million $US for any storage site unless one of the factors canceling the limitation apply. Liability 
+becomes unlimited when the hazardous substance is released through willful misconduct or willful 
+negligence, in violation of applicable standards, or the party fails or refuses to provide reasonable 
+cooperation and assistance requested by the authorities in connection with the release. These factors are 
+typical of those applied by the other liability acts to remove limitations and impose liability for full 
+response costs and damages. On the other hand, liability does not arise if the event giving rise to harm was 
+caused by an act of God, an act of war or an act or omission of a third party. The MPRSA differs here as 
+well, in that its liability is unlimited. 
+ 
+Pooled funds and evidence of financial responsibility are central to these laws. The Superfund, the oil 
+Liability Trust Fund and-the TAPAA Fund are financed in part by Congressional appropriation and 
+contributions from potential polluters, and variously by, e.g., taxes on chemical feedstocks (CERCLA), a 
+volume based tax on oil (OPA/TAPAA) or amounts paid by liable parties for damages and cleanup costs. 
+21 
+Amounts payable out of the funds vary with each law but cover such expenses as cleanup and response 
+measures, including overhead and equipment costs for cleanup preparedness measures, limited natural 
+resource damages, research, administrative costs, and implementation measures. Evidence of financial 
+responsibility to cover potential liability under the laws is required of every owner or operator of a ship or 
+facility before it can operate in US waters. 
+ 
+The statutes expand the definition of harm to the environment, introduce the concept of natural resource 
+damages, and establish the institution of the natural resources trustee. Damages for harm to the 
+environment are expanded beyond the US. Common law definition to include damage to non-ownership 
+use and economic interests in the environment. Liability is imposed for damage to natural resources, 
+including natural resource services. Natural resource trustees are empowered as public officials with the 
+task of identifying and assessing damage to the environment, preparing plans for restoration of damaged 
+areas and bringing actions to recover damages for harm to the environment. Only the trustees may bring 
+such actions in the public interest. Administrative regulations for CERCLA and OPA spell out in great 
+detail how the trustees are to evaluate damage to the environment and to determine whether and how 
+restoration should take place. Damage may be valued using any number of valuation methodologies, 
+including such controversial survey/hypothetical models as contingent market valuation, provided that the 
+model provides reliable results appropriate to the specific environmental incident. Restoration must be 
+reasonable in cost and feasibility. When restoration is not possible, money damages must be paid. 
+ 
+The laws may be broadly characterized as imposing significant negative incentives to prevent 
+environmental harm, in the form of very high potential liability. Prevention is also accomplished in part 
+through supplementary measures such as the TAPAA requirement for sophisticated tanker traffic 
+monitoring systems. Criticisms of the statutes vary; CERCLA being most consistently the subject of re-
+form initiatives. 
+ 
+Part 6. Private International Law 
+ 
+Private international law is a necessary partner to treaties and customary rules of public international law 
+governing liability for transboundary environmental harm. Only through civil claims in national courts can 
+individual private parties exercise legal rights or be made subject to liability in connection with 
+environmental impacts that give rise to damages abroad. The environmental context raises special issues 
+in addition to the usual questions of international jurisdiction of courts, the choice of applicable law and 
+the recognition and enforcement of decisions. 
+22 
+For example, because States or State enterprises often operate the facilities, which produce harmful 
+emissions, the limits of State jurisdiction and immunity must be addressed. Another question is whether 
+and how to consider the fact that such facilities are lawfully operated under licenses granted by the foreign 
+State. 
+ 
+The State immunity issue is covered in this chapter's first section, which covers "Gerichtsbarkeit" or the 
+authority of a State to decide questions of law within its own territory. This exclusive authority, on which 
+State immunity rests, is rooted in State sovereignty and limited only by general rules of public 
+international law and relevant treaties. of course treaties bind only their parties, but can be important for 
+specific media. For example, the 196O Paris Convention on Third Party Liability in the Field of Nuclear 
+Energy prevents a State from invoking immunity to avoid suit for State-caused emissions damage. 
+Customary public international law, on the other hand, grants foreign States immunity, but only to the 
+extent they are not acting as private parties and participating in private economic activity. This 
+determination as to capacity is made according to the law of the Forum State, since no general rule of 
+public international law exists.36 
+ 
+The chapter focuses much more on "Internationale Zustandigkeit" or international jurisdiction: the 
+determination in each case whether a domestic court is called upon to decide that specific international 
+legal dispute. For complaints involving transboundary environmental impact jurisdiction is determined 
+either by the German ZPO (ZivilprozeBordnung or civil procedure law) provisions on choice of forum, or 
+by treaties, which take precedence. The ZPO terms are comparable to those contained in the European 
+Convention on Jurisdiction and Enforcement of Judgements in Civil and Commercial Matters from 1972 
+(the "European Convention") and the so-called parallel "Lugano Convention" of 1988.37 
+ 
+The European Convention is by far the most important treaty for general jurisdictional questions. 
+However, as described in part 2 of this English Summary, special treaties dealing with individual types of 
+impact contain their own rules on jurisdiction. For example, the Paris nuclear treaty establishes exclusive 
+jurisdiction for the courts of the States party where the nuclear incident originated. Jurisdiction provisions 
+are also found in bilateral treaties, such as the agreement between Germany and Switzerland regarding 
+liability to third parties for nuclear incidents. This treaty grants exclusive jurisdiction to the court where 
+the incident originated. 
+ 
+ 36 German law looks to the goal of the State activity if the action is one for factfinding but for enforcement actions  
+ 
+considers the nature of the activity determinative. 
+37  See Part 6.III.1 of the Report. 
+23 
+The fact that these problem-specific treaties give the plaintiff no choice of forum can work to his 
+disadvantage when, for example, the complaint must be brought in the court where the polluting company 
+has its headquarters. The European Convention takes a markedly different approach by giving the plaintiff 
+a greater choice of fora. 
+ 
+The European Convention contains three categories of international jurisdiction: general, exclusive and 
+concurrent. The default general jurisdiction (art. 2) of the defendant's residence or headquarters is valid 
+only to the extent exclusive jurisdiction does not apply: Exclusive jurisdiction (art. 16.1) applies only for 
+damage to immovable property and is exercised where the damaged real estate is located. Concurrent 
+jurisdiction (art. 5.3) applies for tort claims to all kinds of property and is exercised where the damage 
+occurs, a location for which the Convention offers two alternatives, which parallel the options available in 
+German law under the ZPO. The plaintiff can chose between the place of origin and the place of impact 
+(where the legally protected good was injured). In cases of transboundary impact these two options by 
+definition mean two different loci between which the plaintiff should be allowed to choose. The European 
+Court of Justice reiterated this "ubiquity principle (Ubiquitatsprinzip)" in the Rhine nitrates pollution 
+case.38 The decisive reason for allowing choice is to guarantee the plaintiff a judicial proceeding 
+appropriate to the incident. The court nearest the incident is not necessarily always in the best position to 
+handle evidence and problems of proof. Thus the convention sets no firm hierarchy for choice of court but 
+leaves the decision to the plaintiff The ubiquity principle makes it much easier for the plaintiff to pursue 
+legal remedies and thereby benefits the victims, which are most often the same party as the plaintiff For 
+reasons of convenience, familiarity and cost, access to the courts of one's home State encourages the 
+plaintiff to pursue a legal remedy in the first place. 
+ 
+The ubiquity principle for choice of forum has a parallel for choice of laws in the "Gunstigkeitsprinzip" 
+(principle of the most favorable law) for cases involving tort-based claims for environmental damage. 
+Private international tort law operates on the basic premise of lex loci delicti commissi. However many 
+countries also adopt a rule recognized as well by German courts, that the court is to apply the law most 
+favorable to the plaintiff, choosing between the law of the State where the incident arose and that where 
+the damage occurred. 
+ 
+Choice of law problems are raised by the German distinction between environmental claims based on tort 
+law and those based on the law of relations between neighboring property owners. 
+ 
+ 
+38 
+ECJ, 3O. November 1976, Bier/Mines des Potasse d'Alsace S.A., 1976, 1735. 
+24 
+25 
+ Within this last category German law distinguishes further-between claims for tort based damage by a 
+neighbor and claims for injunctive relief. German courts apply the principle of private international 
+property law lex rei sitae - the law of the State where the damaged property is located - to neighbors' 
+injunctive claims but not to their tort-based claims. Reformers call for a uniform tort-based classification 
+which allows a choice between the laws of the State where the incident arose and where the damage 
+occurred for all claims between neighboring property owners. one argument for uniformity is that purely 
+domestic incidents would ~e treated the same as those involving transboundary environmental impact. 
+ 
+Choice of laws also affects the significant role of public licensing of facilities that cause transboundary 
+environmental damage. German opinion is largely unanimous that when the law of the (non-German) 
+State of origin applies the court must observe the preclusive effect of a valid public law permit to operate. 
+Less clear is the preclusive effect of a foreign permit when the law of the State where the damage occurred 
+is applied. 
+ 
+Part 6 closes with a survey of treaty practice on recognition and enforcement of foreign judgements. 
+Generally the treaties call for mutual recognition and enforcement unless this would violate principles of 
+the domestic legal order. 

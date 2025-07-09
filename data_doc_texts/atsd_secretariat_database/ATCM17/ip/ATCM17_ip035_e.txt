@@ -1,0 +1,1493 @@
+ANTARCTIC TREATY            
+XVIIth CONSULTATIVE MEETING            
+TRAITÉ SUR L'ANTARCTIQUE            
+XVIIéme RÉUNION CONSULTATIVE                                     TRATADO ANTÁRTICO            
+                                                              XVII REUNIÓN CONSULTIVA            
+                                                              ДОГОВОР ОБ АНТАРКТИКЕ            
+                                                              XVII КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ            
+                                                          
+                             VENICE            
+                             11-20 november 1992            
+                                                          
+                                                              XVII ATCM/INFO 35            
+                                                              12 November 1992            
+                                                              Original: French            
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+               STUDY OF THE ENVIRONMENTAL IMPACT OF THE            
+               CONSTRUCTION AND OPERATION OF A            
+               SCIENTIFIC BASE AT DOME C A            
+                                                          
+               (Submitted by France)            
+1 - Conformément aux dispositions du Traité sur l'Antarctique et de son Protocole de Madrid, notamment ses articles 3 et 8 et l'Annexe 1, en anticipant l'entrée en vigueur dudit Protocole, la France et l'Italie ont l'honneur de soumettre à la XVIIème Conférence consultative du Traité sur l'Antarctique un projet d'Evaluation Globale d'Impact sur l'Environnement dans l'hypothèse de la construction et de l'exploitation d'une base scientifique au Dôme C ("Study of the cnvironmental impact of the construction and operation of a scientific base at Dome C").
+
+2 - Il est à noter que plusicurs événements sont intervenus après la réalisation de cette étude d'impact qui, sans en changer le fond, nécessitent de revoir sa forme :
+
+- l'Italie s'est jointe au projet de station au Dôme C ; il s'agit donc maintenant d'un projet en coopération franco-italienne ;
+
+- l'architecture prévue pour la station a été modifiée ; en particulier, la structure hémisphérique a été abandonnée pour une structure cylindrique.
+
+3 - Cette étude a déjà été soumise aux parties consultatives en avril 1992 et à la dernière réunion du GOSEAC à Paimpont (France) ; elle a recueilli un avis favorable de ce comité.
+
+4 - Conformément à l'article 3, paragraphe 3, de l'Annexe 1 du Protocole, et dans les délais prévus à cet article, certains pays ont adressé leurs commentaires sur ce document. Des commentaires d'une organisation non gouvernementale ont également été reçues. Ces commentaires sont parvenus dans des délais qui n'ont pas permis leur prise en compte pour la présente Conférence consultative. Ils seront pris en considération, dans toute la mesure possible, dans l'étude définitive.
+STUDY OF THE ENVIRONMENTAL IMPACT
+OF THE CONSTRUCTION AND OPERATION
+OF A SCIENTIFIC BASE AT DOME C
+
+- CONCORDE BASE -
+
+DRAFT
+
+Comité de l'Environnement de l'Institut pour la Recherche et la Technologie
+Polaires et du Territoire des Terres Australes et Antarctiques Françaises
+COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+Study of the Environmental Impact of the Construction 
+and Operation of a Scientific Base at Dome C
+- CONCORDE BASE -
+
+- DRAFT -
+
+Drafting Committee
+
+Coordinator: P.TREHEN
+
+Research members:
+        V.BRETAGNOLLES
+        R.GENDRIN
+        P.JOUVENTIN
+        C.LORIUS
+
+Scientific/technical advisers:
+        S.GAUTIER
+        M.GODON
+        M.ENGLER
+CONTENTS
+
+I - PROJECT OVERVIEW (Initial Environmental Evaluation)
+
+A - Scientific purposes                                  p.  7
+    A1. General Background                                p.  7
+    A2. General Motives                                   p.  8
+    A3. Specific Advantages                               p.  8
+    A4. Human Biology and Medicine                        p.  9
+    A5. Conclusion                                        p. 10
+
+B - General features of Dome C site                      p. 10
+    B1. Geographical location                             p. 10
+    B2. Flora and Fauna                                   p. 12
+    B3. Earlier Human Activities                          p. 16
+
+C - Construction and Operation of Dome C                p. 16
+    C1. Construction Features                             p. 16
+    C2. Power for Heating and Operation of Equipment      p. 19
+    C3. Nature and Quantities of Products used            p. 19
+    C4. Waste                                             p. 20
+    C5. Additional data on the scientific facilities      p. 22
+
+D - Transport between Dome C, Cape Prud'homme and        p. 24
+    Dumont d'Urville
+    D1. Air transport                                     p. 24
+    D2. Surface Transport in Construction Phase           p. 26
+    D3. Surface Transport in Routine Operation            p. 35
+
+E - Intercontinental Links                              p. 35
+    E1. Maritime                                          p. 35
+    E2. Air transport                                     p. 35
+
+- 3 -
+II - ESTIMATE OF IMPACT ON THE ENVIRONMENT
+(Comprehensive Environmental Evaluation)
+
+A - Objective                                           p. 39
+
+B - Construction activities and planned routine activities
+of Dome C station                                      p. 39
+    B1. Impact of Establishment of the Station         p. 40
+    B2. Impact of Human Activities on Dome C           p. 40
+    B3. Measures Proposed to Reduce (Minimise) Impact  p. 41
+
+C - Air transport                                          p. 41
+    C1. Hobart Dumont d'Urville Link                   p. 41
+    C2. Dumont d'Urville Dome C Link                   p. 42
+    C3. Nature of Disturbances                         p. 43
+    C4. Measures to Reduce (Minimise) Impact           p. 44
+    C5. Monitoring Measures and Research Projects Envisaged p. 44
+    C6. Alternatives                                   p. 46
+
+D - Surface Transport                                      p. 46
+    D1. Recap of Planned Activities                    p. 46
+    D2. Safety, Risk Evaluation                        p. 47
+    D3. Impact on Environment                          p. 47
+    D4. Impact of Facilities Planned at Cape Prud'homme p. 51
+    D5. Accompanying Measures                          p. 52
+
+E - Conclusion générale                                   p. 57
+
+-4-
+I - PROJECT OVERVIEW
+(Initial Environmental Evaluation)
+A - Scientific purposes
+
+A1. General Background
+
+The idea of constructing and operating a permanent station in the heart of Antarctica, some 900 kilometres from the French station Dumont d'Urville originated in 1982 with the formation of a working group to establish research priorities for the French Southern and Antarctic Territories.1 Now the idea has matured and, for a variety of reasons, the project appears one of undeniable importance, fully relevant and timely with regard to its context and its objectives.
+
+A compelling scientific interest in observing how atmosphere and climate undergo change has brought both international scientific associations and governmental and intergovernmental organisations to establish and support planet-wide research programmes. The World Climate Research Programme, the International Geosphere-Biosphere Programme, the Solar-Terrestrial Energy Programme, the "Planet Earth" Mission inter alia have progressively come into being. Basic to all those programmes are measurements of geophysical parameters at a great number of points over the earth's surface. In that respect there could be no question of leaving out the 14 million square kilometres of the Antarctic continent.
+
+Experiments essential to the success of these programmes and taking advantage of the features specific to the Antarctic continent have been proposed and discussed within the international scientific community. Most of them require the existence of permanent sites in central parts of Antarctica. One such possibility is a station established at Dome C.
+
+After considering the scientific value of the project and evaluating its technical and financial implications, the French government in 1988 decided to construct an airstrip at Dumont d'Urville to support the operation and scientific use of the continental station. In 1989 representatives of all disciplines in the French scientific community took part in an exercise aimed at bringing together all proposals for specific programmes to be carried out on a permanent or temporary basis at the site. The arguments of a scientific nature developed in what follows are derived from that study. It should be clear that at this stage in our project, discussion remains general and implies no specific commitment to perform one or other of the experiments put forward. Talks are still in progress between French scientists and their foreign counterparts to refine the definition of cooperative international projects enabling the best scientific use to be made of the station's possibilities.
+
+Two main scientific motivations can be identified for the project : increasing the coverage of the world network of stations for global geophysical work, and exploiting the specific advantages of the site for geographical, glaciological, atmospheric or astronomical studies.
+
+1. Terres Australes et Antarctiques Françaises (TAAF). See Orientation à moyen terme (1983-1990) des recherches scientifiques dans les TAAF, TAAF Paris, 1983- 180 pages.
+
+- 7 -
+A2. General Motives
+
+Antarctica is a huge continent (14 million square kilometres). By the volume of the 
+ice it bears and the existence of the sea and air currents it generates and which isolate it, 
+it plays a qualitative if not quantitative role in the phenomena of transfer of energy 
+(radiation) and matter (water vapour, lesser constituents of the atmosphere) involved in 
+the meteorological or climatic "balance" of our planet. With very few exceptions, the 
+Antarctic stations are located along the coastline. A greater number of them is therefore 
+needed inland in the continent to fill out the parameters of the processes involved in 
+exchanges between surface and atmosphere the whole world over. This would yield 
+inter alia the proper conditions to study:
+
+- Exchanges between atmosphere and ice : yearly and seasonal snowfall, chemical 
+and isotopic composition of it, size of ice crystals, amount and nature of aerosol 
+precipitation and the like.
+
+- The dynamics and physical chemistry of the atmosphere in central areas of the 
+continent : altitude profiles of horizontal and vertical winds, rôle of these in 
+tropo/stratosphere transfer processes, leading to better understanding of the respective 
+shares of dynamic and photochemical effects in the formation and development of the 
+Antarctic ozone hole. Dome C will be a component of the N.D.S.C. (Network for the 
+Detection of Stratospheric Changes). The impact of man-made effects (CO2, aerosols, 
+radioactivity) on the atmosphere of the Antarctic can also be evaluated.
+
+- Paleoclimatology : ice thickness at Dome C is of the order of 4 km. Snowfall being 
+slight (5 cm/year), core sampling will yield valuable data on the temperature and 
+composition of the atmosphere at periods very remote in the past. Models of the 
+dynamic behaviour of the atmosphere can thus be established by combination of the 
+data obtained with other data from various points on the planet. This should lead to 
+better understanding of the "greenhouse effect" and of man's contribution to it, since 
+there is as yet no fully convincing explanation of the observed correlation between the 
+atmosphere's CO2 content and temperature through the ages. Obviously, such a 
+programme could be conceived and carried out only in full coordination with 
+international programmes and in close cooperation with various foreign partners.
+
+Lastly, to be expected from a permanent station at Dome C is, at relatively little 
+cost, an enlargement of seismological and magnetic coverage to study the deeper 
+structure of the earth and survey the secular changes in the geomagnetic field. These 
+are activities calling for observation points removed from coastal areas, where oceanic 
+fluctuations induce major disturbances. Dome C data in those disciplines will be 
+integrated with the material collected under the GEOSCOPE and INTERMAGNET 
+programmes.
+
+A 3. Specific Advantages
+
+Geographical location and altitude endow the Dome C station with other features 
+advantageous for further programmes in geophysics and astronomy :
+
+- 8 -
+- Tropopause very close to the surface (2 to 3 km against 10 to 13 for mid-latitude 
+stations). Lidar, sodar and radar equipment can thus be used at low power to observe 
+turbulence, winds, gravity waves and mass or momentum transfers between troposphere 
+and atmosphere.
+
+- Clear sky with low amount of water vapour (about 1 mm) above Dome C make it 
+an ideal site for astronomy in infrared and submillimetric wavelengths. On the other 
+hand an observatory using those wavelength bands needs large and powerful antennae. 
+Such a facility requires logistical support on a scale making it reasonable to have only 
+one on the continent. It is by no means certain that Dome C will be the selected 
+international site. But interferometry in the visible and ultraviolet wavelengths could be 
+carried out using little power on the spot and supply interesting astronomical data as 
+well as information on the lesser-constituent contents of the stratosphere and 
+mesosphere.
+
+- Dome C is not very distant from the geographic South Pole. Continuous 
+observation of a celestial body over long periods (of the order of a month) is thus 
+possible. This feature, already exploited temporarily at the South Pole station, if taken 
+advantage of at Dome C would provide a reference point for world astro- and 
+heliosismological network experiments.2
+
+- Dome C is very close to the unvarying geomagnetic pole in the southern 
+hemisphere. This opens up the possibility of making measurements of parameters 
+(ionospheric components, conductivity, electric fields, particle precipitation flows, etc) 
+related to the interaction of the solar wind with the magnetosphere, which would round 
+off like measurements made in coastal areas and in the northern hemisphere to provide 
+further knowledge of Sun-Earth relationships, a field in which a primordial part is 
+played by the polar regions.
+
+A4. Human Biology and Medicine.
+
+The Antarctic climate is particularly harsh. Living conditions at a station isolated in 
+the middle of the continent are quite out of the ordinary. The way in which human 
+beings adapt to  such conditions is of particular interest physiologically and 
+psychologically.
+
+Studies of this are being conducted at Dumont d'Urville. They will be taken further 
+at Dome C, where isolation, confinement and promiscuity3 are at a high pitch 
+throughout the winter. There are many headings to be dealt with. They include a study 
+on phenomena of physiological and social adaptation within small isolated groups, and
+
+2. "Astro-sismology" is the study of the structure and internal dynamics of celestial 
+bodies through observation of the variation over short periods (minutes) of their 
+brilliancy, surface velocity, etc... Spectral analysis techniques call for very lengthy and 
+if possible uninterrupted observations such as cannot easily be performed elsewhere 
+than near the earth's axis.
+
+3. Conditions similar in some respects to those obtaining during long periods in 
+spacecraft.
+
+- 9 -
+observation of disorders affecting attention, memory, watchfulness, sleep, social 
+behaviour, etc. Coverage can extend to a number of physiological subjects such as 
+adjustment to cold, immunology, chronobiology in winter, etc. The whole programme 
+can be carried out by the station doctor specially trained for the purpose.
+
+A5. Conclusion.
+
+The scientific objectives listed above are for the most part central to the issues of 
+climate change and its effects on the biosphere. Ice-ocean-atmosphere interactions and 
+where they take their place in the dynamics of the atmosphere as well as in chemical 
+and radioactive effects, and also paleoclimatology and its contribution to climate 
+evolution models, are the basic environmental research subjects for many international 
+programmes. Observations from Dome C will contribute invaluably to the progress of 
+such studies.
+
+In each of the fields mentioned, French workers are well experienced, being even 
+sometimes international trailbreakers. Their familiarity with these hostile regions is of 
+long standing. That amounts to saying that if they are authorised to carry on 
+experiments from Dome C, this will be a development fit to be called significant, 
+efficient and highly promising in terms of scientific results.
+
+As has been said above, the precise nature of the research to be done from Dome 
+C remains to be defined, despite the design of the station being based on objectives 
+which currently appear achievable and necessary. The authorities and scientific 
+community of France intend to have Dome C be a genuinely international station. The 
+only way to define a proper research programme is through cooperation with foreign 
+scientists in every discipline involved. Discussions have been engaged and will continue 
+on the subject.
+
+We are convinced that the "Concorde" station at Dome C is an essential stage in 
+the development of scientific research on the Antarctic continent. It holds more than 
+the promise of an advance in our knowledge of the role played by that continent in the 
+evolution of our planet's environment. It will uphold and strengthen the spirit of 
+international cooperation toward study of the exceptional phenomena it is or has been 
+the seat of.
+
+Roger Gendrin, Director, French Institute for Polar Research and Technology.
+
+B - General features of Dome C site
+
+B1. Geographical Location
+
+The site selected is on the upland plateau (fig. 1). It is virtually horizontal and free 
+from crevices; annual snowfall turns slowly into compact névé.
+
+- 10 -
+ROSS SEA
+                                                   Vostok (3490)
+                DOME C
+TERRE 
+AD ELIE
+GEORGE V
+LAND
+CAR PRUDHOMME
+et DUMONT D'URVILLE
+DUMONT
+D'URVILLE
+SEA
+C      E       A
+
+Figure 1 - Track from Cape Prud'homme to Dôme C
+
+- 11 -
+Dome C is at an altitude of 3 200 metres, 900 km from the sea and 1 000 km 
+from Dumont d'Urville. Its coordinates are:
+. 124° 10'E
+. 74° 40'S.
+
+Average temperatures are −25° C in summer and −50° C in winter. Snowfall ranges 
+between two and ten centimetres a year. Average wind speed is between 3 and 10 m/s.
+
+B2 Flora and Fauna
+
+The "ground" down to more than 4 000m is nothing but ice, névé and snow.
+Glaciologists have performed repeated filterings (down to 0.2mm) on Antarctic 
+snow and ice. Examination under the microscope reveals aerosols of volcanic, 
+continental, marine and even cosmic origin, brought in by the atmosphere, but never has 
+any trace of living organisms been observed. Temperatures are too low for water to 
+exist in the liquid state such organisms would need.
+
+Confirmation of such data is forthcoming from research conducted on the subject 
+by a number of international teams:
+
+"The high central plateau of Greater Antarctica is arguably the most inhospitable 
+environment on earth, with year-round temperatures well below 0° C. There is virtually 
+no free water, and since water is essential to life much of the central ice cap is sterile".
+Richard Laws, 1989 (in Antarctica, The Last Frontiers).
+
+The thick ice layer, and the absence of rocky outcrops at Dome C itself and in a 
+radius of 900 km, enable us to base the certainty that there is no form of life in the 
+current state of our knowledge.
+
+The only communities of bacteria, yeasts and lichens known at such latitudes are 
+located on northerly exposed nunatak surfaces. Certain lichens, algae and fungi can 
+develop under the surface of granite or sandstone rocks. Their rate of growth is so slow 
+as to rule out their developing elsewhere, least of all on ice surfaces considering the 
+mobility and seasonal renewal of the latter. The age of these endocryolithic lichens, 
+reportedly buried under several dozen centimetres of ice, is estimated at between 750 
+and several thousand years.
+
+Conclusion
+
+- Surveys all point to the Dome C environment as being "abiotic" in the strictest 
+sense of the term as currently accepted.
+
+- Hence there is no danger to any fauna or flora, while monitoring activity could 
+be contemplated in order to detect any never-to-be-ruled-out implantation of 
+microorganisms on permanent structures, such as living accommodation and 
+scientific installations.
+
+- 12 -
+•
+
+PREVAILING WIND
+↓
+
+SUMMER CAMP AND ICE CORING
+
+STATION
+      4000 m
+
+Figure 2a - General layout of "Concorde" station.
+
+- 13 -
+☐12
+
+
+
+                  300 m       
+☐13
+          ☐14
+
+
+
+
+1 : Quiet building (sphere)
+2 : Noisy building (sphere)
+3 : Vehicle workshop (Parcoll tent)
+4 : Stand-by generator container (winter position)
+5 : Cold lab
+6 : Active fuel tank
+7 : Fuel depots
+8 : Active brine storage tank
+9 : Active sludge storage tank
+10 : Fresh water storage tank
+11 : Water, sludge and brine tank depot
+12 : Clean area for atlosphere sampling
+13 : Balloon inflating and launching area
+14 : Seismograph, magnetometer
+
+
+Figure 2b - Station master plan
+
+- 14 -
+15:Electric-hydraulic control shelter (10x5m) and derrick
+16:Electric power house
+17:Active fuel tanks
+18:Vehicle shelter
+19:Refectory and kitchen (equipped)
+20:Sleeping quarters (equipped)
+21:Heated lab 6x2.5m
+22:Cold lab 8x2.5m
+23:Heated electronics shelter 6x2.5m
+24:Heated workshop shelter 10x5m
+25:Underground shelter (60m²) for ice-core storage
+
+Figure 2c - Master plan of summer camp/deep drilling area
+- 15 -
+B3. Earlier Human Activities
+
+A US camp from the '70s and '80s has been abandoned together with its 
+infrastructure. Depending on their condition, part of those facilities could be reutilised. 
+Such relatively recent installations are of no interest either historical, museographical 
+or cultural.
+
+C - Construction and Operation of Dome C.
+
+C1. Construction Features (Fig.2)
+
+The choice is between:
+. building undergound:
+. building above ground.
+
+The first alternative has been more popular because it enables advantage to be taken 
+of the heat-insulating properties of snow and also avoids a station "snowing itself under" 
+by being a target for drifting snow. However, experience counsels against the formula. 
+Where calories produced are not evacuated through the insulating layer, this leads to the 
+surrounding névé warming up and melting. First there are problems of infiltration. Then, 
+with time, snow compacts, the station sinks and hydrostatic pressures get the better of it.
+
+Construction above ground was therefore preferred. The formula selected involves 
+two spherical structures, as being more heat-efficient and offering less hold to the wind. 
+They will be stabilized by piles sunk into the compact névé. Being adjustable vertically by 
+means of hydraulic jacks, the piles can be used to compensate for any sinking effect and 
+avoid leaning, at the same time as to leave a passage for the wind between the ground and 
+the base of the structures, so limiting the size of snowdrifts and keeping them downwind.
+
+The two spheres are interconnected at low level by a tunnel, an arrangement whereby 
+activities involving greater risks of fire (cooking, heating, power) are kept in the noisy 
+sphere away from sleeping quarters.
+
+Design Layout (Fig.3)
+
+Figure 3 shows the structural layout used for the spheres. Equatorial platform N2 is 
+the basic structural element resting on the piles. Together with platform N1 it forms a 
+frame to brace the whole structure and take up horizontal stresses. Levels N3 and N4 are 
+built up on N2, on which the hemispherical envelope also rests.
+
+Wood is a material particularly suitable for the purpose, since:
+. it is a good heat insulator and this is indispensable to avoid cold spots;
+. its behaviour, and that of bonding agents, at low temperatures are well known, 
+since they are widely used for the tanks on board methane carriers.
+
+- 16 -
+Figure 3 - Cross section of a building
+- 17 -
+Fire Precautions
+
+The station will be built according to "passive safety" principles - i.e. with built-in 
+safety features. Each room will be protected by a combustion gas detector connected to 
+a central control locker.
+
+Operation of all equipment (electric power unit, ventilation, undulators, jack 
+pressure) and the condition of all vital features (temperatures, circuit breaking, etc) will 
+be monitored by a network of alarm generators.
+
+Power Generation, Heating
+
+Electric power for both scientific and domestic purposes will be provided by three 
+140-kVa generators (operating only one at a time) driven by kerosene-fueled 
+supercharged Diesel engines. Power distribution will be via two 3-phase undulators. 
+This will simplify design of the power station (speed control, parallel functioning) 
+while providing a reliable full-time power feed to laboratories and safety features.
+
+Heating will be provided by hot-water radiators and a ventilation system recycling 
+80 % of the air. These systems will use calories recovered by heat exchangers in the 
+power-station cooling circuit. Two kerosene-fed boilers will be on stand by. This 
+formula reduces fuel consumption for heating and hence also pollution due to on-
+the-spot combustion and to transport vehicles.
+
+Water Production, Processing of Used Water
+
+For all housekeeping purposes other than cooking and drinking, water will be 
+recycled. A process developed by La Lyonnaise des Eaux will serve to restore used 
+water to drinking standard. For psychological reasons, however, cooking and drinking 
+water will be obtained by melting snow. Estimated at about 300 litres a day, this water 
+will be produced in summer in a snow melter and stored in constant-temperature 
+cisterns.
+
+More than **90%** of waste water will thus be recycled, making for a smaller 
+volume of waste for removal and a lower consumption of fuel to melt snow. 
+Chemically-polluted water will obviously not be recycled, and will be condensed for 
+removal.
+
+Storage of sludge: Sludge residues from water regeneration will be stored in the 
+double-cased cisterns to be used for their removal. These cisterns will have thermal 
+insulation and their temperature will be maintained by a resistance.
+
+Planned Duration of Construction, Workforce
+
+Construction will last 16 months including 8 of wintering.
+The workforce will be 15 people for the summer periods and 9 in winter.
+Convoy vehicles will be handled by a team of 8.
+
+- 18 -
+C2. Power for Heating and Operation of Equipment
+
+Power required to operate the station will be supplied by generators using aviation 
+kerosene (with an additive). This fuel type has been selected by reason of its resistance 
+to cold and its high purity. On the basis of the design load factor of the electric power 
+unit, maximum overall annual consumption of the station can be estimated at 200 
+tonnes (or 250m3).
+
+The summer camp will be open about 4 months a year for deep-drilling operations. 
+Consumption (for drilling and for the camp itself) is estimated at 40t (50m3) of 
+kerosene.
+
+Heating will be by a network of hot-water radiators using heat recovered from the 
+cooling circuit for the electric-power generators. Back-up heat will be provided by two 
+boilers burning kerosene whenever insufficient heat is dissipated from the generators 
+(low loading on the power station). This means that no additional fuel has to be 
+planned for heating.
+
+Convoy vehicles and the 3 station vehicles (1 light tractor, 1 tracked loader, 1 light 
+vehicle) will add a further 50 tonnes to annual fuel consumption.
+
+Total yearly consumption for all requirements will thus be 290t (360m3).
+
+C3. Nature and Quantities of Products used
+
+Fuel
+
+Fuel will be kept in double-cased steel tanks mounted on metal skids. They will be 
+parked some distance from the base until needed for use in power generation and 
+heating.
+
+The double casing serves to prevent any leakage (the space between the jackets 
+being monitored). Volumes will be 20m3 maximum. There will be no low-level transfer 
+points (i.e. no danger of leakage through a defective valve, or because an outlet 
+was struck by a vehicle).
+
+The depot will hold fuel for 20 winter months, i.e. one year's supply plus a safety 
+margin of 8 additional months. The maximum quantity of fuel at the site can thus reach 
+420m3 (336t) in twenty-one 20m3 tanks.
+
+Lubricants
+
+Synthetic lubricants will be used for vehicles and generators. They have the 
+advantage of being more durable than mineral oils. This means smaller quantities to 
+carry and store. Used oil will be stored in a special tank pending removal.
+
+- 19 -
+C4. Waste
+
+Achieving the best management of waste, and keeping down its production, calls first 
+of all for it to be inventoried and evaluated quantitatively and qualitatively, then for 
+suitable treatment to be identified. Storage is another major aspect. Lastly, for all risks to 
+be covered, consequences of equipment malfunctioning have to be evaluated.
+
+Waste Inventory
+
+In the following table the various types of waste produced are classified into groups:
+
+
+| GROUP N° | NAME                  | DESCRIPTION                                         |
+|----------|-----------------------|-----------------------------------------------------|
+| 1        | Waste of human or     | Organic waste (kitchen,                         |
+|          | organic origin        | spoiled food), excrement,                       |
+|          |                       | effluents (kitchen, laundry)                    |
+|----------|-----------------------------------------------------------|
+| 2        | Liquid chemicals      | Photo lab chemicals,                            |
+|          |                       | lubricants, solvents                                |
+|----------|-----------------------------------------------------------|
+| 3        | Solid non-metallic    | Wood, cartons, paper, plastic                   |
+|          |                       | rubber, bottles                                     |
+|----------|-----------------------------------------------------------|
+| 4        | Solid metallic        | Cans, batteries, heavy metals,                  |
+|          |                       | copper and alloys, scrap                        |
+|          |                       | metal, empty drums, spares                      |
+|----------|-----------------------------------------------------------|
+| 5        | Radioactive waste     |                                                     |
+|----------|-----------------------------------------------------------|
+| 6        | Medical waste         | Bandages, cottonwool,                           |
+|          |                       | chemicals, disinfectants,                       |
+|          |                       | syringes, needles, X-ray                        |
+|          |                       | developer and fixer                             |
+|----------|-----------------------------------------------------------|
+| 7        | Gaseous effluents     | From combustion of kerosene                     |
+
+Table 1 - Inventory of waste
+
+- 20 -
+Amounts and Type of Wastes and Provisions for Disposal
+
+The following table shows annual amounts of wastes by category as well as the manner of their disposal.
+
+WASTE CATEGORY                   YRLY AMT.           DISPOSAL
+-------------------------------------------------------------
+SLUDGE                           
+Processed water residues         8 t                 Stored in tanks
+From foodstuffs                  6 t                 for annual export
+-------------------------------------------------------------
+LIQUID CHEMICALS                 
+Photo lab                        60kg                Stored and annually
+Lubricants                       1 t                 removed
+Solvents                         200kg               
+-------------------------------------------------------------
+SOLID NON-METALLIC               
+Wood, pulp products(packaging,   2 t                 Incinerated locally
+paper, cartons)                  
+Plastic (packaging, bottles,     15 t                Grinding,compacting,
+rubber)                                                  annual removal
+-------------------------------------------------------------
+METALLIC WASTE                   2 t                 Removal
+-------------------------------------------------------------
+RADIOACTIVE WASTE                None                
+-------------------------------------------------------------
+MEDICAL WASTE                    100kg               Stored for
+                                                        annual removal
+-------------------------------------------------------------
+GASEOUS EFFLUENTS                                       Vented (*) after
+                                                        filtering
+                                                        
+Table 2 - Waste types, quantities and disposal methods.
+
+(*) Amounts released into atmosphere from kerosene combustion.
+
+  SO2     NO2     VOC     CO      CO2     Pb      Particles
+ 0.1     40.4    6.7     16.9    3180    0       3.1     
+
+Table 3 - Values in kg/tonne of kerosene.
+The very low proportion of sulphur dioxide is to be noted.
+
+Storage of Compacted Waste
+
+Temporary storage in a dedicated compartment of one of the spheres, followed by outside loading onto sleds for removal by surface transport.
+
+- 21 -
+C5. Additional data on the scientific facilities
+
+LGGE and low-radioactivity Centre
+
+The LGGE (Laboratoire de glaciologie et géophysique de l'environnement) 
+requires:
+. 2 areas within the base totalling 42 sq m;
+. 2 compartments adjoining one another, possibly under névé since one is at minus 
+temperature and the other heated;
+. 2 compartments remote from the station with an area of 30 sq m for air sampling and 
+certain analyses.
+
+The equipment so described will have a mass estimated at 20 tonnes.
+
+Equipment and drilling fluid for a ten-year period
+
+The following list gives an idea of the nature and amounts of supplies for carriage:
+
+. 30t of drilling equipment
+. 60t of drilling fluid
+. 55t of fuel to power ice-coring operations
+. 200t for other energy requirements at the camp (cooking, heating...)
+
+Before drilling starts the following will have to be brought in:
+
+-control shelter
+-an additional Parcoll tent
+-two complementary dwelling units
+. 30t of drilling-specific materiel
+. 12t of fuel (supply for season + safety margin)
+. 30t of fuel for daily requirements
+. 12t of drilling fluid (season + safety)
+. 20t of provisions(season + safety).
+
+At the start of each campaign:
+
+. Food (15t)
+. Drilling fluid for the season (6t)
+. Fuel for the season (5t)
+. Additional fuel for daily requirements (35t)
+
+- 22 -
+Recapitulation
+
+To be brought in will be:
+
+.Prior to start of drilling and commissioning of the station 147t, i.e. the net towable load of 4 Challengers.
+.At each relief 61t, or the net towable load of 2 Challengers.
+
+Summer Camp Waste Disposal
+
+The summer camp will generate the same kind of waste as the winter camp. Provisions for disposal will be as follows:
+
+.Toilets will be equipped with incinerators.
+.Used domestic water (personal hygiene, laundry, cooking) will be kept in a tank for reprocessing at the station. Excess reprocessed water will be poured into the névé some distance from the station.
+.Solid waste will be removed (after grinding and possibly compacting to reduce volume).
+.Chemical and oil wastes will be stored in the station's removal tanks for joint removal.
+
+Volumes generated are estimated at:
+.Food sludge    4.0t
+.Lubricants     0.5t
+.Solid waste    7.0t
+
+Other Scientific Experiments
+
+The other scientific facilities will be either in the station (lidar, astronomical telescope, electronics and chemistry labs) or outside on the surface (sodar, data transmission), or else in pits dug into the ice (seismograph, magnetometer). They require no energy over and above that accounted for above.
+
+The impact of a drilling as regards fluid utilisation is minor, and by the terms of the treaty warranted by the major interest of the scientific programme.
+
+- 23 -
+D - Transport between Dome C, Cape Prud'homme and Dumont Durville
+
+Two types of transport are needed for the 1 000 km between Dome C and Dumont d'Urville:
+.air transport for personnel, mail and other supplies from the airstrip at Dumont d'Urville;
+.surface transport over a signposted route from Cape Prud'homme, the only rocky point offering access to the continent thanks to the absence of any ice cliff.
+
+Convoys supporting the construction work and later the operation of the station will leave from Cape Prud'homme.
+
+As shown on the map (Fig.1), convoys will follow a signposted route across the coastal zone, in order to avoid crevices. This route, up to D80, has been many times used by French Polar Expeditions.
+
+The present signposts, which are purely visual features, will have to be replaced and completed by radar reflectors. These will enable the track to be picked out more readily and in poor visibility. The 300 km of the coastal zone are always difficult terrain because of accumulated fresh snow and sastruga ridges formed by wind action.
+
+Two periods are envisaged:
+.construction, from 1991 to 1994
+.normal operation, starting in November 1995.
+
+D1. Air Transport
+
+The world market offers two light transport aeroplanes suitable for the uses contemplated, the De Havilland "Twin Otter" and the Dornier 228. In the type of operations intended (Dumont d'Urville-Dome C without refuelling, i.e. 2 000 km) they can take five passengers and their baggage.
+
+An average of 12 missions by the light transport aeroplane during the construction phase will be occasioned by mounting of the base. Those missions will account for 90 aircraft hours and about 20m3 of fuel.
+
+Carriage of personnel and/or cargo (mail, etc.) between Dumont d'Urville and the station in routine operation will require 23 or 24 missions a year by this aeroplane. These will account for 180 aircraft hours and about 40m3 of fuel.
+
+Facilities Required
+
+The idea is for the light transport aeroplane to be based at Dumont d'Urville where a hangar is being built (completion early 1992). The light transport will use the facilities (fuelling, navigation and approach aids) provided for intercontinental transport purposes. Crews in transit will use accommodation earlier provided for construction personnel. There is no prima facie necessity for extra facilities at Dumont d'Urville to support service to Dome C (fig.4).
+
+- 24 -
+N
+
+1:Plane hangar
+2:Watch-tower
+3:VOR-DME
+4:Vehicle shed
+5:Tanks
+6:Living accommodation
+7:Power Station
+8:Electric cables
+(Pétrel/Lion)
+
+ILE DU LION
+ ILOTS 
+CASTOR et POLLUX
+
+ILE COUVA
+100m
+ILES BUFFON
+
+Figure 4 - Location of structures in vicinity of runway
+
+- 25 -
+In-Service Periods of Airstrip
+
+The runway will be open for the arrival of the first C-130 with the airstrip operation team and will close with their departure at the end of the campaign. It will be closed to C-130s for the Adélie penguin breeding season.
+
+Availability to the light transport will be the same with no intermediate closure, since it can use only the western end of the runway and thus avoid overflying the nesting areas.
+
+Transport Facilities for Construction Phase
+
+Carriage of construction personnel with one aeroplane taking 5 pax + baggage: 12 or 13 missions in the first 16 months of construction work.
+
+First year:
+.November: 3 round trips between Dumont d'Urville and Concorde Base for assembly personnel.
+.Intermediate period: 2 supply missions.
+.February: 1 mission to bring back non-wintering personnel.
+
+Second year:
+.November: 2 missions to carry assembly personnel
+.5 missions to bring out assembly personnel and take in wintering staff.
+
+D2. Surface Transport in Construction Phase
+
+Transport media:
+
+.Tractors and sleds as follows
+.Kassbohrer PB 270 + 2 sleds. Traction capacity 28 tonnes (field performance 22 tonnes).
+.Caterpillar "Challenger" C 65 + 3 sleds. Traction capacity 48 tonnes (effective 40 tonnes).
+
+- 26 -
+Typical Convoy
+
+.1 PB 270 + 2 sleds: 20t. Accommodation unit + fuel.
+.1 PB 270 + 2 sleds (safety margin): 20t.
+.5 Challenger C 35 + sleds: 40 x 5 = 200 tonnes
+Estimated convoy ground-trip fuel: 23 tonnes.
+Total of loads for carriage during construction: 1 433 tonnes, including 366 of fuel, 10 of expendibles (detergents, oils), 80 of foodstuffs.
+Convoys required:
+7 convoys of 7 tractors and 19 sleds.
+Fuel consumption: 23 x 7 = 161 tonnes.
+
+Formation of Convoys
+
+Each convoy will have 7 tractors, one for convoy service (accommodation units, part of trip fuel) and the others for station components during the construction phase, then supplies in the operational phase. Some of the tractors will be fitted with 220V alternators (3 to 4 kW) driven by a power pick-off from the engine. This feature will serve to keep certain containers from freezing. Sleds will have 2 or 4 skids depending on load density. Skids will be polyethylene-impregnated for smoother sliding and avoidance of snow adhesion. Maximum net load per sled will be 20 tonnes. Individual loads can be of varying kinds such as:
+.6.6ft (9m3),10ft or 20ft ISO containers,
+.insulated containers maintained above freezing point,
+.insulated containers cooled as required by convoy position (temperatures being above -20°C for part of the route).
+.separate boxes (for which side panels will be fitted to the sleds).
+
+Round-trip fuel for such a 7-tractor convoy is estimated at 23 tonnes. This fuel will be stored in special tanks which can be part emptied. The different tanks for station supply will only travel full. The trip-fuel tanks will have a volume of about 8m3 (6.4t) and will be towed (in part) by the vehicle towing the accommodation units and by other convoy vehicles. It will be possible to deposit empty tanks half-way together with a full tank for use on the return leg. All tanks will be brought back to Dumont Durville. Tank design will be on accident-proof principles, siphoning being impossible and inlets/outlets bunched at top level. Transfer of fuel to vehicle tanks will require an electric or hand pump.
+
+These provisions should together make the construction of intermediate camps unnecessary, although each regular or occasional depot on the route will be visually signposted.
+
+- 27 -
+Personnel accommodation will be in isothermic units akin to truck bodies for cold-
+storage transport. Three in number, these units will be respectively divided into four 
+bedrooms (2x2), kitchen and refectory, bathroom, generator shelter and workshop.
+
+The generator will permit heating and cooking without use of propane. Another 
+purpose will be to keep containers above freezing point during stops. Lastly, it will 
+maintain engine temperature enough to avoid cold starts. Water requirements will be 
+met by melting snow using heat from the generator cooling circuit.
+
+Waste produced by convoy personnel (other than washing and laundry water which 
+will be evacuated into the névé) will be carried for removal. Solid wastes will be 
+compacted. Chemical liquid wastes (used lubricating oil) will be carried in a removal 
+tank. Incinerator toilets will eliminate the problem of organic waste of human origin. 
+Estimated volumes of waste are:
+   . washing water: 300 litres/day for 8 people
+   . used engine oil: 800 litres for the campaign
+   . compacted waste: a score of 60-litre cartons
+
+Handling and Transport Operations
+
+Convoys will form at the point called Cape Prud'homme on the coast of the 
+continent. This is about 5 km from Dumont d'Urville base (fig.5). Cargo for Dome C 
+will not come via Dumont d'Urville but will be unloaded directly on the coast by means 
+of a pontoon. The pontoon is already stationed at Dumont d'Urville and is routinely 
+used each year for similar operations. It is assembled from 18m2/6t modular 
+components. In its current configuration maximum load is 35 tonnes. We intend to 
+procure additional modules taking this to 50 tonnes.
+
+Loads will be brought ashore at the point called Prud'homme 4 (fig.6); some 
+landshifting work will be required to free an area sufficient for a hoisting device 
+(electric, fixed or mobile - choice not yet made). Likewise, an access will have to be 
+prepared to the point named "coastal depot" (see paragraph "C 14 unloading 
+operations"), which is where initial consolidation of shipments takes place. Shipments 
+will then be taken to D10 (where a flat cleared area offers room to manoeuvre) and 
+convoys will be formed there. Loads picked up by the hoisting device will be placed 
+directly onto the convoy sleds. Those too heavy for this will be transferred by the ship's 
+crane to rough-duty sledges brought for the purpose onto the pontoon. These will be 
+hauled off the pontoon and towed to D10. Transfer to convoy sleds will be 
+accomplished using the "ditch" (fig.7).
+
+- 28 -
+Figure 5 - Geology Point archipelago and Cape Prud'homme
+
+- 29 -
+Rock
+50m
+
+Prud'homme 4
+N
+
+Figure 6 - Cape Prud'homme present state
+
+- 30 -
+• Tractor
+Ditch cut with bulldozer blade                  Convoy sled                  Néve level
+Tank or heavy load
+
+Figure 7 - Loading and unloading of mobile trinks by "ditch system"
+
+- 31 -
+Special Case of Fuel
+
+There was a choice among several alternatives for moving fuel. The conventional way is to have a depot at the coast (C.Prud'homme) supplied by ship, with dedicated tanker sleds picking up fuel from the depot by pump. This would be followed by the reverse operation at Dome C.
+
+We have opted (in a technical approach already partly described at paragraph C3) for an intermediate solution whereby semi-mobile tanks with a capacity of 20m3 (16t net - 19t gross) are used at Dome C. They will be fitted with handling skids to facilitate local movement whether at the station or at the coast. Their mobility also permits (again by means of the "ditch system") loading them onto heavy sleds, or unloading them therefrom, depending on where they are, and thus use them also as transport tanks. The coastal depot can then consist partly of already-existing fixed tanks and partly of "site" or "mobile" tanks.
+
+Unloading fuel from the ship must be done, depending on its position, through a hose either laid over the ice, or floating, or suspended from a hawser; this fits in with current practice at Dumont d'Urville. The only possible hazard is failure of the hose. To counter it, pumping is always watched by someone able to stop the operation by remote control, and spillage is no more than the volume of the hose (about 100 litres). There is no need to say that the equipment currently used is highly reliable.
+
+The alternative(*) would be to fill tanks on the pontoon and carry out a shuttle operation between ship and shore. Transfer through a hose would then be only between pontoon tank and coastal depot facility. The length of piping would be at a minimum and the hazard reduced. It calls on the other hand for many hours of work.
+
+(*) as understood by the Madrid Protocol, Annex I: Environmental Impact Assessment.
+
+Facilities to Keep Equipment Serviceable
+
+Convoy materiel comprises trailers (sleds), cisterns and tractors. No shelters will be provided for the sleds and cisterns, which will remain in the open (tethered against the wind) as is the practice currently for materiel already on site. But for the tractors, considering their number and foreseen utilisation, we intend to provide an underground shelter (fig.8) in the D21 area for wintering of the seven tractors. D21 is 10 km from Cape Prud'homme in an area void of any animal presence. Construction of the shelter will thus have no direct impact on fauna; nevertheless, the route between D21 and the landing point at Cap Prud'homme, and the round-trip frequencies, will have to avoid bird concentrations and keep the distances required for the well-being of such fauna.
+
+- 32 -
+Plan view
+
+
+A
+
+
+B|               |Entrance   Exit|               |Entrance   Exit|               |B
+                                                     
+A
+
+
+Cross-section A-A
+
+
+1:2m
+ 0         2[?]         4,00
+Φ 6.0         1/3         B
+
+
+Longitudinal
+section B-B
+
+
+Trench re-opened every year
+
+
+           Door                         Door
+Surface
+
+
+Figure 8 - Underground shelter planned at D21
+
+- 33 -
+We also plan to erect a maintenance workshop of about 50 square metres (10x5m) 
+on the site of the caravan currently at Prud'homme; it will provide safe housing for 
+some spares and the oil needed to operate the vehicles.
+
+Energy Requirements
+
+We noted above that each convoy will need 23 tonnes. Thus it will take 140 to 160t 
+of fuel to bring in the station equipment and 45t each year for relief operations.
+
+Recapitulation of Masses to be Unloaded
+.Station as a whole                                  1 338 t
+.Fuel tanks (26 each 20m3, 3t/u)                      78 t
+.Challenger tractors (1 already in area)              88 t
+.Additional PB 270 tractor                             6 t
+.Heavy sleds (8 additional sleds)                     30 t
+.Sleds (6) for light loads                             12 t
+.Sleds (6) for convoy fuel tanks                      18 t
+.Convoy personnel accomodation units (3)              20 t
+.Fuel for 6 round trips                              150t
+.Underground shelter                                   5 t
+.Coastal shelter                                      10 t
+                                                     1 805t
+
+Safety Facilities Implemented
+
+Safety of personnel depends firstly on proper equipment of living quarters 
+(generator apart, materials classified M1 or M0); additionally, sleeping quarters are 
+segregated from the kitchen unit which is segregated in turn from the generator unit.
+
+In the event of a convoy incident: fire, injury - the light aircraft may be called 
+upon. Residual hazard will depend only on how fast assistance is required.
+
+The aircraft will be a light twin, and for obvious reasons (landmarks, repetitivity of 
+flight plans, possible proximity of vehicles, etc) its route will closely follow that of the 
+convoy. In case of accident or forced landing, it will be possible to call upon convoy 
+vehicles if the aircraft has landed not too far (tractors can uncouple to travel faster) or 
+to request assistance from a country with airborne means (USA), as is current usage 
+and, of course, on a basis of reciprocity.
+
+As regards protection of the environment in the event of a convoy incident, 
+that to be feared is overturning of a sled, in particular one carrying a fuel tank. 
+To guard against this, tanks will be double-walled and fitted with anti-siphoning 
+devices on all orifices.
+
+- 34 -
+D3.Surface Transport in Routine Operation
+
+Personnel transport:
+.15 persons wintering
+.30 people present at relief times
+.Maximum capacity 40 persons in summer.
+
+Round trips:
+.7 to 9 starting in October
+.7 to 9 at summer end (February)
+.4 or 5 in between,
+or 18 to 23 missions each year over 4 months.
+
+Surface transport:
+371 tonnes, including:
+.270t of fuel and other products
+.40 tonnes of food supplies
+Two convoys each year.
+
+E - Intercontinental Links
+
+E1. Maritime
+
+The essential bulk of material, fuel and provisions will be landed at "Prud'homme 4"
+where a pontoon, gantry hoist and storage facilities will be available.
+
+Routinely this will not interfere with operations at Dumont d'Urville base.
+
+E2.Air Transport
+
+Australia - Dumont d'Urville (personnel only, apart from mail and emergencies).
+
+The commercial airport nearest to Dumont d'Urville is Hobart, 2 700 km away. The
+aeroplane projected for the link is the C-130 Hercules E or H. Its choice was dictated by
+several features, prominent among which are reliability and a good endurance/runway
+length ratio (with what that means in terms of take-off mass), runway length being taken
+both at take-off and landing. Point of no return will be only one flight hour from Dumont
+d'Urville, which is adequate for flight safety, allowing the crew to decide at a very late
+stage to turn back in thickening weather. Only top-up refuelling (6m3) will be needed at
+Dumont d'Urville. "Payload" on this run will be 20 people and baggage.
+
+- 35 -
+Several missions a year will be laid on for station personnel. The construction phase 
+will involve bringing in at the start of the season:
+. Airstrip operation personnel - 3 (not actually specific to Dome C);
+. Crew for the light transport aeroplane - 6;
+. Surface convoy personnel - 8;
+. Construction crew - 15.
+
+The total of 32 means two C-130 missions at start of season and two at the end.
+
+Once the base is operational, the requirement will be to bring in at start of season:
+. Airstrip personnel - 3;
+. Light aircraft crew - 6;
+. Surface convoy personnel - 8;
+. Station summer maintenance technicians and scientific staff (for deep drilling, 
+seismology,etc) - maximum 40;
+. Relief staff for wintering at Dome C - 15 (not necessarily at start of season but with in-
+between trips or the relief ship. Likewise for their return journey).
+
+To sum up, the maximum maximorum is 72 people, or 3 to 4 missions at each end 
+of the season.
+
+- 36 -
+II - ESTIMATE OF IMPACT ON THE ENVIRONMENT
+(Comprehensive Environmental Evaluation)
+A - Objective
+
+The purpose of this first phase of the study is to estimate impact according to the scale established in the Antarctic Treaty framework with its three degrees:
+
+"little or no impact
+minor or transitory impact
+more than minor or transitory impact"
+
+The activities implied directly or indirectly by the setting up of the station at Dome C cannot all be envisaged in the same way, for they have very different impacts. I propose therefore a distinction whereby they are distributed into four categories:
+
+a) Dome C station construction activities
+b) Dome C station intended routine operation
+c) Transport between Dumont d'Urville and Dome C
+d) Scientific activities calling for major logistic support.
+
+The assessment presented in this document of impacts upon the environment items from French experience with the operation of a base in Antarctica and from our knowledge of living conditions on that continent. Scientists and engineers were consulted to cover all aspects of possible adverse effects on our environment. This document therefore reflects the current state of our knowledge, without prejudice to the review process which will continue throughout the lifetime of Concorde Base.
+
+This environmental approach to the set of activities connected with the dependence between Dome C and Dumont d'Urville Base offers an example rather different from earlier impact studies. It is intended to complete the monitoring work now in progress after the impact studies for the Terre Adélie airstrip; in particular it should provide details of the intensity and chronology of air traffic. The opportunity should be taken to stress the serious approach to work in the environmental field and provide input to the methodology of Antarctic impact studies as covered in Annex I to the Madrid Protocol (Art.3, 2).
+
+B - Construction activities and planned routine activities of Dome C station.
+
+The arguments in favour of choosing Dome C to set up the "Concorde" base are provided in the scientific justification drawn up by R.Gendrin. The main points are: thickness of the ice sheet, altitude favourable to study of ionospheric features, conductivity, electric fields, etc, related to the interaction of solar wind and magnetosphere. These different observations have always been made separately, and Dome C is the only site where they can be carried out together in optimum conditions.
+
+- 39 -
+Impact on Fauna and Flora
+
+It is now beyond doubt that the environment of Dome C and that of the plateau between Dome C and Cape Prud'homme is entirely abiotic. There is thus no reason to consider an impact of human activity on a non-existent biological element. Impact is therefore nil.
+
+B1. Impact of Establishment of the Station
+
+Design concept is dictated by two main concerns: safety and reliability; thus, the separation into "modules" designated for the various purposes - research, accommodation, heating, etc - provides excellent safety for the occupants.
+
+The constructions in view will be pile-mounted. This choice was made on purely technical grounds, in particular the concern to avoid the problems of leakage/seepage and progressive subsidence to be anticipated with buildings having an "underground" basement.
+
+Erection on piles, and the choice of wood as building material, will enable the buildings to be kept from "leaning out of true" and also provide good heatproof and damproof qualities.
+
+A final aspect relates to the cultural value of previously existing installations (cf. Madrid Protocol, Annex I, Art.3, 2i). The US camp dating from the 1970's and 80's will remain and could possibly be re-used. Expert opinion is that it has no cultural or historic value calling for particular attention.
+
+B2. Impact of Human Activities on Dome C
+
+In general, the technological options minimise energy consumption and emissions into the atmosphere, while several modern processes cut down the volume of wastes.
+
+Thus it appears from this review of human activities that the only foreseeable consequences take the form of gaseous emissions due to the use of kerosene for heating and vehicle power. Mainly involved is CO2. It is noteworthy that CO and NO2 emissions are very low and that emissions of sulphur dioxide into the atmosphere are negligible.
+
+Wastes are removed using different methods offering very high reliability. Residual sludge, solid, metallic and medical waste, residual liquid chemicals and plastic are stored separately and removed yearly, while gaseous effluents are filtered before venting into the atmosphere and non-metallic solid wastes, wood and wood-pulp products, are incinerated.
+
+- 40 -
+It can thus be asserted that pollution from these activities is minor and in any 
+case transitory. The one exception is the indispensable use of drilling fluid which 
+remains at the foot of the borehole. This minor impact is warranted on scientific 
+grounds.
+
+B3. Measures Proposed to Reduce (Minimise) Impact
+
+.Removal of wastes in optimum safety conditions to Dumont d'Urville, then 
+Australia.
+
+.Use of several processes to reduce energy consumption: ventilation and recycling 
+of 80 % of air, recovery of heat from exchangers in the cooling circuit.
+
+.Lessening of waste production: recycling of 90% of residual water by a modern 
+process, use of recycled water for maintenance and technical services.
+
+C - Air Transport
+
+Bringing "Concorde" base into service means a significant increase in traffic in the 
+shape of travel both from Hobart and then onward to the base. Coming as it does on top 
+of activity specific to Dumont d'Urville base, it falls under the heading of the cumulative 
+effects considered by the Madrid Protocol, which call for evaluation and reduction by 
+means of appropriate measures.
+
+Personnel will be flown from Hobart to Dumont d'Urville on an intercontinental link, 
+and onward to Dome C in a light transport aeroplane.
+
+Our distinction between those two types of air transport is based on the differences in 
+flight frequency and seasonal distribution and on their very different "footprints" on the 
+ground in terms of take-off and landing distances and approach and climb-out paths at 
+Dumont d'Urville.
+
+C1. Hobart Dumont d'Urville Link.
+
+The aircraft selected for this link is the C-130 Hercules. Requiring as it does the 
+whole length of the runway, it cannot avoid spaces where birds are very abundant. We 
+have here undeniably a potential source of significant lasting impact, in view of flight 
+frequency and bird locations:
+
+- 41 -
+Populations (1990/1991)
+
+Location      Adélie     Skua     Snow     Cape     Fulmar
+              penguin             petrel   pigeon           
+-------------------------------------------------------------
+Petrel        9310        11       441      106      60+-
+Bernard       3916         5       208      191       -
+Lamarck       1056         1        32       17       -
+Rostand       3548         3        71       23       -
+Carrel        3346         8        25        1       -
+
+Table 4 - Bird locations
+
+Construction of Dome C
+. 2 round trips in October
+. 2 round trips in February
+The above four missions are additional to flights needed by Dumont d'Urville base staff
+(3 to 4 round trips).
+
+In Routine Operation Phase
+
+There will be 4 round trips in October and 4 in February, again over and above the
+missions required for routine activity at Dumont d'Urville base (3 to 4).
+
+Construction (Overall Traffic Estimate)
+
+. C-130   - round trips (for Dome C): 2 in October, 2 in February.
+          - additional fuel: 24m3
+          - Dumont d'Urville round trip.
+
+Operation (Annual Estimates)
+
+. C-130   - round trips : 2 in October, 2 in February
+          - additional fuel: 48m3.
+
+C2. Dumont d'Urville Dome C Link in Construction and Operation Phases
+
+Construction Phase:
+. Light twin    - round trips: 12
+                - fuel consumed: 20m3
+                - hours flown: 90
+
+Operation Phase:
+. Light twin:   - round trips (Dome C):    24
+                - fuel consumed :      40m3
+                - hours flown:         180
+                - Dumont d'Urville round trip.
+
+- 42 -
+A light transport aeroplane, choice of which is not yet final, will be used to carry 
+personnel during construction work and later during routine operation of the station.
+.12 round trips will be needed to carry the 15-person workforce for the construction of 
+Dome C station;
+.22 to 24 round trips yearly will be needed for the transfer of 60 people in the subsequent 
+period of routine operation.
+
+The impact of this air traffic is essentially local on the immediate environment 
+of the Dumont d'Urville airstrip.
+
+Two types of consequence are to be feared, one connected with periods of activity, 
+the other with climb-out and approach paths.
+.Between October and February the various breeding species, Adélie penguins, 
+petrels, Cape pigeons and skuas go through the phases of mating, laying, brooding, 
+feeding of young, etc, which are not all equal in sensitivity to disturbance or in 
+importance.
+.The distribution of breeding sites makes the southern end of the strip more 
+sensitive, and also dictates mandatory climb-out paths (fig.9).
+
+C3.Nature of Disturbances
+
+1) Disturbance caused to Adélie penguins by ground movements: landings, take-offs, 
+movements of safety and handling vehicles.
+This can lead in the breeding season (December, January, February) to desertion of 
+eggs or chicks; and to abandonment of breeding sites in periods of return to land (October, 
+November).
+
+The hazards are confined here to the immediate neighbourhood of the airstrip; 
+however, we do not know the minimum distances for tolerance by the various 
+species present.
+
+2) Disturbance caused to birds by approach and climb-out maneouvres.
+
+Low-level (40m) overflight can generate panic reactions in bird colonies, with 
+consequences impossible to quantify for the moment. Possible responses of birds to 
+overflight are liable to vary according to species and, within each species, according to the 
+class and physiological condition of individuals. Very few objective observations of 
+disturbances are available. It is nevertheless possible to envisage a certain number of types 
+of consequence.
+
+Although our present knowledge of the reactions of animal populations to the various 
+kinds of activity envisaged is relatively poor, it is nonetheless sufficient to base proposals 
+for measures to minimise the foreseeable impact and for research to yield a more accurate 
+idea of the nature of short- and medium-term disturbances (Table 5).
+
+- 43 -
+Type of activity       Adélie penguin colonies                        Impact
+--------------------------------------------------------------
+Low-level             .Brooders panic and desert eggs               Death
+(40-m)                .Feeding parents desert chicks                Death
+overflight            .While colony setting up:                     .Flight,abandonment
+                       repeated panic                                 of site
+                                                        .Disturbance to
+                                                         breeding cycle
+                      .At end of breeding period:                  .Increase in death
+                       early break-up of colony                      rate of young
+-------------------------------------------------------------
+Table 5
+
+C4. Measures to Reduce (Minimise) Impact:
+
+Intercontinental flights Hobart - Dumont d'Urville:
+.Runway closed to intercontinental (C-130) operations during Adélie penguin 
+breeding periods (late November, December, January).
+.Preferred northerly heading for take-off when wind permits, and positioning of 
+acoustic barriers.
+.Optimisation of approach and climb-out paths (fig.9).
+
+Flights to/from Dome C:
+.Such flights restricted essentally to scientific purposes.
+.Use of runway portion towards Cuvier I, devoid of colonies.
+.Ban on low-altitude (200m) overflight of any colony or nesting site. This provision 
+could be reviewed in the light of scientific research undertaken on the subject.
+.Night curfew on landings and take-offs.
+
+C5.Monitoring Measures and Research Projects Envisaged
+
+An extension to the monitoring programme conducted by P.Jouventin since the 
+construction of the Terre Adélie airstrip will be required.
+
+Two themes could be selected:
+- Analysis of bird behavioural responses to the different forms of air traffic (in flight and 
+on the ground)
+- Medium-term demogtaphic effects of the use of the runway by the two aeroplane types, 
+C-130 and twin.
+
+- 44 -
+Archipel de 
+Pointe Géologie
+
+(Geology Point 
+Archipelago)
+
+100m 
+scale
+
+Limit of penetration 
+by icebergs 
+drawing 20m
+
+TAKE-OFF 
+HEAVY AIRCRAFT 
+WIND PERMITTING
+
+TAKE-OFF 
+LIGHT AIRCRAFT
+
+TAKE-OFF 
+HEAVY AIRCRAFT
+
+H1       H2       H3       H4       H5
+1 2 3 4 5  1 2 3 4 5  1 2 3 4 5  1 2 3 4 5  1 2 3 4 5
+1: Adelie Penguin     4: Cape Pigeon
+2: Skua               5: Antarctic Fulmar
+3: Snow Petrel
+
+Figure 9 - Take-off paths of light aircraft (Twins) and C-130. Histogram heights show 
+the distribution of the breeding populations presented in table 4.
+
+- 45 -
+The results of those studies will serve to improve the effectiveness of the measures contemplated.
+
+C6.Alternatives
+
+A number of solutions other than those studied here are possible:
+
+Sea travel of personnel to Dumont d'Urville
+
+The idea is a negative one since operations of the light twin would be shifted into November and December, i.e. the breeding period with very bad effects on fauna, and Dome C station construction would last longer.
+
+It also jeopardises accomplishment of the scientific programmes by reducing the length of summer campaigns.
+
+Transport via Christchurch (NZ), MacMurdo and Dumont d'Urville
+
+Personnel would take commercial transport as far as Christchurch and then the US-Italy-NZ pool with which we shall associate. MacMurdo - Dumont d'Urville would also be flown with equipment shared by several participants. This would require a counterpart such as taking over a route sector (e.g. Christchurch-MacMurdo for a period). That would make little difference to the numbers of landings at Dumont d'Urville and of flights from there to Dome C. On the other hand the heavy aircraft would have no fuel requirement at Dumont d'Urville.
+
+Although indeed a possibility for personnel, this formula is not entirely satisfactory since it does not do away with the flights by light twin from Dumont d'Urville. Nor does it offer any advantage over the preceding one, since the fuel storage problem is shifted from Dumont d'Urville to MacMurdo, while total energy consumption on the Antarctic continent is increased, thus accentuating the cumulative effect of activities.
+
+D - Surface Transport
+
+D1.Recap of Planned Activities.
+
+.During construction phase, seven 7-tractor convoys (1 805 tonnes).
+.Each year of operational phase, two 7-tractor convoys carrying scientific materiel, fuel and provisions and bringing out materiel and wastes.
+
+- 46 -
+.Facilities required at geographical point of convoy departure/arrival: Cape Prud'homme
+
+- one mobile landing pontoon
+- one hoisting device
+- one maintenance workshop 10 x 5m = 50 sq m
+- one underground shelter for 7 tractors (several km inland).
+
+D2. Safety, Risk Evaluation
+
+Means to achieve maximum accident prevention in surface transport are implemented for unloading operations and in the organisation of convoys:
+. use of two complementary tractor types, tank design to avoid emptying in the event of 
+overturn (anti-siphon system),
+. marking of route, possibility to call on the light aeroplane.
+
+This type of transport thus appears extremely safe and not at all costly in 
+energy.
+
+D3. Impact on Environment
+
+Site preparation at the Cape Prud'homme unloading point is one of the matters 
+requiring the most careful handling in order to preserve the wealth of the spot (fig.10).
+
+Present state of fauna
+
+                Adélie       Skua     Snow petrel
+--------------------------------------------------
+Nunatak           1511         2           7
+Miscellaneous     202          1           -
+(nr. Petrel)                        
+Governor          1752         3           2
+Prud'homme        560       0-1           -
+
+Table 6.
+
+- 47 -
+Location of colonies
+
+
+                                                          COASTAL SHELTER / WORKSHOP
+                                                          (on caravan site)
+
+
+                                                                               X
+                                                          Former track (abandoned)
+                                                                               Chosen alternative
+
+
+                                                                               PROPOSED
+                                                                               (unloading point embarked)
+                                                                               Rocky area to be embarked
+
+
+Figure 10 - Track and platform location selected as alternative to the original track (dotted lines).
+
+- 48 -
+-49-
+Figure 11a - Cape Prud'homme 
+Projected works.
+
+AXIS OF SECTIONS
+
+Platform
+Hoisting device (gantry)
+
+PRUD'HOMME 4
+Rocky area to be embanked
+(unloading point)
+
+                                  50m
+
+COASTAL SHELTER / WORKSHOP.
+(on caravan site)
+
+N
+1
+2
+3
+4
+A
+B
+Ice
+Rock
+
+Figure 11b - Cape Prud'homme. Projected works (sections from fig.11a).
+
+- 50 -
+D4. Impact of Facilities Planned at Cape Prud'homme
+
+Building a track 4 or 5 metres wide between the unloading area and the coastal depot is the only way to cope with the ice slope at Cape Prud'homme. It involves blasting and moving 80m3 of ice and 40m3 of rock. Segment A-B will be partly embanked using material from Prud'homme 4 (fig.11a & b). Creation of this track will have an impact both during building and later during its intended routine use throughout the summer season.
+
+Measures to protect fauna will be implemented in the construction phase. Blasting will follow the procedures developed for preparation of the airstrip, i.e. isolation before the arrival of birds from rocky sites, protection perimeter during blasting. Of relatively short duration, this work should have no irreversible effect on the population of Adélie penguins.
+
+In routine operation several features will require watching: thus, the surface occupied by the track, and the relative increase in traffic, lead to a very marked reduction in surface for nesting, although the consolidation of the ground at the track will facilitate access to nesting sites. The result will very likely be to accentuate the already observed downward trend in the number of breeding couples at Cape Prud'homme. Between 1984 and 1988, the number of Adélie penguin couples fell from 838 to 468. This may not be unrelated with the installation of furnace-oil tanks during that period. It will be essential in future to limit disturbance to animals to the utmost and to facilitate crossing of the track by penguins.
+
+Alternative measures to minimise impact of the route
+
+In view of a penguin colony distribution map updated in January 1992 and an observed significant increase in areas of rocky outcrop, a major re-alignment of the track is proposed. The terminal stretch originally planned right down to the coastal depot will no longer be laid. It would have been an obstacle for the penguins belonging to three colonies 20, 89 and 58 strong established locally.
+
+The rock now apparent half way up the slope will allow the track to be raised leading to a rocky platform serving as terminal. From that height, the remainder of the slope can be negotiated easily with the help of a machine based near the depot to haul or winch loads waiting on handling sleds on the platform. In this way the track will nowhere go through penguin colonies, and work will not be needed for the discarded section. The value of the proposal is that it limits the foreseeable impact of site preparation at Cape Prud'homme. Seventeen penguin couples would be disturbed during preparation of the platform, but the site would be available to them again. The location of the future workshop shelter is occupied by six couples. These will be able to nest once more after completion of the shelter.
+
+- 51 -
+D5.Accompanying Measures
+
+Although the alternative with deletion of the terminal portion of the track leads to markedly less impact, we propose the following control measures:
+
+. Monitoring of bird populations at Cape Prud'homme
+
+. Establishment of periods for traffic.
+
+- 52 -
+General view of Cape Prud'homme
+
+Aerial view of Prud'homme 4 and of the area which will be occupi?ed by the platform project.
+
+- 53 -
+●
+
+ 
+                    CONCLUSION
+
+
+●
+Conclusion
+
+The planned establishment of Dome C Scientific Station requires several types of activity, some local and others induced by requirements for carriage of materiel and personnel.
+
+The impact study must therefore take account of all direct or indirect implications of the construction and later the routine operation of the base, including repercussions on activity at Dumont d'Urville base and airstrip. The approach adopted follows the details of a comprehensive environmental evaluation as set out in Annex I to the Madrid Protocol on Environmental Protection (Art.3, para 2 a,b,c,d,e,f,g,h,i,j,k,l).
+
+We have gone over the description of the proposed activity (Art.3, 2a) as well as that of the initial environmental reference state (Art.3, 2b).
+
+The conclusions we reach incorporate input from specialists in different disciplines. The engineers and technicians gave us the data indispensable for description of the buildings, transport machines and energy requirements. Our scientific colleagues provided data on ecosystems and their component parts (Art.3, 2c). They also supplied the scientific justifications without which there can be no upholding a programme whose implications for the environment are not negligible, in view of the logistic dimension, although they are not irreversible. The Scientific Committee of Terres Australes et Antarctiques Françaises twice considered the document and completed it during the drafting phase. We have taken all those contributions into account for the final version of the document presented, and we thank very sincerely all those who helped.
+
+Establishment of a station at Dome C, sizeable though it is, involves no irreversible effects on an environment devoid of any trace of animal or vegetal life (Art.3, 2d). The only agents of pollution are the gaseous emissions into the atmosphere, coming of course on top of other research in Antarctica. Such a subject cannot be dealt with elsewhere than at international level - and the size of the station and the forms of multinational collaboration attaching to it make it one example to be followed for the concerted implementation of a programme of scientific research centred in one place. The impact on the Dome environment is thus minor and transitory, in both the construction and routine operation phases.
+
+- 57 -
+The drilling operations, confined strictly to the ice sheet, are of the same nature as those conducted by other nations, offering no peculiarity other than the ice thickness available.
+
+Air and surface links constitute a source of indirect impact (Art.3, 2e). They are liable to have consequences adding in a cumulative way (Art.3, 2f) to questions already arising at Dumont d'Urville. Two major sources of adverse effects on the environment are brought out by our study: disturbance connected with traffic periods, and that due to the structures installed and the space used by vehicles and personnel.
+
+A whole set of measures is proposed to minimise those impacts whether at Dumont d'Urville, at Cape Prud'homme, or along surface links to Dome C (Art.3, 2g).
+
+It appears indispensable:
+
+.to comply with the many compensating measures proposed as concerns transport both intercontinental and domestic between Dumont d'Urville and Dome C : C-130 landings restricted to October, first week in November, and February. Use of NW end of the runway by the light twin operated for flights to Dome C. Climb-out as often as possible in the airspace to the north of the strip.
+
+.to take steps to have the archipelago islands classified as Protected Areas as understood in application of the Antarctic Protocol. Well-defined provisions should be laid down to reconcile routine activities of the base with the protection of species.
+
+.to undertake ecological monitoring for the purpose of gaining knowledge of the short- and long-term reactions of animal individuals and populations to the kinds of traffic contemplated.
+
+Many alternatives have been considered, in particular the possibilities for taking scientific personnel from Christchurch to Dome C via MacMurdo, which would mean less traffic on the Terre Adélie airstrip, in particular during the months of November, December and January. I advocate this solution with the aim of attenuating the effects on fauna.
+
+The measures envisaged for the transport of materiel are the simplest and most economic and it is difficult to find fault with them. The proposal to make a platform instead of a track at Cape Prud'homme reduces practically to nil the foreseeable impact on ornithological fauna, without affecting the scientific programme.
+
+- 58 -
+In conclusion, the foregoing study has enabled an evaluation to be made of the environmental impact of the activities planned for the site at Dome C and of their repercussions on the intensity of activities at Dumont d'Urville and Cape Prud'homme. Medium-term consequences can be assessed only by setting up an ecological monitoring programme for the coastal area and measurements of any atmospheric pollution (Art.3, 2g & j). There is no other way to detect unforeseeable effects of activities, in the current state of our knowledge. Compliance with the measures adopted to minimise disturbance to animals, and pursuit of the programme to rehabilitate breeding sites, will be essential to preservation of the Geology Point natural heritage, and to improvement of our knowledge of human environmental impact.
+
+Implementation of the Dome C project will not be without effect on the environment (Art.3, 2h), but it can be asserted that the effects will be confined to the minimum compatible with a scientific programme of major international importance. "The acceptability of significant negative impact on the natural environment has to be evaluated against the benefits of a different nature, such as the direct scientific goals or science support activities".
+
+
+P.TREHEN
+Professor,
+Université de Rennes I,
+Station Biologique de Paimpont,
+F-35380 Paimpont
+
+- 59 -
+- Dépôt légal - 2ème trimestre 1992
+ISDN 2 11 085 236 4

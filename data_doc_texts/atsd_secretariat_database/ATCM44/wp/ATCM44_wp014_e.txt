@@ -1,0 +1,176 @@
+Do the Environmental Guidelines for operation of Remotely Piloted
+Aircraft Systems (RPAS) in Antarctica (v 1.1) need to be revised?
+Do the Environmental Guidelines for operation of Remotely Piloted
+Aircraft Systems (RPAS) in Antarctica (v 1.1) need to be revised?
+Working Paper submitted by Germany
+Summary
+This paper examines the question of whether the RPAS Guidelines
+(v 1.1) adopted with Resolution 4 (2018) should be revised. Two
+main assessments were carried out to clarify this question. Firstly,
+the technical development of drone technology was summarised
+and the state of scientific knowledge of the impacts of drone use on
+Antarctic wildlife since the Guideline’s development in 2017 was
+evaluated. Secondly, a survey was conducted among interested
+National Competent Authorities of the Antarctic Treaty Parties. The
+evaluation revealed a need to improve the content and structure of
+the RPAS Guidelines (see IP39). Finally, recommendations are given
+for the future revision of the RPAS Guidelines.
+Introduction
+Remotely Piloted Aircraft Systems (RPAS A Remotely Piloted
+Aircraft System (RPAS) is defined by the International Civil
+Aviation Authority (ICAO) (2015) as “A remotely piloted aircraft,
+its associated remote pilot station(s), the required command and
+control links and any other components as specified in the type
+design”. A Remotely Piloted Aircraft (RPA) is “An unmanned
+aircraft which is piloted from a remote pilot station”. RPAS are one
+class of Unmanned Aerial System (UAS), and they are often referred
+to as Unmanned Aerial Vehicles (UAVs), Unmanned Aircraft
+Systems (UAS) or ‘drones’. In this context RPAS is used for all types
+of remotely piloted drone systems, the term which has also been
+adopted by COMNAP, SCAR and a number of national authorities,
+and RPA is used to refer specifically to the aircraft itself.) are
+increasingly used in the Antarctic Treaty Area. The technology
+offers many benefits, including for science and operations, and also
+has the potential to reduce environmental impacts and to improve
+safety in some circumstances. RPAS can be less invasive than
+conventional methods like helicopters or aircraft, i.e. their use in
+the field is associated with a lower potential for wildlife
+disturbance. This also applies in principle to the area of application
+outside scientific research. Here, however, there is also the danger
+of future mass use, e.g. in the field of touristic or recreational
+application, even in Antarctica, if it is not appropriately regulated.
+Guidelines and handbooks have been developed to address
+operational and safety aspects of RPAS in Antarctica (COMNAP
+2016), and a number of Parties have also prepared practical
+manuals for RPAS use (e.g. Spain 2015; New Zealand 2017; BAS
+2017). In addition, IAATO has also developed policies for member
+use of RPAS (IAATO 2016), which currently prohibit recreational
+use of RPAS by members in coastal areas of Antarctica.
+In addition to that and because of the rapidly growing use of RPAS
+in the Antarctic Treaty Area and its partly known impacts on
+wildlife, Environmental Guidelines for RPAS were developed during
+an intersessional ICG in 2017/2018, which was convened by
+Germany (see ATCM XL IP38 Use of UAVs in Antarctica - A
+competent authority’s perspective and lessons learned & ATCM XLI
+WP29 Report from the CEP Intersessional Contact Group to develop
+guidelines on the environmental aspects of the use of Unmanned
+Aerial Vehicles (UAVs) / Remotely Piloted Aircraft Systems (RPAS)
+in Antarctica). With Resolution 4 (2018) the Environmental
+Guidelines for operation of Remotely Piloted Aircraft Systems
+(RPAS) in Antarctica (v 1.1) were adopted.
+Four years after the adoption of the Guidelines, Germany raises the
+question whether the current state of knowledge and the
+experiences gathered so far with the Guidelines could already
+justify a revision of the Guidelines. In that sense, aims and purposes
+of this paper are:
+to review and up-date the available information regarding the
+environmental impacts on wildlife of RPAS since 2017;
+to draw conclusions from the assessment of the survey based on
+questionnaire feedbacks from National Competent Authorities
+regarding their opinion on the RPAS Guidelines (see IP39);
+to recommend whether and when the RPAS Guidelines should be
+revised.
+State of knowledge regarding the environmental impacts of RPAS
+on wildlife
+While the need for comprehensive data on the impacts of RPAS on
+Antarctic wildlife has been expressed repeatedly since the
+development of the ATCM guidelines (Harris et al. 2019), very few
+studies have been conducted specifically to gain knowledge on this
+topic. Three studies were focused on penguins in the colony during
+breeding period (Krause at al. 2021, Rümmler et al. 2021a, b).
+Further, three species of seals have been investigated (Krause et al.
+2021, Laborie et al. 2021). In flying bird species, two additional
+studies were conducted (Fudala & Bialik 2022, Rexer-Huber 2020).
+With the knowledge gathered, the emperor penguin can be added to
+the list of species with known recommended minimal flight
+distances (Harris et al. 2019), and the data quality of knowledge
+foundation of already included species can be significantly
+improved for five species. For most species, further information is
+still needed; for example, different times during the breeding cycle,
+different locations, various RPAS models. For the majority of
+Antarctic species, the information available still has to be
+categorised as ‘data poor’ or ‘extremely data poor’ (Harris et al.
+2019), or there is no information available at all. In general, data
+on impacts of fixed wing RPAS on wildlife is extremely sparse.
+Technical development of RPAS deployment
+In recent years, RPAS have undergone technical developments that
+necessitate changes in the regulations of their usage. RPAS
+advancements include improved collision avoidance systems, longer
+flight periods (and hence less starting and landing events with their
+associated increased risks of impacts) and developments of out-of-
+line-of-sight systems. Easier availability, more affordable prices and
+easier handling/more user-friendly systems lead to widespread
+applications through the fields of science, journalism, tourism,
+logistics and others. Systems used in the consumer market also
+include higher safety standards, making save deployment possible
+even for not well-experienced users. Higher security, particularly in
+regions with multiple (airborne) human activities, is increasingly
+expected in coming years due to remote identification systems and
+Automatic Dependent Surveillance–Broadcast (ADS-B) receivers.
+Additionally, external conditions for RPAS flights have developed to
+ensure increased flight security: high resolution digital elevation
+models are available for more extensive areas in Antarctica and a
+higher satellite density leads to better Global Navigation Satellite
+System (GNSS) reception.
+Summary of responses to the questionnaire on RPAS use by
+Competent Authorities (see IPXX)
+In order to receive feedback from different National Competent
+Authorities regarding their opinion on the RPAS Guidelines,
+Germany carried out an opinion poll based on a questionnaire.
+Different recommendations can be derived from the results of the
+feedback given by interested Parties (see IP39). The evaluation has
+shown, inter alia, that the majority of Parties that responded, use
+RPAS as part of their activities (89 %),. All competent authorities of
+the Parties that responded know the Guidelines and most of them
+have worked with them already (84 %) or have even included them
+as a requirement of the permitting process or in the Environmental
+Impact Assessment (79 %). The answers show that most
+applications were submitted by scientists (mean = 2 applications/
+year), followed by tourism (1.6 app/year) and journalism (1.2 app/
+year). The fewest applications were made for logistical purposes
+(0.83 app/year) and others (0.17 app/year), including
+communication purposes and recreational use. In average, 25 %
+(0-80 %) of permit applications include RPAS use. Most authorities
+consider the RPAS Guidelines (v1.1) as useful (11/17) or adequate
+(4/17), while one authority deemed it useful with limitations and
+one not
+useful. For most authorities they are well balanced (14/16), for two
+authorities they are too weak in its current state.
+Comments on possible future improvements of the guidelines
+included a number of proposals that can be viewed in detail in
+IP39. The most commonly mentioned topics included:
+specific minimum distances to animals;
+RPAS operation and reporting forms;
+specific limitations on RPAS characteristics (weight, size, noise
+level);
+requirements of certifications (Ingress Protection, airworthiness);
+coordination and restrictions of multiple RPAS usage in one area or
+in areas of manned flight activities;
+consideration of non-scientific applications and a more user-
+friendly/more comprehensive version of the guidelines.
+Conclusion
+From the points made above, it can be concluded that there is a
+definite need for action with regard to a revision of the RPAS
+Guidelines (v 1.1), despite the fact that the level of scientific
+knowledge on the impacts of RPAS use on wildlife has only
+increased slightly since the RPAS Guidelines were adopted.
+Recommendation
+The CEP is invited to consider the following recommendations
+which are based on the feedback of the survey amongst national
+competent authorities, the technical advancements and the state of
+knowledge on the impacts of RPAS use on Antarctic wildlife:
+consider the need for a structural as well as a substantive revision
+of the guidelines, including, but not necessarily limited to:
+a user-friendly, comprehensive summary or short version of the
+guidelines
+a report form for accidents/incidents as a guideline attachment
+inclusion of specific minimal distances to wildlife and of specific
+RPAS limitations
+requirements of certifications for RPAS and pilots
+restrictions for multiple activities in one area
+establish, as appropriate, an informal ICG in 2022 to discuss this
+issue further and set up Terms of Reference for a formal ICG with
+the aim of a comprehensive revision of the RPAS Guidelines
+commencing right after CEP XXV;
+encourage Treaty Parties to carry out further studies and to collect
+information about the impacts of RPAS use on Antarctic wildlife.

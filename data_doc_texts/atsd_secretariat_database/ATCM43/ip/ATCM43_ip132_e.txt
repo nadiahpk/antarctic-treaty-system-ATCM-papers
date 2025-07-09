@@ -1,0 +1,209 @@
+Brazilian Hydrographic Surveying of Antarctic Waters
+Brazilian Hydrographic Surveying of Antarctic Waters
+Summary
+This Information Paper summarizes the recent work done by the
+Directorate of Hydrography and Navigation (DHN) of the Brazilian
+Navy, the competent national authority with regard to nautical
+chart production. DHN represents Brazil at the International
+Hydrographic Organization (IHO) and is responsible for collecting,
+processing and distributing information related to safety of
+navigation. The Directorate also offers hydrographic and
+oceanographic services in the Antarctic Peninsula region.
+Introduction
+Brazil has been present in Antarctica with a governmental scientific
+programme since 1982, and DHN operates the ships assigned to the
+Brazilian Antarctic Program (PROANTAR). PROANTAR is fully
+supported by Brazilian Navy vessels and Brazilian Air Force aircraft.
+The first expeditions were conducted with the support of the
+Oceanographic Support Ship “Barão de Teffé”, which was replaced
+in 1994 by the Oceanographic Support Ship “Ary Rongel”. Since
+2014 also Polar Ship “Almirante Maximiano” supports the Brazilian
+Antarctic Program.
+In 1983, the first Brazilian hydrographic survey was carried out in
+Antarctica, which resulted in the publication of the first edition of
+nautical chart 25121 of Admiralty Bay, on King George Island, one
+year later.
+In 2013, DHN developed the Antarctic Hydrographic Data
+Collection Plan in order to systematize the acquisition of
+bathymetric and tidal data under responsibility of Brazil for the
+production and updating of cartographic documents in the Antarctic
+region, with emphasis on the maritime areas where Brazilian
+scientific activities are conducted.
+Since 2016, the Brazilian Cartographic Plan for Antarctica is part of
+the Brazilian Nautical Cartographic Plan, and its hydrographic and
+cartographic production activities are reviewed every four years.
+DHN has produced 6 nautical paper charts, 4 international nautical
+charts (INT charts), and 5 electronic nautical charts (ENC) covering
+Antarctic waters. The online catalogue of national charts is
+available at the following link: https://www.marinha.mil.br/chm/
+dados-do-segnav/cartas-raster
+Efforts to address the nautical charting challenges in Antarctica
+require considerable investment, and strong international
+cooperation and coordination. The hydrographic offices of
+Argentina, Chile, Peru and the United Kingdom have cooperated
+closely with the Brazilian Navy in surveys and hydrographic
+activities in the Antarctic Peninsula region.
+Activities
+Historically, the DHN hydrographic data collection have been
+conducted in the region close to the Comandante Ferraz Antarctic
+Station (EACF), in Admiralty Bay, on the Keller Peninsula and in
+the vicinity of Elephant Island. Most of the Brazilian scientific
+activities are carried out in these places.
+According to IHO reports, there are limitations of hydrographic
+knowledge in Antarctica and it is known that those unsurveyed
+waters pose serious risks for maritime incidents. To contribute to
+the current efforts of hydrographic mapping of Antarctic waters,
+DHN has been carried out hydrographic surveys on maritime
+shipping routes as established by the IHO Hydrographic
+Commission on Antarctica (HCA), which will contribute to the
+publication of two more INT charts on 1:200.000 scale in
+cooperation with the Chilean Hydrographic Service.
+Geographical limits of interest and Brazilian chart size for
+Antarctica, according to IHO agreements, are included in The
+Brazilian Cartographic Plan for Antarctica (see Table 1).
+National Nr.
+INT Nr.
+Title
+Scale
+1st Edition
+Last Edition
+25110
+9150
+Elephant Island and surrounding area - South Shetland Islands
+1:200.000
+1999
+2009
+25115
+Elephant Island - South Shetland Islands
+1:100.000
+2005
+-
+25119
+9127
+Sherratt Bay (KGI)
+1:40.000
+2008
+2013
+25120
+9126
+King George Bay (KGI)
+1:40.000
+2008
+2013
+25121
+9125 (*)
+Admiralty Bay (KGI)
+1:40.000
+1984 (Nat)
+2016 (INT)
+-
+25122
+Maxwell Bay (KGI)
+1:40.000
+1994
+-
+Table 1 – Brazilian contribution to The International Nautical
+Charts Porfolio of Antartica.
+(*) in cooperation with Peru.
+The nautical chart scheme of The Brazilian Cartographic Plan for
+Antarctica is illustrated in Figure 1.
+Figure 1 - Scheme of The Brazilian Cartographic Plan for Antarctica.
+Cartographic updates for the Antarctic region are carried out after
+the hydrographic activities conducted during the annual Antarctic
+Operations (OPERANTAR).
+National Nr.
+INT Nr.
+Title
+Notice to Mariners
+25120
+9126
+King George Bay (KGI)
+1/18
+25121
+9125
+Admiralty Bay (KGI)
+185/19
+25122
+-
+Maxwell Bay (KGI)
+109/17
+Table 2 - Cartographic updates made by DHN in the last 3 years.
+During OPERANTAR XXXVI (2018), the Oceanographic Support
+Ship "Ary Rongel" DHN has conducted hydrographic surveys in the
+Maxwell Bay (picture on the left below) and the Admiralty Bay
+(picture on the right). These hydrographic surveys were used to
+update 25122 and 25121 (INT 9125) charts, respectively.
+Figure 2 - Hydrographic survey -Maxwell Bay - OPERANTAR XXXVI
+In 2019 (OPERANTAR XXXVII), the Polar Ship "Almirante
+Maximiano" completed the hydrographic data acquisition in King
+George Bay (KGI) for the update of the nautical chart 25120 (INT
+9126).
+Figure 3 - Hydrographic survey - King George Bay - OPERANTAR
+XXXVII.
+The Polar Ship “Almirante Maximiano” conducted hydrographic
+surveys during OPERANTAR XXXVIII in the vicinity of Maxwell
+Bay, southeast of Nelson Island, as illustrated in the figures below,
+being part of the work that will enable the updating of nautical
+chart 25122.
+Figure 4 - Hydrographic survey - Maxwell Bay - OPERANTAR
+XXXVIII
+In the same period (2020) the Polar Ship “Almirante Maximiano”
+carried out two shoal investigations in the Admiralty Bay, as shown
+in the images below.
+Figure 5 - Hydrographic survey - Admiralty Bay - OPERANTAR
+XXXVIII
+In December 2020, a Spotter-V2 buoy was anchored in the vicinity
+of the Comandante Ferraz Antarctic Station (EACF), at coordinates
+62° 12' 34.258" S and 58° 16' 48.180" W. Launched by the Polar
+Ship “Almirante Maximiano”, the Antarctic buoy is part of an
+experiment made by the Navy Hydrography Center in partnership
+with Petrobras, the Brazilian energy company, within the scope of
+the REMO observational Project, to perform remote monitoring of
+the waves, wind and surface temperature of the sea. The
+meteoceanographic data collected is available in real time, thus
+providing vital information to support the Brazilian Navy
+operations in that region. The information is free and available to
+other national Antarctic programs and the scientific community
+through the Marine Meteorological Service: www.marinha.mil.br/
+chm/dados-do-goos-brasil/pnboia-mapa
+Brazil also offers a contribution to IHO on the production and
+updating of Electronic Navigational Chart (ENC) in the Antarctic
+region. These Brazilian ENCs can be obtained through the IC-ENC
+(www.ic-enc.org), which is one of the Regional ENCs Coordination
+Centers (RENC), or through the company EMGEPRON (https://
+cartasnauticasbrasil.com.br/geoportal/web/niceindex.html), which
+acts as a value added reseller (VAR) for RENC PRIMAR.
+Nr.
+Title
+Scale
+Usage Band
+BR325110
+Elephant Island and surrounding area
+1:180.000
+3 (Coastal)
+BR425119
+Sherratt Bay (KGI)
+1:45.000
+4 (Approach)
+BR425120
+King George Bay (KGI)
+1:45.000
+4 (Approach)
+BR425121
+Admiralty Bay (KGI)
+1:22.000
+4 (Approach)
+BR525121
+Admiralty Bay (KGI)
+1:12.000
+5 (Harbour)
+Table3 - The status of Brazilian ENCs production.
+Final Observations
+During the 39 years of collaboration with the Brazilian Antarctic
+Program, the Directorate of Hydrography and Navigation of the
+Brazilian Navy has sought to contribute to the collection of
+bathymetric and cartographic data of Antarctic waters, as
+established by the International Hydrographic Organization,
+improving navigation security, scientific and logistical support,
+safeguarding life at sea and protection of the marine environment of
+that region.

@@ -1,0 +1,277 @@
+﻿XXVII ATCM
+Working Paper
+WP 020
+Agenda Item: CEP 6
+New Zealand and Australia
+Original: English
+
+
+
+
+
+
+
+
+
+
+TOWARDS A CEP STATE OF THE ANTARCTIC ENVIRONMENT REPORTING SYSTEM: REPORT OF THE INTERSESSIONAL CONTACT GROUP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Towards a CEP State of the Antarctic Environment Reporting System:
+Report of the Intersessional Contact Group.
+
+Working Paper submitted by Australia and New Zealand.
+
+
+Introduction.
+
+    1. The issue of state of the environment reporting, and the desire to meet the provisions of Article 12(1)(j) of the Environmental Protocol, have been on the agenda of the Committee for Environmental Protection (CEP) since its first meeting.
+    2. At CEP VI, following a proposal submitted by Australia and New Zealand (ATCM XXVI / WP21), the Committee agreed to establish an inter-sessional contact group (ICG), convened by Australia and New Zealand, with the following terms of reference (paras 163 to 170 of the Final Report of CEP VI refer):
+
+    a) Consistent with the CEP’s obligations under Article 12(1)(j) of the Protocol, and as a first step, identify a clear purpose (objective) and framework for advising on the state of the Antarctic environment;
+    b) On the basis of Working Paper ATCM XXVI/WP21 develop, as a proof of concept, an electronic reporting template that might be incorporated into the CEP website to help achieve this purpose, using one or two example indicators of human impacts;
+    c) Seek the advice of SCAR, CCAMLR and COMNAP and other expert bodies as appropriate in developing the pilot project, in particular in selecting indicators of human impact that would prove useful to the CEP in decision making;
+    d) Prepare a clear framework for categorising and selecting a series of possible indicators for further development of the environmental reporting system;
+    e) In undertaking this work the ICG shall take into account the outcomes of the CEP’s work on cumulative impacts (ATCM XXVI/WP06) as well as other ongoing monitoring and reporting programs;
+    f) Report to CEP VII.
+
+Participants in the ICG.
+
+    3. The ICG received support and involvement from the following Countries, Observers and Invited Experts:  Chile, China, Italy, Norway, Romania, Sweden, UK, CCAMLR, SCAR, COMNAP, ASOC, IAATO, WMO, and UNEP.
+    4. The Work Programme agreed to by the ICG forms Annex 1. The ICG believes that its objectives were met, although the issues to be considered were extensive compared to the time available to the group.
+Outcome to the discussions.
+
+First Term of Reference – Purpose Statement.
+
+    5. Based on the concept of a web-based State of the Antarctic Environment Reporting System (SAER system), as presented at CEP VI (ATCM XXVI / WP 06), the ICG prepared a draft Purpose Statement so as to provide a clear framework for the ongoing development of a the system.  The draft purpose statement is attached as Annex 2.  This draft aims to provide both context and guidance for further development and implementation of the system.
+
+Key observations:
+
+    6. In drafting the Purpose Statement, the frequency of reporting was a key issue discussed within the ICG. While annual reporting may not be appropriate for indicators with minimal annual variability, it was accepted that annual reporting was likely to be the most suitable means of providing the CEP and the ATCM with an update on the SAER system and the status of the indicators being monitored, even if this means providing a “no change” assessment for certain indicators.  The final bullet point of the Purpose Statement was modified to reflect this discussion, and now refers to reporting at “appropriate intervals.” 
+
+Recommendations:
+
+    7. The ICG recommends that:
+
+        ◦ the CEP considers the attached draft Purpose Statement to ensure that it provides an appropriate objective and framework for the SAER system.
+
+Second Term of Reference – Electronic Reporting Template
+
+    8. The SAER pilot system was developed as part of the CEP website for scrutiny and testing by the ICG.  The support of Australian Antarctic Division (AAD) in developing the pilot system is gratefully acknowledged.
+    9. The system is accessible at http://aadc-maps.aad.gov.au/cep/list_of_indicators.cfm and will be demonstrated at CEP VII, though some examples of the reporting system are shown in Annex 3.
+    10. The SAER pilot system has been designed to be modular, extendable and flexible to ensure that it can evolve to suit changing requirements.  The system enables different users to access varying parts of the system.  Administrators are envisaged as being either members of a CEP group charged with oversight of the system, and / or the Treaty Secretariat as required.  Administrators are able to change most aspects of the system and custodians most aspects relating to their indicator. General users (i.e. the public) only have viewing ability over the reports on different indicators.
+    11. Custodians are those agencies, organisations or entities having primary responsibility for inputting data and information into the indicator templates and providing the routine evaluations of the indicators.  The custodians would normally be those organisations with responsibility for collecting and managing indicator data.  In the pilot system described below, SCAR has been identified as the custodian for the indicator “air temperature”.  The custodial organisation would generally need to identify an individual to take responsibility for the indicator.
+    12. The key components of the system are:
+        ◦ The system adapts to different users (either ADMINISTRATOR, CUSTODIAN or PUBLIC). 
+
+        ◦ A TEMPLATE that describes details about each indicator (the metadata - see Annex 3 for an example).  Each CUSTODIAN will complete this template and will check the information annually and update it as necessary.
+
+        ◦ EVALUATIONS.  Done annually by the indicator CUSTODIAN.  The evaluation will include a brief statement on:
+
+a. What do the data tell us about the state of the environment or human impacts in the Antarctic environment? 
+
+b. Are there trends in the data?  If so, what do they represent? 
+
+c. Are there any anomalies or problems in the data?  If so, please explain. 
+
+d. Are there management actions that can be suggested to improve the state of the environment with respect to this indicator? 
+
+e. Are there any gaps in knowledge or research issues that can be identified with regards to this indicator?
+
+    13. The second term of reference for this ICG also included the need to develop one or two example indicators to test and demonstrate the system.  Options for sample indicators considered by the group included:  
+
+        ◦ Air temperature 
+        ◦ Fuel used / stored / spilt 
+        ◦ Numbers of people at stations / in the field, over time 
+        ◦ Bulk cargoes taken in to Antarctica and bulk cargoes taken out of Antarctica 
+        ◦ Waste generated (volumes / weights / types) 
+
+    14. Air temperature was selected as the indicator to be used in the SAER pilot system.  The ICG is grateful for the generous assistance of SCAR, and specifically Dr. John Turner, in its implementation. 
+
+Key observations:
+
+    15. The pilot system was examined by the ICG and improvements were subsequently made to the layout and documentation.  In testing the system it was further noted that:
+
+        ◦ The system is simple, yet modular enough to accommodate any number of environmental indicators and custodians.
+        ◦ Further work is needed, inter alia to ensure that:
+            i. the entry of information by custodians on the Web is simple; and
+            ii. the reports generated from the system are appropriate to the CEP’s requirements.
+        ◦ The addition of a range of suitable indicators will be instrumental in demonstrating the utility and value of the system. 
+Recommendations:
+
+    16. The ICG recommends that the CEP:
+
+        ◦ Endorses the SAER pilot system as the basis for the CEP’s reporting on the state of the Antarctic environment recognising its potential to evolve to meet the requirements of the Committee and Treaty Parties;
+        ◦ Initiate a process to identify and include in the system a suite of indicators that contributes to meeting the Committee’s goals for state of the Antarctic environment reporting.
+
+Third Term of Reference – Advice from SCAR, COMNAP and CCAMLR.
+
+    17. The participation of SCAR, COMNAP and CCAMLR in the ICG was welcomed.    The ICG noted that advice and input from these organisations is critical to further developing the system.
+
+Recommendation:
+
+    18. The ICG recommends that the CEP:
+
+        ◦ Seeks the active input of SCAR, COMNAP, CCAMLR and other Invited Experts as appropriate in further developing and maintaining the SAER system.
+
+Fourth Term of Reference – Framework for Categorising and Selecting Indicators.
+
+    19. This term of reference was not directly addressed by the ICG due to time constraints.  However, the SAER system can accommodate any system of classifying indicators into themes (e.g. human activities (or human settlements), atmospheric systems, terrestrial and freshwater system etc).  It is noted that such a process would match proposals that have been made previously by SCAR (ATCM XXV / WP 31 refers).
+
+    20. In relation to criteria for selecting indicators, it is noted that the reporting template available on the website incorporates a series of 15 criteria (see Annex 3, figure 2).  This list of 15 criteria has been considered as useful for identifying potential environmental indicators.  This list was derived from guidelines developed by OECD (Organisation for Economic Cooperation and Development) to aid the development of indicators for environmental performance review.  To this end indicators must (or must be):
+
+1. Serve as a robust indicator of environmental change 
+2. Reflect a fundamental or highly valued aspect of the environment 
+3. Either national in scope or applicable to regional environmental issues of national significance 
+4. Provide an early warning of potential problems 
+5. Capable of being monitored to provide statistically verifiable and reproducible data that shows trends over time and preferably apply to a broad range of environmental regions 
+6. Scientifically credible 
+7. Easy to understand 
+8. Monitored regularly with relative ease 
+9. Cost-effective 
+10. Relevant to policy and management needs 
+11. Contribute to monitoring progress towards implementing commitments in nationally significant environmental policies 
+12. Where possible and appropriate, facilitate community needs 
+13. Contribute to the fulfillment of reporting obligations under international agreements 
+14. Where possible and appropriate, use existing commercial and managerial indicators 
+15. Where possible and appropriate, be consistent and comparable with other countries and state and territory indicators 
+    21. For an indicator to be considered appropriate, there must be strong justification based on relevance to environmental issues.  This should address the "so what?" question; why do we need to have this indicator?  Will it be useful for the CEP, COMNAP, SCAR and / or the ATCM?  Does it satisfy sufficient criteria above (number not determined) to warrant the effort to maintain it for the foreseeable future?
+Recommendation:
+
+    22. The ICG recommends that the CEP:
+
+    • Develops a framework for categorising indicators once the system has a critical number of indicators included within the system.
+ 
+Fifth Term of Reference – CEP Work on Cumulative Impacts.
+
+    23.  The ICG found little time to discuss this.  The ICG did however conclude that the SAER system could meet relevant recommendations stemming from the CEP’s work on cumulative impacts.  Most notably, the system could address the proposals set out in Working Paper (ATCM XXVI / WP 06) for the development and maintenance of a database for recording information on site visitation and/or monitoring programmes to measure human impacts at selected sites.
+
+Recommendation:
+
+    24. The ICG recommends that the CEP:
+
+    • Notes that some of the gaps in managing cumulative impacts could be met by a centralised system of capturing data coordinated through the SAER system.
+ 
+Conclusions and Recommendations.
+
+    25. The ICG was able to develop a pilot SAER system.  In doing so it was noted that an operational SAER system depends on the:
+    • support by custodians for the development of an effective suite of indicators; and
+    • development of an appropriate management structure within the CEP to ensure continuity in the further evolution of an effective SAER system. 
+
+Summary of recommendations:
+
+    26. In summary, the ICG recommends that the CEP:
+
+        ◦ Considers the attached draft Purpose Statement to ensure that it provides an appropriate objective and framework for the SAER system;
+        ◦ Endorses the SAER pilot system as the basis for the CEP’s reporting on the state of the Antarctic environment recognising its potential to evolve to meet the requirements of the Committee and Treaty Parties;
+        ◦ Initiate a process to identify and include in the system a suite of indicators that contributes to meeting the Committee’s goals for state of the Antarctic environment reporting;
+        ◦ Seeks the active input of SCAR, COMNAP, CCAMLR and other Invited Experts as appropriate in further developing and maintaining the SAER system;
+    • Develops a framework for categorising indicators once the system has a critical number of indicators included within the system;
+        ◦ Notes that some of the gaps in managing cumulative impacts could be met by a centralised system of capturing data coordinated through the SAER system.
+
+    27. It is further recommended that:
+
+        ◦ an ICG be established to continue to develop the SAER system ahead of CEP VIII, based on the recommendations above and discussions at CEP VII;
+        ◦ in further developing the system the ICG liaise with the Antarctic Treaty Secretariat where relevant and appropriate; and
+        ◦ the ICG provides the first annual report under the SAER system to CEP VIII.
+Annex 1.
+Agreed Workplan of the SAER ICG.
+
+
+
+        ◦ 26 September 2003 – Deadline for responses to this email (comments received on the tasking timetable; ICG participants identified)
+        ◦ 30 October – Agreement reached on Purpose and framework for the SAER system
+        ◦ 30 November – Agreement reached on the one or two indicators to be used for the pilot project
+        ◦ 30 November – 30 January 2004 – Development and trial of an electronic reporting template based on selected indicator/s.
+        ◦ 27 February – Agreement reached on framework for categorizing and selecting additional indicators
+        ◦ 8 March – First draft of the Working Paper circulated for comment
+        ◦ 9 April – Working Paper submitted to CEP
+Annex 2.
+
+State of the Antarctic Environment Reporting System.
+
+Draft Purpose Statement.
+
+
+In order to meet the requirements of Articles 3(e) and 12(1)(j) of the Environmental Protocol, the CEP State of the Antarctic Environment Reporting (SAER) system will provide a mechanism for collecting carefully selected indicator data on:
+
+    • the environment, and
+    • human activities that could impact on the Antarctic environment 
+
+to enable the CEP to advise the ATCM on the effectiveness of the implementation of the Environmental Protocol to the Antarctic Treaty, and to advise on the state of the Antarctic environment.
+
+Goals:
+
+    • To establish an efficient, web-based SAER system that is relevant to and easily accessible by all national Antarctic programmes and Parties to the Environmental Protocol.
+
+    • To identify, record and report on carefully selected indicators that will assist in the detection of anthropogenic impacts on the marine, aquatic, terrestrial and atmospheric environments, and associated biota within the Antarctic Treaty area.
+
+    • To provide a framework for environmental monitoring in the Antarctic.
+
+    • To provide effective links between the SAER system and relevant environmental information provided under the Protocol’s information exchange requirements.
+
+    • To link the SAER system to other national and international information sources relevant to state of the Antarctic environment reporting.
+
+    • To report to the CEP at appropriate intervals on: trends and implications of the indicators and the effectiveness of the SAER system.
+
+Annex 3.
+
+Examples of the SAER template on the CEP website.
+
+
+
+
+
+Figure 1.  The SAER “Homepage” which provides a summary of the system and a list of indicators that can be directly accessed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2.  An example of the template for “air temperature”.  The template notes the identified custodian for the indicator (in this case SCAR), the theme area (e.g. Atmosphere), the indicator type and the criteria that the indicator satisfies.
+
+This part of the template is accessible to, and can be modified by the Administrators of the system and the identified Custodian.
+
+
+
+
+
+
+Figure 3.  The “Evaluation” section of the site contains the crux of the system.  Here the custodian provides an assessment of the trends and status of the indicator by answering some key questions as well as evaluating a) the condition scale (i.e. what the indicator is telling us about the environment), and b) the state of knowledge about the indicator.  The coloured bands at the bottom of the screen represent these assessments.
+
+The system also enables the custodian to upload images and graphs to show trends in the indicator, or provide links to key websites where the data might be held; an example of a graphic that might be included for air temperature is shown below.  See also http://www.antarctica.ac.uk/met/READER/
+
+

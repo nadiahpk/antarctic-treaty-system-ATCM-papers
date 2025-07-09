@@ -1,0 +1,39 @@
+﻿
+
+
+
+
+
+Aircraft Autonomous Distress Tracking
+
+
+
+
+
+
+
+
+Aircraft Autonomous Distress Tracking 
+Summary
+
+Priority 12 of ATCM Multi-year Strategic Work Plan (Decision 3 (2018) Annex) notes that ATCM XLII WG2 is to have a dedicated discussion on aviation activity, including non-governmental air traffic; and, to consider any views presented on air safety issues by the International Civil Aviation Organization (ICAO).  ICAO developed its Global Aeronautical Distress and Safety System (GADSS) Concept of Operations because of the disappearance of Malaysia Flight MH 370 in the Indian Ocean in 2014 and the crash of Air France Flight 447 in the Atlantic Ocean in 2009.  Various functions of GADSS are implemented but not all.  By January 1, 2021, ICAO will begin requiring new-built commercial aircraft of a maximum certificated take-off mass of over 27,000 kg to implement autonomous distress tracking (ADT), which is the function with the most significant impact for search and rescue (SAR).  When an aircraft is considered to be in a distress condition, ADT will broadcast, at least once every minute, its position.  Aircraft operators, air traffic services units, and rescue coordination centers serving the Antarctic Treaty area may need to develop new procedures and guidance material regarding ADT notifications.  The ATCM should consider encouraging all aircraft operating in Antarctica to install the ADT, even if not subject to ICAO standards, and begin developing procedures for reacting to ADT notifications. 
+
+Background
+
+ICAO will soon be implementing the new requirement for aircraft to have ADT capability.  All new-built commercial aircraft (passenger and cargo) on or after 1 January 2021 of a maximum certificated take-off mass of over 27,000 kg shall be required to automatically transmit  information from which a position can be determined by the aircraft operator (owner or company) at least once every minute, when in distress or potential distress.  ICAO recommends that the same ADT requirement be carried on all commercial aircraft of a maximum certificated take-off mass of over 5,700 kg.  State aircraft (used in military, customs, and police services) are not required to follow ICAO requirements but may do so.  The operator is required to receive the ADT notification and would normally make the determination if the aircraft were actually in distress.  The operator would notify the air traffic services unit (ATSU).  If the aircraft were in distress, the ATSU would normally alert the rescue coordination center (RCC).  The alerting process for ADT was meant to be consistent with current air traffic services alerting service provisions.  
+
+ICAO intentionally did not specify a technology for the ADT device.  Currently, there are two categories of ADT devices: (1) other technology (but no specific equipment has been identified); and, (2) the Cospas-Sarsat 406 MHz Emergency Locator Transmitter – Distress Tracking (ELT(DT)).  Of note, the automatic dependent surveillance –broadcast (ADS-B) equipment carried on some aircraft does not meet the ADT requirement of an independent power source for the remaining duration of flight.  The “other technology” would follow the GADSS Concept of Operations and have the operator required to receive the ADT notifications and then follow the current alerting procedures of operator to ATSU to RCC.  However, the ELT(DT) ADT notification will be delivered through the Cospas-Sarsat data distribution system which means the RCC gets the ADT notification first.  The ELT(DT) is designed to operate 370 minutes.  The key stakeholders (SAR services, air traffic services, ICAO, Cospas-Sarsat, and operators) are in the process of determining the best procedures to ensure effective and efficient handling of ADT notifications from the ELT(DT) device.
+
+The primary benefit from the GADSS will be for the SAR services.  The ADT capability is intended to ensure timely detection and tracking of an aircraft in distress and timely and accurate location of its end of flight.  As with any new capability, new techniques, procedures and guidance material will need to be developed.  Implementation of ADT could reveal weaknesses in SAR systems (such as coordination between aeronautical and maritime SAR services) or gaps in regional cooperation and coordination.  The sharing of ADT alerting information requires global coverage and a global interoperable systems approach.  ADT alert information for aircraft emergency conditions needs rapid distribution to the aircraft operator, responsible ATS unit and the responsible RCC.  (Also, if the aircraft continues in flight with an activated ADT device then it should be effectively handed off to the next responsible ATS unit and RCC.)  Effective sharing of this information to the responsible stakeholders requires well defined, accurate and readily accessible flight information region and SAR region data, plus reliable emergency 24-hour contact details for the aircraft operators, ATS units and RCCs. 
+
+
+SAR services in Antarctica need to react effectively to an aircraft transmitting an ADT notification every minute.  The aeronautical RCC may be responsible or it may hand off the incident to a maritime RCC.  The harshness and remoteness of the Antarctic environment make it important to have common understanding and procedures in place before such a SAR incident happens.  
+
+Proposal 
+
+The United States proposes that the ATCM discuss: 
+
+    • Aircraft operators in Antarctica consider installing the autonomous distress tracking capability even if not required under ICAO standards.
+    • Aircraft operators, air traffic services units and rescue coordination centers consider developing efficient procedures for reacting to ADT notifications before 1 January 2021. 
+
+

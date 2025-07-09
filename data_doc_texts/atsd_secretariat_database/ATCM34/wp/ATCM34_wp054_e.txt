@@ -1,0 +1,71 @@
+﻿
+
+
+
+
+
+Technology for investigating water strata of subglacial Lake Vostok
+
+
+
+
+Technology for investigating water strata of subglacial Lake Vostok
+In early February 2011, specialists of the Russian Antarctic Expedition (RAE), drilling in a deep ice borehole at Vostok station, have closely approached the ice/water strata interface of subglacial Lake Vostok. As of 5 February 2011, the ice borehole bottom was at a depth of 3720 m, and 30±20 m of ice remained to the lake water layer. Opening to lake water will more likely occur in the summer season of 2011-12 using the technology designed by the RF in 2001 and in compliance with the Final CEE for surface water sampling from subglacial Lake Vostok, approved in 2010. Before starting the activity, the RAE was granted the official permit No.067 of 23 November 2010 from Roshydromet, as envisaged by the national procedure.
+After penetrating the lake, it is logical to ask about the technology of further study of the water layer and bottom sediments of subglacial lake by means of different sounding and sampling facilities. In early 2009, the Federal Service for Hydrometeorology and Environmental Monitoring has declared a competition for developing a special set of measuring equipment and additional technical devices providing a delivery of instruments though a kerosene/Freon mixture layer, filling the ice borehole without contact with this mixture. The winner was St. Petersburg Institute of Nuclear Physics of the Russian Academy of Science, which has in its structure a specialized design bureau and industrial experimental facilities. Microbiologists of the Institute have been investigating the bio-diversity of the ice core from Vostok station for more than 10 years. For this work the Institute has invited several specialists from other institutions dealing with aerospace and marine industries and science, including St. Petersburg Mining Institute, who have directly participated in drilling operations at Vostok. The following basic principles were adopted in developing instruments and support equipment for investigating the water layer of Lake Vostok:
+    • minimum environmental impact in using contact sounding or sampling methods; 
+    • use of existing ice borehole 5G-2 and supplemental drilling equipment for study of lake water strata;
+    • simplicity and reliability of the structure;
+    • wide application of sensors and individual components or design assemblies that have recommended themselves well during other studies;
+    • reliability of measurements or sampling.
+Based on these principles, it was decided instead of creating a complicated measurement instrument with sampler, to make separate measuring and sampling devices: hydrophysical and hydrobiochemical devices and a water sampler. To ensure sterile delivery through the strata of kerosene-freon drilling fluid in borehole 5G, a special transportation unit was developed, its geometrical size corresponding to that of the electrical-mechanical drill.
+The transportation unit is made of a steel pipe with the side thickness of 5 mm, the length of which varies depending on the task from 3 to 13 m. The pipe consists of separate sections with a length of 3000 mm and an external diameter of 127 mm, which can be hermetically connected with each other. In the upper part of the unit there is a connection block containing the current-carrying wire used presently for borehole drilling at Vostok station. The transportation unit is equipped with its own external heating system for ice melting at its ascent and descent. In the upper part of the pipe in the hermetical block, an electric motor is installed, which operates the lowering and lifting system for the measurement instruments. Under the electric motor block there is a system, which enables the automatic ascent and descent of the sampling and sounding devices with a cable length of 750 m and a lifting capacity of 120 kg. Each  measurement-sampling block together with the video cameras and thermal imager attached to the lower part of the cable located inside the transportation unit, will be alternately launched towards the lake water strata to perform the observation program and register parameters. The transportation unit and measuring modules will be sterilized by gamma-radiation at the Institute of Nuclear Physics with subsequent decontamination by ozone treatment at Vostok. Before the launch the transportation unit with the measurement module inside will be filled with specially treated clean to eliminate the impact of large pressures in the borehole lower part.
+The measurement or exploration modules are self-contained with their own control block and electrical power system not connected with the surface in terms of energy or information transfer. 
+In order to sample from different horizons of the Lake Vostok water column, the water sampling device has its technical basis in samplers used in studies of deep oil wells. The samplers with the best technical characteristics were chosen (Russian “Grant” Company (Ufa)). These have a reinforced hull and an extended set of sensors. The volume of the collected sample is more than 550 cm3 while the sampler mass is not more than 6.2 kg. 
+The water sample will be poured from the sampler chamber to a special container by means of specially developed devices, ensuring transfer of the sample without contact with the environment under conditions equivalent to a class 1000 “clean” laboratory. Such a laboratory will be assembled at Vostok station prior to beginning investigations of lake water strata. 
+As a basis for creating the hydrophysical module instruments investigating Lake Vostok water, a standard oceanographic device with the maximum number of recorded water medium parameters has been chosen. The most suitable for this purpose is a complex designed by “Seabird electronics”; the SBE 19 plus V 2 SEACAT PROFILER with a strengthened hull and extended set of sensors. The sensors are intended for operation to a depth of 6000 m. Sensors will measure water temperature, electrical conductivity, pressure, dissolved O2 CH4 and turbulence. Technical characteristics of sensors are shown in Table 1
+
+Table 1. Technical characteristics of sensors mounted on the hydrophysical module
+Sensor
+Measurement range
+Measurement accuracy
+
+Measurement error
+Temperature of water
+From 50 to +35°С
+0,01°0С
+0,003°С
+Conductivity
+0 - 65  mmhos/cm
+0,002 mmhos/cm
+0,003mmhos/cm
+Pressure
+0-700dBar
+0,003 dBar
+0,010%
+Dissolved O2
+0-2мкА
+0,002мкА
+0,01 мк
+Dissolved СН4
+
+30-50 mmoL/I
+3 mmL/I
+3% of full scale 
+
+
+This standard oceanographic device has been adjusted to fit inside the transportation unit in order to be delivered to the lake water strata. Its external diameter is 108 mm. To accommodate it within the transportation unit, the layout of sensors was rearranged All measurement blocks and sensors were placed to a solid titanium hull, which is possible to use at a depth of 7000 m.
+The sounding hydrobiochemical complex used to investigate Lake Vostok strata is a two-module structure arrayed in the titanium pipe with an external diameter of 110 mm. It includes three video-cameras (frontal, side and rear view) with necessary illumination. The instrument was developed taking into account its operational capacity under low temperature (up to -700 С) and high pressure (450 dBar) conditions. 
+One of the modules contains a power supply unit, while the second contains a fluorimeter for fluorescent spectroscopy of complex organic compounds after their excitation by a laser emission impulse. 
+To register such biological organic compounds, mostly tryptophan and tyrosine along with archaeal cofactor F420 and possibly flavones, two lasers are used as the excitation light source. One of them is a solid-state, impulse laser with an excitation length of 266 nm and an average power of 20 MW, while the second is a diode impulse laser with an emission wavelength of 405 nm and an average power of 50 MW. 
+The spectrometric module proper is executed in two mutually changeable variants. The first of them proposes to use the ”Hamamatsu” or “Oceanoptics” mini-spectrometers. In the second structure variant, an optical array similar to the “Hamamatsu” mini-spectrometer is preserved, where the detector presents not a linear array but a CCD matrix, produced according to the “back-thinned” technology. The use of the matrix and its cooling allows us to increase the instrument sensitivity by an order of magnitude of the measurements.
+As a control computer, a small single-board processor with low power consumption and an extended temperature range was developed to operate the sampler, hydrophysical and hydrobiochemical devices.
+ The developed software package maintains the autonomous performance of the entire complex of measuring and sampling instruments including data control and management and saving of data and working protocols on changeable data storage disk of Micro SD standard.
+In the future the modules will be supplemented with the following instruments:
+    • sediment core sampler from the lake bottom;
+    • sonar for measurement of the bottom glacial surface irregularities over the lake area and seabed  in deep ice borehole 5G;
+    • hydrological device for measurements of characteristics of the horizontal structure of the lake water strata;
+    • sensors for measuring temporal variability of the glacier thickness at its bottom surface.
+Construction and assembly of test models of the transportation unit and measuring systems was completed in 2009. Field testing and full-scale studies under conditions of Lake Ladoga are planned for 2011.
+The Environmental Impact Assessment for these studies will be prepared after water sampling of subglacial Lake Vostok and  collection of additional evidence, including  data on the true ice thickness and the height of lake surface water rise upward in the ice borehole.
+
+

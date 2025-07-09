@@ -1,0 +1,263 @@
+﻿
+
+
+
+
+
+Pilot study on identifying important marine areas for conservation around the South Orkney Islands
+
+
+
+
+Pilot study on identifying important marine areas for conservation around the South Orkney Islands
+Information Paper submitted by the United Kingdom
+Agenda Item CEP 7(d)
+1. Introduction
+This paper presents the results of a pilot study undertaken to test a systematic conservation planning approach to the identification of important marine areas for conservation in Antarctica. The area around the South Orkney Islands was selected as the pilot study region. This is one of the priority regions identified by CCAMLR as areas in which to focus further work on the development of marine spatial protection (SC-CAMLR-XXVII, para 3.55). 
+In 2008, the UK presented ATCM XXXI IP3, which outlined a proposed approach to the identification of important marine areas for conservation.  Further detail on this proposed methodology was subsequently presented to the CCAMLR Working Group on Ecosystem Monitoring and Management (WG-EMM), and it was endorsed by the CCAMLR Scientific Committee as one possible approach to the selection of marine areas for protection.
+The aim of this paper is to update the CEP on work undertaken on this topic during the past year. Working Paper 29 uses these results to demonstrate the feasibility of establishing a representative system of marine protection for the South Orkney Islands. 
+2. Systematic conservation planning
+As previously described in ATCM XXXI IP3, systematic conservation planning is an objective and transparent methodology that assists in the identification of options for spatial protection of biodiversity and other valuable features (Margules & Pressey, 2000). It is based on the need to conserve a representative sample of a region’s biodiversity within protected areas, and to ensure the persistence of that biodiversity through conservation and management measures (Cowling et al., 2003; Lombard et al., 2007). In contrast to the ad hoc approaches that have often been used previously, systematic conservation planning aims to design a system of areas that comprehensively represents the biodiversity of each region, through the achievement of well-defined objectives (Ardron et al., 2008).
+The systematic conservation planning process can be summarized into six stages:
+    1. Define the planning region (broad area of interest in which the study will be undertaken), and divide this into a grid of ‘planning units’ 
+    2. Compile relevant ecological data relating to the biodiversity of the planning region
+    3.   Set conservation targets	
+    4. Review existing conservation areas within the planning region
+    5. Select additional conservation areas
+    6. Implement conservation actions
+
+This pilot study focused on steps 1 to 5, providing an illustration of how important marine areas for conservation might be identified using currently available data. Step 6 (implement conservation actions) was not considered as part of this study; however recommendations are provided in Working Paper xx on how this step might be achieved.
+A key aspect of this process is the use of planning software to assist with identifying conservation areas (Step 5). MARXAN1 (Ball & Possingham, 2000; Game & Grantham, 2008) is a well-established software programme that delivers decision support for the design of conservation areas, by allowing users to objectively determine the contribution of individual areas towards meeting defined targets (Ardron et al., 2008). Using data on species, habitats or other relevant biodiversity features, MARXAN works to identify a reserve system (a combination of planning units) that will meet user-defined objectives for the minimum cost in terms of size or other constraints. This software has been widely used in conservation planning worldwide, for example in the re-zoning of the Great Barrier Reef Marine Park (Fernandes et al., 2005) and the development of the California Channel Islands National Marine Sanctuary (Airame et al., 2003).
+3. Methods
+3.1 Defining the planning region
+A preliminary requirement of systematic conservation planning is to define the ‘planning region’, or the area of interest in which the analysis will be undertaken. This may be defined on an ecosystem basis, for example the region might be based on the extent of a particular habitat type or biogeographic classification. Alternatively, existing management boundaries may be used where these exist; for example Lombard et al. (2007) used the 200 nm South African Exclusive Economic Zone (EEZ) as the planning region for the Prince Edward Islands analysis. This approach has the advantage of not requiring judgments to be made on the extent of biological boundaries, since there may be uncertainty over their location or different approaches to their definition. However, the use of non-ecosystem boundaries may result in habitats or ecosystem processes being artificially ‘split’ and partially excluded from the planning area. 
+In order for progress to be made through a worked example, we selected a region with a relatively high level of available data. To achieve a compromise between the use of existing management boundaries and biogeographic or ecosystem considerations, the planning region is defined as CCAMLR statistical Subarea 48.2, around the South Orkney Islands (Figure 1). CCAMLR statistical areas are designed on the basis of fish stock locations and bathymetry, as well as major areas of fishing activity, but have ‘straight line’ boundaries for practicality of use. This region also corresponds to one of the areas identified by CCAMLR as areas in which to focus further work on the development of marine spatial protection.
+The planning region encompasses a large area (~850,000 km2) around an island group, with a depth range from 0 to 6395 m. It includes four of the primary pelagic bioregions defined by the CCAMLR Bioregionalisation Workshop (Antarctic Shelves, Antarctic Open Ocean, Weddell Gyre and Southern Antarctic Circumpolar Current Front). The South Orkney Islands lie to the south of the mean maximum extent of sea ice, although the northeastern sector of Subarea 48.2 is to the north of the maximum ice extent. The mean positions of two major Southern Ocean fronts are located in the northern part of the planning region (the southern boundary of the Antarctic Circumpolar Current (sbACC), and the southern Antarctic Circumpolar Current front (sACCf)). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1: Overview map showing the location of the South Orkney 
+Islands, within CCAMLR Subarea 48.2 (subareas are shown as blue lines).  
+
+
+The Scotia Sea region is characterized by a narrowing of the ACC as it passes through the Drake Passage. Strong currents, eddies, and mixing associated with the ACC and the Weddell Sea Confluence (WSC) occurs in the western Scotia Sea, while to the east there is a broadening of the ACC and influence of the Weddell Gyre. The bathymetry of the Scotia Sea carries the flow of the ACC northwards, resulting in transport of nutrients and larvae which is critical to ecosystem function in the region. Extensive summer phytoplankton blooms around island groups such as the South Orkneys probably results from the mixing of micronutrients with surface waters through the flow of the ACC and WSC. This high productivity supports very large populations of krill and higher predators. The wide shelf area extending around 200 km to the south of the South Orkney Islands is particularly important as an area of high productivity and predator foraging. Barnes et al. (2008) identified 1026 marine species around the South Orkney Islands, of which the majority (821) were benthic species. 
+
+3.2 Compiling relevant ecological data
+In Step 2 of the process, relevant ecological data relating to the biodiversity of Subarea 48.2 was collated.  Although some information was available on benthic habitats and features, this pilot study was limited to consideration of the pelagic environment. Six ‘example’ datasets were used in the pilot study; these are illustrated in Figures 2a to f, and described in Table 1. 
+Kernel density values for albatrosses, petrels and penguins provided information on the distribution of these predators across the planning region. In the absence of further detailed information on pelagic biodiversity, surrogates or proxies including habitat types and ecosystem processes were used. The pelagic bioregions defined by the 2007 CCAMLR Bioregionalisation Workshop provide information on physical habitat types based on a range of environmental data. A 50 km buffer was created around the mean positions of the sbACC and the sACCf, to capture the ecological processes associated with the frontal zones. Mean summer surface chlorophyll values were included to provide an indication of productivity, and four categories of sea ice concentration were identified across the planning region.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2: Datasets used in the analysis: a) Penguin densities derived from kernel density calculations on tracked Adélie and chinstrap penguins, b). Albatross and large petrel densities derived from kernel density calculations on all individuals tagged in summer. c) 50 km buffers around the southern Antarctic Circumpolar Current front (sACCf) and the southern boundary of the Antarctic Circumpolar Current (sbACC); d). Bioregions identified by the CCAMLR Bioregionalisation Workshop (2007); e) Proportion of the year with >15% ice cover, classified into 4 categories: under 25%, 25-50 %, 50-75% and over 75% of the year; f) Mean summer surface chlorophyll-a concentration.
+Table 1: Descriptions of the example datasets used in the pilot study
+Dataset
+Features 
+Data type
+Source
+
+Albatross and large petrel density 
+4 albatross species and 2 large petrel species2, combined into one group
+Kernel density values derived by filtering tracking data from individual birds, generating points at intervals of one hour between each validated fix. A kernel density surface was created from the resulting points, using the ArcGIS kernel density function.
+Birdlife International Procellariiform Tracking Database (Birdlife, 2004)
+Penguin density 
+2 species3, combined into one group
+Kernel density values from satellite tracks of Adélie and chinstrap penguins, derived in a similar way to the albatross and petrel densities, using a time interval of 10 minutes between validated fixes.
+British Antarctic Survey
+Pelagic bioregions 
+
+- Southern ACC front
+- Antarctic shelves
+- Antarctic open ocean
+- Weddell Gyre
+Presence/absence of each bioregion
+CCAMLR Bioregionalisation Workshop (2007)
+Sea ice concentration (mean proportion (0-1) of the year for which the ocean is covered by at least 15% sea ice) 
+- 0 to 0.25
+- 0.25 to 0.5
+- 0.5 to 0.75
+- 0.75 to 1
+Presence/absence of each ice concentration category.
+From satellite-derived estimates of sea ice concentration (1979-2003)
+Hobart Bioregionalisation Workshop (2006), Australian Antarctic Data Centre
+
+Chlorophyll-a concentration 
+Mean summer surface concentration
+Mean summer surface chlorophyll-a (mg/m3) concentrations. From SeaWiFS summer means (1998-2004) 
+Hobart Bioregionalisation Workshop (2006), Australian Antarctic Data Centre
+Mean position of ocean fronts 
+- sACCf (50 km buffer)
+- sbACC (50 km buffer)
+Presence/absence of each frontal buffer zone
+British Antarctic Survey (digitized from Orsi et al., 1995)
+
+3.3 Setting conservation targets
+Conservation targets provide a quantitative definition of the different objectives to be achieved by spatial protection. These might include the amounts or types of particular species, habitats or processes that should be included within areas defined as important for conservation, or the variety of features and habitats that should be represented. MARXAN works to identify the combination of planning units which can achieve all of the defined targets for the minimum cost. In this study, cost is defined simply as the number of planning units.
+A set of example targets was developed for this pilot study (Table 2). These targets were defined through discussion within a small group, however in practice a full study would require a more extensive consultation process with a range of relevant experts and stakeholders. The conservation targets represent the total amounts of each feature that must be contained within the planning units identified by MARXAN to be included in its final solution. From the six datasets described in section 3.2, thirteen separate features were included in the analysis, and conservation targets were set for each feature. 
+Table 2: Example conservation targets used in the pilot study 
+Dataset
+Number of features
+Example conservation target
+Albatross and petrel density 
+1
+50% of summed albatross density (Target A)
+Penguin density 
+1
+75% of summed penguin density (Target B)
+Pelagic bioregions 
+
+4
+10% (area) of each bioregion (Target C)
+Ice concentration 
+
+4
+10% (area) of each category (Target D)
+Chlorophyll-a concentration
+1
+20% of summed chlorophyll-a concentration (Target E)
+Ocean fronts 
+
+2
+20% (area) of each buffer zone (Target F)
+
+Some of the features (bioregions, ice concentration categories and ocean front buffer zones) were defined in terms of the simple presence or absence of a particular characteristic. For example, an individual planning unit would be assigned a value of 0 or 1 for each bioregion category, depending on whether or not it was located within that bioregion. For these features, the targets are designed to capture a representative amount (by area) of the total distribution of each feature. There is no weighting of any areas for factors other than presence/absence. The target value of 10% for bioregions and ice concentration categories was selected because it is often used as a minimum target for representation of biodiversity or habitats within protected or managed area systems. The target for ocean front buffer zones was set at a higher level (20%) because the mean position of the fronts was considered to have a large amount of variability, therefore a larger target area is required to ensure that these features are adequately represented. 
+The remaining features (albatross & petrel density, penguin density and chlorophyll-a concentration) were defined in terms of density or concentration values. For example, an individual planning unit is assigned the actual value of chlorophyll-a concentration recorded at that location. 
+The percentage targets defined for these features are based on a consideration of the distribution of different density or concentration values throughout the planning units for each feature. For example, the density of penguins is very high in certain areas (within a few planning units close to the colonies on land). This skewed distribution means that a target value of 10% of the total penguin density would select (at the minimum cost) only 4 out of a possible 1895 planning units (0.2%), thus protecting only a very small proportion of the total area in which penguins have been recorded. In order to include a more representative proportion of the total distribution of this species, it is therefore necessary to set higher targets than for a more evenly distributed species.
+
+3.4 Review of existing conservation areas 
+In order to assess whether and how the conservation targets are currently being met, it is important to identify any existing conservation or management areas designated within the planning region. Using MARXAN, it is possible to ‘lock in’ areas considered to be critical for inclusion in a system of marine conservation areas, for example those areas that already have some form of management. MARXAN will then build its solution around these ‘locked in’ areas, for which the conservation targets are considered to have already been met.
+Small-Scale Management Units (SSMUs) have been defined by CCAMLR for Subarea 48.2, with the aim of distributing krill fishing effort to reduce the potential for localised depletion of krill populations and effects on land-based predators (Hewitt et al., 2002). However, precautionary catch limits within SSMUs have not yet been implemented, so these units do not have relevance in the current study. 
+There are four Antarctic Specially Protected Areas (ASPAs) on the South Orkney Islands, designated primarily to protect seabird colonies and terrestrial environments. Two of these areas (ASPA No. 111, Southern Powell Island and ASPA No. 114, Northern Coronation Island) extend into the nearshore marine environment; however it was concluded that these are too small to contribute to achieving the targets defined for the pelagic environment.
+The analysis was run first without locking in any existing areas. Preliminary results showed that almost all of the nearshore/shelf area (i.e. the area covered by the SSMUs, and adjacent to all of the ASPAs) was included in most of the solutions generated by MARXAN, without being ‘locked in’. Nevertheless, in a full study, it would be important to give further consideration to the inclusion of SSMU and ASPA locations as part of the planning process (see Working Paper 29).
+
+3.5 Using MARXAN to select additional conservation areas
+Once the relevant datasets were collated, and the conservation targets defined, the selection of areas important for conservation to meet the defined targets was undertaken using MARXAN.
+To select the areas that are most important for conservation, MARXAN calculates the contribution of each planning unit to the defined conservation targets. For example, protecting a planning unit that contains 5% of the distribution of a particular bioregion type within the planning area would contribute significantly to achieving the target of protecting 10% of that bioregion. The same planning unit may also contain other features of value, increasing the importance of its protection. There may be many potential combinations for the number and arrangement of planning units to meet a range of conservation targets, and MARXAN is used to suggest the most efficient and practical solutions.
+MARXAN works iteratively towards the best solutions by adding and subtracting planning units to an initial, random selection, retaining any changes that contribute towards meeting the conservation targets. For each iteration the cost of the solution is calculated, and MARXAN aims to achieve all of the conservation targets for the minimum cost (i.e. the smallest total area).
+The concept of ‘irreplaceability’ is an important factor in considering the potential contribution of individual planning units to the achievement of defined goals for a region. An area that is considered to be irreplaceable is one that contributes significantly to achieving conservation targets (e.g. a single planning unit that contains the entire population of a particular species, or the only example of a particular habitat type). Planning units that have been ‘locked in’ because of their existing status as conservation areas (see section 3.4) are always included in the initial selection, and cannot be removed.
+MARXAN was run 100 times, with each run completing 1 million iterations. A ‘boundary length modifier’ was set to introduce an additional cost, whereby the total length of the boundary is minimized in the best solutions. This favours a smaller number of larger areas (relative to boundary length) over a large number of small, fragmented areas. MARXAN then calculated the best solution (combination of planning units) from all 100 runs. A ‘summed solution’ output was also produced, which provides the frequency with which each planning unit was selected across all 100 runs. This gives an indication of how important each planning unit is for creating an effective final solution. For example, planning units that are selected more than 75% of the time are likely to be required for inclusion in the areas considered to be important for conservation. 
+To test the contribution of the features in each dataset to the final solution, MARXAN was initially run (using the run parameters described above and the targets defined in Table 1) for the following groups of features:
+    • Penguin density and albatross density (Targets A and B)
+    • Albatross density and ocean front buffers (Targets A and F)
+    • Penguin density and ice concentration categories (Targets B and D)
+    • Bioregions, ice concentration categories and chlorophyll concentration (Targets C, D and E)
+    • Chlorophyll concentration and ocean front buffers (Targets E and F)
+The same analysis was then carried out using all of the features together. The results were displayed in ArcGIS, and are described in section 4.
+4. Results
+Figures 3 to 7 demonstrate how each of the different features contributes to the final solution of conservation areas selected by MARXAN, using the groups of features listed in Section 3.5. The best solutions (combination of planning units selected over 100 runs) for achieving the defined conservation targets with the minimum cost are shown. Each figure also shows bathymetry, ocean fronts and SSMUs for reference. These solutions can be compared with Figures 2a to f, which show the distribution of input data for each feature.
+Figure 8 shows the solution obtained when the analysis was run using all of the features (conservation targets A to F). A summed solution output was also produced (Figure 9), showing the number of number of times each planning unit was included in the selection, summed over all 100 runs. This illustrates the importance of each planning unit within the final solution.
+
+
+Figure 3: Best solution for conservation targets A (50% of summed albatross and petrel density) and B (75% of summed penguin density). The shelf area to the south of the South Orkney Islands is important for chinstrap and Adélie penguins (Figure 3a), while the large areas highlighted to the north and east of the islands correspond to areas of highest albatross and petrel density  (Figure 2b). This solution includes most of the area covered by the SSMUs (shown in black).
+
+Figure 4: Best solution for conservation targets A (50% of summed albatross and petrel  density) and F (20% of each ocean front buffer zone). This solution selected similar areas of albatross and petrel density to those shown in Figure 2b, however the shelf area is not considered to be important in meeting these two targets. This solution combines the areas of highest importance for albatrosses and petrels with a representative sample of the 50 km buffers around the mean positions of the sACCf and the sbACC
+
+
+Figure 5: Best solution for conservation targets B (75% of summed penguin density) and D (10% of each ice concentration category). This solution selected similar areas of penguin density to those shown in Figure 3. The four separate highlighted areas contribute to meeting the targets of 10% of each ice concentration category (Figure 2e).
+
+Figure 6: Best solution for conservation targets C (10% of each pelagic bioregion), D (10% of each ice concentration category) and E (20% of summed chlorophyll concentration. Figure 2f shows that the areas of highest chlorophyll concentration are on the shelf area to the south of the islands, and in the southeastern part of the planning region; these areas are all captured in this solution. The other highlighted areas contribute to meeting the targets for pelagic bioregions and ice concentration categories.
+
+
+
+Figure 7: Best solution for conservation targets E (20% of summed chlorophyll concentration) and F (20% of each ocean front buffer zone). This solution selected similar areas of high chlorophyll concentration to those shown in Figure 6. Similar to the areas highlighted in Figure 4, this solution combines the areas of highest chlorophyll concentration with a representative sample of the 50 km buffers around the mean positions of the sACCf and sbACC. 
+
+Figure 8: Best solution for all conservation targets (A, B, C, D, E and F). Key areas of importance are the shelf area to the south of the islands (high penguin density and chlorophyll concentration), the areas to the north and northwest of the islands (high albatross density), and the area where the two ocean front areas are close together. The area where the sACCf and sbACC are close together (in the central northern part of the planning region) is also captured in Figures 3, 4, and 7.
+
+
+
+Figure 9: Summed solutions for all conservation targets (A, B, C, D, E and F). Conservation 
+importance relates to the number of number of times each planning unit was included in the 
+selection, summed over all 100 runs. Blue areas were not selected in any runs, and are therefore
+ of lowest conservation importance. Yellow areas were selected in 100% of runs, and are of 
+highest importance.
+
+5. Discussion
+The results shown in Figures 3 to 7 demonstrate the contribution of individual features to the solutions selected by MARXAN. Areas which are particularly important with regard to albatross and penguin density, and chlorophyll-a concentration, for example the shelf area to the south of the islands, and the areas close to the sACCf and sbACC, are selected in the same way with different combinations of features. However, the areas selected to represent pelagic bioregions, ice concentration categories and ocean fronts vary more between solutions, because there are looser constraints on which areas can be selected to meet these targets. For example, if all other factors are equal, there are many different areas in which 10% of the Weddell Gyre bioregion could be selected for the same cost.
+Therefore, although the targets for bioregions, ice concentration categories and ocean fronts are always met in the solutions, these three factors have less of an influence on the final solution, and will tend to be represented for the minimum cost in areas which meet the targets for albatross density, penguin density or chlorophyll-a concentration.
+Figures 8 and 9 show how the targets set out in Table 2 have been effectively captured. Key areas of importance are the shelf area to the south of the islands (high penguin density and chlorophyll concentration), the areas to the north and northwest of the islands (high albatross density), and the area where the two ocean front areas are close together. These results also show that most of the area contained within the SSMUs is effectively captured through the inclusion of data on penguin density, chlorophyll concentration, and the Antarctic Shelves bioregion.
+In order to achieve a whole-ecosystem approach to marine conservation, it is important to consider a combination of targets, and not individual species or habitats. This analysis aims to achieve all of the targets for the minimum cost (i.e. the smallest possible area), thus looking for areas in which more than one target can be met in the same location. This is particularly important when considering the practicalities of implementing conservation measures.
+The results obtained here are considered to be largely consistent with expected outcomes based on our knowledge of the ecological processes in the study region. We therefore consider that the selection of important pelagic areas for conservation can proceed with the methodology described in this pilot study, and on the basis of currently available information. However these preliminary results should be treated only as an example to illustrate how this methodology might be applied. They are not intended to provide any definitive guidance on areas that are most important for conservation in this region, and further work is required to refine the analysis based on expert input. Section 4.1 outlines some of the further work that could be undertaken at each step in the process to refine future analyses.
+
+5.1 Further work to refine the analysis
+The South Orkney Islands Subarea 48.2 provided an example planning region for this pilot study, however further consideration of planning region options would be required as part of a full study. Future studies might consider a series of hierarchical planning regions, for example: i) the entire Southern Ocean, ii) ocean basins such as the Ross Sea and Weddell Sea, iii) regional seas or island groups, iv) individual islands, embayments or seafloor habitats (e.g. seamounts). Conservation targets could be set for each of these levels, within a ‘nested’ hierarchy.
+More data could be incorporated on a range of species and ecological processes, and input is needed from scientific experts to define which datasets, and which parameters, are most appropriate to be included in the analysis. If required, data on human activities such as scientific research activities, fishing and tourism could also be incorporated.
+Further work is required to develop appropriate conservation targets, and this must be done on a scientific basis with input from experts as far as possible. Targets for marine areas for conservation in the Southern Ocean could be based on the objectives and criteria already defined by Annex V to the Protocol on Environmental Protection and the 2005 CCAMLR Workshop on Marine Protected Areas (SC-CAMLR-XXIV, Annex 7). For example, this pilot study aimed to meet the requirement for representation of major marine ecosystems (Annex V, Environmental Protocol) by defining a target specifying that an example of each pelagic bioregion occurring within the planning region should be represented within the conservation area system.
+Combined targets have been used for all albatross and petrel species, and all penguin species in this pilot study. However future studies might consider separate targets for individual species. For example, it may be appropriate to consider chinstrap and Adélie penguins separately, in the context of the different ice conditions favoured by these two species. Other ecological processes or issues of vulnerability may be considered in the context of particular species. 
+The contribution of existing designated areas must also be considered in more detail. For example, further analysis might consider setting targets to include specific areas of directional foraging adjacent to existing ASPAs, where data are available. 
+MARXAN will produce slightly different solutions for each run, and it is important to refine the results as far as possible so that the variation between possible solutions is minimized. For example, in future analyses MARXAN could be run repeatedly using the ‘summed solutions’ outputs (as shown in Figure 10) to guide each successive run. The planning units with the highest selection frequencies could be locked in prior to the next run, and this step repeated for multiple runs. The recently published MARXAN Good Practices Handbook (Ardron et al., 2008) contains experience from the growing number of MARXAN applications in marine conservation worldwide. This publication will be useful in further investigation of how MARXAN parameters can be set most effectively to refine the analysis. 
+This study focused on the pelagic environment as an example, however it would be valuable to undertake similar analyses for the benthic environment. Once this has been completed, pelagic and benthic results could be analysed together, to identify areas that may be important for conservation in both environments.
+4.2 Next steps – implementing conservation actions
+Once MARXAN has been run to identify areas that are important for the achievement of conservation targets, the results can be used to inform decisions on the appropriate conservation actions to be applied to those areas (step 6 in the systematic conservation planning process – which was not addressed as part of this pilot study). These actions are the protection or management mechanisms by which the defined targets (e.g. protection of 10% of each pelagic bioregion) are achieved in practical terms. Working Paper xx uses the results of the pilot study to provide recommendations on how this might be achieved using the full range of tools currently available under the Antarctic Treaty System. 
+MARXAN is one of a suite of tools that might be employed to assist with identifying important areas for conservation, but it cannot be used in isolation. Other work must include an assessment of vulnerability and specific threats to marine habitats, processes and species, and consideration of the feasibility with which protection or management measures might be implemented in the context of existing activities. It is important to note that systematic conservation planning does not provide definitive solutions to the best locations for conservation areas. Subjective judgment is still required in setting targets and interpreting the results in the context of practical considerations.
+5. Summary
+This pilot study concludes that:
+    • Systematic conservation planning is a useful approach, providing a transparent and objective methodology to assist in identifying important areas for conservation.
+    • The selection of important areas for conservation can proceed using the methodology described in this pilot study, with currently available information.
+    • Setting conservation targets should be an expert-driven process, ideally with participation from as many stakeholders as possible. Expert input is also required to define which datasets are to be used in the analysis, and how these data should be categorised.
+    • MARXAN is a powerful tool that can be used to provide meaningful results with currently available datasets. Further work is required to ensure that appropriate parameters are set for the program, once the appropriate input datasets and objectives have been defined.
+    • MARXAN is one of a suite of tools that might be employed to assist with identifying important areas for conservation, but it cannot be used in isolation. Results from MARXAN do not provide a ‘solution’ to the question of where important areas for conservation are located, but the outcomes can be helpful in informing decision-making.
+    • Further work to test and apply this methodology in other regions would contribute the development of ‘best practice’ guidance, which could then be employed in the selection of important areas for conservation of marine biodiversity, and the implementation of appropriate conservation actions.
+Acknowledgements
+We are grateful to Birdlife International and all of their data originators for providing the albatross and petrel density data used in this analysis, from the Birdlife International Procellariiform Tracking Database.
+References
+Airame, S., Dugan, J.E., Lafferty, K.D., Leslie, H., McArdle, D.A., and Warner, R.R. 2003.Applying ecological criteria to marine reserve design: a case study from the California Channel Islands. Ecological Applications 13: S170-S184.
+Ardron, J.A., Possingham, H.P. & Klein, C.J. (eds.) 2008. Marxan Good Practices Handbook. Pacific Marine Analysis and Research Association, Vancouver, BC, Canada. www.pacmara.org
+Ball, I.R. & Possingham, H.P. 2000. MARXAN (v1.8.2): Marine Reserve Design Using Spatially Explicit Annealing, a Manual.
+Barnes, D.K.A., Kaiser, S., Griffiths, H.J. & Linse, K. 2008. Marine, intertidal, freshwater and terrestrial biodiversity of an isolated polar archipelago. Journal of Biogeography. doi:10.1111/j.1365-2699.2008.02030.x
+Birdlife International (2004). Tracking ocean wanderers: the global distribution of albatrosses and petrels. Results from the Global Procellariiform Tracking Workshop, 1-5 September, 2003, Gordon’s Bay, South Africa. Birdlife International. Cambridge, UK.
+Cowling, R.M., Pressey, R.L., Rouget, M. & Lombard, A.T. 2003. A conservation plan for a global biodiversity hotspot - the Cape Floristic Region, South Africa. Biological Conservation 112: 191-216.
+Fernandes, L., Day, J., Lewis, A., Slegers, S., Kerrigan, B., Breen, D., Cameron, D., Jago, B., Hall, J., Lowe, D.Innes, J., Tanzer, J., Chadwick, V., Thompson, L., Gorman, K., Simmons, M., Barnett, B., Sampson, K., De’athG., Mapstone, B., Marsh, H., Possingham, H., Ball, I., Ward, T., Dobbs, K., Aumend, J., Slater, D. & Stapleton,K. 2005. Establishing representative no‐take areas in the Great Barrier Reef: large-scale implementation of theory on marine protected areas. Conservation Biology 19 (6): 1733-1744.
+Game, E. T. and H. S. Grantham. 2008. Marxan User Manual: For Marxan version 1.8.10. University of Queensland, St. Lucia, Queensland, Australia, and Pacific Marine Analysis and Research Association, Vancouver, British Columbia, Canada.
+Hewitt, R.P., Watters, G., Trathan, P.N., Croxall, J.P., Goebel, M.E., Reid, K., Trivelpiece, W.Z. & Watkins, J.L. 2004. Setting a precautionary catch limit of krill among Small-Scale Management Units in the Scotia Sea. CCAMLR Science 11: 81-98.
+Lombard, A.T., Reyers, B., Schonegevel, L.Y., Cooper, J., Smith-Adao, L.B., Nel, D.C., Froneman, P.W., Ansorge, I.J., Bester, M.N., Tosh, C.A., Strauss, T., Akkers, T., Gon, O., Leslie, R.W. & Chown, S.L. 2007. Conserving pattern and process in the Southern Ocean: designing a Marine Protected Area for the Prince Edward Islands. Antarctic Science 19(1): 39-54.
+Margules, C.R. & Pressey, R.L. 2000. Systematic conservation planning. Nature 405: 243-253.
+SC-CAMLR-XXVII. 2008. Report of the CCAMLR Scientific Committee. CCAMLR, Hobart, Australia.
+

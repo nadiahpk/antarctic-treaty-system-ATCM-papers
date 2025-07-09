@@ -1,0 +1,54 @@
+﻿
+
+
+
+
+
+Fluxgate and Proton Precession technology for fixed monitoring station in BCAA
+
+
+
+
+Fluxgate and Proton Precession technology for fixed monitoring station in BCAA
+1. Background:
+Since 2003 campaign, the area surrounding BCAA has been magnetically surveyed in the space domain with the intent to determine correlations with biological indicators.
+These activities had been detailed in ATCM XXVI IP 6 and ATCM XXVIII IP 54
+Now, in the light of the International Polar Year (IPY), a fixed station will complete the picture in the time domain variations, with the added value of providing data to help magnetic storm forecast and other events analysis.
+With this aim, a fixed station has been designed, and will be deployed to Antarctica, that includes a triaxial fluxgate sensor, a scalar proton precession sensor, and associated data acquisition and storage electronics. 
+2. Objectives:
+Setup of a fixed geomagnetic monitoring station at BCAA. 
+Determine correlation between geomagnetic temporal variability and biological indicators.
+Gather refence data for the geomagnetic survey that is being carried on.
+3. Method:
+The data needed required the unattended recording and transmission of geomagnetic variations along the year. This information can be obtained from the measurement of both the magnetic vector and its magnitude. 
+In the time domain, a spectral analysis of signals detemined that no component beyond 23 Hz is of interest, so the sampling rate has been limited to 46Hz according to Nyquist theorem.
+An instrument suite consisting of two magnetometers and associated electronics has been designed and built by technicians from the Uruguayan National Antarctic Program, with the following specifications:
+            Range: 1024nT
+            Resolution: 16pT
+            Bandwidth: 64Hz
+            Antialiasing filter: 23Hz
+            Storage: limited by PC Hard disk capability
+Data transmission has been implemented using the current satellite link provided by the BCAA. Data is formatted for transmission using email or ftp protocols.
+Specifically, the instruments are a fluxtgate triaxial magnetometer, to obtain vector information, and a proton precession magnetometer that produces scalar information.
+Data is sampled with 64 bits resolution, stored in a hard disk, and when requested, forwarded to mainland stations.
+The associated electronics includes a stabilized power supply, remote data logging and control / calibration circuits.
+The placement of the unit requires a minimization of manmade magnetic interference and movement, so it shoud be located far enough of human activities to achieve this, but close enough to allow proper care of the system and data links. 
+A suitable candidate site has been identified, approximately 300 meters away from BCAA, that has been used to install an ozone measurement instrument, taking advantage of the existing electrical and masonry facilities, and also preventing the dispersion of eventual impacts in the Antarctic environment. 
+4. Information gathered:
+Measurement of DC component of magnetic field.
+Measurement of AC LF component of magnetic field, in frequency and time domains.
+Measurements of the geomagnetic field components (vertical and horizontal; inclination and declination) as a continuous monitoring of the geomagnetic activity at BCAA, in order to generate local activity index (such as the A and the K indices).
+Studies about magnetic pulsations (continuous and irregular) using the data obtained with the permanent observatory. 
+5. Project timeline:
+Table 1 – Implementation stages
+
+
+
+
+
+6. Analysis and publication:
+This project is part of the Uruguayan Antarctic Environmental Monitoring Program, and could be shared with other SCAR members, conducting ADMAP, MAGMAP or similar magnetic research in the frame of the Antarctic Treaty scientific cooperation.
+It is intended to share data and cooperate in the extent of the own magnetic research, with other IPY activities related to the current state of the environment and change in polar regions
+This project, as a part of the Environmental Monitoring Program, will contribute its data and metadata to the repositories previously arranged, using Instituto Antartico Uruguayo´s own structure and links.
+Specifically, the metadata of the activity will be widely available through the NADC (National Antarctic Data Center), managed by the Instituto Antartico Uruguayo
+

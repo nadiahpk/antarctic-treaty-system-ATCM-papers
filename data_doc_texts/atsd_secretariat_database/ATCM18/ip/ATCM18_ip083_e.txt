@@ -1,0 +1,767 @@
+ANTARCTIC TREATY              
+XVIII th CONSULTATIVE MEETING  
+
+TRAITÉ SUR L'ANTARCTIQUE        
+XVIII éme RÉUNION CONSULTATIVE  
+
+                                  KYOTO        
+                                  11-22 April 1994  
+
+TRATADO ANTARTICO              
+XVIII REUNION CONSULTIVA        
+
+ДОГОВОР ОБ АНТАРКТИКЕ          
+XVIII КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ  
+
+                                  XVIII ATCM/INFO 83  
+                                  14 April 1994  
+                                  Original:Spanish  
+
+SCAR REPORT TO XVIII ATCM  
+
+(Submitted by SCAR)
+Database content
+
+All data are projected into the Polar Stereographic projection with a standard latitude of 
+71°S, and a central meridian of 0°. The coordinates are in metres, with the origin at the 
+South Pole. The spheroid used is GRS80. ADD data have single co-ordinate precision (up 
+to seven digits for each co-ordinate).
+
+The database has been divided into two distinct datasets:
+
+i.  A detailed dataset (CARTO), comprising data at the original scale of the source 
+    material (scale0) and also data generalized to 1:1,000,000 scale (scale1). This contains 
+    most information published on medium-scale and smaller-scale maps of Antarctica.
+
+ii. Generalized datasets (AV) at scales of 1:3,000,000 (scale3), 1:10,000,000 (scale10) and 
+    1:30,000,000 (scale30), which provide small-scale overviews of the whole continent 
+    for the more casual user.
+
+The data are subdivided into layers showing the following features:
+coastlines, cliffs, contours and elevation points, rock outcrops, faunal locations, glaciers, 
+ice domes, glacier flowlines and margins, moraines, streams, lakes, place-names, research 
+stations, major traverse routes, protected areas and historic monuments. All layers are 
+present in the ungeneralized dataset but certain features are omitted from the generalized 
+datasets.
+
+The CD also includes information on Conservation Areas (CONSITE), additional datasets 
+(EXTRAS) such as large-scale maps of Chinese Antarctic stations, extra place names, 
+information on penguin populations, and satellite altimetry. Specially designed symbol 
+sets (SYMBOLS) are also provided to enable the use of internationally accepted symbols in 
+ArcView.
+
+CD installation
+
+The following minimum configuration is needed to use the ADD:
+
+Hardware:
+-   An IBM compatible PC, with an Intel 80386 (or higher) processor and at least 
+    4 Mbyte RAM. A maths co-processor will significantly improve performance.
+-   CD drive (ISO standard No. 9660).
+-   Disk space appropriate to the ADD dataset that is to be copied onto your hard drive.
+
+Software:
+Prerequisite
+-   Microsoft MS-DOS v. 3.3 or higher
+-   Microsoft Windows v. 3.0 or higher (for ArcView only)
+
+Alternative packages
+-   ArcView for Windows, PC ARC/INFO 3.4D or higher, ArcCAD Rev. 11 or higher.
+
+                                                          
+ANTARCTIC
+DIGITAL DATABASE
+ORDER FORM
+
+Please send me     copy(ies) of the Antarctic Digital Database at £100.00 (US $150.00). 
+including postage.
+
+A limited number of copies of ArcView are available free to bona fide researchers and 
+educational establishments, but not to commercial purchasers. If you believe you are 
+entitled to a free copy and do not already have ArcView, please tick the box.     
+
+I enclose a cheque payable to "Turpin Distribution" for the sum of £     .00 or $     .00. 
+Please ensure that cheques payable in UK £ are drawn on a bank in UK and that cheques 
+payable in US $ are drawn on a bank in the USA.
+
+Name                                                          
+Institution                                                  
+Tel.                                                          Fax.
+
+Please debit my Access / Mastercard / Visa account 
+Number                                                       
+Name                                         Expiry date     
+Signature                                                    
+
+Address                                                      
+
+                                                          
+Country                              Postal code              
+
+Delivery address (if different to the registered address)     
+
+                                                          
+Country                              Postal code              
+
+Please return this form to:  SCAR Secretariat                
+                             Scott Polar Research Institute     
+                             Lensfield Road                    
+                             Cambridge    CB2 1ER    United Kingdom
+Tel. +44 223 62061                     Fax. +44 223 336549     
+
+INTERNATIONAL COUNCIL OF SCIENTIFIC UNIONS
+SCIENTIFIC COMMITTEE ON ANTARCTIC RESEARCH
+
+New Publication - October 1993
+
+Antarctic Digital Database
+Antarctic maps on Compact Disc
+
+The Antarctic Digital Database (ADD) represents a major development in Antarctic 
+mapping, providing access to the first seamless digital map of Antarctica. This CD carries 
+the most up-to-date and complete coastline of the continent in digital form.
+
+The ADD can be used to:
+  • Generate customized maps for scientific, operational and educational 
+    purposes;
+  • Provide the topographic framework for a variety of GIS applications;
+  • Facilitate international collaboration by providing a common base for 
+    recording or analysing spatial data.
+
+The ADD, covering the area south of latitude 60° South, has been prepared in the United 
+Kingdom by the British Antarctic Survey (BAS), the Scott Polar Research Institute (SPRI) 
+and the World Conservation Monitoring Centre (WCMC) under the auspices of the 
+Scientific Committee on Antarctic Research (SCAR) and its Working Group on Geodesy 
+and Geographic Information. The database has been compiled from cartographic material 
+published by eleven nations (Argentina, Australia, China, Germany, Japan, New Zealand, 
+Norway, Poland, Russia, United Kingdom and United States of America). The scale of the 
+source material used has ranged from 1:200,000 to 1:5,000,000, and the coastline has been 
+up-dated by reference to satellite imagery at 1:1,000,000 scale.
+
+The Antarctic digital topographic database is provided on one compact disc (CD-ROM), and 
+is accessible through PC ArcView™, PC ARC/INFO® and PC ArcCAD™. It is formatted 
+for MS-DOS systems only. The database can be used either directly from the CD or it can 
+be down-loaded on to PCs. The CD includes several preconstructed views intended for 
+display with ArcView. These views can be used as a tutorial to introduce the user to the 
+database and to illustrate its potential.
+
+The Antarctic Digital Database User's Guide and Reference Manual which accompanies the 
+CD provides detailed information on the content of the database, its coverages and 
+attributes, and includes lists of all approved Antarctic conservation areas and active 
+scientific stations. It also contains a detailed bibliography of the source material used in 
+the preparation of the ADD.
+INTERNATIONAL COUNCIL OF SCIENTIFIC UNIONS
+SCIENTIFIC COMMITTEE ON ANTARCTIC RESEARCH
+
+
+
+
+SCAR REPORT TO XVIII ATCM
+KYOTO, JAPAN
+APRIL 1994
+
+
+
+
+XVIII ANTARCTIC TREATY CONSULTATIVE MEETING
+Kyoto, Japan, 11-22 April 1994
+Acronyms and Abbreviations                                         Appendix 5
+
+                                                     SCAR REPORT TO XVIII ATCM
+                                                KYOTO, JAPAN
+                                            11-22 APRIL 1994
+
+ADD             Antarctic Digital Database
+ADDS            Antarctic Data Directory System
+AMD             Antarctic Master Directory
+APIS            Antarctic Pack Ice Seals programme
+ATCM            Antarctic Treaty Consultative Meeting
+BAS             British Antarctic Survey
+BIOMASS         Biological Investigations of Marine Antarctic Systems and Stocks
+CCAMLR          Convention for the Conservation of Antarctic Marine Living Resources
+CCAS            Convention for the Conservation of Antarctic Seals
+CD-ROM          Compact Disc - Read-only memory
+CEMP            CCAMLR Ecosystem Monitoring Programme
+CEP             Committee for environmental Protection
+COMNAP          Council of Managers of National Antarctic Programmes
+CS-EASIZ        Coastal and Shelf - EASIZ
+EASIZ           Ecology of the Antarctic Sea-ice Zone
+GLOBEC          Global Ocean Ecosystems Dynamics Research
+GLOCHANT        Group of Specialists on Global Change and the Antarctic
+GOSEAC          Group of Specialists on Environmental Affairs and Conservation
+GOSSOE          Group of Specialists on Southern Ocean Ecology
+IASC            International Arctic Science Committee
+ICSU            International Council of Scientific Unions
+IGBP            International Geosphere-Biosphere Programme
+IGU             International Geographical Union
+IHB             International Hydrographic Bureau
+IUBS            International Union of Biological Sciences
+IUCN            International Union for the Conservation of Nature (World Conservation
+                Union)
+IUGG            International Union of Geodesy and Geophysics
+IUGS            International Union of Geological Sciences
+IUPAC           International Union of Pure and Applied Chemistry
+IUPS            International Union of Physiological Sciences
+IWC             International Whaling Commission
+JGOFS           Joint Global Ocean Flux Study
+PAGES           Past Global Environments
+PC              Personal Computer
+RRC             Regional Research Centre
+SCALOP          Standing Committee on Antarctic Logistics and Operations
+SCAR            Scientific Committee on Antarctic Research
+SCOR            Scientific Committee on Oceanic Research
+SO-GLOBEC       Southern Ocean GLOBEC
+SO-JGOFS        Southern Ocean JGOFS
+SPRI            Scott Polar Research Institute
+SSSI            Site of Special Scientific Interest
+START           System for Analysis, Research and Training
+URSI            Union Radio Scientifique Internationale
+UV              Ultra Violet
+WCMC            World Conservation Monitoring Centre
+WCRP            World Climate Research Programme
+
+                                                      CONTENTS                        Page
+
+Opening Address by Dr R M Laws, President of SCAR                     1
+1.  Introduction                                                      3
+2.  The Antarctic and Global Change                                   3
+3.  SCAR-COMNAP Cooperation                                            4
+4.  Protocol on Environmental Protection to the Antarctic Treaty      4
+5.  Environmental Affairs and Conservation                            4
+6.  Antarctic Data                                                    5
+7.  Antarctic Digital Database                                        5
+8.  Hydrographic Charting in Antarctic Waters                         5
+9.  Seals                                                             6
+10. Southern Ocean Ecology                                            6
+11. Code of Conduct for Use of Animals for Scientific Purposes in Antarctica  7
+12. Protection of Antarctic Geological Specimens                     7
+13. Recent SCAR Publications                                          7
+
+Appendix 1: SCAR Executive Committee (March 1994)                      10
+Appendix 2: Membership of SCAR                                        11
+Appendix 3: SCAR Code of Conduct for Use of Animals for Scientific 
+            Purposes in Antarctica                                    12
+Appendix 4: Recommendation SCAR XXII-1: On Protection of 
+            Geological Specimens                                      13
+Appendix 5: List of acronyms and abbreviations                         14
+
+List of Annexes (only one set of annexes per Delegation)
+
+Annex 1   The distribution and abundance of Antarctic and 
+          Subantarctic penguins
+Annex 2   The role of the Antarctic in global change: an international 
+          plan for a regional research programme
+Annex 3   Antarctic Pack Ice Seals programme: a prospectus
+IX.   At the end, or, when appropriate, during an experiment animals that would otherwise 
+      suffer severe or chronic pain, distress, discomfort, or disablement that cannot be 
+      relieved should be painlessly killed.
+
+X.   The best possible living conditions and supervision should be maintained for animals 
+     kept for biomedical purposes.
+
+XI.  It is the responsibility of the director of an institute or department using animals to 
+      ensure that investigators and personnel have appropriate qualifications or experience for 
+      conducting procedures on animals. Adequate opportunities shall be provided for in-
+      service training, including the proper and humane concern for the animals under their 
+      care.
+
+                                                                  Appendix 4
+
+                             Recommendation SCAR XXIII-1
+
+                             On Protection of Geological Specimens
+
+RECALLING the commitment to environmental protection under the Antarctic Treaty;
+RECOGNIZING the increasing frequency of non-scientific activities in Antarctica; and
+RECOGNIZING further the consequent possible loss of scientifically valuable geological 
+specimens;
+
+MINDFUL of the possible consequences of identifying the location of such geological 
+specimens through formal site protection;
+
+NOTING the likelihood of further discoveries of such specimens;
+
+SCAR recommends that:
+
+1. Geological specimens, such as fossils, minerals, meteorites, volcanic bombs and 
+   ventifacts in Antarctica should be collected for scientific or educational purposes and not for 
+   commercial gain;
+
+2. Geological samples collected from Antarctica for these purposes should be properly 
+   curated in institutions accessible to the scientific community and, wherever possible, should be 
+   publicly displayed.
+
+                                                                                                  13
+SCAR CODE OF CONDUCT FOR
+USE OF ANIMALS FOR SCIENTIFIC PURPOSES
+IN ANTARCTICA
+
+PREAMBLE
+
+RECOGNIZING that Man has a moral obligation to respect all animals and to have due 
+consideration for their capacity for suffering and memory:
+
+ACCEPTING nevertheless that Man in his quest for knowledge has a need to use animals where 
+there is a reasonable expectation that the result will provide a significant advance in 
+knowledge or be of overall benefit for animals;
+
+RESOLVED to limit the use of animals for experimental and other scientific purposes, with the 
+aim of replacing such use wherever practical, in particular by seeking alternative measures 
+and encouraging the use of these alternative measures;
+
+DESIRING to adopt common provisions in order to protect animals used in those procedures 
+which may possibly cause pain, suffering, distress or lasting harm and to ensure that where 
+unavoidable they shall be kept to a minimum;
+
+SCAR has adopted a code of conduct which is based on the international guiding principles for 
+biomedical research involving animals as developed by the Council for International 
+Organization of Medical Sciences.
+
+CODE OF CONDUCT
+
+I.     The advancement of biological knowledge and the development of improved means to 
+       the protection of the health and well-being both of man and of the animals require 
+       recourse to experimentation on intact live mammals and birds of a wide variety of 
+       species.
+
+II.    Methods such as mathematical models, computer simulation and in vitro biological 
+       systems should be used wherever appropriate.
+
+III.   Animal experiments should be undertaken only after due consideration of their 
+       relevance for human or animal health and the advancement of biological knowledge.
+
+IV.    The animals selected for an experiment should be of an appropriate species and quality, 
+       and the minimum number required to obtain scientifically valid results.
+
+V.     Investigators and other personnel should never fail to treat animals as sentient, and 
+       should regard their proper care and use and the avoidance or minimization of 
+       discomfort, distress, or pain as ethical imperatives.
+
+VI.    Investigators should assume that procedures that would cause pain in human beings 
+       cause pain in other mammals and in birds.
+
+VII.   Procedures with animals that may cause more than momentary or minimal pain or 
+       distress should be performed with appropriate sedation, analgesia, or anaesthesia in 
+       accordance with accepted veterinary practice. Surgical or other painful procedures 
+       should not be performed on unanaesthetized animals paralyzed by chemical agents.
+
+VIII.  Where waivers are required in relation to the provisions of articles IV, V and VI, by a suitably constituted 
+       review body. Such waivers should not be made solely for the purposes of teaching or 
+       demonstration
+
+
+                                                               12
+
+
+SCAR REPORT TO XVIII ATCM
+KYOTO, JAPAN
+11-22 APRIL 1994
+
+OPENING ADDRESS BY DR R M LAWS, PRESIDENT OF
+THE SCIENTIFIC COMMITTEE ON ANTARCTIC RESEARCH
+
+SCAR is pleased to participate in this meeting and looks forward to making a 
+contribution towards its success. The SCAR activities since XVII ATCM have 
+involved a number of continuing, new, and developing programmes that are 
+very relevant to the work of the Antarctic Treaty System.
+
+The membership of SCAR has not changed but applications for Associate 
+Membership, from Canada and Ukraine, will be considered at XXIII SCAR to 
+be held in Rome, Italy in September 1993. The closer relations with COMNAP, 
+have been formalized by annual joint meetings of our two Executive 
+Committees, the first held in Stockholm, Sweden in April 1993. Continuing 
+areas of close cooperation are: environmental monitoring, data coordination and 
+management, and global change research.
+
+SCAR continues to be active in initiating, promoting and coordinating a 
+diversity of scientific activities, but only a few can be briefly noted here. First, 
+a major new SCAR programme is described in "The Role of the Antarctic in 
+Global Change" and the SCAR Group of Specialists on Global Change and the 
+Antarctic (GLOCHANT) has commenced its work; two meetings have been 
+held, in Cambridge, UK (1993) and Grenoble, France (1994). Adequate 
+funding is critical to the success of this major programme and a GLOCHANT 
+Special Fund is being set up, to which it is expected National Operators will 
+contribute. Proposals have been invited to host a Regional Research Centre 
+(RRC) for the programme on the lines of an RRC for IGBP-START, and to 
+provide a co-ordinator. Talks have been held with IGBP and it is hoped that in 
+due course the SCAR RRC can be integrated within START. The planning and 
+coordination groups have begun their work.
+
+Secondly, the Group of Specialists on Environmental Affairs and Conservation 
+(GOSEAC) has continued its work which is increasingly relevant to the 
+
+Thirdly, progress has been made on Antarctic data management by the SCAR-
+COMNAP ad-hoc Planning Group on Antarctic Data Management, which held 
+its second meeting in Boulder, Colorado, USA during September 1993. This 
+meeting developed the concept of the Antarctic Data Directory System (ADDS) 
+including an Antarctic Master Directory (AMD). A detailed implementation plan 
+has been drawn up to provide a framework for decisions about participation in 
+and management of the system. The cost-effectiveness and feasibility of 
+proceeding to the second phase proposed earlier - an Antarctic Database System 
+- has not been demonstrated and may be superseded by the development of 
+distributed database technology, within the World Data Centre system. A 
+prototype Antarctic Master Directory is being prepared for demonstration to 
+SCAR. If a suitable proposal is received for hosting the AMD, the ADDS could 
+be operational in 1995. A full report will be made to XIX ATCM in 1995. An 
+Antarctic Digital Database (SCAR copyright) has been prepared, consisting of a 
+topographical database on CD-ROM, with a User's Guide and Reference 
+Manual                     
+
+Other groups have been active. For example, the SCAR Group of Specialists 
+on Seals has developed a new programme on Antarctic Pack Ice Seal (APIS), 
+which can be expected to produce information of value to CCAS, CCAMLR 
+(including CEMP), CEP, and other international programmes concerned with 
+the Southern Ocean. The SCAR Group of Specialists on Southern Ocean 
+Ecology has developed a programme for research in the Antarctic coastal and 
+shelf zone. The overall aim of this CS-EASIZ programme is to improve our 
+understanding of the structure and dynamics of the Antarctic coastal and shelf 
+marine ecosystem, the most complex and productive in Antarctica, and likely 
+the most sensitive to global environmental change. APIS will overlap and 
+complement CS-EASIZ in its ecological orientation and aim of detecting and 
+understanding environmental change. There will also be close links with 
+CCAMLR, and other international programmes.
+
+I have mentioned only some of the highlights in the diversity of SCAR 
+activities. In these and other ways SCAR wishes to maintain its input of advice 
+to the Antarctic Treaty System, but I must end, as did my opening address to 
+XVII ATCM, by again reminding this meeting of the rigorous financial 
+constraints which regrettably limit SCAR activities, both in basic and applied 
+science. Support from the Antarctic Treaty System would be appropriate and 
+welcome in enabling us to carry out, even more effectively, our applied role (a 
+secondary role as seen by our parent body, the International Council of 
+Scientific Unions (ICSU)), of providing scientific advice to the Treaty.
+
+                                                                 MEMBERSHIP OF SCAR
+                                                             (November 1993)
+
+Full members:                                           Date of admission to        Date of admission to
+                                                       Associate Membership          Full Membership
+                                                          
+Argentina                                              3 February 1958            3 February 1958
+Australia                                              3 February 1958            3 February 1958
+Belgium                                                3 February 1958            3 February 1958
+Chile                                                  3 February 1958            3 February 1958
+France                                                 3 February 1958            3 February 1958
+Japan                                                  3 February 1958            3 February 1958
+New Zealand                                            3 February 1958            3 February 1958
+Norway                                                 3 February 1958            3 February 1958
+South Africa                                           3 February 1958            3 February 1958
+Russia (formerly Union of Soviet Socialist Republics)  3 February 1958            3 February 1958
+United Kingdom                                        3 February 1958            3 February 1958
+United States of America                               3 February 1958            3 February 1958
+Germany (now including former German Democratic Republic)                          22 May 1978
+Poland                                                 22 May 1978
+India                                                  1 October 1984
+Brazil                                                 1 October 1984
+China                                                  23 June 1986
+Sweden                        (24 March 1987)          12 September 1988
+Italy                         (19 May 1987)           12 September 1988
+Uruguay                       (29 July 1987)          12 September 1988
+Spain                         (15 January 1987)       23 July 1990
+Netherlands                   (20 May 1987)           23 July 1990
+Korea, Republic of           (18 December 1987)      23 July 1990
+Finland                       (1 July 1988)           23 July 1990
+Ecuador                       (12 September 1988)     15 June 1992
+
+Associate Members:
+                                                        
+Peru                          14 April 1987
+
+Appendix 1
+
+SCAR EXECUTIVE COMMITTEE
+(March 1994)
+
+President:
+
+Dr R M Laws CBE FRS
+St Edmund's College, Cambridge, CB3 0BN, United Kingdom.
+Telephone: +44 223 350398; Fax: +44 223 336549
+
+Past President:
+
+Dr C Lorius
+Laboratoire de Glaciologie et de Géophysique de l'Environnement,
+Domaine Universitaire BP 96, 38402 St-Martin-d'Hères Cedex, France.
+Telephone: +33 76 51 53 49; Fax: +33 76 51 32 48
+
+Vice-Presidents:
+
+Prof C R Bentley
+Geophysical and Polar Research Center, University of Wisconsin, Weeks Hall,
+1215 West Dayton Street, Madison, Wisconsin 53076-1692, USA.
+Telephone: +1 608 262 1922; Fax: +1 608 262 0693
+
+Dr Z Dong
+451 Shangchuan Road, Pudong, Shanghai 200 129, China.
+Telephone: +86 21 884 7149; Fax: +86 21 884 7401
+
+Dr C A Rinaldi
+Instituto Antártico Argentino, Cerrito 1248, Buenos Aires 1010, Argentina.
+Telephone: +54 1 812 1689; Fax: +54 1 812 2039
+
+Secretary:
+
+Prof K Birkenmajer
+Instytut Nauk Geologicznych, PAN ul Senacka 3, 31-002 Kraków, Poland.
+Telephone: +48 12 22 89 20; Fax: +48 12 22 16 09
+
+Chairman of COMNAP:
+
+Ing M Zucchelli
+ENEA, CRE CASSACCIA, PO Box 2400, 00100 Roma AD, Italy.
+Telephone: +39 6 30484939; Fax: +39 6 30484893
+
+Executive Secretary:
+
+Dr P D Clarkson
+Scientific Committee on Antarctic Research, Scott Polar Research Institute,
+Lensfield Road, Cambridge, CB2 1ER, United Kingdom.
+Telephone: +44 223 62061; Fax: ++44 223 336549
+
+10
+
+SCAR REPORT TO XVIII ATCM
+Kyoto, Japan
+11-22 April 1994
+
+1. INTRODUCTION
+
+Since XVII ATCM in Venice, November 1992, the SCAR Executive Committee has met in
+Stockholm, April 1993, and some SCAR groups have held meetings. A new venture was the
+first formal joint meeting of the SCAR Executive with the COMNAP Executive. This meeting
+was particularly valuable in enabling both these organizations to work together in close
+cooperation in order to promote and facilitate scientific research in the Antarctic.
+
+The membership of SCAR has not changed since XVII ATCM but two applications for
+Associate Membership, from Canada and Ukraine, will be considered by Delegates at XXIII
+SCAR, to be held in Rome, Italy, 5-9 September 1994. Similarly, the membership of the
+Executive Committee has not changed (see appendices 2 and 3).
+
+This report is available for all participants at XVIII ATCM but the three annexed SCAR
+publications are limited to one set per Delegation.
+
+2. THE ANTARCTIC AND GLOBAL CHANGE
+
+At XXII SCAR the Delegates approved the establishment of a Group of Specialists on Global
+Change and the Antarctic to coordinate the SCAR global change programme set out in "The
+Role of the Antarctic in Global Change: An International Plan for a Regional Research
+Programme". Professor C R Bentley was appointed Convenor of the Group of Specialists.
+
+The Group held its first meeting (GLOCHANT 1) in Cambridge, United Kingdom, during
+February 1993. A number of modifications to the original proposals from the Bremerhaven
+Workshop in September 1991, were made. In particular, the Group proposed five Planning
+Groups for five of the six core programmes, the sixth core programme on detection of global
+change to be incorporated into the planning of each group as appropriate. Two coordination
+groups were also proposed for data and numerical modelling; the activities of these groups
+being applicable to all the planning groups. The SCAR Executive also accepted a suggestion
+from the co-chairmen of the SCAR-COMNAP ad hoc Planning Group on the Management of
+Antarctic Data that the ad hoc group should initially serve also as the GLOCHANT data
+coordination group. The Executive emphasized the importance of GLOCHANT members
+maintaining liaison with other SCAR groups and international programmes on a two-way
+basis, noting particularly the programme being planned by IASC.
+
+At its meeting in Stockholm, the SCAR Executive discussed various ideas for funding for the
+Group of Specialists and the Planning and Coordination Groups but, although several possible
+sources
+In October 1993, SCAR National Committees were invited to submit proposals to host a 
+Regional Research Centre (RRC) for the SCAR programme of global change research in the 
+Antarctic, along the lines of an RRC for IGBP-START. The RRC would also house a 
+Coordinator for the programme and both the Centre and the Coordinator would be funded by 
+the host. This exercise elicited two proposals, one of them a joint proposal between three 
+countries, and the SCAR Executive is about to make a decision on this.
+
+In February 1994, the Group of Specialists held its second meeting, GLOCHANT II, near 
+Grenoble, France. Progress was reviewed, particularly the progress of the Planning and 
+Coordinating Groups. Some of these had already held meetings, one has just completed 
+determining its membership, and one held a workshop on ice-drilling immediately following 
+the meeting. This workshop was supported by the IGBP-PAGES programme. The meeting 
+was also attended by Dr N Swanberg, Deputy Executive Director of IGBP, who contributed to 
+the discussion on the proposed SCAR RRC and the way in which it could be integrated within 
+the START framework of RRCs. There are certain difficulties in achieving this because the 
+Antarctic is unique and the START framework is structured on sovereign territories with 
+indigenous populations. However, once the RRC is in operation a proposal for it to be 
+included within the START network will be made that, if successful, will be to the benefit of 
+both organizations.
+
+3. SCAR-COMNAP COOPERATION
+
+The Executive Committees of SCAR and COMNAP now hold annual joint meetings. These 
+are normally held in conjunction with the biennial SCAR meeting in even-numbered years and 
+either with the annual COMNAP meeting or at some other time during odd-numbered years. 
+The first of these meetings was held in Stockholm, Sweden, during April 1993. These 
+meetings enable the Executives to examine together those items that are of immediate concern to 
+both organizations and allow closely coordinated planning to proceed. They also allow joint 
+discussion of matters of mutual interest.
+
+An illustrated booklet describing the activities of both organizations is currently being prepared 
+and publication is planned for late 1994 or early 1995.
+
+4. Protocol on Environmental Protection to the Antarctic 
+Treaty
+
+The text of the Protocol and of Annexes I to V inclusive was published in SCAR Bulletin No 
+110 for July 1993 to make it more readily available throughout the SCAR community. The 
+SCAR Bulletin is also published in Polar Record which has a wider circulation outside SCAR.
+
+5. Environmental Affairs and Conservation
+
+The Group of Specialists on Environmental Affairs and Conservation met in Gorizia, Italy, 
+during April 1993 (GOSEAC V). Key topics discussed included:
+
+      • the inspection checklist - a joint SCAR-COMNAP Working Paper will be submitted to 
+XVIII ATCM;
+
+      • environmental monitoring - a joint SCAR-COMNAP Working Paper will be submitted 
+to XVIII ATCM;
+
+      • incineration - a SCALOP survey on incinerators has been completed and will be 
+discussed at GOSEAC VI;
+
+      • station matrix - to include essential parameters for environmental monitoring;
+
+      • ecosystem matrix - this is undergoing further revision and will be discussed at 
+GOSEAC VI;
+
+4
+
+                                                                  9
+
+Recent Progress in Antarctic Earth Science
+
+This is the proceedings volume of the Sixth International Symposium on Antarctic Earth 
+Sciences held in Saitama, Japan, during September 1991. It contains 100 papers selected from 
+the 264 papers and posters presented at the symposium. The book is divided into five sections 
+on: 1. Crustal evolution: East Antarctic Shield; 2. Crustal Evolution: Transantarctic Mountains 
+and West Antarctica; 3. Syn- and Post-Breakup of Gondwana; 4. Recent Tectonics of 
+Antarctic Peninsula and Subantarctic Regions; 5. Terrestrial Geophysics.
+
+The arrangement of the book and the selection of papers reflects both the aim of the geological 
+community to have more focused meetings than in the past and the particular interests of 
+Japanese geologists working in Antarctica. The book includes a number of review papers as 
+well as many papers reporting the results of specific research studies. Thus the magmatic and 
+tectonic history of the continent is well-described and this is related in section 3 to the former 
+position of Antarctica within Gondwana. The last section on terrestrial geophysics includes 
+papers that use remote-sensing techniques to amplify the findings of traditional geological 
+studies on exposed surfaces. As a whole, the book provides a compilation of recent geological 
+research on the tectonic and crustal evolution of Antarctica.
+
+Recent progress in Antarctic earth science.
+Edited by Y Yoshida, K Kaminuma and K Shiraishi. Tokyo,
+Note:    copies of the Database have been distributed to SCAR National Committees 
+and Associate Members and to all members of the SCAR Working Group 
+on Geodesy and Geographic Information.
+A combined information leaflet and order form is enclosed with this report.
+
+BIOTAS Manual of Methods for Antarctic terrestrial and freshwater research.
+Edited by D D Wynn-Williams on behalf of the SCAR BIOTAS Programme. Cambridge,
+Scientific Committee on Antarctic Research, 1992, 273 pp. ISBN 0 948277 13 0.
+
+The following three books have been published commercially:
+
+     Antarctic Seals: Research Methods and Techniques
+
+This book arose from the work of the SCAR Group of Specialists on Seals when it became
+apparent that there was a need to standardize seal research methods and techniques as various
+national programmes began to undertake seal studies in the Antarctic. It gives a detailed
+account of well-tried and, where possible, agreed methodologies, techniques, procedures and
+rationales for the collection and initial analysis of data on the biology and population ecology of
+Antarctic seals. It will not only help to facilitate comparisons between different regions of
+Antarctica, but will also provide a guide for those studying seals in other parts of the world and
+those carrying out research on other large mammal species. There are 17 chapters, written by
+acknowledged experts in the field, covering all aspects of seal research, including:
+identification of species; estimation of population sizes; immobilization and capture; marking
+techniques; telemetry and electronic technology; behaviour; killing methods; morphometrics,
+specimen collection and preservation; genetic-based studies for stock separation; collection of
+material for the determination of organochlorine and heavy metal levels; age determination;
+reproduction; diet; bioenergetics; and development of technology and research needs. There is
+a final chapter of appendices, three dealing with names of seals and other mammals, three
+stating the conservation measures established under the Antarctic Treaty, and one giving the
+SCAR Code of Conduct for Use of Animals for Scientific Purposes in Antarctica.
+
+     Antarctic seals: research methods and techniques.
+Edited by R M Laws on behalf of the SCAR Group of Specialists on Seals. Cambridge,
+Cambridge University Press, 1993, 390 pp. ISBN 0 521 44302 4.
+
+     Southern Ocean Ecology: the BIOMASS Perspective.
+
+This is the proceedings volume of the BIOMASS Colloquium that was held in Bremerhaven,
+Germany, during September 1991. The aim of the Colloquium was to review and summarize
+the results of almost 15 years of marine biological research in the Southern Ocean under the
+BIOMASS programme.
+
+The volume is arranged in six sections: Antarctic marine environment - physical oceanography;
+Antarctic marine stocks - phytoplankton and zooplankton; Antarctic marine stocks - krill;
+Antarctic marine stocks - fish and birds; Antarctic marine systems; Future development. There
+is an introduction "History, organization and accomplishments of the BIOMASS programme"
+by Professor El-Sayed, and a closing section "Critical appraisal of the BIOMASS programme"
+by Professor G E Fogg. The six main sections comprise a total of 20 papers and there is a
+discussants report at the end of each of these sections.
+
+     Southern Ocean ecology: the BIOMASS perspective.
+Edited by S Z El-Sayed on behalf of the SCAR BIOMASS Programme. Cambridge,
+Cambridge University Press, 1994, 399 pp. ISBN 0 521 44332 6.
+
+8
+
+•  in situ burning of hydrocarbon spills - a set of papers with special reference to 
+problems in the polar regions will be discussed at GOSEAC VI;
+•  environmental impact assessments - GOSEAC VI will begin an assessment of the 
+scientific content of environmental impact assessments. It was noted that circulation of 
+these was very variable and did not always follow the circulation given in the Protocol;
+the timing of circulation was also variable and did not always allow sufficient time for 
+comment;
+•  protected areas - a letter sent to SCAR National Committees urging them to review and 
+revise the management plans for protected areas has produced encouraging results.
+
+The GOSEAC V meeting was followed by a Workshop on Environmental Education and 
+Training, sponsored jointly by SCAR and IUCN. The workshop proceedings are currently 
+being edited for publication.
+
+The next GOSEAC meeting (GOSEAC VI) will be held in Santiago, Chile, during May 1994.
+A major agenda item will be consideration of ten revised management plans for protected area 
+as well as a new protected area proposal, submitted by several countries as a result of the letter 
+to National Committees.
+
+A meeting to discuss the situation at Arrival Heights ( SSSI No 2) was held in Cambridge 
+during March 1994 between United States and New Zealand scientists under SCAR 
+
+9. SEALS
+
+The SCAR Group of Specialists on Seals has developed a programme to study the Antarctic Pack Ice Seals (APIS). As top predators, seals are likely to be sensitive to changes in the dynamics of ecosystems and, in particular, to variations in the flow of photosynthetically-fixed carbon to higher levels in the food chain caused by climatic or ecological changes. Pack ice seals are excellent indicators of large scale environmental change and, on a smaller scale, variations in seal distribution, abundance and features of their behaviour and physiology in different localities, years and seasons, can provide insights into changes in oceanographic features. Pack ice seals could be used as free-ranging platforms on oceanographic instruments to record and relay (via satellites) data on sea temperature, salinity and ambient light at depth. There is also an urgent need to assess their functional significance in Southern Ocean ecosystems.
+
+The questions to be asked concern: the causes and scale of variation in their distribution and abundance; explanations of the greater abundance of crabeater seals; whether there are more Antarctic seals in relation to primary production than in other regions and if so why; why their life history parameters fluctuate in a periodic fashion; why these parameters and their observed densities have changed over the past 30 years; how their diets and foraging strategies have adapted to optimize utilization of their food resources; whether they have physiological and behavioural adaptations that make them unusually efficient ecologically; how much carbon they transfer to the atmosphere; and whether there are physiological, condition or behavioural indices that could be used to appraise the pack ice ecosystem through studies of these seal populations?
+
+The APIS Programme can be expected to produce information of value to several Antarctic research programmes and inter-governmental organizations. These include CEP, CCAS, CCAMLR, (including CEMP), SO-GLOBEC, SCOR, SO-JGOFS, SCAR-GLOCHANT, and IWC. A copy of the proposed programme is given at Annex 3.
+
+10. Southern Ocean Ecology
+
+The Group of Specialists on Southern Ocean Ecology has developed a SCAR programme of marine research for the Coastal and Shelf Ecosystem of the Antarctic Sea-Ice Zone (CS-EASIZ).
+
+EASIZ developed at a series of workshops, principally in Trondheim (May 1990) and Bremerhaven (September 1991). Elements of the EASIZ initiative, and particularly those associated with open ocean biology, were elaborated by the Southern Ocean components of existing or evolving international programmes: SO-JGOFS and SO-GLOBEC. A key feature of the EASIZ initiative, however, was to provide a scientific framework for the integration of the research carried out at the array of coastal marine stations around Antarctica. This is the role undertaken by the SCAR Coastal and Shelf EASIZ programme (CS-EASIZ) which thereby incorporates much of the heart of the original EASIZ initiative.
+
+The CS-EASIZ programme was developed at workshops in Cambridge (September 1992) and Bremerhaven (September 1993) and was endorsed by the SCAR Executive at its meeting in Stockholm (April 1994).
+
+Scientific aim of the programme
+
+The overall scientific aim of the EASIZ initiative, as it evolved at the Trondheim workshop (May 1990) was:
+
+    To determine the role of the Antarctic sea-ice zone on Antarctic marine systems and 
+    in the control of global biogeochemical and energy exchanges.
+
+The aim is very general and applies equally to coastal and open-ocean areas. Within Antarctica the coastal zone has the greatest concentration of biomass and is the site of most intense production. A more specific rationale for work in the coastal zone of Antarctica is that developed at the Bremerhaven (September 1993) workshop:
+
+    The aim of the CS-EASIZ programme is to improve our understanding of the 
+    structure and dynamics of the Antarctic coastal and shelf marine ecosystem, the 
+    most complex and productive in Antarctica, and likely the most sensitive to global 
+    environmental change. Particular attention will be paid to those features that make 
+    the biology of this ice-dominated ecosystem so distinctive, and to understanding 
+    seasonal, inter-annual, and long-term changes.
+
+11. Code of Conduct for Use of Animals for Scientific Purposes in Antarctica
+
+The SCAR Working Group on Biology appointed a sub-group, under the Chairmanship of Professor A S Blix, to develop a Code of Conduct for Use of Animals for Scientific Purposes in Antarctica. The Code of Conduct was adopted at XXI SCAR for forwarding through National Committees to Governments for introduction at the next ATCM. The Code of Conduct was tabled as a Working Paper at XVII ATCM but there was insufficient time for it to be considered in Working Group II. The Code of Conduct will be re-submitted at XVIII ATCM under Agenda Item 12. The text of the Preamble and the Code of Conduct are attached at Appendix 3.
+
+12. Protection of Antarctic Geological Specimens
+
+At XXII SCAR the Working Group

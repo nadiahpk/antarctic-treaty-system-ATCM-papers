@@ -1,0 +1,912 @@
+Seismic activity and associated risk in Antarctica
+Seismic activity and associated risk in Antarctica
+Information paper submitted by SCAR
+Summary
+In 2021, ATCM Resolution 7 invited SCAR to provide a report on
+seismic activity in Antarctica, recognising the risks of seismic and
+volcanic activity for people and infrastructure, and the need to
+undertake monitoring and research on seismic activity and the risks
+associated with a high-magnitude seismic or volcanic event. This
+paper provides information on the causes and locations of seismic
+activity in Antarctica, and associated seismic hazard. It also
+provides an inventory of seismic stations which locate and record
+seismic activity, and recommends ongoing support for seismic
+monitoring and research. SCAR will continue to work with The
+Council of Managers of National Antarctic Programs (COMNAP)
+towards further assessment of seismic risk near Antarctic stations,
+noting that priority should be given to the northern Antarctic
+Peninsula, Bransfield Strait, South Shetland Islands and South
+Orkney Islands, as well as other regions with seismic clusters such
+as Victoria Land, Ross Island, Queen Mary Land and Adélie Land.
+Background
+Antarctica is mostly a seismically quiet continent surrounded by
+oceans. Compared to other parts of the world, seismic activity in
+Antarctica is generally low (Kaminuma, 1976; Reading, 2007;
+Kanao, 2014). The thick ice sheet inhibits most earthquakes on the
+Antarctic continent (Johnston, 1987), although glacial isostatic
+adjustment resulting from ice loss favours glacial seismotectonic
+activity (Muir-Wood, 2000; Turpeinen et al., 2008). Most seismic
+activity in Antarctica is caused by tectonic movements near plate
+boundaries located in the Southern Ocean although intraplate
+activity has also been observed (Lough et al., 2018). Active plate
+boundaries are found near the Antarctic Peninsula, including the
+boundaries between the Antarctic, South American, Scotia, and
+Sandwich plates. Victoria Land also experiences significant seismic
+activity. The largest earthquake ever recorded in or around
+Antarctica, with a magnitude of Mw 8.1, occurred in the Southern
+Ocean near the Balleny Islands in 1998 (Nettles et al., 1999;
+Himeno et al., 2011). Additionally, seismic activity is related to
+glacial isostatic adjustment and cryoseismicity, mainly in local areas
+near coasts. The seismic activity related to volcanoes is local but
+also significant, such as at Mount Erebus (Kaminuma, 1987; Rowe
+et al., 1998, 2000; Konstantinou et al., 2019) and Deception Island
+(Carmona et al., 2012; Jimenez-Morales et al., 2017, 2022; Moreno-
+Vacas and Almendros, 2021).
+Seismic hazard is a function of the magnitude and depth of seismic
+activity and the geological structure that determines the peak and
+spectral ground motion parameters in addition to earthquake
+recurrence. Seismic risk depends on seismic hazard and in addition
+it is influenced by other factors such as population density, location
+and infrastructure vulnerability, and other processes associated with
+seismic events, such as landslides, tsunamis, and liquefaction. It is
+crucial to assess ground shaking and related geohazards to prepare
+for worst-case scenarios and take measures to reduce vulnerability
+to seismic events.
+Location of seismic stations in Antarctica
+Seismic stations are essential for the location and characterisation
+of seismic activity in Antarctica. Although stations situated far from
+the study area around the world can still record significant
+earthquakes, those located proximally enable a more accurate
+location and recording of seismic activity, particularly for low-
+magnitude local earthquakes. The inventory of seismic
+stations in Antarctica (Table 1, Figure 1) includes the stations of the
+International Registry of Seismograph Stations, which are
+maintained by the International Seismological Centre and the World
+Data Center for Seismology (http://www.isc.ac.uk/registries/).
+However, it does not perform continuous control of the stations and
+may be not be up to date. Permanent stations with real-time records
+around the world are part of international virtual networks, such as
+the Global Seismographic Network (GSN), which is part of the IRIS
+consortium (https://www.iris.edu/hq/programs/gsn). The
+permanent seismic stations of the IRIS network in Antarctica (e.g.
+South Pole; Anthony et al., 2021) are shown in Figure 1. These
+stations cover Antarctica and help quickly identify and locate major
+earthquakes. Furthermore, several institutions from different
+countries have deployed seismic stations in areas of high seismicity,
+such as around the northern part of the Antarctic Peninsula (e.g.
+Seismographic Argentinian- Italian network, Linares et al., 2021;
+Spanish network, and other stations, see Annex 1) and in Victoria
+Land. Other countries are expanding and improving their seismic
+networks.
+In addition, non-permanent networks are important because they
+allow lower earthquake detection thresholds, better understanding
+the behaviour of seismicity in a region, and determining the
+geological structures responsible for earthquake generation. They
+have been deployed as part of the International Polar Year 2007-08,
+such as the Polenet/Anet network (Figure 2) (https://polenet.org/
+sites/), and some of them remain active. Several examples of
+temporary deployments exist in the Bransfield Strait (Robertson-
+Maurice et al. 2003; Dziak et al. 2010; Ibanez et al. 2017;
+Almendros et al. 2020).
+It is necessary to update the list of operational seismic stations to
+determine whether there is sufficient station coverage in areas of
+seismic hazard interest.
+Seismicity distribution in Antarctica and seismic hazard
+The USGS Earthquake Catalogue is one of the most comprehensive
+databases providing information on the location of seismicity in
+Antarctica (https://earthquake.usgs.gov/earthquakes/search/).
+Most seismic activity south of 60˚S (Figure 3) is shallow (0-33 km
+deep), mainly of tectonic origin, and is associated with plate
+boundaries which in some cases is also linked to volcanic activity
+(Reading, 2007; Kanao, 2014). Seismicity primarily occurs in
+oceanic areas, but two continental regions show significant seismic
+activity due to tectonic deformation: (i) the South Shetland Islands
+– northern Antarctic Peninsula, and (ii) the Victoria Land – Ross
+Sea.
+The South Shetland continental block, which is separated from the
+Antarctic Peninsula by a rifted basin in Bransfield Strait, is the area
+with the highest seismic activity around Antarctica (Kaminuma,
+1976; Pelayo and Wiens, 1989; Larter, 2001; Reading, 2007; Kanao,
+2014) (Figure 4). Earthquakes with Mw>5 have affected this
+region because of the tectonic opening of the Bransfield Strait,
+reaching magnitudes of Mw 7.0 and Mw 6.9 on both extremes of
+the strait due to ongoing crustal deformation, confirmed by the
+earthquake focal mechanisms and geodetic GPS measurements.
+Additionally, seismicity related to volcanic activity and ongoing
+extension repeatedly occurs in the form of high-rate seismic
+swarms. For example, in 2014, a seismic swarm with ~9000
+earthquakes and maximum magnitude of 4.9 (mb) occurred SE of
+Livingston Island (Almendros et al. 2018). A recent episode
+southeast of King George Island has been particularly intense, when
+a swarm of > 85.000 earthquakes reached magnitudes of up to Mw
+5.7 (Olivet et al., 2021; Cesca et al., 2022). Further seismicity
+unrest has also occurred near Deception Island (Carmona et al.,
+2012; Moreno-Vacas and Almendros, 2021; Jiménez-Morales et al.,
+2022). Further east, significant seismicity, including earthquakes
+reaching Mw 7.7, occurs near the South Orkney Islands, and is
+related to the slow left-lateral strike-slip motion on the Scotia/
+Antarctic plate boundary (Ye et al., 2014).
+In Victoria Land, seismicity is distributed (Adams, 1969; Reading,
+2007; Kanao, 2014) (Figure 3) and reaches up to Mw 6.3, probably
+related to the reactivation of a major geological boundary that
+separates East and West Antarctica, limited by the Trans-Antarctic
+Mountains, or related to glacial processes. Mount Erebus volcano,
+located in Ross Island, also has related seismicity (Kaminuma, 1987;
+Rowe et al., 1998).
+Sparse seismicity also occurs in other Antarctic areas (Figure 3)
+with magnitudes lower than Mw 5, probably related to glacial
+seismotectonic activity associated with glacial isostatic adjustment
+of Antarctica, which favours seismicity in continental crustal rocks
+(Kaufmann et al., 2005; Pascal et al., 2010) and cryoseismicity
+(Nettles et al., 2010) related to ice displacement. Significant clusters
+of earthquakes reaching up to Mw 5.7 events occur in Queen Mary
+Land (SE of Casey station), and up to Mw 5.4 in Adélie Land (west
+of Dumont D’Urville station), but they are relatively far from the
+nearest Antarctic stations.
+The earthquake hazard begins to become significant when the
+magnitude reaches Mw > 4, which can cause local damage.
+However, the hazard to infrastructure and the development of
+landslides and liquefaction increase when the magnitude reaches
+Mw > 5. Most earthquakes reported in the region are shallow,
+meaning that they are closer to the surface and thus pose a greater
+hazard to surface infrastructure in active seismic areas.
+There is a limited amount of research on evaluating peak ground
+motion parameters and Probabilistic Seismic Hazard Analysis
+(PSHA) in Antarctica, with most studies being recent and focused
+on local areas such as Palmer station (Feenstra et al., 2019) and
+Scott Base (Burbidge et al., 2020). These contributions are crucial
+for determining the seismic hazards in the region.
+In addition, there are few studies on seismic-related effects, such as
+landslides, tsunamis, and liquefaction in Antarctica. The seismic
+unrest at the Bransfield Strait (Olivet et al., 2021; Cesca et al.,
+2022) has been interpreted as the result of crustal magmatic
+intrusions on the base of seismological and geodetic data (Cesca et
+al., 2022), although it could not be ruled out, so far, if this was
+accompanied by a submarine eruption. Both shallow seismicity and
+magmatic-driven seismicity have the potential to trigger tsunamis.
+Moreover, the Antarctic Peninsula-Scotia Sea region has
+experienced large submarine landslides that have been linked to
+seismic activity (Ruano et al., 2014; Pérez et al., 2016). Large
+submarine landslides have also affected the southern Weddell Sea
+(Gales et al., 2014). However, no studies have examined the
+potential for large submarine landslides that could result in
+significant tsunamis, as observed in the Arctic Ocean (see, e.g.,
+Vanneste et al., 2006; Pedrosa-González et al., 2022).
+Vulnerability and seismic risk
+The most seismically active and hazardous area of Antarctica,
+which is relatively populated in comparison to most of Antarctica
+and with a strong fluctuation of population over different seasons,
+is the Shetland Islands, the Bransfield Strait coasts, and the northern
+Antarctic Peninsula. Moving eastward, the South Orkney Islands
+area is also one where there is a high seismic hazard, but with only
+two Antarctic stations. The Argentinian Base Orcadas is exposed to
+tsunami risk being only 4 m above the sea level and close to large
+earthquakes (e.g, Mw7.7 November 17, 2013 earthquake) (Figure
+5). The Victoria Land – Ross Sea area also has several Antarctic
+stations and seismic activity is moderate.
+Antarctic infrastructure is generally well built and designed to
+withstand strong weather conditions with high horizontal stress.
+Therefore, in general, constructions should also be relatively sturdy
+to support earthquake shaking, although they should be tested.
+However, interior furnishings may be most vulnerable to damage
+and may pose the highest risk with regards to injuries from falling
+debris, and should be evaluated accordingly.
+The main vulnerability issue for coastal Antarctic stations is their
+location. This placement increases the vulnerability to tsunamis that
+may be produced by sharp seabed fault displacement or by the
+indirect effect of submarine landslides. There is also a potential
+vulnerability to far-travelled tsunamis resulting from great
+earthquakes in other parts of the world.
+Recommendations and conclusions
+Seismic monitoring should be supported, particularly in areas of
+high seismicity and where population is present (South Shetland
+Islands - northern Antarctic Peninsula; Victoria Land). Monitoring
+of other regions with seismic clusters should also be improved (e.g.,
+Queen Mary Land, SE of Casey station and Adélie Land, west of
+Dumont D’Urville station).
+The seismic stations with adequate maintenance generally provide
+the location of relevant earthquakes (Mw> 4 to 5). An update of
+the database of operative seismic stations is necessary to identify
+whether there is adequate station coverage in the areas of interest,
+and to determine the threshold level of the seismic magnitude
+captured by the permanent stations. Improved GNSS networks in
+these regions can also help better identify ground deformations
+related to seismic hazard.
+Efficient sharing of records, ideally in real time, is needed to
+quickly evaluate hazards related to seismic events.
+Promotion of research related to the determination of ground
+motion parameters, Probabilistic Seismic Hazard Analysis (PSHA)
+supported by physics-based numerical simulations and modelling of
+landslide stability close to Antarctic stations.
+With respect to tsunami hazards, submarine faults and areas where
+large landslides have occurred in the Bransfield Strait, South
+Orkney Islands and Victoria Land should be identified to model
+their tsunamigenic effects.
+SCAR will continue to work with COMNAP towards further
+assessment of seismic risk near Antarctic stations, noting that
+priority should be given to the northern Antarctic Peninsula,
+Bransfield Strait, South Shetland Islands and South Orkney Islands,
+as well as to other regions with seismic clusters such as Victoria
+Land, Ross Island, Queen Mary Land and Adélie Land.
+References
+Adams, R. D. (1969). Small earthquakes in Victoria land,
+Antarctica. Nature, 224(5216), 255-256.
+Almendros, J., Carmona, E., Jiménez, V., Díaz‐Moreno, A., &
+Lorenzo, F. (2018). Volcano‐Tectonic Activity at Deception Island
+Volcano Following a Seismic Swarm in the Bransfield Rift (2014–
+2015). Geophysical Research Letters, 45(10), 4788-4798. Anthony,
+R. E., Ringler, A. T., DuVernois, M., Anderson, K. R., & Wilson, D. C.
+(2021). Six decades of seismology at South Pole, Antarctica: Current
+limitations and future opportunities to facilitate new geophysical
+observations. Seismological Research Letters, 92(5), 2718-2735.
+Almendros, J., Wilcock, W., Soule, D., Teixidó, T., Vizcaíno, L.,
+Ardanaz, O., ... & Schmahl, L. (2020). BRAVOSEIS: Geophysical
+investigation of rifting and volcanism in the Bransfield strait,
+Antarctica. Journal of South American Earth Sciences, 104, 102834.
+Anthony, R. E., Ringler, A. T., DuVernois, M., Anderson, K. R., &
+Wilson, D. C. (2021). Six decades of seismology at South Pole,
+Antarctica: Current limitations and future opportunities to facilitate
+new geophysical observations. Seismological Research
+Letters, 92(5), 2718-2735.
+Burbidge, D., Power, W., Gusman, A., Wang, X., Lukovic, B., Black,
+J., ... & Lester, J. (2020). The Scott Base redevelopment: Ross Sea
+geological hazards. Proceedings of the 2020 New Zealand Society
+for Earthquake Engineering Annual Technical Conference.
+Carmona, E., Almendros, J., Serrano, I., Stich, D., & Ibáñez, J. M.
+(2012). Results of seismic monitoring surveys of Deception Island
+volcano, Antarctica, from 1999–2011. Antarctic Science, 24(5),
+485-499.
+Cesca, S., Sugan, M., Rudzinski, Ł., Vajedian, S., Niemz, P., Plank,
+S., ... & Dahm, T. (2022). Massive earthquake swarm driven by
+magmatic intrusion at the Bransfield Strait,
+Antarctica. Communications Earth & Environment, 3(1), 89.
+Dziak, R. P., Park, M., Lee, W. S., Matsumoto, H., Bohnenstiehl, D.
+R., & Haxel, J. H. (2010). Tectonomagmatic activity and ice
+dynamics in the Bransfield Strait back‐arc basin, Antarctica. Journal
+of Geophysical Research: Solid Earth, 115(B1).
+Feenstra, J., Hull, A., Li, F., Fraser, J., Howard, M., & McMorran, T.
+(2019). Estimating seismic Hazard with sparse data: seismic source
+model and sensitivity of a psha for palmer station, Antarctica.
+In Pacific Conference on Earthquake Engineering (No. 185, pp.
+1-11). Johnston, A. C. (1987). Suppression of earthquakes by large
+continental ice sheets. Nature, 330(6147), 467-469.
+Gales, J. A., Leat, P. T., Larter, R. D., Kuhn, G., Hillenbrand, C. D.,
+Graham, A. G. C., ... & Jokat, W. (2014). Large-scale submarine
+landslides, channel and gully systems on the southern Weddell Sea
+margin, Antarctica. Marine Geology, 348, 73-87.
+Himeno, T., Kanao, M., & Ogata, Y. (2011). Statistical analysis of
+seismicity in a wide region around the 1998 Mw 8.1 Balleny Islands
+Earthquake in the Antarctic Plate. Polar science, 5(4), 421-431.
+Ibáñez, J. M., Díaz-Moreno, A., Prudencio, J., Zandomeneghi, D.,
+Wilcock, W., Barclay, A., ... & Alguacil, G. (2017). Database of
+multi-parametric geophysical data from the TOMO-DEC experiment
+on Deception Island, Antarctica. Scientific data, 4(1), 1-18.
+Jimenez-Morales, V., Almendros, J., & Carmona, E. (2017).
+Detection of long-duration tremors at Deception Island volcano,
+Antarctica. Journal of Volcanology and Geothermal Research, 347,
+234-249.
+Jiménez-Morales, V., Almendros, J., & Carmona, E. (2022). Long-
+Term Evolution of the Seismic Activity Preceding the 2015 Seismic
+Crisis at Deception Island Volcano, Antarctica (2008-2015). Surveys
+in Geophysics, 43(3), 959-994.
+Kaminuma, K. (1976). Seismicity in Antarctica. Journal of Physics
+of the Earth, 24(4), 381-395.
+Kaminuma, K. (1987). Seismic activity of Erebus volcano,
+Antarctica. pure and applied geophysics, 125, 993-1008.
+Kanao, M. (2014). Seismicity in the Antarctic continent and
+surrounding ocean. Open Journal of Earthquake Research, 3, 4-14.
+Kaufmann, G., Wu, P., & Ivins, E. R. (2005). Lateral viscosity
+variations beneath Antarctica and their implications on regional
+rebound motions and seismotectonics. Journal of
+Geodynamics, 39(2), 165-181.
+Konstantinou, K. I., Ardiani, M. A., & Sudibyo, M. R. P. (2019).
+Scaling behavior and source mechanism of tremor recorded at
+Erebus volcano, Ross island, Antarctica. Physics of the Earth and
+Planetary Interiors, 290, 99-106.
+Johnston, A. C. (1987). Suppression of earthquakes by large
+continental ice sheets. Nature, 330(6147), 467-469.
+Larter, R. D. (2001). Cenozoic tectonic history, seismicity and
+palaeoseismicity of the Antarctic Peninsula Pacific margin. Terra
+Antartica, 8(1), 79-86.
+Linares, M. P. P., Cravos, C., Laterza, R., Bernardi, P., Comelli, P.,
+Grossi, M., ... & Parolai, S. (2021). The Antarctic Seismographic
+Argentinean Italian Network (ASAIN): Recording Earthquakes in the
+Scotia Sea Region. Seismological Research Letters, 92(5),
+2748-2757.
+Lough, A. C., Wiens, D. A., & Nyblade, A. (2018). Reactivation of
+ancient Antarctic rift zones by intraplate seismicity. Nature
+Geoscience, 11(7), 515-519.
+Moreno-Vacas, A., & Almendros, J. (2021). On the origin of recent
+seismic unrest episodes at Deception Island volcano,
+Antarctica. Journal of Volcanology and Geothermal Research, 419,
+107376.
+Muir-Wood, R. (2000). Deglaciation seismotectonics: a principal
+influence on intraplate seismogenesis at high latitudes. Quaternary
+Science Reviews, 19(14-15), 1399-1411.
+Nettles, M., & Ekström, G. (2010). Glacial earthquakes in Greenland
+and Antarctica. Annual Review of Earth and Planetary Sciences, 38,
+467-491.
+Nettles, M., Wallace, T. C., & Beck, S. L. (1999). The March 25,
+1998 Antarctic plate earthquake. Geophysical Research
+Letters, 26(14), 2097-2100.
+Olivet, J. L., Bettucci, L. S., Castro-Artola, O. A., Castro, H.,
+Rodríguez, M., & Latorres, E. (2021). A seismic swarm at the
+Bransfield Rift, Antarctica. Journal of South American Earth
+Sciences, 111, 103412.
+Pascal, C., Stewart, I. S., & Vermeersen, B. L. (2010). Neotectonics,
+seismicity and stress in glaciated regions. Journal of the Geological
+Society, 167(2), 361-362.
+Pedrosa-González, M. T., González-Vida, J. M., Galindo-Záldivar, J.,
+Ortega, S., Castro, M. J., Casas, D., & Ercilla, G. (2022). Simulation
+of tsunami induced by a submarine landslide in a glaciomarine
+margin: the case of Storfjorden LS-1 (southwestern Svalbard
+Islands). Natural Hazards and Earth System Sciences, 22(12),
+3839-3858.
+Pelayo, A. M., & Wiens, D. A. (1989). Seismotectonics and relative
+plate motions in the Scotia Sea region. Journal of Geophysical
+Research: Solid Earth, 94(B6), 7293-7320.
+Pérez, L. F., Bohoyo, F., Hernández‐Molina, F. J., Casas, D., Galindo‐
+Zaldívar, J., Ruano, P., & Maldonado, A. (2016). Tectonic activity
+evolution of the Scotia‐Antarctic Plate boundary from mass
+transport deposit analysis. Journal of Geophysical Research: Solid
+Earth, 121(4), 2216-2234.
+Reading, A.M.T. (2007). The seismicity of the Antarctic plate. In:
+Stein, S., Mazzotti, S. (Eds.), Continental Intraplate Earthquakes:
+Science, Hazard, and Policy. Geol. Society Am. Special Paper, vol.
+425, pp. 285e298.
+Robertson Maurice, S. D., Wiens, D. A., Shore, P. J., Vera, E., &
+Dorman, L. M. (2003). Seismicity and tectonics of the South
+Shetland Islands and Bransfield Strait from a regional broadband
+seismograph deployment. Journal of Geophysical Research: Solid
+Earth, 108(B10).
+Rowe, C. A., Aster, R. C., Kyle, P. R., Dibble, R. R., & Schlue, J. W.
+(2000). Seismic and acoustic observations at Mount Erebus volcano,
+Ross island, Antarctica, 1994–1998. Journal of Volcanology and
+Geothermal Research, 101(1-2), 105-128.
+Rowe, C. A., Aster, R. C., Kyle, P. R., Schlue, J. W., & Dibble, R. R.
+(1998). Broadband recording of Strombolian explosions and
+associated very‐long‐period seismic signals on Mount Erebus
+Volcano, Ross Island, Antarctica. Geophysical research
+letters, 25(13), 2297-2300.
+Ruano, P., Bohoyo, F., Galindo-Zaldívar, J., Pérez, L. F., Hernández-
+Molina, F. J., Maldonado, A., ... & Medialdea, T. (2014). Mass
+transport processes in the southern Scotia Sea: Evidence of
+paleoearthquakes. Global and Planetary Change, 123, 374-391.
+Turpeinen, H., Hampel, A., Karow, T., & Maniatis, G. (2008). Effect
+of ice sheet growth and melting on the slip evolution of thrust
+faults. Earth and Planetary Science Letters, 269(1-2), 230-241.
+Vanneste, M., Mienert, J., & Bünz, S. (2006). The Hinlopen Slide: a
+giant, submarine slope failure on the northern Svalbard margin,
+Arctic Ocean. Earth and Planetary Science Letters, 245(1-2),
+373-388.
+Ye, L., Lay, T., Koper, K. D., Smalley Jr, R., Rivera, L., Bevis, M. G.,
+... & Teferle, F. N. (2014). Complementary slip distributions of the
+August 4, 2003 Mw 7.6 and November 17, 2013 Mw 7.8 South
+Scotia ridge earthquakes. Earth and Planetary Science Letters, 401,
+215-226.
+Relevant Contacts:
+Almendros, Javier. IAG, University of Granada, Spain,
+vikingo@ugr.es
+Cesca, Simone. GFZ German Research Centre for Geosciences
+Potsdam, Potsdam, Germany simone.cesca@gfz-potsdam.de
+Galindo-Zaldivar, Jesus. IACT, CSIC-University of Granada, Spain,
+jgalindo@ugr.es
+Kanao, Masaki. National Institute of Polar Research, Midori-cho,
+Tachikawa-shi, Tokyo, Japan, kanao@nipr.ac.jp
+Larter, Rob. BAS, UK, rdla@bas.ac.uk
+Reading, Anya. University of Tasmania, Australia,
+anya.reading@utas.edu.au
+Vuan, Alessandro. National Institute of Oceanography and Applied
+Geophysics – OGS, Trieste, Italy, avuan@ogs.it
+Wiens, Douglas A. Department of Earth and Planetary Sciences,
+Washington University, St Louis, MO, USA, doug@wustl.edu
+Figure 1 – Seismic stations in Antarctica from the International
+Registry of Seismograph Stations. In red, permanent stations with
+real-time reporting on the IRIS network. Blue, other stations.
+(http://www.isc.ac.uk/registries/).
+Figure 2 – Polenet/ANET network mainly deployed during the IPY.
+This network includes seismic and GPS stations (www.polenet.org).
+Figure 3 – Seismicity in Antarctica (south of 60ºS) from the USGS
+Earthquake catalogue (https://earthquake.usgs.gov/earthquakes/
+search/) (1960 to 2022 period) plotted on Google Earth image
+(https://earth.google.com/) including plate boundaries. (Rough
+trace of plate boundaries from USGS (https://earthquake.usgs.gov/
+learn/plate-boundaries.kmz; mid-ocean ridge spreading segments in
+red, subduction zones in yellow, transcurrent boundaries and mid-
+ocean ridge transform faults in blue). Also in yellow Antarctic circle
+and 0º and 180º meridians.
+Figure 4 – Seismicity in the Antarctic Peninsula-South Shetland
+Islands from USGS Earthquake catalogue (https://
+earthquake.usgs.gov/earthquakes/search/) (1960 to 2022 period)
+plotted on Google
+Earth image (https://earth.google.com/). Rough trace of plate
+boundaries from USGS (https://earthquake.usgs.gov/learn/plate-
+boundaries.kmz).
+Figure 5 – Base Orcadas (location at Laurie Island) and the effect of
+the tsunami generated by the 2013 November 17, Mw7.7
+earthquake. Dirección Nacional del Antártico (DNA) – Instituto
+Antártico Argentino (IAA)
+Table 1 – Seismic stations in Antarctica as currently recorded in the
+International Registry of Seismograph Stations (http://
+www.isc.ac.uk/registries/)
+Code
+Station name/Region
+Latitude
+Longitude
+Status
+AAS
+Arctowski Station
+-62.16
+-58.4625
+Closed
+South Shetland Islands
+ABOA
+Aboa
+-73.05
+-13.41667
+Open
+Dronning Maud Land
+ADARE
+Adare
+-72.4167
+170.9167
+Victoria Land
+AIA
+Argentine Island
+-65.25
+-64.26667
+Open
+Antarctic Peninsula
+ANC
+Marguerite Bay
+-68.1944
+-67
+Antarctic Peninsula
+BCAA
+Base Cientifica Antartica Artigas
+-62.1802
+-58.8858
+Open
+South Shetland Islands
+BELA
+Belgrano 2
+-77.875
+-34.6269
+Open
+Coats Land
+BSA
+Byrd (S.R.I.)
+-80.0055
+-119.043
+Marie Byrd Land
+BY1
+Byrd--Stanford Research Institute
+-80.0055
+-119.043
+Marie Byrd Land
+BY2
+Byrd--Stanford Research Institute
+-80.0773
+-119.683
+Marie Byrd Land
+BY3
+Byrd--Stanford Research Institute
+-79.9456
+-119.718
+Marie Byrd Land
+BYA
+Byrd--Stanford Research Institute
+-80.0096
+-119.481
+Marie Byrd Land
+BYR
+Byrd
+-80.0167
+-119.517
+Closed
+Marie Byrd Land
+CASY
+Casey
+-66.2791
+110.53639
+Enderby Land
+CCD
+Concordia, Antarctica
+-75.1065
+123.305
+Open
+East Antarctica
+CORRE
+Terra Adelie
+-67.5828
+144.275
+Terre Adelie
+CSY
+Casey Station
+-66.2894
+110.529
+Closed
+Wilkes Land
+DEC
+Deception Island
+-62.9833
+-60.7167
+Closed
+South Shetland Islands
+DRV
+Dumont d'Urville
+-66.665
+140.009
+Terre Adelie
+ELIB
+Princess Elisabeth base, Queen Maud Land,
+-71.947
+23.3469
+Open
+Antarctica
+ESPZ
+Base Esperanza
+-63.3980
+-56.99639
+Antarctic Peninsula
+GGV
+Gabriel Gonzalez Videla
+-64.8199
+-62.8633
+Antarctic Peninsula
+HBA
+Halley Bay
+-75.5167
+-26.6
+Coats Land
+HLL
+Cape Hallett
+-72.3139
+170.217
+Closed
+Victoria Land
+I03AU
+Davis Base, Antarctica
+-68.5839
+78.0685
+Open
+Antarctica
+I27DE
+GEORG VON NEUMAYER INFRASONIC ARRAY REFER
+-70.7011
+-8.3029
+Open
+Dronning Maud Land
+I55US
+WINDLESS BIGHT INFRASONIC ARRAY REFERENCE
+-77.7315
+167.5874
+Open
+Victoria Land
+JUBA
+Jubany
+-62.2373
+-58.66267
+South Shetland Islands
+LAA
+Little America
+-78.2
+-162.25
+King Edward VII Land
+LIVV
+Livingston, Bulgarian Antarctic Base
+-62.6365
+-60.3581
+Open
+Antarctic Peninsula
+MAIT
+Maitri
+-70.776
+11.736
+Dronning Maud Land
+MAW
+Mawson
+-67.6039
+62.8706
+Open
+Mac Robertson Land
+MCM
+McMurdo Sound
+-77.8333
+166.6
+Victoria Land
+MIR
+Mirnyy
+-66.5513
+93.01667
+Queen Mary Land
+NVL
+N'lazarevskaya
+-70.7666
+11.83333
+Dronning Maud Land
+OBA
+Oasis-Bungera
+-66.1667
+100.733
+Queen Mary Land
+OHC
+O'Higgins
+-63.3167
+-57.9
+Antarctic Peninsula
+ORCD
+Orcadas
+-60.7380
+-44.73611
+South Orkney Islands
+PED
+Pedro Cerda
+-62.9394
+-60.585
+Closed
+South Shetland Islands
+PIDGE
+Terre Adelie
+-66.982
+143.893
+Terre Adelie
+PINGU
+Terre Adelie
+-67.5955
+146.077
+Terre Adelie
+PMSA
+Palmer Station
+-64.7742
+-64.049
+Open
+Antarctic Peninsula
+PORMA
+Terre Adelie
+-66.8184
+141.39
+Terre Adelie
+QSPA
+South Pole Quiet Zone Earth Science Obser
+-89.9278
+145
+Antarctica
+RMA
+Rockefeller Mts
+-78.1333
+-155.417
+Closed
+King Edward VII Land
+SBA
+Scott Base
+-77.8503
+166.756
+Open
+Victoria Land
+SEJ
+Sejong Station
+-62.2208
+-58.7528
+South Shetland Islands
+SGY
+Signy Island
+-60.7101
+-45.5976
+Open
+South Orkney Islands
+SMAI
+San Martin Antarctic Base
+-68.1302
+-67.1059
+Open
+Antarctic Peninsula
+SNA
+Sanae
+-70.315
+-2.325
+Dronning Maud Land
+SNAA
+Sanae
+-71.6706
+-2.83789
+Dronning Maud Land
+SPA
+South Pole
+-89.9954
+115
+Closed
+Antarctica
+SYO
+Syowa Base
+-69.0088
+39.5921
+Dronning Maud Land
+TAA
+Terre Adelie
+-66.8178
+141.395
+Terre Adelie
+TAMA1
+TAMSEIS 9900, AN1
+-77.2432
+166.3725
+Victoria Land
+TAMA2
+TAMSEIS 9900, AN2
+-77.0352
+163.1808
+Victoria Land
+TAMA3
+TAMSEIS 9900, AN3
+-77.115
+161.5317
+Victoria Land
+TAMA4
+TAMSEIS 9900, AN4
+-77.4371
+163.8019
+Victoria Land
+TAMA5
+TAMSEIS 9900, AN5
+-77.6986
+163.9118
+Victoria Land
+TAMA6
+TAMSEIS 9900, AN6
+-77.4536
+162.6519
+Victoria Land
+TAMA7
+TAMSEIS 9900, AN7
+-77.5296
+160.9227
+Victoria Land
+TAMA8
+TAMSEIS 9900, AN8
+-77.5494
+160.2731
+Victoria Land
+TAMA9
+TAMSEIS 9900, AN9
+-77.9553
+162.1301
+TNV
+Terranova Bay
+-74.695
+164.124
+Victoria Land
+TROLL
+Troll, Antartica
+-72.0082
+2.53
+Open
+Dronning Maud Land
+VNA
+Neumayer
+-70.5997
+-8.36222
+Closed
+Dronning Maud Land
+VNA1
+Neumayer--Station
+-70.6503
+-8.2624
+Open
+Dronning Maud Land
+VNA2
+Neumayer--Watzmann
+-70.9251
+-7.39267
+Dronning Maud Land
+VNA3
+Neumayer Olymp
+-71.2428
+-9.6687
+Dronning Maud Land
+VND
+Vanda
+-77.5239
+161.672
+Closed
+Victoria Land
+VNDA
+Vanda
+-77.5171
+161.85281
+Open
+Victoria Land
+VOSTO
+Vostok
+-78.45
+106.8667
+Vostok Station
+WIL
+Wilkes
+-66.2592
+110.527
+Closed
+Wilkes Land
+Annex 1 – Information on existing seismic stations
+Information from National Antarctic Programmes on seismic
+stations in the Antarctic Peninsula and South Shetland Islands (as
+reported to COMNAP, October 2022)
+Argentina – seismic network comprising 7 permanent stations (AI
+network). This network is run in conjunction with Italy, through an
+agreement between the National Institute of Oceanography and
+Applied Geophysics (OGS) in Trieste and Dirección Nacional del
+Antártico (DNA)–Instituto Antártico Argentino (IAA). The real‐time
+waveforms from AI network are freely accessible from IRIS and
+ORFEUS services. It improves the worldwide seismic networks’
+detection capabilities and contributes to refining regional
+earthquake locations released by the USGS. Argentina has other
+instruments on Deception Island for volcanic monitoring and is
+working to implement new instruments at 4 new monitoring
+stations.
+Republic of Korea – monitoring system on King George Island; it is
+an on-going seismic project at initial stage.
+Poland – two working devices transmitting online and the data are
+available.
+Ukraine – seismic station at Vernadsky Station.
+Uruguay – seismic station on King George Island.
+Deception and Livingston islands seismic network
+The Spanish National Geographic Institute (IGN) is in charge since
+September 2020 of the volcanic monitoring of Deception Island. To
+meet this objective, during the last two campaigns (2021-2022 and
+2022-2023), a new volcanic monitoring network has been set up.
+The new network in Deception Island is formed by 5 permanent
+broadband seismic stations and 3 GNSS stations for deformation
+measurements. Each of the stations, consists of a stainless-steel-
+structure hut that is energetically autonomous, sending both seismic
+and GNSS data in real time to Spain, via a satellite link installed in
+the Spanish Gabriel de Castilla Base. Moreover, in order to
+strengthen the regional monitoring, the IGN has also installed a
+seismic-GNSS station in the vicinity of the Spanish Juan Carlos I
+Base, on the Livingston Island.
+Table 1.1 – Spanish National Geographic Institute (IGN) Seismic
+stations in Antarctica.
+Code
+Station name/Region
+Latitude
+Longitude
+ Status
+XA.MECO
+Gabriel de Castilla Spanish Base. Deception Island
+-62.977000
+-60.677000
+Open
+South Shetland Islands
+XA.BASE
+Gabriel de Castilla Spanish Base. Deception Island
+-62.976994
+-60.682140
+Open
+South Shetland Islands
+XA.OBS
+Obsidian Hill.
+Deception Island
+-62.940937
+-60.690651
+Open
+South Shetland Islands
+XA.C70
+70´s Crater.
+Deception Island
+-62.918520
+-60.652737
+Open
+South Shetland Islands
+XA.RON
+Ronald Hill.
+Deception Island
+-62.975277
+-60.586838
+Open
+South Shetland Islands
+XA.LIV
+Juan Carlos I Spanish Base.  
+Livingston Island
+-62.663727
+-60.391020
+Open
+South Shetland Islands

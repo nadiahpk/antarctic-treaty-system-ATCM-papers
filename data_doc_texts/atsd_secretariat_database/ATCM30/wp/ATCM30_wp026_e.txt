@@ -1,0 +1,40 @@
+﻿
+
+
+
+
+
+The Application of IUCN Endangerment Criteria at the Regional Level of the Antarctic Treaty Area
+
+
+
+
+The Application of IUCN Endangerment Criteria at the Regional Level of the Antarctic Treaty Area
+Introduction
+    1. At XXIII ATCM an Inter-sessional Contact Group, chaired by Argentina, was established to discuss the criteria that could be used to designate Specially Protected Species under Annex II of the Protocol. This ICG reported initially at CEP IV through XXIV ATCM/WP5. 
+    2. The Final ICG report was presented as XXV ATCM/ WP8. The advice to the ATCM was encapsulated in Resolution 1 (2002) which noted that the CEP had decided to adopt the IUCN Criteria on Endangerment to establish the degree of threat to a species, requested SCAR to assist in reviewing those species which were classed as “Vulnerable”, “Endangered” or “Critically Endangered” (taking into consideration regional differences in status), as well as reviewing those species classed as “data deficient” or “near threatened” which occurred in the Antarctic Treaty Area.
+    3. SCAR agreed to begin this process and suggested that it would first assess the species for which there were already extensive data. At XXVIII ATCM WP34 proposed how the IUCN criteria could be applied to Antarctic bird species, initially assessing endangerment for species at the global level.
+    4. The first case chosen, that of the Southern Giant Petrel, originally appeared to meet the criteria for Vulnerable at a global level, but new data from outside the Antarctic Treaty Area became available shortly before the meeting, and when these novel data were incorporated into extant data, it appeared that this level of threat was no longer justified by the size of the global breeding population. However, the data for breeding populations of this species within the Antarctic Treaty Area showed a clear, long-term decrease in the regional breeding population and the possibility of designating it a regionally endangered species arose. This paper sets out the way in which the IUCN Criteria are currently used at a regional level to provide guidelines for considerations of the regional status of species, and is based on IUCN (2003) procedures.
+Guidelines for application of Red List criteria at a regional level
+
+    5. Within the IUCN process, “Regional” can be any non-global, geographically defined area. In the present context, “Regional” is defined as the area south of 60°S. 
+    6. The Regional assessment can be applied to any species that is indigenous to the Region including both breeding and non-breeding taxa, where the non-breeding taxa are reliant on the Region for food.
+    7. Regional assessments pre-suppose thorough knowledge of the Global assessment process, which is described in IUCN (2001) and Standards and Petitions Working Group (2006).
+    8. Where the populations within the Region are isolated from conspecific populations outside the region, the application of the Global IUCN Endangerment Criteria does not require any modification, as the extinction risk for such an isolated population is identical to that  of an endemic taxon. The criteria developed for global assessments are used. The population being considered is a distinct entity whose pattern of change (increasing, stable or decreasing) can be distinguished from the pattern for the global population. The extinction risk for such a regionally isolated population is identical to that for an endemic taxon. The problem is more complex when there is a need to consider a population whose members can and do interchange with the wider global population outside the Region. This may result in the estimate of extinction risk being wrongly calculated (usually an overestimate of extinction risk) unless the assessment process is adjusted.
+    9. For Breeding Populations, step 1 is to apply the global criteria to the Regional Population data to achieve an initial categorization. If the taxon migrates to other parts of the world during part of the year, this must be taken into account as conditions there may affect the life cycle and the breeding success. In step 2, the existence and status of any conspecific population outside the Region that may affect the risk of extinction within the Region must be considered. If the taxon is endemic to the Region or the population is isolated in the Region, the Endangerment category achieved in Step 1 should be adopted unaltered. If conspecific populations outside are judged likely to rescue the decreasing population by immigration, then the appropriate action is to downgrade the category by one level e.g. from Endangered to Vulnerable.
+    10. For Visiting Populations, it is essential to be certain that the taxon is indeed a Visitor and not a vagrant. It will often be more difficult to obtain reliable regional population data for non-breeding species, but this is essential to make the initial assessment of a preliminary category. To be able to correctly project a population reduction or a continued decrease, it may be necessary to examine the conditions in the population’s breeding area. Observed numbers will be expected to fluctuate more in non-breeding than in breeding populations, and it is essential to distinguish true changes from transient changes, perhaps driven by weather or food availability. Since the environmental conditions have been included in the determination of the initial category changing of the grading in step 2 is unlikely unless conditions are sufficiently stable or improving to allow for a marked increase in taxon numbers.
+    11. Regional assessments cannot be aggregated or disaggregated for larger or smaller geographic areas, respectively. Rather, entirely new assessments must be made using the aggregated or disaggregated data. Assessments covering small areas should be discouraged because they are typically unreliable. 
+    12. The diagram illustrates the conceptual scheme for assigning an IUCN Endangerment Category at the Regional level.
+
+
+
+
+References cited
+
+IUCN 2001. IUCN Red List Categories and Criteria: Version 3.1. IUCN Species Survival Commission. IUCN, Gland, Switzerland and Cambridge, UK. Iiii+30pp. Downloadable from http://www.iucnredlist.org/info/categories_criteria
+
+IUCN (2003) Guidelines for Application of IUCN Red List Crietria at Regional levels: Version 3.0. IUCN Species Survival Commission. IUCN, Gland, Switzerland and Cambridge, UK. Ii+26pp. Downloadable from http://www.iucn.org/themes/ssc/redlists/regionalguidelines.htm
+
+Standards and Petitions Working Group. 2006. Guidelines for Using the IUCN Red List Categories and Criteria. Version 6.2. Prepared by the Standards and Petitions Working Group of the IUCN SSC Biodiversity Assessments Sub-Committee in December 2006. 60 pp. Downloadable from http://app.iucn.org/webfiles/doc/SSC/RedList/RedListGuidelines.pdf.
+
+

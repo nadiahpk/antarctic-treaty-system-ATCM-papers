@@ -1,0 +1,1017 @@
+ANTARCTIC TREATY
+TENTH CONSULTATIVE MEETING
+
+ДОГОВОР ОБ АНТАРКТИКЕ
+ДЕСЯТОЕ КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+TRAITÉ SUR L'ANTARCTIQUE
+DIXIÈME RÉUNION CONSULTATIVE
+
+TRATADO ANTARTICO
+DECIMA REUNION CONSULTIVA
+
+
+SEPTEMBER 17 - OCTOBER 5, 1979
+
+WASHINGTON, D.C.
+
+AGENDA ITEM 8                                  ANT/X/16
+                                               September 20, 1979
+
+                                               ORIGINAL:  Spanish
+
+USE OF REMOTE SENSING TECHNIQUES FOR IMPROVED UNDERSTANDING
+AND PROTECTION OF THE NATURAL RESOURCES OF THE ANTARCTIC PENINSULA
+
+DOCUMENT SUBMITTED BY THE DELEGATION OF CHILI TO THE TENTH
+CONSULTATIVE MEETING OF THE ANTARCTIC TREATY
+
+1. Introduction
+
+This report points out various potential applications of remote sensing
+techniques aimed at improved understanding and protection"of Antarctic
+natural resources by reviewing the highlights of the Remote Sensing Program
+initiated by Chile in the Antarctic Peninsula for this purpose (figure 1).
+
+This technology is based on observation of the earth's surface from a
+distance by means of photographs and images obtained at many levels
+(satellites, aircraft, land) at different times (multitemporal) and on
+different bands or regions of the electromagnetic spectrum (multispectral:
+ultraviolet, visible, infra-red, microwave, etc.). This information is
+supplemented by ground data in order to establish quantitative relations
+for observed phenomena. These ground data may be collected by using con-
+ventional methods or automated systems such as the Satellite Data Collec-
+tion Systems '(DCS).
+
+The use of remote sensing techniques in hard-to-reach isolated areas is
+particularly successful since positive results can be achieved rapidly,
+economically, and safely. The superiority of these techniques over con-
+ventional systems has been proved in countless experiments conducted all
+over the planet.
+
+The remote sensing program initiated by Chile in 1977 is designed to
+achieve improved understanding and protection of the natural resources
+of the Antarctic Peninsula. This program is being carried out primarily
+by the Chilean Antarctic Institute in cooperation with such other national
+ANT/X/16
+
+- 2 -
+
+institutions as the University of Chile (School of Physical Sciences and 
+Mathematics), the Aerophotogrammetric Service of the Chilean Air Force, 
+Antarctic Units of the Chilean Army, Air Force, and Navy, as well as other 
+entities.  This program is now operating at the three levels of observation 
+used in remote sensing although initial emphasis has been placed on opening 
+a network of automated sensing stations which send environmental informa- 
+tion to Santiago via satellite.  From there these data will be sent to the 
+President Frei Antarctic Regional Meteorological Center which will dis- 
+tribute them to the Antarctic bases of its region and to other Antarctic 
+regional centers.
+
+It is hoped that in 1980 it will be possible to make increased use of images 
+and photographs obtained from aircraft since by that time the landing con- 
+ditions for aircraft at Chilean Antarctic bases will be substantially im- 
+proved.  It is also hoped that increased use can be made of multispectral 
+images taken by different satellites such as GOES (36,000 km altitude), NOAA, 
+TIROS-N, Nimbus, and Landsat (900 km altitude).  These observations can be 
+supplemented by detailed air observations in addition to ground data col- 
+lected by DCS.  In the interim valuable experience is being acquired through 
+projects conducted in continental Chile.  Multispectral photographs and 
+Chilean Air Force are being supplemented by images obtained from satellites, 
+in particular the Landsat satellite owing to its great resolution (approxi- 
+mately 80 meters as compared to 1 km for GOES and NOAA satellite images).
+
+The preliminary results achieved and the potential applications under con- 
+sideration point to the advisability of extending the use of remote sensing 
+techniques to the entire Antarctic as a valid means to achieve improved 
+understanding and effectively protect Antarctic natural resources.
+
+This report will next discuss background information about remote sensing 
+techniques and then cover their potential applications in Antarctica, citing 
+earlier Chilean experiments as examples.
+
+2.  Background Information on Remote Sensing Techniques
+
+As the name indicates, these techniques are designed to gather information 
+at a distance from objects by means of devices known as remote sensors which 
+can be mounted on satellites and aircraft or placed at ground level.  Their 
+use is particularly effective in isolated and distant areas such as Antarctica. 
+As shown in figure 2, there are three stages in the handling of information 
+obtained with these techniques: (a) collection; (b) processing; (c) analysis 
+or interpretation.
+
+Information is collected by photo-optic or electro-optic remote sensors. 
+In the former, information is registered directly on photographic film which 
+is actually the sensing element.  These sensors originate photographs.  In 
+the latter, the sensing element is one or more electronic detectors.  A prior 
+process of electronic conversion is required to register the information.  It 
+can be recorded on digital tape or on photographic filn:.  These sensors 
+generate images.  According to the energy source used, the remote sensors 
+can be passive or active.  Passive sensors pick up energy reflected or emitted
+- 3 - 
+
+ANT/X/16
+
+by objects (energy from the sun).  Active sensors pick up energy reflected
+by objects.  As a result they have their own source of energy, as in the
+case of radar.  Normally satellites must be equipped with electro-optic
+sensors since they send their information (images) to land by means of
+codified electronic pulses.  The most commonly used remote sensors are:
+(a) multispectral sweeper, a passive electro-optic sensor which obtains
+several simultaneous images over a single area on different spectral bands;
+(b) multi-band camera, a passive photo-optic sensor which achieves the same
+objective; (c) thermal sweeper, a passive electro-optic sensor which picks
+up energy emitted by objects in the region 3-5 μm or 8-12 μm corresponding to
+distant or thermal infra-red, thus registering images with relative differences
+of temperature; (d) airborne lateral sweep radar, an active electro-optic
+sensor which works in the 3 cm zone, gathering images even under extremely
+cloudy conditions; (e) many sensors, which gather information in the zone
+of microwaves (passive and active), gamma radiation and other zones can be
+mounted on airplanes or satellites.
+
+In addition to the information contained in photographs and images, quantita-
+tive environmental data must be collected at ground level.  In isolated,
+hard-to-reach areas the most practical method is to use the DCS's which
+make it possible to perform this work safely, continuously, reliably,
+economically, and almost instantaneously (figure 3).  The DCS's are com-
+posed of a network of autonomous sensing stations powered by batteries
+charged with solar panels or wind generators called Data Collection Plat-
+forms (DCP's).  The DCP's are installed at sites selected by researchers
+and can normally operate with eight different environmental sensors of the
+appropriate type.  The researcher selects the intervals for the reading and
+transmission of data from the DCP to the satellite, although to a large ex-
+tent these variables depend on the type of satellite used (polar, orbit or
+geostationary).  The satellite retransmits the data from the DCP's to a
+receiving station where this information is processed and distributed to
+researchers in adequate computable formats.  The Chilean program is cur-
+rently using Landsat (polar orbit) and GOES (geostationary) satellites to
+collect information from DCP's installed in the Antarctic Peninsula.  The
+Landsat satellites makes it possible to collect every 12 hours data from
+readings taken every three or four hours.  The GOES satellite has a greater
+capability and can collect data from the DCP's at any moment, although nor-
+mally it does so every three hours, with readings taken every 15 minutes.
+Annex A of the documentation presented by the Chilean Delegation in the
+Telecommunications Section of the Tenth Consultative Meeting contains ample
+information on these systems, preliminary results, and prospects of the
+Chilean program underway in the Antarctic Peninsula.  It should be noted
+that it is possible to work with fixed or mobile DCP's (ocean buoys and
+atmospheric balloons).
+
+After the information has been acquired, it must be processed and put in
+adequate formats for interpretation by researchers.  Photographic or
+digital processing of the collected information will be used, as appropriate.
+ANT/X/16
+
+- 4 -
+
+During the data analysis or interpretation phase, the researcher will use 
+analog (visual or photographic) and digital (automated or computerized) 
+interpretation techniques. As a rule, analog techniques are more economi-
+cal and easier to use but digital techniques give more complete and 
+accurate information.
+
+The following example can serve to illustrate these points.
+
+Photograph 1 corresponds to an image obtained by a GOES satellite geo-
+stationary at 75° W over the equator at an altitude of 36,000 km.  The 
+image was obtained in the thermal infrared band and it therefore provides 
+an excellent means to study atmospheric meteorological conditions when 
+supplemented by a simultaneous image in the visible bank.  The space re-
+solution of these images is very good in view of the observation altitude 
+of nearly 1 km. These images can be obtained every 30 minutes, which makes 
+them particularly appropriate for the study of very dynamic phenomena in the 
+atmosphere. Photograph 2 corresponds to an image obtained by a NOAA 
+satellite over the Antarctic Peninsula, also in the thermal infrared band. 
+This polar satellite takes images every 12 hours, with a space resolution 
+of 1 km. Photograph 3 corresponds to an image from the Landsat satellite 
+over Santiago and its surroundings (altitude: 900 km).  These images have 
+an excellent space resolution (approx. 80 m) and are therefore particularly 
+suited to the study of natural resources.
+
+Photographs 4a, 4b, and 4c show three observation bands of the Landsat 
+satellite, as originally obtained. An analog composition of these bands 
+gives the results shown in photographs 5a and 5b, where various resources 
+appear according to the color combination chosen. A digital amplification 
+of an image section provides the maximum amount of detail one can obtain 
+from such images and enables one to identify such features as those shown 
+on photographs 6a, 6b, 6c, and 6d. For greater detail one must resort to 
+photographs and images obtained from aircraft. In this connection photo-
+graph 7, which was taken with a multiband camera (with observation bands 
+similar to those of the Landsat satellite), clearly shows the fog penetra-
+tion capacity of close infrared and the great sensitivity to vegetation in 
+that spectral band. Photograph 8 corresponds to an image obtained with a 
+thermal sweeper over a part of Santiago. The change of temperature of the 
+canal as it passes through an industrial area is visible, which demonstrates 
+how useful this spectral band can be to study the pollution of Antarctic 
+waters (through oil spills, for instance). Both photographs were taken by 
+the Chilean Air Force (Aerophotogrammetric Service). Lastly, at the level 
+of observation providing the greatest detail (pinpoint), one finds 
+automated stations measuring environmental parameters in remote areas and 
+transmitting their data to a central receiving station via satellite. 
+Photographs 9a, 9b, 9c, and 9d come from one of the automated stations (DCP) 
+installed by Chile in the Antarctic Peninsula, in this case on the coast of 
+the Weddell Sea.
+- 5 -
+ANT/X/16
+
+3. Some Important Applications Of Remote Sensing Techniques For The 
+Study And Protection Of Antarctic National Resources
+
+The Remote Sensing Program developed by Chile on the Antarctic Peninsula is 
+multidisciplinary, that is, it is intended to support the various scientific 
+programs developed by Chile in this region. Some applications which are 
+under consideration are:
+
+(a) Glaciology
+
+The use of automatic sensor stations (DCP's) is very helpful in 
+continuous, year-round collection of valuable quantitative 
+information about the behavior of glaciers and Antarctic ice 
+masses in general. NOAA satellite images make it possible to 
+study ice changes continuously (images every 12 hours).  LANDSAT 
+(every 18 days); photograph 10 shows an example taken over the South 
+Ice Field, in southern continental Chile, in which sediment 
+deposits carried by the glaciers to the surrounding lakes show 
+up clearly. Highly detailed air observations with a multiband 
+camera and a thermal sweeper provide important information about 
+Antarctic ice.
+
+(b) Environmental Contamination
+
+The LANDSAT images make it possible to observe these phenomena in 
+relatively clear detail. Photographs 11a and 11c show some 
+examples. Nonetheless, with small-scale phenomena, it is necessary 
+to use remote sensors mounted on aircraft, such as the multiband 
+camera and thermal sweeper, and their effectiveness is shown in 
+photograph 8. Phenomena such as oil spills in Antarctic waters can 
+be easily studied. In the event that continuous measurement of 
+certain parameters is required (e.g. dissolved oxygen, pH, etc.), 
+the use of Satellite Data Collection Systems is indicated.
+
+(c) Animal Resources
+
+In general, detailed observations are required, as provided by remote 
+sensors mounted on aircraft. The thermal sweeper makes it possible 
+to quantify the number of individuals due to the high contrast in 
+temperature between the individuals and their surrounding environment. 
+Multispectral observations also provide important information about 
+the characteristics of their habitats.  The LANDSAT satellite images 
+make it possible to locate the areas where the animals live on a 
+regional scale.  The use of DCP's to collect specific environmental 
+parameters should not be overlooked.
+
+(d) Plant Resources
+
+The high sensitivity of near infra-red (0.7 - 0.8 μm and 0.8 - 1.1 μm) 
+to the presence of plant life makes the use of the multiband camera 
+particularly appropriate for detailed observation of algae and other
+ANT/X/16
+
+- 6 -
+
+organisms. Recently the use of LANDSAT images have made it possible to 
+locate, in a regional context, the areas of interest under study. 
+Furthermore it is possible to measure specific parameters such as 
+salinity, pH, temperatures at various depths, velocity and direction 
+of ocean currents, etc. with the installation of DCP's. Surface 
+variations in water temperature can also be observed in detail with 
+a thermal sweeper mounted on an aircraft, which would also be of 
+importance in studying animal resources.
+
+In photographs 6c and 6d, as well as 11b, the capacity for distinguishing 
+vegetation from the LANDSAT satellite can be seen. Of course an aerial 
+multiband camera would make more accurate studies possible.
+
+(e) Geothermal Activity
+
+Any geothermal activity with surface manifestation can be studied by using 
+remote sensors operating in the thermal infra-red band. In this respect, 
+the LANDSAT satellite will make it possible to obtain high-resolution 
+thermal images (200 meters approximately, by comparison with 3 or more km. 
+by weather satellites). The thermal band of LANDSAT 3, currently in 
+orbit, is not usable. Nonetheless it is hoped that it will be available 
+on LANDSAT 4, which will be launched in 1980. More detailed observations 
+are furnished by thermal sweepers mounted on aircraft. The use of 
+multispectral images and photographs taken in the visible zone and near 
+infra-red (LANDSAT images and multiband aerial camera) should not be 
+overlooked, since in the near infra-red it is possible to perceive degrees 
+of snow thaw ("wet" and "dry" snow), as shown on photograph 10b, a 
+phenomenon directly related to geothermal activity. The use of DCP's to 
+collect continuous and detailed information about volcanic parameters is 
+very helpful for improved study of these phenomena, including the 
+construction of models for predicting emergency situations, if necessary.
+
+(f) Mineral Resources.
+
+This technology is also of great use in this field. Although certainly 
+observation is made more difficult by the permanent presence of ice, it 
+is possible to make an accurate study of phenomena which are indirectly 
+related to mineral resources (sediment movement, observation of exposed 
+rock surfaces, thermal anomalies, etc.).
+
+(g) Hydrography and Oceanography
+
+Basically the use of satellite and aircraft thermal images makes it 
+possible to observe and study thermal anomalies on the ocean surface. 
+The use of DCP's to collect valuable related information with such 
+parameters as velocity and direction of ocean currents, tides, wave 
+altitude and period, ocean temperature, salinity, and meteorological 
+parameters, etc., are of incalculable assistance. These DCP's can be 
+fixed or mobile, as necessary.
+ANT/X/16
+
+- 7 -
+
+(h) Meteorology
+
+Meteorological conditions can be studied accurately with continuous observations by satellites such as the GOES (every 30 minutes for zones between 75°N and 75°S latitude approximately), NOAA (every 12 hours), Nimbus (every 12 hours). These meteorological images are obtained in the visible and thermal infra-red bands of the electro-magnetic spectrum. The use of DCP's for automatic collection of surface meteorological data (and atmospheric balloons, if necessary) yields particularly satisfactory results. Chile is deploying a network of DCP's throughout the entire Antarctic Peninsula in order to collect information from isolated sites throughout the year.
+
+4. Conclusions
+
+Remote sensing techniques are particularly suited for studying natural resources in isolated areas, making it possible to achieve short-term positive results in an economical and efficient manner.
+
+The remote sensing program developed by Chile on the Antarctic Peninsula, intended for the study and conservation of natural resources in this Antarctic zone, shows promising preliminary results, and therefore the use of these techniques will be considerably intensified in the following years.
+
+In view of the characteristics of this technology and the positive results of its use, it can be highly recommended for solving problems pertaining to improved understanding and conservation of natural resources throughout Antarctica.
+
+*   *   *
+- 8 -
+
+FIGURE 1.  REMOTE SENSING PROGRAM DEVELOPED BY CHILE
+          ON THE ANTARCTIC PENINSULA
+
+Consideration is being given to gathering data at three levels:
+
+Satellite, aircraft, and land (the last by using Satellite Data
+Collection Systems, DCSs).
+DATA COLLECTION                  DATA PROCESSING                  DATA ANALYSIS
+
+ 
+1 SATELLITES AND/OR AIRCRAFT     
+  LOCAL LAND DATA (D.C.S.)        
+                                 2 RECEIVING                      
+                                   STATION                       
+                                                         PHOTOS AND   
+                                                         IMAGES       
+                                 3 DATA                           
+                                   PROCESSING                     
+                                                         DIGITAL      
+                                                         TAPES        
+                                                        
+                                                        4 MULTISPECTRAL 
+                                                          DATA         
+                                                          RETRIEVAL    
+                                                          SYSTEM       
+                                                         "IMAGEN 100" 
+                                                         OR OTHER     
+                                                         DEVICES      
+                                                                      
+                                                         MAPS BY      
+                                                         SUBJECT      
+                                                         MATTER       
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+                                                          
+
+1 
+10
+
+DATA COLLECTION PLATFORM
+
+SATELLITE
+Reception
+Modulation
+Transmission
+
+NOTE:  Some polar-orbiting or similar 
+satellites can record DCS data 
+(ex: TIROS-N) although usually 
+the satellite acts like a real 
+time-link.  In some cases. (ex: 
+GOES, geostationary) it is pos-
+sible to query the DCP at any 
+time from the receiving station 
+by satellite.
+
+LAND ENVIRONMENTAL DATA
+(precipitation, soil and air humidity
+wave height, seismic and activity,
+etc.)
+
+(1) Data source:  any environmental parameter
+
+(2) The sensors relay analog or digital input to the DCP
+
+(3) The DCP puts the data from sensors into the correct 
+format, codes it, and transmits it to the satellite
+
+RECEIVING AND PROCESSING
+STATION
+
+Recording
+Demodula-
+tion and 
+coding
+Data
+Processing
+
+Clock
+
+DCS DATA DISTRIBUTION TO USERS
+(via telex, remote computational 
+terminal, telephone, mail, etc.)
+
+Computer
+printout
+Magnetic
+tapes
+Computer
+cards
+
+DCS FINAL OUTPUT
+
+FIGURE 3.  CHART OF A SATELLITE DATA COLLECTION SYSTEM
+- 11 -
+
+PHOTOGRAPHS ARE AVAILABLE FROM THE DELEGATION OF CHILE
+
+*   *   *
+ANTARCTIC TREATY
+TENTH CONSULTATIVE MEETING
+
+ДОГОВОР ОБ АНТАРКТИКЕ
+ДЕСЯТОЕ КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+TRAITÉ SUR L'ANTARCTIQUE
+DIXIÈME RÉUNION CONSULTATIVE
+
+TRATADO ANTARTICO
+DECIMA REUNION CONSULTIVA
+
+SEPTEMBER 17 - OCTOBER 5, 1979
+
+WASHINGTON, D.C.
+
+ANNEX TO
+ANT/X/16
+September 24, 1979
+
+ORIGINAL:  Spanish
+
+ANNEX TO THE PHOTOGRAPHS IN DOCUMENT ANT/X/16, SUBMITTED BY
+THE DELEGATION OF CHILE
+
+PICTURE 1.  GOES SATELLITE IMAGE OVER SOUTH AMERICA.
+Taken at an altitude of 36,000 kn., which can be done every
+30 minutes in the visible spectral bands and the thermal
+infra-red spectral bands (as in this case).
+
+PICTURE 2.  NOAA SATELLITE IMAGE OVER THE ANTARCTIC PENINSULA.
+Taken from an altitude of approximately 1,000 km., which
+can be done every 12 hours in the visible spectral bands and the
+thermal infra-red bands (as in this case).
+
+PICTURE 3.  LANDSAT SATELLITE IMAGE OVER SANTAIGO AND ITS ENVIRONS.
+Taken from an altitude of approximately 900 km., which can be
+done every 18 days, in various visible and near infra-red
+spectral bands.  In this case, the scale is 1:1,000,000 and
+the spectral band is MSS-5 or red (0.6-0.7 μm).
+
+PICTURE 4.  LANDSAT IMAGE OVER SANTIAGO AND ENVIRONS
+(scale approximately 1:3,500,000)
+
+PICTURE 4a. MSS-4 or green band (0.5-0.6 μm).
+PICTURE 4b. MSS-5 or red band (0.6-0.7 μm).
+PICTURE 4c. MSS-7 or infra-red band (0.8-1.1 μm).
+
+PICTURE 5a. COLOR ANALOG COMPOSITION FOR LANDSAT IMAGE OF PICTURES 4a, 4b,
+and 4c.  The vegetation shows up in green tones.
+
+PICTURE 5b. ANOTHER COLOR ANALOG COMPOSITION FOR THE SAME LANDSAT IMAGE
+OF PICTURES 4a, 4b, and 4c.  The natural vegetation shows up in
+pink tones, and the crops show up in dark red tones.
+
+PICTURE 6.  DIGITAL OR ELECTRONIC ENLARGEMENT OF CERTAIN ZONES OF THE
+SAME LANDSAT IMAGE.
+- 2 -
+
+PICTURE 6a. Santiago, with its center or zone of high density construction 
+        shown in red (the maximum possible enlargement is shown in the 
+        lower right panel).
+
+PICTURE 6b. Santiago, showing a ring of medium density construction.
+
+PICTURE 6c. Aconcagua River valley (The Andes) showing various crops.
+
+PICTURE 6d. Aconcagua River valley (The Andes), showing other crops.
+
+PICTURE 7.  MULTISPECTRAL AERIAL PHOTOGRAPH TAKEN WITH A MULTIBAND CAMERA 
+        ABOVE A PARK IN SANTIAGO (Aerophotogrammetry Service of the 
+        Chilean Air Force).
+        Altitude:  1,500 feet.
+        Band 1:  blue (approximately 0.4-0.5 μm)
+        Band 2:  green (approximately 0.5-0.6 μm)
+        Band 3:  red (approximately 0.6-0.7 μm)
+        Band 4:  infra-red (approximately 0.7-0.8 μm)
+        Note the ability of Band 4 (infra-red) to penetrate smog and fog.
+
+PICTURE 8a. THERMAL IMAGE OVER A SECTOR OF SANTIAGO TAKEN FROM AN AIRCRAFT 
+        (Aerophotogrammetry Service of the Chilean Air Force).
+        Altitude:  1,000 feet and 140 knots.
+        The San Carlos canal (A) goes by an industrial plant and its 
+        waters are polluted (B), as it flows into the Mapocho River.
+
+PICTURE 8b. Enlargement of an area in the same image as 8a.
+
+PICTURE 9.  INSTALLATION OF A METEOROLOGICAL DATA COLLECTION PLATFORM ON 
+        THE WEDDELL SEACOAST  (January/February, 1979)
+
+PICTURE 9a. ANTARCTIC LANDSCAPE SHOWING THE MOUNTAIN CHAIN WHICH SEPARATES 
+        THE BELLINGHAUSEN AND WEDDELL SEACOASTS (from where the 
+        picture was taken).
+
+PICTURE 9b. Location of the DCP on the rocks of the Weddell Seacoast.
+
+PICTURE 9c. DCP installation showing 2 solar panels (20 watts c/m), LANDSAT 
+        antenna, and meteorological sensors.
+
+PICTURE 9d. Detail of (A) LANDSAT antenna, (B) air temperature, (C) air 
+        humidity, (D) solar radiation, (E) wind velocity and 
+        direction.
+
+PICTURE 10a ANALOG COMPOSITION OF LANDSAT IMAGE OVER A LARGE SOUTHERN 
+        ICE FIELD, IN SOUTHERN CHILE
+        The snow and ice are black, and the water with particles in 
+        suspension (sediments) are shown in pink tones.
+- 3 -
+
+PICTURE 10b. ANALOG COMPOSITION OF LANDSAT IMAGE OVER A CHAIN OF 
+VOLCANOS IN SOUTHERN CHILE (Villarica Lake)
+The snow shows up black, and the melting snow and areas with 
+damp soil show up in dark and light blue respectively.
+
+PICTURE 11a. ANALOG COMPOSITION OF LANDSAT IMAGE OVER RAPEL DAM AND 
+ENVIRONS NEAR SANTIAGO showing sediments in blue tones, 
+coastal zones (sand) in bluish tones; medium altitude 
+zones (precordilleran) in pink tones; crops in dark red and 
+natural vegetation in coffee tones.
+
+PICTURE 11b. ANOTHER ANALOG COMPOSITION OF THE SAME IMAGE, showing vegetation 
+in green tones.
+
+PICTURE 11c. LANDSAT IMAGE OVER GRAN CARRERA LAKE IN SOUTHERN CHILE 
+(bordering on Argentina).  The presence of solid particles 
+in the water (sediments) shows up proportionately in green 
+tones.  The snow shows up black, and the dark green borders 
+correspond to melting snow.
+
+*   *   *

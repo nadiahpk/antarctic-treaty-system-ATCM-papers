@@ -1,0 +1,560 @@
+Ocean Acidification in the Southern Ocean
+Ocean Acidification in the Southern Ocean
+Ocean acidification is the other carbon dioxide problem and has
+been referred to as “the evil twin” of global warming. Turley et al.
+2005, Henderson 2006, Doney et al. 2009, and Morford 2015.
+Introduction
+The world’s oceans are inexorably evolving toward a state of
+acidification dissimilar to what has been witnessed throughout
+human history, this anthropogenic phenomenon is termed Ocean
+Acidification (OA).1 The coupled physical/chemical changes have
+far-reaching consequences for marine habitats, organisms,
+ecosystems and ecosystem services. Predicted intensification of OA
+in the coming decades will likely disrupt physiological processes
+and reduce calcification, development, and fecundity in a range of
+organisms (Gattuso et al. 2015, Sosdian et al. 2019). As with global
+temperatures, the rate of OA is as concerning as the degree of
+change (Turley et al. 2006, Table 1). Acidification is accelerating
+faster than previously estimated driven by the increasing rate of
+carbon dioxide (CO2) emissions (Zeebe and Zachos 2013, Negrete-
+García et al. 2019). Atmospheric gas trapped in Antarctic ice cores
+show that current concentrations of CO2 are unprecedented in the
+last 800,000 years (Lüthi et al 2008). Since the last ice age, the rate
+of temperature and CO2-increase has been two orders of magnitude
+lower than during the current era of anthropogenic change. The
+rate of change in ocean acidification today is seldom observed in
+the geological record and the resilience of ecosystems to gradual
+change in the past cannot be assumed to be the same as today.
+Table 1. Average world ocean surface pH (Orr et al. 2005)
+Time
+pH
+Change in pH relative to pre-industrial
+Source
+Hydrogen ion concentration relative to pre-industrial
+References
+Preindustrial (18th century)
+8.179
+analyzed field
+Key et al. 2004
+Recent past (1990s)
+8.104
+-0.075
+field
++18.9%
+Key et al. 2004
+Present Level
+~8.069
+-0.11
+field
++28.8%
+Hall-Spencer et al. 2008
+2050 (2 x CO2 = 560 ppm)
+7.949
+-0.230
+model
++69.8%
+Orr et al. 2005
+2100 (IS92a)
+7.824
+-0.355
+model
++126.5%
+Orr et al. 2005
+The mechanisms and processes that couple atmospheric CO2
+concentrations with ocean chemistry are well understood. About a
+third of the CO2 humans have emitted since the beginning of the
+Industrial Revolution
+has been taken up by the oceans (Doney et al. 2009, Le Quéré et al.,
+2016, Sosdian et al. 2019). It takes hundreds of years for the oceans
+come to equilibrium with the atmosphere. Therefore, acidification
+will continue to increase even if atmospheric CO2 concentrations
+were stabilized at today’s levels. The Southern Ocean is the
+dominant ocean for carbon storage – accounting for ~40% of global
+oceanic CO2 uptake (Frölicher et al. 2015). The influx of
+anthropogenic CO2 has resulted in a change in ocean surface water
+acidity expressed as a lowering of pH and carbonate saturation state
+(Bates et al. 2014, Sosdian et al. 2019). The pH scale is logarithmic
+(1 pH unit is a tenfold change in acidity) and over the last 250
+years ocean acidity has increased twenty-nine percent (Hall-Spencer
+et al. 2008, Table 1). This rate of change is 10 times faster than that
+experienced by the oceans in millions of years (Turley et al. 2006,
+Hönisch et al. 2012, Negrete-García et al., 2019, Hall-Spencer and
+Harvey 2019).2
+Oceanic uptake of CO2 is not constant and varies by region. In the
+1990s, ocean CO2 uptake decreased, before increasing again in the
+2000s. Recent research shows that the Southern Ocean was central
+to these changes (DeVries et al. 2017). In the 1990s, strengthening
+winds circulating around Antarctica affected ocean currents and
+brought carbon-rich water to the surface decreasing ocean CO2
+uptake from the atmosphere. The rate at which CO2 is transferred
+from the air into seawater depends on the difference in the
+concentration of CO2 in the air, and that in the water. As human
+activities add more CO2 to the atmosphere, this concentration
+difference increases, and the ocean absorbs more CO2. Due to the
+long timescales of oceanic mixing, the distribution of CO2 in the
+oceans is spatially and temporally heterogeneous. As CO2 dissolves
+in the ocean, the partial pressure of carbon dioxide (pCO2) in
+seawater increases, pH declines and concentrations of other
+components of the marine carbonate system adjust. Concentrations
+of carbonate ions, the building blocks of aragonite and calcite
+(types of carbonate), may fall below saturation levels, threatening
+carbonate-habitats and the health and physiology of carbonate-
+exploiting species. The amount of CO2 that can dissolve in seawater
+is greater at colder temperatures and higher pressures. As such, the
+lowest pH and carbonate ion concentrations are in the polar oceans
+and the deep sea For the Southern Ocean, the Saturation Horizon is
+estimated at ~750-1000 m for aragonite and ~3100–3400 m for
+calcite (Bostock et al. 2013). There is considerable regional
+variation in these depths, reflecting differences in water masses and
+their circulation.. These factors tend to amplify the effects of
+acidification in the Southern Ocean compared to other oceans. The
+depth within the water column below which seawater is corrosive
+to carbonate (the “Saturation Horizon”) is becoming shallower
+impinging on larger areas of the sea floor4. As such, habitats
+exposed to seawater that is corrosive to aragonite are increasing.
+Predictions under the IPCC Representative Concentration Pathway
+8.5 suggest that by 2100 oceanic pH (est. pH = 7.8, Table 1) will
+be at the lowest level ever reached over the last 14 million years
+(Sosdian et al. 2019).
+The effects of OA on living systems are not well understood.
+Extrapolation of laboratory and mesocosm responses to real-world
+scenarios is uncertain and field observations are limited, especially
+for Antarctic environments. However, extreme and rapid OA in the
+geologic past resulted in mass extinctions (Clarkson et al. 2015,
+Sosdian et al. 2019).
+Ocean Acidification has been on the ATCM/CEP agenda for more
+than a decade. OA was first highlighted to ATCM XXXII (2008) in
+IP062 Antarctic Climate Change and the Environment: A progress
+report. OA was highlighted at ATCM XXXII (2009) and XXXVIII
+(2015) in SCAR science lectures (ATCM XXXII IP071 The SCAR
+Lecture – Marine Life and Change in the Southern Ocean and ATCM
+XXXVIII BP001 SCAR Lecture: Southern Ocean Acidification). The
+2010 Antarctic Treaty Meeting of Experts (ATME) noted that “ocean
+acidification must come high on the list of climate change related
+issues most likely to have maximum impact”. In subsequent years,
+further IPs were submitted by SCAR (see Annex A) and ASOC
+(ATCM XXXIV IP088 Ocean Acidification and the Southern Ocean).
+From 2018 onwards the CEP’s five-year workplan has highlighted
+the ‘assessment on impact of ocean acidification to marine biota
+and ecosystems as a Science knowledge and information need’, and
+it is also highlighted in the CEP’s current Climate Change Response
+Work Programme. The SCAR Action Group on Ocean Acidification
+ran from 2012-2018. As a cross-cutting issue, a range of SCAR
+groups have made contributions to understanding the impacts of
+OA on marine ecosystems (e.g., AnT-ERA, ICED, ASPeCt).
+Southern Ocean Environments
+In the open Southern Ocean, far from land, pH and carbonate
+saturation state are stable. In contrast, acidity in coastal areas is
+variable due to varying inputs of nutrients, freshwater and
+sediments from the surrounding land, and from melting ice. A
+changing climate is altering these inputs. In addition, the upwelling
+of cold CO2-laden upper circumpolar deep water has increased in
+recent decades (Smith et al. 2017). Regardless, Antarctic coastal
+waters have a narrower pH range than temperate and tropical
+regions, with the highest levels occurring during periods of
+enhanced summer primary production (Hofmann et al. 2011,
+Matson et al. 2011; Conrad and Lovenduski 2015; Kapsenberg et al.
+2015; Schram et al. 2015).
+Biological responses to OA are expressed at the molecular,
+organismal, population, community and ecosystem levels. Different
+species have characteristics or traits (e.g., reproduction, dispersal,
+growth, feeding, habitat) which may be affected by OA.
+Vulnerabilities to acidification, and other environmental factors
+(e.g., warming and freshening), vary with life-stage. Larval forms
+are often more sensitive to environmental change. Understanding
+these complex interactions is crucial for forecasting biotic responses
+to increasing acidification but much remains unknown.
+Marine organisms with shells or skeletons of calcium carbonate
+become vulnerable as sea water carbonate ion concentrations
+decrease to levels that dissolve these structures. However, non-
+calcifiers can also be affected by acidification. Effects may be direct
+(e.g., reduced pH disrupts organismal functions; Pörtner 2008), or
+indirect (e.g., altered food webs, behavioural changes). While
+studies in the Antarctic are limited, increased OA elsewhere,
+particularly at natural CO2 vents that acidify surrounding waters,
+has caused shifts in algal community composition and alteration of
+coastal habitats. Increased availability of bicarbonate and pCO2 can
+stimulate primary production (Hall-Spencer and Harvey 2019).
+Carbon fixation is increased, enhancing standing stocks of large
+seaweeds and seagrasses. Many macrofauna are susceptible to the
+effects of OA. For example, there was a ~30% decline in animal
+biodiversity as pH decreased from 8.1 to 7.8. Corals are the most
+recognized habitat-forming marine animals, but a diverse range of
+other groups build calcareous seabed habitats such as sponges,
+serpulids, vermetids, oysters, mussels and bryozoans. Studies along
+pH gradients at northern, natural CO2-seep sites documented that
+increased acidity reduced ecosystem diversity, species richness and
+spatial heterogeneity (Hall-Spencer and Harvey 2019). The
+complexity and multi-directional nature of biotic responses makes it
+difficult to generalize.
+As in other regions of the world, studies of the ecophysiological
+responses of Antarctic organisms to OA have shown a wide range of
+effects. Changes in carbonate chemistry may negatively affect the
+ability of Antarctic molluscs to form and maintain shells (e.g.,
+Manno et al. 2017, Bylenga et al. 2017, Gardner et al. 2018). Many
+shelled Antarctic benthic invertebrates are less calcified than their
+temperate or tropical counterparts (Watson et al. 2012) which may
+increase vulnerability to acidification. In closely related groups,
+other physiological processes can be, but are not always, negatively
+impacted. For example, in three co-occurring benthic invertebrate
+species, gonadal development was reduced in a mollusc (scallop)
+but only in one of two echinoderms (sea urchin but not sea star;
+Dell’Acqua et al. 2019). In the keystone pelagic crustacean, adult
+Antarctic krill, short-term exposure resulted in several forms of
+likely physiological stress (Saba et al. 2012) but no detrimental
+impacts were observed in a year-long study (Ericson et al. 2018,
+2019) indicating that the krill are able to physiologically adapt. In
+contrast, ecologically important benthic crustaceans (amphipods)
+can have high mortality (Schram et al. 2016a,b, Park et al. 2020).
+Microscopic and macroscopic algae can, although do not always,
+benefit physiologically from increased pCO2 (e.g., Iñiguez et al.
+2017, Cummings et al. 2019, Trimborn et al. 2019) but it can also
+decrease silica (cell wall) production in ecologically important
+planktonic microalgae (diatoms), potentially altering not only their
+vulnerability to herbivores but also carbon transport to the deep sea
+(Petrou et al. 2019). Overall, ocean acidification reduces the
+complexity, extent and species richness of biogenic reefs. The
+potential for organismal adaptation in the longer term has been
+noted. For example, brachiopods produced a thicker shell,
+presumably as protection against dissolution in response to
+acidification (Cross et al. 2019). Further, Sterechnius urchins
+appeared to acclimate in longer-term studies (Morley et al. 2016,
+Suckling et al. 2015).
+Studies of the effects of OA on higher trophic levels are limited.
+Direct – albeit minor – effects have been documented for some
+notothenioid fishes Metabolic responses to CO2 increases were
+negligible to minor but there were differences in the magnitude of
+responses between different species and life stages (Enzor et al.
+2017; Davis et al. 2017; Flynn et al. 2015).. Direct effects of OA on
+other higher order taxa in the Southern Ocean are unknown
+(Constable et al. 2014). Marine mammals and birds respond to
+changes in the production, distribution and dynamics of prey
+species (Morley et al. 2019), including moving to alternative
+locations for food. This has energetic cost implications for species
+that are undertaking longer or more complex foraging trips,
+especially for those that are bound to breeding colonies (Constable
+et al. 2014). Understanding how prey species respond to OA is key
+to understanding predators’ responses. Krill reproduction is
+predicted to decline under increasing acidification and krill-feeding
+predators may be negatively impacted (Kawaguchi et al. 2013).
+Antarctic krill are the target of the largest fishery in the Southern
+Ocean. Recent local concentration of this fishery is likely causing
+reduced performance for penguins when local harvest rate is high in
+years of low krill biomass combined with poorer environmental
+conditions (Watters et al. 2020). The negative effect of acidification
+on krill reproduction projected into the future (Kawaguchi et al.
+2013) could magnify this negative effect on krill predators. Studies
+along pH gradients at northern, natural CO2-seep sites documented
+that increased acidification degraded carbonate habitats
+compromising coastal protection and habitat provisioning for
+fisheries.
+OA and warming have synergistic effects that exacerbate the risk of
+population declines in sensitive species. Combined with rising
+temperatures, sea-level rise and more frequent and higher
+magnitude/amplitude extreme events; OA threatens the goods and
+services provided by ecosystems. For example, although increased
+temperature had no effect alone on amphipod survival, it
+synergistically increased mortality in lower pH treatments (Schram
+et al. 2016a). Additionally, decreased pH alone had little impact on
+a variety of physiological or behavioural metrics in a fish but it
+inhibited the fish’s ability to physiologically compensate for
+increases in temperature (Davis et al. 2018).
+Concluding Remarks
+The Southern Ocean will continue to acidify for decades, and
+possibly centuries, as the ocean equilibrates with atmospheric CO2
+concentrations. OA attributable to anthropogenic CO2 already
+emitted is yet to be fully expressed in ocean chemistry. The reason
+the planet takes several decades to respond to increased CO2 is the
+thermal inertia of the oceans regulates responses to increased
+atmospheric CO2 taking decades to be completely expressed.
+Changes in Antarctic oceanic and coastal environments caused by
+OA will be amplified foretelling change in more northerly oceans.
+The vulnerabilities of sensitive species may be heightened by
+synergistic interactions with other climate-change effects (e.g.,
+atmospheric and oceanic warming, sea-level rise, increased
+storminess and changes in sea ice distribution and dynamics).
+Biological and ecosystem responses to acidification in tropical, sub-
+tropical and temperate coastal systems must be cautiously applied
+when forecasting responses and effects in Antarctic marine biota
+and environments (Hall-Spencer and Harvey 2019). Studies of
+potential impacts on ecosystems are limited but altered food web
+interactions and shifts in community composition can be expected,
+along with changes in carbonate habitats, as carbonate stability
+deteriorates. More information is needed on the ability of species to
+adapt to long-term changes (e.g. across generations, Byrne et al.
+2019) given the rate of ocean acidification (and warming).
+Feedbacks with changes in sea-ice cover and warming temperatures
+(freshening, especially in coastal areas) are poorly understood but
+may be important in forecasting future responses. Mass extinctions
+in the geologic past were associated with levels of OA that some
+have projected by the year 2100, if CO2 emissions remain unabated
+(Clarkson et al. 2015, Sosdian et al. 2019). As concerning, the
+current rate of CO2 release is unprecedented in the geological
+record (Hönish et al. 2012). If the trend of increasing emissions
+continues, the magnitude and rate of future acidification will
+increase, causing biological and ecological responses to intensify
+and accelerate at a rate never observed in Earth’s history.
+Consideration of OA trajectories and biotic impacts will be essential
+for predicting futures and planning conservation efforts in the
+Antarctic region.
+References
+Bates, N.R., Y.M. Astor, M.J. Church, K. Currie, J.E. Dore, M.
+González-Dávila, L. Lorenzoni, F. Muller-Karger, J. Olafsson, and
+J.M. Santana-Casiano. (2014). A time-series view of changing ocean
+chemistry due to ocean uptake of anthropogenic CO2 and ocean
+acidification. Oceanography 27, 126–141,
+Bostock, H.C, Mikaloff Fletcher, S.E., Williams, M.J.M. (2013).
+Estimating carbonate parameters from hydrographic data for the
+intermediate and deep waters of the Southern Hemisphere oceans.
+(2013). Biogeosciences, 10, 6199–6213.
+Bylenga, C.H., Cummings, V.J., and Ryan, K.G. (2017). High
+resolution microscopy reveals significant impacts of ocean
+acidification and warming on larval shell development in Laternula
+elliptica. PLOS ONE 12, e0175706.
+Byrne, M., Foo, S.A., Ross, P.M., and Putnam, H.M. (2020).
+Limitations of cross- and multigenerational plasticity for marine
+invertebrates faced with global climate change. Global Change
+Biology 26, 80–102.
+Clarkson, M.O., Kasemann, S.A., Wood, R.A., Lenton, T.M., Daines,
+S.J., Richoz, S., Ohnemueller, F., Meixner, A., Poulton, S.W., and
+Tipper, E.T. (2015). Ocean acidification and the Permo-Triassic
+mass extinction. Science 348, 229–232.
+Conrad, C.J., and Lovenduski, N.S. (2015). Climate-Driven
+Variability in the Southern Ocean Carbonate System. J. Climate 28,
+5335–5350.
+Constable, A.J., Melbourne‐Thomas, J., Corney, S.P., Arrigo, K.R.,
+Barbraud, C., Barnes, D.K.A., Bindoff, N.L., Boyd, P.W., Brandt, A.,
+Costa, D.P., et al. (2014). Climate change and Southern Ocean
+ecosystems I: how changes in physical habitats directly affect
+marine biota. Global Change Biology 20, 3004–3025.
+Cross, E.L., Harper, E.M., and Peck, L.S. (2019). Thicker Shells
+Compensate Extensive Dissolution in Brachiopods under Future
+Ocean Acidification. Environ. Sci. Technol. 53, 5016–5026.
+Cummings, V.J., Barr, N.G., Budd, R.G., Marriott, P.M., Safi, K.A.,
+and Lohrer, A.M. (2019). In situ response of Antarctic under-ice
+primary producers to experimentally altered pH. Scientific Reports
+9, 1–13.
+Davis, B.E., Flynn, E.E., Miller, N.A., Nelson, F.A., Fangue, N.A., and
+Todgham, A.E. (2018). Antarctic emerald rockcod have the capacity
+to compensate for warming when uncoupled from CO2-
+acidification. Global Change Biology 24, e655–e670.
+Dell’Acqua, O., Ferrando, S., Chiantore, M., and Asnaghi, V. (2019).
+The impact of ocean acidification on the gonads of three key
+Antarctic benthic macroinvertebrates. Aquatic Toxicology 210, 19–
+29.
+DeVries, T., Holzer, M., and Primeau, F. (2017). Recent increase in
+oceanic carbon uptake driven by weaker upper-ocean overturning.
+Nature 542, 215–218.
+Doney, S.C., Fabry, V.J., Feely, R.A., and Kleypas, J.A. (2009).
+Ocean acidification: the other CO2 problem. Annual Review of
+Marine Science 1, 169–192.
+Enzor, L.A., Hunter, E.M., and Place, S.P. (2017). The effects of
+elevated temperature and ocean acidification on the metabolic
+pathways of notothenioid fish. Conservation Physiology 5.
+Ericson, J.A., Hellessey, N., Kawaguchi, S., Nicol, S., Nichols, P.D.,
+Hoem, N., and Virtue, P. (2018). Adult Antarctic krill proves
+resilient in a simulated high CO2 ocean. Communications Biology 1,
+1–9.
+Ericson, J.A., Hellessey, N., Kawaguchi, S., Nichols, P.D., Nicol, S.,
+Hoem, N., and Virtue, P. (2019). Near-future ocean acidification
+does not alter the lipid content and fatty acid composition of adult
+Antarctic krill. Scientific Reports 9, 1–10.
+Flynn, E.E., Bjelde, B.E., Miller, N.A., and Todgham, A.E. (2015).
+Ocean acidification exerts negative effects during warming
+conditions in a developing Antarctic fish. Conservation Physiology
+3.
+Frölicher, T.L., Sarmiento, J.L., Paynter, D.J., Dunne, J.P., Krasting,
+J.P., and Winton, M. (2014). Dominance of the Southern Ocean in
+Anthropogenic Carbon and Heat Uptake in CMIP5 Models. Journal
+of Climate 28, 862–886.
+Gardner, J., Manno, C., Bakker, D.C.E., Peck, V.L., and Tarling, G.A.
+(2017). Southern Ocean pteropods at risk from ocean warming and
+acidification. Marine Biology 165, 8.
+Gattuso, J.-P., Magnan, A., Billé, R., Cheung, W.W.L., Howes, E.L.,
+Joos, F., Allemand, D., Bopp, L., Cooley, S.R., Eakin, C.M., et al.
+(2015). Contrasting futures for ocean and society from different
+anthropogenic CO2 emissions scenarios. Science 349.
+Hall-Spencer, J.M., and Harvey, B.P. (2019). Ocean acidification
+impacts on coastal ecosystem services due to habitat degradation.
+Emerg Top Life Sci 3, 197–206.
+Hall-Spencer, J.M., Rodolfo-Metalpa, R., Martin, S., Ransome, E.,
+Fine, M., Turner, S.M., Rowley, S.J., Tedesco, D., and Buia, M.-C.
+(2008). Volcanic carbon dioxide vents show ecosystem effects of
+ocean acidification. Nature 454, 96–99.
+Henderson C. Ocean acidification: the other CO2 problem. (2006).
+New Scientist. http://environment.newscientist.com/article/
+mg19125631.200
+Hofmann, G.E., Smith, J.E., Johnson, K.S., Send, U., Levin, L.A.,
+Micheli, F., Paytan, A., Price, N.N., Peterson, B., Takeshita, Y., et al.
+(2011). High-Frequency Dynamics of Ocean pH: A Multi-Ecosystem
+Comparison. PLoS ONE 6, e28983.
+Hönisch, B., Ridgwell, A., Schmidt, D.N., Thomas, E., Gibbs, S.J.,
+Sluijs, A., Zeebe, R., Kump, L., Martindale, R.C., Greene, S.E., et al.
+(2012). The geological record of ocean acidification. Science 335,
+1058–1063.
+Iñiguez, C., Heinrich, S., Harms, L., and Gordillo, F.J.L. (2017).
+Increased temperature and CO2 alleviate photoinhibition in
+Desmarestia anceps: from transcriptomics to carbon utilization. J
+Exp Bot 68, 3971–3984.
+IPCC (2019). Summary for Policymakers. In: IPCC Special Report on
+the Ocean and Cryosphere in a Changing Climate [H.-O. Pörtner,
+D.C. Roberts, V. Masson-Delmotte, P. Zhai, M. Tignor, E.
+Poloczanska, K. Mintenbeck, M. Nicolai, A. Okem, J. Petzold, B.
+Rama, N. Weyer (eds.)]. In press.
+Kapsenberg, L., Kelley, A.L., Shaw, E.C., Martz, T.R., and Hofmann,
+G.E. (2015). Near-shore Antarctic pH variability has implications
+for the design of ocean acidification experiments. Scientific Reports
+5, 9638.
+Kawaguchi, S., Ishida, A., King, R., Raymond, B., Waller, N.,
+Constable, A., Nicol, S., Wakita, M., and Ishimatsu, A. (2013). Risk
+maps for Antarctic krill under projected Southern Ocean
+acidification. Nature Climate Change 3, 843–847.
+Key, R.M., Kozyr, A., Sabine, C.L., Lee, K., Wanninkhof, R.,
+Bullister, J.L., Feely, R.A., Millero, F.J., Mordy, C., and Peng, T.-H.
+(2004). A global ocean carbon climatology: Results from Global
+Data Analysis Project (GLODAP). Global Biogeochemical Cycles 18.
+Lüthi, D., Le Floch, M., Bereiter, B., Blunier, T., Barnola, J.-M.,
+Siegenthaler, U., Raynaud, D., Jouzel, J., Fischer, H., Kawamura, K.,
+et al. (2008). High-resolution carbon dioxide concentration record
+650,000–800,000 years before present. Nature 453, 379–382.
+Manno, C., Bednaršek, N., Tarling, G.A., Peck, V.L., Comeau, S.,
+Adhikari, D., Bakker, D.C.E., Bauerfeind, E., Bergan, A.J., Berning,
+M.I., et al. (2017). Shelled pteropods in peril: Assessing
+vulnerability in a high CO2 ocean. Earth-Science Reviews 169, 132–
+145.
+Matson, P.G., Martz, T.R., and Hofmann, G.E. (2011). High-
+frequency observations of pH under Antarctic sea ice in the
+southern Ross Sea. Antarctic Science 23, 607–613.
+Mattsdotter Björk, M., Fransson, A., Torstensson, A., and Chierici,
+M. (2014). Ocean acidification state in western Antarctic surface
+waters: controls and interannual variability. Biogeosciences 11, 57–
+73.
+McNeil, B.I., and Matear, R.J. (2008). Southern Ocean acidification:
+A tipping point at 450-ppm atmospheric CO2. PNAS 105, 18860–
+18864.
+Morford, S. (2015). What Is Ocean Acidification & Why Does It
+Matter?. https://blogs.ei.columbia.edu/2015/12/09/what-is-ocean-
+acidification-why-does-it-matter/
+Morley, S.A., Barnes, D.K.A., and Dunn, M.J. (2019). Predicting
+Which Species Succeed in Climate-Forced Polar Seas. Front. Mar.
+Sci. 5, 507.
+Morley, S.A., Suckling, C.C., Clark, M.S., Cross, E.L., and Peck, L.S.
+(2016). Long-term effects of altered pH and temperature on the
+feeding energetics of the Antarctic sea urchin, Sterechinus
+neumayeri. Biodiversity 17, 34–45.
+Negrete-García, G., Lovenduski, N.S., Hauri, C., Krumhardt, K.M.,
+and Lauvset, S.K. (2019). Sudden emergence of a shallow aragonite
+saturation horizon in the Southern Ocean. Nature Climate Change
+9, 313–317.
+Orr, J.C., Fabry, V.J., Aumont, O., Bopp, L., Doney, S.C., Feely,
+R.A., Gnanadesikan, A., Gruber, N., Ishida, A., Joos, F., et al.
+(2005). Anthropogenic ocean acidification over the twenty-first
+century and its impact on calcifying organisms. Nature 437, 681–
+686.
+Park, S., Ahn, I.-Y., Sin, E., Shim, J., and Kim, T. (2020). Ocean
+freshening and acidification differentially influence mortality and
+behavior of the Antarctic amphipod Gondogeneia antarctica. Marine
+Environmental Research 154, 104847.w
+Petrou, K., Baker, K.G., Nielsen, D.A., Hancock, A.M., Schulz, K.G.,
+and Davidson, A.T. (2019). Acidification diminishes diatom silica
+production in the Southern Ocean. Nature Climate Change 9, 781–
+786.
+Pörtner, H.-O. (2008). Ecosystem effects of ocean acidification in
+times of ocean warming: a physiologist’s view. Marine Ecology
+Progress Series 373, 203–217.
+Quéré, C.L., Andrew, R.M., Canadell, J.G., Sitch, S., Korsbakken,
+J.I., Peters, G.P., Manning, A.C., Boden, T.A., Tans, P.P., Houghton,
+R.A., et al. (2016). Global Carbon Budget 2016. Earth System
+Science Data 8, 605–649.
+Schram, J.B., Schoenrock, K.M., McClintock, J.B., Amsler C.D., and
+Angus, R.A. (2015) Multi-frequency observations of seawater
+carbonate chemistry on the central coast of the western Antarctic
+Peninsula. Polar Res 34, 25582.
+Schram, J.B., Schoenrock, K.M., McClintock, J.B., Amsler, C.D., and
+Angus, R.A. (2016a). Seawater acidification more than warming
+presents a challenge for two Antarctic macroalgal‑associated
+amphipods. Marine Ecology Progress Series 554, 81–97.
+Schram, J.B., Amsler, M.O., Amsler, C.D., Schoenrock, K.M.,
+McClintock, J.B., and Angus, R.A. (2016b). Antarctic crustacean
+grazer assemblages exhibit resistance following exposure to
+decreased pH. Mar Biol 163, 106.
+Smith, J.A., Andersen, T.J., Shortt, M., Gaffney, A.M., Truffer, M.,
+Stanton, T.P., Bindschadler, R., Dutrieux, P., Jenkins, A.,
+Hillenbrand, C.-D., et al. (2017). Sub-ice-shelf sediments record
+history of twentieth-century retreat of Pine Island Glacier. Nature
+541, 77–80.
+Sosdian, S.M., Greenop, R., Hain, M.P., Foster, G.L., Pearson, P.N.,
+and Lear, C.H. (2018). Constraining the evolution of Neogene ocean
+carbonate chemistry using the boron isotope pH proxy. Earth and
+Planetary Science Letters 498, 362–376.
+Suckling, C.C., Clark, M.S., Richard, J., Morley, S.A., Thorne,
+M.A.S., Harper, E.M., and Peck, L.S. (2015). Adult acclimation to
+combined temperature and pH stressors significantly enhances
+reproductive outcomes compared to short-term exposures. Journal
+of Animal Ecology 84, 773–784.
+Trimborn, S., Thoms, S., Karitter, P., and Bischof, K. (2019). Ocean
+acidification and high irradiance stimulate the photo-physiological
+fitness, growth and carbon production of the Antarctic cryptophyte
+Geminigera cryophila. Biogeosciences 16, 2997–3008.
+Turley C.The other CO2 problem. open Democracy. (2005). http://
+www.acamedia.info/sciences/sciliterature/globalw/reference/carol
+turley.html
+Turley C, Blackford J, Widdicombe S, Lowe D, Nightingale P D,
+Rees AP. 2006. Reviewing the impact of increased atmospheric CO2
+on oceanic pH and the marine ecosystem. In: Avoiding Dangerous
+Climate Change. Edited by H.J. Schellnhuber, W. Cramer, N.
+Nakicenovic, T. Wigley, G. Yohe. Cambridge University Press, New
+York. Chapter 8, pp. 65–70.
+Watson, S.-A., Peck, L.S., Tyler, P.A., Southgate, P.C., Tan, K.S.,
+Day, R.W., and Morley, S.A. (2012). Marine invertebrate skeleton
+size varies with latitude, temperature and carbonate saturation:
+implications for global change and ocean acidification. Global
+Change Biology 18, 3026–3038.
+Watters, G.M., Hinke, J.T., and Reiss, C.S. (2020). Long-term
+observations from Antarctica demonstrate that mismatched scales of
+fisheries management and predator-prey interaction lead to
+erroneous conclusions about precaution. Scientific Reports 10, 231.
+Zeebe, R.E., and Zachos, J.C. (2013). Long-term legacy of massive
+carbon input to the Earth system: Anthropocene versus Eocene.
+Philosophical Transactions of the Royal Society A: Mathematical,
+Physical and Engineering Sciences 371, 20120006.
+Annex A. List of SCAR ATCM papers (2019-2008) mentioning ocean
+acidification (obtained by a key word search of the SCAR website)
+Paper Title
+Date
+BP003: Anthropogenic Noise in the Southern Ocean: an Update
+31st July 2019
+ATT046 to IP003: Antarctic Environments Portal Content
+Management Plan
+22nd Jan 2019
+IP033: Update on activities of the Southern Ocean Observing
+System
+22 Jan 2019
+BP001: SCAR Lecture: Southern Ocean Acidification
+10 Jun 2015
+Attachment to IP011: Scoping Workshop on Practical Solutions
+Final Report
+07 May 2014
+Overview of SCAR Papers Submitted to ATCM XXXVI and CEP XVI
+2013
+29 May 2013
+IP052: Ocean Acidification: SCAR Future Plans
+29 May 2013
+IP002: The Southern Ocean Observing System (SOOS)
+20 Jun 2012
+IP035: Antarctic Conservation for the 21st Century: Background,
+Progress, and Future Directions
+20 Jun 2012
+IP040: SCAR Products Available to Support the Deliberations of the
+ATCM
+20 Jun 2012
+IP051: The Southern Ocean Observing System (SOOS): An Update
+01 Jun 2011
+IP050: The Southern Ocean Observing System (SOOS)
+14 May 2010
+IP071: SCAR Lecture 2009: Marine Life and Change in the Southern
+Ocean (Lecture Slides)
+17 Apr 2009
+IP062: Antarctic Climate Change and the Environment: A Progress
+Report (32nd meeting)
+13 Jun 2008

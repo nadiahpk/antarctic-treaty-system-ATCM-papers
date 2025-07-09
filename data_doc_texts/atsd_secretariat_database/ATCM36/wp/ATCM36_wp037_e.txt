@@ -1,0 +1,73 @@
+﻿
+
+
+
+
+
+www.biodiversity.aq 
+The new Antarctic Biodiversity Information Network
+
+
+
+
+
+
+
+
+
+
+www.biodiversity.aq
+The new Antarctic Biodiversity Information Network
+
+Working Paper submitted by Belgium and SCAR
+
+
+Introduction 
+
+Belgium is coordinating the renewed international Antarctic Biodiversity portal (www.biodiversity.aq). This portal builds on the legacy of the SCAR Marine Biodiversity Information Network (SCAR-MarBIN) and the Antarctic Biodiversity Information Facility (AntaBIF), providing access to both marine and terrestrial Antarctic biodiversity data. The data portal is a key element of the new SCAR (Scientific Committee on Antarctic Research) scientific research programmes ‘State of the Antarctic Ecosystem’ (AntEco) and ‘Antarctic Threshold- Ecosystem resilience and Adaptation’ (AnT-ERA). The scientific coordination and technical implementation of biodiversity.aq is supported by the Belgian Science Policy Office (BELSPO), through the Belgian Biodiversity Platform (www.biodiversity.be).
+
+Antarctic marine and terrestrial biodiversity data is widely scattered, patchy and often not readily accessible. In many cases the data is in danger of being irretrievably lost. Biodiversity.aq establishes and supports a distributed system of interoperable databases, giving easy access through a single internet portal (www.biodiversity.aq) to a set of resources relevant to research, conservation and management pertaining to Antarctic biodiversity.
+
+Objectives of Biodiversity.aq
+
+Biodiversity.aq compiles and manages existing and new information on Antarctic marine biodiversity by coordinating, supporting, completing and optimizing database networking, with a strong focus on interoperability. This information is made available to world biodiversity information initiatives such as, the Global Biodiversity Information Facility (GBIF: www.gbif.org), the Ocean Biogeographic Information System (OBIS: www.iobis.org) or Encyclopedia of Life (www.eol.org/). Biodiversity.aq’s data policy aligns with the Antarctic Treaty (Art. III.1), the International Polar Year 2007-2008 requirements, as well as data and metadata standards as promoted by GBIF, OBIS, SCAR’s Standing Committee on Antarctic Data Management (SCADM) and the Global Change Master Directory (GCMD). 
+
+Biodiversity.aq is managed by an International Steering Committee, composed of invited experts. The Committee decides on Biodiversity.aq’s scientific, technical and policy strategies, and supervises the network developments.
+
+Biodiversity.aq’s dataportal (data.biodiversity.aq) is functional and is actively disseminating information and data on Antarctic marine and terrestrial biodiversity. The species distribution section allows browsing and downloading data (over 2,000,000 records to date). Taxonomy includes the development of a Register of Antarctic Species (RAMS, 16,500 species to date), which compiles and manages an authoritative taxonomic list of species occurring in the Antarctic marine and terrestrial environment, progressively establishing a standard reference, which contributes to wider taxonomic initiatives (such as the Catalogue of Life). The portal also implements an interactive Gazetteer of Antarctic locations. Biodiversity.aq also intends to include a series of environmental modelling tools and services already available at OBIS.
+
+Biodiversity.aq offers an Integrated Publishing Toolbox (IPT: ipt.biodiversity.aq). This bioinformatics suite was developed by GBIF and Pensoft publishers, and provides an easy tool for individual scientists or institutes to publish biodiversity metadata and data through the biodiversity.aq portal. As an added functionality, the IPT allows the creation of a data paper based on the provided metadata, which can be submitted for publication in peer-reviewed data journals. Data Papers provide a citable resource, offering scholarly credit for the researcher and their institutes and increasing exposure of the published data.
+
+Biodiversity.aq offers Antarctic Field Guides (afg.biodiversity.aq), as a collaborative tool that can help users identify Antarctic organisms. They combine expert provided information with authoritative, quality controlled data resources (biodiversity.aq, RAMS, GBIF). The Antarctic Field Guides allows users to build a customized guide, to be taken in the field or simply browsed. Custom field guides can be saved as PDFs or printed on paper, allowing users to access and share excellent identification tools without having to carry a large library of books. Even if the primary focus is scientists, the Antarctic Field Guides can be used by anybody with an interest in Antarctic Biodiversity.
+
+Biodiversity.aq supports the Antarctic science community by providing free and open access to an unprecedented mass of data relevant to understand Antarctic and Southern Ocean biodiversity. Biodiversity.aq also supports policy makers by participating in various conservation processes (CCAMLR workshops), providing hands-on expertise to help integrate the large amounts of data it is handling. It is envisioned that biodiversity.aq will likely support initiatives to facilitate the link between Antarctic science and policy making, such as the Antarctic Environments Portal. The Environments Portal will put evidence based policy ready information at the fingertips of decision makers and support the informed management of Antarctica, enhancing the CEP’s advisory role to the ATCM, facilitating SCAR’s advisory role to the ATCM and CEP and assisting in communicating information on Antarctic environments to the public. 
+
+Biodiversity.aq represents an extremely valuable legacy for future generations, in the form of an integrated, modular and evolving information tool that provides a reference for establishing a State of Antarctic Environment, and sets up a benchmark for predicting the future for Antarctic biological communities, which are currently challenged by rapid global change. 
+
+Recommendations
+
+Recalling that the Antarctic Treaty at Article II provides for the freedom of scientific investigation in Antarctica, and at Article III(1)(c) provides that to the greatest extent feasible and practicable, scientific observations and results from Antarctica shall be exchanged and made freely available, Belgium and SCAR recommend that the Committee:
+1.	Endorse the www.biodiversity.aq initiative, which aims to be a single and easy access to relevant Antarctic marine and terrestrial biodiversity data for scientific, conservation and management purposes;
+2. 	Encourage their national science programme and scientists to publish their data through www.biodiversity.aq;
+3. 	Notes that www.biodiversity.aq, by providing access to primary biodiversity data, will support the collation of policy ready information, for example, through the Antarctic Environments Portal;
+4.	Encourage Belgium, SCAR and other interested Members to continue to maintain and develop the www.biodiversity.aq portal and update the Committee on progress;
+5.	Encourage Belgium, SCAR and other interested Members to support the www.biodiversity.aq initiative and consider options for its long term financing.
+
+Annex
+
+Resolution X (2013) 
+Resolution on Support to the Antarctic Biodiversity Information Network (www.biodiversity.aq) 
+
+The Representatives, 
+
+Recalling that the Antarctic Treaty at Article II provides for the freedom of scientific investigation in Antarctica, and at Article III(1)(c) provides that to the greatest extent feasible and practicable, scientific observations and results from Antarctica shall be exchanged and made freely available; 
+Believing that www.biodiversity.aq is a hugely useful resource both to the science and to the policy communities, offering a powerful way of improving current understanding of Antarctic Biodiversity and supporting wise management and governance of the region;
+Desiring to optimise the use of www.biodiversity.aq and to increase its contribution to and impact on both science and policy in the Antarctic and Southern Ocean region.
+
+Recommend that the Parties: 
+1.	Endorse the www.biodiversity.aq initiative, which aims to be a single and easy access to relevant Antarctic marine and terrestrial biodiversity information for scientific, conservation and management purposes;
+2.	Encourage their national science programme and scientists to publish their data through www.biodiversity.aq;
+3. 	Note that www.biodiversity.aq, by providing the access to primary biodiversity data, provides a key link to the Antarctic Environments Portal and thus to policy makers;
+4.	Encourage Belgium, SCAR and other interested Members to continue to maintain and develop the www.biodiversity.aq portal and update the Committee on progress;
+5.	Encourage Belgium, SCAR and other interested Members to support the www.biodiversity.aq initiative and consider options for its longer term financing.
+

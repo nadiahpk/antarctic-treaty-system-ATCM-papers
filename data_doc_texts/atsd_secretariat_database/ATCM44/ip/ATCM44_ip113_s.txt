@@ -1,0 +1,168 @@
+Avances del proyecto de generación de un robot submarino para su
+uso en la Antártida
+Avances del proyecto de generación de un robot submarino para su
+uso en la Antártida.
+Resumen
+El presente documento describe los avances en materia del proyecto
+de robótica submarina para exploración de los fondos marinos
+antárticos en las Islas Shetland del Sur. Este proyecto inició en la
+XIV Expedición Ecuatoriana a la Estación Científica Pedro Vicente
+Maldonado, verano austral 2009-2010 bajo el auspicio de
+universidades como proyecto de investigación. Actualmente este
+proyecto de investigación se lo maneja como un emprendimiento
+privado para explorar fondos marinos hasta 8000 m para
+aplicaciones relacionadas con explotación de recursos genéticos y
+minerales en los fondos marinos. La tecnología en desarrollo se
+concentra en robótica submarina tipo autónoma basado en el uso
+intensivo de inteligencia artificial embarcada con el propósito de
+que el robot pueda realizar las mismas tareas de un robot
+teleoperado tipo ROV pero sin la necesidad de estar conectado a la
+superficie a través de un cable umbilical, por ejemplo: tomar
+imágenes en campo cercano de un sitio científico de interés como
+fuentes hidrotermales o recolectar especies del piso marino con un
+brazo robot. Estas capacidades operativas, profundidad de
+operación y autonomía permitirá en el corto plazo ejecutar
+expediciones submarinas en el Paso Drake donde métodos
+tradicionales de exploración submarina con ROV que operen a 4000
+m de profundidad, desplegados desde un Buque oceanográfico
+pueden ser altamente arriesgados debido al clima extremo de la
+zona.
+Introducción
+Actualmente, conocemos mejor la superficie de la Luna que los
+fondos marinos. Aproximadamente se ha explorado y caracterizado
+menos del 10% de los fondos marinos del Planeta. Los fondos
+marinos antárticos se encuentran entre los menos explorados debido
+en gran parte a los desafíos logísticos y al clima extremo. Entre uno
+de los sitios menos explorados en la Antártida se encuentra los
+fondos marinos en el Paso Drake con una profundidad media de
+3500 m, lugar de interés científico relevante debido a la presencia
+de la Corriente Circumpolar Antártica cuyo comportamiento se está
+alterando debido al cambio climático [1].
+Desde el año 2009, se ha venido desarrollando tecnología de bajo
+costo, para la exploración de los fondos marinos antárticos, en el
+área de influencia de la Estación Científica Pedro Vicente
+Maldonado. Prototipos de robots se han desplegado durante 4
+Expediciones durante los veranos australes 2009-2010, 2010-2011,
+2011-2012, 2018-2019 bajo el auspicio de la Escuela Superior
+Politécnica del Litoral (ESPOL) y en la ultima expedición con el aval
+de la Universidad Estatal Península de Santa Elena (UPSE). Sistemas
+clave del robot han sido evaluados en ambiente antártico como
+Sistema de Navegación Inercial y Visión por Computador logrando
+recolectar de forma autónoma estrellas de mar en el piso marino
+cercano a Isla Barrientos [2]-[7]. La experiencia ganada respecto a
+la logística en ambiente extremo, ha sido fundamental para el
+desarrollo de nueva tecnología, que permitirá explorar fondos
+marinos cercanos a las Islas Shetland del Sur, en algunos puntos
+superan los 5000 m de profundidad. Teniendo en cuenta las
+restricciones logísticas, las dimensiones y peso del robot están
+concebidas para su transporte a bordo de, un avión de pasajeros
+comercial y modelos de helicópteros que operan en la Antártida.
+Actualmente, este proyecto de investigación se lo desarrolla como
+un componente de un emprendimiento privado de robótica
+submarina, con sede en la Cuidad de Guayaquil, Ecuador. Las
+lecciones aprendidas en la Antártida se las ha aplicado para
+desarrollar un nuevo concepto de diseño de robots submarinos para
+operar en ambiente polar, de forma económica y segura.
+Desarrollo
+En el año 2020 se funda el emprendimiento HadalBotics, en
+Ecuador, con el propósito de diseñar y construir robots submarinos,
+para explorar los fondos marinos de las Islas Galápagos, fosas
+oceánicas frente a Perú-Chile y las inmediaciones de las Islas
+Shetland del Sur, Antártida. La arquitectura del robot submarino se
+basa en el uso de plataformas hardware-software de código abierto,
+lo cual permite eliminar la dependencia de tecnología extranjera,
+bajando los costos operativos y aumentando el grado de
+alistamiento de las unidades. Usualmente, para las tareas de
+exploración propuestas se emplean robots tipo ROV (Remotely
+Operated Vehicles) que se despliegan desde buques oceanográficos,
+con un costo de operación de USD 50000 por día. HadalBotics
+desarrolla robots submarinos tipo autónomos o AUV (Autonomous
+Underwater Vehicle) portátiles, de dimensión menor a 70 cm y peso
+menor a 30 Kg, con capacidad de inmersión de hasta 8000 m, lo
+cual facilita su despliegue operativo desde una embarcación menor
+o un velero.
+El robot cuenta con un sistema de inteligencia artificial para
+realizar algunas tareas de los ROV, manejados por un operador,
+como tomar fotos-video en campo cercano, de algún lugar de
+interés y recolectar muestras del piso marino, de forma totalmente
+autónoma. Estas características permiten disminuir los costos
+operativos de exploración de USD 50000/día a USD 800/día, si en
+una expedición oceánica se utiliza un velero como plataforma de
+despliegue. Además, al ser los robots autónomos es posible
+desplegar grupos de robots desde el mismo velero, para cubrir más
+terreno por día o explorar simultáneamente varios sitios de interés
+científico, actuando esta configuración como un multiplicador de
+fuerza. Estas características permitirán el uso de veleros como
+plataformas de investigación de fondos marinos profundos, mayor a
+4000 m, en las Islas Shetland del Sur, Antártida. Actualmente, se ha
+construido un prototipo del robot submarino con capacidad de
+inmersión de hasta 400 m, para validar el software de sistemas
+críticos del robot como el Sistema de Navegación Inercial e
+Inteligencia Artificial, se encuentra en operaciones frente a las
+costas de Ecuador.
+Figura 1- Robot submarino HAUV (Hybrid Autonomous Underwater
+Vehicle) “Valdivia”.
+El robot submarino esta equipado con 8 propulsores en
+configuración vectorial con 6 grados de libertad. Dispone de dos
+juegos de cámaras HD y 4k orientadas hacia el frente del vehículo y
+otro mirando hacia abajo para labores de fotogrametría del piso
+marino. Los algoritmos del robot corren sobre plataformas hardware
+CPU, FPGA y TPU, para implementar los sistemas de Navegación
+Inercial, Visión por Computador, Inteligencia Artificial y
+Administrador de Misión. La electrónica esta contenida en diversos
+cascos presurizados fabricados con titanio y aluminio de grado
+aeroespacial. Las comunicaciones que dispone el robot son RF LOS
+2.4 GHz y enlace satelital con modem IRIDIUM. Entre los equipos
+que conforman la carga útil se encuentran un CTD, ecosonda,
+escalímetro láser, sonar de barrido lateral y brazo robot para
+recolección de muestras bentónicas. Las experiencias ganadas en la
+Antártida han servido para que esta tecnología se acople a los
+desafíos logísticos de una expedición antártica y sea apta para
+operar en ambiente polar.
+Conclusión
+Las pruebas de inmersión en ambiente antártico de los robots
+submarinos desarrollados entre 2009 y 2019 han permitido
+desarrollar tecnología nacional para exploración del piso marino
+profundo que sea apta para operar en ambiente antártico desde
+plataformas económicas como un bote zodiac o un velero. Se espera
+que con esta nueva tecnología se incremente significativamente la
+exploración del piso marino profundo cerca de las Islas Shetland del
+Sur, Antártida.
+Recomendación
+Explorar sitios de difícil acceso y ambiente extremo como la
+Antártida conlleva riesgos de potencial perdida de alguna unidad
+submarina no tripulada. Es recomendable establecer
+protocolos con las diferentes Estaciones y Bases antárticas para un
+eventual SAR en caso de que una unidad submarina se extravíe o
+salga a la superficie solicitando rescate vía enlace satelital.
+Referencias
+[1] Zhongming, Z., Linong, L., Xiaona, Y., Wangqiang, Z., & Wei, L.
+(2021). Antarctic Circumpolar Current flows more rapidly in warm
+phases.
+[2] Arturo Cadena, “Development of a hybrid Autonomous
+Underwater Vehicle for scientific data recollection” V Simposio
+Latinoamericano sobre investigaciones Antárticas y II Simposio
+ecuatoriano de ciencia polar. La Libertad, Ecuador. Septiembre
+2009.
+[3] Arturo Cadena, “Development of a Low Cost Autonomous
+Underwater Vehicle for Antarctic exploration”. IEEE International
+Conference on Technologies for Practical Robot Applications TEPRA
+2011. Woburn, MA, Estados Unidos. Abril 2011.
+[4] Arturo Cadena, “Design and implementation of cooperative
+Autonomous Underwater Vehicles for Antarctic exploration” SPIE
+Defense and Security. Ocean Sensing and Monitoring III, Weilin W.
+Hou; Robert Arnone, Editors, Proceedings of SPIE Vol. 8030 (SPIE,
+Bellingham, WA 2011), 80300F. Orlando, FL, Estados Unidos. Abril
+2011.
+[5] A Cadena, R Ponguillo, "Development of an Autonomous
+Underwater Vehicle for Census of Antarctic Marine Life"
+INTERNATIONAL ASSOCIATION OF ENGINEERS. Londres, Reino
+Unido. Junio 2016.
+[6] A Cadena, “A Modular Hardware-Software Architecture of an
+Autonomous Underwater Vehicle for Deep Sea Exploration”,
+Proceedings of the World Congress on Engineering 2017 Vol I WCE
+2017, July 5-7, 2017, London, U.K.
+[7] A Cadena, S Vera, P Teran, G Reyes, V Yaselga, J Lino.
+“Development of a Hybrid Autonomous Underwater Vehicle for
+Benthic Monitoring”. IEEE Control, Automation, Robotics 2018.
+Auckland, New Zealand. April 2018.

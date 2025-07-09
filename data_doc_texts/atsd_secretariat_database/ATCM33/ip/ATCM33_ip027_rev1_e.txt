@@ -1,0 +1,64 @@
+﻿
+
+
+
+
+
+Energy Management Strategies for U.S. Antarctic Research Stations
+
+
+
+
+
+Energy Management Strategies for U.S. 
+Antarctic Research Stations
+Introduction
+The United States Antarctica Program's (USAP) presence in Antarctica includes, at various times throughout the year, approximately 1,700 scientists and support personnel at three main stations (McMurdo, South Pole, Palmer), on two research vessels, and at numerous remote field camps of varying sizes.  Generation and delivery of reliable power and efficient energy consumption have been critical to implementing United States (U.S.) science projects.  
+The Program has been increasing its energy efficiency and use of alternative energy sources for some time.  As examples, recycling of waste heat from diesel generators was initiated in 1999 and the first solar power systems were commissioned at field camps in 2001.  Currently, the United States is redoubling its efforts to improve energy efficiency and to reduce carbon emissions
+This paper summarizes the USAP energy management program, including a description of energy conservation measures (ECMs), results of implemented ECMs, and a description of future program direction and improvements
+Energy management approach
+The USAP uses a systems approach to manage energy generation and use.  The approach considers and integrates components, processes, and people.  The four primary steps of the continuous improvement management process are: plan/design, implement, monitor, and modify.
+The early energy program focused on cost and reliability of energy generation and delivery.  These early actions focused on deploying proven technology and low cost/low effort solutions.  Subsequent to this, reduced energy consumption actions were included in the program.  More recently (2005 to the present), reduction of emissions (e.g., carbon), use of alternative energy sources, monitoring, and worker education have been fully included as considerations to the program.  Currently, the program reviews the system (components, process, and people) and evaluates cost-benefit of proposals including retrofit of existing facilities and infrastructure, opportunities in new construction, changes to operations and process and opportunities to enhance worker education and engagement.
+The goal is to continuously lower per capita energy use and meet energy requirements with less fossil fuel, without limiting science activities.  A recent study of efficiency indicates that it may be possible to reduce the current total intake of fuel needed for producing power for heat and electricity by an average of 40% from the 2006 baseline.
+To achieve these goals, the USAP identified five key areas of improvement:  
+    • Alternative energy generation via renewable sources 
+    • New facilities, retrofit components, and operational changes that increase efficiency and /or reduce consumption 
+    • Transportation (air, ground, and mixed use)
+    • Monitoring, metrics and smart grid technology
+    • Education 
+The following sections highlight key actions taken, results of those actions, and planned actions.  From 2005-2010, the United States has been actively measuring various indicators of energy consumption at McMurdo, South Pole, and Palmer Stations.  These measures serve as a baseline to identify improvements from the actions taken over the same time.
+Actions taken and results 
+Alternative Energy Generation
+The USAP continues to expand its use of renewable energy sources at field camps (for a more complete description, see ATCM XXVIII IP4 Renewable Energy Use at Field Camps in Antarctica (attached)) and at McMurdo Station.  In addition, waste heat recycling has been increased at McMurdo Station.  In January 2010, electricity from the New Zealand wind turbine project was integrated into the McMurdo grid to offset fossil fuel use at Scott Base and McMurdo Station.  Waste heat production, control and distribution upgrades were implemented at McMurdo Station in 2008 and the systems that control the waste heat transfer were optimized in 2009.
+New Facility, Retrofit Components, and Operational Changes
+ECM implementation at USAP stations has included installing more efficient lighting ballasts and furnaces; installing automatic room lighting, water faucets, and heat trace system; and closing and deconstructing excess buildings.   Measurable energy consumption reductions include: 
+    • 22% reduction in total kWh needed during 2010 austral summer compared to 2006-08 average, despite a 15% population increase;
+    • 94% reduction in supplemental generator operation (engine hours of runtime); and
+    • 31% per capita water use reduction and 27% annual reduction in total water produced in 2009-10 compared to 2006-08 average resulting in lower power consumption.
+A major South Pole Station modernization program includes systematic trend analysis of electricity usage combined with control graphics to monitor proper operation of the control sequences.  The commissioning was completed in February 2010 and resulted in identification and correction of numerous construction and control anomalies.  This process will be used for other new facilities.
+The results of the actions and ECMs, in terms of fossil fuel consumption, were: 
+    • 81% less supplemental heating fuel at South Pole Elevated Station from 2006-09;
+    • 21% less generator fuel used over 3 years at McMurdo Station; and
+    • 31% less generator fuel used in 2010 compared to 2006-08 at McMurdo Station
+Transportation 
+Aircraft fuel use is a significant source of emissions and energy consumption.  Historically, South Pole Station has been supplied primarily by LC-130 flights.  The United States is replacing some LC-130 flights with surface traverses to provide logistics support (cargo, supplies and fuel) to the Station.  One traverse can carry nearly one million pounds of payload per trip.  This is equal to nearly 40 flights by LC-130 aircraft.  An LC-130 delivers 0.7 kilograms per litre (kg/L) of fuel burned, while the traverse platform delivers 1.8 kg/L of fuel consumed.  Each round trip traverse to South Pole saves over 473,175 L of fuel.
+Monitoring and Metrics
+Infrared cameras have been used at all three stations to identify insulation and exfiltration problems.  Power meters have been installed at all of the main feeders at South Pole Station to monitor trends and detect problems and weekly energy analysis reports show energy trends for corrective actions.  In addition, new procedures for evaluating proposed changes and for tracking the impacts of implemented changes have been adopted.  
+Worker Education and Outreach Actions
+Signs have been placed throughout the facilities to educate the occupants on the need for energy and water conservation.  The signage also reinforces energy conservation material presented in predeployment briefings.
+
+Actions planned 
+Consideration is being given to installing a “Smart Grid” system at McMurdo Station.  The system would reduce “spinning reserve” in the power plant by substituting instantaneous load shedding or load adsorbing candidates, and shedding or picking up those loads during peak demands or peak wind generation times.  All utility functions would have improved optimization through automated controls.  Data from the automated system could be analyzed to continue to improve system performance.
+A number of other actions and ECMs are planned or are under consideration for the future.  
+Alternative Energy Generation
+Alternative energy generation proposals include using waste heat (Palmer Station) and increasing wind power (McMurdo and South Pole stations and Black Island Fixed Field Facility). 
+Installing additional turbines could, in principle, meet 90% of electrical load requirements at McMurdo Station.  If realized, the reduction in fuel consumed for electric power could result in a savings of ~2.65 million L of fuel per year.  This represents an estimated carbon footprint reduction of 474,000 tons of CO2 per year.  Additional benefit/cost analyses are planned.
+New Facility, Retrofit Components, and Operational Changes
+Proposals under consideration to reduce energy consumption at the three USAP stations include extending proven ECMs (e.g., installing efficient light systems, continuing building consolidation, installing laundry equipment that uses less water) as well as retrofitting motors with fine-tune schedule controls, installing variable frequency drives, and replacing exhaust gas heat exchangers.
+Transportation 
+Light duty trucks, powered by internal combustion engines, provide transportation in and around McMurdo Station to transport small work groups and light loads.  About 25 vehicles operate in the area at an average speed of less than 4.8 kilometres per hour (kph) and record individually less than 1,200 kilometres (km) annually.  Gas mileage for these vehicles is less than 4.25 km/L of fuel.
+The United States will test small electric trucks as a potential replacement for existing light trucks in 2010-11 at McMurdo Station.  Charging electric trucks from the Station grid should improve energy efficiency because the McMurdo Station power plant produces power more efficiently compared to fuel use by the existing truck fleet.  In addition, large-scale use of electric vehicles would reduce the present amount of hazardous materials associated with light vehicle operation (no oil and glycol) and reduce the number of releases to the environment.
+Monitoring and Metrics
+Energy consumption monitoring will be expanded at all USAP stations.  A renewable energy survey for Palmer Station will be conducted in 2010 that includes assessing wind potential and examining the power plant and switchgear for transformation into a hybrid-automated system.
+Summary
+Energy conservation and management efforts, combined with increased reliance on alternative energy sources, have significantly improved U.S. Antarctic Program efficiency and reduced costs and carbon emissions.  The Program is committed to continuous improvement and looks forward to implementing the next-generation improvements outlined in this paper.

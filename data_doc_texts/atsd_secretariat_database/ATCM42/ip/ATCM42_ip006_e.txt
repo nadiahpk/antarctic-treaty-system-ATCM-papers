@@ -1,0 +1,59 @@
+﻿
+
+
+
+
+
+The Reference Elevation Model of Antarctica: A New Tool for Supporting Research and Operations on the Continent
+
+
+
+
+
+
+
+
+
+The Reference Elevation Model of Antarctica: A New Tool for Supporting Research and Operations on the Continent
+
+Information Paper submitted by the United States
+
+Summary
+
+Digital Elevation Models (DEM) are three-dimensional representations of land surface elevations with respect to any reference datum. DEM’s are created by interpolating between known elevation points to create a numerical model for a given terrain that can then be converted to a visualization of the terrain surface. The U.S. National Science Foundation (NSF) provided support to a researcher at the Ohio State University and the Polar Geospatial Center (PGC), at the University of Minnesota to create a digital elevation model (DEM) of the Antarctic continent using commercial satellite imagery. The resulting, publicly available, Reference Elevation Model of Antarctica (REMA) is a high resolution, time-stamped DEM of Antarctica at 8-meter spatial resolution. REMA is a powerful tool for Antarctic field logistics and planning as well as research and monitoring of environmental change on the Antarctic continent. 
+
+
+Introduction and Methods
+
+DEMs are digital representations of ground-surface terrain constructed using elevation data derived from analysis of photographic imagery, radar, or Light Detection and Ranging (LiDAR). DEMs are used to analyze terrain features such as elevation, slope and aspect at any point. Typically, DEMs are produced using LiDAR or RADAR from fixed wing aircraft. Data collected on LiDAR flights produce an array of spot elevations in a swath below the aircraft. Airborne LiDAR-based DEMs typically produce extremely high resolution (< 1m) data. However, logistical constraints and the cost of supporting airborne LiDAR campaigns over large and remote geographic areas are prohibitive. As an alternative, optical high-resolution satellite imagery can also be used to develop DEMs. 
+
+In 2015 the United States began a two-year term as Chairman of the Arctic Council. As a flagship activity of the Chairmanship, the U.S. National Science Foundation (NSF) provided support for the Polar Geospatial Center (PGC), at the University of Minnesota to create a Digital Elevation Model of the Arctic using high-resolution satellite imagery. This project, ArcticDEM, was in response to the need for high quality, consistent elevation data throughout the entire Arctic, as well as the need for accurate measurements of topographic change over time. 
+
+As a result of successful completion of the ArcticDEM, NSF provided funds to a researcher at the Ohio State University and PGC and to produce the Reference Elevation Model of Antarctica (REMA), an advanced new digital elevation model (DEM) for the Antarctic continent (Fig. 1). The newly completed REMA provides a high resolution (8-meter), high accuracy DEM of ~98% of the continental land area of Antarctica extending to 88°S. With this innovation, topographic data from the Antarctic continent is of higher-resolution than any other continent on Earth. 
+
+REMA was created using hundreds of thousands of submeter resolution, satellite image stereo pairs using high-performance computing resources on the Blue Waters supercomputer at the University of Illinois. Satellite imagery used to create REMA was collected using the DigitalGlobe, Inc. constellation of satellites including data from WorldView-1, WorldView-2, and WorldView-3. These data, licensed by National Geospatial-Intelligence Agency, were acquired between 2009 and 2017. To develop REMA, researchers produced individual, time-stamped 8-m resolution DEM strips that were then assembled into a continent-wide DEM mosaic using a fully automated stereo correlation process. Stereo images of the same area were acquired from two different angles during a single orbit of the orbiting telescope. The overlapping pairs of high-resolution satellite images were auto-correlated using open-source software1 where common features in image pairs were identified to model the three-dimensional terrain and process the imagery into a DEM. In total, REMA is composed of 187,585 individual DEMs covering over 122,500,000 km2 of land area. 
+
+The researchers who produced REMA did not intend for the final product to be static. REMA will be a “living” DEM that will evolve over time as new imagery is processed, and incorporated, from an ever-expanding constellation of satellites. This collection of time-dependent elevation models that make up REMA will be an ideal tool for analyzing long-term environmental change and how it is expressed in surface features, such as glaciers and other geomorphic features of the cryosphere. The ever-evolving REMA will also be a powerful tool for Antarctic operators, allowing them to plan field expeditions and monitor impacts of the changing cryosphere on Antarctic facilities. 
+
+
+Recent Advances and Innovation
+
+REMA is an active project and the team is making several improvements that will be released in the coming year.  The first improvements will increase the resolution of REMA. The initial release of the DEM mosaic was at an 8-m resolution. All data has now been processed to a 2-m resolution, or a sixteen fold increase in resolution for all time-stamped, time-dependant strips. In addition, the next release of REMA will be at a 2-m resolution for all exposed geological features, long-term biological research sites, and Antarctic stations. Second, continent wide imagery is continuing to be collected and processed. This will deepen the REMA time-series and provide additional data to fill minor gaps in the DEM mosaic. Finally, with the launch and commissioning of NASA’s ICESat-2 altimetry mission, REMA will gain a wealth of highly accurate ground control that coincident with the collection of the DigitalGlobe stereo imagery. 
+
+
+Dissemination of Data, Information, and Products
+
+REMA is publicly available enabling scientists, logistics personnel, and managers to access the DEM in a format appropriate for use in Geographic Information Systems (GIS) software where ancillary products such as contour and shade-relief maps can be created2. REMA overview, methodology, web services, and downloads and additional information are available on the PGC website (https://www.pgc.umn.edu/data/rema/). 
+
+
+Summary
+
+The development of an Antarctic-wide, time-dependent DEM, REMA provides researchers and Antarctic operators with accurate topographic data and a comprehensive mapping and elevation product that will enable change detection between different seasons or years. Future versions of REMA will have a higher resolution and accuracy than the currently released Version 1.
+ 
+The production of REMA was funded under multiple awards from the National Science Foundation. Imagery was provided through the National Geospatial-Intelligence Agency. ESRI, Inc. developed imagery viewers and data access tools that are available through the REMA website. Altimetry used as ground control was provided by NASA’s ICESat and ESA’s CryoSat missions. High Performance computing was performed at the University of Illinois, National Center for Supercomputing Applications’ Blue Waters computer. The software, automation and assembly of the dataset was performed by teams at the Ohio State University, University of Minnesota, University of Washington and the National Geospatial-Intelligence Agency.
+
+Annex – Supporting Figure
+
+Figure 1.  Reference Elevation Model of Antarctica (REMA). Credit: Polar Geospatial Center, University of Minnesota. 
+
+

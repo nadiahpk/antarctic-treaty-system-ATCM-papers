@@ -1,0 +1,665 @@
+﻿
+
+Environmental Monitoring at Terra Nova Bay and its surroundings
+
+
+
+Information Paper
+        					      Submitted by
+   Italy
+
+
+
+Introduction
+
+Located on the coast of Terra Nova Bay, on a North-South oriented peninsula (Northern Foothills, Victoria Land, in the Ross sea), Terra Nova Bay Station has been designed as a permanent  Italian Scientific Base in Antarctica since 1986, but until now it has taken up only as summer station.
+Terra Nova Bay Station has been built and is operated in such a way as to keep the environmental impact at the minimum.
+In order to minimize the use of fuel, for example, a cogeneration system is installed on the diesel generators to recover waste heat which is used for the station heating system.
+A strict waste management plan is enforced and most wastes are retrograded out of the Antarctic Treaty area.
+Wastewater treatment plant, incinerator and power plants, that are considered as major contamination point sources and so their effluents are directly or indirectly monitored.
+The main purpose of applied environmental monitoring is the detection of local and regional environmental effects caused by specific human activity .
+Environmental monitoring of activities  and impacts is evidently valid and useful if it is performed within the scope of a environmental management strategy and it is perhaps worthwhile to remember that sound environmental principles have always been at the forefront of Italian activities in Antarctica.
+
+Monitoring Plan
+
+Several of the research projects carried out under the PNRA deal with environmental monitoring for basic research purposes.
+From the logistic point of view many are the activities that are performed at the base and in the region around the base.  So the main purpose of the applied monitoring is the detection of local and regional environmental effect caused by specific human activities.
+Article 3 of the Madrid Protocol  states that activities in Antarctica should be planned and conducted in such a way as to limit negative impacts on the Antarctic environment and related ecosystems. Five annexes to the Protocol address specific problem areas:
+
+1) Environmental Impact Assessment
+2) Flora and fauna preservation
+3) Waste management and disposal
+4) Marine pollution prevention
+5) Base area management and protection
+
+The need to adequately cope with all the above mentioned aspects calls for a well structured project in order to:
+a) closely adhere to the Madrid Protocol
+b) to provide the necessary knowledge and support to implement environmental protection measures and minimize impacts from the Italian scientific activities;
+c) to support and complement both national and international scientific activities in Antarctica
+d) to develop standard protocols for Antarctic environmental protection activities, in close collaboration with all countries working in Antarctica.
+e) to provide valuable environmental and technological data, which will be useful for the development of both national and international research projects in Antarctica;
+f) to build up the Italian environmental protection program in cooperation with other countries Research Programs in Antarctica, in order to set up a common strategy
+
+To develop and perform an updated monitoring plan we are looking for the following goals:
+1) update of the inventory of activities and possible sources of contamination.
+2) characterization of contamination sources.
+3) Monitoring of Base area and surroundings
+4) Environmental risk assessment from possible accidents.
+5) Databases development.
+
+Inventory of update potential pollution sources
+
+The work will be developed in close co-operation with all active scientists during the scientific expeditions.
+
+Contamination sources characterization.
+
+Contamination sources identified in point 1) above are characterized in terms of their emissions and emissions factors can be calculated.
+The following sources are considered as a priority:
+a) wastewater treatment plant.
+This plant is usually working in critical conditions because of the limited amount of sewage normally treated, even if  having very high loads of organic matter. 
+b) incineration plant.
+The main problems are the discontinuous use of the plant and the non-optimal loads from the combustion point of view.
+Data are gathered about operating parameters and loads characteristics. Samples of gaseous and particulate are analysed. 
+Information obtained from points 1-2 above will be used in defining a monitoring network and a related sampling plan for the main environmental components(air, seawater, ground, sediments, biota). 
+
+Monitoring of the area surrounding the Italian Base.
+
+The main parameters that are considered are:
+a) hydrocarbons (mainly from fuel transport and consumption)
+b) PAH (mainly from combustion sources)
+c) surfactants and related compounds (from sewage)
+d) nutrients
+e) metals and their compounds (combustion sources and various Base activities)
+
+Environmental risk evaluation from accidents.
+
+Data from point 1-2 will give the basis for the analysis of possible accidents and their risk for the Antarctic environment. The necessary control actions and monitoring activities will be evaluated. This task will be performed in close collaboration with Research Projects from other countries in Antarctica.
+
+Databases development
+
+All data from points 1-5 will be made available in a fast and meaningful way, in order to facilitate access and actual use for the whole scientific community.
+
+The following methodologies will be used in order to fulfil the project goals:
+
+1) Inventory update of potential pollution sources.
+
+Because of the limited extent of the system under study, an exhaustive inventory of the Base activities, of existing technological apparatus and their foreseen usage etc. is easy to gather. .Information will be stored in a database which can be used as a starting point for any environmental management decision.
+
+2) contamination sources characterization.
+
+Emission factors of the main contamination sources are calculated on a theoretical basis from operating conditions and, where possible, experimentally evaluated through sampling and analysis during operation. 
+ Particular attention is paid to:
+a) wastewater treatment plant.
+During every year, the management of the plant is supported by an experimental and analytical activity to optimise operating conditions.
+Wastes are characterized both microbiologically and chemically. Particular attention is paid to the nutrients budget and persistent chemicals fate (a strong cooperation with scientist working on the receiving environmental bodies is foreseen). The analytical work is mainly carried out in Antarctica.
+Data collected at every campaign is used to "tune up" plant management and to implement possible upgrades.
+b) incineration plant.
+The main operating parameters are studied, with special emphasis on amount and composition of incinerated wastes. Gaseous and particulate emissions are characterized. Samples (to be treated both in Antarctica and in Italy) are analysed for: PAH and metals.
+
+
+3) Monitoring of the area surrounding the Italian Base.
+
+Samples from the monitoring network will be analysed with the following techniques:
+a) hydrocarbons (biota and ground/sediments).
+Analysed in Italy. Soxhelet or supercritical fluid extraction and GC-FID determination.
+b) PAH (atmospheric particulate, ground/sediments, biota).
+Analysed in Italy. Soxhelet or supercritical fluid extraction and GC-MS or HPLC-FL determination.
+c) Surfactants and related compounds (wastewater and bay water).
+Analysed both in Antarctica and in Italy.
+Antarctica: manual and simplified methods (e.g. titration).
+Italy: solvent or solid-phase extraction, possible derivatization and GC-MS or HPLC-FL determination.
+d) Nutrients (waste water, seawater)
+Standard control analyses (e.g. spectro-photometric analyses)
+e) Metals and metal species (atmospheric particulate, ground/sediments, biota, water).
+Analysed in Italy. Atomic absorption techniques (CV-AAS, GF-AAS), atomic plasma emission and mass spectrometry techniques (ICP-OES and ICP-MS) are used. Speciation analyses will also be performed by gas chromatography coupled with photometric, mass spectrometric, electron capture, atomic emission and atomic fluorescence detectors.
+
+4) Environmental risk evaluation from accidents.
+
+Environmental risk evaluation from possible accidents is carried out, based upon results of activity 1) and Base area characteristics. Information and experiences from other countries National Research Projects in Antarctica will be collected and collaborations will be developed in order to foresee the necessary operations and structures to cope with relevant environmental accidents (e.g. major oil spills).
+
+5) Development of databases
+
+All relevant data from activities 1-4 will be organized in readily accessible databases in order to facilitate analyses, updates and export to the Italian South-Pole System.
+
+In table 1 are reported the scheme for the parameters, matrices and methodologies used  in the monitoring plan.
+Table 1.  Analysed Parameters, Matrices and Methodology utilized in the environmental monitoring program at Italian Scientific Base in Antarctica
+
+Analysed Parameters
+Matrices
+Methodology
+DO,  COD,  BOD5, Al,
+NH4/NO3/NO2 , PO4 ,
+Surfactants, Faecal Coliform
+
+Waste water and for
+some parameters, sea water in
+the proximity of treatment plant
+Standard Control Analyses
+PAHs, Total Hydrocarbons
+Atmospheric particulate,
+sediments, soils, biota
+Accelerate Solvent Extraction,
+extract fractionation and purification,
+GC/MS,  GC/FID  or  HPLC-FL
+analyses
+Heavy Metals
+Atmospheric particulate,
+sediments, sea water,  soils,
+snow, biota
+Acid digestion, or APDC/CHCL3
+extraction for liquid samples,
+ICP/MS analyses
+
+On the basis of the monitoring plan, the following activities were performed in the 2001-2002 and 2002-2003 seasons.
+
+Sewage treatment plant control
+
+A sewage treatment plant of the chemical-physical type was installed since 1995/96 campaign .
+The plant was designed for 40-50 people and during the years it was implemented considering in average the presence of 70-80 people in the base during austral summer period.
+For this reason it was designed a new sewage treatment plant  consisting of the following sections:
+-  Pre-treatment section with a self-cleaning screen, a primary homogenization and pre-aeration
+-  Treatment section with a physical-chemical process by flocculation-flotation
+-  Post treatment with a settling tank , an active-carbon filter and a UV lamp.
+-  The target capacity of the plant was fixed to 10 Kg/ day BOD5 in 20 m3/day
+
+Many parameters  (COD, Al, Surfactants, faecal coliform , Ammonium ) are analysed daily and others  (BOD5 , nitrate, nitrite, phosfate and sometimes heavy metals,  every week.
+In average the data indicate a lowering of  COD and of  BOD5 respectively of 85% and 88%.
+Soluble phosphors are successfully removed (about 95% removal) after treatment in a flotation/floc section.Surfactants are removed after treatment with active carbon and faecal coliforms are reduced to the values recommended for direct discharge in surface waters after combined  active carbon/UV treatment.
+The concentration levels of heavy metals are already below the levels at the beginning of the process..
+Nitrogen is present in form of ammonia at levels higher than those allowed for discharge in surface waters.. This could be overcome with  a specific system  which is under consideration.
+
+Airborne particulates monitoring
+
+Sampling procedures
+Air sampling ( atmospheric particulate matter) was performed by high volume air samplers Sierra-Andersen Mod 1200. The sampler collects particles smaller than 10 µm (aerodynamic diameter) on quartz fiber filter (20x25 cm). Sampling time was 72 hours and the air flow 1130 l/min. For the analyses of metals a portion of each filter (disc   =47 mm) were digested in closed teflon vessel with 5/10 ml of ARISTAR BDH HNO3 (1:2) using a microwave digestion system model MDS-81 D and was analysed by ICP/MS.
+The PAH concentration levels were determined  by Accelerated Solvent Extraction (ASE 200 – Dionex) with dichloromethane. After silica gel cleanup (3 g in a 0.6 x 20 cm column, elution with 10 ml hexane
+ (aliphatic hydrocarbons) and successively with 20 ml hexane: dichloromethane 2:1 (PAHs) and fractionation, the extract was analysed by GC/MS.
+
+PAH
+
+PAH are toxic and persistent pollutants which are formed mainly during incomplete combustion of organic matter. The potential sources of PAH at Terra Nova Bay are: power plant, waste incinerator, vehicles (excavators, caterpillars), helicopters, spillage of fuels, etc. PAH are continuously monitored in the atmospheric particulate around the Base and few samples of sediments are analysed too.
+Three high volume samplers (70mc/min) are placed around the base, at about 200 meters from the central point of the base. Atmospheric particulate (<10 um diameter) is sampled on quartz fibre filters. The samplers operate continuously and the filters are changed every 72 hours. The filters are stored at –20°C, and carried to Italy for the analysis. PAH analysis is performed by ASE extraction, silica gel clean up and GC-MS determination.
+In Table 2 are reported the concentration  levels of the PAH determined during 2001-2002  expedition .
+
+
+
+
+
+
+
+
+
+
+
+
+Table 2. Concentrations min, max, average and Standard deviation in PAHs in the atmospheric matter, of Italian base area and Icaro Camp ( remote area 3,5 Km from theItalian base ), expressed as pg/mc. Data referring to 35 samples.  Fenantrene, Antracene, Fluorantene, Pirene, BNT, Benzo (ghi)  fenantrene, CPP, Benzo (a) antracene, Crisene, Benzo (b+j) fluorantene, Benzo (k) fluorantene, Benzo (e) pirene, Benzo (a) pirene, Indeno Pirene, Dibenzo (a, h) antracene, Benzo (ghi) pirilene.
+
+
+Base area
+Min
+Base area
+Max
+Base area
+Average
+Base area
+Standard Deviation
+Icaro Camp
+Min
+Icaro Camp
+Max
+Icaro Camp
+Average
+Icaro Camp
+Standard Deviation
+
+
+
+
+
+
+
+
+
+PHE
+2.77
+16.46
+6.56
+2.76
+0.76
+2.73
+1.53
+0.53
+AN
+0.38
+1.49
+0.78
+3.36
+0.00
+0.31
+0.10
+0.07
+FA
+0.74
+18.15
+3.36
+3.14
+0.12
+0.97
+0.31
+0.17
+PYR
+0,8
+22.97
+4.92
+4.48
+0.17
+1.37
+0.55
+0.33
+BNT
+0.11
+2.44
+0.59
+0.53
+0.00
+0.09
+0.04
+0.02
+BghiPHE
+2.26
+20.33
+9.58
+5.41
+0.02
+0.56
+0.12
+0.10
+CPP
+0.52
+6.61
+2.05
+1.43
+0..00
+0.07
+0.01
+0.01
+BaA
+2,25
+20.55
+8.7
+4.55
+0.03
+0.4
+0.09
+0.09
+CHR
+5.8
+38.97
+15.17
+8.35
+0.07
+0.48
+0.17
+0.09
+BbF+BjF
+2.51
+33.37
+10.92
+6.27
+0.02
+0.27
+0.08
+0.05
+BHF
+0.72
+8.86
+3.07
+1.83
+0.01
+0.12
+0.03
+0.02
+BeP
+1,73
+20.31
+6.65
+3.73
+0.02
+0.17
+0.06
+0.03
+BaP
+0.62
+7.53
+2.91
+1.72
+0.01
+0.09
+0.03
+0.02
+IP
+2,26
+20.33
+8.42
+5.24
+0.02
+0.5
+0.09
+0.09
+DBahA
+0.52
+6.61
+2.46
+1.82
+0.00
+0.03
+0.01
+0.01
+BghiP
+2.25
+20.55
+8.35
+4.76
+0.02
+0.71
+0.15
+0.12
+TOT
+44.5
+205.71
+98.7
+43.5
+1.68
+7.95
+3.37
+1.27
+
+PaHs values in the atmospheric particulate could be represent the average values for the monitored area . 
+Literature data on PAHs levels in atmospheric particulate show concentrations range, generally, from 10 to 500 pg/mc for the single compound.   95% of the obtained data show levels for the individual PAHs  in the range 1-50 pg/mc while the sum of all the analyses determined is below 200 pg/mc. and are comparable with the few data reported in literature for remote areas .
+ The results of PAHs are generally comparable with those of the previous years and confirm the absence of significant contamination produced by the activities in the scientific base, also considering data from the relatively undisturbed sampling station (Icaro Camp)
+Heavy metals
+
+Concentrations  of the analysed heavy metals in air filters are reported in tab.3 and 4
+
+
+
+Table 3;  Concentrations of Zn, Pb, Cd, Cu, Ni, V in the atmospheric particulates of the base collected during the XVII Italian  Antarctic expedition (2001-2002). Are reported  the average blank values.  Data are expressed in µg/ m3
+
+Element
+Blank  ng/m3
+Min ng/m3
+Max  ng/m3
+
+
+
+
+Pb
+0.07
+0.29
+1.218
+Cd
+0.001
+<0.003
+0.160
+Cu
+0.11
+2.63
+38.901
+Ni
+0.2
+<0.60
+0.680
+Zn
+0.90
+<3
+20.147
+V
+0.31
+<1
+<1
+
+Table 4;  Concentrations of Zn, Pb, Cd, Cu, Ni, V in the atmospheric particulates of the Icaro Camp collected during the XVII Italian  Antarctic expedition (2001-2002). ). Are reported  the average blank values.  Data are expressed in µg/ m3
+
+Element
+Blank ng/m3
+Min  ng/m3
+Max  ng/m3
+
+
+
+
+Pb
+0.068
+<0.20
+1.71
+Cd
+0.001
+<0.003
+0.008
+Cu
+0.11
+<0.3
+7.91
+Ni
+0.21
+<0.60
+33.5
+Zn
+0.898
+<3
+<3
+V
+0.314
+<1
+<1
+
+
+Heavy metals and their compounds  are produced mainly by burning processes ( incinerator, power plant) and by various  activity that are carried out from the base (transportation activity, the refuelling and re-supply of the base)
+Data in table 3, 4 are relative to the 2001 / 2002 campaign and each observation  are the average of three air filters collected in different point  (N,E,S ), therefore they  show  the distribution  in the whole monitored area. 
+On the basis of these data, quantitative determination is reasonable possible only in the case of the analytical signal corresponding to the solution coming from the samples can be significantly distinguished from the blank values ( at least three times higher than blank values).
+The analytical procedure was checked for trace metals procedure by analysing of the Certificate Reference Material 1648 Urban Particulate, from NBS
+
+By observing the obtained data the following conclusions can be drawn:
+
+The average values for Pb and Cd  in the area of the base are comparable with the levels in the atmospheric particulate collected from other remote sites in Antarctica.  Zn, Ni, V show concentrations slightly higher than those  reported in remote areas while only  Cu show relatively high levels.  Data are comparable with those of the previous years and this confirms the absence of significant contamination produced by the activities in the scientific base also from the relatively undisturbed sampling station (Icaro Camp).
+The potential sources of the heavy metals analysed  in the Italian scientific base are,  incinerator, vehicle engine and electric power generator . 
+In a previous work quantities of Pb and Cd  emitted from combustion of fuels  used  in the Italian scientific base were determined  by  factors emission.  (paper in revision)  These data showed that , for these elements the human activities  in Italian base, are such as to very slightly alter the air concentration only in rather localized area and from short period of time. Only the Pb contribution from aviation gasoline can be considered not negligible. 
+The direct impact in the base area can be due to take-off , landing and refuelling of helicopters, but considering route and average distance quite a large area can be influenced.
+More contribution can derive from incinerator that was working in average three time for week. and involve a more limited area around the base. The larger contribution  is expected from two electric power generators are working during the whole campaign.
+
+
+Seawater  quality
+
+With the aim of controlling the sea zone in front of the base (Road Bay), receiving the discharge  flowing from the sewage treatment plant, since the beginning of the campaign, weekly sampling in the sea is carried out.
+Sea water is sampled along transect between 50-250m from the effluent  discharge into the sea.
+
+
+Analytical method
+
+The laboratory analytical procedures were as follow: the water samples were filtered through a 0,45 µm cellulose acetate filter. An sample of 200 ml was extracted with APDC in chloroform at pH 3,5 and analysed .
+Some data referring at heavy metals in sea water in the area near the coast of the Italian base are reported in tab. 5 
+
+
+
+
+
+
+
+
+
+
+Table 5;  Concentrations min, max and average of Pb, Cd, Cu, in sea water in  front of the base ( Road Bay ) collected during the XVII Italian  Antarctic Expedition (2001-2002). Point 5, 6, 7 are long from the effluents discharge seawater point about respectively 50, 150, 300 m.  Reference Point is situated about  3 Km  from the base .
+
+Element
+P.5 Min µg/L
+P.5 Max µg/L
+P.5 average µg/L
+Standard Deviation
+
+
+
+
+
+Pb
+0.16
+1.4
+0.52
+0.40
+Cd
+0.06
+0.38
+0.21
+0.11
+Cu
+0.33
+1.9
+0.71
+0.55
+
+
+
+
+
+
+P.6 Min µg/L
+P.6 Max µg/L
+P.6 average µg/L
+
+
+
+
+
+
+Pb
+0.26
+1.4
+0.58
+0.39
+Cd
+0.1
+0.39
+0.19
+0.09
+Cu
+0.3
+5.1
+0.95
+1.46
+
+
+
+
+
+
+P.7 Min µg/L
+P.7 Max µg/L
+P.7 average µg/L
+
+
+
+
+
+
+Pb
+0.12
+2.6
+0.82
+0.84
+Cd
+0.1
+0.48
+0.23
+0.15
+Cu
+0.26
+3.5
+1.03
+0.92
+
+
+
+
+
+
+Ref. Point µg/L
+
+
+
+
+
+
+
+
+Pb
+0.3
+
+
+
+Cd
+0.08
+
+
+
+Cu
+0.36
+
+
+
+
+Results
+
+The obtained data are comparable with those coming from similar works carried out in sea water samples collected in front of the base, while they appear slightly higher if compared  with samples collected in the Ross sea far from the coast.
+Highest concentration levels, particularly for lead and copper, are probably due to the vicinity of sampling site to the base.
+However data are comparable with those of previous years and that fact confirm the absence of present significant contaminations connected to the  activities or to the presence of the Italian base.
+
+Biological indicators
+
+In the area right in front of the Base several species of local marine organisms are sampled systematically, in order to study special case of accumulation phenomena. Such studies have been performed on Laternula elliptica, Adamussium colbaki, Trematomus bernacchii , Chionodraco hamatus.
+Studies have been conducted at many interesting considerations that are collected in some works of national and international level. 
+Monitoring activities referring to the study of trace element distributions and aromathic Poliyiclic Aromatic hydorcarbons in the marine sediment, soil and snow matrices.
+
+Terra Nova Bay has been proposed for a new Antarctic Specially Protected Area (ASPA) The site is considered of outstanding scientific interest and the scientific investigations being conducted are at risk of interference if they are not managed explicitly through a management plan.
+Near Terra Nova Bay there is also the Edmonson Point area that is just now being proposed as  Antarctic Specially Protected Area  and also Mt Melbourne whose management plan has been just revised.
+The environmental monitoring program  applied by Italy at Terra Nova Bay  from this year is applied also to the ASPA zones  TNB marine protected area and Edmonson Point protected area (proposed)
+
+Conclusion   
+
+The monitoring program for the Italian Scientific Base in Antarctica, started at the end of '80s, has been continuously optimised and improved, according to the "Monitoring of Environmental Impacts from Science and Operations in Antarctica" (SCAR, 1996) and "Standard Techniques for Monitoring in Antarctica" (Council of Managers of National Antarctic Programs, 2000) documents.
+A significant data base of the results obtained from the analyses of different environmental components (air, water, sediments, biota) is now available.
+The analysis of these data permits, as a general consideration, to evidence the absence of any significant environmental contamination. Moreover, up to now, a significant improvement in the efficiency of the wastewater treatment plant and the optimisation of the operational parameters of incinerator and power plants was obtained on the basis of data produced by the monitoring program in the Base.
+This suggests the need to continue the monitoring activities in order to keep under control any negative impact on the Antarctic environment at the Italian Scientific Base and its surroundings.
+The monitoring  will be developed in close collaboration with all scientists working during the scientific expeditions.
+All relevant data from activities considered will be organized in readily accessible databases in order to facilitate analyses, updates and applicability to Italian Antarctic activities.
+
+As far as the Madrid Protocol prescriptions are concerned our activities will be aimed at:
+
+-providing the necessary knowledge and support to implement environmental protection measures and minimize impacts from the Italian scientific activities;
+
+-providing valuable environmental and technological data, useful for the development of both national and international research projects in Antarctica;
+
+-building up the Italian environmental protection program in cooperation with the Research Programs  of other countries, in order to set up a common strategy for environmental protection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

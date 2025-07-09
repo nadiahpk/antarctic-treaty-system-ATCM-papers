@@ -1,0 +1,552 @@
+﻿
+
+
+
+
+
+Biological Prospecting in Antarctica: Review, Update and Proposed Tool to Support a Way Forward
+
+
+
+
+
+Biological Prospecting in Antarctica: 
+Review, Update and Proposed Tool to Support a Way Forward
+
+Prepared by UNU-IAS1 with support from 
+the Belgian Federal Ministry of Environment and UNEP2
+
+INDEX
+
+1.	Introduction
+2.	Recent developments in biological prospecting in Antarctica and the Southern Ocean
+2.1	Current and Recent Research Activities Relating to Antarctic Genetic Resources
+2.2	Commercial Applications of Antarctic Genetic Resources
+3.	Future Trends in Biological Prospecting in Antarctica and the Southern Ocean
+4.	Commercial Benefits of Extremophile Research
+5.	Recent Policy Developments at the International Level
+	5.1	General Assembly of the United Nations 
+5.2 	The United Nations Convention on the Law of the Sea
+5.3	Convention on Biological Diversity
+5.4	The World Trade Organisation 
+5.4.1	The Council on Trade Related Aspects of Intellectual Property Rights
+5.4.2	The Committee on Trade and Environment
+5.5	The World Intellectual Property Organisation (WIPO) Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional Knowledge and Folklore (IGC) 
+5.6	International Treaty on Plant Genetic Resources for Food and Agriculture
+6. 	The Need for More Information on Biological Prospecting in Antarctica
+
+Annex: References related to Biological Prospecting in Antarctica
+
+
+1.	Introduction
+
+Bioprospecting has been of interest to the Antarctic Treaty Consultative Meeting (ATCM) since 1999.  During this time, Antarctic Treaty Parties have been interested in the effect it has on scientific freedom and Article III.1 of the Antarctic Treaty, the impact it may have on the environment, how governments develop equitable benefit sharing arrangements and the need to keep up with relevant policy developments in other related fora.
+
+In 2005 ATCM XXVIII approved Resolution 7 on “Biological Prospecting in Antarctica”, which recommended that “governments continue to keep under review the question of biological prospecting in the Antarctic Treaty Area, and exchange on an annual basis information and views relating to that question as appropriate.”  The ATCM also noted in the same Resolution the “ongoing discussions in other international fora on aspects of biological prospecting, including efforts to develop and clarify the nature and definition of such activities”.
+
+
+ATCM XXIX in 2006 considered Biological Prospecting in Antarctica and under Item 18: Biological Prospecting in Antarctica, the report of the meeting stated:
+“The Meeting thanked France, Argentina and UNEP for their respective Papers: IP 13 In search of a legal regime for bioprospecting in Antarctica; IP 112 Argentine activities of bioprospecting and bioremediation in Antarctica and IP116 Recent Trends in the Biological Prospecting. Some delegations noted that these were in keeping with the spirit of Resolution 7 (2005). They further noted with appreciation that IP 13 raised important legal issues, including a possible regime within the Antarctic Treaty system framework; that IP 112 responded to the wish expressed by the ATCM that Member States report their bioprospecting activities by incorporating valuable information, including the application of bioremediation; and IP 116 reflected in a comprehensive overview the growing interest in bioprospecting in Antarctica and the changing nature and dynamics of research in the industry that may affect the use of Antarctic compounds. The Meeting confirmed that bioprospecting would be discussed at ATCM XXX and urged Parties to continue to provide updates on their activities in this field.”
+
+There is continued and growing interest in conducting further research into commercially useful genetic resources and biochemical processes in Antarctica.  For example, many of the newly discovered Antarctic Actinobacteria species, including Streptomyces, Nocardia and Micromonospora, belong to genera with strong track records for producing pharmaceutically active compounds. The production of polyunsaturated fatty acids (PUFA) and of cold-active enzymes by bacteria inhabiting Antarctic ice has also elicited widespread interest amongst academics and commercial companies.  Other potential commercial uses that are being explored include: research into a glycoprotein that may increase the freeze tolerance of commercial plants, extend the shelf-life of frozen food, improve surgery involving the freezing of tissues (cryosurgery) or enhance the preservation of tissues to be transplanted; and research into cold-active enzymes of bacteria inhabiting Antarctic ice for better detergents and cleaning agents and new heat resistant dyes.  In addition, screenings for antimicrobial activities have been carried out.
+
+The 4th International Polar Year (IPY) will provide significant momentum to scientific studies relevant to these types of activities.
+
+This paper seeks to assist Parties keep under review the question issues relating to biological prospecting in Antarctica by providing an overview of recent trends in biological prospecting. The paper expands upon and updates information provided previously to ATCMs, in particular, Information Paper 116 Recent Trends in the Biological Prospecting prepared for ATCM XXIX, Information Paper 106 Industry Involvement in Antarctic Bioprospecting, prepared for ATCM XXVII and Information Paper 75 Bioprospecting, prepared for ATCM XXVI.
+
+This document reviews developments over the last few years relating to bioprospecting in Antarctica and reflects on future trends.  The document also reviews recent policy developments related to bioprospecting at the international level.  Finally, the document introduces a project to develop a prototype Antarctic Bioprospecting Database that aims to address existing information needs by assessing and documenting the extent of bioprospecting in Antarctica in a systematic manner.
+
+2.	Recent developments in biological prospecting in Antarctica and the Southern Ocean
+
+2.1	Current and Recent Research Activities Relating to Antarctic Genetic Resources
+
+Molecules derived from nature, particularly those produced by plants and microorganisms, have an excellent record of providing novel chemical structures for development as new pharmaceuticals. The screening of microbes, such as bacteria and fungi, continues to represent an important route to the discovery of novel bioactive and therapeutic chemicals. Of increasing interest is the evaluation of the potential of lesser-known and/or new microbial taxa. Microorganisms represent the largest reservoir of undescribed biodiversity, and hence possess the greatest potential for the discovery of new products of commercial interest. 
+
+Although much still remains to be known about Antarctic microbes, an increasing number of new Antarctic microorganisms are being described, particularly from marine environments (sea ice3, seawater), but also from the lakes, terrestrial biotopes and the cryosphere4 5 6. New species and genera from diverse bacterial phyla are being found. More recently, the diversity of fungal taxa, as well as microalgae and small invertebrates, have started to be investigated and new strains are being isolated. Antarctic terrestrial environments have also been found to be a rich source of both novel species and rare genera of Actinobacteria. Many of the novel Antarctic bacterial species belong to genera with very strong track records for producing pharmaceutically active compounds (e.g. Streptomyces, Nocardia, and Micromonospora).7 
+
+At present, genomic information on Antarctic species is limited mainly to a number of fish species and microbes. However, an increasing number of Antarctic genomics projects are being funded and will significantly increase the amount of molecular information available on a much wider range of species in the near future8.  For example, genome information exists for psychrophilic organisms isolated from Antarctica.  Recent discoveries of note include, for example, the demonstrated ability of two microbes of the type Archae to form a chemically linked unit called a biofilm, enabling them to survive and multiply in cold conditions.9 
+
+A basic examination of published research relating to extremophiles in the Antarctic reveals that a wide variety of research activities have been carried out. The journal Extremophiles, and international journal edited by Springer10, has published 21 articles relating to novel discoveries from Antarctic extremophiles between 1999 and 2007. Much of this research relates to the characterization of cold-adapted bacteria, genes, proteins and enzymes from Antarctica. Specimens have been collected from a variety of Antarctic environments, including Antarctic seawater, marine sediments, sea ice, mineral soils and inland waters. In addition, Antarctic fish and plants have been a focus of genetic research. Other examples include a screening for antimicrobial activities in 723 bacteria from 24 lineages (alpha, beta and gamma Proteobacteria, Cytophaga-Flavobacterium-Bacteroides branch, and the high and low percentage G+C Gram-positives), as well as in 158 fungal strains from Antarctic lakes’ microbial mats11.
+
+The Antarctic Bibliography component of the Cold Regions Bibliography project12 provides a comprehensive source of literature relating to Antarctica. A quick search of this database turned up 9 articles relating to research on Antarctic microbes, 200 related to the genes of Antarctic organisms, and over a thousand relating to bacteria. This basic literature search demonstrates the volume of scientific research being carried out. This point is also underscored by the formation, in 2002, of the International Society for Extremophiles (ISE), which aims to exchange information and experience between scientists in the rapidly growing field of research on extremophiles13. In addition, a number of universities have research programmes carrying out research in Antarctic extremophiles14. Of interest is also the work of the Institute for Genomic Research (TIGR), which reports that the establishment of an Antarctic Microbial Observatory is in progress.
+
+The considerable amount of extremophile research discussed above may demonstrate a growing interest in the novel genetic resources of extremophiles, and in the potential commercial applications of those genetic resources. Previous documents considered by the ATCM pointed out the difficulty in distinguishing between purely scientific research and commercial ventures. Much of the basic scientific research relating to extremophiles may produce commercial applications in the future, even though the purpose of that research may have been primarily scientific. In the past, many companies have cited the lack of baseline information about Antarctic biodiversity, and in particular on Antarctic genetic resources, as an impediment to investing resources in commercially-oriented research in Antarctica. This knowledge base is now growing, though is yet far from complete. The volume of increase in research may, however, soon result in lessening some of the cited knowledge-related impediments to bioprospecting in Antarctica.
+
+Commercial Applications of Antarctic Genetic Resources
+
+The central biotechnological focus of research on novel organisms is on whether enzymes isolated from those organisms can be used to improve industrial processes. If a given discovery has commercial potential, a patent is usually filed to protect the intellectual property related to that discovery. Therefore a search of patent databases gives an indication of the degree of potential commercial application of Antarctic biodiversity.
+
+A preliminary search of the United States, European and worldwide patent databases was conducted in 2003, and submitted to XXVII ATCM in 2004 as document IP 106. Since that time, a further 20 patents have been granted between the years 2004 and 2006 to inventions utilizing Antarctic genetic resources. Half of these inventions are solely based on Antarctic biota, while the rest utilize Antarctic genetic resources as part of the process without solely relying on them.
+
+Graph 1 summarizes the trend in numbers of patents granted per biennium. Note that no new patents relating to Antarctic genetic resources have yet been granted in 2007, and that the current number (8) relate to the year 2006. Thus it is likely that the total for the biennium 2006-2007 will be higher than indicated here. Overall, there was a slight increase in the number of patents granted in 2004-2005 over the previous years.
+
+
+
+Figure 1: Number of patents granted per biennium between 1988 and 2006.
+
+The following organisms served, either wholly or in part, as basis for patented inventions during the period 2004-2006:
+    • Antarctic krill Euphausia superba
+    • Antarctic eel pout
+    • Pseudoalteromonas antartica (bacteria isolated from Antarctic ocean)
+    • Marinomonas protea and a Pseudomonas species bacteria from Antarctic lakes
+    • Umbilicaria Antarctica (lichen)
+    • Pseudoalteromonas haloplanktis (bacteria in seawater)
+    • Antarctic microalgae of the Fragilariopsis genus
+    • Thermolabile Antarctic phosphatase (TAP)
+    • Cryoen-protease culture extracted from Antarctic abyssal ooze
+    • Thraustochytrium
+    • Antarctic marine organisms in general
+
+The patents filed between 2004 and 2006 have potential applications for the pharmaceutical, agriculture (including aquaculture), food, cosmetics and chemistry sectors (See Figure 2). The pattern during this time period is similar to that between 1988 and 2003 (see document IP 106 of the XXVII ATCM), with the food industry the most common application of Antarctic genetic resources. The pharmaceutical industry also continues to be dominant. However, there has been an increase in patents filed with chemistry sector applications from the previous years, and a decrease in those with agricultural applications. It should be noted that some inventions can be applied in a number of industry sectors, for example an Antarctic glycoprotein (US patent No. 7,022,668) can be potentially used in the pharmaceutical and veterinary fields, as well as for cosmetic regeneration treatments.
+
+
+
+Figure 2: Patents applicable to different industry sectors (2004-2006)
+
+Some examples of the patents granted between 2004 and 2006 include:
+
+    • Overexpression, purification and characterization of a thermolabile Antarctic phosphatase (TAP). Uses for TAP include dephosphorylation of nucleic acids, sugars, peptides and proteins. TAP as described herein has advantages over phosphatases from other sources with respect to thermolability at 65 DEG C. and efficiency of dephosphorylation activity at approximately neutral pH (S2006252118).
+    • Protein and nucleic acid sequence encoding a krill-derived cold adapted trypsin-like activity enzyme. This invention provides nucleic acid and corresponding amino acid sequences of two isoforms of cold adapted trypsin-like activity protein, isolated from Antarctic marine origin, preferably from Antarctic krill (Euphausia superba) that can be used in a variety of industrial contexts and commercial purposes including laundry detergents, food processing, drugs and skin care products. The invention also relates to nucleic acid constructs, vectors, and host cells comprising the nucleic acid sequences as well as methods for producing and using the cold adapted trypsin-like protein (WO20060229).
+    • Alkaline low-temperature protease and its preparation method. This invention provides to a basified cryoen-protease gaining from R2 strain as pure culture extracted from Antarctic abyssal ooze and its preparing process, with preservation number as CCTCCNO: M205002, comprising the following steps: a, activating strain R2 and linked to medium, culturing it until exponential growth phase, then transferring in medium, filling acillin and agedoite, culturing and fermenting and centrifuging; b, filling ammonia sulfate in enzyme liquid, then centrifuging them and picking up deposition to dialyze in cushioning liquid; c, centrifuging enzyme liquid , then freeze drying and eluting it, collecting enzyme active part to freeze dry; d, again resolving in cushioning liquid and dialyzing, eluting, merging active parts, and freeze drying; e, resolving sample in cushioning liquid and dialyzing to purify it, collecting active parts by freeze drying to acquire pure enzyme (CN1670187).
+    • A method for obtaining hot-formed products from the liquid and dense fractions of Antarctic krill. It comprises the steps of separating the Antarctic krill into two fractions, a liquid fraction and a dense fraction, remixing and homogenizing these fractions and adding additives to the mixture such as salt, carbohydrates and fats, to then use an appropriate heat treatment to obtain its jellification in molds or in a heat extruder (US200500307).
+    • Food product containing autolysis product of krill and quality modifier. Powder of an autolysis product is obtained by lightly pulverizing frozen raw Antarctic krill, autolyzing the pulverized product at 50[deg.]C for 60 min without adding water, deactivating the autolyzed product at 80[deg.]C for 10 min, and freeze-drying the deactivated product. The obtained dry powder of about 0.1-5% is added to the starch-based food product or the flour-based food product, and the resultant mixture is processed into various kinds of food products by routine procedures (JP2004065152).
+    • Freezing of Antarctic krill for subsequent use consists of draining, and separation of the constituent liquid, for freezing and processing. This comprises draining to reduce the krill weight by ca. 5 per cent. Also claimed is the semi-finished product of the process. The product can be prepared from frozen krill thawed to e.g. -2 degrees C and undergoing separation of the suspended matter from its liquid fraction. Both the liquid and dense fractions are frozen for subsequent use (ES2214980)
+    • Frozen food product - Anti-freeze protein which can be derived from Lichen (especially from the species Umbilicaria Antarctica), said protein having an apparent molecular weight of from 20 to 28 kDa and having an N-terminal amino acid sequence which shows at least 80% overlap with:  A-P-A-V-V-M-G-D-A-E-S-F-G-A-I-A-H-G-G-L and modified versions and isoforms of this protein (US6774210)
+    • Processes and organisms for the production of anti-freeze proteins. The invention relates to a process for preparing an anti-freeze peptide and to the peptides obtained from bacteria from an aqueous low-temperature environment, such as Marinomonas protea and a Pseudomonas species. These anti-freeze peptides can suitably be incorporated in frozen food products such as frozen vegetables and frozen confectionery such as ice cream. Novel bacterial cultures isolated from the above Antarctic lakes, preferably from meromictic or monomictic lakes (US6887984).
+    • Use of a glycoprotein for the treatment and re-epithelialisation of wounds. Improves scar formation on wounds. Applications in pharmaceutical and veterinary fields, as well as for cosmetic regeneration treatments (US7022668).
+
+The companies that have filed patents related to inventions based wholly or in part on Antarctic genetic resources include National Institute of Advanced Industrial Science and Technology (Japan), Omegatech, Inc.  (USA), Lipotec S.A. (Spain), Martek Biosciences Corporation (USA), Green Earth Industries (USA), Good Humor-Breyers Ice Cream, a division of Conopco, Inc. (USA), Life Medical Sciences, Inc. (USA), New England Biolabs (USA), Genetics Institute, LLC (USA) and Idea Inc. (USA). In addition, a number of universities, including University of Liège (Belgium), University of Chile, and Third Institute of Oceanography SOA (China) have filed patents related to Antarctic biota.
+
+Previously, patents relating to Antarctic genetic resources have also been filed by Bayer AG (Germany), Henkel KGAA (Germany), SmithKline Beecham, Astra, Novo Nordisk (Denmark), Du Pont (US), Chisso Corporation (Japan), Loders Croklaan (The Netherlands), Haarmann & Reimer GmbH (Germany), Unilever (UK), Lysi HF (Iceland), DSM NV (The Netherlands), Jujo Paper Co Ltd (Japan), Mitsubishi Gas Chemical Company Inc (Japan), Higashimaru Shoyu Company Ltd (Japan), Tokuyama Corporation (Japan), Lion Corporation (Japan), Nippon Soda Company Ltd (Japan). A brief description of these companies can be found in document IP 106 of the XXVII ATCM.
+
+It should also be noted that knowledge gained from work on Antarctic biota, for example the antifreeze proteins in Antarctic fish, has contributed to other discoveries (for example relating to antifreeze properties of some grasses). Similarly, work on Antarctic yeast has contributed in a more general sense to advancing work in the pharmaceutical field. Evidence for these kinds of benefits from research on Antarctic organisms is evidenced by the many Antarctic reference citations found in filed patents unrelated to Antarctic organisms.
+
+Several patents were filed in 2006 and 2005 (by companies such as Diversa Corporation and others) for developing methods for building libraries of genomic DNA, including from Antarctic sources, for genes involved in biosynthetic pathways. Related patents have been filed for high throughput screening for novel bioactivities, which can be applied to Antarctic genetic resources among others. These advances in science may contribute to greater efficiency in screening and cataloguing Antarctic microbes for novel compounds in the future. Other companies and institutions that maintain collections of Antarctic micro-organisms include Genencor International B.V. (USA), DSMZ - Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH (Germany), the LGM/University of Gent (Belgium) and the Australian Collection of Antarctic Microorganisms (ACAM) at University of Tasmania. 
+
+
+Box 1: CASE STUDY – Diversa Corporation
+
+Since 1994, San Diego-based Diversa Corporation has pioneered the development of high-performance specialty enzymes. Diversa possesses the world’s broadest array of enzymes derived from almost every ecosystem, including oceans, deserts, rain forests and arctic regions. In particular, Diversa specializes in discovering extremophiles, microbes with the ability to survive in extreme temperature, tolerate high or low pH and high or low salt environments. In the quest to discover novel products, Diversa through bioprospecting taps into the vast genetic resources of the microbial world by venturing into varied and often hostile ecosystems, such as volcanoes and deep-sea hydrothermal vents, to collect the microbial genes that produce enzymes.
+
+Diversa's competitive edge stems largely from patented technology used to harvest, screen, sequence, clone and catalog microbe DNA from a variety of ecosystems, which include samples acquired from Antarctica. Through the use of proprietary technologies, microbial DNA is extracted directly from collected samples to avoid the slow and often impossible task of trying to culture individual microbes in a laboratory. With high-throughput screening, the collection of billions of "extreme" microbial genomes is then mined in search of unique enzymes. Once identified, these enzymes can be optimized for targeted application using Diversa's DirectEvolution® technology, which enable the optimization of proteins at the DNA level. Diversa’s approach for discovering novel enzymes generates huge collections of microbial genes, called gene libraries. Likewise, Diversa's laboratory evolution technology, used for the optimization of enzymes and other proteins, also generates large and potentially valuable gene libraries. Diversa has developed an array of automated, ultra high-throughput screening technologies to mine these large libraries for novel biomolecules. These systems are designed to screen for biological activity, known as expression-based screening, and for targeted DNA sequences of interest, known as sequence-based screening.
+
+The power of these technologies has been demonstrated in the development of the Valley "Ultra-Thin™" product from genes recovered from a deep-sea hydrothermal vent. This product is currently marketed by Valley Research for use in starch liquefaction for the production of ethanol. Similarly, a gene discovered from the geyser valleys of Kamchatka Peninsula in northeastern Russia lead to the development of two industrial enzyme products, Luminase™ PB-100 and Luminase™ PB-200 enzymes, which are used for improved processing of wood pulp in the manufacturing of paper goods. The power of Diversa’s discovery platform is demonstrated by the fact that it took only 30 months from sample collection to commercialization of the first of the Luminase™ enzymes.
+
+Diversa currently has over 200 issued patents and over 500 patents pending (as of 12/05).
+
+
+3.	Future Trends in Biological Prospecting in Antarctica and the Southern Ocean
+
+As is evident from the above discussion, micro-organisms, particularly extremophiles, are increasingly used as source organisms in bioprospecting.   As one paper recently noted, “Since the extraordinary discovery of life thriving at the hydrothermal vents, there has been somewhat of a paradigm shift in the view held by science with regard to environments able to sustain life. In this ‘post-Alvin’period, the question that we first ponder now is not whether a particular environment is suited for life but rather what novel metabolic adaptations are harbored by life (perhaps yet to be discovered) that exists at a given (extreme) environment”. 15
+
+The importance of this work is reflected in the plans for International Polar Year 2007-2008.  For example, a key question highlighted in the framework for the IPY was: How does genetic and functional diversity vary across extreme environments and what are the evolutionary responses underpinning this variation?  The framework goes onto to note that one among the diverse range of activities that will be required for the IPY is marine and terrestrial biological surveying using “modern genomic methods”.   This emphasis is evident in the 1100+ research projects that were submitted to the IPY International Programme Office (IPO) to be included as IPY activities.  Although this type of research is undertaken for pure scientific reasons, such as the desire to increase the general understanding of Antarctic biodiversity, a significant motivation is the commercial benefits of the outcome of this type of exploration.  For example, the following projects have outputs that have commercial potential:
+    • A Census of Antarctic Marine Life
+    • Origin, evolution, biodiversity and survival of epi/endolithic microorganisms from Polar and cold environments (ID 49 – Italy)
+    • ANDEEP-SYSTCO (ANtarctic benthic DEEP-sea biodiversity: colonisation history and recent community patterns - SYSTem COupling) (ID 111 – Germany)
+    • Cenozoic bryozoans in West Antarctica - taxonomy, biogeography and evolution (ID 153 – Poland)
+    • Biological and functional diversity of microbial communities in ecologically distinct polar environments (ID 205 – Malaysia)
+    • Antarctic Studies of the Western Ross Sea (ID 237 – USA)
+    • Application of new molecular markers for characterisation of cyanobacteria isolated from polar regions and identification of cyanobacterial strains producing bioactive compounds (ID 243 – Poland)
+    • Soil Organisms in Undescribed Terrestrial Habitats (ID 815 – USA)
+    • Polar microbial diversity: exploration, function and exploitation (ID 846 – Belgium)
+    • Polar Microbial Observatories in Antarctic and Sub-Antarctic coastal zones (ID 953 – France)
+    • Low temperature adaptation of osmoregulatory mechanisms in Antarctic teleosts (ID 1115 – Italy)
+    • Complex Investigation of Antarctic Biota (ID 1152 – Ukraine)
+    • Search of the most Effective Producent of Melanin in Antarctica and Investigation of its Functional Activity (ID 1161 – Ukraine)
+
+Similar research trends are evident in scientific exploration of the deep-sea bed.  For example, Diversa has developed the "Ultra-Thin™" product from genes recovered from a deep-sea hydrothermal vent. This product is currently marketed by Valley Research for use in starch liquefaction for the production of ethanol.  The J. Craig Venter Institute (JCVI) launched the Sorcerer II Global Ocean Sampling (GOS) Expedition in 2004. The Sorcerer II circumnavigated the globe for more than two years, covering 32,000 nautical miles, visiting 23 different countries and island groups on four continents. The Expedition team set out to evaluate the microbial diversity in the world’s oceans using the tools and techniques developed to sequence the human and other genomes.
+
+Several constraints have been identified by the industry in regards to working on Antarctic micro-organisms.16   These include that:
+    • The knowledge base relating to Antarctic micro-organisms and their genetics is still poor, and remains to be fully developed.
+    • Antarctic micro-organisms are difficult to culture with current methodologies.
+    • Working in Antarctica is costly, risky and requires a long-term effort.
+    • There is a time lag of approximately 8-10 years between developing sufficient knowledge base about an organism, and a commercial product based on that organism entering the market.
+    • Sufficient market opportunities need to exist for any new product.
+    • Antarctic micro-organisms still have relatively small profit margins, with no major results obtained as yet.
+    • There is concern over legal issues surrounding sample ownership
+
+Thus, while companies are generally interested in obtaining Antarctic micro-organisms, and in setting up collaboration agreements towards this end, they have not been willing to make significant financial investments or conduct intense work on Antarctic microorganisms until the knowledge base on them is further developed.
+
+With increasing research on Antarctic micro-organisms (as detailed in section 2 of this paper), the knowledge base is beginning to improve.  Moreover, a major goal of the IPY is to develop this base.  For example, the Census of Antarctic Marine Life17 (CAML) has 13 voyages scheduled during IPY 2007-2008.  The CAML is responsible for the synthesis of taxonomic data and supports the efforts of national programs the world over.  Results are to be logged in the Census of Marine Life OBIS (Ocean Biogeographic Information System) database and its Antarctic component SCAR-MarBIN (the Marine Biodiversity Information Network), which to date has recorded some 5,957 marine life forms, with an estimated 5,000 to 11,000 species yet to be discovered.
+
+Similar efforts are being made to develop the knowledge base for marine organisms at a global level that will contribute directly to the knowledge base of the biodiversity of the Southern Ocean.  For example, AlgaeBase, IFREMER’s Biocean, the Census of the Diversity of Abyssal Marine Life (CeDAMar), Global Census of Marine Life on Seamounts, Biogeography of Deep-Water Chemosynthetic Ecosystems and the International Census of Marine Microbes will make direct contributions.
+
+The most significant advance in removing constraints to intensified Antarctic bioprospecting comes, however, with technological improvements. New techniques that eliminate the need to culture micro-organisms and that allow companies to screen large amounts of samples in less time, such as those pioneered by Diversa (see box 1), or the Venter Institute’s Sorcerer II Global Ocean Sampling (GOS) Expedition, have the potential to make commercial product discovery more efficient, cost-effective and fast, significantly reducing the time lag between research and product development. Once these new technologies demonstrate results in the form of increased profits, there may be heightened interest in Antarctic micro-organisms by a broader range of companies.
+
+The market trends (see section 4) show continued growth of the biotechnology industry, including in the pharmaceutical, enzyme, cosmetics, chemistry and agricultural sectors. New and developing sectors, such as alternative fuels, are certain to create additional market opportunities.  These growing markets fuel the demand for novel genetic resources and are likely to result in increased bioprospecting from remote and extreme environments, including a possible increase in interest in Antarctic microbes.
+
+The legal issues surrounding sample ownership and benefit sharing from the use of Antarctic genetic resources remain to be resolved. Until these issues are clarified, some companies may be reluctant to invest resources in intensive work on Antarctic microbes, and will likely concentrate their efforts elsewhere. Alternatively, some ownership issues may be by-passed through genetic modification of source organisms to the point that the resulting product or process cannot be identified as “Antarctic-based”.  The private sector is increasingly interested in supporting, even undertaking, basic genomic work.  For example, the Venter’s GOS data represent the largest metagenomic dataset ever put into the public domain with more than 7.7 million sequences or 6.3 billion base pairs of DNA.  The preliminary analysis of this dataset has already made significant discoveries about evolution, function, and diversity of marine microbes.  The sheer size and complexity of this dataset has also resulted in the development of new tools and infrastructure to allow researchers worldwide access and analysis capabilities. For example, the Community Cyberinfrastructure for Advanced Marine Microbial Ecology Research and Analysis (CAMERA) is an online database and high-speed computational resource developed with funding from the Gordon and Betty Moore Foundation in a collaborative effort between UCSD’s Division of the California Institute for Telecommunications and Information Technology (Calit2), and UCSD’s Center for Earth Observations and Applications (CEOA) at Scripps Institution of Oceanography.  Moreover, this hurdle to developing partnerships between Antarctic researchers and interested companies will become increasingly important given general trends in science and technology.
+
+4.	Commercial Benefits of Extremophile Research
+
+Though there is no evident record of Antarctic discoveries having, as of yet, resulted in commercial profits, the biotechnology industry in general is growing. According to the Ernst and Young Global Biotechnology Report, the industry, which is now 30 years old, is booming across the globe. The industry generates over US$60 billion in revenue and has created hundreds of products in the area of human health alone. Having grown 16.5 per cent from 2004's revenues, double-digit growth of the market is predicted to continue to the end of the decade. New markets, such as the Asia-Pacific region are emerging. Last year, global industries spent more than $2.5 billion on enzymes, to do everything from making antibiotics and perfume to treating wastewater. Full potential of the enzyme market is valued at a minimum of $50 billion a year. It is likely that this market demand will drive further research into new source materials for the biotech industry, including research into extremophiles.
+
+Extremophile research has the potential to produce large financial rewards. For example, the heat-tolerant organism Thermus aquaticus isolated from a hot spring in Yellowstone National Park was key to the expeditious sequencing of the human genome and currently commands annual sales of between US$200-80 million.18  An improved version of this tool was recently developed based on deep seabed bacterium.19
+
+Such profits are, however, the result of a long and arduous research and development process with a high failure rate. Therefore, it can be difficult to put a price tag on biotechnology that offers little more than the promise of success in the future.
+
+The value of a new product depends on the size of the potential market and the percentage of that market the new product might capture. The considerable expenses associated with the product discovery phase and its marketing should be taken into account. Some predictions of potential profits can be made based on the market values of similar products in the past.
+
+For example, collaboration between PharmaMar (Spain) and the University of Canterbury (New Zealand) led to the isolation of variolin from an Antarctic sponge.  Synthetic derivatives of variolin were developed and patented by PharmaMar, and are being developed as an anti-cancer drug, although this work is not yet completed. Should this new drug become successful, it might generate similar annual sales to other successful cancer drugs such as Avastin ($2.7 billion per year) or Herceptin ($1.3 billion per year). This, however, is the best case scenario. In general, experimental medicines are more likely to fail than to succeed. 
+
+Certainly many biotechnology companies are very profitable, while others have the potential to become so through innovative product development. The health care company Genentech (which launched the cancer fighters Avastin and Tarceva) takes in $9 billion in annual sales. Diversa had total revenues of $54.3 million in 2005, with revenues from products forecasted to increase to $100 million in 2008. Included in the sales figures were products developed from extremophiles collected from a hydrothermal vent in the deep sea and from the Russian Kamchatka Peninsula (see box 1). With further research extremophiles are likely to yield additional products. For example, scientists in Australia have found antibiotic properties in marine extremophiles. The market value for crude antibiotics is currently estimated at $5 billion.  A recent UNEP study estimated that at least 14 companies are actively involved in product development and/or collaboration with research institutions in search for new substances or compounds from marine organisms and genetic resources.20   The French Research Institute for Exploitation of the Sea (IFREMER), for example, has created a marine biotechnology company to develop and sell its products based on micro-organisms discovered in the deep sea.
+
+5.	Recent Policy Developments at the International Level
+
+In 2006 and 2007 there have been significant policy developments regarding bioprospecting in the following fora: the General Assembly of the United Nations; the Meeting of States Parties to the United Nations Convention on the Law of the Sea; the Convention on Biological Diversity Ad Hoc Open-Ended Working Group on Access and Benefit Sharing and its Conference of the Parties; the World Trade Organisation Council on Trade Related Aspects of Intellectual Property Rights and Committee on Trade and Environment; the World Intellectual Property Organization Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional Knowledge and Folklore; and, the Governing Body of the International Treaty on Plant Genetic Resources for Food and Agriculture.
+
+5.1	General Assembly of the United Nations 
+
+In the context of the General Assembly, important discussions related to genetic resources have taken place at the Ad hoc Open-ended Informal Working Group to Study Issues Relating to the Conservation and Sustainable Use of Marine Biological Diversity Beyond Areas of National Jurisdiction held from 13th to 17th February 2006.21 
+
+The report of the Working Group,22 submitted to the 61st session of the General Assembly, outlines the debates that took place on marine genetic resources beyond areas of national jurisdiction. In particular, the following issues were discussed:-
+    • The legal status of marine genetic resources beyond areas of national jurisdiction as common heritage of mankind;
+    • The need for and possible modalities of access to these resources and benefit sharing;  
+    • The need for a specific legal regime to deal with the issue, and the relationship with other regimes;
+    • The relationship between marine scientific research and marine bioprospecting. 
+
+There were wide ranging discussions with various views among delegations. For example, in paragraph 28 some delegations emphasized that “marine scientific research should be conducted in conformity with the provisions contained in part XIII of the Convention, in particular article 240 on general principles for the conduct of marine scientific research and article 241, which provided that marine scientific research activities shall not constitute the legal basis of any claim to any part of the environment and its resources”. Some delegations noted that marine scientific research activities undertaken in the Area should be conducted for peaceful purposes and for the benefit of mankind as a whole (paragraph 28). In paragraph 29, the Co-Chairpersons also report that it was the view of a number of delegations that “in accordance with their understanding of the principle of the common heritage of mankind, access to genetic resources in the deep seabed beyond areas of national jurisdiction should be, in principle, like the mineral resources in the Area, subject to the sharing of benefits based on consideration of equity”. It was further reported that “they noted the symbiotic relationship that genetic resources had with non-living marine resources and other living resources in the surrounding water column. They contended that a regulatory mechanism, including the adoption of improved norms and/or an implementing agreement to the [United Nations Convention on the Law of the Sea], may become necessary to clarify such matters as the relationship between marine scientific research and bioprospecting. A regulatory mechanism could also address the question of access to those resources and legal options for benefit-sharing, including non-monetary benefits, international cooperation in marine scientific research through the exchange, sharing and dissemination of information on research programmes, their objectives and results, and cooperation in the transfer of technology.” The report also notes in paragraph 30 that “[r]eferring to the legal status of genetic resources, a view was expressed that any measures that may be taken in areas beyond national jurisdiction must be consistent with international law, including the freedom of navigation and of marine scientific research. Some delegations stated that the resources were covered by the regime of the high seas, under part VII of the Convention. They argued that there was no legal gap with respect to living resources in areas beyond national jurisdiction and that the freedoms of the high seas were applicable to activities relating to marine genetic resources. On this basis, they did not see the need for a new regime to address the exploitation of marine genetic resources in areas beyond national jurisdiction or to expand the mandate of the International Seabed Authority.” In paragraph 73 the report notes that “some delegations affirmed the need to better understand this issue before developing legal, policy and institutional options. In addition, they indicated the need to encourage compliance with existing obligations, in particular in relation to marine scientific research and the protection of the marine environment. It was suggested that the issue could be addressed, taking into account the legitimate interests of all States, through the development of guidelines, codes of conduct, including internationally agreed codes of conduct, and impact assessments”. Some delegations argued against international rules for marine scientific research on the high seas, favouring self-regulatory codes of conduct to be adopted by the scientific community (paragraph 27.) 
+
+A list of further specific studies referred to in the discussions of the Working Group in relation to marine biodiversity beyond areas of national jurisdiction, including marine genetic resources, is included in Annex II to the report of the Working Group.
+
+At its 61st session, the General Assembly, in decision 61/222, paragraph 130, requested the Secretary General to prepare a comprehensive report on developments and issues relating to ocean affairs and the law of the sea for consideration at its Sixty Second session, and to make the report available to the Informal Consultative Process on Oceans and the Law of the Sea (ICP), the deliberations of which will focus on the topic marine genetic resources in 2007 (paragraph 123 of resolution 61/222). An advance and unedited text of the Report of the Secretary General on Oceans and the Law of the Sea, dated 12 March 2007, was made publicly available.23  That document provides a comprehensive report on developments and issues relating to ocean affairs and the law of the sea. Chapter X provides a comprehensive review of issues relating to marine genetic resources, including background information on activities related to genetic resources, including bioprospecting and exploitation of marine genetic resources. It also provides numerous examples of applications of genetic resources, including extremophiles, to develop new products in the field of health care, nutrition, aquaculture and bioremediation. The report also provides details about the types of organisms that are of interest to companies and the areas of interest, as well as information on possible anthropogenic stresses on genetic resources, relevant international instruments and activities in various fora.
+
+In addition, in paragraph 91 of resolution 61/222, the General Assembly requested the Secretary General to convene a meeting of the Ad hoc Open-ended Informal Working Group to Study Issues Relating to the Conservation and Sustainable Use of Marine Biological Diversity Beyond Areas of National Jurisdiction in 2008 to consider, among others, genetic resources beyond areas of national jurisdiction.
+
+5.2	Meeting of States Parties to the United Nations Convention on the Law of the Sea 
+
+The Sixteenth Meeting of States Parties to the United Nations Convention on the Law of the Sea, held from June 19-23 New York 2006, also touched upon the issue of genetic resources in its consideration of the Report of the Secretary-General under article 319 UNCLOS.24 
+
+The Report of the Meeting25 notes the following: 
+
+“With respect to biodiversity beyond national jurisdiction, several delegations addressed the subject of genetic resources, in particular the need to consider new approaches on the basis of the Convention to promote international cooperation and access and benefit sharing. One delegation stated that in order to prevent a situation of unregulated and unilateral use of those resources, future negotiations should aim at adopting a binding instrument which would further elaborate the provisions of the Convention on marine scientific research on the basis of the principle of the common heritage of mankind. Such an instrument would also address the broader issue of conservation of biological diversity beyond areas under national jurisdiction. Should no agreement be reached on the issue in a negotiating forum, the possibility of resorting to other mechanisms for the settlement of disputes would have to be considered. Another delegation stated that existing instruments provided the framework for the conservation and sustainable use of biodiversity beyond areas under national jurisdiction and their strengthening and more effective implementation should be considered before taking decisions on the elaboration of new instruments.” 
+
+5.3	Conference of the Parties to the Convention on Biological Diversity
+
+Access and Benefit Sharing in the CBD was a major focus of the Eight Meeting of the Conference of the Parties held in Curitiba, Brazil, from 20 to 31 March 2006 26. 
+In Decision VIII/4 on Access and Benefit Sharing, the Conference of the Parties:
+    • Instructed the Ad Hoc Open-ended Working Group on Access and Benefit-sharing to continue the elaboration of an International Regime on Access and Benefit Sharing; 
+    • Instructed the Ad Hoc Open-ended Working Group to complete its work at the earliest possible time before the tenth meeting of the Conference of the Parties (2010);
+    • Requested the Executive Secretary to prepare, for the fifth meeting of the Working Group on Access and Benefit-sharing, the final version of the gap analysis referred to in decision VII/19 D, annex, paragraph (a)(i), bearing in mind that this work will proceed in parallel and not hold up the work relating to the elaboration and negotiation of the international regime;
+    • Invited Parties to submit to the Executive Secretary information on the legal status of genetic resources in their national law, including their property law where applicable, and requests the Executive Secretary to submit a report to the fifth meeting of the Working Group.
+
+In addition, the COP decided to establish a group of technical experts to explore and elaborate the possible options for the form, intent and functioning of an internationally recognized certificate of origin/source/legal provenance and analyze its practicality, feasibility, costs and benefits, with a view to achieving the objectives of Article 15 and 8(j) of the Convention.”
+
+The COP also noted the progress made in the implementation of the Bonn Guidelines and invited Parties to submit reports on their experiences in implementing Article 15 at the national level. 
+
+The COP requested that the Working Group on Access and Benefit-sharing further consider measures to support compliance with prior informed consent and with the mutually agreed terms on which access was granted at its upcoming meetings. 
+
+The COP also requested the Working Group to address the Strategic Plan, particularly the need and possible options for indicators for access to genetic resources and, in particular, for the sharing of benefits arising from the use of genetic resource at its fifth meeting. 
+
+As requested by the Conference of the Parties, the Working Group on ABS will meet twice before the ninth meeting of the Conference of the Parties, the fifth meeting of the Working Group will be held in Montreal, Canada, from 8 to 12 October 2007 and the sixth meeting of the Working Group will take place from 21 to 25 January 2008 at a venue to be determined.
+
+The Group of Technical Experts on an internationally recognized certificate of origin/source/legal provenance met in Lima, Peru, from 22 to 25 January 2007.  The report of the meeting will provide technical input to the fifth meeting of the Working Group on Access and Benefit-sharing.
+
+In relation to deep seabed genetic resources beyond the limits of national jurisdiction, decision VIII/21 of the COP notes the biodiversity value of deep seabed genetic resources (VIII/21 paragraph 1) and recognizes the urgent need to enhance scientific research and cooperation on deep seabed genetic resources and to provide for their conservation and sustainable use (VIII/2 paragraph 2). Concerned about threats to the resources of the deep seabed, the COP decision urges Parties to take measures for their conservation and sustainable use (VIII/21 paragraph 3), and invites Parties and others to make available information on research relating to these genetic resources and to disseminate such information through international channels including UNCLOS. To this end, the decision also requests the Executive Secretary of the Convention, with other organizations, to compile and disseminate information through the Clearing House Mechanism of the CBD (VIII/21 paragraph 4). 
+
+In contemplating the protection of deep seabed genetic resources beyond national jurisdiction, the decision expresses awareness of a preliminary range of options available and emphasizes the need for further work in developing options, particularly within the United Nations framework (VIII/21 paragraph 5). The preliminary options outlined in the decision include the use of codes of conduct, guidelines and principles, and the reduction and management of threats including through permits and environmental impact statements. Recognizing that UNCLOS regulates activities in marine areas beyond national jurisdiction, including the deep seabed, the COP decision also urges Parties and other States to cooperate with relevant organizations to promote the conservation, management and sustainable use of such marine biodiversity. The COP decision also emphasizes the urgent need for capacity building in developing countries relating to deep seabed biodiversity (VIII/21 paragraph 9). 
+
+
+5.4	The World Trade Organisation 
+
+5.4.1	Council on Trade Related Aspects of Intellectual Property Rights (TRIPS)
+
+The TRIPS Council met in March, June and October 2006. At its most recent meeting, in February 2007, the TRIPS Council continued discussion on the possible amendment of the TRIPS Agreement to include a requirement for disclosure of origin in the TRIPS Agreement, which would require a disclosure of origin of genetic resources and associated traditional knowledge in patent applications. 
+
+At the meeting, countries that have previously supported such a requirement on the basis of promoting consistency with the CBD, reiterated their position (i.e. several developing countries, Norway) and called for text-based negotiation. A formal proposal was made by some of these countries in July 2006 (Brazil, China, Colombia, Cuba, Pakistan, Peru, Thailand and Tanzania) (WT/GC/W/564/Rev.2), with South Africa adding itself in July 2006, and Ecuador in November 2006. Some African countries suggested they would co-sponsor the proposal. Since the Council meeting, in March 2007, Bolivia has added itself as a cosponsor (WT/GC/W/564/Rev.2/Add.3).  Countries who do not support such an amendment on the basis that there is no conflict with the CBD or it is too early to discuss (i.e. United States, Australia, New Zealand, Korea and Japan) also reiterated their views.  The EU again supported the position that the appropriate forum for such discussions is the WIPO ICG. 
+
+These formal discussions of the TRIPS Council occur side by side with informal discussion following the formal re-launch of the Doha round of negotiations. 
+
+5.4.2	The Committee on Trade and Environment
+
+The WTO Committee on Trade and Environment meets both regularly, and in special session as part of the Doha round of negotiations (now formally re-launched). 
+
+The most recent minutes of the regular session of the CTE date from the July 2006 meeting of the CTE (CW/CTE/M/42). In Section I.B. on Paragraph 32(II) of the TRIPS Agreement the Committee formally took note of the statements by the delegate of Norway relating to a recent proposal made by his country to amend the TRIPS agreement to include an obligation to disclose the source of genetic resources and traditional knowledge in patent applications. The Committee heard from the delegate that a disclosure requirement would contribute to reducing the risk of wrongful patents as well as facilitating the CBD objectives of prior informed consent and benefit sharing and indicated the other countries supporting the proposal. The delegate was reported as having recalled that a text based negotiation on amending the TRIPS agreement had been engaged, that Norway would support a decision to start the negotiation as soon as possible and that he envisaged that detailed discussion on the proposal would take place in other WTO bodies rather than in the CTE.  Norway’s position was also reported in the 2006 annual report of the CTE to the General Council (WT/CTE/B).
+
+5.5	The World Intellectual Property Organisation (WIPO) Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional Knowledge and Folklore (IGC) 
+
+The WIPO Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional Knowledge and Folklore (IGC) met in its Tenth Session in Geneva from November 30 to December 8, 200627. 
+
+At this meeting, under Agenda Item 11 on future work, the ICG decided upon a dual approach. The IGC decided to keep open discussions on an international regime by leaving on the table the existing documents on draft objectives and principles for the protection of Traditional Cultural Expressions/Folklore and Traditional Knowledge (WIPO/GRTKF/IC/10/4 and WIPO/GRTKF/IC/10/5 respectively) and the document concerning options for giving effect for the international dimension’s of the committee’s work (WIPO/GRTKF/IC/10/6), taking note of existing positions in relation to them (decision 8(ii)). The IGC, in decision 8(ii) refers to a list of issues contained in Annex I that are to be commented by parties as part of a general but systematic discussion. The discussion on these issues is complementary to and without prejudice to existing positions in relation to the existing documents mentioned (decision 8(iii)). 
+
+For both traditional knowledge and traditional cultural expressions, delegates and observers were invited to submit comments on the list of issues by the end of March 2007, and these will be posted on the WIPO website. The Secretariat will prepare a document in which draft provisions and issues are merged side by side to enable consideration together.  The issues for comment include:-
+    • Definition of traditional cultural expressions (TCEs)/expressions of folklore (EoF) and Traditional Knowledge (TK)  that should be protected;
+    • Who should benefit from any such protection or who hold the rights to protectable TCEs/EoF/TK?
+    • What objective is sought to be achieved through according intellectual property protection (economic rights, moral rights)?
+    • What forms of behavior in relation to the protectable TCEs/EoF/TK should be considered unacceptable/illegal?
+    • Should there be any exceptions or limitations to rights attaching to protectable TCEs/EoF/TK?
+    • For how long should protection be accorded?
+    • To what extent do existing IPRs already afford protection?  What gaps need to be filled?
+    • What sanctions or penalties should apply to behavior or acts considered to unacceptable/illegal?
+    • Which issues should be dealt with internationally and which nationally, or what division should be made between international regulation and national regulation?
+    • How should foreign rights holders/beneficiaries be treated?
+
+In relation to Genetic Resources, the Committee in Decision 9, requested the Secretariat to prepare for its consideration at its eleventh session:  (i) a document listing options for continuing or further work, including work in the areas of the disclosure requirement and alternative proposals for dealing with the relationship between intellectual property and genetic resources; the interface between the patent system and genetic resources; and the intellectual property aspects of access and benefit-sharing contracts; and (ii) a factual update of international developments relevant to the genetic resources agenda item.
+
+The IGC is to meet for its eleventh session in July 2007.
+
+5.6	International Treaty on Plant Genetic Resources for Food and Agriculture
+
+The objectives of the International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA) are the conservation and sustainable use of plant genetic resources for food and agriculture and the fair and equitable sharing of benefits derived from their use, in harmony with the Convention on Biological Diversity, for sustainable agriculture and food security.
+
+The ITPGRFA establishes a facilitated system of access and benefit sharing that covers the use of the world’s major crops, called the Multilateral System.  The 35 different crops covered by the Multilateral System are listed in Annex 1 of the ITPGRFA.  Article 12.4 of the Treaty provides that facilitated access under the Multilateral System shall be provided pursuant to a Standard Material Transfer Agreement.
+
+At the first session of the Governing Body of the Treaty, held in Madrid in June 2006, the Standard Material Transfer Agreement (SMTA) was adopted by Resolution 2/2006.   Under the terms of the SMTA, the Recipient shall not claim any intellectual property or other rights that limit the facilitated access to the Material provided under the SMTA, or its genetic parts or components, in the form received from the Multilateral System. In the case that the Recipient conserves the Material supplied, the Recipient shall make the Material, and the related information, available to the Multilateral System.  Under the SMTA, companies who develop a commercial product using Material provided pursuant to the SMTA are required to pay to the Funding Strategy of the Multilateral System either 1.1 % of the “Sales of the Product less thirty percent (30%)” or “0.5 % of the Sales of any Products and of the sales of any other products that are Plant Genetic Resources for Food and Agriculture belonging to the same crop”. 
+
+6. 	The Need for More Information on Biological Prospecting in Antarctica
+
+Resolution 7 and the presence of the issue as a permanent item on the agenda of the ATCM indicate that Parties are interested in monitoring the issue. In addition, many Parties feel they need more domestic engagement, information, analysis and preparation to address this complex issue at the international level.  Several European Parties have given some thought to convening a domestic meeting on this issue.  Some developing country Parties have also indicated that they are interested in convening domestic and international meetings on the topic.  Market trends and the momentum in other fora support the need to be more informed about bioprospecting activities.  The IPY will provide further momentum to scientific studies that contribute to the appeal of bioprospecting and may also result in a new level of interest in the commercial potential of Antarctic biodiversity.
+
+Yet no comprehensive or adequate study of Antarctic bioprospecting currently exists, and the reviews conducted thus far have been preliminary and ad hoc in nature.  The level of commercial activity that has been brought to the attention of the ATCM to date has been anecdotal.  Further research and study is needed to provide a solid informational basis for considering this complex subject, which encompasses scientific and commercial interests, environmental concerns, ethics and equity, and considerations relating to international law and policy, including the adequacy of the Antarctic Treaty System to fully address bioprospecting.
+
+With funding from the Government of Belgium (Federal Ministry of Environment) and from the United Nations Environment Programme (UNEP), UNEP and the United Nations University Institute of Advanced Studies (UNU-IAS) propose to explore the feasibility of developing a prototype for a web-based database that will allow access to up-to-date information on bioprospecting. The aim of the prototype database is to address existing information needs in a more comprehensive manner and allow for a more thorough consideration of the issues by the ATCM.
+
+As a first step, UNU-IAS will expand the detail and level of analysis of existing information sources on bioprospecting, including publicly available information on the internet, records of appropriate patent offices, market trends, demand for biological compounds and genetic resources, and trends in research and development.
+
+This will include collecting information on and exploring the feasibility of establishing the following informational fields:
+    • Project information;
+    • Companies using Antarctic research;
+    • Research organisations working with companies;
+    • Parties approving/sponsoring relevant research;
+    • Benefit sharing terms;
+    • Patents or other forms of Intellectual Property;
+    • Publications;
+    • Databases; and
+    • Commercialized products.
+
+This prototype database will be searchable by any of the above fields.  The feasibility of having the database peer reviewed by relevant experts will also be explored. 
+
+It is hoped that the prototype of the database could be presented to XXXI ATCM in 2008, in order to get feedback from governments and relevant organizations. Further modifications will be made to the database and its content based on this feedback.
+
+UNEP and UNU-IAS will work actively with relevant Parties, governments, research organizations, databases and sectors using genetic material from Antarctica, as well as with organizations, such as the Secretariat of the Antarctic Treaty, SCAR - in particular the EBA (Evolution and Biodiversity in the Antarctic: The Response of Life to Change) and SCAR-MarBIN (the Marine Biodiversity Information Network), the IPY International Programme Office, the Census of Antarctic Marine Life (CAML), the Convention on the Conservation of Antarctic Marine Living Resources (CCAMLR), ASOC and the International Seabed Authority (ISA), which keep records of relevant research and commercial activities.
+
+The prototype database will initially concentrate on two key sectors that have undertaken research on Antarctic genetic resources, the pharmaceutical and biotechnology industries. In addition, information from a broader range of industries including the enzyme, cosmetic and personal care, and food and beverage industries will be collected. 
+
+In order for the database to stay relevant, it will require regular maintenance and updating. Towards this end, every effort will be made to institutionalize the database within the UNEP and UNU. The database will also have a function that will allow the user community (including governments, research organizations and commercial operations) to directly update it with new information. The future role of the database within the Antarctic Treaty System will be further explored during its development.
+
+
+ANNEX
+
+References related to Biological Prospecting in Antarctica
+
+1. ATCM Documents
+
+XXIX ATCM Edinburgh 2006:
+
+IP-13-FR: In search of a legal regime for bioprospecting in Antarctica. Presented by France. 
+
+IP-112-AR: Argentine activities of bioprospecting and bioremediation in Antarctica. Presented by Argentina.
+
+IP-116-UNEP: Recent Trends in the Biological Prospecting. Presented by UNEP. Written by S.A. Laird, R. Wynberg and S. Johnston, UNU-IAS.
+
+
+XXVIII ATCM Stockholm 2005:
+
+WP-13-NZ, SV: Biological Prospecting in Antarctica. Presented by New Zealand and Sweden.
+
+IP-08-ES: Biological Prospecting in Antarctica. Presented by Spain.
+
+IP-93-UNEP: Recent Developments in Biological Prospecting Relevant to Antarctica. Presented by UNEP. Written by UNU-IAS.
+
+[No number] Bioprospecting Marine Resources: Conservation Concerns and Management Implications. Written by IUCN.
+
+XXVII ATCM Cape Town 2004:
+
+IP-106-UNEP: Industry Involvement in Antarctic Bioprospecting. Submitted by UNEP. Prepared by UNU-IAS.
+
+
+XXVI ATCM Madrid 2003:
+
+IP-047-NZ: Bioprospecting in Antarctica: An Academic Workshop.
+
+IP-075-UK, NO: The International Regime for Bioprospecting: Existing Policies and Emerging Issues for Antarctica. Submitted by Norway and the United Kingdom. Written by S. Johnston and D. Lohan, UNU-IAS.
+
+XXV ATCM Warsaw 2002:
+
+WP-043-UK:  Biological Prospecting in Antarctica. Submitted by the United Kingdom.
+
+XXIII ATCM Lima 1999:
+
+IP-123-SCAR: Scientific Research in the Antarctica.
+
+
+2. Policy publications
+
+B. P. Herber (2006) Bioprospecting in Antarctica: the search for a policy regime. Polar Record, 42: 139-146 Cambridge University Press.
+
+D.K. Leary (2006) International Law and Genetic Resources of the Deep Sea, Martinus Nijhoff, p 169.
+
+D. Lohan and S. Johnston (2005) The International Regime for Bioprospecting – Existing Policies and Emerging Issues for Antarctica. A UNU-IAS Report. See: http://www.ias.unu.edu/binaries/UNUIAS_AntarcticaReport.pdf
+
+K. ten Kate, L. Touche, A. Collis and A. Wells (2002) Access to genetic resources and benefit–sharing in a protected area: an agreement between Yellowstone National Park and the Diversa Corporation.  In Laird, SA (ed). Biodiversity and Traditional Knowledge: Equitable Partnerships in Practice. Earthscan, London.
+
+
+3. Conference proceedings
+
+A. Hemmings and M. Rogan-Finnemore (Eds.) (2005) Proceedings of “Bioprospecting in Antarctica” – An Academic Workshop. Gateway Antarctica, University of Canterbury, Christchurch, New Zealand, 7-8 April 2003. Gateway Antarctica Special Publication. 
+
+Census of Antarctic Marine Life (CAML). Microbes Workshop – Abstracts, 31 May 2006, Innsbruck, Austria. See: http://www.caml.aq/microbes/documents/20060831CAML-Microbes_Abstracts.pdf
+
+
+4. Recent scientific publications
+
+J. Aislabie, D. Saul and J. Foght (2006) Bioremediation of hydrocarbon-contaminated polar soils. Extremophiles, Volume 10, Number 3, pp. 171-179
+
+M. Bright, C. Arndt, H. Keckeis and H. Felbeck (2003) A temperature-tolerant interstitial worm with associated epibiotic bacteria from the shallow water fumaroles of Deception Island, Antarctica. Deep Sea Research Part II: Topical Studies in Oceanography, Volume 50, Number 10, pp. 1859-1871
+
+A. Camacho (2006) Planktonic microbial assemblages and the potential effects of metazooplankton predation on the food web of lakes from the maritime Antarctica and sub-Antarctic islands. Reviews in Environmental Science and Biotechnology, Volume 5, Numbers 2-3, pp. 167-185
+
+L. Camardella, R. Di Fraia, A. Antignani, M.A. Ciardiello, G. di Prisco, J.K. Coleman, L. Buchon, J. Guespin and N.J. Russell (2002) The Antarctic Psychrobacter sp. TAD1 has two cold-active glutamate dehydrogenases with different cofactor specificities. Characterisation of the NAD+-dependent enzyme. Comparative Biochemistry and Physiology – Part A: Molecular & Integrative Physiology, Volume 131, Number 3, pp. 559-567
+
+D.A. Cowan, N. J. Russell, A. Mamais and D.M. Sheppard (2002) Antarctic Dry Valley mineral soils contain unexpectedly high levels of microbial biomass. Extremophiles, Volume 6, Number 5, pp: 431-436
+
+R.L. Farrell, P.L Rhodes and J. Aislabie (2003) Toluene-degrading Antarctic Pseudomonas strains from fuel-contaminated soil. Biochemical and Biophysical Research Communications, Volume 312, Number 1, pp. 235-240
+
+A. Heuchert, F. O. Glöckner, R. Amann and U. Fischer (2004) Psychrobacter nivimaris sp. nov., a Heterotrophic Bacterium Attached to Organic Particles Isolated from the South Atlantic (Antarctica). Systematic and Applied Microbiology, Volume 27, Number 4, pp. 399-406
+
+P. Hirsch, C. A. Gallikowsk, J. Siebert, K. Peissl, R. Kroppenstedt, P. Schumann, E. Stackebrandt and R. Anderson (2004) Deinococcus frigens sp. nov., Deinococcus saxicola sp. nov., and Deinococcus marmoris sp. nov., Low Temperature and Draught-tolerating, UV-resistant Bacteria from Continental Antarctica. Systematic and Applied Microbiology, Volume 27, Number 6, pp. 636-645
+
+J.E. Hobbie (2003) Scientific Accomplishments of the Long Term Ecological Research Program: An Introduction. BioScience, Volume 53, Number 1, 1 January 2003, pp. 17-20(4)
+
+U.P. John and G.C. Spangenberg (2005) Xenogenomics: genomic bioprospecting in indigenous and exotic plants through EST discovery, cDNA microarray-based expression profiling and functional genomics. Comparative and Functional Genomics, Volume 6, Number 4, pp. 230-235
+
+D. Jung, L. Achenbach, E. Karr, S. Takaichi and M. Madigan (2004) A gas vesiculate planktonic strain of the purple non-sulfur bacterium Rhodoferax antarcticus isolated from Lake Fryxell, Dry Valleys, Antarctica. Archives of Microbiology, Volume 182, Numbers 2-3, pp. 236-243
+
+H. Kawahara (2002) The structures and functions of ice crystal-controlling proteins from bacteria. Journal of Bioscience and Bioengineering, Volume 94, Number 6, pp. 492-496
+
+T. Kazuoka, T. Oikawa, I. Muraoka, S. Kuroda and K. Soda (2007) A cold-active and thermostable alcohol dehydrogenase of a psychrotolerant from Antarctic seawater, Flavobacterium frigidimaris KUC-1. Extremophiles, Volume 11, No. 2, pp: 257-267
+
+P. Lee, J. Mikucki, C. Foreman, J. Priscu, G. DiTullio, S. Riseman, S. Mora, C. Wolf and L. Kester (2004) Thermodynamic Constraints on Microbially Mediated Processes in Lakes of the McMurdo Dry Valleys, Antarctica. Geomicrobiology Journal, Volume 21, Number 3, pp. 221-237
+
+S. Li, X. Xiao, X. Yin, F. Wang (2006) Bacterial community along a historic lake sediment core of Ardley Island, west Antarctica. Extremophiles, Volume 10, Number 5, October 2006, pp. 461-467(7)
+
+J.T. Lisle and J.C. Priscu (2004) The Occurrence of Lysogenic Bacteria and Microbial Aggregates in the Lakes of the McMurdo Dry Valleys, Antarctica. Microbial Ecology, Volume 47, Number 4, pp. 427-439(13)
+
+A. Lo Giudice, L. Michaud, D. de Pascale, M. De Domenico, G. di Prisco, R. Fani and V. Bruni (2006) Lipolytic activity of Antarctic cold-adapted marine bacteria (Terra Nova Bay, Ross Sea). Journal of Applied Microbiology, Volume 101, Number 5, pp. 1039-1048
+
+A. los Ríos, J. Wierzchos, L.G. Sancho and C. Ascaso (2003) Acid Microenvironments in Microbial Biofilms of Antarctic Endolithic Microecosystems. Environmental Microbiology, Volume 5, Number 4, pp. 231-237
+
+Y. Ma, L. Wang and Z. Shao (2006) Pseudomonas, the dominant polycyclic aromatic hydrocarbon-degrading bacteria isolated from Antarctic soils and the role of large plasmids in horizontal gene transfer. Environmental Microbiology, Volume 8, Number 3, pp. 455-465
+
+A.R. Mahon, C.D. Amsler, J.B. McClintock, M.O. Amsler and B.J. Baker (2003) Tissue-specific palatability and chemical defenses against macropredators and pathogens in the common articulate brachiopod Liothyrella uva from the Antarctic Peninsula. Journal of Experimental Marine Biology and Ecology, Volume 290, Number 2, pp. 197-210
+
+F. Marinelli, M. Brunati, F. Sponga, I. Ciciliato, D. Losi, S. Van Trappen, J. Mergaert, J. Swings, E. Göttlich, G.S. de Hoog, J.L. Rojas and O. Genilloud, (2004) Biotechnological exploitation of heterotrophic bacteria and filamentous fungi isolated from benthic mats of Antarctic lakes. In: Microbial Genetic Resources and Biodiscovery Edited by I. Kurtböke and J. Swings. Queensland Complete Printing Services, Queensland, Australia pp. 163-184
+
+S.A. Moosvi, C.C. Pacheco, I.R. McDonald; P. De Marco, D.A. Pearce, D.P. Kelly and A.P. Wood (2005) Isolation and properties of methanesulfonate-degrading Afipia felis from Antarctica and comparison with other strains of A. felis. Environmental Microbiology, Volume 7, Number 1, pp. 22-33
+
+A. Mosier, A. Murray and C.H. Fritsen (2007) Microbiota within the perennial ice cover of Lake Vida, Antarctica. FEMS Microbiology Ecology, Volume 59, Number 2, pp. 274-288
+
+M. Nevot, V. Deroncelé, P. Messner, J. Guinea and E. Mercadé (2006) Characterization of outer membrane vesicles released by the psychrotolerant bacterium Pseudoalteromonas antarctica NF3. Environmental Microbiology, Volume 8, Number 9, pp. 1523-1533
+
+D.S. Nichols, et al. (2002) Bioprospecting and Biotechnology in Antarctica. In: Jabour-Green, J. & Haward, M. (Eds). The Antarctic: Past, Present and Future. Antarctic CRC Research Report #28. Hobart, 2002, pp.85-103.
+
+A. A. H. Pakchung et al. (2006) Life on Earth. Extremophiles Continue to Move the Goal Posts. Environ. Chem. 2006, 3, 77–93.
+
+L.S. Peck, M.S. Clark, A. Clarke, C.S. Cockell, P. Convey, W.H. Detrich III, P. Keiron., P. Fraser, I.A. Johnston, B.A. Methé, A.E. Murray, K. Römisch and A.D. Rogers (2004) Genomics: applications to Antarctic ecosystems. Polar Biology DOI: 10.1007/s00300-004-0671-8.
+
+M. Pepi, C. Agnorelli and R. Bargagli (2005) Iron Demand by Thermophilic and Mesophilic Bacteria Isolated from an Antarctic Geothermal Soil. BioMetals, Volume 18, Number 5, pp. 529-536
+
+S. Powell, J. Bowman and I. Snape (2004) Degradation of nonane by bacteria from Antarctic marine sediment. Polar Biology, Volume 27, Number 10, pp. 573-578
+
+P.B. Price (2007) Microbial life in glacial ice and implications for a cold origin of life FEMS Microbial Ecol. 59:217-31
+
+S. Pucciarelli and C. Miceli (2002) Characterization of the cold-adapted a-tubulin from the psychrophilic ciliate Euplotes focardii. Extremophiles, Volume 6, Number 5, pp. 385-389
+
+S. Pucciarelli, S.K. Parker, H.W. Detrich and R. Melki (2006) Characterization of the cytoplasmic chaperonin containing TCP-1 from the Antarctic fish Notothenia coriiceps. Extremophiles, Volume 10, Number 6, pp. 537-549
+
+S. Shivaji, G.S.N. Reddy, P.U.M. Raghavan, N.B. Sarita and D. Delille (2004) Psychrobacter salsus sp. nov. and Psychrobacter adeliensis sp. nov. Isolated from Fast Ice from Adelie Land, Antarctica. Systematic and Applied Microbiology, Volume 27,  Number 6, pp. 628-635
+
+F. Sojo, J. Romeike and S. Ott (2003) Himantormia lugubris (Hue) M. Lamb – vegetative and reproductive habit: adaptations of an Antarctic endemic. Flora, Volume 198, Number 2, pp. 118-126
+
+M.-J. Souza, S. Nair, P. Loka Bharathi, P. and D. Chandramohan (2006) Metal and antibiotic-resistance in psychrotrophic bacteria from Antarctic Marine waters. Ecotoxicology, Volume 15, Number 4, pp. 379-384
+
+E. Stackebrandt, E. Brambilla, S. Cousin, W. Dirks and R. Pukall (2004) Culture-independent analysis of bacterial species from an anaerobic mat from Lake Fryxell, Antarctica: prokaryotic diversity revisited. Cell Mol Biol. 50:517-24
+
+B. Stallwood, J. Shears, P.A. Williams and K.A. Hughes (2005) Low temperature bioremediation of oil-contaminated soil using biostimulation and bioaugmentation with a Pseudomonas sp. from maritime Antarctica. Journal of Applied Microbiology, Volume 99, Number 4, pp. 794-802
+
+A. Taton, S. Grubisic, D. Ertz, D. A. Hodgson, R. Piccardi, N. Biondi, M. R. Tredici, M. Mainini, D. Losi, F. Marinelli, A. Wilmotte (2006) Polyphasic Study of Antarctic Cyanobacterial Strains. Journal of Phycology 42 (6), 1257–1270.
+
+D.N. Thomas and G.S. Dieckmann, (2002) Antarctic Sea Ice - a habitat for extremophiles. Science 295:641-644
+
+S. Van Trappen, J. Mergaert, S. Van Eygen, P. Dawyndt, M.C. Cnockaert and J. Swings (2002) Diversity of 746 Heterotrophic Bacteria Isolated from Microbial Mats from Ten Antarctic Lakes. Systematic and Applied Microbiology, Volume 25, Number 4, 1 pp. 603-610
+
+M. Turkiewicz, M. Pazgier, H. Kalinowska and S. Bielecki (2003) A cold-adapted extracellular serine proteinase of the yeast Leucosporidium antarcticum. Extremophiles, Volume 7, Number 6, pp. 435-442
+
+J. Wierzchos, A. De Los Ríos, L. G. Sancho and C. Ascaso (2004) Viability of endolithic micro-organisms in rocks from the McMurdo Dry Valleys of Antarctica established by confocal and fluorescence microscopy. Journal of Microscopy, Volume 216, Number 1, pp. 57-61
+
+E. Yergeau, S.  Bokhorst, A.H.L. Huiskes, H.T.S. Boschke, R. and G.A. Kowalchuk (2007) Size and structure of bacterial, fungal and nematode communities along an Antarctic environmental gradient. FEMS Microbiology Ecology, Volume 59, Number 2, pp. 436-451
+
+
+5. Research  programmes, societies and other relevant websites
+
+Census of Marine Life (CoML): http://www.coml.org/
+
+Census of Antarctic Marine Life (CAML): http://www.caml.aq/
+
+International Census of Marine Microbes (ICOMM): http://icomm.mbl.edu/
+
+The International Society for Extremophiles (ISE): http://extremophiles.org/
+
+The Cold Regions Bibliography project: http://www.coldregions.org/
+
+OECD Bioeconomy Department: http://www.oecd.org/department/0,2688,en_2649_36831301_1_1_1_1_1,00.html
+
+
+6. Selected companies with interest in Antarctic micro-organisms
+
+AstraZeneca: http://www.astrazeneca.com/
+
+Bayer: http://www.bayer.com/en/Homepage.aspx
+
+Cerylid Biosciences: http://www.cerylid.com.au/
+
+Diversa: http://www.diversa.com/
+
+DuPont: http://www2.dupont.com/DuPont_Home/en_US/index.html
+
+DSMZ - Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH: http://www.dsmz.de/
+
+Genencor International B.V.: http://www.genencor.com/wt/home
+
+GlaxoSmithKline: http://www.gsk.com/
+
+Henkel KGAA: http://www.henkel.com/cps/rde/xchg/henkel_com/hs.xsl/index.htm
+
+IWW Rheinisch-Westfälisches Institut für Wasserforschung Gemeinnützige: http://www.iww-online.de/
+
+Lion Corp.: http://www.lion.co.jp/en/
+
+Merck Sharp & Dohme de Espana: http://www.msd.es/content/corporate/index.html
+
+New England Biolabs: http://www.neb.com/nebecomm/default.asp
+
+Nippon Soda: http://www.nippon-soda.co.jp/e/
+Novo Nordisk A/S: http://www.novonordisk.com/
+
+Roche: http://www.roche.com/home.html
+
+Tokuyama Corp.: http://www.tokuyama.co.jp/eng/
+
+Unilever: http://www.unilever.com/
+
+
+7. Relevant international conventions and processes
+
+Antarctic Treaty Secretariat: http://www.ats.aq/
+
+Scientific Committee on Antarctic Research: http://www.scar.org/treaty/
+
+The General Assembly of the United Nations: http://www.un.org/ga/61/
+
+The United Nations Convention on the Law of the Sea: http://www.un.org/Depts/los/index.htm
+
+The Convention on Biological Diversity: http://www.biodiv.org
+
+The World Trade Organisation: http://www.wto.org/
+
+The World Intellectual Property Organization: http://www.wipo.int/portal/index.html.en
+
+The International Treaty on Plant Genetic Resources for Food and Agriculture: http://www.fao.org/AG/cgrfa/itpgr.htm
+
+International Seabed Authority: http://www.isa.org.jm/
+

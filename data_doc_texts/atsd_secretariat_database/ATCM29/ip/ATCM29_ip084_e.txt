@@ -1,0 +1,731 @@
+﻿
+
+
+
+
+
+Marine Acoustic Systems used by National Antarctic Program Vessels
+
+
+
+
+
+Information Paper on 
+Marine Acoustic Systems used by National Antarctic Program Vessels
+Submitted by COMNAP to CEP IX under Agenda item 8 (Conservation of Antarctic Flora and Fauna)
+
+EXECUTIVE SUMMARY
+    1. Marine vessels use a number of marine acoustic systems such as sonars, current profilers, echo-sounders or seismic arrays.  These systems produce pulses of sound underwater and then record any returned reflections. The pulses are reflected by objects such as the sea bottom, reefs or moorings, by animals, or also by interfaces between bodies of different physical properties, such as between air and water, between water and rock, or between two different layers of water or rocks. Analysis of the returned reflections provides information about the nature, location and distribution of these reflectors. 
+    2. Obvious, vital applications include: monitoring water depth to avoid running aground;  surveying Antarctic waters to produce accurate hydrographic charts for safer navigation; or monitoring the position of potentially dangerous submerged parts of icebergs. It has also a wide range of important, very valuable applications in various research areas, from oceanography to geology to geodesy to biology.  
+    3. These systems rely on the generation of sound waves in the water, hence of “marine noise”.  And noise can, depending on its frequency or power, be harmful to marine life and in particular to marine mammals. This is an issue that has received increasing attention worldwide.   A number of specific concerns have been raised about the possible dangers to Antarctic marine life and the Antarctic Treaty's Committee for Environmental Protection (CEP) decided that it should be a topic for substantive discussion at its 2006 meeting CEP IX. The Scientific Committee on Antarctic Research (SCAR) would in particular prepare a Working Paper on the issue.
+    4. There are a very wide range of types and sizes of systems available, which generate noise in a wide range of frequencies and power, and it would not be possible to make any meaningful evaluation of risks without relating it to types of systems used. COMNAP therefore decided at its 2005 COMNAP XVII meeting in Sofia, Bulgaria, to collect detailed up-to-date information on the marine acoustic systems used on National Antarctic Program vessels. Results would be provided to SCAR for input into its working paper and into discussions at the 2006 CEP IX.  Interim results of the survey were provided to SCAR in time for its workshop to review the risks associated with marine acoustics in the Southern Ocean held in Cadiz, Spain, in January 2006.  
+    5. The COMNAP survey captured 22 National Program Vessels and is deemed representative of the fleet currently operated by National Programs. Results of this survey are presented in the form of a series of tables listing technical details of the marine acoustic systems installed on these vessels. 
+    6. These results provide a reference and a set of practical, matter-of-fact information for input into any further analysis and evaluation of risks associated with marine acoustics in Antarctic waters. 
+
+BACKGROUND
+    7. Marine vessels use a number of marine acoustic systems such as sonars, current profilers, echo-sounders or seismic arrays.  These systems produce pulses of sound underwater and then record any returned reflections. The pulses are reflected by objects such as the sea bottom, reefs or moorings, by animals, or also by interfaces between bodies of different physical properties, such as between air and water, between water and rock, or between two different layers of water or rocks. Analysis of the returned reflections provides information about the nature, location and distribution of these reflectors. 
+    8. Obvious, vital applications include: monitoring water depth to avoid running aground;  surveying Antarctic waters to produce accurate hydrographic charts for safer navigation; or monitoring the position of potentially dangerous submerged parts of icebergs. Some of these marine acoustic systems are hence essential contributors to safe navigation, that is to safety of life at sea and to protection of the  environment.  
+    9. There are also a wide range of important, very valuable applications in various research areas, from oceanography to geology to geodesy to biology.  
+    10. Marine acoustic systems rely on the generation of sound waves in the water, hence of “marine noise”.  And noise can, depending on its frequency or power, be harmful to marine life and in particular to marine mammals. 
+    11. While marine noise is an important tool for safety of navigation and for science some high power acoustic emissions can affect marine life, in particular marine mammals, and there is international consensus on the fact that marine noise could present a threat to marine mammals and other marine species. 
+    12. This is an issue that has received increasing attention worldwide and specific concerns have been raised about the use of marine acoustic systems in Antarctic waters.  
+    13. The 1999 Antarctic Treaty Consultative Meeting ATCM XXIII in Lima, Peru, held some discussions on the potential impacts of marine acoustic equipment on marine animals, and on to what extent mitigation strategies were available to reduce these effects. 
+    14. At the 2000 meeting of the Scientific Committee on Antarctic Research SCAR XXVI, in Tokyo, Japan, it was recognised that various nations were seeking an assessment of the environmental impact of marine acoustic equipment used on board National Antarctic Program vessels and it was decided to convene an international workshop to expand knowledge on acoustic impacts.  
+    15. Noise pollution in Antarctic waters continued to receive increasing attention in international fora, including at ATCM XXV in 2002 in Warsaw, Poland (where SCAR presented Working Paper 023 on Marine acoustic technology and the environment) and at ATCM XXVII in 2004 in Cape Town, South Africa (where SCAR presented Information Paper 078 ‘SCAR report on marine acoustic technology and the Antarctic environment’).
+    16. The 2005 meeting of the Antarctic Treaty Committee for Environmental Protection CEP VIII in Stockholm, Sweden,  again raised the issue of marine noise and its impact on wildlife, in particular on marine mammals. It agreed that it warranted further consideration and that it should be a topic for substantive discussion in 2006 at CEP IX.  
+    17. At the 2006 COMNAP meeting COMNAP XVII in Sofia, Bulgaria, it was noted that acoustic noise was a marine biology issue that, in addition to CEP IX, was already on the agenda of two meetings: of SCAR in July in and of the International Whaling Commission2006, Hobart, Tasmania September 2005, Oxford, UK. COMNAP could provide technical input through identification of the types of marine acoustic systems actually installed and used on board National Program vessels. 
+    18. Interim results of the survey were provided to SCAR in time for its workshop to review the risks associated with marine acoustics in the Southern Ocean held in Cadiz, Spain, in January 2006.  The workshop  agreed that SCAR would present a Working Paper at CEP IX considering, amongst other things, the results of the COMNAP survey 
+
+COMNAP SURVEY ON MARINE ACOUSTIC SYSTEMS USED ON NATIONAL ANTARCTIC PROGRAM VESSELS
+    19. The survey targeted all National Antarctic Program vessels navigating in the Antarctic Treaty Area, whether on a logistics or a research mission. It captured 22 vessels, or about 56% of the current National Antarctic Program fleet of around 39 vessels, and the results are deemed representative of the marine acoustic systems installed on and used by this fleet, especially as instruments on board modern research and logistic vessels are fairly standard.
+    20. Details were  received for  22 vessels: the Agulhas, Almirante Oscar Viel, American Tern, L'Astrolabe, Aurora Australis, Ernest Shackleton, Hesperides, Italica, James Clark Ross, Krasin, Lance, Las Palmas, Lautaro, Laurence M. Gould, Leucoton, Nathaniel B. Palmer, OGS Explorer, Paul Buck, Polarstern, Shirase, Tangaroa and Vasily Golovnin. It can be noted that one these vessels, the Paul Buck, is one of five identical sister ships used interchangeably (the Paul Buck, Gus W. Darnell, Lawrence H. Gianella, Richard G. Mathisen and Samuel L. Cobb). Only one of those vessels is used in any given year and the group of five sister ships  is counted as one vessel only under the name Paul Buck.
+    21. Fourteen (64%) of those vessels are used both as research and logistics vessels:  the Agulhas, Almirante Oscar Viel, Aurora Australis, Ernest Shackleton, Hesperides, Italica, James Clark Ross, Lance, Laurence M. Gould, Nathaniel B. Palmer, OGS Explorer, Polarstern, Shirase and Tangaroa.
+    22. Eight (36%) of these vessels are used for logistic support only: the American Tern, L'Astrolabe, Krasin, Las Palmas, Lautaro, Leucotón, Paul Buck and Vasily Golovnin .
+    23. It is worth noting that all ships, even research vessels, also have some logistic support duties. It reflects the isolation of the region and the low number of vessels operated in the region.  
+    24. The logistic-only vessels include mostly relatively large cargo ships  and tankers, typically equipped  with one or two single beam echo sounders only.
+    25. The results of the survey are provided in six tables corresponding to six different types of acoustic systems. Each table lists all systems of the given type installed and used on the 22 vessels. The six types are as follows:
+    • Two types used both in support of safety of navigation and for research:
+        ◦ Single-Beam echo-sounders
+        ◦ Multi-beam echo-sounders
+    • Four types used for research:
+        ◦ ADCP (Acoustic Doppler Current Profilers)
+        ◦ Air guns, compressors and arrays
+        ◦ Biological echo-sounders
+        ◦ Sub-bottom profilers
+    26. It should be noted that while the list of equipment was accurate at the time of the survey and is representative of the equipment that is commonly used on such vessels, a number of acoustic systems , such as in particular  air guns, usually belong to different institutions than the ones operating the vessel and are only installed on board  as and when required for specific research programs. 
+
+CONCLUSIONS
+    27. There are a very wide range of types of marine acoustics systems available, which generate noise in a wide range of frequencies and power, and it would not be possible to make any meaningful evaluation of risks without relating it to actual types of systems used in the Antarctic. 
+    28. COMNAP has collected detailed up-to-date information on the marine acoustic systems used on National Antarctic Program vessels. 
+
+    29. The COMNAP survey captured 22 National Program Vessels and is deemed representative of the fleet currently operated by National Programs. Results of this survey are presented in the form of a series of tables listing technical details of the marine acoustic systems installed on these vessels. 
+    30. Measuring the effect of acoustic equipment is complex and depends upon such system parameters as source level, beam width, distance and absorption loss. Consequently, whilst the list of equipment and characteristics in the tables provides an indication of existing capabilities, much more technical analysis would be required to assess the actual acoustic impact of the equipment when in use.
+    31. The results of this survey provide a set of practical, matter-of-fact information for input into any further analysis and evaluation of risks associated with marine acoustics in Antarctic waters. 
+
+TABLE 1 - Single-Beam echo-sounders (p1/2)
+       SHIP
+TRADE MARK
+DEPTH, REP. RATE, PULSE POWER, SWATH COVERAGE
+FREQUENCIES
+AGULHAS
+Furuno FCV 262, multi function, 28/50 kHz transducer
+1000 m
+28 & 50 Khz
+
+Nippon Electric Co. MS 74 deep sea echo sounder, 12 kHz,
+
+12 Khz
+AMERICAN TERN
+1 echosounder
+No information
+
+ASTROLABE
+JRC JFV 250
+2000 m
+pilse power 3-10Kw
+50 to 250 Khz
+AURORA AUSTRALIS
+SIMRAD
+1000 m
+pulse power 1Kw
+38 Khz
+
+SIMRAD EK 60
+5000 m
+12 Khz
+ERNEST SHACKLETON
+Kongsberg Simrad EA600
+Full ocean depth
+2 Kw
+15º
+rep.rate 5hz
+12 Khz
+HESPERIDES
+Kongsberg Deffenswe 
+EA 600
+5000 m, 2 Kw, 15º
+rep rate 20hz
+12 & 200 Khz
+ITALICA
+TWO units
+Konsberg Maritime EA500
+15000 m
+2 Kw rep. Rate 20 hz
+1ºX1º
+12Khz & 38Khz
+
+
+Konsberg Maritime EA502
+10000 m
+1kw
+rep rate 20 hz
+38khz
+JAMES CLARK ROSS
+Kongsberg Simrad EA600
+
+Full ocean depth
+2 Kw
+15º
+rep rate 5 hz
+12 Khz
+KRASIN
+M3A
+3-200 m
+
+LANCE
+SIMRAD EK 60 - 18 KHZ
+0-10 000m
+2 KW
+11degrees
+18 Khz
+
+SIMRAD EK 60 - 38 KHz
+0-300 m
+2 Kw
+11º
+38 Khz
+
+SIMRAD EK 60 - 120 KHz
+0-500 m
+1 Kw
+11º
+120 Khz
+LAS PALMAS
+FURUNO FCV-611
+300 MTS
+50 KHZ ó 200 KHZ
+LAURENCE M. GOULD
+Knudsen 320 B/R
+Full ocean depth
+2 Kw
+
+single 12 kHz;  3.5 kHz
+
+Raytheon PDR
+This unit is only capable of operating in received mode to track 12 kHz pingers located on various underwater instrument packages.
+
+TABLE 1 - Single-Beam echo-sounders (p2/2)
+       SHIP
+TRADE MARK
+DEPTH, REP. RATE, PULSE POWER, SWATH COVERAGE
+FREQUENCIES
+NATHANIEL B. PALMER
+ODEC Bathy 2000W
+Full Ocean
+8.3 Kw
+Single 12 &3.5 Khz
+
+Knudsen 320 B/R
+Full Ocean Depth
+2 Kw
+Single 12&3.5 Khz
+
+Raytheon PDR
+Only capable of receive mode for tracking 12 kHz pingers on underwater equipment
+
+
+PAUL BUCK 
+(or one of 4 other identical sister ships)
+Abyss Model IES-10
+4000 feets
+pulse power 750W
+Swath 7º
+80 Khz
+POLAR STERN
+SIMRAD (Kongsberg)
+EA 500 DWS
+Full Ocean Depth, 1 beam 
+pulse power 2 kW
+230 dB re 1 µPa@1m for 10 ms
+Update rate 1s 
+beam angle 6.5° x 6.5°
+Acoustic window
+13 KHz
+SHIRASE
+NEC /OQN-6
+0-3000m
+400W at range=800m
+rep.rate
+115 times/min (160m), 23 times/min(800m)
+2ms(160m), 5ms(800m), 10ms(single)
+
+
+23.5 kHz
+
+NEC Echo sounder
+
+200-8000m /200,400,800,1000,2000,4000,6000,8000m
+pulse power 2 Kw
+swath coverage 150º
+1,3,10,30ms
+12 Khz
+TANGAROA
+Simrad EA500
+shallow(120kHz)
+and full ocean (12kHz)
+12 & 120 kHz
+
+Kaijo Denki KMC 2000
+full ocean depth. In Antarctic Survey launch Perolus
+
+24 & 200 kHz
+VASILIY GOLOVNIN
+ECHO
+No information
+
+ALMIRANTE OSCAR VIEL
+ELAC LAZ 4400
+
+-------------------------
+Kelving Hugnes Type MS.45
+0/5000m effective up to 1000m
+1 Kw
+swath coverage 0/1000 m
+update rate 4800 bauds
+--------------------------------
+0/1462 m effective up to 500 m
+1 Kw 
+swath coverage 0/500 m
+
+30 khz
+
+
+-------------------------
+
+
+14.25 khz
+ATF LAUTARO
+KODENCVS-811C
+0/1300 m effective 1280 m
+30 Dbw
+swath coverage 0/1000 m
+28 khz
+ATF LEUCOTON
+ELAC LAZ 5000
+0/2000 m effective 1000 m
+1Kw
+swath coverage 0/1000 m
+update rate 4800 bauds
+50 khz
+TABLE 2 - Multi-beam echo-sounders
+       SHIP
+TRADE MARK
+DEPTH, PULSE POWER, FREQ, NUMBER OF BEAMS
+BEAM, 
+SWATH COVERAGE
+
+OGS EXPLORER
+Multibeam RESON Seabat 8111
+2000 m 100 Khz
+Swath 7.5º
+1.5 X 1.5º   swath 120º
+101 beams
+
+RESON SEABAT 8150
+5000 m 12 khz
+rep.rate 15 hz
+1.5º X 1.5ºSwath 120º
+234 beams
+HESPERIDES
+Kongsberg Simrad EM 120
+2005
+Full ocean 12 Khz 12 KW
+242 dB ref 1 micro Pa @ 1 metre
+rep. Rate 10hz
+1º X 2º    150º
+191 beams
+pulse length 2/15 ms
+
+Kongsberg Simrad EM1002 S
+2005
+600m  95Khz
+
+111 beans rep rate 10hz
+2º X 2º    150º
+Pulse length 0.2/2 ms
+JAMES CLARK ROSS
+Kongsberg Simrad EM120
+Full ocean depth
+11.25 kHz to 12.75 kHz
+Number of beams191
+242 dB ref 1 micro Pa @ 1 metre
+reprate 5hz
+1º X 2º 150º
+
+NATHANIEL B. PALMER
+Simrad EM-120
+Full Ocean depth
+12 kHz
+Number of beams191
+242 dB re µPascal@1m; 189 dB  re µPascal @ 460 m; 181 dB @ µPascal@ 1000 m
+rep. Rate 5 hz
+1º X 2º  150º
+
+POLARSTERN
+Atlas Hydrosweep DS2
+Atlas Hydrographic
+Full Ocean depth
+15.5 kHz
+max. pulse power: 45 kW
+max. 239 dBRMS re 1µPa @ 1 m,
+max. total pulse length 60 ms in RDT mode
+rep. interval 15 s for full ocean depth
+2.3º X 2.3º; swath 90º - 120°
+59 Hard beams
+240 Soft beams (HDBE mode)
+TANGAROA
+Simrad EM300
+75 - 5000m 30Khz
+135 beams  150º
+1deg along track, 2deg across track
+rep.rate 10hz
+Beam size: 1º X  2º  swath coverage :150º
+Total swath coverage: variable 130º to 25º
+
+
+EM3000D
+1m - 150m  300kHz
+254 beams
+rep.rate 40Hz
+
+Beam size: 1.5º x 1.5º 
+Total swath: 200m
+Portatil. In Survey launch Perolus
+TABLE 3 - ADCP (Acoustic Doppler Current Profilers)
+SHIP
+TRADE MARK
+FREQUENCIES
+PULSE POWER
+Number of cells
+       AURORA AUSTRALIS
+RDI Narrow band
+150Khz
+223.6 dB re µPascal@1m for 12.3 milliseconds/beam
+8 m per cell
+HESPERIDES
+RDI Instruments. Ocean Surveyor. 2005
+75Khz
+Beam angle: 30º Pulse power:  1Kw
+128 cells
+JAMES CLARK ROSS
+RDI Ocean Surveyor OS75
+75 Khz
+
+Pulse wide 30 degrees
+1 Kw
+
+LANCE
+RD Instruments BB 150 WM
+150khz
+rep.rate 1.5 s
+30º 1Kw
+
+LAS PALMAS
+FURUNO FCV-611
+
+
+
+LAURENCE M. GOULD
+RD Instruments Narrow Band ADCP
+
+38 kHz (narrow- or broadband)
+rep.rate 0.3 Hz
+
+30° off nadir
+224.6 dB re µPascal @ 1 meter for 37.0 milliseconds
+
+The acoustic pressure along each beam is estimated at 180.0 dB re µPascal @ 114.0 meters. The acoustic pressure 20 degrees off the main lobe of each beam is estimated at 180.0 dB re µPascal @ 16.0 meters.
+128 cells
+
+
+RD Instruments Ocean Surveyor (OS 38)
+38 Khz (narrow or broad band)
+rep. rate: 0.3 hz
+30º off nadir 
+224.6 dB re uPascal @1 m for 37 ms 
+The acoustic pressure along each beam is estimated at 180.0 dB re micro-Pascal @ 114 meters. The acoustic pressure 20 degrees off of the main lobe of each beam is estimated at 180.0dB re micro-Pascal @ 16 meters
+128 cells
+NATHANIEL B. PALMER
+RD Instruments Narrow Band ADCP
+
+
+150 Khz
+1hz rep.rate
+
+
+30° off Nadir
+223.6 dB re µPascal@1m for 12.3 milliseconds/beam
+The acoustic pressure along each beam is estimated at 180.0dB re micro-Pascal @ 75.2 meters. The acoustic pressure 20 degrees off of the main lobe of each beam is estimated at 180.0dB re micro-Pascal @ 7.9 meters.
+128 cells
+
+
+
+RD Instruments Ocean Surveyor (OS 38)
+38 Khz (narrow or broad band)
+rep. rate: 0.3 hz
+30º off nadir 
+224.6 dB re uPascal @1 m for 37 ms 
+The acoustic pressure along each beam is estimated at 180.0 dB re micro-Pascal @ 114 meters. The acoustic pressure 20 degrees off of the main lobe of each beam is estimated at 180.0dB re micro-Pascal @ 16 meters.
+128 cells
+OGS EXPLORER
+ADCP
+
+
+
+TANGAROA
+RDI broad band accoustic profiler
+150 Khz
+
+
+POLARSTERN
+RDI Ocean Surveyor OS150
+150 KHz
+4 Beams, 30° each
+1 kW
+210 dB re 1 µPa@ 1m for 16 ms
+Acoustic window
+8 m per cell
+
+
+TABLE 4 - Air guns, compressors and arrays (p1/2)
+SHIP
+COMPRESSORS
+AIR GUNS
+ARRAYS
+
+HESPERIDES
+4 compressors
+Hamworthy 4th 190W70
+5.23 m3/min.
+140 bar.
+12 air guns
+BOLT 1500LL-1900
+10 - 200 Hz
+pulse power 40635 J.
+Rep.rate 6 hz
+.........................................
+4 Air Guns
+Sleeve
+Pulse power 16000 Joules
+Repetition rate 6 s
+Bolt Air Guns 55&85&95&145&66&165&
+175&255&265&330&2X500&1000
+cubic inches
+...............................................
+Normal array with Bolt air guns
+2 lines
+1 line 5 guns
+1 line 2 guns 
+streamer 2500m
+
+JAMES CLARK ROSS
+Fitted with seismic compressors to enable air-guns to be deployed.
+4 compressors
+Hamworthy 4TH565
+733 cu m / hr
+150 bar
+
+
+
+NATHANIEL B.  PALMER
+Two LMF compressors
+
+
+
+
+1200 cfm
+1800 - 2000 psi
+Seven Seismic Systems, Inc. Generator-Injector air gun
+210 cubic inches
+183 dB (Ref. 1u Pa-m/Hz)  
+ frequencies 0 to 250 hz
+2 to 13 seconds rep. Rate according the volume
+ARRAYS: Six GI guns
+One to six guns
+Straight line at 3 m depth
+0 t0 500 hz, rep rate 8-12 s
+rep rate 8-12 s
+Eight Bolt Air Guns
+80&145&200&300&350&
+400&450&500&800&1000 cubic inches
+rep. Rate 4 s
+ARRAYS
+Six Bolts 1500 LL Air Guns
+Straight line at 3 m depth
+0-250 hz
+rep.rate 8-12 hz
+SSI Water Gun
+15 cubic inches
+155 dB (Ref. 1 uPa-m/Hz)
+0 - 2250 Hz
+repetition rate one second
+ARRAYS
+SSI water gun
+single-gun array
+0 - 2250 Hz
+rep.rate 1 second
+       OGS EXPLORER
+3 compressors
+24000 l
+140 bars
+
+2 Bolt Air Guns
+300 cubic inches
+24 air Sleeve guns
+135 cubic inches
+Array 2 lines of 8 air guns 
+
+2 Sodera GI air guns
+355 cubic inches
+1 Sodera Water gun
+16 cubic inches
+155 dB (Ref. 1 uPa-m/Hz)
+0 - 2250 Hz
+repetition rate one second
+TABLE 4 - Air guns, compressors and arrays (p2/2)
+SHIP
+COMPRESSORS
+AIR GUNS
+ARRAYS
+
+POLAR STERN
+1 compressor
+Leobersdorfer, Austria
+32000 litres per minute  210 Bar
+Airgun types: GI-Gun (2.4 l, Sercel), G-GUN (8.5 l, Sercel), BOLT PAR CT800 (Bolt Technologies), VLF-GUN (3 l, Prakla)
+
+
+
+4 Junkers (Mobile, Reserve) 
+1 x GI-Gun (2.4 l), 10-300 Hz, 224 dB0-pk re 1 µPa @ 1m (Airgun Mode),
+rep. interval 10 s
+
+1 x G-Gun (8.5 l), 10-300 Hz, 234 dB0-pk re 1 µPa @ 1m, rep. interval 10-15 s
+
+1 x Bolt PAR CT800-Gun (32.8 l), 10-300 Hz, 239 dB0-pk re 1 µPa @ 1m, rep. interval 60 s
+
+ARRAY 1 : 3 x GI-Gun (7.4 l),   10-300 Hz, 238 dB0-pk re 1 µPa @ 1 m (True GI Mode), rep interval 10 s
+
+ARRAY 2 : 8 x VLF-Gun (24 l), 10-300 Hz, 240 dB0-pk re 1 µPa @ 1 m, rep interval 10-15 s
+
+c) ARRAY 3 : 8 x G-Gun Cluster (68.2 l), 10-300 Hz, < 248 dB0-pk re 1 µPa @ 1 m, rep interval 15 - 60 s 
+
+TANGAROA
+1 Price SA35-WC
+185 cfm
+------------------------------
+1 Reavell 5436
+128 cumetres/hr (75cfm)
+3000psi (disestablished)
+--------------------------------
+1 William James 175
+51cum/hr, (75 cfm)
+2000psi
+------------------------------
+With the two compressors can operate up to 3 GI guns simultaneously
+
+3 SODERA GI
+Volume 105/105, 150/150, 175/175 cubic inches
+Rep.rate 5 seconds
+Total maximum capacity is 860 cubic inches
+In practices no more than two air guns are towed in an array with a maximum of 650 cubic inches.
+Air guns operate at 2000psi rate 0.2 hz
+
+
+
+TABLE 5 -  Biological echo-sounders
+       SHIP
+TRADE MARK
+FREQUENCIES, BEAM, PULSE POWER, REP.RATE
+AURORA AUSTRALIS
+Simrad EK 60
+38khz (2Kw), 120 khz(500W), 200khz (500W) Khz
+HESPERIDES
+MONOHAZ Simrad EK-60
+Frequencies of work
+38; 120; 200 Khz.
+Beam angle7º
+Pulse power 2 Kw (38 Khz), 1 Kw (120 Khz)
+Rep. Rate 5hz
+ITALICA
+Kongsberg Maritime EK500
+7ºX7º
+38(2 kw)&120(1 kw)&200 (1 kw) khz
+218 - 224 re uPascal @ 1m
+
+
+SIMRAD Mesotech System Ltd. MSI 971 Sonar
+1.7º X 30º
+330 Khz 675 Khz
+300 w
+
+Macca NK 32  9765
+
+JAMES CLARK ROSS
+Kongsberg Simrad  EK60
+38 kHz, 120 kHz, 200 kHz
+Beam angle 7º
+4Kw
+repe. Rate 5 hz
+LAURENCE M. GOULD
+Hydroacoustics Technology, Inc. model  DES 244 digital split-beam system
+38 and 120 kHz
+2000 Watts at 38 kHz and 250 Watts at 120 kHz
+NATHANIEL B. PALMER
+Simrad EK-500
+38, 120, 200 kHz
+20 pings/per second (maximum)
+218 - 224 re uPascal @ 1m
+3 - 6 dB loss at 38 kHz up to 12 dB loss at 200 kHz caused by SeaBeam Orange™ sonar well windows
+POLAR STERN
+SIMRAD FISH findes (Kongsberg) EK 60
+Trancducer number:  4,  Beam angle 7º X 7° each
+Frequencies: 38, 70, 120, 200 Khz
+Pulse power 2 K W
+222 – 230 dB 1 µPascal@1 m for 0.5 - 2 millisecond
+rep rate 1 s,  Acoustic windows
+TANGAROA
+Simrad EK500
+12, 27, 38 and 120 KHz
+scientific sounders 
+
+Simrad ES60
+60 Khz fisheries research sounders
+
+
+TABLE 6 - Sub-bottom profilers
+       SHIP
+TRADE MARK
+FREQUENCIES, REP. RATE
+PULSE POWER
+
+HESPERIDES
+Subbottom profiler
+TOPAS PS 18 parametric
+primary 16/22 Khz 
+secondary 0.5, 6 Khz
+Pulse power 32 Kw,
+204dB uPascal@1m
+
+JAMES CLARK ROSS
+Kongsberg Simrad
+TOPAS Sub-bottom profiler
+Beam angle 4,5 degrees
+Parametric, 3.5 kHz
+204 dB re micro Pa @ 1 metre
+rep. Rate 3hz
+
+
+NATHANIEL B. PALMER
+Datasonics/Benthos SIS-1000 sidescan/sub-bottom profiler
+Three beams - one SBP and two sidescan
+1000 meters
+SBP: 2 - 7 kHz; sidescan: 90 - 110 kHz
+
+SBP: n/a; sidescan: +223 dB referenced to 1 µPa @ 1m
+(SBP: 30°; sidescan: 0.5° horizontal, 55° vertical pattern
+Possible for ships of opportunity
+OGS-EXPLORER
+Benthos TH Chirp 6600 subbottom profiler
+2-7 Khz
+
+16 beams
+
+Side Scan Sonar EDGE TECH 1000/D
+
+
+
+       TANGAROA
+Geometrics GeoEEL
+200 - 10 kHz
+rep.rate 3 hz
+300 Joules. Towed system
+
+
+Applied Acoustics Engineering towed boomer (CSP300 transmitter, AA200 boomer plate and OMS 360 Sub-Bottom Processor )
+
+100 - 300J / shot. Towed System
+
+
+
+ Knudsen 320 BR
+3.5 khz
+repetition rate 2 hz
+10kW
+16 transducer array
+
+POLARSTERN
+PARASOUND DS II, Atlas Hydrographic
+(parametric subbottom profiler)
+Primary: 18 kHz and 20.5 - 23.5 kHz 
+Parametric: 2.5 to 5.5 kHz
+Beam angle: 4º x 4°
+max. rep. interval: 13.67 s (pilot mode, range 10000 m) 
+
+max. pulse power 70 kW
+max. 242 dBRMS re 1 µPa @ 1 m for primary frequencies
+203 – 210 dBRMS re 1 µPa @ 1 m for parametric frequencies
+
+
+
+

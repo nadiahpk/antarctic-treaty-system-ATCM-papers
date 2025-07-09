@@ -1,0 +1,1550 @@
+ANTARCTIC TREATY                  TRATADO ANTARTICO
+XXI CONSULTATIVE MEETING         XXI REUNION CONSULTIVA
+TRAITE SUR L'ANTARTIQUE           ДОГОВОР ОБ АНТАРКТИКЕ
+XXIeme REUNION CONSULTATIVE      XXI КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+FOR ANTARCTIC SPECIALLY PROTECTED AREAS
+
+
+Agenda item 6f                  Submitted by SCAR
+
+XXI ATCM/WP18
+April, 1997
+Original: English
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+FOR
+ANTARCTIC SPECIALLY PROTECTED AREAS
+
+Working Paper submitted by SCAR to XXI ATCM
+
+Agenda Item 6.f
+
+In 1992 at XVII ATCM, the meeting noted that SCAR was preparing a handbook to assist in 
+the preparation of management plans for protected areas. The meeting welcomed this 
+development and urged SCAR to complete the handbook as soon as possible. At XVIII 
+ATCM, SCAR was asked to consider how the format of management plans could be developed 
+to facilitate the use of the plans by scientific and logistic personnel.
+
+At XIX ATCM the Parties agreed Annex A to Measure 1 (1995) which adopted the 
+management plan for Moe Island (SPA no. 13). Furthermore, they adopted Resolution 9 
+(1995), recommending that the structure of the Management Plan for Moe Island be regarded 
+as a model for all new and revised Management Plans for protected areas for the purposes of 
+Annex V. At XX ATCM, SCAR was specifically requested to ensure that guidelines for the 
+preparation of maps for protected areas be drawn up and included in the handbook.
+
+SCAR has endeavoured to address these and other points in drafting a comprehensive guide 
+and has consulted widely during the process. The preliminary draft was circulated to SCAR 
+National Committees whose comments have been largely incorporated into this version. 
+SCAR is now pleased to present the attached version to XXI ATCM but as a draft because it 
+believes that any final version would benefit from substantive consideration of both legal and 
+practical aspects by the Consultative Parties. SCAR representatives at this meeting will be glad 
+to work with the Parties to assist in the development of a final text that could be adopted by the 
+Meeting.
+DRAFT
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+FOR
+ANTARCTIC SPECIALLY PROTECTED AREAS
+
+Prepared by the
+Scientific Committee on Antarctic Research
+for the
+Antarctic Treaty Consultative Parties
+
+CONTENTS                                         Page
+
+I.  General Introduction                        1
+    I.1  History                                    1
+    I.2  Protocol on Environmental Protection to the Antarctic Treaty  1
+    I.3  Purpose of this Guide                      2
+
+II. Antarctic Specially Protected Areas          2
+    II.1 Introduction                               2
+    II.2 Format of the Management Plan              3
+    II.3 Requirements for Reports                   9
+
+III. Present review process for draft plans from origination
+    to ATCM acceptance                             10
+
+Appendices
+
+1.  Text of Annex V to the Protocol on Environmental Protection to the Antarctic Treaty  11
+2.  Moe Island management plan                 14
+3.  A checklist of features to be considered for inclusion on maps  18
+4.  Reporting forms for visits                  19
+5.  List of protected areas and the countries responsible for proposing them  21
+6.  Ecosystem matrix and geographic distribution of Protected Areas  25
+7.  SCAR Code of Conduct for the Use of Animals for Scientific Purposes in Antarctica  27
+8.  Select Bibliography                        28
+DRAFT
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+Guide to the Preparation of Management Plans
+FOR
+Antarctic Specially Protected Areas
+
+I. General Introduction
+
+I.1  History
+
+The protection of the Antarctic environment and its flora and fauna has appeared on the agenda of all the Antarctic Treaty Consultative Meetings (ATCM) from the first meeting in Canberra in 1961. Yet the Treaty itself says little about either conservation or the environment. The only relevant clause is Article IX 1(f) where the preservation and conservation of living resources in Antarctica are mentioned. The origin of Antarctic conservation could be said to lie with the acceptance of the Agreed Measures for the Protection of the Fauna and Flora at III ATCM in 1964. This pioneering step, based on a paper provided by the SCAR Working Group on Biology, provided recognition at international level of the importance of conservation in the Antarctic Treaty Area. It is Article VIII of these Agreed Measures that provided for the designation of Specially Protected Areas (SPAs), that were described as areas of outstanding scientific interest to which entry is restricted, except by permits, in order to preserve their unique ecological systems. The criteria for designating SPAs followed a protectionist policy which, by very effectively limiting access, virtually removed these areas from all practical use as far as scientific research was concerned. The need for protection of sites in active scientific use was recognised and in 1975 VIII ATCM adopted Recommendation VIII-3 which established Sites of Special Scientific Interest (SSSIs). These sites, unlike the SPAs, had to have management plans. There the protected area system remained for a considerable period with continuing additions being proposed to both protected area categories but without any systematic organisation to ensure that adequate examples of all ecosystems and communities had been protected. The development of the Convention on the Regulation of Antarctic Mineral Resources Activities (CRAMRA) precipitated a major change in the approach to conservation and environmental management by the Treaty Parties. The declaration by Australia and France that they would not sign CRAMRA, followed by New Zealand's decision not to ratify, led to wide-ranging changes which culminated in the agreement in Madrid on the Protocol for Environmental Protection to the Antarctic Treaty in 1991. This Protocol drew upon all previous Antarctic conservation and environmental legislation not already included within the Convention on the Conservation of Antarctic Marine Living Resources (CCAMLR) and the Convention for the Conservation of Antarctic Seals (CCAS).
+
+I.2  Protocol on Environmental Protection to the Antarctic Treaty
+
+The negotiation of the Protocol offered an opportunity to the Treaty Parties to re-organise the provisions dealing with conservation and the environment into a more logical framework. For practical purposes the key requirements were included in a series of Annexes, of which Annex V deals with Area Protection and Management (Appendix 1). In addition to SPAs and SSSIs the Treaty Parties had already adopted, but not approved, two further categories of protected areas. The Specially Reserved Area (SRA) was designed to protect representative areas of outstanding geological, glaciological and geomorphological importance, as well as outstanding examples of aesthetic, scenic and wilderness value. The Multiple-use Planning Area (MPA) was a new concept and dealt with the need to be able to co-ordinate activities within specific areas (often those surrounding research stations) to avoid conflicts of interest between logistics and science, or between the logistic requirements of different countries, and to reduce possible impacts.
+
+Agreement was also reached by the Treaty Parties on the concept of Areas of Special Tourist Interest (ASTI), but no Party has ever made any proposal for such a site. In addition to all of 
+1
+DRAFT
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+these there was a growing number of sites designated as Historic Sites and Monuments. The situation was becoming confused with too many categories for easy management. All of these categories were therefore reconsidered at XVII ATCM and agreement reached on three groups: Antarctic Specially Protected Areas (ASPAs) into which SPAs, SSSIs and SRAs were gathered; Antarctic Specially Managed Areas (ASMAs) which subsumed MPAs; and Historic Sites and Monuments. Both ASPAs and ASMAs require internationally agreed management plans and ASPAs have a compulsory entry permit system. Annex V of the Protocol details each these categories. All new Antarctic Specially Protected Areas will require management plans conforming to Annex V of the Protocol when Annex V comes into force after ratification by all of the 26 Consultative Parties who were signatories to the agreement on the Protocol. It is important to note that Annex V requires separate ratification to the Protocol since it was agreed after the Protocol by means of a Recommendation (XVI-10). Until then the existing provisions apply so that all sites retain their previous category of designation, and for the designation of any new sites to be legally binding they must be declared as either SPA or SSSI until such time as Annex V is in force. It is, however, possible for Parties to accept new sites as ASPAs and adopt them voluntarily until Annex V comes into force. Whilst Annex V, Article 5 clearly indicates that all new ASPAs need to be proposed with a management plan, Article 3 indicates that all SPAs and SSSIs will also automatically become ASPAs. It seems that to fulfil the spirit of the Protocol it would be advantageous if all these previous protected areas have, in due course, management plans that conform to Annex V (see Appendix 5).
+
+I.3  Purpose of this Guide
+
+The purpose of this Guide is to assist anyone involved in preparing protected area management plans. Official Treaty reports make no mention of the country that first proposed each of the protected areas. SCAR scientists have always been closely involved in the designation of areas suitable for protection and in the drafting of the management plans. In order to ensure that, when undertaking revisions of the plans for existing Areas, SCAR scientists know which national groups are likely to be involved, an indicative list of proposed attributions was prepared and circulated to all National Committees (Appendix 5) for information. These have been accepted by SCAR National Committees as a working basis for undertaking revisions of existing plans. SCAR has been keen to develop a uniform style for the writing of plans to make them more straightforward and their application by scientists in the field much simpler.
+
+At XIX ATCM the Parties agreed Annex A to Measure 1 (1995) which adopted the management plan for Moe Island (SPA no. 13, see Appendix 2) .Furthermore, they also adopted Resolution 9 (1995), recommending that the structure of the Management Plan for Moe Island be regarded as a model for all new and revised Management Plans for protected areas for the purposes of Annex V. The following notes provide advice on content, style and quality of protected area management plans and should be useful for all those involved both in the preparation of plans for any Antarctic Specially Protected Area and in their review.
+
+II. Antarctic Specially Protected Areas
+
+II.1  Introduction
+
+In developing the existing system of protected areas there was never any attempt to produce a guide to provide conformity of layout or of the information presented. Scientific reviews of the development of the protected area system (e.g. Smith et al, 1994) have highlighted various features which could be improved. For example, a uniform layout and a standardisation of some of the terminology helps users conform to a plan. To make management of areas effective there is a need to understand both natural and human-induced change; good reporting by each visitor to an Area can provide key information for this. The geographical and ecological coverage of existing protected areas is heavily skewed (Appendix 6) with some categories and areas of the
+
+2
+DRAFT
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+Antarctic poorly represented. Many of these have been incorporated into the new category of 
+ASPA. For example, the description of an ASPA in Annex V, Article 3 allows a very broad basis 
+for designation, incorporating all of the potential inherent in SPA, SSSI and SRA as well as 
+Historic Sites and Monuments with the terms of use regulated by a very precise management 
+plan. In addition, it provides for control of entry by permit and suggests that sites should be 
+chosen within a systematic geographical/environmental framework. An essential feature to re-
+member when producing a management plan is that it will be the basis of legal documents in 
+national legislation.
+
+However, these protected areas are not national protected areas, but international protected ar-
+eas. Each Area must therefore also meet Treaty requirements to be acceptable. It is the purpose 
+of this Guide to help in ensuring that management plans meet the requirements of the Protocol 
+and are also as "user-friendly" and useful as possible for those who have to use them in the 
+Antarctic.
+
+II.2 Format of Management Plan
+
+The following headings and numbering system are based on the structure of the Moe Island plan 
+(Appendix 2). All sections should be included in every plan to retain the numbering sequence 
+and to make it clear that all sections have been addressed. Specific statements should be made 
+where the section is not applicable.
+
+In 1972 the ATCM adopted Recommendation VII-2 which proposed that the Specially Protected 
+Areas should include five categories:
+
+    a) representative examples of the major Antarctic land and freshwater ecological sys-
+       tems;
+
+    b) areas with unique complexes of species;
+
+    c) areas which are the type locality or only known habitat of any plant or invertebrate 
+       species;
+
+    d) areas which contain specially interesting breeding colonies of birds and mammals;
+
+    e) areas which should be kept inviolate so that in future they may be used for purposes 
+       of comparison with localities that have been disturbed by human activities.
+
+SCAR took this as the basis for an analysis of the representativeness of those sites already 
+adopted. Between 1976 and 1992 SCAR developed a matrix framework classifying the terres-
+trial, inland water and marine ecosystems. The latest versions of these matrices are shown in 
+Appendix 6. Bonner and Smith (1985) recognised that in an ideal situation every cell of each 
+matrix would be represented by one or more conservation areas, preferably distributed in differ-
+ent geographical regions. Since existing protected areas may be ascribed to more than one 
+ecosystem cell the present coverage shows some habitats are much better represented than oth-
+ers. Much more detail on the matrices is provided by Smith (1994). In considering any new 
+proposal for a protected area it might be useful to answer the following questions:
+
+    i) Are there already good examples of this category represented within other geographi-
+       cal regions of the Antarctic?
+
+   ii) What is the minimum size for this particular ASPA (with the exception of islands, 
+       nunataks, etc.)?
+
+  iii) Is there a need for buffer zones around this protected area?
+
+   iv) Is there a need for biological/environmental baseline monitoring?
+
+1. Description of Values to be Protected
+
+This section of the plan is of the greatest importance and requires very careful consideration. All 
+of the following sections rely on a clear description of the values to be protected. There are a 
+number of specific questions that must be answered by this section:
+DRAFT
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+1. If this plan is for an existing site:
+    - when was the site originally designated (give ATCM meeting number, year and 
+      Recommendation number),
+    - by which country was it proposed,
+    - in what category (SPA, SSSI, SRA) and for what original reasons?
+    - are those reasons still relevant and have there been any significant changes within 
+      the site or in nearby areas which might affect the reasons for designation?
+
+2. For all sites, existing and new, describe precisely the value(s) to be protected under the 
+   new designation.
+
+3. Analysis of the coverage, both geographical and ecological, of existing protected areas is 
+   shown in the matrices in Appendix 6. Authors of any new plans should consider to which 
+   cells in the matrix the new protected area would contribute.
+
+4. The final paragraph of this section should summarise the key values.
+
+2. Aims and Objectives
+
+This section describes how management will be focused to achieve protection of the values 
+described above. It is suggested that for clarity these could be declared in a style using bullet 
+points. For example:
+
+Management of ... aims to:
+    - avoid major changes
+    - prevent unnecessary disturbance
+    - allow research
+
+These points should include statements on what is prohibited, should be avoided or prevented as 
+well as what is allowed. If the Area contains a marine component CCAMLR have requested that 
+the following objective is included:
+    - Ensure protection to research which contributes to the objectives of CCAMLR.
+
+3. Management activities
+
+The description of management activities must relate clearly to the objectives for which the site 
+was designated. It is important that management activities would only be undertaken to protect 
+the values of the site. Under the Protocol and Annex V there is the possibility of direct interven-
+tion in pursuit of management objectives. However, any such direct management would have to 
+be subjected to prior Environmental Impact Assessment before a decision could be taken. Con-
+sultation with all other interested parties would be strongly recommended before any active 
+management is undertaken. Several of the existing SSSIs contain huts and other structures 
+which are owned by particular countries. If management activities are to be undertaken in 
+support of these structures or if they are to be used to support management activities on the rest 
+of the Area that should also be specified in the plan. It is essential that ownership of these 
+structures is clearly indicated in the plan and, if possible, how permission can be obtained to use 
+them. It is also necessary to ensure that adequate consultation has been undertaken with the 
+owners before submitting the management plan. It is recognised that activities and structures 
+outside the boundary of an Area may influence the attainment of management objectives within 
+the Area. Consultation with those responsible for such activities or structures may be required. 
+Such structures should be indicated on the maps where appropriate. Any defined effects should 
+be described in Section 6 (1)
+
+4
+DRAFT
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+4. Period of Designation
+
+The expectation is that any site will now be designated for an indefinite period unless very specific reasons are given in this section for a shorter period of designation. This is in recognition of the requirement that the management plans for all sites be reconsidered by the ATCM on a regular basis, with a review at least every five years.
+
+5. Maps and Illustrations
+
+Maps are a critical component of any plan. Several maps may be necessary for a given plan but the minimum is likely to be two: one showing the general area in which the Area is situated, as well as the position of all nearby protected areas; and a second map to illustrate the details of the site for those wishing to enter it. It is essential that the maps clearly indicate the boundary of the Area, otherwise it may be difficult to ensure that people do not inadvertently enter the Area.
+
+The following requirements for maps are based on the presumption that new maps will be drawn to cartographic standards and that accurate Global Positioning System (GPS) positions will be obtained to ensure locational accuracy. To help in reviewing completeness of maps a checklist of features is included as Appendix 3.
+
+1. All maps should include latitude and longitude as well as having scale bars. Avoid ratio scales - enlargement/reduction renders them useless. The spheroid (e.g. WGS 84) or reference framework used should be indicated as text beneath the scale bar.
+
+2. The importance of GPS for fixing positions cannot be overestimated. Over past years it has become clear that the original positioning of some of the sites is highly suspect. The opportunity to revise the plan for each site is an opportunity to use GPS, to provide clear locational information on boundaries. It is strongly recommended that plans are not submitted without such information.
+
+3. It is important to use the latest coastline and glacier front data. Ice recession and advance continues to affect many areas with consequent changes to site boundaries. If an ice front is used as a boundary the date of the survey should be given.
+
+4. A map should show any specified routes, any restricted zones proposed, boat and/or helicopter landing sites and access points, camp-sites, installations and huts, major animal concentrations and breeding sites, any extensive areas of vegetation and should clearly delineate between ice/snow and ice-free ground. In many instances it is useful to include a geological map of the Area. It is suggested that, in most cases, it is helpful to have contouring at an appropriate interval on all maps of the Area.
+
+5. Be aware when preparing the map that it will be reduced to about 150 x 200 mm size to fit into the ATCM official report. This is of importance in selecting the size of symbols, the closeness of contouring and the use of shading. Reproduction is always monochrome so do not use colours to distinguish features in the original as these may be lost when photocopied. There may well be other versions of an Area map available but as far as the legal status of the management plan is concerned it is the version published in the Final Report of the Antarctic Treaty Consultative Meeting that is the definitive version which will be in included in national legislation. For this purpose some Parties have already indicated that a simple map, showing none of the management features but simply the location, boundaries, scale, N direction etc., would be very welcome.
+
+6. Photographs can be a valuable aid to using the plan in the field. Remember that good contrast prints are essential for adequate reproduction. Screening or digitising of photographs will improve reproduction when the plan is photocopied.
+
+5
+DRAFT
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+7. Some plans have already used 3-dimensional terrain models which again can provide 
+important locational information when approaching a site, especially by helicopter. Such 
+drawings need careful design if they are not to become confusing when reduced.
+
+8. If the Area will require evaluation by CCAMLR the location of nearby CEMP sites should 
+be indicated. CCAMLR has requested that the location of bird and seal colonies (for 
+penguins and seals) and the access routes from the sea should be indicated on the map 
+wherever possible.
+
+6.    Description of the Area
+This section requires especially careful drafting since the information it contains can be of great 
+value in assessing changes in the state of the site, as well as providing prior warning to users of 
+features of particular sensitivity. The information given on the Area must relate adequately to 
+those features of the Area to be protected.
+
+6 (i) Geographical coordinates, boundary markers and natural features
+
+This section contains three types of information: physiography (including position, bounda-
+ries and topography); physical features (including geology, geomorphology, pedology, 
+hydrology and glaciology); and biology (including plants, invertebrates, birds, seals and 
+relevant benthic communities). It is important if possible to use a boundary which is easy 
+to follow at any time of the year. This is often difficult because of snow cover in winter 
+but at least in summer it should be possible for the visitor to determine the limits of the 
+Area easily. For Areas in locations visited by tourists this is especially important to ensure 
+that they do not enter the Area by accident. In a period of glacial recession or advance 
+choosing the edge of a snow field or a glacier front for a static boundary is not wise as, 
+with no other markers present, it may prove impossible to determine the site boundaries 
+etc. with any degree of accuracy. If possible use clearly visible rock features whose posi-
+tion can be determined with some precision.
+
+The location of the site must be described by latitude and longitude co-ordinates; accuracy 
+should be to within minutes, preferably to seconds for very small sites. If possible make 
+specific reference to published maps or charts to delineate the site boundaries clearly on 
+the map. State the method and accuracy of survey and mapping methods used and give 
+the name of the agency producing the map. It is important to remember that published 
+maps may not agree precisely with the details shown on any new maps you make for the 
+site. It may be advisable to install boundary markers in some sites where natural markers 
+are not available. There are often several names in use for particular places or features and 
+this can cause confusion for those wishing to use the Area.
+
+Only place-names approved by a Consultative Party should be used in this section of the 
+text of the Management Plan, and all names referred to in the text should be shown on the 
+maps accompanying the plan. If at all possible do not use unofficial place names as these 
+can lead to confusion. If in doubt consult the gazetteers published by several Consultative 
+Parties to determine the acceptable name(s) for particular features. To help in relating the 
+various officially approved names for certain places, the SCAR Working Group on Geod-
+esy and Geographic Information is developing a Composite Gazetteer of Antarctica. If 
+you need new place names it is suggested that you apply for acceptance of these to the 
+appropriate national committee before submitting the plans.
+
+An accurate and brief description of the local topography should include notes on the 
+permanent snow/ice, a brief summary of the geology and geomorphology (including any 
+patterned ground if appropriate) and any water bodies (lakes/pools/streams). An accurate 
+and brief description of major plant and microbial (algal) communities on land or in fresh-
+6
+DRAFT
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+water which should include comments on how representative these communities are of 
+the region. If the site is designated for its vegetation more details should be provided as 
+appropriate.
+
+In describing bird or seal colonies it is important to provide any available data on animal 
+numbers (which should include the date of the census), and the location of nesting or haul 
+out sites should be indicated on the map. If it is important to leave them undisturbed (for 
+example during the breeding season) it is necessary to define clearly any areas of re-
+stricted access with timing and reasons for limitations. There may also be information 
+available on the invertebrates present.
+
+If the site has important fossil remains it may also be appropriate to describe them.
+
+6 (ii) Restricted zones within the Area
+
+Before declaring restricted zones within a site extensive consultation with a variety of 
+potential users of the site is advisable. The restrictions, which could vary from limiting 
+access to a bird colony during breeding to a complete prohibition of entry by anyone to a 
+part of the Area for a fixed period, need to be fully justified and linked firmly to the 
+reasons for designation of the Area. Restrictions on access to particular parts of the Area 
+might be needed, for example to avoid disturbance to breeding birds or seals, damage to 
+plant communities, or the possibility of inadvertent introduction of alien organisms. There 
+might be a need to restrict or ban particular activities throughout the Area, for example to 
+avoid destructive sampling from an area, or avoid seismic shooting in the area. If any of 
+these restrictions or prohibitions affect CCAMLR research there will be a need to seek 
+comments from CCAMLR.
+
+6 (iii) Location of structures within the Area
+
+It is essential to describe and accurately locate all structures within an Area. These include 
+boundary markers, sign boards, cairns, huts, depots, etc. Where possible the time when 
+the structures were erected should be given. It is always useful to indicate, if known, to 
+which country they belong.
+
+6 (iv) Location of other Protected Areas within close proximity
+
+There is no guidance as to what constitutes "close proximity". Up to 50 km has been used 
+in plans accepted so far. All such protected areas must be shown on a general location 
+map. Each area should be given by name and number together with its approximate dis-
+tance in km and direction from the Area considered in this management plan.
+
+7.    Permit Conditions
+
+Permits may be issued only by appropriate national authorities. These differ from country to 
+country. In most cases there are expected to be a number of general conditions that apply to the 
+issue of a permit viz.:
+
+•    it is issued only for purposes defined within the Aims and Objectives of the plan
+•    the actions allowed are not likely to jeopardise the natural ecological system or scientific 
+values of the Area
+•    any management activities allowed are directly in support of the objectives of the Man-
+agement Plan
+•    Permits are issued for a stated period only.
+
+7 (i) Access to and movement within the Area
+
+In this section it is necessary to describe clearly all acceptable entry points to the Area and 
+any routes within it that must be followed to protect the values of the Area. These need to
+7
+DRAFT
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+be indicated on the map. Access should cover entry by foot, by vehicle, by boat, by 
+helicopter and by fixed wing aircraft as appropriate. It may be useful to limit boat access 
+to a principal point but it is necessary to consider where access could be achieved if the 
+principal point is blocked by ice. If there are structures, e.g. huts, outside the Area which 
+can be used to support activities within the Area these should be described here. For 
+helicopters it is usual to have a marked landing area which should always, if possible, be 
+outside the site. The use of smoke canisters and other wind indicators may be required for 
+safety reasons and it is always better for this localised pollution to occur outside the boundary 
+of the Area. Helicopter access routes should be defined and marked on the maps. The 
+minimum height at which over-flight is allowed must be related to the values of the Area 
+to be preserved (for flora and fauna see Protocol Annex II, Article (h)(i)).
+
+7 (ii) Activities that are or may be conducted within the Area, including restrictions on time 
+and place.
+
+This section provides the opportunity for defining access limits with respect to the objec-
+tives of the site. For example, it may be necessary to avoid all access during the breeding 
+season, other than by ornithologists, during the breeding season to an Area protecting bird 
+populations.
+
+7 (iii) Installation, modification or removal of structures
+
+There is a suggested wording which covers the general case:
+
+"No structures are to be erected, modified or removed from the Area, or scientific equipment in-
+stalled, except for essential scientific or management activities as specified in the Permit".
+
+There is considerable potential for confusion in those Areas subject to multiple use by a 
+number of scientific groups. It may be useful to require that all scientific equipment 
+installed on the site is marked with the date of installation and the principal investigator's 
+name and country.
+
+7 (iv) Location of field camps
+
+Areas vary greatly in their accessibility and it has been common practice in some Areas to 
+use huts within the Area to live in or to camp alongside. This may still be the proposed or 
+even the only way to organise effective access, but if so the hut or camp-site should be 
+specified and marked on the maps. In general it is probably better to avoid camping inside 
+the Area but, if this proves essential for reasons of safety, the tents should be erected with 
+regard to causing the least possible disturbance to the Area. It may be that accommoda-
+tion will normally be available at a nearby research station by prior application; if so make 
+this clear.
+
+7 (v) Restrictions on materials and organisms which may be brought into the Area
+
+This section must lay out clearly any prohibitions and give clear guidance on the manage-
+ment of materials, either logistic or scientific, left in the Area. There should be a complete 
+prohibition on the introduction of non-native living plants and animals, poultry products, 
+herbicides and pesticides. It may be necessary to bring other chemicals into the Area, for 
+research or management purposes, but clear guidance needs to be given on how they must 
+be used and removed, and possibly where and how they should be stored whilst in the 
+Area.
+
+7 (vi) Taking or harmful interference with native flora and fauna
+
+Interaction with and sampling of the native flora and fauna is dealt with in detail by Annex 
+II of the Protocol. For the purposes of the Plan the following wording is suggested unless
+8
+DRAFT
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+there are specific reasons for other statements:
+
+"This is prohibited, except in accordance with a Permit. Where animal taking or harmful interference is involved this should be in accordance with the SCAR Code of Conduct for the Use of Animals for Scientific Purposes in Antarctica, as a minimum standard."
+
+The SCAR Code of Conduct is shown in Appendix 7.
+
+7 (vii) Collection and removal of anything not brought into the Area by the Permit Holder
+
+Normally it will only be possible to remove material from an Area as specified in the Permit. However, it is recognised that unwanted material may be accidentally introduced and these can be removed although not specified in the Permit. The suggested wording is:
+
+"Material may be collected and removed from the Area only in accordance with a Permit. Material of human origin, not brought into the Area by the permit holder but which is likely to compromise the values of the Area, may be removed from any part of the Area."
+
+7 (viii)  Disposal of waste
+
+Specific instructions need to be provided for wastes. The expectation should be that all wastes will be removed from the Area. If this is not to be the case, specific reasons need to be given. Human wastes can, in some cases, be disposed of into the sea or a crevasse but if possible it would be better to remove these as well. In Areas with a marine component it is not advisable to dispose of human wastes into the sea.
+
+7 (ix) Measures that may be necessary to ensure that the aims and objectives of the Management Plan continue to be met
+
+This section allows for the issue of permits for activities that are not specifically scientific but are associated with the management of the Area. For example, it might be important to allow permits to be issued for inspections to assess change or damage, to allow for the repair of boundary markers or huts, to take small amounts of material for monitoring or review purposes etc. In some sites of particular sensitivity it may be necessary to provide for special precautions to reduce the risk of introducing alien species. This may be particularly the case with those sites designated for their microbial flora. In these instances it may be thought necessary to require that all boots be cleaned before entering the Area, or that sterile clothing should be worn within the Area.
+
+II.3    Requirements for reports
+
+As outlined earlier there are both scientific and management needs for visit reporting. The information contained in these reports will provide the basis on which the regular reviews of the Plan can be undertaken by the ATCM and will inform others wishing to use the Area about the previous activities. A suggested wording for this section is:
+
+"Parties should ensure that the principal holder for each permit issued shall submit to the appropriate authority a report describing the activities undertaken. Such reports should include, as appropriate, the information identified in the Visit Report form suggested by SCAR. Parties should maintain a record of such activities and, in the Annual Exchange of Information, should provide summary descriptions of activities conducted by persons subject to their jurisdiction, in sufficient detail to allow evaluation of the effectiveness of the management plan. Parties should, wherever possible, deposit originals or copies of such reports in a publicly accessible archive to maintain a record of usage, to be used both in any review of the management plan and in organising the scientific use of the Area."
+
+See Appendix 4 for the Visit Report format accepted by the Treaty Parties as providing the necessary information for management and record purposes.
+
+9
+DRAFT
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+III. Present review process for draft plans from origination to ATCM acceptance
+
+The way in which management plans are handled from drafting to acceptance is at present based on thirty years of accepted practice. Annex V, Article 6 now provides some outline guidance on the latter part of the process. The ATCM decided, when considering the first protected areas proposed, that it would prefer to have the plans examined beforehand by SCAR and formally endorsed if scientifically acceptable. Much of this work was undertaken by the SCAR Biology Working Group through its Subcommittee on Conservation. The work of this subcommittee has now been taken over by the Group of Specialists on Environmental Affairs and Conservation (GOSEAC). Current practice is as follows:
+
+1. The new or revised plan is prepared by a group of scientists familiar with the site; where the site is in multi-national use the group should circulate the draft between the scientists with a direct interest. Adequate international consultation at this first stage is vital in ensuring a smooth passage through the various committees.
+
+2. The draft plan is sent to SCAR for comment either by a National SCAR Committee or, with the approval of such a committee, directly by the scientists involved in the drafting.
+
+3. The draft plan is examined first by GOSEAC. GOSEAC normally meets in June or July each year and requires the plan at least one month before its meeting. Comments are provided directly to the proposer(s) shortly after the meeting. If the plan appears to meet the scientific and technical requirements of Annex V, except for very minor changes, GOSEAC will pass it on to SCAR with a recommendation that it be endorsed once the minor corrections have been made. If there are serious problems it is sent back with suggestions on how it could be revised to meet the scientific requirements. It is normally expected that it will be resubmitted after revision.
+
+4. After GOSEAC, the draft plan goes to the Chairman of appropriate Working Groups (normally Biology, Geology and Geophysics) for further comment and then to Delegates for endorsement in those years when a SCAR meeting is held. In the intervening years the draft plans go to SCAR Executive Committee for endorsement.
+
+5. If the plan contains a substantive marine component it is necessary for the proposers to gain the approval of CCAMLR. The appropriate committee within the CCAMLR structure is the Ecosystem Monitoring and Management Committee which meets in July or August, and expects to receive draft plans at least 3 months prior to this. CCAMLR normally meets in October but its committees may meet at other times in the year.
+
+6. At present the revised plan is finally presented at the ATCM by the delegation of the Consultative Party proposing the Area, along with the statement that the plan has been seen and endorsed by SCAR and CCAMLR (where appropriate). In future the draft plan will be presented first to the CEP. The ATCM itself may require some further changes but this is unusual and is unlikely to be a serious problem if adequate international consultation has been undertaken at the earlier stages. Proposals for new ASPAs are normally only made by Consultative Parties. When Annex V of the Protocol is finally in force it will be possible for SCAR and CCAMLR to make proposals directly to the ATCM for new ASPAs to ensure that protection is provided for any site determined as being of key scientific importance. Whilst this may seem a rather prolonged process with many critical checks it must be remembered that the plans, when finally accepted, become international documents requiring conformity from the nationals of 43 countries. The ATCM has so far not accepted a management plan for a protected area that has not been previously endorsed by SCAR.
+
+10
+DRAFT
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS                                  Appendix 1
+
+ANNEX V
+TO THE PROTOCOL ON ENVIRONMENTAL PROTECTION
+TO THE ANTARCTIC TREATY
+AREA PROTECTION AND MANAGEMENT
+
+ARTICLE 1
+DEFINITIONS
+
+For the purposes of this Annex:
+a) appropriate authority" means any person or
+   agency authorised by a Party to issue permits
+   under this Annex;
+b) "permit" means a formal permission in writ-
+   ing issued by an appropriate authority;
+c) "Management Plan" means a plan to manage
+   the activities and protect the special value or
+   values in an Antarctic Specially Protected Area
+   or an Antarctic Specially Managed Area.
+
+(f) examples of outstanding geological,
+   glaciological or geomorphological features;
+(g) areas or outstanding aesthetic and wilderness
+   value;
+(h) sites or monuments of recognised historic
+   value; and
+(i) such other areas as may be appropriate to pro-
+   tect the values set out in paragraph 1 above.
+
+ARTICLE 2
+OBJECTIVES
+
+For the purposes set out in this Annex, any area, includ-
+ing any marine area, may be designated as an Antarctic
+Specially Protected Area or an Antarctic Specially Man-
+aged Area. Activities in those Areas shall be prohibited,
+restricted or managed in accordance with Management
+Plans adopted under the provisions of this Annex.
+
+3. Specially Protected Areas and Sites of Special Sci-
+   entific Interest designated as such by past Antarc-
+   tic Treaty Consultative Meetings are hereby desig-
+   nated as Antarctic Specially Protected Areas and
+   shall be renamed and renumbered accordingly.
+4. Entry into an Antarctic Specially Protected Area
+   shall be prohibited except in accordance with a
+   permit issued under Article 7.
+
+                                  ARTICLE 4
+                  ANTARCTIC SPECIALLY MANAGED AREAS
+
+1. Any area, including any marine area, where activi-
+   ties are being conducted or may in the future be
+   conducted, may be designated as an Antarctic Spe-
+   cially Managed Area to assist in the planning and
+   co-ordination of activities, avoid possible conflicts,
+   improve co-operation between Parties or minimise
+   environmental impacts.
+
+ARTICLE 3
+ANTARCTIC SPECIALLY PROTECTED AREAS
+
+1. Any area, including any marine area, may be des-
+   ignated as an Antarctic Specially Protected Area to
+   protect outstanding environmental, scientific, his-
+   toric, aesthetic or wilderness values, any combina-
+   tion of those values, or ongoing or planned scien-
+   tific research.
+
+2. Antarctic Specially Managed Areas may include:
+   (a) areas where activities pose risks of mutual in-
+       terference or cumulative environmental im-
+       pacts; and
+   (b) sites or monuments of recognised historic
+       value.
+
+2. Parties shall seek to identify, within a systematic
+   environmental-geographical framework, and to in-
+   clude in the series of Antarctic Specially Protected
+   Areas:
+
+   (a) areas kept inviolate from human interference
+       so that future comparisons may be possible
+       with localities that have been affected by hu-
+       man activities;
+   (b) representative examples of major terrestrial,
+       including glacial and aquatic, ecosystems and
+       marine ecosystems;
+   (c) areas with important or unusual assemblages
+       of species, including major colonies of breed-
+       ing native birds or mammals;
+   (d) the type locality or only known habitat of any
+       species;
+   (e) areas of particular interest to ongoing or
+       planned scientific research;
+
+3. Entry into an Antarctic Specially Managed Area
+   shall not require a permit.
+
+4. Notwithstanding paragraph 3 above, an Antarctic
+   Specially Managed Area may contain one or more
+   Antarctic Specially Protected Areas, entry into
+   which shall be prohibited except in accordance with
+   a permit issued under Article 7.
+
+                                  ARTICLE 5
+                           MANAGEMENT PLANS
+
+1. Any Party, the Committee, the Scientific Commit-
+   tee for Antarctic Research or the Commission for
+   the Conservation of Antarctic Marine Living Re-
+   sources may propose an area for designation as an
+   Antarctic Specially Protected Area or an Antarctic
+   Specially Managed Area by submitting a proposed
+                                                                             11
+DRAFT
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+Management Plan to the Antarctic Treaty Consulta-
+tive Meeting.
+
+2. The area proposed for designation shall be of suffi-
+cient size to protect the values for which the spe-
+cial protection or management is required.
+
+3. Proposed Management Plans shall include, as ap-
+propriate:
+
+(a) a description of the value or values for which
+special protection or management is required;
+
+(b) a statement of the aims and objectives of the
+Management Plan for the protection or man-
+agement of those values;
+
+(c) management activities which are to be under-
+taken to protect the values for which special
+protection or management is required;
+
+(d) a period of designation, if any;
+
+(e) a description of the area, including:
+
+       (i) the geographical co-ordinates, boundary
+           markers and natural features that delin-
+           eate the area;
+
+      (ii) access to the area by land, sea or air in-
+           cluding marine approaches and anchor-
+           ages, pedestrian and vehicular routes
+           within the area, and aircraft routes and
+           landing areas;
+
+     (iii) the location of structures, including sci-
+           entific stations, research or refuge facili-
+           ties, both within the area and near to it;
+           and
+
+     (iv) the location in or near the area of other
+           Antarctic Specially Protected Areas or
+           Antarctic Specially Managed Areas des-
+           ignated under this Annex, or other pro-
+           tected areas designated in accordance
+           with measures adopted under other com-
+           ponents of the Antarctic Treaty System;
+
+(f) the identification of zones within the area, in
+which activities are to be prohibited, restricted
+or managed for the purpose of achieving the
+aims and objectives referred to in
+subparagraph (b) above;
+
+(g) maps and photographs that show clearly the
+boundary of the area in relation to surround-
+ing features and key features within the area;
+
+(h) supporting documentation;
+
+(i) in respect of an area proposed for designation
+as an Antarctic Specially Protected Area, a
+clear description of the conditions under which
+permits may be granted by the appropriate
+authority regarding:
+
+       (i) access to and movement within or over
+           the area;
+
+      (ii) activities which are or may be conducted
+           within the area, including restrictions on
+           time and place;
+
+     (iii) the installation, modification, or removal
+           of structures;
+
+     (iv) the location of field camps;
+
+      (v) restrictions on materials and organisms
+           which may be brought into the area;
+
+     (vi) the taking of or harmful interference with
+           native flora and fauna;
+
+    (vii) the collection or removal of anything not
+           brought into the area by the permit
+           holder;
+
+   (viii) the disposal of waste;
+
+     (ix) measures that may be necessary to en-
+           sure that the aims and objectives of the
+           Management Plan can continue to be
+           met; and
+
+      (x) requirements for reports to be made to
+           the appropriate authority regarding vis-
+           its to the area;
+
+(j) in respect of an area proposed for designation
+as an Antarctic Specially Managed Area, a
+code of conduct regarding:
+
+       (i) access to and movement within or over
+           the area;
+
+      (ii) activities which are or may be conducted
+           within the area, including restrictions on
+           time and place;
+
+     (iii) the installation, modification, or removal
+           of structures;
+
+     (iv) the location of field camps;
+
+      (v) the taking of or harmful interference with
+           native flora and fauna;
+
+     (vi) the collection or removal of anything not
+           brought into the area by the visitor;
+
+    (vii) the disposal of waste; and
+
+   (viii) any requirements for reports to be made
+           to the appropriate authority regarding
+           visits to the area; and
+
+(k) provisions relating to the circumstances in
+which Parties should seek to exchange infor-
+mation in advance of activities which they
+propose to conduct.
+
+ARTICLE 6
+DESIGNATION PROCEDURES
+
+1. Proposed Management Plans shall be forwarded to
+the Committee, the Scientific Committee on Ant-
+arctic Research and, as appropriate, to the Com-
+mission for the Conservation of Antarctic Marine
+Living Resources. In formulating its advice to the
+Antarctic Treaty Consultative Meeting, the Com-
+mittee shall take into account any comments pro-
+vided by the Scientific Committee on Antarctic
+Research and, as appropriate, by the Commission
+for the Conservation of Antarctic Marine Living
+Resources. Thereafter Management Plans may be
+approved by the Antarctic Treaty Consultative Par-
+
+
+12
+DRAFT
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+ties by a measure adopted at an Antarctic Treaty Consultative Meeting in accordance with Article IX(1) of the Antartic Treaty. Unless the measure specifies otherwise, the Plan shall be deemed to have been approved 90 days after the close of the Antarctic Treaty Consultative Meeting at which it was adopted, unless one or more of the Consultative Parties notifies the Depositary, within that time period, that it wishes an extension of that period or is unable to approve the measure.
+
+2. Having regard to the provisions of Articles 4 and 5 of the Protocol, no marine area shall be designated as an Antarctic Specially Protected Area or an Antarctic Specially Managed Area without the prior approval of the Commission for the Conservation of Antarctic Marine Living Resources.
+
+3. Designation of an Antarctic Specially Protected Area or an Antarctic Specially Managed Area shall be for an indefinite period unless the Management Plan provides otherwise. A review of a Management Plan shall be initiated at least every five years. The Plan shall be updated as necessary.
+
+4. Management Plans may be amended or revoked in accordance with paragraph 1 above.
+
+5. Upon approval Management Plans shall be circulated promptly by the Depositary to all Parties. The Depositary shall maintain a record of all currently approved Management Plans.
+
+ARTICLE 7
+PERMITS
+
+1. Each Party shall appoint an appropriate authority to issue permits to enter and engage in activities within an Antarctic Specially Protected Area in accordance with the requirements of the Management Plan relating to that Area. The permit shall be accompanied by the relevant sections of the Management Plan and shall specify the extent and location of the Area, the authorised activities and when, where and by whom the activities are authorised and any other conditions imposed by the Management Plan.
+
+2. In the case of a Specially Protected Area designated as such by past Antarctic Treaty Consultative Meeting which does not have a Management Plan, the appropriate authority may issue a permit for a compelling scientific kpurpose which cannot be served elsewhere and which will not jeopardise the natural ecological system in that Area.
+
+3. Each Party shall require a permit-holder to carry a copy of the permit while in the Antarctic Specially Protected Area concerned.
+
+ARTICLE 8
+HISTORIC SITES AND MONUMENTS
+
+1. Sites or monuments of recognised historic value which have been designated as Antarctic Specially Protected Areas or Antarctic Specially Managed
+
+Areas, or which are located within such Areas, shall be listed as Historic Sites and Monuments.
+
+2, Any Party may propose a site or monument of recognised historic value which has not been designated as an Antarctic Specially Protected Area or an Antarctic Specially Managed Area, or which is not located within such an Area, for listing as a Historic Site or monument. The proposal for listing may be approved by the Antarctic Treaty Consultative Parties by a measure adopted at an Antarctic Treaty Consultative Meeting in accordance with Article IX(1) of the Antarctic Treaty. Unless the measure specifies otherwise, the proposal shall be deemed to have been approved 90 days after the close of the Antarctic Treaty Consultative Meeting at which it was adopted, unless one or more of the Consultative Parties notifies the Depositary, within that time period, that it wishes an extension of that period or is unable to approve the measure.
+
+3. Existing Historic Sites and Monuments which have been listed as such by previous Antarctic Treaty Consultative Meetings shall be included in the list of Historic Sites and Monuments under this Article.
+
+4. Listed Historic Sites and Monuments shall not be damaged, removed or destroyed.
+
+5. The list of Historic Sites and Monuments may be amended in accordance with paragraph 2 above. The Depositary shall maintain a list of current Historic Sites and Monuments.
+
+ARTICLE 9
+INFORMATION AND PUBLICITY
+
+1. With a view to ensuring that all persons visiting or proposing to visit Antarctica understand and observe the provisions of this Annex, each Party shall make available information setting forth, in particular:
+
+(a) the location of Antarctic Specially Protected Areas and Antarctic Specially Managed Areas;
+
+(b) listing and maps of those Areas;
+
+(c) the Management Plans, including listings of prohibitions relevant to each Area;
+
+(d) the location of Historic Sites and Monuments and any relevant prohibition or restriction.
+
+2. Each Party shall ensure that the location and, if possible, the limits, of Antarctic Specially Protected Areas, Antarctic Specially Managed Areas and Historic Sites and Monuments are shown on its topographic maps, hydrographic charts and in other relevant publications.
+
+3. Parties shall co-operate to ensure that, where appropriate, the boundaries of Antarctic Specially Protected Areas, Antarctic Specially Managed Areas and Historic Sites and Monuments are suitably marked on the site.
+DRAFT
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+ARTICLE 10
+EXCHANGE OF INFORMATION
+
+1. The Parties shall make arrangements for:
+       (a) collecting and exchanging records, including records of permits and reports of visits, includ-
+           ing inspection visits, to Antarctic Specially 
+           Protected Areas and reports of inspection vis-
+           its to Antarctic Specially Managed Areas;
+       (b) obtaining and exchanging information on any 
+           significant change or damage to any Antarctic 
+           Specially Managed Area, Antarctic Specially 
+           Protected Area or Historic Site or Monument;
+           and
+       (c) establishing common forms in which records 
+           and information shall be submitted by Parties 
+           in accordance with paragraph 2 below.
+
+2. Each Party shall inform the other Parties and the 
+   Committee before the end of November of each 
+   year of the number and nature of permits issued 
+   under this Annex in the preceding period of 1st July 
+   to 30th June.
+
+3. Each Party conducting, funding or authorising re-
+   search or other activities in Antarctic Specially Pro-
+   tected Areas or Antarctic Specially Managed Ar-
+   eas shall maintain a record of such activities and in 
+   the annual exchange of information in accordance 
+   with the Treaty shall provide summary descriptions 
+   of the activities conducted by persons subject to its 
+   jurisdiction in such areas in the preceding year
+
+4. Each Party shall inform the other Parties and the 
+   Committee before the end of November each year 
+   of measures it has taken to implement this Annex, 
+   including any site inspections and any steps it has 
+   taken to address instances of activities in contra-
+   vention of the provisions of the approved Manage-
+   ment Plan for an Antarctic Specially Protected Area 
+   or Antarctic Specially Managed Area.
+
+ARTICLE 12
+AMENDMENT OR MODIFICATION
+
+1. This Annex may be amended or modified by a 
+   measure adopted in accordance with Article IX(1) 
+   of the Antarctic Treaty. Unless the measure speci-
+   fies otherwise, the amendment or modification shall 
+   be deemed to have been approved, and shall be-
+   come effective, one year after the close of the Ant-
+   arctic Treaty Consultative Meeting at which it was 
+   adopted, unless one or more of the Antarctic Treaty 
+   Consultative Parties notifies the Depositary, within 
+   that time period, that it wishes an extension of that 
+   period or that it is unable to approve the measure.
+
+2. Any amendment or modification of this Annex 
+   which becomes effective in accordance with para-
+   graph 1 above shall thereafter become effective as 
+   to any other Party when notice of approval by it 
+   has been received by the Depositary.
+
+Appendix 2
+
+Annex A to Measure 1 (1995)
+Management Plan, for Specially Protected Area (SPA) No. 13
+
+MOE ISLAND, SOUTH ORKNEY ISLANDS
+
+1. Description of Values to be Protected
+
+The Area was originally designated in Recommenda-
+tion IV-13 (1966, SPA No 13) after a proposal by the 
+United Kingdom on the grounds that Moe Island pro-
+vided a representative sample of the maritime Antarctic 
+ecosystem, that intensive experimental research on the 
+neighbouring Signy Island might alter its ecosystem and 
+that Moe Island should be specially protected as a con-
+trol area for future comparison.
+
+These grounds are still relevant. Whilst there is no 
+evidence that research activities at Signy Island have 
+significantly altered the ecosystems there, a major change 
+has occurred in the low-altitude terrestrial system as a 
+result of the rapidly expanding fur seal (Arctocephalus 
+gazella) population. Plant communities on nearby Signy 
+Island have been physically disrupted by trampling by
+
+fur seals and nitrogen enrichment from the seals' ex-
+creta has resulted in replacement of bryophytes and li-
+chens by the macro-alga Prasiola crispa. Low-lying 
+lakes have been significantly affected* by enriched run-
+off from the surrounding land. So far Moe Island has 
+not been invaded by fur seals to any great extent and its 
+topography makes it less likely that seals will penetrate 
+to the more sensitive areas.
+
+The values to be protected are those associated with 
+the biological composition and diversity of a near-pris-
+tine example of the maritime Antarctic terrestrial and 
+littoral marine ecosystems. In particular, Moe Island 
+contains the greatest continuous expanses of 
+Chorisodontium-Polytrichum moss turf found in the 
+Antarctic. Moe Island has been visited on few occa-
+sions and has never been the site of occupation for peri-
+ods of more than a few hours.
+DRAFT
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+2. Aims and Objectives
+Management of Moe Island aims to:
+- avoid major changes to the structure and composition of the terrestrial vegetation, in particular the moss turf banks;
+- prevent unnecessary human disturbance to the Area;
+- permit research of a compelling scientific nature which cannot be served elsewhere, particularly research related to determining the differences between the ecology of an undisturbed island and that of an adjacent occupied and fur seal perturbed island.
+
+3. Management Activities
+Ensure that the biological condition of Moe Island is adequately monitored, preferably by non-invasive methods, and that the sign-boards are serviced.
+
+If fur seals were to gain access to the interior of Moe Island it would be necessary to take action to prevent damage to the vulnerable moss banks. This action would most likely consist of the erection of a seal-proof fence at the head of the gully at the north-east of Landing Cove.
+Any direct management activities in the Area would be subject to an environmental impact assessment before any decision to proceed is taken.
+
+4. Period of Designation
+Designated for an indefinite period.
+
+5. Maps
+Map 1 shows the location of Moe Island in relation to the South Orkney Islands. Map 2 shows Moe Island in greater detail.
+
+6. Description of the Area
+
+6 (i) Geographical coordinates boundary markers and natural features
+Moe Island, South Orkney Islands, is a small irregularly-shaped island lying 300 m off the south-western extremity of Signy Island, from which it is separated by Fyr Channel. It is about 1.3 km from the north-east to south-west and 1 km from north-west to south-east. Its position on Admiralty Chart No 1775, latitude 60°44'S, longitude 45°45'W, does not agree closely with that in Map 2 (lat. 60°44'S, long. 45°41'W).
+
+The island rises precipitously on the north-eastern and south-eastern sides to Snipe Peak (226 m altitude). There is a subsidiary summit above South Point (102 m altitude) and lower hills on each of three promontories on the western side above Corral Point (92 m), Conroy Point (89 m) and Spaull Point (56 m). Small areas of permanent ice remain on the east- and south-facing slopes with late snow lying on the steeply dipping western slopes. There are no permanent streams or pools.
+
+The rocks are metamorphic quartz-mica schists, with occasional biotite and quartz-rich beds. There is a thin bed of undifferentiated amphibolite on the north-eastern coast. Much of the island is overlain with glacial drift and scree. Soils are predominantly immature deposits of fine to coarse clays and sands intermixed with gravels, stones and boulders. They are frequently sorted by freeze-thaw action in high or exposed locations into small-scale circles, polygons, stripes and lobes. There are deep accumulations of peat (up to 2 m thick on western slopes), considerable expanses of the surface of which are bare and eroded.
+
+The dominant plant communities are Andreaea-Usnea fellfield and banks of Chorisodontium-Polytrichum moss turf (the largest known example of this community type in the Antarctic). These moss banks constitute a major biological value and the reason for the designation of the Area. The cryptogamic flora is diverse.
+
+The mites Gamasellus racovitzai and Stereotydeus villosus and the springtail Cryptopygus antarcticus are common under stones.
+
+There were five colonies of chinstrap penguins (Pygoscelis antarctica) totalling about 11,000 pairs in 1978-79. A more recent visit (February 1994) noted fewer than 100 pairs on the northern side of Landing Cove and more than a thousand on the southern side. Numerous other birds breed on the island, notably about
+
+
+45°00'W         44°30'W
+60°30'S
+
+                                 South
+                           Orkney Islands
+
+Coronation Island
+SPA No.18
+Northern Coronation
+Island
+SPA No.14
+Lynch Island
+Signy
+Island
+Robenson
+Islands
+SPA No.13
+Moe Island
+SPA No.15
+Southern Powell
+Island
+Saddle
+Island
+Laurie
+Island
+
+                      0      10     20
+                                 km
+
+60°40'S
+
+60°50'S
+Map 1. Moe Island Specially Protected Area in relation to the South Orkney Islands. 
+15
+DRAFT
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+
+
+
+
+Map 2. Moe Island Specially Protected Area
+
+2000 pairs of cape petrels (Daption capensis) in 14 colonies (1966) and large numbers of Antarctic prions (Pachyptila desolata).
+
+Weddell seals (Leptonychotes weddellii) and leopard seals (Hydrurga leptonyx) are found in the bays on the west side of the island. Increasing numbers of fur seals (Arctocephalus gazella), mostly juvenile males, come ashore on the north side of Landing Cove and have caused some damage to vegetation in that area. However, it is possible that the nature of the terrain will restrict these animals to this small headland where damage may intensify.
+
+16
+DRAFT
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+6 (ii) Restricted zones within the Area
+None
+
+6 (iii) Location of structures within the Area
+A marker board is located at the back of the small shingle beach in the north-east corner of Landing Cove, beyond the splash zone on top of a flat rock, to which it is bolted. The board was erected on 2 February 1994.
+
+There is a cairn and the remains of a survey mast, erected in 1965-66, on Spaull Point. This mast is of interest for lichenometric studies and should not be re-moved. There are no other structures on Moe Island.
+
+6 (iv) Location of other Protected Areas within close proximity
+SPA No 14, Lynch Island, lies about 10 km north-north-east of Moe Island. SPA No 18, North Coronation Island, lies about 19 km away on the northern side of Coro-nation Island. SPA No 15, Southern Powell Island, is about 41 km to the east.
+
+7. Permit Conditions
+Entry into the Area is prohibited except in accordance with a permit issued by appropriate national authorities.
+
+Conditions for issuing a Permit to enter the Area are that:
+- it is issued only for a compelling scientific pur-pose which cannot be served elsewhere;
+- the actions permitted will not jeopardize the natural ecological system in the Area;
+- any management activities are in support of the objectives of the Management Plan;
+- the actions permitted are in accordance with this Management Plan;
+- the Permit, or an authorised copy, must be carried within the Specially Protected Area;
+- a report or reports are supplied to the authority or authorities named in the Permit.
+
+7 (i) Access to and movement within the Area
+There are no restrictions on landing from the sea which is the preferred method. No special access points are specified, but landings are usually most safely made at the north-east corner of Landing Cove.
+
+Helicopter landings should be avoided where practicable. Helicopters may land only on the col between hill     89 m and the western slope of Snipe Peak. To avoid overflying bird colonies approach should preferably be from the south, though an approach from the north is permissible.
+
+It is forbidden to overfly the Area below 250 m altitude above the highest point except for access to the landing point specified above.
+
+No pedestrian routes are designated but persons on foot should at all times avoid disturbances to birds or damage to vegetation and periglacial features. Vehicles are prohibited on Moe Island.
+
+7 (ii) Activities which are or may be conducted within the Area, including restrictions on time and place
+- Compelling scientific research which cannot be undertaken elsewhere and which will not jeopardize the ecosystem of the Area
+- Essential management activities, including moni-toring
+
+7 (iii) Installation, modification or removal of struc-tures
+No structures are to be erected in the Area, or scientific equipment installed, except for essential scientific or management activities, as specified in the Permit.
+
+7 (iv) Location of field camps
+Parties should not normally camp in the Area. If this is essential for reasons of safety, tents should be erected having regard to causing the least damage to vegetation or disturbance to fauna.
+
+7 (v) Restrictions on materials and organisms which may be brought into the Area
+No living animals or plant material shall be deliberately introduced into the Area.
+
+No poultry products, including food products con-taining uncooked dried eggs, shall be taken into the area.
+
+No herbicides or pesticides shall be brought into the Area. Any other chemicals, which may be introduced for a compelling scientific purpose specified in the Per-mit, shall be removed from the Area at or before the conclusion of the activity for which the Permit was granted.
+
+Fuel, food and other materials are not to be deposited in the area, unless required for essential purposes connected with the activity for which the Permit has been granted. All such materials introduced are to be removed when no longer required. Permanent depots are not per-mitted.
+
+7 (vi) Taking or harmful interference with native flora and fauna
+This is prohibited, except in accordance with a Permit. Where animal taking or harmful interference is involved this should be in accordance with SCAR Code of Con-duct for Use of Animals for Scientific Purposes in Ant-arctica, as a minimum standard.
+
+7 (vii) Collection and removal of anything not brought into the area by the Permit holder
+Material may be collected or removed from the Area only in accordance with a Permit, except that debris of man-made origin may be removed from the beaches of the Area and dead or pathological specimens of fauna or flora may be removed for laboratory examination.
+
+7 (viii) Disposal of waste
+All non-human wastes shall be removed from the Area. Human waste may be deposited in the sea.
+DRAFT
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+7 (ix) Measures that may be necessary to ensure that 
+the aims and objectives of the Management Plan 
+continue to be met
+
+Permits may be granted to enter the Area to carry out 
+biological monitoring and site inspection activities, 
+which may involve the collection of small amounts of 
+plant material or small numbers of animals for analysis 
+or audit, to erect or maintain notice boards, or protec-
+tive measures.
+
+7 (x) Requirements for reports
+
+The Principal Permit Holder for each issued Permit shall 
+submit a report of activities conducted in the Area using 
+the accepted Visit Report form suggested by SCAR. This 
+report shall be submitted to the authority named in the 
+Permit as soon as practicable, but not later than 6 months 
+after the visit has taken place. Such reports should be 
+stored indefinitely and made available to interested Par-
+ties, SCAR, CCAMLR and COMNAP if requested, to 
+provide the documentation of human activities within 
+the Area necessary for good management.
+
+Appendix 3
+
+A Checklist of Features To Be Considered for Inclusion on Maps
+
+Maps required include a general locational map both to show the position of the Area and the location of any other 
+nearby Areas, and at least one detailed map of the site showing those features essential for meeting the management 
+plan objectives.
+
+All maps must have comprehensive legends and should use SCAR-approved symbols wherever possible.
+
+1. Essential features
+
+1.1 Title                                 4.8 Aerials, antennae
+1.2 Latitude and longitude coordinates    4.9 Fuel storage areas
+1.3 Scale bar with numerical scale        4.10 Water reservoirs and pipes
+1.4 Comprehensive legend                 4.11 Emergency caches
+1.5 Adequate and approved place-names     4.12 Markers, signs
+1.6 Map projection and spheroid          4.13 Historic sites or artefacts, archaeological sites
+1.7 North arrow                          4.14 Scientific installations or sampling areas
+1.8 Contour interval                     
+1.9 If image data are included, date of image col-
+lection
+
+2. Essential topographical features
+
+2.1 Coastline, rock and ice               6. Boundaries
+2.2 Peaks and ridge lines                 6.1 Boundary of Area
+2.3 Ice margins and other glacial features 6.2 Boundaries of subsidiary zoned areas
+3.5 Contours (labelled as necessary), survey   Boundaries of contained protected areas
+points and spot heights                   6.3 Boundary signs and markers (including 
+                                          cairns)
+5. Natural Features                      6.4 Boat/aircraft approach routes
+3.1 Lakes, ponds, streams                 6.5 Navigation markers or beacons
+3.2 Moraines, screes, cliffs, beaches     6.6 Survey points and markers
+3.3 Beach areas                          
+3.4 Vegetation                           
+3.5 Bird and seal colonies               
+
+4. Infrastructure and Impacts            
+
+4.1 Station                              
+4.2 Field huts, refuges                  
+4.3 Campsites                            
+4.4 Roads and vehicle tracks, footpaths   
+4.5 Landing areas for fixed wing aeroplanes and 
+helicopters                              
+4.6 Wharf, jetties                        
+4.7 Power supplies, cables               
+
+5. Human features
+5.1 Site contamination or modification
+
+The same approach is obviously required of any inset 
+maps.
+
+At the conclusion of drafting a check should be made 
+on cartographic quality to ensure:
+• balance between the elements
+• appropriate shading to enhance features but 
+which will not be confusing when photocopies 
+and where degree should reflect importance
+• correct and appropriate text with no features 
+overlap 
+• use of standard SCAR map symbols
+• white text appropriately shadowed on all image 
+data
+
+18
+DRAFT
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS                        Appendix 4
+Antarctic Specially Protected Area
+
+VISIT REPORT
+
+1. Protected Area name and number:
+
+2. Name and address of Authority issuing permit:                  3. Date Report filed:
+
+4. Name and address of Authority to whom Report is made:         5. Person completing Report:
+
+6. Name and address of Principal Permit Holder:                  7. List of all persons who
+                                                                    entered the Area under the
+                                                                    current Permit:
+
+                      International telephone: + 
+                      International facsimile: + 
+                      E-mail address: 
+
+8. Objectives of the visit to the Area under the current Permit:
+
+9. Date(s) and duration of visit(s) under the current Permit:
+
+10. Mode of transport to/from the Area:
+
+11. Activities conducted in the Area:
+
+12. Descriptions and locations of samples collected (type, quantity, and details of any Permits 
+for sample collection):
+
+13. Descriptions and locations of markers, instrumentation or equipment installed, or any mat-
+erial released into the environment (noting how long these are intended to remain in the Area):
+
+14. Descriptions and locations of markers, instrumentation or equipment removed:
+
+19
+DRAFT
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+15. Any departures from the provisions of the Management Plan during this visit, noting dates, magnitudes and locations:
+
+16. Measures taken during this visit to ensure compliance with the Management Plan:
+
+17. Observations of human effects on the Area, distinguishing between those resulting from the visit and those due to previous visitors:
+
+18. Evaluation of whether the values for which the Area was designated are being adequately protected:
+
+19. Note any features of special significance that have not been previously recorded for the Area:
+
+20. Recommendations on further management measures needed to protect the values of the Area, including location and appraisal of condition of structures, markers etc:
+
+21. Summary of scientific research undertaken in the Area:
+
+22. On an attached photocopy of the map of the Area, please show (as applicable) camp site location(s), land/sea/air movements or routes, sampling sites, installations, deliberate release of materials, any impacts, and features of special significance not previously recorded:
+
+23. Any other comments or information:
+
+20
+DRAFT
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+Appendix 6
+
+Ecosystem Matrix and Geogrpahical Distribution of Protected Areas
+
+
+| Environmental features | \multicolumn{6}{|c|}{ Seasonally ice-free substrates and associated late snow beds }                                                                                      | \multicolumn{4}{|c|}{ Permanent ice }                                                                                     |
+| Biota (locally abundant) | \multicolumn{2}{|c|}{ Coastal (<10 km from seasonally open sea) } | \multicolumn{4}{|c|}{ Inland (>10 km from seasonally open sea) }                                        | \multicolumn{2}{|c|}{ Coastal (<10 km from seasonally open sea) } | \multicolumn{2}{|c|}{ Inland (>10 km from seasonally open sea) }                                        |
+|                          | <1000 m altitude | >1000 m altitude | Geothermal | <1000 m altitude | >1000 m altitude | Geothermal | Adjacent to ice shelf | <500 m altitude | >500 m altitude | <500 m altitude | >500 m altitude |
+| Vascular plants          | 3                | 6                | —          | ⊗               | —                | —          | —                 | ⊗               | ⊗               | ⊗               | ⊗               |
+|                          |                  |                  | —          | ⊗               | —                | —          | —                 |                 |                 |                 |                 |
+| Bryophytes               | 7                | 16               | —          | 1               | —                | —          | 1                 | ⊗               | ⊗               | ⊗               | ⊗               |
+|                          |                  |                  | 1          | 2               | —                | —          | —                 |                 |                 |                 |                 |
+| Lichens                  | 14               | 20               | —          | —               | 1                | —          | 1                 | ⊗               | ⊗               | ⊗               | ⊗               |
+|                          |                  |                  | —          | 1               | 1                | —          | —                 |                 |                 |                 |                 |
+| Macroalgae/cyanobacteria | 13               | 17               | —          | —               | —                | —          | —                 | ⊗               | ⊗               | ⊗               | ⊗               |
+|                          |                  |                  | —          | 1               | —                | —          | —                 |                 |                 |                 |                 |
+| Snow algae               | 3                | 11               | ⊗          | —               | —                | —          | —                 | 1               | 1               | —               | —               |
+|                          |                  |                  | ⊗          | —               | —                | —          | —                 |                 |                 |                 |                 |
+| Microorganisms           | ? All            | ? All            | —          | 1               | 5                | 2          | 1                 | ⊗               | ⊗               | ⊗               | ⊗               |
+|                          |                  |                  | 1          | 3               |                 |           |                 |                 |                 |                 |                 |
+| Invertebrates            | 10               | 11               | —          | —               | —                | —          | —                 | ⊗               | ⊗               | ⊗               | ⊗               |
+|                          |                  |                  | —          | —               | —                | —          | —                 | 2               |                 |                 |                 |
+| Birds/seals              | 16               | 16               | —          | —               | 1                | ⊗          | 1                 | 1               | ⊗               | ⊗               | ⊗               |
+|                          |                  |                  | —          | —               |                 |           |                 |                 |                 |                 |                 |
+| Sterile                  | —                | —                | —          | 1               | 2                | 1          | 1                 | ⊗               | ⊗               | 1               | 1               |
+|                          | —                | —                | —          | 2               | 4                | 2          | 1                 |                 |                 |                 |                 |
+
+Upper values: SPAs
+Lower values: SSSIs (no significant biotic variables in SSSI Nos. 2, 25, 26, 27, 28, 35, 36)
+
+Proposed Antarctic terrestrial ecosystems classification matrix
+
+
+| Environmental variables | \multicolumn{8}{|c|}{ LAKES/PONDS }                                                                                                                                                   | \multicolumn{2}{|c|}{ STREAMS } |
+| Biotic variables        | \multicolumn{2}{|c|}{ Fresh S <3 g/l } | \multicolumn{2}{|c|}{ Intermediate salinity S = 3 – 30 g/l } | \multicolumn{2}{|c|}{ High salinity S >30 g/l } | \multicolumn{4
+DRAFT
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+
+                                                                                 Proposed Antarctic terrestrial ecosystems classification matrix
+
+
+| Environmental variables | PELAGIC/ NERITIC |                                  BENTHIC                                   |                                  LITTORAL                                  |
+|                         |                  | Bathyal >500 m | Shelf zone (c. 500-200 m) |     Sub-littoral (c. 200-5 m)     | Rock/ boulder | Pebble | Sand, mud and/or shell | Ice |
+|                         |                  |                | Hard bottom | Soft bottom | Hard bottom | Soft bottom |               |        |        |                        |     |
+| Permanent ice           |                  | X              | X           | X           | X           | X           | X             |        |        |                        |     |
+| Seasonal ice            |                  |                |             |             |             |             |               |        |        |                        |     |
+| Absence of ice          |                  |                |             |             |             |             |               |        |        |                        | X   |
+| Fresh water influence   |                  |                |             |             |             |             |               |        |        |                        |     |
+| Enclosed water mass     |                  |                |             |             |             |             |               |        |        |                        |     |
+| Geothermal influence    |                  |                |             |             |             |             |               |        |        |                        |     |
+
+
+                                                                                 Geographical distribution of the number of Antarctic SPAs and SSSIs in
+                                                                                 45° longitudinal sectors based on the Greenwich Meridian
+
+
+                                                                                 26
+D R A F T 
+
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS                      Appendix 7
+
+SCAR CODE OF CONDUCT FOR 
+USE OF ANIMALS FOR SCIENTIFIC PURPOSES 
+IN ANTARCTICA
+
+PREAMBLE
+
+RECOGNIZING that Man has a moral obligation to respect 
+all animals and to have due consideration for their 
+capacity for suffering and memory;
+
+Accepting nevertheless that Man in his quest for knowl-
+edge has a need to use animals where there is a rea-
+sonable expectation that the result will provide a sig-
+nificant advance in knowledge or be of overall ben-
+efit for animals;
+
+RESOLVED to limit the use of animals for experimental 
+and other scientific purposes, with the aim of replac-
+ing such use wherever practical, in particular by seek-
+ing alternative measures and encouraging the use of 
+these alternative measures;
+
+DESIRING to adopt common provisions in order to pro-
+tect animals used in those procedures which may pos-
+sibly cause pain, suffering, distress or lasting harm 
+and to ensure that where unavoidable they shall be 
+kept to a minimum;
+
+SCAR has adopted a code of conduct which is based on 
+the international guiding principles for biomedical 
+research involving animals as developed by the Coun-
+cil for International Organization of Medical Sciences.
+
+CODE OF CONDUCT
+
+I.      The advancement of biological knowledge and 
+        the development of improved means to the pro-
+        tection of the health and well-being both of man 
+        and of the animals require recourse to experimen-
+        tation on intact live mammals and birds of a wide 
+        variety of species.
+
+II.     Methods such as mathematical models, compu-
+        ter simulation and in vitro biological systems 
+        should be used wherever appropriate.
+
+III.    Animal experiments should be undertaken only 
+        after due consideration of their relevance for hu-
+        man or animal health and the advancement of bio-
+        logical knowledge.
+
+IV.     The animals selected for an experiment should 
+        be of an appropriate species and quality, and the 
+        minimum number required to obtain scientifically 
+        valid results.
+
+V.      Investigators and other personnel should never 
+        fail to treat animals as sentient, and should re-
+        gard their proper care and use and the avoidance 
+        or minimization of discomfort, distress, or pain 
+        as ethical imperatives.
+
+VI.     Investigators should assume that procedures that 
+        would cause pain in human beings cause pain in 
+        other mammals and in birds.
+
+VII.    Procedures with animals that may cause more 
+        than momentary or minimal pain or distress 
+        should be performed with appropriate sedation, 
+        analgesia, or anaesthesia in accordance with ac-
+        cepted veterinary practice. Surgical or other pain-
+        ful procedures should not be performed on 
+        unanaesthetized animals paralyzed by chemical 
+        agents.
+
+VIII.   Where waivers are required in relation to the pro-
+        visions of article VII, the decisions should not 
+        rest solely with the investigators directly con-
+        cerned but should be made, with due regard to 
+        the provisions of articles IV, V and VI, by a suit-
+        ably constituted review body. Such waivers 
+        should not be made solely for the purposes of 
+        teaching or demonstration
+
+IX.     At the end, or, when appropriate, during an ex-
+        periment animals that would otherwise suffer 
+        severe or chronic pain, distress, discomfort, or 
+        disablement that cannot be relieved should be 
+        painlessly killed.
+
+X.      The best possible living conditions and supervi-
+        sion should be maintained for animals kept for 
+        biomedical purposes.
+
+XI.     It is the responsibility of the director of an insti-
+        tute or department using animals to ensure that 
+        investigators and personnel have appropriate 
+        qualifications or experience for conducting pro-
+        cedures on animals. Adequate opportunities shall 
+        be provided for in-service training, including the 
+        proper and humane concern for the animals un-
+        der their care.
+DRAFT
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+Appendix 8
+SELECT BIBLIOGRAPHY
+
+28
+D R A F T 
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS                        Appendix 5
+
+Antarctic Specially Protected Areas (as at 1 June 1992)
+
+Specially Protected Areas
+
+| SPA No. | Name, location and proposer                                  | Approx Area (km2) |
+|---------|-------------------------------------------------------------|-------------------|
+| 1.      | Taylor Rookery, Mawson Coast, Mac.Robertson Land (67°26'S, 60°50'E) [Australia] | 0.4               |
+| 2.      | Rookery Islands, Holme Bay, Mawson Coast, Mac.Robertson Land (67°35'S, 62°36'E) [Australia] | 30.0              |
+| 3.      | Ardery and Odbert Islands, Budd Coast, Wilkes Land (66°22'S, 110°30'E) [Australia] | 1.9               |
+| 4.      | Sabrina Island, Balleny Islands, off Pennell Coast, Oates Land (66°54'S, 163°20'E) [New Zealand] | 0.4               |
+| 5.      | Beaufort Island, Ross Sea, off Scott Coast, Victoria Land (76°58'S, 167°00'E) [New Zealand] | 18.4              |
+| 6.      | No site (formerly Cape Crozier, now SSSI 4)                  |                   |
+| 7.      | Cape Hallett, Borchgrevink Coast, Victoria Land (including extension to original Site) (72°18'S, 179°19'E) [USA] | 0.2               |
+| 8.      | Dion Islands, Marguerite Bay, off Fallières Coast, Graham Land (67°52'S, 68°43'W) [UK] | 6.0               |
+| 9.      | Green Island, Berthelot Islands, off Graham Coast, Graham Land (65°19'S, 64°10'W) [UK] | 0.1               |
+| 10.     | No site (formerly Byers Peninsula, now SSSI 6)              |                   |
+| 11.     | No site (formerly Cape Shirreff, now SSSI 32)                |                   |
+| 12.     | No site (formerly Fildes Peninsula, now SSSI 5)             |                   |
+| 13.     | Moe Island, South Orkney Islands (60°45'S, 45°41'W) [UK]     | 1.3               |
+| 14.     | Lynch Island, South Orkney Islands (60°40'S, 45°38'W) [UK]   | 0.1               |
+| 15.     | Southern Powell Island and adjacent islands, South Orkney Islands (60°45'S, 45°02'W) [UK] | 18.0              |
+| 16.     | Coppermine Peninsula, Robert Island, South Shetland Islands (62°23'S, 59°42'W) [Chile] | 0.9               |
+| 17.     | Litchfield Island, Arthur Harbour, Palmer Archipelago, off Danco Coast, Graham Land (64°46'S, 64°06'W) [USA] | 0.3               |
+| 18.     | North Coronation Island, South Orkney Islands (60°31'S, 45°41'W) [UK] | 88.5              |
+| 19.     | Lagotellerie Island, Marguerite Bay, off Fallières Coast, Graham Land (67°53'S, 67°24'W) [UK] | 1.2               |
+| 20.     | New College Valley, Caughley Beach, Cape Bird, Ross Island, off Scott Coast, Victoria Land (within SSSI 10) (77°14'S, 166°23'E) [New Zealand] | 0.1               |
+| 21.     | Avian Island, Marguerite Bay, Fallières Coast, Graham Land (67°46'S, 68°54'W) [UK] | 0.8               |
+| 22.     | Cryptogam Ridge, Mt Melbourne, Victoria Land (within SSSI 24) (74°21'S, 164°42'E) [New Zealand] | 0.7               |
+| 23.     | Forlidas Pond and Davis Valley Ponds, Dufek Massif, Pensacola Mountains (unnamed land between Coats Land and Ellsworth Land) (82°27'S, 51°21'W) [USA] | 9.8               |
+
+Total SPAs                                                  19                
+Total approximate
+DRAFT
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+Sites of Special Scientific Interest
+
+| SSSI 
+No. | Name, location and proposer | Approx 
+Area (km^(2)) |
+| --- | --- | --- |
+1. | Cape Royds, Ross Island, off Scott Coast, Victoria Land (including additional offshore area) (77°33'S, 166°08'E) [USA] | 4.6 |
+2. | Arrival Heights, Hut Peninsula, Ross Island, off Scott Coast, Victoria Land (77°49'S, 166°39'E) [USA] | 1.1 |
+3. | Barwick Valley, Scott Coast, Victoria Land (77°18'S, 161°00'E) [USA] | 279.0 |
+4. | Cape Crozier, Ross Island, off Scott Coast, Victoria Land (77°30'S, 169°24'E) [USA] | 19.0 |
+5. | Fildes Peninsula, King George Island, South Shetland Islands (2 areas) (approx. 62°12'S, 58°57'W) [Chile] | 1.8 |
+6. | Byers Peninsula, Livingston Island, South Shetland Islands (revised and extended) (62°38'S, 61°05'W) [Chile (Chile & UK)] | 65.7 |
+7. | Haswell Island, off Queen Mary Coast, Queen Mary Land (66°31'S, 93°00'E) [Russia] | 1.0 |
+8. | Western shore of Admiralty Bay, King George Island, South Shetland Islands (62°08'S, 53°29'W) [Poland] | 17.5 |
+9. | Rothera Point, Adelaide Island, off Fallières Coast, Graham Land (67°34'S, 68°08'W) [UK] | 0.1 |
+10. | Caughley Beach, Cape Bird, Ross Island, off Scott Coast, Victoria Land (77°10'S, 166°40'E) [New Zealand] | 0.3 |
+11. | Tramway Ridge, Mt Erebus, Ross Island, off Scott Coast, Victoria Land (77°32'S, 167°08'E) [New Zealand] | 0.04 |
+12. | Canada Glacier, Lake Fryxell, Taylor Valley, Scott Coast, Victoria Land (77°37'S, 163°05'E) [New Zealand] | 1.2 |
+13. | Potter Peninsula, King George Island, South Shetland Islands (62°15'S, 58°37'W) [Argentina] | 1.9 |
+14. | Harmony Point, Nelson Island, South Shetland Islands (62°18'S, 59°14'W) [Argentina & Chile] | 4.0. |
+15. | Cierva Point and offshore islands, Danco Coast, Graham Land (64°10'S, 60°57'W) [Argentina] | 51.8 |
+16. | North-east Bailey Peninsula, Windmill Islands, Budd Coast, Wilkes Land (66°17'S, 110°32'E) [Australia] | 0.5 |
+17. | Clark Peninsula, Windmill Islands, Budd Coast, Wilkes Land (66°15'S, 110°36'E) [Australia] | 12.1 |
+18. | North-west White Island, McMurdo Sound, off Scott Coast, Victoria Land (marine/shelf ice site) (78°10'S, 167°25'E) [USA] | 170 |
+19. | Linnaeus Terrace, Asgaard Range, Scott Coast, Victoria Land, (marine/shelf ice site) (77°36'S, 161°07'E) [USA] | 3.2 |
+20. | Biscoe Point, Anvers Island, Palmer Archipelago, off Danco Coast, Graham Land (64°49'S, 63°49'W) [USA] | 2.7 |
+21. | Parts of Deception Island, South Shetland Islands (5 small areas) (approx. 62°55'S, 60°37'W) [UK] | 1.7 |
+22. | Yukidori Valley, Langhovde, Lützow–Holm Bay, Crown Prince Olav Coast, Enderby Land (69°14'S, 39°46'E) [Japan] | 3.6 |
+23. | Svarthamaren, Mühlig–Hofmannfjella, Crown Princess Martha Coast, Dronning Maud Land (71°53'S, 5°10'E) [Norway] | 3.8 |
+24. | Summit of Mt Melbourne, Scott Coast
+DRAFT
+GUIDE TO THE PREPARATION OF MANAGEMENT PLANS
+
+Appendix 8
+
+SELECT BIBLIOGRAPHY
+
+Antarctic Treaty. 1964. Final Report of the Third Antarctic Treaty Consultative Meeting (Brussels, Belgium, 
+2-13 June 1964), [Brussels, Ministry of Foreign Affairs,] 39 pp.
+
+Antarctic Treaty. 1973. Final Report of the Seventh Antarctic Treaty Consultative Meeting (Wellington, New 
+Zealand, 30 October – 10 November 1972), Wellington, Ministry of Foreign Affairs, 65 pp.
+
+Antarctic Treaty. 1975. Final Report of the Eighth Antarctic Treaty Consultative Meeting (Oslo, Norway, 9-20 
+June 1975), Oslo, Ministry of Foreign Affairs, 76 pp.
+
+Antarctic Treaty. 1988. Final Report of the Fourth Special Antarctic Treaty Consultative Meeting on Antarctic 
+Mineral Resources (Final Session – Wellington, New Zealand, 2 May – 2 June 1988), Wellington, Ministry 
+of Foreign Affairs, 98 pp.
+
+Antarctic Treaty. 1992. Final Report of the Sixteenth Antarctic Treaty Consultative Meeting (Bonn, Germany; 
+3-4 October 1991), [Bonn, Ministry of Foreign Affairs,] 382 pp.
+
+Antarctic Treaty. 1992. Final Report of the Eleventh Antarctic Treaty Special Consultative Meeting (Final 
+Session - Madrid, Spain, 7-18 October 1991), Madrid, Ministerio de Asuntos Exteriores, 225 pp.
+
+Antarctic Treaty. 1993. Final Report of the Seventeenth Antarctic Treaty Consultative Meeting (Venice, Italy, 
+11-20 November 1992), [Rome, Ministry of Foreign Affairs,] 485 pp.
+
+Antarctic Treaty. 1995. Final Report of the Nineteenth Antarctic Treaty Consultative Meeting (Seoul, Korea, 
+8 - 19 May 1995), [Seoul, Ministry of Foreign Affairs,] 367 pp.
+
+Antarctic Treaty. 1997. Final Report of the Twentieth Antarctic Treaty Consultative Meeting (Utrecht, Nether-
+lands, 29 April – 10 May 1996), The Hague, Ministry of Foreign Affairs, 278 pp.
+
+Antarctic Treaty. 1994. Handbook of the Antarctic Treaty System (Eighth edition). Washington DC, Depart-
+ment of State, Part 1 – 296 pp, Part 2 – 300 pp.
+
+Benninghoff, W S and W N Bonner. 1985. Man’s Impact on the Antarctic Environment, Cambridge, SCAR, 
+56 pp.
+
+Bleasel, J E (ed). 1989. Waste Disposal in the Antarctic (Report of the SCAR Panel of Experts on Waste 
+Disposal). Hobart, Australian Antarctic Division for SCAR, 53 pp.
+
+Bonner, W N and R I Lewis-Smith (ed). 1985. Conservation Areas in the Antarctic. Cambridge, SCAR, 299 pp.
+
+Dingwall, P R. 1994. Progress in the Conservation of the Subantarctic Islands. (Proceedings of the SCAR/
+IUCN Workshop on Protection, Research and Management of Subantarctic Islands, Paimpont, France, 
+27-29 April 1992). Gland, IUCN, xvi + 225 pp.
+
+Kennicutt II, M C, Sayers, J C A, Walton, D W H and G Wratt (compilers). 1996. Monitoring of Environmen-
+tal Impacts from Science and Operations in Antarctica. Cambridge, SCAR, x + 124 pp.
+
+Lewis-Smith, R I, Walton D W H and P R Dingwall (ed). 1994. Developing the Antarctic Protected Area System 
+(Proceedings of the SCAR/IUCN Workshop on Protected Areas, Cambridge, United Kingdom, 29 June – 
+2 July 1992). Gland, IUCN, x + 137 pp.
+
+Rutford, R H (ed). 1986. Reports of the SCAR Group of Specialists on Antarctic Environmental Implications of 
+Possible Mineral Exploration and Exploitation (AEIMEE), Cambridge, SCAR, 95 pp.
+
+Zumberge, J H (ed). 1979. Possible Environmental Effects of Mineral Exploration and Exploitation in Antarc-
+tica. Cambridge, SCAR, 59 pp.
+
+28

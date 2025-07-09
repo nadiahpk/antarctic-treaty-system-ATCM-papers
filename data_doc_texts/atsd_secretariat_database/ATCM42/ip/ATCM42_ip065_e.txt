@@ -1,0 +1,59 @@
+﻿
+
+
+
+
+
+Installation of Automatic Weather Station in Antarctica
+
+
+
+
+
+
+
+
+
+
+Installation of Automatic Weather Station in Antarctica
+Summary 
+This paper gives a brief report on installation of Automatic Weather Station to Turkish Temporary Base during Third Turkish Antarctic Expedition
+Automatic Weather Station in Horseshoe Island 
+Turkish State Meteorological Service (TSMS) has installed an Automatic Weather Station (AWS) for measuring the certain meteorological parameters in the Temporary Science Base in Antarctica within the scope of the Third Turkish Antarctic Expedition.  
+
+A field survey was carried out in Horseshoe Island to find the best observing place for the installation. Based on the survey analysis, AWS was installed in a flat area of 50 meter height at a distance approximately 250 meters away from the Temporary Science Base.  
+
+The AWS has been designed and equipped to measure and record the basic meteorological parameters of wind speed, wind direction, air temperature, relative humidity, air pressure, precipitation amount, snow depth, global solar radiation and sun duration.
+
+The meteorological data measured by AWS will be stored in the memory module of the system's data collection unit for 2 years.
+
+The data measured and stored by AWS will be submitted to relevant institutions, scientists and researchers for using in scientific research studies.
+
+During Third Turkish Antarctic Expedition, the Bulgarian and Ukrainian bases were visited and meteorological experts in these bases were interviewed to get their experiences. The applications related to meteorological measurements were examined as well.
+
+The experiences obtained during the establishment of AWS for the first time during Third Turkish Antarctic Expedition should be utilized for the next expedition, and the AWS data should be transferred to the base building in case of the establishment of permanent base. 
+
+By considering the first measured data showed that  global solar radiation measurements reach a value of 1450 W / m², it is suggested that ultraviolet radiation measurement can be made in the area of Turkish Temporary Camp , and installation of an observing instrument for that purpose during the next expedition can contribute the research studies. 
+
+Table 1 Details of the First Data Taken from Antarctica AWS (Registration Number: 15785 Registration Date: 2019-02-23 / 15: 46: 02.36 (UTC))
+Parameters
+Value
+Wind Speed
+4.5184 m/s  (16,2 km/h)
+Wind Direction
+284 degrees
+Air Temperature
+-1.5° C
+Relative Humidity
+%79
+Air Pressure
+997.9 hPa
+Global Solar Radiation
+1058.5 Watt/m2
+Sun Duration
+0
+Precipitation Amount
+0
+Snow Depth
+0,15 cm
+

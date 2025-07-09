@@ -1,0 +1,124 @@
+﻿
+
+
+
+
+
+Distinguishing human impacts at Palmer Station, Antarctica
+
+
+
+
+Distinguishing Human Impacts at Palmer Station, Antarctica
+by
+William R. Fraser & Donna L. Patterson-Fraser
+Polar Oceans Research Group, PO Box 368, Sheridan MT 59749 USA
+
+Summary
+The number of tourists visiting Antarctica has more than doubled in less than five years (IAATO 2009, Fig. 1), with the Antarctic Peninsula alone recording approximately 46,000 visitors during the 2007/08 season.  The management and oversight of tourism thus presents an ever-growing challenge in Antarctica, and concerns about potential impacts on both wildlife and other features of the natural environment are at the forefront of possible impacts.  Anthropogenically driven responses by resident wildlife, however, can be species-specific, location-specific, and/or activity-specific (Holmes et al. 2006), hence it is not surprising that research designed to tease apart these interactions and their relationship to the impacts of specific tourist activity regimes have produced inconsistent results (e.g., Giese 1996, Cobley & Shears 1999).  The implications, therefore, are not only that the causal interactions are complex and likely operating over multiple space and time scales, but that the prerequisite necessary to identify tourist impacts is essentially an unambiguous understanding of how wildlife populations respond to environmental perturbations (Fraser & Patterson 1997, Patterson et al. 2003, Carlini et al. 2007, Bricher et al. 2008, Trathan et al. 2008).  
+
+Figure 1.  Number of tourists visiting Antarctica from 1992 to 2007 (IAATO 2009).
+
+In this context, a general approach to address the issues and questions associated with possible tourist impacts would indicate that long-term studies are likely to yield more robust conclusions than short-term studies, and that studies conducted in the absence of key background physical and biological data may lead to erroneous conclusions regarding the magnitude and significance of possible effects (Carlini et al. 2007, Trathan et al. 2008).
+
+
+
+Introduction
+
+Palmer Station (64˚46’ S, 64˚04’ W) on Anvers Island, Western Antarctic Peninsula, has been a tourist destination for nearly four decades.  Since the early 1970s, the area has also been the site of intensive research focused on the ecology of seabirds (Parmelee 1992), a program that in 1990 expanded to include critical background data on marine and terrestrial ecosystem dynamics via the National Science Foundation’s (NSF) funding of the Palmer Long-Term Ecological Research Program (PAL).  In terms of tour ships visits, the NSF limits the number of passengers landed on station to approximately 1200 per year. Coupled with the presence of a nearby ASPA (Litchfield Island, No. 113) that has been protected from virtually all human activity since 1978 and the nearby Torgersen Island, which is a popular visitor site, the Palmer Station area is arguably one of the most desirable locations in Antarctica to examine the effects of tourism on wildlife populations. This document briefly reviews long-term trends in Adélie penguin (Pygoscelis adeliae) populations and breeding success within the context of environmental variability and possible tourist impacts.  These metrics are among the most commonly used to assess potential human activities.
+ 
+Methods and Results
+
+A most unique feature about Palmer Station is that the experimental setting permits both parameter scaling and controlled observations.  Parameter scaling addresses the critical question of whether or not observed patterns are scale-driven, an important and often confounding element in ecological research (Root & Schneider 1995).  Thus, if observed patterns exhibit similar trends over different scales, the significance of potential causal processes can be more reliably determined.  The ability to establish controls in the experimental design ensues from the availability of areas where tourism has been restricted, such as the Litchfield Island ASPA and the west half of Torgersen Island (see Patterson et al. 2003).  Accordingly, the data presented focus on trends that primarily compare visited versus control sites and incorporate scales from individuals to populations.  A more detailed presentation of how data were obtained and the statistical treatments and models used relative to the conclusions discussed in this document are available in Patterson et al. (2003). 
+Figure 2. Adélie penguin breeding population trends in the Palmer Station vicinity (TOR = Torgersen Island, LIT = Litchfield Island).  Population numbers are expressed in percent change relative to the first census.
+
+
+Adélie penguin populations have been decreasing throughout the Western Antarctic Peninsula (Woehler et al. 2001).  This trend is also evident for the PAL region (Fig. 2), where breeding population size has decreased by 80%.  However, as this figure indicates, trends on Litchfield Island diverge significantly from the trends observed on Torgersen and other islands where long-term censuses have been obtained.  Indeed, ironically, on the island that has been afforded the longest protection from human activity (since 1978), Adélie penguins are now extinct.  A long-standing hypothesis (cf. Fraser & Patterson 1997) to account for the anomalous population trends evident on Litchfield Island is that due to predominantly northeasterly winds during storm events, snow accumulation is enhanced on the southwest side of the island.  Multi-scale landscape models currently under development to explore these dynamics (but see Patterson et al. 2003) support this hypothesis.  These models indicate that virtually the entire Litchfield Island Adélie penguin breeding population occupied a sub-optimal landscape; that is, an area where wind direction combined with topography enhanced snow accumulation.  Moreover, the long-term decreasing population trend on the island agrees with the observation that snow accumulations in general are increasing on the Western Antarctic Peninsula (Turner et al. 2005). 
+
+Applying this hypothesis and landscape models to Torgersen Island has provided a new approach to examining possible tourist impacts.  As previously intimated, visits by tourists have historically been confined to the east side of the island, thus leaving the west side as a control site for experimental purposes.  Coupled to this division of the landscape is another division, namely a high ridge that bisects the island east to west (similar to the situation on Litchfield Island), thus dividing the Torgersen Island landscape into predominantly south- and north-facing sectors.  A common metric used in the investigation of tourist impacts are simple population censuses at visited sites, a technique whose relevance for this and other purposes has not only been questioned for some time (e.g., Croxall et al. 1988), but contemporary studies indicate may be incapable of differentiating between signal and environmental noise (Patterson et al. 2003, Carlini et al. 2007, Bricher et al. 2008, Trathan et al. 2008).  
+
+
+
+Figure 3. Adélie penguin breeding population trends in the control (unvisited) and tourist-visited sides of Torgersen Island. Population numbers are expressed in percent change relative to the first census.
+
+
+Figure 3 shows the resulting trends that ensue when population census data is simplistically applied to the tourist-visited and control sides of Torgersen Island.  A tourist impact is implied by the fact that populations in the former decreased by 90% compared to 72% in the latter.  However, if models are used to scale down the landscapes on which visited and control colonies occur, thus classifying them by aspect (north vs. south), the ensuing trends do not support the conclusion that tourism is negatively affecting the population (Fig. 4; a decrease of 75% and nearly 100% by aspect, respectively).  Indeed, as with the 
+situation on Litchfield Island (Fig. 2), the south-facing colonies on Torgersen Island are now nearly extinct, while population trends for north-facing colonies show patterns generally similar to the PAL region as a whole (Fig. 2).  A further note of interest in this regard, is that the south-facing colonies accessible to tourists but now approaching extinction were also the most isolated and least visited (Patterson et al. 2003). 
+
+Figure 4. Adélie penguin breeding population trends for colonies with north and south aspects on Torgersen Island. Population numbers are expressed in percent change relative to the first census. 
+
+
+Table 1. Decadal trends in the incidence of small colonies on Torgersen Island, 1989-2006, relative to tourist activity and landscape aspect.
+
+LOCATION
+1989
+1999
+2008
+CONTROL
+8%
+27%
+50%
+VISITED
+9%
+27%
+50%
+
+NORTH ASPECT
+6%
+31%
+46%
+SOUTH ASPECT
+14%
+33%
+100%
+
+
+Although it is beyond the scope of this document to fully discuss the many inherent implications to Adélie penguin demography suggested by the population trends previously discussed, it is worth noting that when the population data are scaled down to investigate individual fractions such as breeding success or the fate of particular colonies, the smaller-scale trends precisely complement the larger-scale trends.  As indicated by Table 1, for example, since 1989 there has been an overall increase in the number of small colonies (defined as ≤ to 50 breeding pairs; Fraser & Patterson 1997) on Torgersen Island.  However, while trends do not differ between the control and visited sides of the island, pooling the colonies based on aspect shows clearly the sharp increase in small colonies on south-facing landscapes.   The same pattern is evident for breeding success (Table 2).  Thus, while no differences are observed in the average number of chicks produced per pair between the control and visited sides of Torgersen Island, pooling the reproductive data based on aspect again demonstrates the strong negative effects that are associated with south-facing landscapes.  As suggested by Root & Schneider (1995), this small- to large-scale concurrence between cause and effect provides strong evidence that snow in combination with landscape aspect and topography are driving aspects of the demography of Adélie penguins in the PAL region.   
+
+Table 2.  Average productivity (chicks/pair) on Torgersen Island, 2002 -200, relative to tourist activity and landscape aspect.
+
+LOCATION
+NORTH ASPECT
+SOUTH ASPECT
+CONTROL
+1.16
+0.54
+TOURIST
+1.08
+0.75
+INTEGRATED PRODUCTIVITY (whole island)
+1.12
+0.64
+	
+
+
+Discussion and Conclusions
+
+The distribution and persistence of seabird populations over time ultimately reflect the availability of suitable nesting and foraging habitats (Fraser & Trivelpiece 1996, Micol & Jouventin 2001).  Adélie penguins preferentially breed in areas where spring snow accumulations are minimized by wind-scour (Wilson et al. 1990). The population trends observed in Figs. 2 and 4 would thus imply that the availability of suitable nesting habitat in the PAL region is adversely changing, and indeed it is now well documented that snow precipitation is increasing over the Western Antarctic Peninsula region (Turner et al. 2005).  The processes involved are suggested by Tables 1 and 2, with colonies on south-facing landscapes becoming increasingly unsuitable for reproduction and more vulnerable to chick and egg loss due to avian predators as the colonies decrease in size (Fraser & Patterson 1997, Patterson et al. 2003, Carlini et al. 2006).  This is not to say that the well recognized interactions between changing winter sea ice conditions and food web dynamics (e.g., Fraser et al. 1992, Forcada et al. 2006, Hinke et al. 2007) are mechanistically unimportant here, but rather that each represents a different stressor operating over different scales (regional vs. local) and producing an overall negative cumulative effect.  This is most evident in the extinction of Adélie penguins on Litchfield Island, which occurred temporally over the course of decades as a trend that was significantly different from that of other local populations.  
+
+Two main conclusions can be drawn from these results.  First, the data do not suggest that tourism is not impacting Adélie penguins, but rather that impacts, if present, are not detectable relative to the much larger effects of environmental variability on the processes that regulate demography.  Importantly, although it could be argued that this conclusion may only apply to Palmer Station due to its well-managed tourism activities (cf. Patterson et al. 2003), other researchers exploring similar questions with different species and/or at sites where vastly larger numbers of tourists occur have reached similar conclusions (Cobley & Shears 1999, Micol & Jouventin 2001, Carlini et al.2007, Trathan et al. 2008).  
+
+The second conclusion, related to the first, concerns the type of research that may be needed to detect impacts.  While this may appear contradictory in light of the first conclusion discussed, the potential effects of additive stressors and cumulative impacts on critical life history thresholds cannot be ignored in future scenarios. Indeed, there are some wildlife response studies to tourism in which negative impacts implicate such interactions (e.g., Micol & Jouventin 2001, McClung et al. 2004, Holmes et al. 2006).  At Palmer Station, for example, it would be desirable to know if smaller colonies (Table 1) become increasingly susceptible to tourist disturbance via cumulative impacts which further diminish colony viability.  The implied interactions are potentially complex based on what is already known about how Adélie penguin life history responds to environmental variability.  However, if trends in Antarctic tourism continue (Fig.1), management regimes may be inevitable (e.g., McClung et al. 2004) and therefore science-informed management would be a desirable outcome. As suggested by Trathan et al. (2008), these objectives will only be achieved by matching research efforts to the scales of the questions that need to be answered, meaning that simplistic approaches lacking a properly scaled terrestrial and marine foundation are not likely to succeed. 
+References
+Bricher, P.K., Lucieer, A., Woehler, E.J. 2008. Population trends of Adélie penguin (Pygoscelis adeliae) breeding colonies: a spatial analysis of the effects of snow accumulation and human activities. Polar Biology 31: 1397-1407. 
+Carlini, A.R., Coria, N.R., Santos, M.M., Libertelli, M.M. & Donini, G. 2007. Breeding success and population trends in Adélie penguins in areas with low and high levels of human disturbance. Polar Biology 30: 917-924.
+Cobley, N.D. & Shears, J.R. 1999.  Breeding performance of gentoo penguins (Pygoscelis papua) at a colony exposed to high levels of human disturbance. Polar Biology 21: 355-360. 
+Croxall, J.P., McCann, T.S., Prince, P.A. & Rothery, P. 1988. Reproductive performance of seabirds and seals at South Georgia and Signy Island 1976-1986: implications for Southern Ocean monitoring studies. In: Sarhage, D. (ed.), Antarctic Ocean and Resources Variability. Springer, Berlin, pp 261-285. 
+Forcada, J., Trathan, P.N., Reid, K., Murphy, E.J. & Croxall, J.P. 2006.  Contrasting population changes in sympatric penguin species in association with climate warming. Global Change Biology 12: 411-423. 
+Fraser, W.R. & Patterson, D.L.  1997.  Human disturbance and long-term changes in Adélie Penguin populations:  A natural experiment at Palmer Station, Antarctic Peninsula.  In: Battaglia, B., Valencia, J., Walton, D.W.H. (eds), Antarctic Communities: Species, Structure and Survival.  Proceedings of the VI SCAR Biology Symposium, Cambridge University Press, pp. 445-452.
+Fraser, W.R. & Trivelpiece, W.Z. 1996. Factors controlling the distribution of seabirds: winter-summer heterogeneity in the distribution of Adélie penguin populations. In: Ross, R.M., Hofmann, E.E. & Quetin L.B. (eds.), Foundations For Ecological Research West of the Antarctic Peninsula. Antarctic Research Series, Volume 70, American Geophysical Union, Washington D.C., pp. 257-272. 
+Fraser, W.R., Trivelpiece, W.Z., Ainley, D.G. & Trivelpiece, S.G. 1992.  Increases in Antarctic penguin populations: reduced competition with whales or a loss of sea ice due to environmental warming? Polar Biology 11: 525-531.
+Giese, M. 1996. Effects of human activity on Adélie penguin Pygoscelis adeliae breeding success.  Biological Conservation 75: 157-164.
+Hinke, J.T., Salwicka, K., Trivelpiece, S.G., Watters, G.M. & Trivelpiece, W.Z. 2007. Divergent responses of Pygoscelis penguins reveal a common environmental driver. Oecologia 153: 845-855.
+Holmes, N.D., Giese, M., Achurch, Robinson, S. & Kriwoken, L.K. 2006. Behaviour and breeding success of gentoo penguins Pygoscelis papua in areas of low and high human activity.  Polar Biology 29: 399-412.
+IAATO. (2009). Tourism Statistics. Retrieved 02/ 21/ 2009, from International Association of Antarctic Tour Operators: http://www.iaato.org/tourism_stats.html
+McClung, M.R., Seddon, P.J., Massaro, M. & Setiawan, A.N. 2004. Nature-based tourism impacts on yellow-eyed penguins Megadyptes antipodes: does unregulated visitor access affect fledging weight and juvenile survival? Biological Conservation 119: 279-285.
+Micol, T. & Jouventin, P. 2001.  Long-term population trends in seven Antarctic seabirds at Pointe Geologie (Terre Adélie); human impact compared with environmental change. Polar Biology 24: 175-185. 
+Patterson, D.L., Easter-Pilcher, A.L. & Fraser, W.R. 2003.  The effects of human activity and environmental variability on long-term changes in Adélie penguin populations at Palmer Station, Antarctica.  In:  Huiskes, A.H.L., Gieskes, W.W.C., Rozema, J., Schorno, R.M.L., van der Vies, S.M. & Wolff, W.J. (eds.) Antarctic Biology in a Global Context, pp. 301-307. Backhuys Publishers, Leiden. 
+Parmelee, D.F. 1992.  Antarctic Birds:  Ecological and Behavioral Approaches. University of Minnesota Press, Minneapolis.  203 pp.
+Root, T.L. & Schneider, S.H. 1995. Ecology and climate: research strategies and implications. Science 269: 334-341. 
+Trathan, P. F., Forcada, J., Atkinson, R., Downie, R.H. & Shears, J.R.  2008. Population assessments of gentoo penguins (Pygoscelis papua) breeding at an important Antarctic tourist site, Goudier Island, Port Lockroy, Palmer Archipelago, Antarctica. Biological Conservation , 3019-3028.
+Turner, J., Lachlan-Cope, T., Colwell, S., Marshall, G.J.  2005.  A positive trend in western Antarctic Peninsula precipitation over the last 50 years reflecting regional and Antarctic-wide atmospheric circulation changes.  Annals of Glaciology 41: 85-91. 
+Wilson, K.J., Taylor, R.H. & Barton, K.J. 1990. The impact of man on Adélie penguins at Cape Hallett, Antarctica. In: Kerry, K.R. & Hempel, G. (eds.), Antarctic ecosystems: ecological change and conservation.  Springer-Verlag, Berlin & Heidelberg,  pp. 183-190. 
+Woehler, E.J., Cooper, J., Croxall, J.P., Fraser, W.R., Kooyman, G.L., Miller, G.D., Nel, D.C., Patterson, D.L., Peter, H.-U., Ribic, C.A., Salwicka, K., Trivelpiece, W.Z., Weimerskirch, H. 2001. A statistical assessment of the status and trends of Antarctic and subantarctic seabirds. SCAR/CCAMLR/NSF,  Bozeman, Montana, 43pp.
+

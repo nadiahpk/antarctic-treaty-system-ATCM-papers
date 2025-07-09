@@ -1,0 +1,1535 @@
+ANTARCTIC TREATY
+XVIII th CONSULTATIVE MEETING                                  TRATADO ANTARTICO
+                                                               XVIII REUNION CONSULTIVA
+TRAITÉ SUR L'ANTARCTIQUE
+XVIII éme RÉUNION CONSULTATIVE                                  ДОГОВОР ОБ АНТАРКТИКЕ
+                                                                XVIII КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+                                KYOTO
+                                11-22 April 1994
+
+XVIII ATCM/INFO 13
+
+10 April 1994
+
+Original: English
+
+EXAMPLE OF AN ENVIRONMENTAL AUDIT
+
+(Submitted by IAATO)
+11 April 1994
+Kyoto, Japan
+
+EXAMPLE OF AN ENVIRONMENTAL AUDIT
+(submitted by IAATO)
+
+Office Of The Secretariat
+11417 S.E. 215th Street • Kent, WA 98031 • U.S.A.
+Tel: (206) 854-7541 • Fax: (206) 850-3167
+ENVIRONMENTAL AUDIT
+
+QUARK EXPEDITIONS INCORPORATED
+ENVIRONMENTAL AUDIT
+
+ANTARCTIC AND SOUTHERN OCEAN
+EXPEDITION CRUISES OF
+QUARK EXPEDITIONS INC.
+
+Prepared for
+Quark Expeditions Incorporated
+980 Post Road, Darien, Connecticut 06820 USA
+
+Prepared by
+POLES APART
+PO Box 89 Bourn, Cambridge CB3 7TF UK
+PO Box 170 Sandy Bay, Tasmania 7005 Australia
+
+March 1994
+
+Comments and sugestions about this Environmental Audit
+are encouraged. Please forward them to Poles Apart
+Table of Contents
+
+1.0 Executive Summary                                  1
+1.1 Aims and Objectives                                1
+1.2 Existing Activity                                  3
+1.3 Environmental Issues                               4
+1.4 Preparation and Distribution                       4
+
+2.0 Description of Quark Expeditions                   4
+2.1 Type of Activity                                   4
+2.2 Description of Operations                          5
+2.3 Safety Policy                                     10
+2.4 Environment Policy                                10
+2.5 Permissions and National Science Foundation       10
+        Requirements
+
+3.0 Description of Operational Area                  11
+3.1 Physical Characteristics of the Areas             11
+    3.1.1 Oceanic                                      11
+    3.1.2 Sub-Antarctic Islands                        12
+    3.1.3 Maritime Antarctic                           12
+    3.1.4 Coastal continental                          12
+3.2 Biota                                             12
+    3.2.1 Oceanic                                      12
+    3.2.2 Sub-Antarctic Islands                        13
+    3.2.3 Maritime Antarctic                           13
+    3.2.4 Coastal continental                          14
+3.3 Protected Areas                                   15
+3.4 Wilderness, Aesthetic and Recreational Values     15
+
+4.0 Ship Operation and Management                    16
+4.1 Description of Ships, Inflatable Craft and        16
+        Helicopters
+4.2 Waste Management                                  18
+    4.2.1 Oil and Oily Mixtures - Annex I              19
+    4.2.2 Sewage - Annex IV                            19
+    4.2.3 Garbage - Annex V                            20
+    4.2.4 Ballast Water                                22
+4.3 Transport                                         22
+4.4 Port Facilities                                   25
+4.5 Emergency Response, Accidents and Spills          25
+
+5.0 Visitor Management                               26
+5.1 Instruction of Passengers, Staff and Ships’ Crew  26
+5.2 Ships, Anchorages and Passenger Transfers         28
+
+March 1994                                            Environmental Audit
+                                                      Quark Expeditions Inc.
+5.3     Management of Passengers Ashore                  29
+5.4     Expedition Leader and Staff                     31
+5.5     Visitor Conduct                                 31
+5.6     Visitor Numbers                                33
+
+6.0     Conclusion                                      34
+6.1     Office Procedures                               34
+6.2     Management of Ships                             35
+6.3     Activities Ashore                               36
+
+7.0     Recommendations                                 37
+
+8.0     Bibliography                                    39
+
+Appendix 1. Briefing Packs                              40
+Appendix 2. MARPOL 73/78 - Extract of List of           41
+            Contracting States
+
+Figures
+
+Figure 1.  Antarctica and Southern Ocean                 3
+Figure 2.  Ships used by Quark Expeditions in the Antarctic
+            and Southern Ocean 1993-94                      9
+Figure 3.  Passengers Disembarking Zodiac inflatable craft   24
+Figure 4.  Mi-2 Helicopter on sight-seeing tour over the
+            Weddell Sea Pack Ice                            24
+Figure 5.  Passengers crossing vegetation, South Georgia    31
+Figure 6.  Passengers Visiting Riiser-Larsen Emperor Penguin
+            Colony                                          31
+
+Tables
+
+Table 1.    Passenger Numbers for the 1992-93 and 1993-94
+            Seasons                                         7
+Table 2.    Antarctic and Southern Ocean Areas Visited by
+            Quark Expeditions                               8
+Table 3.    Details of Ships Used in the 1993-94 Season     18
+
+March 1994                                              Environmental Audit
+                                                         Quark Expeditions Inc.
+1.0 Executive Summary
+This environmental audit provides an assessment of the seaborne commercial activities of Quark Expeditions Incorporated (or more simply, Quark Expeditions) in the Antarctic and Southern Ocean regions. The audit represents an inventory of past and present environmental practices. As a management tool, it can be used to facilitate control of practices and assess compliance with legislation. The audit process involved a field component and an assessment of the management structure of Quark Expeditions undertaken during the 1993-94 season.
+
+Operational planning, execution and monitoring activities are considered consistent with Antarctic Treaty Recommendations and Agreed Measures, and are within the spirit of the Madrid Protocol. Ships' operation is consistent with requirements of MARPOL 73/78, Antarctic Treaty Recommendations and is within the spirit of Annex III of the Madrid Protocol.
+
+Recommendations are made in the following areas:
+  Development of a company environmental management policy.
+  Preparation of an Environmental Handbook.
+  Preparation of a fuel contingency plan.
+  Preparation of a waste management plan.
+  Formalization of Sailing and Air Navigation Orders.
+  Care over introduction of non-indigenous organisms.
+  Choice of sites.
+  Review of staff and crew training.
+
+1.1 Aims and Objectives
+
+The overall aim of this environmental audit is to determine whether appropriate care has been exercised during Quark Expeditions' Antarctic and Southern Ocean cruises to prevent environmental impact. This requires the determination and verification of environmental policies, guidelines and procedures. An audit necessitates the verification of evidence. This requires the collection of evidence and documentation of compliance with legal and corporate requirements, and inspection of operations and procedures for environmental impact. For instance, the audit includes specific
+
+March 1994                                 -1-                                  Environmental Audit
+                                                                             Quark Expeditions Inc.
+reference to ship operations and visitor management and makes recommendations to reduce Quark Expeditions' operational environmental impact.
+
+There is no requirement under current Antarctic environmental legislation for environmental audit or environmental assessment by commercial operators. Antarctic Treaty Recommendation XIV-2 refers to government actions, and no commercial operator has prepared an assessment under that Recommendation. This audit has been prepared in full knowledge of the Protocol on Environmental Protection to the Antarctic Treaty 1991 (Madrid Protocol), which has yet to come into force. Annex I of the Protocol, which describes environmental impact assessment procedures, is intended for proposed activities, however, Quark Expeditions have been operating for a number of years.
+
+Environmental audit should not to be confused with environmental impact assessment (EIA). An EIA is largely predictive and assesses the expected and potential environmental impacts associated with a present or proposed activity. EIAs are often focused on a specific site or area of operations. Environmental audit is a common tool for assessing the impact of existing commercial operations. Quark Expeditions cruises have no one focus and itineraries as well as ships change. It is therefore appropriate for Quark Expeditions to commission such an audit.
+
+Relevant legislation considered in the preparation of this audit included:
+
+    Antarctic Treaty and Recommendations
+    MARPOL 73/78
+    US Antarctic Conservation Act of 1978
+    Agreed Measures for the Conservation of Antarctic Fauna and 
+    Flora
+    Falkland Islands Dependencies Conservation Ordinances 1975
+    Territory of Heard Island and McDonald Islands, Environmental 
+    Protection and Management Ordinance 1987
+    National Parks and Wildlife Act 1970
+
+March 1994                                  -2-         Environmental Audit
+                                                         Quark Expeditions Inc.
+1.2 Existing Activity
+Quark Expeditions is a tour operator based in Darien, Connecticut,
+USA that offers expedition or adventure cruising to the Antarctic and
+Southern Ocean regions aboard chartered ships. Services include
+cache positioning and logistic support for expeditions. This audit is
+only concerned with activities in the Antarctic and Sub-Antarctic
+region, although comparisons are made with other areas. Quark
+Expeditions typically focuses on expedition cruises to the Antarctic
+Peninsula, however, cruises are made to the Ross Sea, Weddell Sea,
+East Antarctica and Sub-Antarctic islands. (Figure 1). During the 1993-
+94 season, Quark Expeditions used three ships, all equipped with
+Zodiac (inflatable) landing craft and one of which carried helicopters.
+
+ 
+                                                    
+                                                          SOUTH AFRICA
+ 
+ 
+                  SOUTH                                                    
+                  AMERICA               South Georgia            
+ 
+ 
+                                       South Sandwich Is            
+ 
+ 
+                                       Weddell Sea                  
+ 
+ 
+          90° W                                  ANTARCTICA       
+ 
+ 
+                                                          90° E    
+ 
+ 
+                                       Ross Sea                     
+                                                          Iles Crozet  
+ 
+ 
+                                                          Iles Kerguelen  
+ 
+ 
+                                                          Antarctic    
+                                                          Convergence  
+ 
+ 
+                                       Antarctic Circle             
+                                                          NEW ZEALAND  
+ 
+ 
+                                                          AUSTRALIA    
+ 
+ 
+                                       180°                         
+ 
+Figure 1. Antarctica and Southern Ocean
+
+March 1994                                 -3-                  Environmental Audit
+                                                         Quark Expeditions Inc.
+1.3 Environmental Issues
+Quark Expeditions has not previously undertaken an environmental 
+impact assessment or evaluation of their Antarctic and Southern 
+Ocean activities. This environmental audit is the first such exercise by 
+an Antarctic seaborne tourism operator.
+
+1.4 Preparation and Distribution
+Poles Apart, an independent, international polar consulting group, was 
+commissioned to prepare this audit. Field work was conducted during 
+November 1993 to January 1994 in the Atlantic sector of Antarctica. 
+Representatives of Poles Apart accompanied various Quark Expeditions 
+cruises during this period. During February 1994 Poles Apart was 
+given access to all relevant files and documents at Quark Expeditions' 
+US headquarters.
+
+To keep this audit report to a reasonable length some documents have 
+not been attached. Copies of this material (listed in Appendix I) may 
+be obtained from Quark Expeditions.
+
+To obtain a wide range of feedback the audit will be circulated to 
+Antarctic Treaty Consultative Parties and the Scientific Committee on 
+Antarctic Research through its Group of Specialists on Environmental 
+Affairs and Conservation. Other interested parties can obtain copies 
+through Quark Expeditions. Comments and suggestions are 
+encouraged and should be sent to Poles Apart.
+
+2.0 Description of Quark Expeditions
+2.1 Type of Activity
+Quark Expeditions has been operating for three years in its current 
+form, and prior to that for more than ten years. The company is 
+registered in Delaware, USA with one owner. Quark Expeditions 
+Incorporated is the general sales agent for Super Nova Expeditions Ltd, 
+a single-owner company registered in the Isle of Man. Quark 
+Expeditions employs five office staff, all of whom are based in Darien, 
+and a variable number of ship-borne staff as required by cruises.
+
+March 1994                                  -4-                  Environmental Audit
+                                                                  Quark Expeditions Inc.
+Quark Expeditions carries Completed Operation insurance that includes public liability and sudden and accidental pollution. The limit of liability of the coverage of Quark Expeditions is US$20 million. Insurance of sudden and accidental pollution coverage for the ships is divided between Super Nova Expeditions, Quark Expeditions and the ship owners. Coverage is subject to the "American Institute Pollution Exclusion Clause (P&I) and Buy-Back Endorsement A (July 4, 1976)". The limit of liability of this coverage is US$20 million.
+
+Ships are chartered for Antarctic and Southern Ocean cruises by Super Nova Expeditions and marketed by Quark Expeditions as the world-wide sales agent. Cruises are sold in three ways: All passengers book through Quark Expeditions which runs the entire cruise; passengers book through Quark Expeditions, which runs the cruise, but block bookings are accepted from other tour operators; an entire ship is sub-chartered to another tour operator which may accept block bookings from other tour operators.
+
+Quark Expeditions is a member of the International Association of Antarctica Tour Operators (IAATO). IAATO was formed to represent Antarctic travel companies and includes among its aims to promote and practice safe and environmentally responsible travel to Antarctica; the development of Guidelines of Conduct for Antarctica Tour Operators and Guidelines of Conduct for Antarctica Visitors; to operate within the parameters of the Antarctic Treaty, Madrid Protocol, MARPOL and similar international agreements; and to foster cooperation between operators.
+
+2.2 Description of Operations
+
+The Antarctic cruise season typically commences early December and ends in late February or March. Vessels depart from ports in South America, Falkland Islands, Australia, New Zealand and, more rarely, South Africa. Most sectors of Antarctica and all Sub-Antarctic islands have been visited by cruise ships but the greatest number of cruises are to the Antarctic Peninsula.
+
+There are several stages in the process of organising and operating cruises. The initial stage is selling, booking and pre-departure
+
+March 1994                                  -5-                                  Environmental Audit
+                                                                                  Quark Expeditions Inc.
+documentation; the second stage is briefing and familiarisation of 
+passengers, staff and crew; finally, there is the running of the cruise 
+itself. The term staff refers to direct employees of Quark Expeditions, 
+i.e., expedition leader, lecturers, medical officers and Zodiac drivers.
+
+In brief, the first stage commences with ship charter arrangements, 
+initial itinerary planning and advertising. All the ships are stored 
+through a chandler based in Hamburg, Germany. Relevant permissions, 
+requirements for notification and courtesy letters are dealt with, 
+meanwhile staff are appointed. Passengers are sent a briefing pack on 
+confirmation of booking.
+
+At the start of the season and commencement of each cruise a series 
+of briefings are given to staff, passengers and ship's crew. These 
+include ship safety requirements, ship routines, landing procedures and 
+activities ashore. Cruises are run along well established lines, and one 
+that has a high degree of flexibility to allow for weather and ice 
+conditions, other vessels and unforeseen circumstances. Radio contact 
+is made between ships in the area and stations to which visits are 
+planned.
+
+During a cruise the day is filled by landings, lectures, and 
+presentations. Landings by Zodiac or helicopter may be almost at any 
+time during the day and are typically 2-4 hours duration. Zodiac 
+cruising involves taking passengers on wildlife and scenic viewing trips 
+for up to two hours; whereas helicopter sight-seeing tours are for 20-
+30 minutes. Quark Expeditions uses a tag-board system to keep track 
+of passengers ashore. All tags must be reset before the ship will move 
+off station. From time to time, a 'recap' session is held to reinforce the 
+educational part of the cruise and to allow passengers to comment on 
+activities.
+
+Quark Expeditions publishes details of pre-arranged tours to a variety 
+of Antarctic destinations. A total of 16 cruises were offered during the 
+1993-94 season carrying 891 passengers. During the 1992-93 season 
+16 cruises carried 699 passengers. Passenger numbers for these two 
+seasons are given in Table 1 and a list of recent destinations is given 
+in Table 2.
+
+March 1994                                  -6-                  Environmental Audit
+                                                                     Quark Expeditions Inc.
+Table 1. Passenger Numbers for the 1992-93 and 1993-94 Seasons
+
+                                      
+    Cruise      1992-93              1993-94              
+    Number     Passenger  Staff     Passenger  Staff     
+               Number     Number    Number     Number    
+Professor Molchanov                               
+1              24         4         31         4       
+2              32         4         39         4       
+3              28         4         35         4       
+4              35         4         22         4       
+5              38         4         18         4       
+6              29         4         15         4       
+7              38         4         18         4       
+8              34         4         -          -       
+                                                    
+Total          258                   178              
+                                                      
+Akademik Sergey Vavilov                           
+1              29         7         74        12       
+2              38         7         72         7       
+3              54         7         78         7       
+4              63         7         71         7       
+5              42         7         39         7       
+                                                    
+Total          226                   334              
+                                                      
+Kapitan Khlebnikov                                
+1              58         -         103        15       
+2              72         -         105        11       
+3              85         -         67         10       
+4               :         -         104        10       
+                                                    
+Total          215                   379              
+                                                      
+Year Total     699                   891              
+
+In addition, Quark Expeditions has assisted scientific and private expeditions. Logistic support has been provided for Project Antarctic Conservation scientists from the Scott Polar Research Institute, UK; ice was broken for several hours for a research ship in exchange for medical supplies; a cruise was interrupted to reverse course in response to a distress signal, later cancelled, from a research ship; logistic support was provided for an expedition attempting to repeat
+
+March 1994          -7-         Environmental Audit
+                                      Quark Expeditions Inc.
+Shackleton's voyage from Elephant Island to South Georgia; an 
+amateur radio group was established on Peter I Øya; fuel caches have 
+been placed for Adventure Network International; and passage 
+provided for Italian and New Zealand scientists.
+
+For the 1993-94 season Super Nova Expeditions chartered three 
+Russian registered vessels: Kapitan Khlebnikov, Akademik Sergey 
+Vavilov and Professor Molchanov (Figure 2). The passenger capacity 
+of the ships ranges from 38 to a maximum of 112. Sub-charter 
+options, as described in section 2.1, were taken by Zegrahm 
+Expeditions (Akademik Sergey Vavilov) and Mountain Travel*Sobek 
+(Professor Molchanov). Staff from these companies also participated 
+on some of the Quark Expeditions' cruises.
+
+Kapitan Khlebnikov carried two twin-engine, Mi-2 helicopters. This 
+was the first time that a cruise ship has used helicopters as part of 
+their Antarctic operations, although there have been private helicopter 
+charters in Antarctica in the past. All the ships were equipped with 
+Zodiac Mark V (Heavy Duty) inflatable craft fitted with 40 horsepower 
+Yamaha outboard motors. These used two-stroke oil/gasoline mix.
+
+Table 2. Antarctic and Southern Ocean Areas Visited by Quark Expeditions
+
+Oceanic                  Southern Ocean, Drake Passage, Scotia Sea, Ross 
+                         Sea, Weddell Sea, Bellingshausen Sea, Amundsen 
+                         Sea.
+
+Sub-Antarctic Islands    South Georgia, Macquarie Island, Iles Crozet, Iles 
+                         Kerguelen, Heard Island and McDonald Islands.
+
+Maritime Antarctic       South Orkney Islands, South Sandwich Islands, 
+                         South Shetland Islands, Elephant and Clarence 
+                         Islands, Antarctic Peninsula (Trinity Peninsula and 
+                         Graham Land), Marguerite Bay.
+
+Coastal continental      Princes Martha Coast, Ross Sea sector, Enderby 
+                         Land, Mawson Coast, Wilkes Land, Victoria Land, 
+                         Peter I Øya, Balleny Islands.
+
+March 1994                                  -8-
+Environmental Audit
+Quark Expeditions Inc.
+Kapitan Khlebnikov
+
+Akademik Sergey Vavilov
+
+Professor Molchanov
+
+Figure 2.  Ships used by Quark Expeditions in the Antarctic 
+and Southern Ocean 1993-94
+
+March 1994                  -9-         Environmental Audit
+                                           Quark Expeditions Inc.
+2.3 Safety Policy
+Quark Expeditions has no published safety policy. Safety procedures 
+are included in the expedition leader's sailing orders, given part 
+verbally, part written. Expedition leaders routinely brief staff, 
+passengers and crew on safety procedures. Expedition leaders' end of 
+cruise reports regularly contain comments on safety. A frequent issue 
+is potential improvements to the gangway for safer access to Zodiac 
+craft in swell.
+
+2.4 Environment Policy
+Quark Expeditions do not have a formal environmental policy, 
+however, the following statement is published in their brochures:
+
+These are voyages of discovery and learning that are planned 
+and conducted in respect to fragile habitats and remote 
+cultures. Quark Expeditions is an active member of the 
+International Association of Antarctica Tour Operators and we 
+abide by a common sense code of conduct.
+
+Quark Expeditions adhere to the IAATO Guidelines of Conduct for 
+Antarctica Tour Operators and the Guidelines of Conduct for 
+Antarctica Visitors. The tour operator guidelines list requirements for: 
+legislation, visitor management, lecturers, staff, crew and passengers, 
+communication, and waste management.
+
+2.5 Permissions and National Science Foundation Requirements
+Quark Expeditions is responsible for obtaining relevant permissions to 
+visit Antarctic and Sub-Antarctic sites. The process is often long and 
+involved because of the number of different countries, departments 
+and requirements involved.
+
+The National Science Foundation (NSF) holds an annual meeting, 
+usually in July, in Washington DC. NSF and tour company 
+representatives meet to review visits to US Antarctic stations, discuss 
+upcoming itineraries, USAP publications, status of USAP science, 
+observers reports and developments in environmental regulations. The 
+one day meeting provides an opportunity for tour operators to meet 
+and to discuss developments that may affect their operations.
+
+March 1994                                  -10-                          Environmental Audit
+                                                                             Quark Expeditions Inc.
+NSF runs an observer program whereby US Government 
+representatives accompany cruises. Only cruises containing 50% or 
+more US citizens on the passenger list are considered, and not all are 
+observed. NSF, through its Polar Information Section, provides 
+publications for distribution to passengers including: information on 
+USAP, conservation of birds, a visitors guide, recent US environmental 
+actions, news clips, videos and US environmental legislation.
+
+Historically, record keeping of passengers, staff and crew has been 
+done manually at Quark Expeditions' headquarters. In April 1992 a 
+computer-based reservation system was installed to improve data 
+management. This system assists reporting under Antarctic Treaty 
+Recommendation VIII-9, Annex C, which requires information on 
+passenger nationality, visitor sites, landings on shore and Zodiac 
+cruising.
+
+3.0 Description of Operational Area
+
+Quark Expeditions operates in a range of Antarctic and Southern 
+Ocean environments. The most important of these areas is the Atlantic 
+sector which includes the Antarctic Peninsula and islands of the Scotia 
+Arc. Four areas are defined for the purposes of this audit:
+
+    Oceanic, eg., Southern Ocean, Weddell Sea.
+    Sub-Antarctic islands, eg., South Georgia, Macquarie Island.
+    Maritime Antarctic, eg., South Orkney Islands, Antarctic 
+    Peninsula.
+    Coastal continental, eg., Dronning Maud Land, Ross Sea sector.
+
+3.1 Physical Characteristics of the Areas
+
+3.1.1 Oceanic
+
+The Southern Ocean and related oceanic systems are important in 
+terms of the Antarctic and world's climate. The Southern Ocean is 
+seasonally ice covered, with a minimum of about 3 x 10 km² by the 
+end of the summer in February. Icebergs are common and most are 
+tabular-type derived from ice shelves. They may be encountered well 
+to the north of the Antarctic Convergence.
+
+March 1994                                  -11-
+                Environmental Audit
+                Quark Expeditions Inc.
+3.1.2 Sub-Antarctic Islands
+
+This term is used here to refer to isolated islands which may lie within
+or just outside the Antarctic Convergence. Many are mountainous,
+variously glaciated and often of volcanic origin. Most lie within the
+predominantly westerly airstream that is common between the 50°
+and 60°S latitudes. Their climate is cold, wet and windy.
+
+3.1.3 Maritime Antarctic
+The northern half of the Antarctic Peninsula and nearby islands of the
+Scotia Arc constitute the main Maritime Antarctic area, characterised
+by extensive exposures of rock during summer melt periods, high
+precipitation and seasonally open small lakes and ponds. However,
+parts of the continental coastline such as Vestfold Hills, Wilkes Land,
+with similar climatic conditions and significant rock exposures may
+also be included in this category.
+
+3.1.4 Coastal continental
+Extensive areas of the continental coastline are ice-fronted, either by
+ice cliffs with occasional rock exposures or by ice shelf. In some
+regions coastal ranges and nunataks extend inland. The Victoria Land
+coastline shows extensive rock exposure but is conveniently grouped
+in this category.
+
+3.2 Biota
+The four regions have widely differing biota. Typically, the number of
+species diminishes further south although colony sizes of individual
+species often increases. The time available for breeding also shortens
+with increasing latitude. Antarctic food chains are typically short.
+
+3.2.1 Oceanic
+During summer, the retreating ice front and near-24-hour daylight over
+much of the Southern Ocean drives phytoplankton blooms. Certain
+regions, eg., Bransfield Strait and Prydz Bay are important for primary
+productivity leading to massive zooplankton aggregations upon which
+many species of birds, seals, and whales feed. Inshore marine biota is
+surprisingly rich and provides a food source for many species of
+breeding birds.
+
+March 1994                                  -12-     Environmental Audit
+                                                                  Quark Expeditions Inc.
+Crabeater (Lobodon carcinophaga), Ross (Ommatophoca rossii) and 
+leopard seals (Hydrurga leptonyx) breed circumpolarly in the pack-ice 
+zone. Migrating species of birds and whales, notably Arctic tern 
+(Sterna paradisea) and Humpback whales (Megaptera novaeangliae) 
+tend to feed along the retreating pack-ice line during spring and 
+summer.
+
+3.2.2 Sub-Antarctic Islands
+
+There is substantial variation between these islands but usually they 
+are treeless, windswept and tundra-like. They exhibit a range of soils 
+from weathered mineral deposits to peaty soils underlying grass and 
+moss. Lakes and ponds are common, some of which have a diverse 
+biota.
+
+Coastal and lower-lying areas of the more northerly islands have an 
+extensive vascular flora often supporting a rich invertebrate fauna, 
+many of which are endemic. On others, the vascular species are more 
+limited. Lichens, bryophytes and hepatics are also common, extending 
+beyond the range of the vascular flora.
+
+The islands support a wide range of penguin and bird species including 
+some land birds (eg. South Georgia pipit, Anthus antarcticus, 
+Kerguelen pintail, Anas eatoni) and seals. Large populations breed or 
+moult on land and feed in coastal or oceanic waters. Various island 
+systems have been affected by the recovery of the Antarctic fur seal 
+population (Arctocephalus gazella) and disturbed by introduced land 
+mammals such as cats, rats and reindeer. These have been responsible 
+for reduction in burrowing petrels, overgrazing, trampling and 
+flattening of tussock (Poa fabellata) grassland, changes that have 
+allowed skua populations to increase.
+
+The South Georgia population of wandering albatross (Diomedea 
+exulans) has been declining in recent years due to incidental takes by 
+fishing vessels and disturbance from fur seals.
+
+3.2.3 Maritime Antarctic
+
+The combination of ice-free habitat and relatively mild climate provide 
+favourable conditions for vegetation. Most ice-free areas are typical
+
+March 1994                                  -13-     Environmental Audit
+                                                                  Quark Expeditions Inc.
+Antarctic Fellfield but extensive areas may be covered by bryophytes 
+and hepatics. Only two vascular plants are recorded: a grass 
+(Deschampsia antarctica) and a cushion plant (Colobanthus quitensis). 
+Enrichment of coastal cliffs by sea spray and nesting birds results in 
+large colourful stands of lichen. Blooms of snow algae are typical on 
+islands of the Scotia Arc and Peninsula during the summer, resulting in 
+red, green/yellow or grey coloration to the snow.
+
+The terrestrial invertebrate community is relatively poor and consists 
+mostly of decomposers with a few micro-predators. Two species of 
+wingless midge are found on the Antarctic Peninsula, Belgica 
+antarctica and Parochlus steineni. Freshwater lakes and ponds are 
+common, ranging from oligotrophic to highly enriched, the latter 
+dominated by phytoplankton.
+
+Petrels are the most abundant of the 16 species of seabirds recorded 
+in the Maritime Antarctic. The avifauna, however, is dominated by 
+penguins although all seabirds that breed in the region are common. 
+The Atlantic sector is the centre for the chinstrap penguin (Pygoscelis 
+antarctica) population but there are also large populations of Adélie 
+and gentoo penguins (P. adeliae, P. papua).
+
+The inshore coastal marine environment is subject to frequent and 
+severe scouring by ice and there is a sparse biota in the littoral zone. 
+At protected sites and below the ice-scour level there are substantial 
+algal growths and associated fauna. The rich marine fauna contrasts 
+strongly with the relatively impoverished land biota.
+
+All Antarctic seal species have been recorded in the Maritime Antarctic 
+area, although fur seals are uncommon until adult males come ashore 
+to moult. Considerable damage to the vegetation of low lying coastal 
+areas has resulted.
+
+3.2.4 Coastal continental
+Most of the continental biota is found in the coastal region; inland 
+nunataks and mountain ranges have a limited biota. Continental flora 
+consists of one species of hepatic, 30 species of moss and 125 
+species of lichens. Certain crystalline rocks may contain endolithic
+
+March 1994                                  -14-                  Environmental Audit
+                                                                  Quark Expeditions Inc.
+bacteria, algae and fungi. There are no vascular plants. There is a 
+range of invertebrate fauna consisting of nematodes, arthropods, 
+insects and arachnids. All, however, are limited to rock outcrops and 
+nunataks.
+
+Ice-fronted areas are almost devoid of life except for bacteria, yeasts 
+and spray-enriched snow algal blooms. Coastal rock exposures have 
+abundant seabird populations, mostly limited to Adélie penguins and 
+small petrels. Unusual among Antarctic birds is the emperor penguin 
+(Aptenodytes forsteri) that starts to breed in winter on sheltered areas 
+of sea ice beside the coastline. Common on coastal fast ice in summer 
+are Weddell seals (Leptonychotes weddellii) and crabeater seals.
+
+3.3 Protected Areas
+Current Antarctic legislation denotes protected sites as Specially 
+Protected Areas (SPA), Sites of Special Scientific Interest (SSSI) or as 
+Historic Sites and Monuments (HSM). Annex V of the Madrid Protocol 
+redefines these areas as Antarctic Specially Protected Areas (ASPA) 
+and Antarctic Specially Managed Areas (ASMA). ASMAs may include 
+Historic Sites and Monuments. Although the Madrid Protocol has not 
+come into force, some States are applying the more detailed ASPA and 
+ASMA procedures.
+
+Scientific and past exploration activity has resulted in protected sites 
+being concentrated in the Antarctic Peninsula and Ross Sea regions 
+with a scattering of sites elsewhere in Antarctica.
+
+3.4 Wilderness, Aesthetic and Recreational Values
+All four areas have remarkable wilderness and aesthetic value. They 
+constitute some of the most physically remote areas in the world and 
+have seen remarkably little human activity. There has never been any 
+continuous human occupation of the region. Many areas have been 
+poorly surveyed, some not at all. There remain many sites and 
+locations that have not yet had human visitors. Aesthetically, the land 
+areas are characterized by glaciated landscapes, isolated mountain 
+ranges and extreme weather conditions. In concert, these 
+characteristics represent exceptional Antarctic wilderness and 
+aesthetic values.
+
+March 1994                                  -15-                  Environmental Audit
+                                                                  Quark Expeditions Inc.
+Antarctica provides unique recreational and tourism opportunities. The 
+Antarctic Peninsula in particular has opportunities for special interest 
+groups, including photography, wildlife observation and 
+mountaineering. Huts and remains from expeditions, especially from 
+the ‘Heroic Era’ of exploration, are a further attraction as is visiting 
+active scientific stations.
+
+4.0 Ship Operation and Management
+Antarctic Treaty Recommendations XV-3 and XV-4 give guidance for 
+disposal of waste by ship. Recommendation XV-4 includes reference 
+to MARPOL. The Madrid Protocol will include for the first time in 
+Antarctic legislation reference to Annex IV of MARPOL (discharge of 
+sewage). Many Antarctic Treaty States are signatories to the MARPOL 
+convention (see Appendix 2), however, some key departure ports, 
+such as Punta Arenas, Chile and Stanley, Falkland Islands are in 
+countries or territories that are not party to the convention.
+Recommendation XV-4(4) exhorts states which have not acceded to 
+MARPOL (and certain other conventions) to do so. None-the-less, 
+Quark Expeditions applied the same procedures whatever the port’s 
+domestic legislative status.
+
+MARPOL defines Special Areas where more stringent rules are applied. 
+Antarctica, defined in MARPOL as the area south of 60°S, was 
+designated a Special Area on 17 March 1992. The Marine 
+Environmental Pollution Committee (MEPC) has made further 
+resolutions to give guidance to ship operators and to provide 
+specifications for ship-board equipment to match MARPOL discharge 
+requirements.
+
+4.1 Description of Ships, Inflatable Craft and Helicopters
+During the 1993/94 season Quark Expeditions operated three ice 
+breaking or ice strengthened ships of Russian registry (Table 3). The 
+ships were staffed by Russian officers and crew that have extensive 
+Arctic experience in ice navigation and many have Antarctic 
+experience. The largest ship was the icebreaker Kapitan Khlebnikov, 
+followed by the ice strengthened Akademik Sergey Vavilov and 
+Professor Molchanov, which was the smallest. The area of operation
+
+March 1994                                  -16-                      Environmental Audit
+                                                                  Quark Expeditions Inc.
+of each ship was governed by its specifications: Akademik Sergey 
+Vavilov and Professor Molchanov were used for cruises to the 
+Antarctic Peninsula and islands of the Scotia Arc; Kapitan Khlebnikov 
+was mostly used in the Weddell and Ross Seas, where heavier ice 
+conditions were expected. Only the Kapitan Khlebnikov carried 
+helicopters, whereas each ship has Zodiac craft. Each ship also has a 
+library/card room, saloon bar, sauna and laundry. A medical Doctor 
+accompanied each cruise.
+
+The ships are designed for long endurance at sea. Clearly, the amount 
+of fuel consumed by each ship varied according to weather and ice 
+conditions. Kapitan Khlebnikov used between 40 and 80 tonnes of 
+heavy marine diesel per day; Akademik Sergey Vavilov used on 
+average 10 tonnes light marine diesel per day, and Professor 
+Molchanov used on average 5-6 tonnes light marine diesel per day. 
+The main fuels used during the season were heavy marine diesel 
+(Kapitan Khlebnikov), light marine diesel (Akademik Sergey Vavilov, 
+Professor Molchanov), gasoline, aviation fuel (Jet A1 equivalent), two-
+stroke oil, and marine engine oils. Approximate seasonal use of 
+gasoline was 20 × 200 litre drums (Kapitan Khlebnikov), 15 × 200 litre 
+drums (Akademik Sergey Vavilov) and 8 × 200 litre drums (Professor 
+Molchanov). Approximately 35,000 litres of aviation fuel was used by 
+the helicopters on Kapitan Khlebnikov during the season.
+
+Concern exists over the use of anti-fouling hull coatings, notably self 
+polishing copolymers (SPCs), because their principal ingredient is 
+tributyltin (TBT). TBT has been found to produce deformities in various 
+shellfish and marine life. MEPC Resolution 46(3), adopted 16 
+November 1990, considers measures to control potential adverse 
+impacts associated with the use of TBT. Few countries formally 
+prohibit the use of TBT anti-fouling paints by ocean going ships. There 
+is greater concern about repair and dry-docking of TBT coated ships 
+and the potential for environmental impact by dock discharges. No 
+major ship repairs were scheduled during the Antarctic operations. 
+Routine maintenance, including painting above the water line, 
+continued in Antarctic waters. No anti-fouling coatings were applied 
+within the Antarctic Treaty area.
+
+March 1994                                  -17-                                  Environmental Audit
+                                                                   Quark Expeditions Inc.
+Table 3. Specification of ships chartered by Super Nova Expeditions
+
+ 
+Detail                  Kapitan           Akademik          Professor
+                       Khlebnikov        Sergey Vavilov    Molchanov
+
+Flag                   Russian           Russian           Russian
+Built                  1981              1988              1983
+Bunker                 3,500m3           1080m3            330m3
+capacity
+Passenger              112               78                38
+capacity
+Crew                   58                42                25
+Length                 132.49m           117m              71.9m
+Breadth                26.5m             18.2m             12.8m
+Draught                8.5m              5.9m              4.5m
+G.R. Tonnage           10,471            6,231             2,140
+Max speed              19kt              15kt              14kt
+Ice class              Polar Class       101 A+            101A Super
+(Lloyds)
+Propulsion             Diesel-electric,  Diesel            Diesel
+                       3 propeller
+Engines                6 x 3083kW        2 x 2576kW        2 x 1560 BHP
+Inflatable craft       6 x MkV (HD)      6 x MkV (HD)      3 x MKV (HD)
+                       Zodiac            Zodiac            Zodiac
+                       40HP Yamaha       40HP Yamaha       40HP Yamaha
+Helicopter             2 x Mi-2          -                 -
+                       twin-engine
+
+4.2 Waste Management
+
+The five Annexes of MARPOL provide for control of pollution at sea.
+By 1987, Russia had acceded to all Annexes of MARPOL, although
+many other States have taken reservations on some parts. Annexes I,
+IV, V require the issue and regular renewal of inspection certificates.
+These are:
+    International Oil Pollution Prevention Certificate
+
+March 1994                                 -18-                  Environmental Audit
+                                                                  Quark Expeditions Inc.
+International Sewage Pollution Prevention Certificate
+International Garbage Pollution Prevention Certificate
+
+4.2.1 Oil and Oily Mixtures - Annex I
+Oil and oily-water mixtures were collected and stored. Oily-water 
+mixtures were passed through a separator system which reduced the 
+oil content to below 15ppm. The separated water residue was stored 
+in tanks. Waste oil was burnt in the incinerator at 800°C and the oily-
+water residue was released according to Annex I Regulation 9 
+requirements. The discharge outlet was fitted with a switch that shut 
+off if the oil content of the residue exceeded 15ppm. Oily-water 
+residues were only discharged at sea when under way. The 
+optical/electronic switches fitted to the ships were inspected. Outlet 
+valves were sealed when the ships were within 12 nautical miles of 
+land or ice shelf. The treatment of the oil and oily-water mixtures met 
+MARPOL regulations and relevant inspection certificates were valid.
+
+4.2.2 Sewage - Annex IV
+Discharge of sewage at sea is prohibited unless it has been: (a) 
+discharged through an approved system; (b) stored in holding tanks 
+and discharged in an approved manner; or (c) processed in an 
+approved treatment plant.
+
+All the ships met the MARPOL requirements for sewage treatment and 
+were fitted with Salen and Wicander Neptumatic-Retro sewage and 
+waste water treatment plants. All sewage, grey water and kitchen sink 
+water was stored in a holding tank until it could be processed. The 
+treatment plant chlorinated and flocculated sewage, separating solids 
+and liquids. Liquid waste was held in tanks and disposed when beyond 
+12 nautical miles from land, ice shelves or north of 60°S. Sewage 
+sludge was drawn from the treatment plant and incinerated. The 
+sewage discharge provisions of the ships were inspected and met 
+relevant MARPOL requirements and relevant inspection certificates 
+were valid. Discharge provisions also met IAATO Tour Operator 
+Guidelines.
+
+March 1994                                  -19-                            Environmental Audit
+                                                                             Quark Expeditions Inc.
+4.2.3 Garbage - Annex V
+
+Annex V lays down conditions for the prevention of pollution by discharge of garbage from ships. Restrictions particularly apply to the discharge of garbage into coastal waters of designated Special Areas such as the Antarctic. The Guidelines on the Implementation of Annex V includes advice on minimising the amount of potential garbage, on shipboard garbage handling and storage procedures, and on shipboard equipment for processing garbage.
+
+Solid waste generated on board can be classified as wet or dry. Wet garbage is predominantly kitchen waste, generated largely from food preparation and disposal. Dry garbage includes kitchen waste and waste generated by passengers, staff and crew. Wet garbage may either be incinerated, macerated and released or dumped directly over board.
+
+MARPOL restrictions prevent the dumping of macerated waste in the Antarctic Special Area when the ship is less than 12 nautical miles offshore. Macerated waste must pass through a 25mm mesh. On Akademik Sergey Vavilov and Professor Molchanov wet garbage was macerated and stored in tanks until it could be released into the sea. North of 60°S wet garbage was often dumped directly over the ship's stern. On Kapitan Khlebnikov, wet garbage was stored in the macerator room until such a time as it could be macerated and discharged. It was noted that, occasionally, small amounts of plastic from wrappings and containers were macerated or dumped with the wet garbage.
+
+No attempt was made on Kapitan Khlebnikov to separate poultry products from other kitchen waste. All uncooked poultry products were macerated with other kitchen waste and not removed from the Antarctic Treaty area or sterilised as required by Recommendation XV-3(14). Procedures on Akademik Sergey Vavilov and Professor Molchanov were better in that some poultry products, such as egg shells, were separated, however, they were often stored on deck before incineration.
+
+March 1994                                  -20-                                  Environmental Audit
+Quark Expeditions Inc.
+On-board incineration of waste is an approved garbage treatment 
+process under MARPOL, and MEPC 59(33) incorporates specifications 
+for shipboard incinerators. Shipboard incinerators on all three vessels 
+were designed, constructed, operated and maintained in accordance 
+with this standard.
+
+Dry garbage was incinerated daily at 600°C at a rate of 30kg per 
+hour. Medical wastes, including sharps, and all plastics were 
+incinerated with the dry garbage. MARPOL totally prohibits the 
+discharge of plastics at sea and all plastics were burnt. Incinerator ash 
+was cleaned out weekly and stored in plastic bags for disposal at port.
+
+IAATO Tour Operator Guidelines go beyond MARPOL requirements for 
+disposal of plastics. IAATO Guideline 16 states that all plastic should 
+be retained for proper disposal on the mainland. Although the ships do 
+not comply with this requirement, correct incineration is probably a 
+better course as there are few ports serving the Antarctic area with 
+proper reception facilities. Plastics may otherwise end up in poorly 
+managed landfill sites.
+
+Antarctic Treaty Recommendation XV-3(7) details items prohibited 
+from Antarctica. Included in these are polystyrene beads and chips. 
+These were noted on board ships in packaging used for stores. 
+Recommendation XV-3(11) lists items which must be removed from 
+the Treaty Area and includes electrical batteries. Initially, no attempt 
+was made on the ships to separate batteries from garbage. After 
+discussion with the Hotel Manager on Kapitan Khlebnikov, containers 
+were provided for waste batteries for disposal outside the Treaty Area.
+
+Madrid Protocol Annex III(1) encourages the consideration of recycling 
+and source reduction of waste. Quark Expeditions complies with the 
+spirit of this legislation, and all bar and saloon waste is separated. 
+Neither MARPOL or IAATO Guidelines make any recommendations 
+about recycling and there are as yet few ports that can accept 
+materials for recycling.
+
+The ships met relevant MARPOL and IAATO requirements for garbage 
+disposal. Relevant inspection certificates were valid.
+
+March 1994        -21-        Environmental Audit 
+                                   Quark Expeditions Inc.
+4.2.4 Ballast Water
+
+Resolution MEPC.50(31) was adopted in 1991 and contains 
+International Guidelines for Preventing the Introduction of Unwanted 
+Aquatic Organisms and Pathogens from Ships' Ballast Water and 
+Sediment Discharges. The Guidelines encourage appropriate ballast 
+water management practices, aimed at preventing or minimising the 
+uptake and discharge of contaminated water or sediment in ballasting 
+and deballasting operations. In the absence of more scientifically based 
+means of control, the exchange of ballast water in deep ocean areas or 
+open seas is encouraged by the Guidelines as a means of limiting the 
+effect of the transfer of contaminants in ballast water.
+
+The ships chartered by Quark Expeditions released only clean ballast 
+picked up in the Southern Ocean and met the MEPC Guidelines. No 
+tank washing water and other oily residues and mixtures were 
+released.
+
+4.3 Transport
+
+Passengers, staff and crew disembarked the ships by one of four 
+means: from the gangway when tied to a wharf, ice wharf or ice edge, 
+by Zodiac from the gangway, or by helicopter from the stern deck 
+(Figures 3 and 4).
+
+4.3.1 There are few permanent wharfs in Antarctica or the Southern 
+Ocean. Ships tied up to whaling station wharfs at Grytviken, South 
+Georgia and an ice wharf formed at McMurdo Station. Kapitan 
+Khlebnikov formed its own ice wharf by driving into the ice edge at 
+Atka Bay and Riser-Larsen Ice Shelf. Ice edge disembarkation allowed 
+passengers to descend the gangway onto the sea ice and in some 
+instances provided an opportunity for barbecues. Tying alongside 
+wharfs, ice wharfs or ice edges enabled the greatest number of 
+passengers to disembark in the shortest time.
+
+4.3.2 Zodiac craft typically carried 10-12 passengers. They were normally 
+deployed by crane with a driver on board. Once in the water, the 
+Zodiacs came alongside the ship's gangway and tied up whilst 
+passengers were loaded into the craft. Zodiacs use 40 horsepower 
+outboard engines and have a maximum speed of approximately 15
+
+March 1994                                  -22-                                  Environmental Audit
+Quark Expeditions Inc.
+knots. Gasoline was stored in 200 litre drums on deck (Akademik 
+Sergey Vavilov, Professor Molchanov) or below deck in a fore locker 
+(Kapitan Khlebnikov). Gasoline was transferred from the drums using 
+semi-rotary or rotary pumps either to small fuel cans (Jerry cans) or 
+directly into outboard fuel tanks. Two-stroke oil was added to give the 
+correct running mixture.
+
+Outboard engines are notorious for seeping fuel mix. There was nearly 
+always an oil film left behind by idling or stationery engines. These 
+losses were negligible, especially where the site was continually 
+subjected to wave, wind or tidal action. Of greater importance was the 
+control of refuelling on board the ship to prevent accidental spillage, 
+prevention of loss of gasoline and gasoline mixes through scuppers, 
+and spillage due to damage or overturning of craft.
+
+There is no need for a formal containment strategy for the quantities 
+likely to be spilled as sea. However, storage and refuelling on board 
+should be reviewed so that accidental spillage or drum leakage is not 
+released into the sea.
+
+4.3.3 The two helicopters on Kapitan Khlebnikov were used for 
+transporting passengers, ice reconnaissance and depot laying. They 
+were secured on the aft deck during passage and were refuelled on the 
+ship using a simple hose and nozzle. No drip trays were used nor was 
+the pipe back-sucked dry after fuelling. Aviation fuel was stored in 
+fitted tanks. Fuelling was not done away from the ship. The potential 
+for spillage by accident or crash needs to be addressed in contingency 
+planning.
+
+Passengers had to wear lifevests at all times but a safety kit in case of 
+a crash or unplanned landing was not carried. During most flight 
+operations both aircraft were airborne, although only one was used for 
+reconnoitring. All flight operations were preceded by a briefing. 
+Minimum overflight height was set at 200m but later raised. Landing 
+distances from wildlife varied depending on topography. Operational 
+points concern refuelling, accident, search and rescue, recovery of 
+grounded craft through mechanical failure or crash and disruption to 
+wildlife by overflight and landings.
+
+March 1994                  -23-                  Environmental Audit
+                                                         Quark Expeditions Inc.
+Figure 3 and 4
+Figure 3. Passengers Disembarking Zodiac inflatable craft
+Figure 4. Mi-2 Helicopter on 
+sight-seeing tour over the 
+Wedde Sea Pack Ice?
+Our Environmental Audit
+Clark Expeditions Inc.
+24-
+March 1994
+4.4 Port Facilities
+Quark Expeditions used shipping agents to deal with port 
+arrangements for ships. Agents were responsible for a wide variety of 
+activities including passenger transfers and assisting in ship resupply 
+and refuelling. The majority of stores were loaded at ports; 
+occasionally, supplies were transferred between ships at anchorages in 
+the Antarctic.
+
+In the case of waste removal, dockside garbage containers were 
+available in Ushuaia, Argentina. These containers were provided by the 
+Port Authority as part of their charges. The only waste removed from 
+the Professor Molchanov was ash from the incinerator (approximately 
+30kg per cruise). The garbage containers at Ushuaia met the 
+provisions under MARPOL and were emptied at a landfill site located 
+approximately 10Km west of the port. The site was inspected and 
+would meet the requirements of the Madrid Protocol (Annex IV Article 
+8). At Stanley, Falkland Islands, garbage was removed by truck or 
+garbage container to an open landfill site. At the end of a cruise or the 
+end of the season, waste glass bottles and aluminium cans were 
+disposed at ports outside the Treaty area. This exceeded MARPOL 
+requirements which only require that waste is disposed of greater than 
+12 nautical miles offshore once outside designated Special Areas.
+
+Refuelling occurred at Ushuaia, Argentina; Stanley, Falkland Islands; 
+Bluff, New Zealand; and Hobart, Australia. Refuelling was undertaken 
+in accordance with MARPOL Annex I. Scuppers were stopped during 
+the process and a crew member was present during the whole 
+operation in case emergency shut-down was required.
+
+4.5 Emergency Response, Accidents and Spills
+The number of Zodiacs on each ship allowed a margin of safety for 
+seaborne passenger operations. If one Zodiac was in trouble or had 
+engine failure it was normal for another to be close enough to effect a 
+rescue. The Zodiac craft did not carry safety kits which would include 
+space blankets, flares, first aid kit and food.
+
+Two helicopters were used on Kapitan Khlebnikov to provide a margin 
+of safety for passenger operations. A helicopter in trouble would
+
+March 1994                                  -25-                  Environmental Audit
+                                                                  Quark Expeditions Inc.
+                                                                  Quark Expeditions Inc.
+always be within range of rescue from the second. However, the 
+second helicopter was not always on immediate stand-by, and could 
+take 5-10 minutes to lift-off for rescue. If a helicopter crash occurred 
+over water there would be slim chance of rescue. Helicopter orders 
+generally limited over-sea operations to a 5km range with a Zodiac on 
+standby, either hanging over the ship's side or in the water. This 
+safety procedure was not always complied with.
+
+MARPOL Annex I Regulation 26 provides for fuel spill contingency 
+plans. Madrid Protocol Annex IV Article 12 adds further requirements 
+for fuel spill and contingency planning. While the ships complied with 
+MARPOL requirements, further contingency planing for gasoline and 
+helicopter fuel should be addressed by Quark Expeditions.
+
+5.0 Visitor Management
+Quark Expeditions' policy is to meet IAATO Tour Operator and Visitor 
+Guidelines. In many instances, for example staff to visitor ratio, IAATO 
+Guideline recommendations were exceeded. Cruises have an 
+educational as well as enjoyable component. A number of lecturers 
+were employed for each cruise, from a range of disciplines. They were 
+under the direction of the expedition leader.
+
+5.1 Instruction of Passengers, Staff and Ships' Crew
+Passengers, staff, and ship's crew were briefed before and at various 
+stages during cruises. Each passenger received a briefing pack on 
+confirmation of booking, the contents of which varied between tour 
+agents. Further information was available on board the ships (see 
+Appendix 1).
+
+After embarkation, passengers were given an introduction to, and 
+required safety briefings about, the ship. This was followed at a 
+suitable time by a complete introduction and briefing on the running of 
+landings and management of passengers ashore. A standard slide 
+presentation demonstrating IAATO Guidelines was shown, followed by 
+a video tape supplied by NSF about the US Antarctic Conservation 
+Act. The NSF video was not shown on all cruises, although 
+passengers were told it was available. Passengers were directed not to
+
+March 1994                                  -26-                                  Environmental Audit
+                                                                   Quark Expeditions Inc.
+smoke ashore, and advised of smoking restrictions on board.
+
+Separate briefings were held, with translators, for non-English speaking groups. Typically, the translator was the group leader, who may also act as a lecturer/guide but may not be a Quark Expeditions employee. Misunderstandings over procedures and guidelines were more likely with non-English speaking groups and they required disproportionately more time and attention.
+
+Briefings were also given to the ship's crew at the start of the first cruise of the season, using translators where necessary to explain guidelines and practices. Many, however, had a different attitude to that of passengers and, in the case of Quark Expeditions' ships, came from a background with different standards of environmental awareness.
+
+Staff had access to all client information packages and received a briefing on joining the ship. The briefing included safety, communications, environmental requirements and staff/client relations. Some staff had relevant polar experience and mountaineering expertise, others were employed for their reputation as naturalists, geologists, historians or similar skills. IAATO recommends that a minimum of 75% of staff have previous Antarctic experience. This was exceeded on all cruises. Competition for Zodiac driving jobs is high, none-the-less, few drivers had been trained professionally, such as that given by sea-survival courses run for the oil industry.
+
+Expedition leaders and lecturers often changed between cruises. A meeting was held soon after embarkation of each cruise to discuss the itinerary, plan lectures and outline general procedures on board, during transfers and ashore.
+
+A tag-board system was used to keep track of passengers during landings. Each passenger was responsible for changing their tag to 'off ship' before disembarking. On return, passengers reset their tags. Encouragement was given not to reset tags for other people. The number of passengers ashore (required for Antarctic Treaty information returns) was taken from the tag board. The tag system
+
+March 1994                                 -27-                                  Environmental Audit
+                                                                                          Quark Expeditions Inc.
+was used to check that all passengers were on board before the ship moved off station. Large passenger numbers, such as on Kapitan Khlebnikov, were often split into groups for ease of management, and a lecturer assigned to each group.
+
+5.2 Ships, Anchorages and Passenger Transfers
+
+The ship provided more than just transport between landings. Many areas are inappropriate for landing passengers and routes were chosen for their scenic quality. Size and capability of the vessel was a factor as much as weather conditions in the choice of landing sites. Clearly, the larger vessels could not reach some destinations or had to stand further offshore, resulting in a longer Zodiac or helicopter journey and a reduced margin of safety because of the time needed to transport passengers back on board.
+
+Choice of anchorages was the responsibility of the Captain, however, the expedition leader would often make suggestions in order to reduce the length of Zodiac or helicopter journeys. Knowledge of marine SSSIs by ship's officers seemed scant, although restrictions only apply to anchoring and scientific work.
+
+In crowded locations such as the Antarctic Peninsula, the expedition leader attempted to keep in reasonably close contact with other ships in the region to avoid unplanned meetings and overcrowding at anchorages. Stations required reconfirmation of arrival time of at least 24 hours but HF radio or satellite contact was not always established. Radio communications equipment on board Russian vessels has restricted frequencies, which did not always match the working frequencies of stations or other ships. Contact was usually established by VHF radio once in range.
+
+On arriving at a potential landing, a reconnoitre was made by a single Zodiac or helicopter. A second craft was not always immediately ready if an accident should occur. If conditions were suitable then a landing would be initiated. The first craft ashore took most of the lecturers who reviewed the landing and made shore-side arrangements before the first passengers arrived 10-30 minutes later. Typically, a shuttle system was run so that passengers could choose the time they wished
+
+March 1994                                  -28-                                  Environmental Audit
+Quark Expeditions Inc.
+to spend ashore. The expedition leader, Zodiac drivers and some 
+lecturers carried VHF radios to maintain contact between ship and 
+shore.
+
+Helicopter landings were run in a similar way to beach landings. The 
+potential for disturbance of wildlife is much greater from overflights or 
+poor selection of landing sites. The suggested limit of approach for 
+flights is 200m (Agreed Measures VII 2.b) but this was generally 
+considered too close and the policy was not to overfly penguin 
+colonies. A greater distance was applied when landing in proximity to 
+seabird colonies. Choice of landing site is as much controlled by 
+topography and conditions as proximity to wildlife. A working 
+minimum of 1km was generally applied, but it was impossible at some 
+sites to locate skua nests, for example, until after landing.
+
+For these reasons particular care was needed during helicopter sight-
+seeing tours. For example, there are gentoo colonies at 100-200m on 
+cliffs at various points along the Lemaire Channel, Antarctic Peninsula. 
+Quark Expeditions policy is to use Zodiacs wherever possible, limiting 
+helicopter use to sites where other forms of landing are impracticable. 
+It is also company policy to restrict flights on the Antarctic Peninsula 
+to sight-seeing trips only. No helicopter operations were run at South 
+Georgia because of the potential for air strike and disturbance of 
+wildlife. Helicopter use is restricted at some Sub-Antarctic islands and 
+Quark Expeditions extends this restriction to all Sub-Antarctic islands 
+visited.
+
+The initial landing site at the Riiser-Larsen Ice Shelf emperor colony 
+was approximately 2km distant, but within sight of the colony. The 
+landing spot was later moved because of downdraughts from 
+surrounding icebergs and a new site chosen about 1.5km from the 
+colony. This spot was obscured from the colony by a group of 
+icebergs. Landings were less audible at the colony than at the first 
+location although the craft could be heard during flights to and from 
+the ship.
+
+5.3 Management of Passengers Ashore
+    Landings were made at any time, starting as early as 03.00hr and
+March 1994                                  -29-                  Environmental Audit
+                                                                  Quark Expeditions Inc.
+continuing until late at night if light allowed. Most Zodiac landings or 
+tours were for 2-4 hours duration, although some special sites 
+occupied a full day. Helicopter tours were 20-30 minutes, otherwise 
+landings were operated in a similar manner to Zodiac work.
+
+Passengers were taken ashore in groups of 10-12 in Zodiacs or 6-8 in 
+helicopters. Passengers either grouped informally or, on larger ships, 
+were put into groups. At many sites Zodiac capacity provided a useful 
+filter to the speed of transfer of passengers, allowing groups of 15-20 
+to move off the landing before further came ashore. Similarly, 
+helicopters capacity helped to slow the rate at which passengers 
+arrived ashore.
+
+Activities ashore varied between cruises. The first Zodiac or helicopter 
+run always took staff. At some sites the staff gave passengers a 
+reminder of guidelines and indicated points of interest as they landed. 
+At others, passengers were put ashore and left to decide their own 
+route. Passengers, in formal or informal groups, were either 
+accompanied by a lecturer or staff were sited at points of interest or 
+where particular care was needed. Many passengers preferred to roam 
+at will around the site. Staff were responsible for ensuring guidelines 
+were observed and had to remind passengers from time to time to act 
+correctly. Towards the end of the shore period, staff guided 
+passengers back to the landing spot for re-embarkation. When 
+appropriate, ship's crew were offered tours ashore, although the 
+opportunities were infrequent.
+
+The potential for impact varied greatly between landing sites. At some 
+locations on the Antarctic Peninsula and on many Sub-Antarctic 
+islands there are extensive areas of moss and vegetation where 
+uncontrolled passage of large numbers of passengers could cause 
+considerable damage. Passengers were advised to take extra care and 
+on a landing in the Bay of Isles, South Georgia, and were directed to 
+walk up a stream, with staff stationed at awkward spots. Even so, 
+some areas were trampled (see Figure 5). A further consideration is 
+the transfer of non-indigenous organisms. Footwear was washed at 
+some locations, mainly for cleaning purposes. Passengers seemed 
+unaware of the need to prevent transfer of non-indigenous organisms.
+
+March 1994                                  -30-              Environmental Audit
+                                                                  Quark Expeditions Inc.
+IAATO Visitor Guidelines prohibit disposal of litter and garbage ashore.
+Quark Expeditions extended the guidelines and encouraged passengers
+to collect any litter they may find ashore, whether it originated from
+Quark Expeditions ships or not. The procedure on **Akademik Sergey
+Vavilov** was even further formalised and a litter monitoring exercise
+was introduced during lectures. Passengers were not permitted to take
+food on landings. Occasionally, barbecues were held, usually on an ice
+edge or ice floe, but poultry products were not used.
+
+5.4 Expedition Leader and Staff
+IAATO Tour Operator Guidelines set minimum standards for staff
+qualifications, numbers with previous Antarctic experience, and visitor
+to staff ratios. Quark Expeditions policy is only to use staff with which
+they are familiar, a policy which it extends to sub-charters and block
+bookings.
+
+The responsibility for passengers transfers from ship's officers to
+expedition leader once they have boarded the Zodiacs. It is the staff's
+responsibility to ensure guidelines are adhered to ashore. (Notable also,
+is that insurance cover changes when passengers board a Zodiac, and
+again when they step ashore.)
+
+5.5 Visitor Conduct
+Generally the IAATO Visitor Guidelines were adhered to. Tourists
+remained a minimum of 6m from wildlife, and were careful when
+walking among colonies and along the beach where seals were lying
+(Figure 6). Passengers visiting the Antarctic for the first or only time
+wished to have photographs of themselves with penguins and seals.
+This sometimes led to posing closer to wildlife than is acceptable. The
+cost and time involved in Antarctic expedition cruising is such that
+many can afford only one trip to the continent. The surprisingly large
+percentage of passengers who have made repeated trips to the
+continent tended not to have the same immediacy or desire to
+approach wildlife.
+
+Noticeable also were two types of passenger that often approached
+too close to wildlife. They were professional photographers (of any
+nationality) and non-English speaking passengers. Professional
+
+March 1994                                  -31-                      Environmental Audit
+                                                                     Quark Expeditions Inc.
+Figure 5 and 6
+
+Figure 5. Passengers crossing vegetation, South Georgia
+
+Figure 6. Passengers Visiting Riiser-Larsen Emperor Penguin Colony
+
+March 1994                  32-                  Environmental Audit
+                                                  Quark Expeditions Inc.
+photographers used the cruises to enlarge their portfolio and as a consequence had self-imposed pressure to recover the cost of the trip in picture sales later. Expedition leaders and lecturers had frequently to remind some photographers of guidelines.
+
+The second type suffered through a dilution of instructions via translation. Some clearly came from countries where environmental issues are not given the priority they are given in Antarctica. Regularly they had to be reminded not to approach wildlife too closely. On one particular cruise extra briefings were given on the ship to a non-English speaking group to try and correct guideline infringements.
+
+An overflight event occurred at Zavodovski Island, South Sandwich Islands. Although the South Sandwich Islands are outside the Antarctic Treaty area they are subject to Falkland Islands Dependency Conservation Ordinances. While these do not specifically designate flight distances, flight disturbance would be prohibited under Section 3(a). It would also be against the spirit of IAATO Tour Operators Guidelines and Quark Expeditions' environmental policy. An attempt was made to land on an ash plain inland of the chinstrap colonies because initial Zodiac landings proved to be hazardous in the heavy surf. The first approach at 200m clearly caused distress to chinstrap colonies and the pilots turned back. A second attempt was made slightly higher, but limited by a cloud base at 300m. Even at this height there was still disturbance. All further attempts were aborted and the 27 passengers landed by Zodiac were taken off the same way.
+
+Feeding of sea birds in the Drake Passage north of 60°S was observed on one occasion. This is not contrary to any legislation or guidelines, however, it is against the spirit of Antarctic Treaty Agreed Measures or intention of the Madrid Protocol.
+
+5.6 Visitor Numbers
+IAATO Tour Operator Guidelines recommend a limit of 100 passengers ashore on a landing at any one time, otherwise little direct guidance is given. Quark Expeditions attitude is to avoid overly frequented landings, and to stop using any that show signs of degradation. There
+
+March 1994                                  -33-                        Environmental Audit
+                                                                 Quark Expeditions Inc.
+are, however, no criteria except experience for making these 
+selections. Little work has been published on the cumulative effect of 
+repeated landings at a particular site and with the recent increase in 
+passenger capacity of some vessels cruising to Antarctica there is due 
+cause for concern.
+
+The largest ship currently chartered by Quark Expeditions has a 
+maximum capacity of 112 passengers. Quark Expeditions have 
+indicated that they will not use vessels with a larger capacity.
+
+6.0 Conclusion
+Quark Expeditions generally operated in a safe manner with due care 
+taken to reduce its environmental impact in Antarctica and the 
+Southern Ocean.
+
+6.1 Office Procedures
+
+6.1.1 An approved company environmental policy is fundamental to 
+effective management. Quark Expeditions did not have an adequate 
+environmental management policy, although environmental 
+considerations were taken into account by the owners, personnel and 
+expedition staff in operational planning. As a result, briefing papers 
+sent to passengers did not include Quark Expeditions' policy on 
+environmental protection.
+
+6.1.2 Information gathering on environmental issues and regulations 
+within the office was spread throughout various files and often 
+different individuals had relevant information and detail. There was 
+little central organisation of environmental material. The recently 
+introduced computerized reservation system is a welcome 
+improvement to record keeping.
+
+6.1.3 The NSF regularly provided an amount of free material. This service 
+was extremely useful for the effective environmental operation of 
+Quark Expeditions. Information received on protected areas needs to 
+be formalized in a central file, updated yearly. The annual NSF 
+meetings were helpful and useful for the dissemination of information 
+on developments in environmental regulations and responsibilities.
+
+March 1994                                  -34-                  Environmental Audit
+                                                                 Quark Expeditions Inc.
+6.1.4 Information flow between management and employees, especially 
+to expedition leaders and Antarctic staff, was inadequate.
+Assumptions were made about the knowledge and abilities of staff.
+Information flow needs to be formalized, especially environmental
+requirements, contingency planning and waste management 
+procedures.
+
+6.1.5 There existed no formalised safety or medical policy.
+
+6.1.6 The process of obtaining access permissions was long and involved 
+and in general was well managed.
+
+6.2 Management of Ships
+6.2.1 Brief fuel contingency plans had been prepared and complied with 
+minimum MARPOL requirements. However, they were published in 
+Russian and therefore were not readily accessible. They- did not 
+contain provisions for containment during Zodiac and helicopter 
+operations. Antarctic Treaty Recommendation XIV-4(6) provides for 
+the establishment of contingency planning, including cooperation with 
+other operators.
+
+6.2.2 Waste management on the ships generally matched or exceeded 
+MARPOL regulations. However, waste management procedures should 
+to be prescribed in order that Captains, expedition leaders and staff 
+are briefed on their requirements and informed of changes.
+
+6.2.3 Ships did not meet IAATO Tour Operator Guidelines for removal of 
+plastic from the Antarctic Treaty area, but they did meet MARPOL 
+regulations on incineration. Separation of plastic from wet food waste 
+was not always effective.
+
+6.2.4 Sorting of garbage is only useful for incineration and waste 
+disposal. Sorting for recycling is not useful until ports provide suitable 
+reception facilities.
+
+No attempt was made initially to remove batteries from the Antarctic 
+Treaty area and they were incinerated. Separation of batteries was 
+discussed with the Hotel Managers. Prohibited products such as
+
+March 1994                                 -35-                  Environmental Audit
+                                                                  Quark Expeditions Inc.
+polystyrene beads were seen. Packaging of stores could be further 
+reduced.
+
+6.2.5 The separation of uncooked poultry products and wrappings from 
+other food waste did not always occur. Poultry products were 
+occasionally stored on deck prior to incineration. Separation of poultry 
+products was discussed with the Hotel Managers.
+
+6.2.6 Smoking was permitted on deck and generated an amount of litter. 
+Cigarette filters were often disposed of in the ocean. There was no 
+evidence of cigarette filters disposed on land.
+
+6.2.7 Information on the Antarctic Treaty Recommendations and the 
+Madrid Protocol was generally available on board ship but not always 
+in an accessible form.
+
+6.3 Activities Ashore
+
+6.3.1 Generally passengers were well managed ashore, however, 
+additional care was needed when passengers were allowed to wander 
+freely, especially in areas of extensive vegetation and at certain times 
+during sea-bird breeding cycles.
+
+6.3.2 Quark Expeditions tended to avoid overcrowded sites and did not 
+return to sites that the company considered may be significantly 
+impacted by further visits.
+
+6.3.3 Lecturers employed by Quark Expeditions represented a range of 
+environmental awareness and abilities to manage passengers. As a 
+result passengers did not always receive adequate guidance and 
+infringements of guidelines were not always corrected.
+
+6.3.4 Prevention of transfer of non-indigenous organisms was not 
+discussed by expedition leaders. This was particularly important to 
+avoid accidental transfer between Sub-Antarctic islands and to ice-free 
+areas. Passengers were not permitted to take food ashore on landings.
+
+6.3.5 Helicopter overflight heights and approach limits for flying near 
+wildlife were not formalized.
+
+March 1994                  -36-                  Environmental Audit
+                                                     Quark Expeditions Inc.
+6.3.6 The litter monitoring exercise was useful and assisted in the
+awareness of passengers. It should be extended to all cruises.
+
+7.0 Recommendations
+
+The following recommendations will assist in the development of
+improved environmental procedures and reduce the potential for
+environmental impact by Quark Expeditions' Antarctic and Southern
+Ocean operations.
+
+7.1 Quark Expeditions should develop a company environmental
+management policy which should include the concept of due diligence,
+identify a budgetary allocation and a member of staff responsible for
+environmental issues. The outline policy should be stated on all
+Antarctic and Southern Ocean brochures.
+
+7.2 Quark Expeditions should compile an Environmental Handbook of
+information relevant to their operations. This should include legislation,
+permits and general information required for continuing environmental
+verification.
+
+7.3 The Environmental Handbook should include procedures for
+emergency response and contingency plans for fuel spills. There
+should be sections on safety and medical policy.
+
+7.4 Quark Expeditions should prepare a waste management plan as
+outlined in the Madrid Protocol Annex III, Article 8. This plan should be
+incorporated into the Environmental Handbook.
+
+7.5 Instructions to ship's Captains and expedition leaders should be
+formalized as Sailing Orders and Air Navigation Orders. Reference
+should be made in these orders to the Environmental Handbook.
+
+7.6 Quark Expeditions, their suppliers and agents should encourage
+reduction of packaging of ships stores and elimination of prohibited
+materials (Antarctic Treaty Recommendation XV-3(7)).
+
+7.7 Quark Expeditions and their agents should encourage ports receiving
+
+March 1994                                  -37-                          Environmental Audit
+                                                                                  Quark Expeditions Inc.
+waste from Antarctic and Sub-Antarctic voyages to install reception facilities for recycling. Quark Expeditions should bring this to the notice of IAATO.
+
+7.8 The computerized reservation system should be more fully utilised to assist in the preparation of reports required by the Antarctic Treaty (Recommendation VIII-9, Annex C).
+
+7.9 Poultry products (including poultry preparation products and wrappings) should be separated from other food wastes in the kitchen. Poultry products should be kept in a secure store prior to incineration.
+
+7.10 Crew and kitchen staff should be encouraged to take greater care when separating plastics from wet garbage, eg. food wastes.
+
+7.11 Batteries should be separated from other waste and removed from the Antarctic Treaty area. Passengers, staff and crew should be informed of this procedure.
+
+7.12 Litter monitoring at landings and on Zodiac cruises should be encouraged. Periodic checks for litter on ship's decks should be made.
+
+7.13 Staff and passengers should be briefed of the need to avoid unintentional transfer of non-indigenous organisms. Footwear and clothing where appropriate should be washed after ice-free landings to reduce the likelihood of transfer.
+
+7.14 Consideration of the choice of sites should include regard to the effective control of passengers ashore to prevent trampling of moss and vegetation. Quark Expeditions should support the installation of duck-boarding where trampling is otherwise unavoidable, such as used at Macquarie Island.
+
+7.15 Quark Expeditions should review the training of expedition leaders, lecturers and Zodiac drivers to improve environmental awareness and knowledge of health and safety procedures. Training should include relevant information on the Antarctic Treaty Recommendations and the Madrid Protocol.
+
+March 1994                                  -38-                                  Environmental Audit
+                                                                                 Quark Expeditions Inc.
+7.16 Quark Expeditions should review the briefing and training of ships’ 
+crews to encourage increased environmental awareness and 
+compliance with Antarctic Treaty Recommendations.
+
+8.0 Bibliography
+
+Falkland Islands Dependencies Conservation Ordinance 1975. Stanley, 
+Falklands Islands.
+
+Handbook of the Antarctic Treaty System, 1990. Ed. J Heap. Cambridge, 
+Scott Polar Research Institute.
+
+Heard Island and McDonald Islands Act 1953 - Territory of Heard Island 
+and McDonald Islands, Environmental Protection and Management 
+Ordinance, 1987. Canberra, Commonwealth of Australia.
+
+IUCN, 1991. A strategy for Antarctic conservation. Gland and Cambridge, 
+IUCN.
+
+Madrid Protocol, 1992. Protocol on Environmental Protection to the 
+Antarctic Treaty - Final report of the Eleventh Antarctic Treaty Special 
+Consultative Meeting, Madrid, 22-30 April; 17-22 June and 3-4 October 
+1991. Madrid, Ministerio de Asuntos Exteriores.
+
+MARPOL 73/78. International Convention for the Prevention of Pollution 
+from Ships, 1978, as modified by the Protocol of 1978. Consolidated 
+edition 1991. London, International Maritime Organisation.
+
+National Parks and Wildlife Act, 1970. Hobart, State of Tasmania.
+
+US Antarctic Conservation Act of 1978. Washington, National Science 
+Foundation.
+
+March 1994                                 -39-                
+Environmental Audit
+Quark Expeditions Inc.
+Appendix 1. Briefing packs
+
+Example of pre-tour Briefing pack available from Quark Expeditions
+The Antarctic Primer, Tom Richie 1990.
+Shipboard Information and Antarctic Questions relevant to the 
+particular vessel
+Instructions on the proper use of Zodiac landing craft
+Embarkation requirements and advice
+Medical form
+Photographic Hints, Anna Vdovenko
+
+Available on board ship:
+  IAATO Guidelines for Tourists
+  US Antarctic Conservation Act of 1978
+  COMNAP Tourist Guidelines
+  Handbook of Antarctic Treaty System
+
+March 1994                  -40-                  Environmental Audit
+                                                   Quark Expeditions Inc.
+Appendix 2. MARPOL 73/78 - Extract of List of Contracting States
+
+State                                  Signed       Entry into force
+
+Argentina (accession, with reservation) 31 Aug 93    1 Dec 93
+Russian Federation (accession)         14 Aug 83    3 Feb 84
+Annex III, IV, V                        14 Aug 87    -
+United Kingdom (ratification)           22 May 80    2 Oct 83
+Annex III, V                            27 May 86    reservation
+Annex IV                               
+USA (ratification)                      12 Aug 80    2 Oct 83
+Annex V                                 30 Dec 87    -
+Annex III                               1 July 91    reservation
+Annex IV                               
+South Africa (accession)                28 Nov 84    28 Feb 85
+Annex V                                 13 May 92    
+Annex III, IV                           reservation
+Australia (ratification)                14 Oct 87    14 Jan 88
+Annex V                                 14 Aug 90    -
+Annex III, IV                           reservation
+Chile                                   not ratified
+New Zealand                             not ratified
+Falkland Islands                        not ratified by UK
+
+MARPOL Annexes
+Annex I   Regulations for the Prevention of Pollution by Oil
+Annex II  Regulations for the Control of Pollution by Noxious Liquid
+          Substances
+Annex III Regulations for the Prevention of Pollution by Harmful
+          Substances in Packaged Forms
+Annex IV  Regulations for the Prevention of Pollution by Sewage
+Annex V   Regulations for the Prevention of Garbage
+
+Designation of the Antarctic as a Special Area came into force on 17
+March 1992
+
+March 1994          -41-          Environmental Audit
+                                      Quark Expeditions Inc.
+Figure Captions:
+
+Figure 1. Antarctica and the Southern Ocean
+
+Figure 2. Ships used by Quark Expeditions in the Antarctic 
+and Southern Ocean 1993-94
+
+Figure 3. Passengers Disembarking Zodiac inflatable craft
+
+Figure 4. Mi-2 Helicopter on 
+sight-seeing tour over the 
+Weddell Sea Pack Ice
+
+Figure 5. Passengers Crossing Vegetation, South Georgia'
+
+Figure 6. Passengers Visiting Riiser-Larsen Emperor Penguin 
+Colony
+
+Kapitan Khlebnikov
+
+Akademik Sergey Vavilov
+
+Professor Molchanov
+
+March 1994                  Environmental Audit
+                           Quark Expeditions Inc.

@@ -1,0 +1,3786 @@
+XXV ATCM – CEP V 
+Warsaw, Poland, 10–20 September 2002 
+ 
+INFORMATION PAPER 
+Submitted by SCAR 
+ 
+CEP Agenda Item 4c 
+ 
+MARINE ACOUSTIC TECHNOLOGY AND THE ENVIRONMENT: 
+WORKSHOP REPORT 
+ 
+ 
+At XXIII ATCM there was some discussion about the potential impacts of marine acoustic 
+equipment on marine animals, and to what extent there were mitigation strategies available to 
+reduce these effects.  Some Parties expressed an interest in knowing what the level of current 
+scientific knowledge was in this field to guide them in permitting procedures.  At XXVI 
+SCAR in Tokyo it was decided to convene an international workshop to assess the extent of 
+knowledge on acoustic impacts.  The workshop was convened in Cambridge during 
+September 2001 and the final draft of the report is currently being reviewed, 
+ 
+The report of the workshop is entitled “Impacts of Marine Acoustic Technology on the 
+Antarctic Environment” and a copy is annexed to this paper for the information of Delegates. 
+ 
+SCAR has also submitted to this meeting a Working Paper on this subject that summarizes 
+the main findings and recommendations of the workshop. 
+IMPACTS OF MARINE
+ACOUSTIC TECHNOLOGY ON
+THE ANTARCTIC
+ENVIRONMENT
+Version 1.2
+July 2002
+SCAR Ad Hoc Group on marine acoustic
+technology and the environment
+ii
+Executive Summary
+Equipment using sound waves to investigate the sea bed and the water column are
+essential to the understanding of the Antarctic marine environment. At the same time,
+there is active research into the effects of such technology on marine animals,
+particularly cetaceans. The potential risks posed by equipment are a combination of
+source level, frequency and local effects that define the likelihood of interacting with
+animals. Many acoustic instruments are of sufficiently low power and high frequency
+as to pose a minor risk to the environment. The equipment with the highest risk
+potential are airgun arrays and low frequency, high power transducers with wide beam
+angles. 
+Cetaceans have been observed avoiding powerful, low frequency sound sources and
+there is now a documented case of injury to whales from multiple, mid frequency (2.6-
+8.2 kHz) military echo sounders. At the same time, some whale populations co-exist
+with commercial seismic exploration surveys. In the case of other animals, there is
+some evidence for short term displacement of some seals and fish by seismic surveys
+but there is little literature available.
+The working group felt that the evidence available did not justify a ban on seismic
+surveys or scientific echo sounders in Antarctic waters, however, surveys should be
+examined on a case by case basis and mitigation strategies should be used to reduce the
+risk to Antarctic wildlife from high power, low frequency sources. Acoustic releases
+and similar low power, occasional source were not considered a threat to wildlife.
+Mitigation strategies should be investigated to evaluate their effectiveness and there
+should be a regular review of mitigation strategies and the progress of research in the
+field to ensure that new research findings will be avalable to the Antarctic community.
+Research into the hearing and rection to noise of Antarctic animals should be
+encouraged as should research into sound propagation conditions arounnd Antarctica.
+Records of the locations, timing, duration, frequency, and nature of hydroacoustic
+and other activities should be maintained to permit retrospective assessment of the
+likely causes of any future observed changes in the distributions, abundance, or
+productivity of the potentially affected species and populations
+Some mitigation strategies in use are:
+1. Use of the minimum source level to achieve the result.
+2. Use of  “soft starts” whereby power is increased gradually over periods of 20
+minutes or more.
+3. Care should be taken with line lay outs to avoid restricting animals’ ability to a
+avoid the source.
+4. Equipment should be shut down if cetaceans are observed within a distance of the
+vessel defined by the source power, directionality and propagation characteristics.
+5. Surveys should be planned to minimise repeated surveying of areas in consecutive
+years with high risk equipment.
+6. Care should be exercised to minimise impacts in known sensitive areas and times.
+Further research is needed to assess whether these measures work and to better monitor
+the proximity of wildlife to a vessel. The Antarctic community and permitting agencies
+will need to monitor research progress to ensure practices are up to date.
+iii
+Workshop participants and contributors
+Philip E. O’Brien*, Geoscience Australia, convener.
+Wolf Arnt, Alfred Wegner Institute, Bremerhaven, Germany.
+Inigo Everson, British Antarctic Survey.
+Karsten Gohl, Alfred Wegner Instutute, Bremerhaven, Germany.
+Jonathan C.D. Gordon, Sea Mammal Research Unit, University of St Andrews, United
+Kingdom
+Cathy Goss, British Antarctic Survey
+Ulrich Kremser, Federal Environmental Agency (UBA), Germany
+Robert Laws, Schlumberger Pty Ltd
+Tony Martin, British Antarctic Survey.
+Joachim Ploetz, Alfred Wegner Instutute, Bremerhaven, Germany
+Paul G. Rodhouse, British Antarctic Survey.
+Tracy Rogers, Australian Marine Mammal Research Centre, University of Sydney,
+Australia.
+David Thompson, Sea Mammal Research Unit, University of St Andrews, United
+Kingdom.
+Michael Sexton, Geoscience Australia, Canberra, Australia.
+Rory Wilson, University of Kiel, Germany.
+Eric Woehler, Australian Antarctic Division.
+*Address correspondence to: Dr. P. E. O'Brien, Geoscience Australia, GPO Box 378,
+Canberra, Australia, 2601. Email: phil.obrien@ga.gov.au
+Acknowledgments: The working group would like to thank everyone who contributed
+information to the report compilation. Special thanks to Mike Thomson for assembling
+the people and arranging the meeting.  Hoc Baldock also helped with arrangements.
+Joe Mifsud drafted the diagrams and Rex Bates assisted with file conversions. RD
+Instruments provided figure 11. Philip O’Brien and Michael Sexton publish with the
+permission of the Chief Executive Officer, Geoscience Australia. 
+iv
+CONTENTS 
+Introduction  
+1
+Sound in the Ocean  
+4
+Acoustic Technology 
+11
+Marine seismic reflection surveys 
+11
+Transducer based equipment    
+17
+Cetaceans 
+24
+Penguins 
+33
+Seals 
+43
+Prey Species 
+49
+Issues in evaluating possible survey impacts 
+53
+Conclusions and Recommendations 
+56
+References 
+57
+Figure 1. Zones of influence around a sound source in the ocean (Richardson et al.,
+1995).
+Figure 2. Typical impusive sound as a graph of pressure versus time. The pulse was
+produced by an airgun.
+Figure 3. The geometry of spherical spreading. The same energy is spread over an area
+that increases with the square of the distance.
+Figure 4. Formation of the source ”ghost” by the Loyd Mirror effect.
+Figure 5. Principle of a tuned array where several small guns generate a large far-field
+signal  with a suppressed bubble pulse (Dragoset, 2000).
+Figure 6. Lay out of an airgun array.
+Figure 7. Back calculated source signature and amplitude spectrum for a 3397 in3 array
+(Dragoset, 2000).
+Figure 8. Polar plot of the beam pattern of a square transducer (Clay and Medwin,
+1977).
+Figure 9. Beam pattern of a sidescan sonar (Searle et al., 1990).
+Figure 10. Beam pattern for a multibeam sonar system (Hill et al., 1995).
+Figure 11. Beam pattern for an acoustic Doppler current meter (ADCP).
+CONTENTS 
+Figures
+v
+Figure 12. Results from a study of the impacts of helicopter overflights on Emperor
+Penguin chicks that recorded noise levels [db(A)] from helicopter overflights (Geise
+and Riddle, 1999).
+Figure 13. Distribution and size of penguin colonies around Antarctica.
+Figure 14. Distribution of penguin colonies, Bellinghausen Sea, Antarctic Peninsula
+and the Weddell Sea.
+Figure 15. Distribution of penguin colonies, Longitude 000o to 090oE.
+Figure 16. Distribution of penguin colonies, Longitude 090o to 180oE. (Shackleton Ice
+Shelf to western Ross Sea).
+Figure 17. Distribution of penguin colonies, Longitude 180o to 090oW. Ross Sea to
+Amundsen Sea. 
+Figure 18. Distribution and density of krill (Euphasia superba) from Nicol et al. (2000).
+Tables
+Table 1.  Approximate conversion of different measures of sound intensity.
+Table 2.  Ranges (km) for different received levels with different propagation models
+(from Gordon et al., 1998).
+Table 3. Elements of the marine biomass, their equivalent diameters and their range of
+detection frequencies (modified from Clay and Medwin, 1977).
+Table 4. Sounds produced by baleen whales found in the Southern Ocean (Richardson
+et al., 1995, McCauley, et al., 1998).
+Table 5. Risk assessment for blue whales and seismic surveys on the southern
+Australian continental margin (McCauley and Duncan, 2001).
+Table 6. Sounds used by toothed whales found in the Southern Ocean (Richardson et
+al., 1995). Long-finned pilot whales produce clicks like echo location clicks of other
+species.
+Table 7. Breeding timetables for Antarctic penguins.
+Table 8. Sounds used by seals found in the Southern Ocean.
+Table 10. Example of a Likelihood-Consequences matrix (Standards Association of
+Australia, 1999).
+Table 9. Risk assessment of seals and seismic surveys 
+1
+INTRODUCTION
+Purpose
+Marine acoustic technology provides fundamental tools for almost all marine science
+research. In the Antarctic, echo sounders map the sea floor, study the distribution of
+fish and plankton and allow safe navigation in poorly charted waters. Acoustic releases
+enable the deployment and retrieval of seabed moorings without long lines that could
+entangle animals and icebergs. Seismic reflection equipment images the sediments
+beneath the sea floor enabling the interpretation of past climate. Pingers enable us to
+map where samples come from on the sea floor and the water column. Without
+acoustic tools, our understanding of the world’s oceans would have made little
+progress since the early 20th century. At the same time, it has been increasingly
+recognised that marine animals use sound for a variety of purposes and that high
+energy sound can potentially damage animals.
+This report arose from the XXVI th SCAR meeting in Tokyo where it was recognised
+that there were inconsistencies in the way various nations were treating the assessment
+of the environmental impact of marine acoustic equipment in research programs. Some
+national approval agencies regarded the impacts as minor or transitory but others
+demanded full assessments of all acoustic equipment, not just the higher powered
+systems such as seismic airgun arrays. It was decided that a report should be prepared
+that reviewed the literature on the effects of acoustic technology on major animal
+groups and commented on the situation in the Antarctic.
+The ad hoc group charged with preparing the report was constituted from the Working
+Groups on Geosciences and Biology. The group sought out people with expertise in the
+acoustic response of wildlife, knowledge of the distribution of Antarctic wildlife and
+knowledge of the various survey equipment. They also sought people with recognised
+expertise in the field to review the draft report. This report cannot hope to
+comprehensively cover a large field that is the subject of active, multidisciplinary
+research, rather, it seeks to review the literature, provide pointers to the major works
+that cover topics in greater detail and provide guidance as to how the available
+knowledge applies to Antarctica. 
+Methods
+The approach taken is to provide succinct summaries of knowledge concerning the
+reactions of important animal groups to underwater sound, the distribution of these
+animals in the Antarctic and how that varies through the year and a brief description of
+the various marine acoustic equipment, its output and how it is used. From these
+reviews we aim to come up with some general pointers to the level of impact possible
+and some guidelines for assessing the risks posed by a particular survey. Some
+mitigation strategies in use are suggested,  -although they are found more often in
+unpublished government guidelines and permits making a comprehensive review
+difficult.
+Although definitive answers cannot be provided at the moment, an understanding of
+animal characteristics and distribution and an understanding of equipment and survey
+design can identify the broad level of risk posed by a survey. The report draws on a
+growing body of literature and should be seen as an introduction to the field. Readers
+requiring more detail should refer to such important texts such as Richardson et al.
+(1995).
+2
+Because marine acoustics is a complex, highly specialised area, the report commences
+with a very brief introduction to the field to define units and terms and the basic
+physics of sound in the marine environment. Again, readers should consult the many
+excellent publications on the topics to go beyond what is a very basic introduction.
+Environmental Impacts
+In assessing the potential for environmental impacts of acoustic technology, we try to
+address two major themes:
+Injury
+The questions that need to be addressed are:
+• Can the equipment physically kill or injure an animal and if so at what range?
+• Can the equipment damage an animals hearing and if so over what range?
+This area is difficult because there is little research on injuries to wild animals and
+most literature relates to humans and to the use of explosives, which are rarely used for
+scientific purposes.
+Disturbance
+The major questions to be answered are:
+• Does the use of the equipment affect animal behaviour and over what area?
+• Does the behavioural disturbance constitute a threat to populations by changing
+behaviour at critical times and in critical areas?
+• Will a survey affect large numbers of animals, a small important group of animals
+or will the area be free of most species during the survey?
+• Will a survey affect prey species in a way that will increase or decrease their
+availability to predators?
+• What proportion of an area used by the animals is affected by the survey?
+200
+180
+160
+140
+120
+100
+80
+60
+0.001
+0.01 
+0.1 
+1 
+10 
+100
+Source level of man-made noise
+Received level of man-made noise
+vs. distance from source
+Respose threshold
+of marine mammal
+Ambient noise level 
+Maximum
+reaction
+distance
+Maximum
+detection
+distance
+dB re 1   Pa
+Range (km)
+µ
+23/09/345
+Figure 1: Schematic diagram showing zones of influence around a sound source in the
+ocean (Richardson et al., 1995).
+The area of influence of an acoustic survey can be understood using the schematic
+diagram of Richardson et al. (1995) (Fig. 1). The maximum detection distance is the
+distance at which a sound is audible above the ambient noise. The maximum reaction
+distance is the distance at which animals exhibit behaviour changes. In between these
+distances, survey noise may mask animal communication in some species. These
+3
+distances depend on the level of ambient noise, the animal’s hearing and behaviour, the
+source level of the equipment and the decay of the signal intensity with distance.
+Closer to a powerful source, there may be a hearing impairment distance, and closer
+still an injury distance where an animal experiences physical damage to tissues in
+addition to hearing organs. These distances are even harder to estimate in wild species
+than reaction distances but some guidance can be obtained from studies of explosive
+safety and from the levels of sounds generated by animals themselves.
+Risk assessment
+For several animals groups, we have attempted to develop an assessment of risk under
+the following headings:
+Behavioural effects direct:
+What are the possible behavioural effects of the disturbance on the species both short
+and long term?
+Pathological effects:
+What are the possible physiological implications for the species concerned?
+Geographical scale:
+What is the geographical scale of the disturbance and does this overlap with the range
+of the species or space crucial to the species of interest?
+Timing/duration of action:
+Does the timing of the disturbance overlap with a crucial event for the species?  Does
+the disturbance occur over a sustained or short period of time?
+Cumulative effect of action:
+Does any effects of the disturbance add to similar disturbance types displaced in time
+or space, or to different stresses for the species of interest?
+Other sources of impacts
+In understanding the absolute level of risk posed by acoustic surveys, some
+consideration should be given to other sources of risk. For example, Clapham et al.
+(1999) examined whale population data and concluded that ship strikes and
+entanglement in fishing gear were the most significant threats to endangered baleen
+whales, although they regard the data as insufficient to permit an assessment of other
+types of activities. We have not reviewed all such issues because to do so would have
+increased the work beyond manageable levels. 
+4
+SOUND IN THE OCEAN
+Marine Acoustic measurement
+Sound in the ocean travels as vibrations of water molecules that exert push-pull
+pressure on objects in their path. Sound is heard by push-pull of the ear or hearing
+mechanism of an animal and it similarly exerts pressure on the rest of the animal.
+Some important properties of sound are:
+Frequency – the rate of oscillation or vibration measured in cycles per second or hertz
+(Hz). Ultrasonic frequencies are too high to be heard by humans (>20,000 Hz) but may
+be heard by some animals such as dolphins and bats. Infrasound is too low to be heard
+(<20 Hz) but can be heard by baleen whales (Richardson et al., 1995).
+Wavelength – is the length of the fundamental oscillation of the sound in the
+propagation medium.
+Basic units
+Sound pressure is the parameter measured by most instruments. It is expressed in
+pressure units, microPascal (µPa) in the SI system, microbars (µbar) or bars are still
+used in the geophysical industry. Microbars and microPascals can be related 
+1 µPa = 10-5 µbar
+Acoustic intensity is the acoustic power per unit area in the direction of propagation. Its
+units are watts/m2. The intensity, power and energy of an acoustic wave are
+proportional to the average of the pressure squared (mean square pressure). 
+In presenting sound measurements ratios of pressure, or pressures squared are used,
+requiring the adoption of a standard reference pressure. For acoustics in water, this is 1
+µPa. 
+Waveform of a signal is a graph of strength versus time (eg. Fig. 2). The waveform of a
+pure tone is a sinusoid whereas a pulsed sound rises sharply to a peak then decays in a
+complex manner (Fig. 2). Waveforms are important in seismic surveys and echo
+sounders.
+Sound Spectra graph the distribution of sound power as a function of frequency (Fig.
+2). They may be narrowband spectra that show the levels in 1 Hz bands or
+proportional bandwidth spectra that show levels in 1/3 octave or 1 octave bands.
+Continuous sources are characterised by an output of power in µPa2 whereas impulsive
+sources are characterised by an output energy in µPa2.seconds.
+The Decibel Scale
+The human ear responds in a logarithmic fashion to increases in sound intensity,
+therefore a scale has been adopted to reflect this response. The decibel scale is a
+logarithmic scale used to measure the intensity (power) of sound. It is defined as:
+dB = 10 log10(I/I0), where I0 is a reference intensity.
+However sound measuring devices usually respond to sound pressure (P) and the
+intensity of sound varies as the square of the pressure. Consequently, the level of sound
+intensity can be rewritten as:
+5
+dB = 20 log10(P/P0), where P0 is a reference pressure.
+In air the reference pressure is 20 µPa which chosen to be near the limit of human
+hearing and in water it is 1 µPa, again chosen to be near the limit of human hearing.
+The advantage of the decibel scale is that a large range of values can be handled by
+smaller numbers. For example a pressure ratio of 10 is equivalent to 20 dB, whilst a
+pressure ratio of a million equals 120dB. A convenient value to remember is: 6 dB
+represents approximately a doubling of the pressure.
+The standard unit of continuous source level in underwater acoustic is the (µPa-m)2.
+However, source levels are typically quoted as ‘x dB re 1 µPa at 1 m’ or ‘x dB re 1
+µPa-m’.
+Pulsed Sounds
+Most acoustic devices use pulsed sound. As yet, there is no standard way to describe
+pulsed sounds and inconsistencies within the literature produce major confusion when
+different studies are being compared.  Readers are advised to consult references such
+as Richardson et al. (1995) to ensure a clear understanding of the units involved and
+issues relating to their use.
+Initial impulse
+Surface reflection (ghost)
+Bubble pulses
+2.0
+1.5
+1.0
+0.5
+0
+-0.5
+-1.0
+-1.5
+-2.0
+150
+200
+250
+300
+350
+400
+450
+500
+Strength (bar-m)
+Time (ms)
+23/09/346
+Figure 2: Pulsed sound produced by a single air gun (Dragoset 2000) showing the
+major features of a pulsed sound wave form. 
+Figure 2 illustrates the waveform of an airgun which is a typical pulsed output. The
+sound can be characterised by the zero-peak pressure which is the maximum pressure
+of the rising part of the wave and the peak-to-peak pressure which is the sum of the
+pressure of first peak plus the absolute value of the first trough. This form of
+measurement is common in the geophysical industry. They can be expressed in
+pressure units or converted to ( µPa-m)2 or expressed in ‘dB re 1 µPa-m’.   Seismic
+source energies are usually quoted for the downgoing signal because this is of primary
+interest for seismic imaging of the subsurface.  It is not straightforward to calculate the
+side-radiated energy.  The side-radiated energy depends on the array dimensions and
+towing depth and the sea-state. 
+6
+Those interested in the effects of pulsed sounds on the environment recommend some
+measure of the energy of the pulsed signal (Richardson et al., 1995, McCauley et al.,
+2000). Received energy is proportional to the pressure squared and thus is expressed in
+µPa2-s (microPascal squared-seconds). Measurement of energy is difficult because it
+depends on the time over which the measurement is taken and the shape of the pulse
+and can be distorted by other noises (McCauley et al., 2000). McCauley et al. (2000)
+present conversions for their surveys from equivalent energy to mean squared pressure
+measurement and to peak-to-peak figures. They point out that the peak-to-peak
+conversion is not technically valid however, many other studies use peak-to-peak
+values and the potential damage to animal hearing may be proportional to peak
+pressures so they use an empirical calculation. Peak-to-peak pressures are the standard
+measure of airgun array power used by the geophysical industry. Sound pressure
+density spectrum is the mean square pressure per unit frequency measured in  µPa2/Hz.
+This measure is that used for continuously distributed sound and is dependent on the
+filter bandwidth used in the calculation. A method used for sounds in which tones are
+important calculates a power spectrum without a bandwidth correction and has units of
+‘dB re 1 µPa’. Theses two measures can be confused and it is not always clear which is
+being used in publications. 
+In considering the impact of any activity, great care should be taken to ensure
+that the same units are being used when comparing equipment outputs and data
+on animal behaviour or other effects. Publications commonly use poorly defined
+measurements and use incorrect or abbreviated units. Some crude generalisations can
+be made about conversions of different measures to provide guidance but actual
+conversion figures w ill vary depending on measuring equipment, filtering, time
+integration of the signal, signal waveform and the local environment in which the
+measurements are made (Table 1). While these conversions are inexact and, in some
+instances not strictly valid, it is useful to know that, for example, 0-p values will
+always be lower p-p or RMS values for the same source or that a spectral value will be
+substantially lower than a p-p value. Major confusion can occur if direct comparisons
+are made between measurements made in air and those in water. Decibel figures for air
+are calculated for a reference pressure of 20 µPa (as opposed to 1 µPa in water).
+Furthermore,the acoustic impedence of air and water are very different. This means a
+sound pressure in air will be 62 dB (re 20 µPa) lower than the dB figure for a signal of
+the same power in water (Gausland, 2000).
+Table 1: Approximate conversion of different measures of sound intensity. This table
+is based on figure used for impulsive sources (airguns) and the figures will vary with
+the pulse shape. They are intended only as a guide to the direction and order of
+magnitude difference between the different methods of quoting sound energy.
+Unit from
+To unit
+Conversion
+Typical values
+Zero-to-peak
+RMS
+add
+3 dB re 1 µPa
+Zero to peak
+Peak to peak
+add
+~9 dB re 1 µPa
+Spectral level (dB
+re 1 µPa2/Hz at 1m) 
+Peak to peak
+Add (not physically
+valid)
+~40 dB re 1 µPa
+Sound pressure in
+air
+Sound pressure in
+water with the
+same power
+Add 
+62 dB re 1 µPa
+7
+Transmission Losses 
+The propagation of sound in the oceans is complex and the subject of much study. A
+more detailed review is available in Richardson et al. (1995) and in texts such as Clay
+and Medwin (1977). Precise calculation of transmission loss can be very complicated
+and the appropriate model varies from area to area. In the absence of studies in most of
+the Antarctic region, a simplistic model can be used to provide conservative estimates
+for sound levels at distance from a given source. More realistic models require field
+studies and will tend to reduce the estimates of sound levels.
+In the deep ocean, sound energy from a point source spreads out much like light from a
+light source. Consequently the energy density (or intensity) drops off according to a
+1/R2 relation (Figure 3, which means that the sound pressure reduces according to a
+1/R relationship (as I ~ P2).
+E
+R
+r
+r
+E
+4   r
+π
+2
+E
+4   R
+π
+2
+23/09/347
+Figure 3 Spherical spreading of sound. The same energy is spread over a 
+larger area that varies as the square of the distance.
+From the definition of the decibel scale for sound pressure, it is easy to see that the
+attenuation of sound pressure with distance is equal to 20log10R, where R is the
+distance from the source, and is subtracted from the value in dB determined at a
+distance of 1 m from the source. The “sonar equation” is (Clay and Medwin, 1977):
+SPL = SL – 20 log10 (R/R0)
+-SPL is sound pressure level at distance R
+SL is source level at reference distance R0 
+For each doubling of the distance (R), SPL decreases by 6 dB (6 dB ~ 20log102) (Clay
+and Medwin, 1977).
+In shallow water, the surface and seabed boundaries effectively channel the sound
+energy in the water into a horizontal direction. In this situation cylindrical divergence
+applies with a lesser attenuation equal to 10log10R . A similar situation applies when
+8
+the sound energy is trapped within a thermal layer or sound channel. In the case of
+airgun arrays, and most ship mounted echo sounders, the maximum sound levels are
+directed in a vertical direction.  Amplitude levels emitted horizontally are typically 20-
+40 dB lower than those emitted vertically so smaller amounts of energy can make its
+way into a sound channel produced by surface stratification.
+Attenuation Losses.
+Besides losses due to spreading, losses due to absorption, scattering and interaction
+with the bottom also occur.
+Absorption involves the conversion of acoustic energy into heat and can occur by a
+number of processes. Experimentation has shown that temperature, the concentration
+of magnesium sulphate in seawater and in particular the frequency of the sound wave
+are the key factors. Richardson et al. (1995) suggest that an empirical equation for the
+absorption coefficient for seawater under range of conditions is:
+   A = 0.036f1.5
+where f is the frequency in kilohertz and A is absorption in dB/km.  
+This equation can be used to illustrate the importance of frequency in sound
+propagation. At 12 kHz, absorption is 1.49 dB/km and reaches around 3.2 dB/km for
+sounds at 20 kHz. Clay and Medwin (1977) give similar calculations that show
+absorption in the range of 10 dB/km for frequencies above 100 kHz. When compared
+to spherical spreading, for frequencies >5 kHz, absorbtion is important at ranges > 10
+km.  For frequencies <1 kHz, it is not significant for ranges < 40 km (Richardson et al.,
+1995). 
+Scattering occurs when sound strikes objects in the water and is reflected. These
+objects can be boundaries (surface, bottom and shores), bubbles, and suspended solid
+and organic particles, marine life and changes in the thermal structure of the ocean.
+Sound reflected from the ocean floor usually suffers a significant loss in intensity. The
+amount of energy lost varies with the bottom composition, sound frequency and
+striking angle of the sound wave. In general bottom loss will tend to increase with
+frequency and with angle of incidence. Soft bottoms such as mud are usually
+associated with high bottom loss, hard bottoms such as smooth rock and sand produce
+lower losses. In some circumstances, sound may refract through the sea bed as head
+waves. McCauley et al., (2000a) found that these may be important additions to noise
+levels on shallow shelves.
+Regional variations in Transmission Losses
+While it is possible to derive equations that will compute precise values of these losses,
+ocean characteristics are so variable that little is gained in doing so. Regional
+variability is such that, if the losses need to be known for a particular area, it is
+probably better to conduct a specific survey to measure them. Other wise, a simple
+calculation using spherical or cylindrical divergence will give a conservative
+approximation. For example, a number of results can be found in submissions to the
+United States Environmental Protection Agency for conducting seismic surveys. The
+USGS uses an overall transmission loss (TL, transmission and attenuation losses)
+equation of:
+TL =  nlog10R
+9
+Where R is the distance from the source. A number of experiments have produced a
+range of values for n. In certain areas they have observed n as high as 43 (Santa
+Barbara Channel) and 29 (Puget Sound). Sodal, (1999) conducted a rather detailed
+experiment in deep ( 4000 m) and shallow ( 40 m) water. In the deep water it measured
+n = 50 which is twice that expected from spherical spreading and in the shallow water
+measured  n= 20 which is the rate for spherical spreading, when a rate closer to
+cylindrical spreading was expected. McCauley et al., (2000a) measured transmission
+losses from a 3-D seismic array where n = 34.3536 in Exmouth Gulf, Western
+Australia, (water 5 – 200 m depth, mixed carbonate hardground, carbonate mud and
+sand sea floor).
+Predicting survey radius of impact
+In the absence of pre-survey data for most Antarctic waters, some method of
+estimating the sound levels at distance from a survey is needed. Theoretically, in water
+that has depths greater than the sound wavelength, spherical spreading transmission
+loss should apply whereas for depths near or smaller than the wavelengths, cylindrical
+spreading transmission loss should apply. This means that for frequencies of a few
+Hertz, wavelengths are in the hundreds of meters, so quite deep water should be treated
+as “shallow”. High frequencies, in the kiloHertz range, have wavelengths <1.5m so
+most water is “deep” (Richardson et al., 1995). However, the empirical studies
+mentioned above demonstrate that that Transmission Losses in even quite shallow
+water are commonly higher than that predicted using the spherical divergence. On the
+other hand, stratification of the water column may produce conditions in deep water
+where cylindrical spreading is a better description. 
+The differences between models become greater with distance from the source. Gordon
+et al. (1998) illustrate that a range of possible models produce estimates of the radius at
+which a particular sound level will be reached differ by hundreds of meters for
+estimates of sound levels near a high powered source. At greater distances and lower
+sound levels, the different models produce estimates that differ by hundreds of
+kilometers (Table 2). These uncertainties in estimating sound propagation make it
+highly desirable that there be studies of sound propagation in Antarctic waters.
+Accurate estimates of propagation or actual measurements of sound levels would be
+particularly important in studies of animal behaviour at larger distances.
+Table 2  Ranges (km) for different received levels with different propagation models (from Gordon et al., 1998)
+Received level dBp-p re. µ Pa
+Model 1 (km)1
+Model 2 (km)2
+Model 3 (km)3
+Model 4 (km)4
+220
+0.03
+0.10
+0.02
+0.03
+210
+0.10
+0.46
+0.04
+0.10
+200
+0.32
+2.2
+0.10
+0.32
+190
+1.0
+10.0
+0.25
+1.00
+180
+3.2
+46.4
+0.63
+10.
+170
+10.0
+215
+1.6
+100
+160
+31.6
+1,000
+4.0
+1,000
+150
+100.
+4,641
+10.0
+10,000
+140
+316.
+21,544
+25.1
+100,000
+1Model 1: transmission loss = 20 log(r) (spherical spreading)
+2Model 2: transmission loss = 15 log(r)
+3Model 3: transmission loss = 25 log(r) 
+4Model 4: transmission loss = 10 log(1000) + 10 log(r) (spherical spreading to 1,000 m, then cylindrical spreading).
+10
+Noise sources and levels in the ocean
+The sea is a noisy place with background noise generated by physical processes as well
+as biological agents. Wind generated waves, sea ice and sediment movement can all
+produce sound pressure levels up to 180 dB re 1 µPa-m (Richardson et al., 1995, Harris
+et al., 1991). The level of wind-generated noise is an indirect function of sea state and
+peaks in the 1 kHz range (Richardson et al., 1995). Noise from sea ice deformation is
+strongest in the infra sound range. Both wind and wave noise and sea ice noise form at
+the surface so ambient sound levels decrease with depth. Sounds produced by animal
+groups will be discussed below in the appropriate sections.
+Injury by sound
+Non-auditory injuries
+There is no published research on impulsive injuries by non-explosive sound sources.
+There is a small amount of work relating to chemical explosives which have a shorter
+rise time than other sound generators. Richardson et al., (1995) review studies that
+found blast injury to be less likely with increasing size. Although there are various
+factors that influence the potential for injury from a shock wave, there are some
+estimates of maximum pressures for animals and humans in water. Marine
+Technologies Directorate (1996) recommend for humans in water a maximum Peak
+Pressure of 170 kPa for a single exposure, which translates into 224 dB re 1 µPa.
+Experiments on terrestrial animals in water quoted in Richardson et al. (1995) found
+low incidence of injuries including eardrum rupture below levels of 216 dB re 1 µPa
+and no injuries at 210 dB re 1 µPa.
+These figures suggest that non-auditory injuries  would only occur close to the most
+powerful sound sources, however, anecdotal evidence from divers (Marine
+Technologies Directorate, 1996) and examination of beaked whales affected by
+military sonar (Balcombe and Claridge, 2001) suggest that animals and humans can be
+injured by resonance effects in body cavities. Research into this problem is at an early
+stage but it is likely that it would be most pronounced for continuous or long sound
+pulses. Gordon et al., (1998) quote theoretical studies that suggest sounds may induce
+bubble growth in the blood stream of a diving animal. Sound pressure levels above 190
+dB re 1 µPa would be required to induce this effect if it takes place. McCauley et al.,
+(2000) take the view that animals must be able to cope physiologically with their own
+sounds, concluding that whales can cope with levels of 188-192 dB re 1 µPa. (p-p).
+However, animals generally project sounds forward and may have mechanisms for
+blocking transmission of potentially harmful sounds into the inner ear (D. Ketten, pers.
+Comm, 2002).
+Auditory damage
+The thresholds of auditory damage in marine animals is difficult to assess and the
+subject of ongoing research and will be reviewed with the different animal groups.
+Richardson et al. (1995) and Gordon et al., (1998) review the problem. They note that
+damage is more likely and thus thresholds are lower for repeated exposure. They come
+up with thresholds for auditory damage from as low as 178 dB re 1 µPa for 100 long
+(>200 ms) pulses in sensitive species to 244 dB re 1 µPa for a single short (25 µs)
+pulse for insensitive species. However they are at pains to point out that the lack of
+data makes such conclusions highly speculative. 
+11
+ACOUSTIC TECHNOLOGY
+MARINE SEISMIC SURVEYS
+Seismic reflection and refraction surveys are used by geophysicists and geologists to
+image the arrangement of sediments and basement beneath the sea floor. The method
+can also be used on land and has been used to measure ice thickness on the Antarctic
+Ice Sheet as well. Seismic reflection methods are one of the most important tools for
+imaging the earth’s crust and are used world-wide in research into almost all aspects of
+marine geology and geophysics and for providing images of the subsurface for
+engineering works. It is also an important tool in petroleum exploration. For these
+applications, seismic surveys vary in areas covered and most importantly, in the size of
+the seismic sound source employed. This review will discuss the basic tools of seismic
+surveys and the differences in survey design and the likely variation in potential
+impacts in Antarctica of different survey designs.
+Basic Survey Design
+Marine seismic systems consist of a sound source towed behind the vessel within a few
+meters of the surface that produces sound pulses at a controlled frequency range at set
+time intervals. The sound pulse travels through the water column and penetrates the sea
+floor. Sound is partially reflected and efracted by each change in acoustic properties it
+encounters. These waves return and are recorded by hydrophones towed further behind
+the vessel in a streamer or seismic cable or by seismic recorders deployed on land or
+temporarily placed on the sea-floor (ocean-bottom seismographs). The vessel travels in
+a straight line at constant speed so the same point in the seabed can be measured
+repeatedly and the signals added during post-survey processing. Seismic lines are shot
+usually in intersecting groups so reflectors can be traced from line to line. 
+Line spacing for reflection will depend on the purpose of the survey. In Antarctica,
+where lines are surveyed exclusively for research purposes, lines are generally many
+kilometers apart, producing  widely spaced, two dimensionals images of ”slices”
+through the earth’s crust. These are normally known as 2-D surveys. In petroluem
+provinces, 2-D surveys tend to have closer line spacing or 3-D surveys are carried out
+where a relatively small area is crossed by two sets of parallel seismic lines several 10s
+of meters apart. Such 3-D surveys are unlikely in Antarctic waters in the foreseable
+future because of their very large cost and ellaborate techonlogical requirements. 
+The survey collects data at individual,evenly spaced shot points along the survey lines
+so to give the section through the earth’s crust, the vessel moves forwards at a fixed
+rate. The rate of movement depends on the purpose of the survey. Deep surveys require
+longer times for reflections to return from depth so shots occur at intervals of 9-20 or
+even 30-60 seconds for refraction surveys and the vessel will move at speeds around 4-
+5 knots. Shallower surveys will move faster and have faster shot rates but speeds much
+faster than 10 knots produce so much ship noise and turbulance along the hydrophone
+streamer that the data become degraded.
+Sea Ice and timing of surveys
+Environmental conditions are major factors in the execution of seismic reflection
+surveys in the Antarctic. Seismic surveys require the towing of electronic and
+compressed air devices behind the ship so it is difficult to survey with large scale
+equipment in sea ice. Some surveys using equipment towed in the wake of an ice
+breaker have been successful (e.g. O’Brien et al., 1995) however seismic reflection is
+12
+largely restricted to open water. Therefore, such surveys are mostly carried out during
+the minimum sea ice period, from early January to March, depending on local
+conditions. Wind and swell noise also degrades seismic data so bad weather also halts
+surveys.
+Sound sources – Basic types
+Seismic surveys use different sound sources depending on their purpose. For imaging
+shallow sediments in great detail, a survey will use a small, higher frequency source
+and a short hydrophone streamer. The source could be one or two small air guns or
+electrically driven sparker or a swept frequency echo sounder (chirper). For imaging
+deeper in the earth, several larger airguns are used and with longer streamers. Sparkers
+are becoming quite rare because of their difficulty of use and low power, particularly in
+deep Antarctic waters so the discussion of  sources will concentrate on air guns and air
+gun arrays. Chemical explosives have not been used for seismic surveys for many (25-
+30) years because of their danger, unreliability, high environmental impact and poor
+signal quality. 
+AIR GUNS AND AIR GUN ARRAYS
+An air gun is a mechanical device that stores high pressure air in a chamber and
+releases it suddenly through ports in response to an electrical trigger. When the air
+escapes, part of the energy is released as sound, which travels into the subsurface and
+is reflected back. The pulse rise time is of the order of a few millseconds. Air guns
+typically vary from 10 cu in (0.16 litres) to 500 cu inches (8.21 litres) in volume of air
+discharged. Large-volume airguns especially designed for seismic refraction work can
+be up 60 litres.
+The vertical, downgoing acoustic signal from firing an airgun is termed its pressure
+signature and is shown in Figure 2. The main features of this signature are the initial
+impulse produced when the airgun’s ports first open. The source “ghost” is the
+reflection of the initial impulse from the sea surface is of opposite polarity to it (see
+Figure 4), and the bubble pulses which are produced by the over-expansion and
+collapse cycles of air-bubbles produced by the airgun, as they rises to the surface. The
+ghost production creates a sound shadow near the surface where the direct pulse and
+the surface reflection interfere destructively. The source radiates predominantly
+downwards. This interference effect with the sea surface reflection is also known as the
+Loyd Mirror Effect and occurs with most underwater sound sources and is important in
+considering safety. A diver or animal at the surface will experience much lower sound
+levels than one at depth (Marine Technology Directorate, 1996).
+Sea surface
+Zone of destructive
+interference
+Surface reflected
+pulse or ghost
+Signal pulse
+Final signal
+source + pulse
+Source
+23/09/348
+ Figure 4. Mechanism for producing the source ghost and Loyd Mirror effect.
+13
+A signal from a single airgun such as shown above is of limited use as it differs
+substantially from the ideal impulse. In particular the bubble pulses are essentially
+secondary sources of low-frequency acoustic energy that result in unwanted signals
+being returned from subsurface reflectors and interfering with reflections of the initial
+impulse. The strength and period of bubble pulses depend upon the size of the guns,
+depth of the guns in the water and air pressure used. 
+This has led the seismic industry to deploy numbers of different sized airguns triggered
+simultaneously in “arrays” in order enhance the initial impulse through coherent
+addition, whilst suppressing the bubble pulses through destructive interference. Figure
+5 shows how six different sized airguns fired simultaneously can be utilised to give a
+resultant signature far closer to an impulse than that resulting from a single airgun. The
+various seismic contractors have established their own “tuned airgun arrays”
+depending on the equipment and seismic vessels they have at their disposal. Figure 6
+shows the lay out of an array used for 2-D seismic. Guns are deployed in parallel
+strings 15.2 m apart with single guns spaced every 2.5 m along each string. Thus the
+sound is produced over an area 12.5 m by 15.2 m, rather than a point source. As ice
+flows could cause damage on the airguns and their umbilicals, arrays or airgun clusters
+of smaller dimensions are often used in Antarctic waters.
+150
+250
+350
+450
+Tuned
+Residual bubble pulses
+Time (s)
+23/09/349
+Acoustic pressure
+40
+60
+80
+100
+150
+250
+Gun volume (in  )
+3
+Figure 5. Principle of a tuned array where several small guns generate a large far-field
+signal  with a suppressed bubble pulse (Dragoset, 2000).
+The simple summation of the individual gun signatures to yield an overall signature is
+an oversimplification. If the individual guns are sufficiently close together, their
+bubbles can coalesce and result in quite complex signatures. Such guns are said to
+“interact”. Even for guns that are sufficiently separated to not interact, the resultant
+signature has a directional dependency depending on the placement of the guns in the
+array, and the computations can be quite complex especially when dealing with
+positions within the array.
+14
+NAV REF POINT
+SOURCE
+12.5
+GUN TOW
+35.0
+TO STERN 51.2
+SOURCE
+DEPTH
+ 7.0
+SOURCE
+WIDTH
+15.2
+2.5
+GUN DEPTH
+0.25
+0.90
+BUOY ROPE
+DEPTH TRANSDUCER
+0.35
+BUOY
+1800 CUBIC INCH GI GUN SOURCE ARRAY
+2 GUN STRING SUB-ARRAYS
+12 GUNS IN TOTAL
+6 GUNS PER SUB-ARRAY
+150 CUBIC INCHES PER GUN AT NOMINAL 1800 PSI
+6 HYDROPHONES AND 6 DEPTH TRANSDUCERS PER SUB-ARRAY
+ALL SUB-ARRAY GUNS ARE SUSPENDED FROM ONE SAUSAGE BUOY
+GUNS ARE HUNG IN THE WATER HORIZONTALLY AND IN-LINE
+SIDE VIEW
+PLAN VIEW
+SUB-ARRAY LAYOUT
+FRONTAL VIEW
+ENERGY SOURCE ARRAY DETAILS
+KEY
+BR
+HP
+DT
+BR
+HP
+DT
+2.5
+2.5
+BR
+BR
+HP
+DT
+GUN 1
+GUN 5
+GUN 6
+EACH GUN HAS A GENERATOR (45 Cu In) AND AN INJECTOR (105 Cu In)
+THE INJECTOR IS FIRED 32MS AFTER THE GENERATOR
+BR
+HP
+DT
+GUN 2
+2.5
+2.5
+BR
+GUN 3
+BR
+HP
+DT
+GUN 4
+HYDROPHONE
+DISTANCES SHOWN IN METRES
+AFT
+FWD
+HP
+DT
+HP
+DT
+5.85
+7.0
+Figure 6: Lay out of an airgun array. Guns are towed behind the ship on cables and fed
+by air hoses and control wires. Total signal is produced over the area of the array.
+In order to give some standard measure to compare arrays and sources, the notion of a
+“far-field signature” was developed. This involved measuring the signature at some
+distance (300 –500 m) from the source array using a calibrated hydrophone. In order to
+remove directional effects this needs to be done vertically below the array and is
+typically carried out in the deep ocean or in a quiet fiord. The resultant far-field
+signature yields amplitude values which are then scaled back to what would be
+observed at a distance of 1 metre (assuming a 1/r spreading loss – simple spherical
+spreading) from the source.
+15
+Considerable work has also gone into numerical modelling of airgun array signatures
+(one does not want to have to conduct an expensive marine survey every time one
+changes the array configuration). The comparisons with actual field observations are
+moderately good.
+The far-field signatures that are supplied for guns and arrays show the signatures that
+would be observed vertically below the source and at some distance (> 300 m) from
+the source, but with the pressure units scaled back to those of a corresponding point
+source at the cntre of the array with units of MPa (megaPascals) at 1m from the source
+or in bar.m (bars at 1 m). One bar is equivalent to 10 -1 Mpa. However it must be kept
+in mind that the array is NOT a point source so, the “back-calculated” values obtained
+are for a “notional” point source. Dragoset (2000) and Caldwell & Dragoset (2000)
+show that the values obtained for the notional source are never actually encountered at
+close distances (ie within the airgun array). In fact the pressures encountered are
+substantially less. Dragoset (2000) suggests that the maximum pressure levels within
+an array will be found between the two largest adjacent airguns. This level can be
+estimated by calculating the pressure produced by each of the two guns at that point,
+using the spherical divergence calculation, then adding the two pressures. This
+produces a theoretical maximum that is seldom reached in a real array.
+The advantage of the far-field signature display is that the specifications are relatively
+easy to obtain, are easy to visualize and understand and are standard for the seismic
+industry. One can readily determine the zero-to-peak (0-P), peak-to-peak (P-P)
+amplitudes and the peak-to-bubble ratio (P/B) and these are usually supplied by the
+gun manufacturers and array modellers. The disadvantages are that the total energy and
+spectral content are not known and the source strength measure can be misleading
+without proper specification of the recording bandwidth.
+For these reasons, it is also usual to supply an amplitude spectrum for the source (or
+array). Because of the large range of amplitude values versus frequency it is
+convenient to display the amplitudes in decibels (dB). The reference amplitude used is
+1 µPa at 1m. The advantages of describing the seismic sources in this domain are that:
+1. Absolute values of energy for the total passband and for specific frequency
+components are readily obtainable,
+2. The resolution and penetration capabilities of a seismic source can be
+estimated,
+3. It is a common display used for most noise analyses and allows one to
+compare with other sources of acoustic energy (ships, echosounders, etc),
+and
+4. During processing of the seismic data, phase information can be readily
+determined.
+Figure 7 shows the two complementary displays for a fairly typical gun array used in
+the exploration industry (Dragoset, 2000).
+16
+0
+100
+200
+300
+400
+500
+0
+50
+100
+150
+200
+55
+33
+11
+-11
+-33
+-55
+210.8
+198.8
+186.8
+174.8
+162.8
+150.8
+Time (m/s)
+Acoustic pressure Bar-metres
+Frequency (Hz)
+Amplitude spectrum dB re 1   Pa/Hz at 1m
+µ
+23/09/350
+Tow depth = 6m
+Peak amp = 50.9 Bar-m
+Figure 7. Two complementary displays of source signature and amplitude spectrum
+for a fairly typical gun array used in the exploration industry (Dragoset, 2000).
+Airgun Source Levels
+Airguns as small as 10 cu in are used for shallow surveys requiring high frequencies.
+Such guns have a source levels of 210-220 dB re 1 µPa-m (p-p). Larger airguns which
+have been used extensively in intermediate resolution surveys in the Antarctic (e.g.
+Shipp and Anderson, 1997, O’Brien et al., 1995) have source levels, in the order of 220
+dB re 1 µPa-m (p-p) but the energy is more concentrated in lower frequency ranges (10
+Hz- 1 kHz) and the main pulse is only a few milliseconds in duration. Caldwell and
+Dragoset (2000) state that arrays used in petroleum industry surveys typically have far
+field source levels in the range of 240-246 dB re 1 µPa-m (p-p) for vertical propagation
+but 10-30 dB re 1 µPa-m (p-p) lower for horizontal propagation. Gulland and Walker
+(1998) illustrate an array where the maximum sound levels are found in a roughly
+conical region beneath the array with an apex angle of 90o. It should be remembered
+that these are signatures of the notional point source with the same far field signature
+and that closer to the array, the sound levels do not reach as high as the notional point
+source. The small guns used in high resolution work are fired from every 7 sec. to as
+rapidly as every 0.25 sec. Large arrays are designed to image deep into the earth’s crust
+and so fire every 8 to 19 sec.
+17
+TRANSDUCER-BASED EQUIPMENT
+TRANSDUCERS
+Active sonars including echo sounders use transducers that are most commonly blocks
+of piezoelectric materials that expand, contract or change shape when electrical
+voltages are applied and generate voltage when they vibrate in response to impinging
+sound waves (Clay and Medwin, 1977). Most transducers are made of ceramic material
+so they can be shaped to produce the desired beam pattern and respond preferentially
+to sound coming from the direction of interest. Shaped sound reflectors have also been
+used much in the same way as mirrors to focus the outgoing and incoming sound.
+Transducers are constructed of multiple elements to produce omnidirectional, focussed
+or wide beams depending on the application. 
+Commonly used devices that use transducers are: Echo sounders, multibeam echo
+sounders, sidescan sonars, Acoustic Doppler Current Profilers, acoustic releases,
+positioning transponders and positioning beacon.
+ECHO SOUNDERS
+Echo sounders emit a short pulse of sound and listen to reflected energy from the sea
+bed or things in the water column such as schools of fish or plankton. Every large
+vessel has an echo sounder directed vertically downwards to measure depths under the
+keel. This is essential for safe navigation so echo sounders are the most commonly
+used acoustic technology. Sonars are used for applications requiring higher frequencies
+than those used in seismic reflection, usually higher than 1 kHz, although there is a
+continuum of applications. Lower frequency sonars can be used for high resolution
+sub-bottom profiling. Their frequency range is higher than airguns so they can resolve
+thinner beds but absorption of the signal is much higher so penetration is limited. 
+Echo sounder frequencies vary depending on their use. For fine-scale imaging of
+shallow subsurface sediments, frequencies around 3.5 kHz are used, although better
+subsurface images are obtained if the transducer sweeps through a range of
+frequencies, such as 1.5-11.5 kHz or 0.4-8 kHz depending on the make, model and
+application. These swept frequency units are known as chirpers because of their
+“chirp” sound rather than the typical “ping” of a single frequency unit. Twelve kHz
+units are commonly used for ocean-depth echo sounders and some subbottom
+profiling, although the higher frequencies do not penetrate far into sediments. Depth
+measurements are made with units up to 36 kHz but the higher frequency units are
+used in shallow water. Higher frequencies still are used for detecting scattering from
+plankton and fish and are therefore important in studying their distribution. Table 3
+summarises the range of frequencies needed to detect different components of the
+oceanic biomass (Medwin and Clay, 1977). 
+18
+Table 3. Elements of the marine biomass, their equivalent diameters and their range of
+detection frequencies (modified from Clay and Medwin, 1977).
+Plants or animals 
+Equivalent
+diameter
+Detection
+frequency range
+Whales and sharks
+2-6 m 
+3 – 250 Hz
+Large nekton &
+largest plankton
+0.2-2 m 
+10 – 2500 Hz
+Small nekton &
+larger plankton
+2 – 20 cm 
+100 Hz – 2.5 kHz
+Megaplankton (e.g.
+krill)
+2 – 20 mm 
+1 kHz – 250 kHz
+Macroplankton 
+0.2 – 2 mm 
+10 kHz – 2500 kHz
+Microplankton 
+20 – 200 µ 
+100 kHz – 25 MHz
+Single beam echo sounders
+Transducers can produce a variety of beam patterns. The most common is a single
+beam. A single square transducer produces a main lobe of maximum intensity at right
+angles to the transducer surface (Fig. 8, Clay and Medwin, 1977). For example, in the
+transducer tested in Figure E-1, intensities propagating at 15o away from the axis of the
+main lobe are 20 dB less than the main lobe (Clay and Medwin 1977). By 60o from the
+main lobe axis, intensities are nearly 40 dB lower. This falls even further parallel to the
+transducer face. The aim of transducer design for echo sounding is to reduce the side
+lobes to a minimum because they could produce spurious echos.
+30°
+60°
+30°
+60°
+0dB
+-10dB
+-20dB
+-30dB
+-40dB
+a = Half beam width
+Transducer
+kW= 33
+23/09/351
+-3dB
+a
+Figure 8: Polar plot of the beam pattern for a 26 cm square transducer at 30 kHz (Clay
+and Medwin, 1977). The response is plotted in decibels relative to the axial
+(maximum) value. Beam width is given by the angle at which beam power is 75% of
+the axial value (-3 dB), in this case about 6o.
+19
+Transducers are described in terms of beam angle which is the angle between the
+points at which the beam is 3 dB less than maximum power. Beam width is partly a
+function of frequency with higher frequency transducers having narrow beams.
+Advertised beam widths for commercial transducers vary from as low as 1.5o to 50o
+(e.g. Grant and Schreiber, 1990). “Virtual end-fire” or “parametric” arrays make use of
+non linear propagation effects to generate very narrow beams of lower frequency
+sound by superimposing two high frequencies to generate another, lower frequency
+signal with the narrow beam width of the high frequencies (Clay and Medwin, 1977).
+The low frequency signal is generated only in the main beam, meaning that side lobes
+are quickly attenuated or virtually non-existant (Grant and Schreiber, 1990). This
+principle is used in the Atlas Parasound system to give a single, 5o beam for subbottom
+profiling.
+Echo sounder power is usually quoted in kilowatts because the actual source level will
+vary with water salinity and temperature however some manufacturers do quote
+maximum source levels for transducers. Full ocean depth sounders have maximum
+source levels from 200-230 dB re 1 µPa.m (0-p). Shallow water units and navigational
+echo sounders have lower source levels. Because of beam shaping in modern
+transducers, this level applies only to the main beam. Levels may be much lower away
+from the main beam so there is a very small horizontal radius of influence for most
+modern echo sounders. Sound pressure levels can still be estimated in the main beam
+using the spherical spreading approximation but the higher frequencies of many echo
+sounders means that the absorption term should be included. For sound levels outside
+the main beam, the initial source level will be lower depending on the side lobe pattern. 
+Area of influence
+The area influenced by an echo sounder depends on the beam width and frequency as
+well as the source level. Because absorption is a function of frequency, it becomes
+significant for higher frequency transducers. Beam focussing means that horizontal
+source levels around a vertically-directed echo sounder may be 40 dB lower than the
+main beam so the area of high sound pressures around a ship will be quite small. The
+zone of maximum intensity will be given by the beam width. A 5o beam width will
+mean that the area of +75% intensity will be a circle of radius 8.7 m in 100 m of water
+(240 m2). For beam width of 2o, this falls to a circle of 3.49 m radius (38 m2). This
+means that the zone of influence of most single beam echo sounder will be a small
+region below the ship.
+MULTI BEAM ECHO SOUNDERS AND SIDESCAN SONARS
+Single beam echo sounders map virtually a point beneath the ship as it passes. To get
+greater areal coverage, sidescan and multibeam echo sounders are used. These units
+direct sound pulses and receive echos from transducers pointing sideways from the
+ship or towed body. The pulses are transmitted at regular intervals then the echos
+recorded against time so echos from an object near the ship are displayed ahead of
+those further out. The result is an acoustic image analogous to an aerial photograph of
+the sea floor, albeit with distortions caused by changes in angle of the beam and other
+effects. These images can be used for studying seafloor geology, benthic habitats,
+finding lost ships and aircraft and foundation studies for offshore structures. 
+20
+Conventional sidescan sonars use 1 or 2 beams with reasonably large widths on either
+side of a towed body or vessel. Figure 9 shows the beam geometry for the long range
+sidescan GLORIA (Searle et al., 1990).  GLORIA is the largest of this type of unit in
+use, mapping swath widths in the order of 45 km, depending on water depth. Most
+conventional sidescans are used to map much smaller swaths, in the order of 1 km or
+less. Frequencies used in GLORIA and deepwater sidescans are in the range of 6-7
+kHz. Higher resolution units in common use employ frequencies from 36 kHz to 500
+kHz. Outputs are usually quoted in watts, like echo sounders, however some
+manufacturers quote maximum source levels of 228 dB re 1 µPa.m (0-p).  Beam
+widths fore and aft vary from maximum values of 2.7o to as low as 0.3o (Belderson et
+al., 1972 and manufacturers technical data sheets).
+2.7∞
+23/09/352
+140∞
+a
+2.7∞
+FORE
+AFT
+SINGLE
+SECTION
+FULL
+ARRAY
+0
+5 3 
+1
+2
+4
+STBD
+PORT
+35∞
+20∞
+20∞
+MAIN LOBE
+6.3kHz
+FIRST
+SIDE LOBE
+6.8kHz
+FIRST
+SIDE LOBE
+6.3kHz
+MAIN LOBE
+6.8kHz
+1.0 
+1.0
+23/09/353
+b
+Figure 9. a. Diagram of a sidescan sonar mapping survey. Sonar is in a towed body
+behind the ship. Ship moves forward and the sonar sweeps the sea floor, recording
+echos from a wide swath (Searle et al., 1990).
+b. Beam pattern of the GLORIA sidescan system. Main lobes are projected 20o from
+the horizontal. Individual seam widths are 35o normal to the ship’s track and 2.7o fore
+and aft. Side lobes are very small (Searle et al., 1990).
+Multibeam systems
+Multibeam echosounders perform a similar function to sidescan sonar except they use
+transducers that produce a fan of pre-formed beams (Grant and Schreiber, 1990,
+Pohner and Hammerstad, 1991, Hill et al., 1995). The fan can vary from 45o to up to
+150o depending on the unit (Fig. 10). The returns from these beams can be processed
+with GPS position information and ship motion compensation to give bathymetry as
+well as the backscatter information that is obtained by conventional sidescans. A single
+21
+ship’s track can map a swath between 2 and 7.4 times water depth, depending on the
+system. Beam widths fore and aft vary between 1.5o and 4.5o depending on the system.
+               Receive beam-width
+           athwartship
+      3.5∞ (inner) to
+5.0∞ (outermost beams)
+Receive beam-width
+   along ship
+F1 = 12.67 kHz
+F2 = 13 kHz
+F3 = 13.33 kHz
+Transmit beam-width
+20∞
+1.8∞
+F1
+F1
+F1
+F1
+F2
+F2
+F2
+F2
+F2
+F3
+23/0A/702
+150∞
+TOTAL OF 162 BEAMS
+    3 beams
+common 
+    5 SECTORS
+Starboard
+   5 SECTORS
+Port
+Figure 10. Beam pattern for a hull mounted multibeam echo sounder from Hill et al.
+(1995).
+Multibeam systems operate with frequencies above 12 kHz with deep water systems
+using frequencies below 20 kHz. Source levels for the largest deep water systems are
+quoted as maximums of 236-238 db re 1 µPa.m (0-p). Systems for shallower water are
+both higher frequency and lower power, down to small systems deployed on launches.
+Survey design and area of influence
+Single beam echo sounders commonly run port to port with data being logged
+continuously on most research cruises. Likewise, navigational echo sounders run
+continuously on most ships. Therefore the area affected will be a region beneath the
+vessel where ever it goes. The size of the area affected by a single beam echo sounder
+will depend on the power, frequency and beam pattern of the sounders and the duration
+of ensonification will depend on ship speed. Hull mounted echo sounders can operate
+in ice. Thus the area of impact will vary depending on the individual cruise plan and
+equipment. Because of the high frequencies used and the highly directional nature of
+most echo sounders, the area affected will be quite small.
+Multibeam surveys have a footprint up to 7.4 times water depth wide and 1.5o wide.
+Such a system mapping in 1000 m of water would ensonify a moving area 7.4 km wide
+by 50 m. Multibeam surveys typically work in parallel tracks with some overlap
+between swaths and move at speeds up to 12 knots (6 msec-1). At this speed, a point
+1000 m away from the ship would experience sound levels >50% beam strength for
+<10 seconds. The systems are designed to minimise the size of side lobes so the sound
+levels outside the swath are much lower than within. 
+22
+ACOUSTIC DOPPLER CURRENT PROFILERS
+Acoustic Doppler Current Profilers (ADCPs) provide a continuous measurement of
+water movement within a certain range of the instrument. Ocean-going ADCPs are hull
+mounted transducers that project four beams into the water column (Fig. 11). The
+instrument records backscatter from the water column and compares the Doppler shift
+between the 4 beams to resolve a water velocity profile and may also provide sediment
+concentration information. 
+Advertised ADCPs range in frequency from 38-150 kHz. Output is quoted in Watts, in
+the range of 1 kW, but the instruments aim to gather data out to a maximum of 1000 m
+so source levels will be low compared to deep water echo sounders. Beam angles are
+very narrow, quoted as less than 1o and units aim to measure scatter from cells < 25 m.
+Figure 11. Diagramatic beam arrangement of an Acoustic Doppler Current Profiler.
+Picture from RD Instruments web site, www.rdinstruments.com, reproduced with
+permission.
+Acoustic releases
+Acoustic releases are devices that attach floating instruments to a mooring. They
+communicate with a shipboard transponder via a digital signal that gives a range from
+the transponder so the vessel can locate the mooring. The sending of a digital code
+from the ship then causes the devices to release the instrument package from the
+mooring. Acoustic releases work at frequencies from 7 - 15 kHz, have source levels up
+to 192 dB re 1 (Pa.m (0-p) and are omnidirectional. They are activated by the
+shipboard unit only when it is time for the mooring to be recovered and so emit sound
+for only a few hours maximum.
+Positioning transponders and beacons
+Positioning transponders and beacons are used to locate submarine equipment or for
+dynamic positioning of vessels. They operate at frequencies from 7 to 54 kHz and have
+source levels from 180 dB re 1 (Pa.m (0-p) to 205 dB re 1 (Pa.m (0-p). They can be
+omnidirectional or have focused conical beams (60o). This sort of equipment is used
+for the duration of an activity. In the case of dynamic positioning, for the time a vessel
+is on station. The Ocean Drilling Program has used such beacons in the Antarctic but
+only for a maximum of 15 days in one location.
+23
+Passive sonars
+Passive sonars are listening devices, (hydrophones) that determine the presence,
+characteristics and direction of submarine noise sources. This sort of equipment makes
+no sound and therefore has no potential to disturb marine life.
+24
+CETACEANS
+CETACEANS IN THE ANTARCTIC
+Cetaceans are generally widespread in the Antarctic region. All species of large
+whales, except Bryde’s whale, are known to have populations that migrate from winter
+breeding grounds in the tropics to summer feeding grounds in the Antarctic
+(Kasamatsu, and Joyce, 1995, Kasamatsu et al., 2000). Migrating whales seem to
+arrive in the region in December and depart around mid to late Febraury although
+beaked whales are known to be present in October (Kasamatsu and Joyce, 1995).
+Their distribution could depend on the distribution and abundance of prey species
+(Kasamatsu et al., 2000). High productivity areas in Antarctic waters are found in areas
+of oceanic front, eddies and upwellings, the marginal sea ice zone and in coastal
+waters. Various studies have found concentrations of balleen whales in such areas
+(quoted in Kasamatsu et al., 2000).  
+Kasamatsu et al., (2000) attempted to define the spatial structure of whale populations
+in the Antarctic and found that it was possible to make a few generalisations:
+1. Krill-feeding species concentrate in the zone of maximum krill concentration. This
+tends to be the retreating ice edge in spring and early summer and about 60 nm
+seaward of the continental shelf edge later in the season for large parts of the
+margin but covers a wider belt in the South Atlantic (Fig. 18, Nicol et al. 2000).
+2. Killer whales are widespread but tend to concentrate near the ice edge.
+3. Minke whales show the highest densities near the ice edge.
+4. Sperm whales and Ziphiids (beaked whales) have low densities on the Antarctic
+continental shelf, concentrating on the continental slope, rise and in the ocean
+basins.
+5. Fin whales are most common far from the ice edge.
+These relationships probably reflect prey distribution with killer whales preying on
+minke whales, seals and penguins and so follow the ice edge whereas sperm whales
+and ziphiids prey on squid that are found in deep water. 
+There is some evidence for longitudinal peaks in whale abundance. Kasamatsu and
+Joyce, (1995) noted peaks in sperm whale abundance in areas bounded by 62o-66oS
+and 090o-120oE and south of 66o, 150o-180oE. They also comment on high encounter
+rates with beaked whales between the Southern Atlantic (90oW) and the eastern Indian
+Ocean (120oE). Ichii (1990) documents some longitudinal variation in minke whale
+catch locations around East Antarctica, more or less reflecting the distribution of krill.
+The most concentrated regions are along the shelf edge and the ice edge.
+Sensitive areas
+Whales are distributed widely in Antarctic waters so that there are some whales are
+likely to be present in most areas with little or no ice cover. The areas in which whale
+concentrations are likely to be highest are zones of high krill abundance (Fig. 18). This
+zone is also favoured by deep-diving sperm and beaked whales which are potentially
+more vulnerable to surface noise sources (Gordon et al., 1998).
+25
+CETACEANS AND SOUND
+BALEEN WHALES
+Baleen whales produce a rich and complex range of underwater sounds ranging from
+about 12 Hz to 8 kHz but with the most common frequencies below 1 kHz (McCauley
+1994). This combined with studies of their hearing apparatus suggests that their
+hearing is also best adapted for low frequency sound (McCauley, 1994, Richardson et
+al., 1995). Baleen whales make individual sounds that last for up to 16 sec.
+(Richardson et al. 1995) and can “sing” for long periods. These sounds are thought to
+be used in social interaction and communication between individuals and pods.
+Richardson et al. (1995) summarised published Baleen whale sound characteristics.
+Table 4 lists the estimated source levels, frequency ranges and dominant frequencies of
+baleen whale calls. The individual papers from which these figures are obtained are
+listed in Richardson et al (1995), Table 7.1. It can be seen that some species produce
+quite high sound levels. Likewise, McCauley et al. (1998) report Humpback and
+Southern Right whale song components reaching 192 db re 1 µPa2 (p-p) as well as
+levels of 180-190 db re 1 µPa2 (p-p) for humpback flipper slapping and breaching
+sounds.
+Species 
+Frequency (Hz) 
+Dominant frequ ency 
+Estimated Source Level
+(dB re 1 µPa.m)
+Southern right 
+30 - 2200 
+50 - 500 
+172 - 192
+Pygmy right 
+300 + 
+60 - 135 
+165 - 179
+Humpback 
+25 - 8200 
+25 - 4000 
+144 - 192
+Fin 
+10 – 28,000 
+20, 1500 - 2500 
+155 - 186
+Blue 
+12 – 31,000 
+16-25, 6000-8000 
+130 - 188
+Bryde’s 
+70 - 950 
+124 - 900 
+152-174
+Sei 
+1500 - 3500
+Minke 
+60 – 20,000 
+60 – 12,000 
+151 - 175
+Table 4. Sounds produced by baleen whales found in the Southern Ocean (Richardson
+et al., 1995, McCauley, et al., 1998). Source levels are likely back calculated from far
+field levels.
+The dominant frequencies of marine seismic surveys and lower frequency echo
+sounders coincide more or less with the range of frequencies used by baleen whales for
+communication and other purposes. The rise of whale watching and the presence of
+whale populations in areas of active oil exploration has led to studies of both their
+reaction to vessel noise and to marine seismic surveys. Controlled experiments with
+airguns have been carried out (e.g. McCauley et al., 2000a,b). Observations of whale
+reactions to echo sounders have also been reported. The following summary relies on
+more extensive ones published in Richardson et al., (1995), McCauley (1994) and
+McCauley et al., (2000a,b)  and the review of Popper et al., (2000). Most work relates
+to whale species that migrate through or use regions of active hydrocarbon exploration
+and are sufficiently numerous to be studied. There is little or no information on rare
+species even though they may visit the same regions.
+Responses to Seismic surveys
+Whale responses to seismic noise described in Richardson et al.,(1995) and McCauley
+et al (2000a) are mostly based on studies with grey, bowhead and humpback whales
+and fall into the following categories: 
+26
+• Startle response where a resting or slow moving whale commences rapid
+movement away from the source or changes surfacing-dive-respiration behaviour.
+• Avoidance where the animals change course or speed to maintain a minimum
+distance from the source. Whales tend to alter course to maintain sound levels in
+the range 140-180 dB re 1 µPa mean squared pressure (McCauley et al., 2000a,
+Table 34). 
+• Follows where a whale swims directly towards the source up to a certain stand off
+distance. McCauley et al. (2000a) observed what they presumed to be male
+humpbacks that were attracted to a single operating airgun. They suggest that the
+similarity of the sound level and frequency content of the airgun to a breaching
+event caused the whales to approach to investigate. They speculate that this
+behaviour may account for an increase in sightings of whales > 3km from a
+commercial seismic vessel with array firing compared to when the array was off.
+• Changes in calling. Some whales change their calling patterns in response to echo
+sounders however Richardson et al., (1995) cite only one study which found that
+fin and blue whales continued calling in the presence of airgun noise. Popper et al.,
+(2000) report that total humpback song levels continued unchanged through
+periods when the ATOC experiment sound source was switched on. This source
+emits pulsed sound at 190 dB re 1 µPa  (broadband) and 60-90 Hz. The received
+levels experienced by the whales is unknown. There are also instances of seismic
+survey data quality being degraded by whale calling. Hutchinson and Lee (1989)
+concluded from the whale calls recorded on a survey in the Gulf of Maine that the
+whales calls came from all directions. This suggests that the passing of the survey
+vessel did not cause the whales to become silent.
+This wide range of sound levels at which avoidance behaviours are observed reflects
+the fact that whales respond differently to sound levels depending on their activity at
+the time. Observations of humpbacks on the North-West Shelf of Australia (McCauley
+et al., 2000a,b) and studies of humpbacks, Bowhead and Grey Whales (quoted in
+Richardson et al., 1995) indicate that the whales are less responsive when migrating or
+feeding than when suckling, resting or socialising. There are also variations between
+individuals in populations. Richardson et al., (1995) quote a study which found ~10%
+of migrating grey whales showed avoidance at 163 dB re 1 µPa  and ~50% at 173 dB
+re 1 µPa. Popper et al. (2000) report a study that found grey whales were more or less
+inclined to divert around a sound source depending on its location in their migratory
+path. In areas of the North-west shelf where humpbacks were not migrating, sexually
+active males swim rapidly around the area and are less reactive to airguns unless they
+follow the vessel, sometimes circling it before swimming off, receiving a maximum
+sound level of 165 dB re 1 µPa2.s (equivalent energy, ~190 dB re 1 µPa p-p). 
+McCauley et al.(2000a) found in their study that humpback cows with young calves,
+which exhibited avoidance behavior at sound levels of 126-129 dB re 1 µPa2.s
+(equivalent to 156-159 dB re 1 µPa p-p) (McCauley et al., 2000a), were the most
+sensitive to air gun noise.
+Response to echo sounders and other transducers
+Richardson et al, (1995) review literature that indicates whales react to lower
+frequency echo sounders, sometimes showing strong avoidance behaviour. Baleen
+whales seem to react to frequencies up to 28 kHz but do not react to pingers, acoustic
+tags and echo sounders at 36 kHz and above. The review does not include information
+on transducer source levels, levels received by the animals or whether the devices used
+27
+were omnidirectional or focused. It is thus hard to assess the significance of the
+observations. The observation of normal behaviour from whales with attached acoustic
+tags suggests that these high frequency tools have no influence on them. The only case
+of whales around acoustic beacons in Antarctic waters known to the authors took place
+on ODP Leg 188 in January to March 2000. While drilling, the vessel uses a beacon to
+control its dynamic positioning system. On 2 of the 15 days on site 1165, pods of
+humpback whales swam around and under the vessel for about 1 hour. Several
+individuals indulged in “spy hoping” within 30 m of the vessel and commenced
+breaching displays before departing. 
+Possible Impacts
+Injury
+Very little is known about the sound levels at which hearing damage or physical injury
+to whales could take place (Richardson et al., 1995, Popper et al., 2000). Examination
+of whales probably killed by sound pulses have all involved animals found near sites of
+chemical explosions. McCauley et al. (2000a) suggested that whales must cope
+physiologically with the highest level sound produced by whales themselves (192 dB
+re 1 µPa p-p) while singing or breaching. Thus, for a 220 dB re 1 µPa.m (p-p) airgun, a
+whale would not receive sound levels higher than 192 dB re 1 µPa (p-p) unless it were
+closer than 25 m to the gun. For airgun arrays, the distance will vary from array to
+array depending on array design and power. McCauley et al. (2000a) found that the
+industry array (2678 cu in., ~240 dB re 1 µPa, p-p) they studied produced sound levels
+of 192 dB re 1 µPa, p-p out to 1.4 km abeam. For focussed echo sounders, such sound
+levels will be found in the narrow main lobe immediately below the transducer. 
+The most likely scenario for injury of an animal by acoustic equipment would be if the
+equipment were turned on full power while the animal was close to it. In many
+jurisdictions, seismic surveys are required to “soft start” or “ramp start” by gradually
+increasing gun numbers and pressures over a period so that animals have time to swim
+away before sound reaches dangerous levels. Popper et al. (2000) describe this as a
+“common sense” measure but note the lack of any actual studies to verify that it works.
+Gordon et al. (1998) point out that the “soft start” assumes animals will respond
+appropriately by swimming away from the sound source.
+ 
+Disturbance
+The effects of disturbance on whale activities is still uncertain. However, Popper et al.
+(2000) concluded that the studies on the effect of the ATOC experiment which uses a
+high intensity, low frequency sound source found “no evidence of short term
+catastrophic effects in the area such as strandings or mass desertion”. Concerns relate
+to persistent displacement of animals from important, localised habitats and masking of
+acoustic cues interfering with socialisation and breeding. Persistent displacement of
+cows and young calves could make the calves vulnerable to exhaustion and predation
+(McCauley et al., 2000a,b). Major displacement of prey species could also pose a
+threat (see below). 
+For humpback whale populations in Australian waters, McCauley (1994) made the
+point that the population on the west side of the continent that had been exposed to
+intense industry seismic activity for several decades had  the same annual rate of
+28
+growth as that on the eastern side. The eastern population is not exposed to seismic
+surveys, suggesting that seismic activity poses little threat to humpback whales. This is
+not to say that an increase in the number of surveys and a change in survey design in
+certain key areas might not pose a problem in the future.
+Even though little is known about the many whale species that frequent Antarctic
+waters during the austral summer, feeding on zooplankton is likely to be a major
+activity except for Sperm, beaked and killer whales. Stewardson and Child (1997) lists
+most baleen whales as breeding in temperate waters to the north of Antarctica.
+Therefore the amount of time and area of a survey in the zone of maximum krill
+concentrations will likely be important in assessing its impact. Thus, the impact of a
+survey will depend on how much of this area is affected and how much time in the
+spring to summer season is affected. Experience with humpback whales suggests that
+feeding is one activity where the whales are relatively insensitive to acoustic
+disturbance (McCauley pers. comm. 2001). Likewise, calves are presumably older and
+stronger by the time pods reach Antarctic waters, making short term displacement less
+of a problem compared to the whale breading areas in the north. These things suggest
+that humpback whales are possibly less sensitive to disturbance in the Antarctic than in
+their wintering areas.
+McCauley and Duncan (2001) discuss the risks posed to blue whales by petroleum
+exploration seismic surveys off southeastern Australia and summarised their
+conclusion in a table (Table 5).
+Event 
+Blue whale
+(from McCauley and Duncan 2001)
+Behavioural
+effects direct
+Subtle changes to tens km, local avoidance from 3 to 20
+km depending on animals sensitivity and behavioural state
+at time of exposure 
+Pathological
+effects
+Possible but unlikely, very low risk and animals need to be
+at less than 1 km to be at any risk
+Geographical
+Scale
+Relatively small at scale of individual signal but larger
+when considered through time.  Single air-gun vessel can
+work any one region so easily by-passed 
+Timing/duration
+of action
+Depend on the activity
+Cumulative effect
+of action
+unknown
+Table 5. Risk assessment for blue whales and seismic surveys on the southern
+Australian continental margin (McCauley and Duncan, 2001).
+29
+TOOTHED WHALES
+Toothed whale sounds
+Toothed whales produce a wide range of whistles, clicks, pulsed sounds and
+echolocation clicks. Table 6 summarises the frequency and source levels for Southern
+Ocean species reported in Richardson et al., (1995). The frequency range of toothed
+whale sounds excluding echo location clicks are mostly <20 kHz with most of the
+energy typically around 10 kHz, although some calls may be as low as 100-900 Hz.
+Source levels range from 100-180 dB re 1 µPa, (Richardson et al., 1995). The sounds
+produced other than echo location clicks are very complex in many species and appear
+to be used for communication between members of a pod in socialising and
+coordinating feeding activities.
+Species
+Call frequency
+(kHz)
+Dominant
+frequency
+(kHz)
+Source level
+(dB re 1
+µPa.m)
+Echo location
+frequency
+(kHz)
+Eco location
+source level
+(dB re 1
+µPa.m)
+Sperm
+0.1 - 30
+2-4, 10-16
+160-180
+Pygmy sperm
+60-200
+120
+Killer
+0.5-25
+1-12
+160
+12 - 25
+180
+False killer
+4-9.5
+25-30, 95-130
+220-228
+Long-finned
+pilot
+1-18
+1.6-6.7
+6-11?
+Short finned
+pilot
+0.5-20
+2-14
+180
+30-60
+180
+Common
+dolphin
+2-18
+23-67
+Bottlenose
+dolphin
+0.8 - 24
+3.5-14.5
+125-173
+110-130
+218-228
+Table 6. Sounds used by toothed whales found in the Southern Ocean (Richardson et
+al., 1995). Long-finned pilot whales produce clicks like echo location clicks of other
+species.
+Echo location has been demonstrated in a number of toothed whales. The animals
+project pulsed sound of high intensity and frequency ahead of them. Pulse timing and
+intensity are adjusted by the animal to optimise performance in the prevailing
+conditions. Pulse lengths are short, typically 50-200 µsec. and spaced depending on the
+range to the target. Frequencies are typically high. Some species may use pulses as low
+as 2 kHz but most use pulses in the range 20-130 kHz. The sound is produced in a
+directional beam with the angle between maximum intensity and levels 3 dB lower
+being in between 6o and 12o (Richardson et al., 1995). Source levels are very high in
+some species reaching up to 220-230 dB re 1 µPa.m (p-p), although being of short
+duration, their energy content is low compared to many anthropogenic sounds.
+Richardson et al., (1995) note studies which found instances where odontocetes seem
+to avoid direct echo location pulses from neighbouring animals of the same species.
+Response to seismic surveys
+Although most of the energy in airguns is in frequency ranges below the optimum
+hearing of toothed whales, airguns still produce sufficient high frequency noise to be
+heard by them. Richardson et al. (1995) comment on the paucity of systematic data on
+the reactions of toothed whales to seismic surveys even though anecdotes of dolphins
+30
+near operating airguns are common in the seismic industry. Sperm whales seem to
+react by moving away from surveys and ceasing to call even at great distances from a
+survey (Richardson et al., 1995). The Northern Gulf of Mexico has been one of the
+most intensely surveyed areas on earth for about 40 years. The fact that there are still
+studies of sperm whales’ response to seismic surveys in the northern Gulf of Mexico
+taking place suggests that seismic surveys do not produce permanent displacement of
+sperm whales from an area or that it requires a level of activity unlikely ever to be
+reached in Antarctic waters. 
+Response to echo sounders and other transducers
+Richardson et al. (1995) found more observations of reactions to echo sounders and
+other transducers that produce sound in the animals’ optimum hearing range. Sperm
+whales stop calling when exposed to sounds in the 6-13 kHz range at quite low
+intensities in some instances but the reaction varies with different studies. Continuous
+pulsing from an echo sounder seemed to produce less reaction compared to short
+sequences of sound pulses followed by longer pauses. Reaction thresholds in dolphins,
+porpoises and Delphinids can be as low as 110-130 dB re 1 µPa.m but  responses
+diminish with time even for levels as high as 170 dB re 1 µPa.m (Richardson et al,
+1995). This variation may be caused by habituation or changes in whales’ behaviour
+state, as seems to occur with baleen whales. The authors have observed Antarctic killer
+whales approach and swim alongside vessels operating echo sounders at 12, 18, 38,
+120 and 200 kHz. Field observations and anecdotes lack information about echo
+sounder source levels and beam patterns, making conclusions very difficult.
+An area that is being investigated is the possible affect of military sonars. Popper et al.
+(2000) quote source levels of +230 dB re 1 µPa.m and frequencies of 2 – 5kHz and
+refer to a US Navy system that broadcasts at 100-500 Hz and a NATO system that
+broadcasts simultaneous signals at 450-700 Hz and 2.8-3.3 kHz at just below 230 dB re
+1 µPa (figure not fully quoted, presumed 0-p). The NATO system emits the sound for
+4 seconds, a very long time compared to most scientific echo sounders. Siwecki and
+Neal. (1993) describe a towed 600-750 Hz system with an adjustable “spotlight” beam
+size.
+There has been great concern caused by recent cases of stranding of beaked whales in
+the Bahamas and Mediterranean Sea (Balcomb and Claridge, 2001). Although military
+sonars are not known to be in use in Antarctic waters, what is known of these systems
+and their use and the stranding events may provide some indication of potential risks in
+the use of scientific equipment. The Bahamas stranding event is reviewed in Balcomb
+and Claridge (2001). Providence Channel is a narrow seaway between 35 and 80 km
+wide and  >3000 m deep at its oceanward end, shallowing westwards to <1000 m and
+surrounded by the Bahama Banks and islands. The incidents involving naval echo
+sounders suggest that equipment with potential for injury would be powerful, mid
+frequency echo sounders and airguns.  The naval echo sounders involved in the
+Bahamas strandings had similar source levels and frequency to some scientific echo
+sounders. The main differences were number of vessels, vessel speed and the beam
+pattern. The naval exercise had the effect of ensonifying a large area to high levels
+whereas scientific single beam echo sounders ensonify a circular region vertically
+below the vessel and  multibeam units sweep a narrow fan below the vessel.
+The vessels transited for the deep ocean end in the east through to the shallow western
+end (Balcomb and Claridge, 2001, Anonymous, 2001).The NOAA-US Navy review
+31
+reports that the region featured surface conditions that produced a surface duct 120 to
+150 m thick that gave enhanced sound propagation. Subsequent investigations by
+NOAA and the US Navy concluded that the whales were injured by active sonars
+(Anoymous, 2001). Two types of echo sounders were involved, one with centre
+frequencies from 2.6-3.3 kHz and source levels of 235 dB re 1 µPa-m or higher and the
+other operated at 6.8, 7.5 and 8.2 kHz and source levels of 223 dB re 1 µPa-m. The
+echo sounders have beam widths of 30o to 40o and are oriented horizontally. Multiple
+echo sounders (3 or more) were operating with pings staggered so there would be the
+only a few seconds between pings. Sound pressure levels are unknown in this incident
+apart from being higher than 160 dB re 1 µPa. over much of the Providence Channel.
+Subsequent investigations by NOAA and the US Navy concluded that the strandings
+likely were a consequence of the sonar exercises, but that the animals would have
+survived had they not beached themselves.
+Possible impacts
+Injury
+Again very little is known about the sound levels at which hearing damage or physical
+injury to toothed whales could take place (Richardson et al., 1995, Popper et al., 2000).
+The wide variety of sizes, body shapes and presumably hearing apparatus in toothed
+whales suggest that it will vary considerably with species. The levels of sound
+produced by toothed whales (Richardson et al., 1995, tables 7.2 and 7.3) reach maxima
+of 180 dB re 1 µPa.m for general sounds and 228 dB re 1 µPa.m (p-p) for echo location
+clicks. Echo location clicks should not be taken as a maximum allowable peak to peak
+level because of their short duration compared to man-made sounds.  Gordon et al.,
+(1998) review studies that have observed temporary decreased sensitivity in dolphins
+exposed to sound pressure levels of 192-201 dB re 1 µPa. at 0.4, 3, 10, 20 and 75 kHz.
+Experience with human hearing suggests that similar but prolonged exposure would
+produce permanent hearing impairment.
+Balcomb and Claridge (2001) report evidence of internal bleeding in chambers in the
+skulls of some of the beaked whales stranded in the Bahamas. They suggest that such
+damage may be caused by resonance in the chambers. However, the tissue damage
+found in the whales that died and were necropsied could have been a consequence of
+disease as well as exposure to the sonar or other sounds (D. Ketten, pers.comm. 2002).
+Gordon et al., (1998) raise concerns over the potential vulnerability of deep-diving
+animals such as beaked and sperm whales. They point out that deep-diving animals are
+committed to a tight energy budget and specialised physiological adaptations, limiting
+their avoidance options and making it harder for them to move laterally to avoid an
+approaching source. 
+Disturbance
+The potential for disturbance of toothed whales also is poorly understood. It seems to
+vary with species, their behaviour state and degree of habituation (Richardson et al.
+1995). Sperm whales seem to cease calling or move away from noise sources at quite
+large distances in some instances. Other studies found that they seem to adapt to echo
+sounders. The AOTC experiment near Heard Island found that Sperm whales ceased
+calling during transmission and there was some inconclusive evidence for avoidance of
+the area around the source. Hourglass dolphins did not avoid the area (Bowles et al,
+1994, quoted in Richardson et al., 1995). 
+32
+Risk assessment
+Cetaceans may be displaced by powerful, low frequency sound sources and there is
+now a documented case of injury to whales from multiple, mid frequency military echo
+sounders. At the same time, some whale populations co-exist with commercial seismic
+exploration surveys, maintaining population growth while experiencing some
+displacement. Clapham et al. (1999) regard ship strikes and fishing gear entanglement
+as posing a higher risk to cetaceans. 
+The equipment with the highest risk potential are airgun arrays and low frequency,
+high power transducers with wide beam angles. The working group felt that the risk
+was not so high as to justify a ban on such equipment in Antarctic waters,
+however, mitigation strategies should be used to reduce the risk to cetaceans in
+the Antarctic. Also, though the Providence Channel strandings are still being
+investigated, they seem to point to a set of circumstances that should be avoided. The
+mitigation strategies in use elsewhere are:
+1. Use of the minimum source level to achieve the result.
+2. Use of  “soft starts” whereby power is increased gradually.
+3. Care should be taken with line lay outs to avoid blocking animals’ ability to a avoid
+the source.
+4. Equipment should be shut down if cetaceans are observed within a distance of the
+vessel defined by the source power, directionality and propagation characteristics. 
+Further research is need to assess whether these measures work and to better monitor
+the proximity of whales to a vessel (Gordon et al., 1998).
+33
+PENGUINS
+There is very little known about the risks to penguins from underwater sound. The
+submission comprises:
+• A summary of the information available on the hearing abilities of penguins, and their
+sensitivity to pressure in air and water,
+• Regional maps of penguin colonies around the Antarctic continent, the Antarctic
+Peninsula, the South Shetland Islands, the South Orkney Islands, but excluding the
+South Sandwich Islands, South Georgia, the Falkland Islands and South American
+breeding localities,
+• A brief summary of the breeding timetables of the penguins that breed in the
+nominated areas.
+The maps, census data tabulation and breeding timetables will permit an assessment of
+where and when, and in what numbers, breeding penguins are present in colonies south
+of 60°S each year.
+Hearing abilities of penguins
+Hearing in birds is a complex ongoing topic (see e.g. Dooling 1992, Necker 2000) with
+most recent work in this area being conducted on pigeons. Despite the obvious
+complexities in penguin ears that must function at least in air and possibly also under
+high pressure in water, relatively little has been done on penguin ear morphology
+(Anisimov 1977, Ilichev 1977) and the capacities of penguins to perceive sound.
+Penguin hearing capacities can be partially alluded to by consideration of bird
+behaviour. For example, many penguin displays are based on voice recognition (three
+types recognised according to Jouventin (1982): contact, agonistic and sexual). On land
+it is known that penguins use sounds extensively for intraspecific communication
+including mate and chick recognition (Jouventin 1972, Jouventin et al. 1979, Aoyanagi
+1981, see Williams 1995 for review). The sound range used for this varies between
+about 0.3 and 3 kHz (Williams 1995). These contact calls may be heard up to 1km
+from the originating bird(s).
+However, only contact and agonistic vocalisations are likely to occur at sea, the
+agonistic cases being unlikely to be used extensively. Contact calls may be used
+extensively in some species although these have been primarily recorded for birds at
+the surface (e.g. Broni 1985). There is, however, some limited evidence that some
+species of penguins may vocalize underwater (Markov 1974, 1977). If underwater
+vocalisation involves beak opening, recent data collected using beak angle sensors in
+free-living Magellanic Penguins Spheniscus magellanicus indicate that this species, at
+least, does not communicate underwater (Wilson et al. in press, unpublished data).
+Clearly more work is needed in this area to determine whether Antarctic penguins may
+communicate with each other while underwater. Studies also are needed to determine if
+any of the prey species produce sounds that can be detected and used by penguins to
+locate prey such as krill swarms by other than random searching.
+34
+The in-air hearing abilities of penguins have been examined and reviewed by Jouventin
+(1982), and are summarised here:
+Species
+Frequency range
+(Hz)
+Maximum intensity
+freq (Hz)
+Auditory range
+(Hz)
+Emperor Penguin
+500 – 6000
+2000
+30 – 12,500
+Adélie Penguin
+800 – 5000
+2000 - 5200
+No data
+Chinstrap Penguin
+500 – 4000
+2000
+No data
+Gentoo Penguin
+400 – 4000
+2000 - 3000
+No data
+Macaroni Penguin
+1000 – 8000
+1000 - 3800
+No data
+Rockhopper Penguin
+1000 – 8000
+800 - 3000
+No data
+The auditory range for Emperor Penguins is the only species that has been
+investigated, and clearly exceeds the frequency range of recorded calls.
+Sensitivity to noise levels by penguins
+Only one study has quantified the noise from aircraft operations within a breeding
+colony of Emperor Penguins (Giese & Riddle 1999). Noise levels were measured using
+a Cesva SC-2 sound level meter mounted on a tripod approximately 50m to the side of
+the aircraft flight line. The meter calculated a frequency weighting incorporating signal
+frequency and amplitude [dB(A)]. Significant changes in the behaviours of the penguin
+chicks in response to the overflights were reported (Giese & Riddle 1999). There are
+no other empirical data available, and there are no empirical data on the sensitivity of
+penguins to pressure in air or water.
+30
+40
+50
+60
+70
+morning flight
+dB (A)
+Phases of an over-flight
+Before
+During
+After
+afternoon                               
+flight
+Figure 12. Results from a study of the impacts of helicopter overflights on Emperor Penguin chicks that
+recorded noise levels [db(A)] from helicopter overflights with 10kn katabatic wind (morning data) and
+in the absence of wind (afternoon flight). The helicopter was a Sikorsky S76, twin engine aircraft that
+flew at 1000m altitude at 60kn air speed. The heavy lines are running means (3 * 5–sec intervals). From
+Giese & Riddle (1999), used with permission of the authors.
+35
+Potential impact of marine acoustic surveys on penguins.
+This review does not cover direct tissue damage resulting from high intensity sounds
+produced by underwater blasting (see e.g. Cooper 1982, Brown and Adams 1983) since
+such damage is expected to be similar for most species. Instead, it briefly assesses the
+extent to which penguins use sound, considers their sensitivity to it and the extent to
+which they are likely to be affected by marine acoustic surveys.
+It is to be expected that species using underwater sonar would be particularly sensitive
+to sounds produced during marine acoustic surveys. Following work using Humboldt
+Penguins Spheniscus humboldti in a purported light-tight tank, Poulter (1969)
+suggested that these birds use sonar to detect their prey underwater. This work was
+followed by examination of cochlear potentials in the conspecific African Penguins
+Spheniscus demersus where no evidence of enhanced acoustic capabilities (either in
+terms of intensity or frequency) was found that might suggest that these birds could use
+sonar. Indeed, compared to other birds (Necker 2000), African Penguins were
+considered to be relatively insensitive to sounds both in terms of frequency and
+intensity (Wever et al. 1969). Excellent vision (e.g. Sivak et al. 1987) and perhaps an
+ability to determine prey whereabouts by smell (see Nevitt et al. 1995, Wilson in press)
+may explain Poulter’s (1969) findings rather than the use of sonar. Despite the
+apparent insensitivity of penguins to sound (Wever et al. 1969), these birds are known
+to respond to underwater vocalisations of predators (Frost et al. 1975) and, as such
+cannot be disregarded in marine acoustic studies.
+Maps of penguin colonies
+Figures 13-18 show the distribution of Emperor, Adélie, Chinstrap, Gentoo, Macaroni
+and Rockhopper Penguin colonies around the Antarctic continent, the Antarctic
+Peninsula, the South Shetland Islands, the South Orkney Islands, but excluding the
+South Sandwich Islands, South Georgia, the Falkland Islands and South American
+breeding localities. The species’ breeding populations south of 60°S have been
+mapped; their breeding localities north of 60°S have not. Full details of breeding
+populations are presented in Woehler (1993) and Woehler and Croxall (1997).
+A 300nm buffer has been drawn around each colony to indicate the estimated maximal
+foraging range of breeding penguins from each colony. It should be noted that this
+300nm buffer is a conservative estimate – there are insufficient data on foraging ranges
+based on satellite tracking studies to describe accurately the at-sea ranges of breeding
+individuals of the species reported here. Further, their non-breeding ranges at sea are
+largely unknown and will extend substantially further north than the 300nm buzzer
+zone mapped.
+There is one map of the entire Antarctic continent (Fig. 13), then a series of four
+overlapping maps to provide detailed regional information. An approximate indication
+of the size of the breeding population at each colony is provided by the size of the
+symbols. The maps are supplemented by a tabulation of breeding population data
+extracted from Woehler (1993) and Woehler and Croxall (1997). It is clear that
+virtually the entire Antarctic continental margin is within foraging range of penguins.
+However, the maps do serve to indicate which areas have the likely highest density of
+birds. For example, the number and size of colonies in the northern Antarctic Peninsula
+36
+or western Ross Sea make it more likely that penguins will be encountered in those
+regions than in the Bellinghausen Sea.
+37
+#
+##
+#
+#
+###
+###
+#
+#
+#
+##
+#
+#
+###
+##
+##
+######
+#
+#
+##
+##
+############
+###
+#
+#
+##
+#
+#
+##
+## #
+##
+###
+##
+#
+#
+#######
+#
+##
+###
+##
+########
+####################
+#########
+#########
+########
+##
+#######
+###
+###
+#####
+#####
+#################
+########
+###
+###########
+##
+##############
+#
+#
+#
+#
+##
+#
+#
+#
+###
+#
+##
+#
+#
+#
+###
+##
+#
+#
+##
+##
+#
+##
+###
+#
+#
+#
+###
+###
+##
+##
+#
+##
+########
+#
+##
+###
+##
+#
+#
+####
+##
+#
+####
+##
+##
+###
+#
+#
+####
+#
+########
+##
+#####
+##
+###
+##
+####
+#
+#
+######
+######
+#####
+###
+#
+##
+###
+###
+####
+#
+#######
+##
+####
+##
+####
+#########
+#######
+#######
+##
+# ##
+#####
+####
+##
+###
+##
+#
+##
+###
+##
+#
+##
+##
+# ##
+##
+#
+####
+########
+#####
+##
+###
+##
+###
+#
+#
+#
+#
+###
+####
+####
+##
+##
+####
+###
+####
+#
+####
+#
+##
+##
+###
+###########
+#
+#####
+##
+#####
+######
+#
+#
+#####
+##
+###
+######
+#
+###
+##
+##
+###
+########
+####
+###
+#
+##
+#
+###
+##
+#
+#
+######
+###
+###
+##
+##
+###
+##
+##
+######
+##############
+##
+######
+####
+#
+#
+###
+##
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+##
+##
+####
+####
+#
+#
+###
+#
+#
+#
+##
+#
+#
+#
+###
+#
+#
+#
+#
+##
+###
+####
+#
+##
+#
+#
+####
+#
+##
+##
+##
+###
+###
+######
+###
+###
+##
+###
+##
+####
+###
+####
+#######
+#
+##
+##
+##
+######
+#
+##
+###
+##
+#
+#
+#####
+##
+##
+###
+#
+##
+###########
+#########
+#
+#######
+###
+###
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+###
+#
+#
+#
+#
+#
+90°E
+90°W
+180°
+0°
+60°S
+Projection: Polar Stereographic
+True Scale at 71°S
+Penguin Colonies
+Produced by the Australian 
+Antarctic Data Centre,
+August 2001.
+#
+Adélie
+#
+Chinstrap
+#
+Emperor
+#
+Gentoo
+#
+Macaroni
+#
+Rockhopper
+300 Nautical Mile Buffer
+# <1000
+# 1,000 - 10,000
+# 10,000 - 100,000
+# >100,000
+Number of breeding pairs
+0
+500
+1000
+1500 Kilometres
+Figure 13. Distribution and size of penguin colonies around Antarctica.
+38
+#
+###
+#
+##
+#
+#
+#
+###
+##
+#
+#
+##
+#
+#
+#
+##
+#
+#
+#
+#
+#
+#
+###
+#
+##
+##
+##
+#
+##
+########
+#
+##
+###
+##
+#
+#
+####
+##
+#
+#
+# #
+#
+#
+#
+# #
+#
+##
+#
+#
+## ##
+#
+###
+#####
+##
+#####
+##
+###
+##
+####
+#
+#
+#####
+#
+######
+#
+####
+####
+##
+###
+###
+####
+#
+#######
+##
+###
+#
+##
+####
+#########
+##
+#####
+#
+##
+####
+##
+#
+#
+#
+#####
+####
+#
+#
+##
+#
+#
+#
+#
+# #
+###
+##
+#
+# #
+##
+#
+#
+#
+##
+###
+#
+#
+##
+#
+#####
+#####
+##
+###
+##
+###
+#
+#
+#
+#
+###
+####
+# ###
+##
+##
+####
+###
+#
+####
+##
+##
+#
+##
+##
+###
+#########
+##
+#
+#####
+##
+#####
+######
+#
+#
+####
+#
+##
+###
+######
+####
+# #
+##
+###
+########
+####
+###
+#
+#
+#
+#
+###
+#
+#
+#
+#
+######
+###
+###
+##
+##
+###
+##
+#
+######
+#
+##############
+##
+##
+####
+####
+#
+#
+###
+##
+#
+#
+#
+#
+#
+##
+##
+###
+###
+#
+####
+#
+###
+###
+##
+###
+##
+#
+###
+###
+####
+#######
+#
+##
+##
+##
+# # ####
+#
+##
+###
+##
+#
+#
+#
+###
+#
+#
+#
+##
+#
+##
+#
+#
+#
+#
+####
+#
+####
+#
+#########
+#
+##
+#
+####
+#
+##
+###
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+## #
+#
+#
+#
+#
+#
+90°W
+0°
+60°S
+Projection: Polar Stereographic
+True Scale at 71°S
+Penguin Colonies
+Produced by the Australian 
+Antarctic Data Centre,
+August 2001.
+0
+500
+1000 Kilometres
+#
+Adélie
+#
+Chinstrap
+#
+Emperor
+#
+Gentoo
+#
+Macaroni
+#
+Rockhopper
+300 Nautical Mile Buffer
+# <1000
+# 1,000 - 10,000
+# 10,000 - 100,000
+# >100,000
+Number of breeding pairs
+Figure 14. Distribution of penguin colonies, Bellinghausen Sea, Antarctic Peninsula
+and the Weddell Sea. 300 nautical mile foraging range shown.
+39
+##
+#
+#
+###
+###
+#
+#
+#
+##
+#
+#
+###
+##
+##
+### ###
+#
+#
+#
+#
+#
+#
+#
+#
+#
+##
+##
+####
+####
+#
+#
+###
+#
+#
+#
+90°E
+0°
+60°S
+Projection: Polar Stereographic
+True Scale at 71°S
+Penguin Colonies
+Produced by the Australian 
+Antarctic Data Centre,
+August 2001.
+0
+500
+1000 Kilometres
+#
+Adélie
+#
+Chinstrap
+#
+Emperor
+#
+Gentoo
+#
+Macaroni
+#
+Rockhopper
+300 Nautical Mile Buffer
+# <1000
+# 1,000 - 10,000
+# 10,000 - 100,000
+# >100,000
+Number of breeding pairs
+Figure 15. Distribution of penguin colonies, Longitude 000o to 090oE. 300 nautical
+mile foraging range shown.
+40
+#
+#
+##
+##
+##
+##########
+##
+#
+#
+#
+##
+#
+#
+##
+##
+#
+##
+###
+##
+#
+#
+#
+##
+####
+#
+##
+###
+##
+########
+######
+####
+#####
+#####
+####
+#####
+######
+###
+########
+##
+#######
+###
+##
+#
+#####
+#####
+#################
+########
+###
+#
+##########
+##
+##############
+#
+##
+#
+#
+#
+###
+#
+#
+#
+#
+##
+###
+####
+#
+##
+#
+#
+####
+#
+90°E
+180°
+60°S
+Projection: Polar Stereographic
+True Scale at 71°S
+Penguin Colonies
+Produced by the Australian 
+Antarctic Data Centre,
+August 2001.
+0
+500
+1000 Kilometres
+#
+Adélie
+#
+Chinstrap
+#
+Emperor
+#
+Gentoo
+#
+Macaroni
+#
+Rockhopper
+300 Nautical Mile Buffer
+# <1000
+# 1,000 - 10,000
+# 10,000 - 100,000
+# >100,000
+Number of breeding pairs
+Figure 16. Distribution of penguin colonies, Longitude 090o to 180oE. (Shackleton Ice
+Shelf to western Ross Sea). 300 nautical mile foraging range shown.
+41
+#
+#
+#
+#
+##
+#
+#
+#
+######
+##
+90°W
+180°
+60°S
+Projection: Polar Stereographic
+True Scale at 71°S
+Penguin Colonies
+Produced by the Australian 
+Antarctic Data Centre,
+August 2001.
+0
+500
+1000 Kilometres
+#
+Adélie
+#
+Chinstrap
+#
+Emperor
+#
+Gentoo
+#
+Macaroni
+#
+Rockhopper
+300 Nautical Mile Buffer
+# <1000
+# 1,000 - 10,000
+# 10,000 - 100,000
+# >100,000
+Number of breeding pairs
+Figure 17. Distribution of penguin colonies, Longitude 180o to 090oW. Ross Sea to
+Amundsen Sea. 300 nautical mile foraging range shown.
+42
+Approximate arrival and departure times for breeding penguins at their colonies. These
+dates are generalisations only – for most species there are latitudinal gradients, with
+breeding birds generally arriving later at colonies further south than at more northerly
+colonies, and departing earlier at southerly colonies than at northerly colonies. Also,
+environmental conditions can introduce substantial inter-seasonal variability.
+Table 7. Breeding timetables for Antarctic penguins. 
+Species 
+Arrival at colony 
+Departure from colony
+Emperor Penguin 
+March 
+December
+Adélie Penguin 
+October 
+March
+Chinstrap Penguin 
+October 
+April
+Gentoo Penguin 
+August 
+May
+Macaroni Penguin 
+October 
+March
+Rockhopper Penguin 
+August 
+March
+Non-breeding penguins are not constrained to remain in proximity to colonies, and
+generally could be expected to be more widely distributed at sea. All penguins,
+breeding and non-breeding, are required to moult annually; this typically occurs at the
+end of the breeding season and may not occur at colonies.
+Risk assessment
+Overall, it would seem that although penguins are not as liable to be impacted by
+marine acoustic surveys disturbance as much as cetaceans, these birds do use acoustics
+underwater and as such may disturbed by such surveys. There is a clear need for
+further research in this area but, for the present, penguins be ranked on a susceptibility
+scale comparable to humans.
+Breeding timetables
+43
+SEALS
+Seals are a conspicuous part of the Antarctic and Sub-Antarctic environments. Seven
+species inhabit the Antarctic and Sub-Antarctic. Many aspects of their biology are
+fairly well established however there are still much to be learned about their foraging,
+migration and other aspects of their behaviour. The reaction of Antarctic seals to
+underwater anthropogenic noise is still to receive much attention anywhere in the
+world. 
+In considering the risk posed to seals by acoustic technology, their distribution and
+sensitive periods in their breeding cycle should be considered. We regard the pupping
+season as a critical period because displacement of females may interfere with mother-
+pup bonding. Other critical periods in the year are harder to identify. Anthropogenic
+sound could interfere with foraging by mothers with pups and affect the quantity and
+quality of milk available to and the survival of the pups.  Similarly interference with
+feeding during the post-pupping and implantation period could cause decreased
+survival and productivity of adults. Another period may be the period when weaners
+leave breeding beaches and first go foraging. 
+Distribution
+Weddell seal, Leptonychotes weddellii
+Circumpolar in fast ice around the coast of Antarctica, ranging as far south as the bay
+of Whales and the Filchner Ice Shelf at  78OS; a disjunct resident population at South
+Georgia. 
+Leopard seal, Hydrurga leptonyx
+Pack-ice zone around the Southern Ocean, south to the shores of Antarctica including
+the Ross and Filchner ice shelves at 78OS; year round populations at Palmer Peninsula,
+South Shetland Islands, South Orkney Islands, South Sandwich Islands, South Georgia,
+Bouvetoy, Heard Island and Macquarie Island.  
+ 
+Crabeater seal, Lobodon carcinophaga
+Circumpolar throughout the pack-ice zone of the Southern Ocean, south to the shores
+of Antarctica, including the Ross and Filchner ice shelves at 78OS.  
+Ross seal, Ommataphoca rossii
+Circumpolar in pack-ice zone of the Antarctic Ocean, south to Ross and Filchner ice
+shelves at 78OS during the austral spring and summer while breeding and moulting.
+Moving north to the open water north of the pack ice in the austral autumn and winter.  
+Southern elephant seal, Mirounga leonina
+Circumpolar in Southern Hemisphere, mainly in the sub-ataractic zone.  Rookeries and
+hauling grounds mostly on oceanic islands in three sectors of the Southern Ocean:
+South Atlantic sector, Indian Ocean sector and western South Pacific sector.  In South
+Atlantic sector there are or were rookeries on Peninsula Valdez in Argentina, the
+Falkland Islands, South Georgia, the South Sandwich Islands, the South Orkney
+Islands, the South Shetland Islands, Tristan da Cunha, Gough Island and Bouvetoy,
+Peterson Island on the coast of Antarctica.  In the Indian Ocean sector, rookeries are
+located on Prince Edward Island, Marion Island, Iles Crozet, Iles Kerguelen, Heard
+44
+Island and McDonald Island.  In the western South Pacific sector rookery sites are on
+Macquarie Island, Campbell island and Antipodes Island.
+Antarctic fur seal, Arctocephalus gazella
+Primarily Antarctic Zone of South Atlantic, Indian, and western South Pacific sectors
+of Southern Ocean.  Rookeries, historical or present, on islands mainly south of the
+Antarctic Convergence: South Georgia, South Sandwich islands, South Orkney
+Islands, South Shetland Islands, Bouvetoy, Marion Island, Iles Crozet, Iles Kerguelen,
+Heard Island, McDonald Island, and Macquarie Island.  
+Subantarctic fur seal, Arctocephalus tropicalis
+Primarily Subantarctic Zone of South Atlantic, Indian and western South Pacific
+sectors of Southern Ocean.  Rookeries, historical or present on islands mainly north of
+the Antarctic Convergence: Tristan da Cunha, Gough Island, Prince Edward Island,
+Marion Island, Iles Crozet, Heard Island, Ile Amsterdam, Ile St. Paul and Macquarie
+Island.
+Breeding timetables
+Weddell seal, Leptonychotes weddellii
+Pupping is from September to early November with later dates at more southerly
+locations.
+Leopard seal, Hydrurga leptonyx
+Pupping is from late October to mid November (Laws 1984; Siniff and Stone 1985).
+Crabeater seal, Lobodon carcinophaga
+Pupping is from October and early November (Laws 1979b; Bengtson and Siniff 1981)
+Ross seal, Ommataphoca rossii
+Pupping is from November based on few observations mostly in the South Pacific
+Ocean (Tikhomirov 1975).
+Southern elephant seal, Mirounga leonina
+Pupping is from September to October (Laws 1979a; Carrick et al. 1962)
+Antarctic fur seal, Arctocephalus gazella
+Pupping is from November-December.  At Heard Island 90% of pups born over a 26
+day period with 11 December the median date of birth (Shaughnessy and Goldsworthy
+1990).  At Macquarie Island the median date of birth of a mixed colony of A. gazella
+and A. tropicalis was 10 December (Shaughnessy et al. 1988)
+Subantarctic fur seal, Arctocephalus tropicalis
+Pupping is from November to January. At Macquarie Island the median date of birth of
+a mixed colony of A. gazella and A. tropicalis was 10 December (Shaughnessy et al.
+1988)
+Seals and Sound
+There has been no measurement of the hearing of Antarctic seals and a small amount
+on captive seals from the northern hemisphere (Richardson et al., 1995, Thompson et
+al., 1998). 
+45
+The phocid or true seals are divided into two subfamilies, the phocinae (the northern
+phocids) and the monachinae (the monk, elephant and Antarctic phocids).  The
+phocinae phocid seals tested (harbour, ringed, harp and gray seals) had consistent
+frequency response between 1 kHz and 40-50 kHz with sensitivity dropping rapidly
+above 50 kHz. 
+From the subfamily monachinae which includes all the Subantarctic and Antarctic
+phocids (the Weddell, crabeater, Ross, leopard and Southern elephant seal) there have
+been two species studied, the Hawaiian monk and Northern elephant seal.  The
+Hawaiian monk seal study (Thomas et al. 1990) involved only one study of a single
+individual. It found that the monk seal tested had narrower best frequency range than
+the phocinids tested and a high frequency cut off of about 30 kHz. The studies with the
+Northern elephant seal have also involved only the one individual. Their sensitivity is
+best between 3.2 and 45 kHz, with greatest sensitivity at 6.4 KHz (58 dB re 1 uPa) but
+that they are more sensitive to low frequencies (below 1 kHz) than any other pinniped
+tested (Kastack and  Schusterman 1998, 1999; Southall et al. 2000).  
+Otariid seals (fur seals and sea lions) seem to have worse hearing than phocids below 1
+kHz, similar to slightly worse hearing between 1 kHz and their high frequency cut offs
+at 36-40 kHz. (Richardson et al., 1995, Thompson et al., 1998). Their high frequency
+cut off is 10-15 kHz below that of phocids.
+Antarctic seals are quite vocal underwater (Table 7). Weddell seals produce a variety
+of calls from 0.1-12.8 kHz with source levels of 153-193 dB re 1µPa. The calls are
+quite directional (Richardson et al., 1995). Calling rate is lowest in winter, rising to a
+peak in spring.  Leopard seals produce a variety of calls with frequency range from 0.1
+to 5.9 kHz (Richardson et al., 1995) and there has been some detection of ultrasound
+produced by leopard seals up to 163 kHz with peak energy at 50-60 kHz. Leopard seals
+use low frequency sound for socialising over ranges up to 20 km. Crabeater seals
+produce low frequency groans with harmonics to > 8 kHz.. Ross seals make a sound
+that sweeps between 0.1 and 4 kHz. Fur seals and sea lions are known to bark
+underwater and make clicks with most energy below 4 kHz. (Richardson et al., 1995). 
+Response to tranducers
+There is very little published information on the response of seals to transducer-
+generated sound. Richardson et al. (1995) report 3 studies. One found that harp seals
+altered swimming patterns when they encountered a 200 kHz echo sounder. However,
+they comment that the transducer probably produced lower frequency sound as well,
+that would be audible to the seal. The other studies note that ringed and Weddell seals
+were apparently unaffected by 60-69 kHz acoustic tags fixed to them. Unpublished
+observations of 20 instrumented Weddell seals in Drescher inlet, a 1-2 km wide, 25 km
+long re-entrant in the Riiser-Larsen Ice Shelf, found no difference in diving behaviour
+between days when a vessel was operating in the inlet and those when it was not (J.
+Ploetz, unpublished). The vessel operated bathymetric and fisheries echo sounders (12-
+150 kHz). 
+Response to seismic
+Again there is little published information on the response of seals to airguns.
+Thompson et al. (1998) refer to one published paper and unpublished data in which
+harbour and grey seals showed avoidance reaction to small airguns at ranges of around
+2 km. These seals returned to the area from which they had been displaced quite
+46
+quickly after shooting ended. In contrast, Richardson et al. (1995) report a paper which
+observed no reaction by grey seals to seismic surveys and another report that found
+that air guns were ineffective in scaring South African fur seals away from fishing
+gear. This accords with geophysical industry experience that South African and
+Australian fur seals swim near operating seismic equipment and consistently damage it
+by biting. This may be related to their relative insensitivity to sound below 1 kHz and
+their tendency to swim at or near the surface, exposing them to reduced sound levels. 
+Other sources
+Other studies of seals and loud noises involve attempts to frighten them away from
+fishing activities (Richardson et al., 1995). Most cited examples found rapid
+habituation to the sounds, possibly because the animals rapidly associate the noise with
+food. Australian fur seals have colonised oil production facilities in Bass Strait
+suggesting they habituate to a certain amount of noise. Recording of leopard seal calls
+in Prydz Bay in 1998 illustrate the difficulty of interpreting calling behaviour in terms
+of disturbance (T. Rogers, unpublished data). Leopard seals ceased to call when
+mechanical breakdown suddenly ended mechanical and icebreaking noise from a
+vessel, suggesting animals react to change rather than noise as such.
+Risk assessment
+Injury to seals other than hearing damage is only likely close to powerful sources
+(Table 8). Sound levels at which seal hearing may be damaged are not known. From
+what is known about their hearing, they are most at risk from transducers with outputs
+below 50 kHz. At high frequencies, absorption is important and most scientific
+equipment tends to have narrow beam widths so regions of potential hearing damage
+will be relatively small. Therefore the equipment with most potential risk would be
+lower frequency echo sounder used for sub-bottom profiling. Seismic sources also
+have potential risk because of the very high source levels. 
+Any risk to pack ice seals from seismic surveys is likely to be reduced because seismic
+surveys trail equipment behind the vessel and so cannot operate easily in ice. This also
+means that most Antarctic marine seismic surveys take place from late December to
+March and so avoid the breeding seasons of pack ice seals. High risk areas would be
+near Subantarctic breeding colonies during the spring and the times when weaners
+leave the beach. Possible displacement effects require study. The small amount of
+available information on short term displacement suggests that some species are more
+likely to be displaced than others. 
+Table 8.   Sounds used by seals found in the Southern Ocean.
+Signal
+type
+Frequency
+range kHz
+Dominant
+frequency
+kHz
+Estimated
+Source
+Level
+DB re 1
+upa.m
+Occurrence
+Seasonal
+Occurrence
+Behavioural
+context
+Reference
+Weddell seal
+34 
++ 
+call
+types
+0.1 - 12.8
+153 - 193
+Frequent
+Nov - Jan
+Territorial
+maintenance/s
+exual
+advertisement/
+agonstic
+behaviour
+Thomas & Kuechle 1982: Thomas et
+al. 1983; Thomas & Stirling 1983
+Leopard seal
+Trills
+Broad-band 
+Ultrasonic
+0.1 - 5.9
+0.04 - 8.0
+up to 164
+140 - 165
+120 - 140
+Frequent
+Rare events
+Rare events
+Nov - Jan
+Year round
+Unknown
+Territorial
+maintenance
+& 
+sexual
+advertisement
+Agonistic
+behaviour
+Chasing 
+fish
+in dark
+Stirling & Siniff 1979; Rogers et al.
+1995; Rogers unpublished data
+Rogers et al. 1995, 1996, Rogers
+unpublished data
+Thomas 
+et 
+al. 
+1983, 
+Rogers
+unpublished data
+Crabeater seal
+Groan
+0.1 - 8.0
+0.1 - 1.5
+Rare events
+Unknown
+Unknown
+Stirling & Siniff 1979
+Ross seal
+Trills
+Siren
+0.25 - 1.0
+Common
+December
+Unknown
+Watkins 
+& 
+Ray 
+1985, 
+Rogers
+unpublished data
+Southern 
+Unknown
+47
+48
+elephant seal
+Antarctic 
+fur
+seal
+Unknown
+Sub-antarctic
+fur seal
+Unknown
+Table 9.  Risk assessment for Antarctic and Subantarctic seals and seismic surveying
+Event
+Leopard seals
+Weddell seals
+Ross seals
+Southern elephant
+seals
+crabeater seals
+fur seals
+Behavioural effects
+direct
+Subtle changes,
+likely avoidance.
+Subtle changes,
+likely avoidance.
+Subtle changes,
+likely avoidance.
+Subtle changes,
+likely avoidance.
+Subtle changes,
+likely avoidance.
+Subtle changes,
+likely avoidance.
+Pathological effects
+Possible but
+unlikely, very low
+risk as animals
+likely to move
+away and animals
+need to be at less
+than 1 km to be at
+any risk
+Possible but
+unlikely, very low
+risk as animals
+likely to move
+away and animals
+need to be at less
+than 1 km to be at
+any risk
+Possible but
+unlikely, very low
+risk as animals
+likely to move
+away and animals
+need to be at less
+than 1 km to be at
+any risk
+Possible but
+unlikely, very low
+risk as animals
+likely to move
+away and animals
+need to be at less
+than 1 km to be at
+any risk
+Possible but
+unlikely, very low
+risk as animals
+likely to move
+away and animals
+need to be at less
+than 1 km to be at
+any risk
+Possible but
+unlikely, very low
+risk as animals
+likely to move
+away and animals
+need to be at less
+than 1 km to be at
+any risk
+Geographical Scale
+Relatively small at
+scale of individual
+signal but larger
+when considered
+through time
+depend on activity
+Relatively small at
+scale of individual
+signal but larger
+when considered
+through time
+depend on activity
+Relatively small at
+scale of individual
+signal but larger
+when considered
+through time
+depend on activity
+Relatively small at
+scale of individual
+signal but larger
+when considered
+through time
+depend on activity
+Relatively small at
+scale of individual
+signal but larger
+when considered
+through time
+depend on activity
+Relatively small at
+scale of individual
+signal but larger
+when considered
+through time
+depend on activity
+Timing/duration of
+action
+Depend on the
+activity
+Depend on the
+activity
+Depend on the
+activity
+Depend on the
+activity
+Depend on the
+activity
+Depend on the
+activity
+Cumulative effect of
+action
+unknown
+unknown
+unknown
+unknown
+unknown
+unknown
+PREY SPECIES
+Introduction
+A significant number of studies have addressed the effects of seismic surveys on fish.
+These studies have looked at either injuries to caged fish (McCauley et al., 2000) or the
+effects on fishing success (e.g. Engås et al. 1993).  There are few studies on crustacean,
+benthic molluscs and cephalopods (Hirst and Rodhouse, 2000) and there has been no
+study of the effects on krill. There has been a little research work on fish eggs and
+juveniles which could provide an indication of effects on other zooplankton.
+Fish and sound
+Some fish species make use of sound for communication. The review by Myrberg
+(1981) found 35 families of marine and freshwater fish that were known to produce
+noise. Of these the best known are the Croakers, members of the Scianidae, are the
+most vocal and widespread (Harris et al., 1991). These fish make noise by rapidly
+contracting muscles attached to their swim bladders and have been recorded making
+sounds in the range of 350 Hz to 1.5 kHz with levels of 140 dB re 1 µPa (0-p?, Harris
+et al., 1991). Their sound production varies during the day with feeding behaviour,
+with peak sound production in the evening. Many other noises have been recorded in
+the ocean that may be attributable to fish and identification and study of the sources of
+these sounds is ongoing. 
+Effects of transducer based equipment
+Nothing has been published on effects of transducers on fish, plankton or cephalopods.
+Given that echo sounders with frequencies > 12 kHz are used to locate fish and
+plankton, for fishing and research, it seems unlikely that any displacement or
+measurable response would have gone unnoticed.
+Effects of airguns
+Injury
+Hirst and Rodhouse (2000) state that studies of caged fish indicate that received sound
+pressure levels > 180 dB re 1 µPa. from air guns and explosives produce significant
+physiological damage to fish, ranging from ear and eye damage to swim bladder
+rupture and death although studies found variation in the level at which injury is
+severe. Some studies that found minimal damage up to levels as high as 231 dB re 1
+µPa (Weinhold and Weaver, 1973, Dalen and Knutsen, 1987). Gausland (1993) claims
+that damage is confined to a radius of 2-3 m around an airgun but does not provide
+source levels. Both Gausland (1993) and Hirst and Rodhouse (2000) observe that fish
+with swim bladders are more likely to be killed at greater distances than those without
+because the rarefaction part of the wave following the initial pulse can rupture the
+bladder. McCauley et al., (2000a,b) report modelling studies of fish otoliths and
+examined otoliths of fish that had been exposed to a single airgun and concluded that
+extreme movement of the otoliths would take place a received sound pressure levels
+>171 dB re 1 µPa. rms. Hirst and Rodhouse (2000) question whether longer term
+increases in mortality rates have been missed by short term studies of caged fish.
+However, Gausland (1993) quotes a study of the effects of explosives on cod that
+found that no deaths in addition to those caused by the initial explosion occurred in the
+49
+50
+sample population over a 6 month period after exposure. These studies suggest that
+injury to fish will be limited to the immediate region around a powerful source.
+Behavioral effects
+Studies of caged fish  have found that startle responses in the form of C-turns and
+diving to the bottom take place at received sound levels >156-161 dB re 1 µPa. rms
+(McCauley et al., 2000a,  Gausland, 1993). Behaviour changes seem to produce the
+observed declines in fishing success in areas that have experienced an industry seismic
+survey. Hirst and Rodhouse (2000) quote 8 studies that found catch reductions of
+between 17% and 83% for trawl and longline vessels in surveyed areas. They also
+quote one study that found a major increase in catch associated with a seismic survey
+suggesting that the fishing method is important and therefore the effect is caused by
+displacement and possible changes in feeding behaviour. Engås et al., (1993)
+concluded that a the differences observed between longline catches and trawling
+resulted from the fact that longlines can only measure the number of fish up to the
+number of hooks deployed. They concluded that a seismic array produced a
+“ploughing” effect whereby fish were displaced laterally and downward from the
+ship’s track. This concentration of fish fleeing the affected area may account for the
+occasional increased catches observed. The durations of the observed catch reductions
+are in excess of 5 days in some studies reported in (Hirst and Rodhouse, 2000),
+however Engås et al., (1993) concluded that fish were returning to the survey area
+within one day of the end of shooting.
+Although these effects clearly cause problems for fishing activities, McCauley et al.,
+(2000b) point out that they may not necessarily cause problems for viability of the fish
+populations. Avoidance responses would tend to reduce the risk of injury. Even though
+diving to the bottom may increase the sound exposure in areas of shallow water where
+significant energy is transmitted through the bed, such behaviour would remove the
+fish from close proximity to the guns and the zone of possible injury.
+Many studies have pointed out the long term effects of displacement by seismic
+surveys is unknown. Observations of slow return on the scale of days to surveyed areas
+are not surprising because there is probably no external stimulus to cause a rapid return
+once fish have moved. This effect will probably vary depending on food availability
+and whether the fish are migrating (Engås et al., 1993). The longer term effects are
+difficult to address because many of the areas of intense seismic surveying are also
+area of active fishing so distinguishing between the effects of seismic surveying and
+fishing practices is very difficult. Given that this debate is still taking place over areas
+such as the Norwegian continental shelf which has seen more than 100,000 line
+kilometers of industry seismic shot per year for several decades suggest that any effect
+must be small (Gausland, 1993).
+Squid
+Little is known about the hearing ability of cephalopods. The few papers on
+cephalopod hearing suggest that their hearing is less sensitive than most fish and that
+the most sensitive frequencies are between 10 and 200 Hz. (Packard et al., 1990)
+however, Japanese squid boats use a sound at 600 Hz to attract some squid (Hanlon
+and Budelmann, 1987). 
+Squid are important prey species for toothed whales and seals. Most is known about
+squid in the Subantarctic because of the fishery in the area (Rodhouse et al., 1990,
+51
+1994, 1995). In this region, squid spawn and hatch in the period April-early November
+and so those important parts of their life cycle are outside the optimum weather/ice
+window for seismic surveys. 
+Injury
+Only one paper on the lethal effects of seismic shots on squid was found (Norris and
+Møhl, 1983). They report short term tolerance of sound levels to 260 dB re 1 µPa by
+one species but lethal effects at levels of 246-252 dB re 1 µPa for another. If confirmed
+by further work, these levels would suggest that squid would only be killed within a
+few meters of individual, large airguns. This would still apply for arrays because sound
+levels within arrays are at maxima around the individual guns or at particular places
+between guns depending on array design (see above).
+Behaviour 
+We have only two studies of squid reaction to airgun noise. McCauley et al., (2000a)
+report the reactions of caged squid to an airgun. They found alarm responses at 156-
+161 dB re 1 µPa. rms. and strong startle response at 174 dB re 1 µPa. rms involving ink
+ejection and rapid swimming. The caged squid also moved to use the sound shadow
+near the surface to reduce the sound pressure levels. Hirst and Rodhouse (2000) quote
+a study that found no change in squid catch for trawling in an area exposed to < 149 dB
+re 1 µPa. The observed alarm response suggest that squid would likely move outside
+the lethal range of a sound source. Any possible effects on squid mortality produced by
+extra swimming caused by the alarm response are unknown.
+Eggs and larvae
+Dalen and Knutsen, (1987), Kostyuchenkov (1973) and Kosheleva (1992) described
+studies of the effects of airgun shots on fish eggs and juveniles. The lowest sound
+pressure level for which lethal effects can be demonstrated is 220 dB re 1 µPa. No
+lethal effects were observed at 214 dB re 1 µPa. If this is a reasonable indication of the
+situation, the injury radius for eggs and juveniles will be a few meters around large
+airguns. This will also apply in an array, where the total source level is a far field sum
+of the total number of guns. Such a radius would be comparable to that of a ship’s
+propeller. The volume of water affected by an airgun array and hence the number of
+eggs and juveniles would be similar to a ship’s propeller because the propeller runs
+continuously whereas the array fires at intervals of up to 20 seconds (Gausland, 1993).
+Gaulsand (1993) estimated the effect on plankton of the guns on the 100,000 line
+kilometers of industry seismic shot per year in Norwegian waters as equivalent to the
+feeding of 30 whales. In the case of large, ship-mounted transducers with outputs in
+excess of 220 dB re 1 µPa, lethal effects would be confined to a similar range as the
+turbulence around the ship’s hull. Thus, the magnitude of effects would be determined
+by the miles of trackline in areas where eggs and larve are present.
+Krill
+Distribution
+Krill are the most important prey species in Antarctic waters. Their distribution and
+abundance is fundamental to many other animals therefore their areas of highest
+concentration will also be areas of high concentrations of other animals (Ichii, 1990)
+As a broad approximation, krill concentrate along the retreating ice edge in spring and
+early summer and in a zone 60 nautical miles seaward of the shelf break for large parts
+of the Antarctic margin (Fig. 18, Ichii, 1990, , Nicol, et al., 2000). More detailed
+descriptions of krill density and swarming patterns are evolving with further study. 
+52
+0-20
+20-40
+40-60
+No data
+Krill density g m -2
+(DMSP data 1998)
+September
+sea ice
+February
+sea ice
+23/09/354
+Figure 18. Distribution and density esitmates of krill (Euphasia superba) from Nicol et al. (2000).
+Effects of sound
+There have been no studies specifically on the effects of noise on krill. Crustaceans are
+thought to be insensitive to sound which they detect through mecahnoreceptors. Hirst
+and Rodhouse (2000) suggest that most invertebrates would only detect seismic shots
+within about 20 meters. Likewise, transducers are unlikely to be detectable over large
+distances by crustaceans. Snapping shrimps must be able to withstand there own sound
+production that reaches sound pressure levels of 200 dB re 1 µPa (0-p?) (Harris et al.,
+1991). Hirst and Rodhouse (2000) found only two studies that observed catch levels of
+shrimp and lobster in areas surveyed with airguns. Both studies reported no change
+during surveys.
+Assuming that krill will be affected in a similar way to fish eggs and juveniles (see
+below), there will be increased mortality in an area a few meters in radius around an
+operating low frequency, high energy source. An argument similar to that of Gausland
+(1993) can be made that the effect of acoustic surveys on krill in Antarctic waters will
+be very small compared to predation and fishing, especially with the low level of
+activity in the Antarctic. The importance of krill is that they attract predators which are
+more likely to be adversely affected by acoustic equipment. Also, track lines through
+or near krill swarms may cause the swarms to separate or disperse or to coalesce,
+making the krill more or less vulnerable and available to predators
+Risk assessment
+Pathological effects are probably confined to close proximity to airguns or the largest,
+low frequency transducers. The effect on the total populations of prey species is
+probably small given the low level of activity in Antarctic waters. There seems to be
+clear evidence of displacement of fish by large airgun arrays. There is insufficient
+53
+evidence to say if this is also the case for squid. The effects of fish displacement on
+higher predators is not known. 
+ISSUES IN EVALUATING SURVEY IMPACTS
+The variety of issues and uncertainties involved in assessing the impact of acoustic
+technology on the Antarctic environment make it impossible to make hard and fast
+guidelines as to the impact of any survey without considering the individual
+characteristics. Therefore, the workshop decided that the best approach was to
+highlight factors that should be considered in evaluating any survey. The following
+issues should be taken into account 
+Equipment characteristics
+Source level
+The output of the equipment in terms of maximum sound pressure is a key
+consideration. Although it is not clear from this review what constitutes “safe” levels
+for different animals, equipment with an output of  < 190 dB re 1 µPa (0-p) produce
+sound levels similar to natural source. Outputs of 190-210 dB re 1 µPa (0-p) will
+produce levels above most natural sources in a small area (1-10s of meters radius).
+Above 210 dB re 1 µPa (0-p), sound levels could be above natural levels over large
+areas. The area affected by a survey will vary with source level and sound propagation
+characteristics.
+We suggest that for powerful sources, mitigation strategies in use elsewhere in the
+world should be adopted. Such as:
+1. Surveys should be planned to use the minimum source level necessary to achieve
+the required result.
+2. Powerful sources should have there output increased slowly at the start of a line.
+Theoretically, such “ramped” or “soft” starts should allow animals time to avoid
+the equipment. Further research is needed to see if such measures really work.
+3. Shut down zones around the source should be considered to minimise the exposure
+of animals that do not avoid the source.
+Frequency
+The dominant frequency and the band width of the equipment determine the sensitivity
+to animal hearing and the degree of propagation of sound. Sound sources such as
+airguns produce more noise in the hearing range of baleen whales than low frequency
+echo sounders which produce more noise in the ranges used by seals and toothed
+whales. Sounds above 50 kHz are inaudible to most animals or have very high
+absorption levels making them a very low risk to animals.
+Pulse shape and length
+The energy of the pulse is a time integral over the pulse duration so longer pulses
+impart higher energy than shorter signals of the same peak source level. Pulse rise and
+fall times are also important. Chemical explosives are much more dangerous than
+airguns because of their very short rise and fall times.
+Directionality
+Omni-directional or wide beam sources will affect a much larger area than focussed
+beam equipment with the same source level. Most scientific transducers are focussed.
+Exceptions are acoustic beacons and fish-finding sonars which tend to be relatively
+54
+low power and high frequency. Ocean depth, multibeam echo sounders sweep a swath
+up to 7 times water depth and so affect a wide area, although the beams are narrow fore
+and aft. Airguns arrays are the least-focussed apparatus used in Antarctic waters.
+Duty Cycle
+The proportion of time that the source is actually emitting acoustic energy. Continuous
+sound has more potential to disrupt animal communications than pulsed or intermittent
+signals. Continuous noise is more damaging to human hearing than pulsed sounds so a
+similar effect is possible in animals (Richardson et al., 1995).
+Survey Region
+Survey area geography
+The area affected The morphology of the sea floor and any adjacent coast might
+restrict the ability of animals to avoid high source levels. It may define a choke point in
+animal migration paths so that high numbers of animals or a significant proportion of a
+population are present. Close proximity to a breeding colony during the breeding
+season is likely to expose more animals to a sound source than a survey removed from
+the area. Sensitive areas such as regions known for prey aggregations should be
+considered.
+Sound propagation model
+Sound propagation models vary with oceanography, sea floor morphology and
+characteristics and sea ice coverage. This is particularly important in defining the area
+over which sound levels will exceed a defined level. For the area close to the source,
+this  is not as important with errors in the order of 100s of meters but for more distant
+levels, errors can be substantial (see above).
+Survey Design
+Ship speed
+The speed at which the ship moves plus duty cycle and beam shape of the equipment
+governs the number of pulses of a given intensity a point in the survey area will
+receive. Likewise it governs the ability of animals to avoid the noise.
+Line spacing
+The line spacing will determine the temporal dose level in the survey area and the size
+of the survey area. 
+Survey duration
+The length of time a particular area is surveyed influences the degree of impact. 
+Exposure levels
+The combination of survey layout, source characteristics and survey area can be used
+to determine an exposure level. This could be expressed as the number of shots per unit
+area distributed over a survey area. Survey planning involving large sources should
+consider whether there will be other vessels using similar sources in the region. Several
+ships producing high sound levels in a region would make it harder for animals to
+avoid exposure.
+55
+Survey direction
+The direction in which a ship progresses during a survey may determine if it herds
+animals into a bathymetric restriction or an embayment in fast ice. Care should be
+taken to provide an “escape route” to allow avoidance. This particularly applies to
+cetaceans that cannot haul out to avoid sounds.
+Biological Issues
+Sensitive times
+The timing of surveys relative to important stages in the annual cycles of animals
+should be considered. For examples, seal mating, pupping and the time of bonding
+between mothers and pups are times when animals should not be disturbed. There are
+also times when feeding is important in ensuring survival of cohorts of young seals or
+penguins.
+Proportion of population effected
+Consideration should be give as to the proportion of the total or a local population of
+animals that will be affected. A survey close to an occupied breeding colony will affect
+a higher proportion of a population than one in the open ocean. Likewise a survey in a
+migration path during migration will affect a higher proportion of animals. At present,
+the distribution of animals at any time of year is poorly known. As knowledge
+improves more sensitive areas will be identified as will areas of low animal density.
+Proportion of the available habitat affected
+A survey that occupies most of a foraging area that is important to a colony could have
+significant impact. At the same time, a focused beam instrument may affect only a very
+small part of the foraging area. 
+Proportion of the season affected
+The amount of a particular part of a season should be considered. A survey that
+disturbs animals for a large part of a season could potentially have more effect than a
+brief disturbance. Surveying a sensitive area may have a small impact if the visit is
+brief.
+Re-surveying interval
+The number of times an area has been exposed to high sound levels at the same time of
+year should be considered. The risk of long term, cumulative effects of disrupting a
+key time of year could be minimised if surveys do not return to an area in consecutive
+years. International coordination of seismic or multibeam surveys and data sharing
+should be encouraged. The level of activity in Antarctica has been very low compared
+to many other parts of the world and the best way of avoiding unforseen problems
+caused by long term disturbance and displacement is to minimise repeat surveying and
+ensure that areas are not subjected to surveys in consecutive years. Care should be
+taken as to how the “area” is defined. It should be scaled with the power of the
+source, directionality and sound propagation characteristics. For example
+geographic terms such as “the Ross Sea” are not very useful as it is a very large area in
+which several surveys might take place without overlap. Information on the survey
+history of the Antarctic is available in the SCAR ANTOSTRAT Seismic Data Library
+System and survey planners should consult this to minimise resurveying.
+56
+Assessing the biological impacts of acoustic technology in the Antarctic is still very
+uncertain because of the many unknowns in animal hearing, acoustic propagation and
+animal distribution and behaviours. Some uncertainty will always remain. The ideal
+situation would be the development of quantitative risk analysis techniques so that the
+risks posed by acoustic technology could be compared with risks posed by other
+human activities and natural hazards and by human activities in other parts of the
+ocean where the animals move. For the time being, qualitative risk definition and
+classification methods should be considered in survey evaluation such as defining a
+Likelihood-Consequences matrix (Standards Association of Australia, 1999, Table 9).
+Table 10. Example of a qualitative risk analysis matrix (Standards Association of
+Australia, 1999).
+Likelihood 
+Consequences
+Insignificant 
+Minor 
+Moderate 
+Major 
+Catastrophic
+A (almost certain)
+B (Likely)
+C (moderate)
+D (unlikely)
+E (rare)
+Further quantification might be achieved by estimating the number of animals within a
+radius of a source defined by the power of the source, the duration of the survey and
+the duty cycle of the equipment, the propagation conditions, the safe level of sound for
+the species and the density of animals in the region. Clearly further research is needed
+to be able to define the last three of these parameters. 
+CONCLUSIONS AND RECOMMENDATIONS
+1. The meeting concluded that there was insufficient evidence to justify a ban on
+marine acoustic technology in the Antarctic particularly given the importance of
+such equipment in marine research. However, there was insufficient evidence to
+suggest that all equipment and surveys were safe. Therefore, surveys and
+applications need to be considered on a case by case basis.
+2. High energy, low frequency sources have greater risk of impact than low energy,
+high frequency sources.
+3. For applications using high energy, low frequency sources, mitigation strategies
+involving survey design, timing, ramping of source levels and shut down zones
+should be used.
+4. Mitigation strategies should be investigated to evaluate their effectiveness.
+5. There should be a regular review of mitigation strategies and the progress of
+research in the field to ensure that new research findings will be avalable to the
+Antarctic community.
+6. Research into the hearing and rection to noise of Antarctic animals should be
+encouraged.
+7. Research into sound propagation conditions arounnd Antarctica should be
+encouraged.
+8. Records of the locations, timing, duration, frequency, and nature of hydroacoustic
+and other activities should be maintained to permit retrospective assessment of the
+likely causes of any future observed changes in the distributions, abundance, or
+productivity of the potentially affected species and populations.
+Future work
+57
+REFERENCES
+Anderson, J.B., 1991. The Antarctic continental shelf: results from marine geological
+and geophysical investigations.  In Tingey, R.J. (editor), The Geology of Antarctica,
+Clarendon Press, Oxford, 285-334.
+Anisimov, V. D., 1976. (The morphology of the middle ear in penguins) In Russian.
+Vestn. Mosk. Univ. Ser. VI, Biol. Pochvoved 31: 16-19.
+Aoyanagi, M., 1981. Vocal communications between parent and chicks of Adélie
+Penguins (Pygoscelis adeliae). New Zealand Antarctic Research, 3: 3-15.
+Belderson, R.H., Kenyon, N.H., Stride, A.H., and Stubbs, A.R., 1972. Sonographs of
+the sea floor: a picture atlas. Elsevier, Amsterdam, 185 pages.
+Bengtson, J.L. and Siniff, D.B. 1981.  Reproductive aspects of female crabeater seals
+(Lobodon carcinophagus) along the Antarctic Peninsula.  Canadian Journal of
+Zoology.  59: 92-102.
+Bowles, A.E., Smultea, M., Wursig, B.,  DeMaster, D.P. and Palka, D.,1994. Relative
+abundance and behaviour of marine mammals exposed to transmissions from the
+Heard Island Feasibility Test. Journal of the Acoustics Society of America, 93, 2469-
+2484.
+Broni, S. C. Social and spatial foraging patterns of the jackass penguin, Spheniscus
+demersus, South African Journal of Zoolology, 20, 241-245.
+Brown, C. R., and Adams, N. J.,1983. The effect of underwater explosions on
+Rockhopper Penguins Eudyptes chrysocome. Cormorant 11, 68.
+Caldwell, J. and Dragoset, W., 2000. A brief overview of seismic airgun arrays. The
+Leading Edge, August 2000, 898-902.
+Carrick, R., Csordas, S.E. and Ingham, S.E., 1962.  Studies on the southern elephant
+seal, Mirounga leonina (L.) IV.  Breeding and development.  CSIRO Wildlife
+Research 7: 161-197.
+Clapham, P.J., Young, S.B. and Brownell, R.L. Jr., 1999. Baleen whales: conservation
+issues and the status of the most endangered populations. Mammal Review, 29, 35-60.
+Clay, C. S. and Medwin, H., 1977. Acoustic oceanography; principles and applications.
+John Wiley and Sons, New York, 544 pages.
+Cooper, J.,1982. Methods of reducing mortality of seabirds caused by underwater
+blasting. Cormorant, 10, 109-113.
+Dalen, J. and Knutsen, G.M., 1987. Scaring effects in fish and harmful effects on eggs,
+larvae and fry by offshore seismic exploration. In Merklinger, H.M., (editor) Progress
+in underwater acousrtics, Plenum Press, New York, pages 93-102.
+58
+Dooling, R. (1992). Hearing in birds. In. Webster, D. B., Fay, R. R., Popper, A. N.
+(editors), The Evolutionary Biology of Hearing. Springer-Verlag, New York. Pp. 545-
+599.
+Dragoset, W. 2000. Introduction to air guns and air-gun arrays. The Leading Edge,
+August 2000, 892-897.
+Engås, A., Løkkeborg, S., Ona, E. and Soldal, A. V., 1993. Effects of seismic shooting
+on catch and catch availability of cod and haddock. Havforskningsinstituttett, Fisken
+Og Havet, Nr. 9, 117 pages.
+Frost, P. G., Shaughnessy, P. D., Semmelink, A., Sketch, M., Siegfried, W. R., 1975.
+The response of Jackass Penguins to Killer Whale vocalisations. South African Journal
+of Science, 71, 157-158.
+Gausland, I., 1993. Impact of offshore seismic on marine life. 55th Meeting of the
+European Association of Exploration Geophysicists, Stavanger.
+Gausland, I., 2000. Impact of seismic surveys on marine life. The Leading Edge,
+August 2000, 903-905.
+Giese M and Riddle M., 1999. Disturbance of emperor penguin Aptenodytes forsteri
+chicks by helicopters. Polar Biology 22, 366-371
+Gordon, J.C.D., Gillespie, D., Potter, J., Frantzis, A., Simmonds, M.P., and Swift, R.,
+1998. The effects of seismic surveys on marine mammals. In Tasker, M.L. and Weir,
+C., (editors) Proceedings of the seismic and marine mammals workshop, London, June
+1998, pages 6.1-6.13.
+Gulland, J.A. and Walker, C.D.T., 1998. Marine seismic overview. In Tasker, M.L.
+and Weir, C., (editors) Proceedings of the seismic and marine mammals workshop,
+London, June 1998, pages 2.1-6.36.
+Hanlon, R.T. and Budelmann, B.-U., 1987. Why cephalopods are probably not “deaf”.
+American Naturalist, 129, 312-317.
+Harris, P.T., Baker, E.K. and Cole, A.R., 1991. Physical sedimentology of the
+Australian continental shelf. Ocean Sciences Institute Report, 51, 500 pages.
+Hill, P.J., Exon, N.F., and Royer, J.Y., 1995. Swath-mapping the Australian
+continental margin: results from offshore Tasmania. Exploration Geophysics, 26, 403-
+411.
+Hirst, A.G. and Rodhouse, P.G., 2000. Impacts of geophysical seismic surveying on
+fishing success. Reviews in Fish Biology and Fisheries, 10, 113-118.
+Hutchinson, D.R., and Lee, M.W., 1989. Processing and attenuation of noise in deep
+seismic-reflection data from the Gulf of Maine:  Marine Geophysical Researches, v.
+11, pp. 51-67.
+59
+Ichii, T., 1990. Distribution of Antarctic krill concentrations exploited by Japanese krill
+trawlers and Minke whales. Proceedings of the National Institute of Polar Research,
+Polar Biology, 3, 36-56.
+Ilichev, V.D., (editor) (1977). Adaptatsii Pingvinov (Penguin adaptations). Moscow.
+Nauka.
+Jouventin, P., 1972. Un nouveau système de reconnaissance acoustique chez les
+oiseaux. Behaviour, 43, 176-185.
+Jouventin, Guillotin, M., Cornet, A. 1979. Le chant du manchot empereur et sa
+signification adaptive. Behaviour, 70, 231-250.
+Jouventin, P., Roux, P., 1979. Le chant du manchot Adélie (Pygoscelis adeliae). Role
+dans la reconnaissance individuelle et comparaison avec le manchot empereur non
+territorial. L’Oiseau et R. F. O., 49, 31-37.
+Jouventin, P., 1982. Visual and vocal signals in penguins, their evolution and adaptive
+characters. Advances in Ethology 24, 149pp.
+Kosheleva, V., 1992. The impact of airguns used in marine seismic exploration on
+organisms living in the Barents Sea. Summary of oral presentation at the 1992 Petro
+Piscis II conference.
+Kostyuchenkov, L.P.,  1973. Effects of elastic waves generated in marine seismic
+prospecting on fish eggs in the Black Sea. Hydrobiology Journal, 9, 45-48.
+Laws, R.M., 1979a., Southern elephant seal.  In Mammals in the seas.  Vol II. Pinniped
+Species Summaries and Report on Sirenians.  FAO Fisheries Series No. 5, Food and
+Agriculture Organization, Rome, p 106-109.
+Laws, R.M., 1979b.  Crabeater seal.  In Vol II. Pinniped Species Summaries and
+Report on Sirenians.  FAO Fisheries Series No. 5, Food and Agriculture Organization,
+Rome, p 115-119.
+Laws, R.M., 1984.  Seals. In Laws, R. M. (editor) Antarctic Ecology Academic Press,
+London., Vol 2: 621-715. 
+Markov, V. I., 1974. (Underwater acoustic signals of the crested penguins). In Russian.
+Proc. 6th All Union Ornithology Conference Pt 1, 156-158.
+Markov, V.I.,  1977. (The underwater sounds of the Macaroni Penguin). In Russian.
+Ilichev, V. D. In: (editor) Adaptatsii Pingvinov (Penguin adaptations). Moscow, Nauka
+Pp 111-121.
+McCauley, R.D., 1994. Seismic surveys. In Swan, J.M., Neff, J.M. and Young, P.C.
+(eds.), Environmental implications of offshore oil and gas development in Australia-
+findings of an independent scientific review. Australian Petroleum Exploration
+Association, Sydney, pages 19-121, 
+McCauley, R.D., Fewtrell, J., Duncan, A.J. Jenner, C., Jenner, M-N., Penrose, J.D.,
+Prince, R.I.T., Adhitya, A., Murdoch, J. and McCabe, K., 2000a. Marine seismic
+60
+surveys: analysis and propagation of air-gun signals; and effects of air-gun exposure on
+humpback whales, sea turtles fishes and squid. Centre for Marine Science and
+Technology, Curtin University of Technology, Project CMST 163, Report R99-15, 198
+pages.
+McCauley, R.D., Fewtrell, J., Duncan, A.J. Jenner, C., Jenner, M-N., Penrose, J.D.,
+Prince, R.I.T., Adhitya, A., Murdoch, J. and McCabe, K., 2000b. Marine seismic
+surveys-a study of environmental implications. APPEA Journal, 40, 692-708.
+Myrberg, A.A., 1981. Sound communication and interception in fishes. In Tavolga,
+W.N., Popper, A.N. and Fay, R.R. (editors) Hearing and sound communication in
+fishes. Springer Verlag, New York.
+Necker, R. (2000). The avian ear and hearing. In Whittow, G. C. (editor) Avian
+Physiology. Academic Press, San Diego. Pages 21-38.
+Nevitt, G. A., Veit, R. R., Kareiva, P., 1995. Dimethyl sulphide as a foraging clue for
+Antarctic Procellariiform seabirds. Nature 376: 680-682.
+Nicol, S., Constable, A.J. and Pauly, T., 2000. Estimates of circumpolar abundance of
+Antarctic krill based on recent acoustic density measurements. CCAMLR Science, 7,
+87-99.
+Norris, K.S. and Møhl, B., 1983. Can odontocetes debilitate prey with sound?
+American Naturalist, 122, 85-104.
+O’Brien, P.E., Harris, P.T., Quilty, P.G. Taylor, F. and Wells, P., 1995. Post-cruise report,
+Antarctic CRC marine geoscience, Prydz Bay, Mac.Robertson Shelf and Kerguelen
+Plateau. Australian Geological Survey Record, 1995/29.
+Packard, A., Karlsen, H.E. and Sand O., 1990. Low frequencey hearing in
+cephalopods. Journal of Comparative Physiology, A 166, 501-505.
+Penrose, J.D. and McCauley, R.D., 1998. Underwater character and horizontal
+propagation of air-gun signals. APPEA Journal, 38,708-714.
+Pohner,, F. and Hammerstad, E., 1991. Combining bathymetric mapping and seabed
+imaging. Sea Technology, June 17-25.
+Popper, A.N., Deferrari, H.A., Dolphin, W.F., Edds-Walton, P.L., Greve, G.M.,
+McFadden, D., Rhines, P.B., Ridgway, S.H., Seyfarth, R.M., Smith, S.L. and Tyack,
+P.L., 2000. Marine mammals and low-frequency noise: progress since 1994. National
+Academy Press, Washington, D.C. (http:/www.nap.edu/openbook/030906886X/html).
+Poulter, T. C., 1969. Sonar of penguins and fur seals. Proc. Calif. Acad. Sci. 36: 363-
+380.
+Rice D.,  1998.  Marine Mammals of the world systematics and distribution.  In
+Wartzok, D., (editor) The Society for Marine Mammalogy, Special Publication
+Number 4.
+61
+Richardson, W.J., Greene, C.R.Jr., Malme, C.I. and Thomson, D.H., 1995. Marine
+mammals and noise. Academic Press, San Diego, 576 pages.
+Rodhouse, P.G. and Hatfield, E.M.C., 1990. Dynamics of growth and maturation in the
+cephalopod Illex argentius de Castellanos, 1960 (Teuthoidea: Ommastrephidae).
+Philosophical Transactions of the Royal Society of London, B. 329, 229-241.
+Rodhouse, P.G., Robinson, K., Gajdatsy, S.B., Daly, H.I. and Asmore, M.J.S., 1994.
+Growth, agestructure and environmental history in the cephalopod Martialia hyadesi
+(Teuthoidea: Ommastrephidae) at the Antarctic Polar Frontal Zone and on the
+Patagonian Shelf edge. Antarctic Science, 6, 259-267.
+Rodhouse, P.G. Barton, J., Hatfield, E.M.C. and Symon, C., 1995. Illex argentius: life
+cycle, population structure and fishery. ICES Marine Fisheries Symposium 199, 425-
+432.
+Shaughnessy, P.D. and Goldsworthy, S.D. 1990.  Population size and breeding season
+of the Antarctic fur seal Arctocephalus gazella at Heard Island - 1987/88.  Marine
+Mammal Science.  6: 292-304.
+Shaughnessy, P.D., Shaughnessy, G.L. and Fletcher, L.  1988.  Recovery of the fur seal
+population at Macquarie Island.  Papers and Proceedings of the Royal Society of
+Tasmania.  122: 177-178.
+Shipp, S. and Anderson, J.B., 1997. Till sheets on the Ross Sea continental shelf. In In
+Davies, T.A., Bell, T., Cooper, A.K., Josenhans, H., Polyak, L., Solheim, A., Stoker,
+M. S. and & Stavers, J.A. eds. Glaciated continental margins, an atlas of acoustic
+image. Chapman & Hall, London, pages 235-237.
+Siniff, D.B. and Stone, S. 1985.  The role of the leopard seal in the tropho-dynamics of
+the Antarctic marine ecosystem.  In Antarctic nutrient cycles and food webs.  Eds.
+Siegfried, W. R., Condy, P.R. and Laws, R.M. Springer-Verlag, Berlin, p. 555-560.
+Sivak, J. G., Howland, H. C., McGill-Harelstad, P., 1987. Vision of the Humboldt
+Penguin (Spheniscus humboldti) in air and water. Proceeding of the Royal Society
+London B 229: 467-472.
+Siwecki, T.L. and Neal, E.H., 1993. S-3: Large active long range variable depth sonar.
+Sea Technology, November 1993, 39-42.
+Sodal, A., 1999. Measured underwater acoustic wave propagation from a seismic
+source. IAGC/UKOOA Airgun workshop-Environmental. Institute of Petroleum, July
+1999.
+Standards Association of Australia, 1999. Risk management. AS/NZ4360:1999.
+Stewardson, C.L. and Child, P.L., 1997. Mammals of the ice: Antarctic marine
+mammals. Sedona Publishing, 183 pages.
+Tikhomirov, E.A.  1975.  Biology of the ice forms of seals in the Pacific section of the
+Antarctic.  Rapports et Proces-Verbaux des Reunions Conseil International pour
+l’Exploration de la Mer.  169: 409-512.
+62
+Weinhold, R.J. and Weaver, R.R., 1973. Seismic air guns’ effect on immature salmon.
+Society of Exploration Geophysicists, unpublished, 13 pages.
+Wever, E. G., Herman, P. N., Simmons, J. A., Hertzler, D. R., 1969. Hearing in the
+Black-footed penguin as represented by cochlear potentials. Proceedings of the
+National Acadademy of Science, 63, 676-680.
+Williams, T. D., 1995. The penguins. Oxford University Press.
+Wilson, R. P. (in press). Movements in Adélie Penguins foraging for chicks at Ardley
+Island, Antarctica; circles within spirals, wheels within wheels. Polar Bioscience.
+Wilson, R. P., Steinfurth, A., Ropert-Coudert, Y., Kato, A., Kurita, M. (in press). Lip-
+reading in remote subjects: An attempt to quantify and separate ingestion, breathing
+and vocalisation in free-living animals using penguins as a model. Mar. Biol.
+Woehler, E. J., 1993. The distribution and abundance of Antarctic and Subantarctic
+Penguins. SCAR Cambridge, iv 76 pages.
+Woehler, E. J. and Croxall, J. P., 1997. The status and trends of Antarctic and
+Subantarctic seabirds. Marine Ornithology 25, 43-66
+ 

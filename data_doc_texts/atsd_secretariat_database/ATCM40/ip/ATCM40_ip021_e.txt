@@ -1,0 +1,65 @@
+﻿
+
+
+
+
+
+Absorbing Aerosols Monitoring Over Remote Regions
+
+
+
+
+
+
+
+
+Absorbing Aerosols Monitoring Over Remote Regions 
+Information Paper submitted by Spain
+Summary
+The Fifth Assessment Report (AR5) of the Intergovernmental Panel on Climate Change, IPCC [2013], highlighted the importance of the radiative effects of atmospheric aerosol particles on the Earth’s climate. 
+The aim of the project was to measure black carbon (BC) and other aerosol concentrations in remote regions of the planet. 
+For this purpose a light aircraft was used, which was modified to include an aerosol inlet to measure aerosol absorption at different wavelengths. These measurements were made throughout the flight over almost unexplored regions in this regard, such as the Arctic, Antarctica, Africa and the Atlantic and Pacific Oceans.
+The scientific aims
+Aerosols influence directly the Earth’s energy budget by dispersing and absorbing radiation (Charlson et al., 1992) and indirectly by modifying cloud microphysical and radiative properties (Albrecht, 1989). In addition to its strong effect on the radiative balance, the BC has gained the greatest interest in Polar Regions due to the potential effects of albedo decrease when BC is deposited on ice and snow (Hansen and Nazarenko, 2004). BC is produced as primary particles of incomplete combustion processes and can reside in the atmosphere for short periods (days), unlike greenhouse gases with lifetimes exceeding hundred years. 
+Due to the relatively short atmospheric life of BC particles, control of their emissions can be a quick way to slow down global warming (Jacobson, 2001). Therefore, continuous and spatial real time (representative measurements both horizontally and vertically) are required to update our understanding of the behaviour of BC particles and their impacts on climate and the environment. 
+The study of aerosol source origin and transport pathways in the atmosphere are of particular interest in the Polar Regions as these remote areas are sparsely populated and there are few local sources of air pollution. 
+However, the remoteness and harshness of the environment in these regionshave prevented extensive data gathering and, consequently aerosol studies are very limited in the Polar Regions in. To overcome these issues, aircraft equipped with scientific instrumentation (e.g. Hirdman et al., 2010) seem to be a very promising technique allowing access to remote areas, measuring at different atmospheric heights and offering the possibility to investigate pollution transport in the atmosphere. 
+As a result, the overall objective of this project was to improve our understanding of one of the important climate forcers, black carbon, providing a broader perspective of BC aerosols on a global scale and showing the possibility of a simple and cheap method for collecting information on remote areas with scarce data. 
+The project
+The Atmospheric Physics Group (http://atmosfera2.ugr.es) of the University of Granada has lead the project and has a wide experience working with in-situ instrumentation and in particular with the Aethalometer instrument (Segura et al., 2014, Cazorla et al., 2013a; Titos et al., 2015). Many of the researchers involved in this project have participated in workshops and courses organized by the European Facility for Airborne Research (EUFAR, http://www.eufar.net/) acquiring a valuable knowledge and experience on airborne science. 
+The team has a good level of expertise in the use of nephelometer, absorption photometers and aerosol spectrometer, participation in the networks ACTRIS, funded by the European Commission trough projects ACTRIS (VII FP) and ACTRIS2 (H202
+The project used a lightweight aircraft to obtain information on the BC and other light absorbing carbonaceous aerosols concentrations. The plane is a VANS RV-8 (with an injection Engine of 180 CV) modified with additional fuel tanks to the following configuration (350 litres in the wings and three additional tanks of 250, 30 and 150 litres).
+With the present configuration the tanks would hold an amount of 760 litres, with a consumption of 30 litres/hour, at 250 km/h. 
+The aircraft was modified to include an aerosol inlet for the instrument to measure aerosol absorption (aethalometer) at different wavelengths covering the UV (370 nm), visible (470, 520, 590, and 660 nm) and NIR (880 and 950 nm) ranges.  
+These absorption data allow discriminating the concentration of BC from biomass and fossil fuel combustion (Sandradewi et al. 2008). The measurements were performed throughout the flight around the Globe including Antarctica.
+The flight
+The overfly was performed in two phases, one over the Northern hemisphere and the other on the Southern hemisphere.one. In February 2016 the plane took off from Madrid airport, returning in April after a of 32500 km flight, taking data and covering targets in the northern hemisphere phase. As several Global Atmospheric Watch stations (GAW) lay close to the flight path, data from the instruments on board the aircraft were compared against those at these stations. 
+Plumes of pollution and mineral dust were identified along the flight by performing special spiral flights over LIDAR stations operated in the frame of the global network GALION. 
+The route followed in the northern hemisphere phase was:
+Madrid-Jerez (Spain) -Dakar (Senegal)-Natal, Belem, Santarem, Manaus, Boavista (Brazil)- Medellín (Colombia)- Guatemala City (Guatemala) - MexicoCity (Mexico)- Freeport (Bahamas)- Windsor, Redlake, Rankin, Resolute (Canada)- NORTH POLE- Longyearbyen (Svalbard)- Aalesund (Norway)- Wurzburg, Friedrichshafen (Germany)- Madrid. 
+In October 15th, 2016 the plane took off from Madrid overflying the following areas:
+Madrid; Mediterranean sea; Egypt; Sudan; Kenya, Maldives; Indian Ocean; Australian Continent, Hobart, Australia; Mario Zucchelli Italian Antarctic Station; Marambio Argentinian Antarctic Station;, Ushuaia, Comodoro Rivadavia, (Argentina) Sao Paolo, Brasilia, Natal, Fortaleza, (Brazil), Cape Verde; Lanzarote, Málaga, arriving Madrid December 15th 2016 .
+In December 1st, 2016, the plane overflew Antarctic Ocean in a direct 17 hours fly from Hobart to Mario Zuccelli Italian Antarctic Station (MZS) (3500 km over open sea). 
+In December 9/10th, the flight went on over the Antarctic continent in a direct 21 hours flight from MZS to Marambio Argentinian Antarctic Station (MAAS) at the Antarctic Peninsula, overflying the South Pole (4500 km). 
+In December 11th, 2016 the plane took off from MAAS, overflying Marsh Chilean Base, in a direct flight to Ushuaia; Argentina.  
+The preliminary results show that, at the flight level, the absorption coefficient values are similar to those measured in previous studies at ground level at Antarctica coastal areas (Chabuey et al., 2010).  
+This is relevant considering that most of the time the plane has been gathering data around an altitude of 1000 m. 
+Moreover, the spectral dependence reflects that part of these aerosols is from anthropogenic origin, clearly impacting BC levels over Antarctica in the last years (Khan et al. 2016). 
+A deeper data analysis, which is taking place, will clarify contributions from biomass burning from Southern hemisphere continents, considering the air mass transport from these regions.
+Acknowledges
+Spain is especially grateful to Italy and Argentina for the direct and essential support provided to the mission from its Antarctic stations Mario Zuccelli and Marambio, providing all the necessary assistance to fly over Antarctica. Without this support, the project would not have been possible. Spain also thanks Australia for its support at Hobart, and Chile, France and Russia for allowing, if necessary, to use as alternative airfields their Antarctica facilities, 
+Spain thanks all the assistance received that in different ways have contributed to the flight safety over the Antarctic sea and ice. 
+References
+Albrecht BA. Aerosols, cloud microphysics, and fractional cloudiness, Science, 245(4923), 1227-1230, 1989.
+Cazorla A., Titos G., Lyamani H., and Alados-Arboledas L., “Relating the wavelength dependency of the absorption coefficient and the aerosol type”.European Aerosol Conference.Prague, 2013a. 
+Charlson RJ, Schwartz SE, Hales JM, Cess RD, Coakley Jr JA, Hansen JE and Hofmann DJ. Climate forcing by anthropogenic aerosols, Science, 255(5043), 423-430, 1992.
+Chaubey, J. P., K. K. Moorthy, S. S. Babu, V. S. Nair, and A. Tiwari (2010), Black carbon aerosols over coastal Antarctica and its scavenging by snow during the Southern Hemispheric summer, J. Geophys. Res., 115, D10210,  
+Hansen, J., and L. Nazarenko, 2004: Soot climate forcing via snow and ice albedos. Proc. Natl. Acad. Sci., 101, 423-428, doi:10.1073/pnas.2237157100.
+Hirdman D., Burkhart J. F., Sodemann H., Eckhardt S., Jefferson A., Quinn P.K., Sharma S., Ström J. and Stohl A. 2010. Long-term trends of black carbon and sulphate aerosol in the Arctic: changes in atmospheric transport and source region emissions. Atmos. Chem. Phys., 10, 9351–9368, 2010
+IPCC. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, in Summary for Policymakers in Climate Change, edited by T. F. Stocker, D. Qin, G.K. Plattner,  M. Tignor, S. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex, and P. Midgley, Cambrigde University Press, 2013.
+Jacobson, M.Z., 2001. Strong radiative heating due to the mixing state of black carbon in atmospheric aerosols. Nature 409, 695-697.
+Kattsov, V. M. and Källén, E.: 4. Future climate change: modeling and scenarios for the Arctic, in: Arctic Climate Impact Assessment, Cambridge University Press, Cambridge, UK and New York, NY, USA, 2005.
+Khan, A. L., R. Jaffé, Y. Ding, and D. M. McKnight (2016), Dissolved black carbon in Antarctic lakes: Chemical signatures of past and present sources, Geophys. Res. Lett., 43, doi:10.1002/2016GL068609.
+Sandradewi, J,  Prevot, A. S. H., Weingartner, E., Schmidhauser, R., Gysel, M., and Baltensperger, U.: A study of wood burning and traffic aerosols in an Alpine valley using a multi-wavelength aethalometer, Atmospheric Environment, 42, 101–112, 2008.
+Segura S., V. Estellés, G. Titos, H. Lyamani, M.P. Utrillas, P. Zotter, A.S.H. Prévôt, G. Močnik, L. Alados-Arboledas, and J.A. Martínez-Lozano: “Determination and analysis of spectral aerosol optical properties by a multi-instrumental approach”. Atmos. Meas. Tech., 7, 2373–2387, 2014.
+Titos G., Lyamani H., Drinovec, L., Olmo F. J., Močnik, G. and Alados-Arboledas L.: Evaluation of the impact of transportation changes on air quality, Atmos. Environ., 2015.

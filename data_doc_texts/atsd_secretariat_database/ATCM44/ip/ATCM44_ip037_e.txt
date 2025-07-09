@@ -1,0 +1,111 @@
+Impact of RPAS (drone) use on emperor penguins
+Impact of RPAS (drone) use on emperor penguins
+Information Paper submitted by Germany
+Introduction
+Due to the increasing application of Remotely Piloted Aircraft
+Systems (RPAS A Remotely Piloted Aircraft System (RPAS) is
+defined by the International Civil Aviation Authority (ICAO) (2015)
+as “A remotely piloted aircraft, its associated remote pilot station(s),
+the required command and control links and any other components
+as specified in the type design”. A Remotely Piloted Aircraft (RPA)
+is “An unmanned aircraft which is piloted from a remote pilot
+station”. RPAS are one class of Unmanned Aerial System (UAS), and
+they are often referred to as Unmanned Aerial Vehicles (UAVs),
+Unmanned Aircraft Systems (UAS) or ‘drones’. In this context RPAS
+is used for all types of remotely piloted drone systems, the term
+which has also been adopted by COMNAP, SCAR and a number of
+national authorities, and RPA is used to refer specifically to the
+aircraft itself.) in Antarctica, an intersessional ICG which was
+convened by Germany in 2017/2018 developed Environmental
+Guidelines for RPAS (see ATCM XL IP38 Use of UAVs in Antarctica -
+A competent authority’s perspective and lessons learned, ATCM XLI
+WP29 Report of the CEP Intersessional Contact Group to develop
+guidelines on the environmental aspects of the use of Unmanned
+Aerial Vehicles (UAVs) / Remotely Piloted Aircraft Systems (RPAS)
+in Antarctica, ATCM XLIII IP18 Operationalizing the use of
+Unmanned Aerial Vehicles (UAV) for assessing Antarctic wildlife
+populations, Harris et al 2019). With Resolution 4 (2018) the
+Environmental Guidelines for operation of Remotely Piloted Aircraft
+Systems (RPAS) in Antarctica (v 1.1) were adopted. The current
+version of the guidelines does not include distinct minimal distances
+from animals, mainly because the scientific basis for such
+restrictions is not fully established yet. Information on sensitivity to
+RPAS is incomplete, preliminary or completely missing for many
+Antarctic species. The iconic emperor penguin (Aptenodytes
+forsteri) is one of those species for which there is no knowledge
+about RPAS sensitivity. The data presented here aim to close this
+gap. It becomes particularly important in light of the predicted
+strong population changes the species faces with ongoing climate
+change, where RPAS present a promising tool to observe and
+monitor penguin colonies for a better understanding of their
+development.
+Abstract
+During experiments carried out in November and December 2019 at
+the emperor penguin colony at Atka Bay (Weddell Sea, Dronning
+Maud Land) near the German research station Neumayer III,
+emperor penguin chicks and adults on the sea ice / fast ice were
+video recorded from a distant position on the ice shelf to observe
+behavioural reactions to two different drone models or human
+approaches (Rümmler et al. 2021a,b). In general, only moderate
+responses to drone overflights with distinct reactions were observed
+in fewer than 20% of individuals. There was no observation of
+severe reactions like escape behaviour, panic, or large group
+movements. The behavioural reaction also only lasted for a fairly
+short time, with individuals returning to their previous behaviour in
+less than one minute. In chicks, the greatest reaction was observed
+during vertical approaches of a multirotor drone, while adults
+showed only an intermediate reaction. During horizontal flights,
+increased vigilance behaviour was observed in chicks, but very few
+reactions in adults. Contrastingly, adult emperor penguins showed a
+stronger reaction to human approaches than chicks and stronger
+than to any drone activity (see Figure 1).
+The comparison of two different RPAS models revealed only slight
+differences, with a fixed-wing drone causing fewer individuals to
+react than a multirotor drone.
+For adult emperor penguins, a flight height above 70 m was shown
+to not induce significantly different behaviour for the multirotor
+drone than observed during controls. For chicks or fixed-wing
+drones, no such height could be derived.
+The reaction towards the multirotor drone was stronger later in the
+season when chicks were in fledge phase than in the earlier crèche
+phase, though it cannot be concluded with certainty if this effect is
+caused by the timing in season or by daily factors such as daily
+patterns or weather conditions.
+Figure 1: Comparison of observed behavioural reactions (percentage
+of individuals showing vigilance & flipper-flapping) to different
+disturbance sources. Displayed are the mean ± standard error
+during the class of the highest observed disturbance (i.e. 11-20 s
+after the drone was directly overhead in horizontal flights at 20 m
+flight height, <5 m in human approaches, 15–20 m for vertical
+approach).
+Concluding remarks
+In general, there seems to be no strong reaction of emperor
+penguins to drones. There was very little influence on adults,
+particularly in comparison to a human approach. In chicks, stronger
+reactions have been observed, comparable or even slightly stronger
+than to a human approach. Especially vertical movements above
+chicks should be avoided. In all cases, the reaction towards the
+drone is very short in time.
+Thus, it can be concluded that RPAS flights for monitoring purposes
+(mainly horizontal) over emperor penguins, where the drone only
+passes over the colony for short moments, can be regarded as
+reasonable, particularly if done above 70 m. Repeated activities,
+particularly with reoccurring changes of direction (as for example
+often used for recreational or journalistic purposes) should be
+avoided. Where applicable, fixed-wing drones should be preferred.
+References
+Harris, Colin M., Heike Herata, and Fritz Hertel. 2019.
+“Environmental Guidelines for Operation of Remotely Piloted
+Aircraft Systems (RPAS): Experience from Antarctica.” Biological
+Conservation 236: 521–31, https://doi.org/10.1016/
+j.biocon.2019.05.019
+Rümmler, M-C, Esefeld, J, Pfeifer, C, Mustafa, O. 2021a. Effects of
+UAV overflight height, UAV type, and season on the behaviour of
+emperor penguin adults and chicks, Remote Sensing Applications:
+Society and Environment, Volume 23, 100558, ISSN 2352-9385,
+https://doi.org/10.1016/j.rsase.2021.100558
+Rümmler, M-C, Esefeld, J, Hallabrin, M T, Pfeifer, C, Mustafa, O.
+2021b. Emperor penguin reactions to UAVs: First observations and
+comparisons with effects of human approach, Remote Sensing
+Applications: Society and Environment, Volume 23, 100545, ISSN
+2352-9385, https://doi.org/10.1016/j.rsase.2021.100545

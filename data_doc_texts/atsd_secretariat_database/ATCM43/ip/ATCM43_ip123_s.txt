@@ -1,0 +1,272 @@
+Cooperación entre Colombia y Argentina
+sobre análisis magnetoeléctrico en tectónica: Instalación de una
+Estación Geofísica Permanente en la Base Antártica Isla Marambio
+Cooperación entre Colombia y Argentina sobre análisis
+magnetoeléctrico en tectónica: Instalación de una Estación Geofísica
+Permanente en la Base Antártica Isla Marambio
+Resumen
+Entre el 10 y el 24 de enero de 2020, una comisión del Laboratorio
+de Instrumentación Geofísica (LIG) del Departamento de
+Geociencias de la Universidad Nacional de Colombia, integrada por
+el Profesor Carlos Alberto Vargas Jiménez, PhD. y el Ing. Juan
+Manuel Solano Fino, M.Sc., realizó la instalación de la Primera
+Estación Geofísica Permanente en la Isla Marambio, en la Antártica,
+con el fin de adquirir, almacenar datos de campo magnético, campo
+eléctrico y gases de efecto invernadero (metano y dióxido de
+carbono) y enviarlos hacia dependencias del Instituto Antártico
+Argentino y el LIG en Bogotá.
+Adicionalmente, se hicieron estudios de ruido sísmico en la Isla
+Marambio, con el fin de apoyar al Ejército Argentino y Fuerza Aérea
+Argentina para el mantenimiento de la pista área donde
+regularmente llegan aviones Hércules. La instalación se hizo con
+apoyo del Laboratorio Antártico Multidisciplinario en la base
+Marambio (LAMBI) a cargo de la Dirección Nacional del Antártico -
+Instituto Antártico Argentino (DNA-IAA). El diseño, construcción e
+instalación de la estación fue realizado en el LIG.
+Introducción
+El Laboratorio de Instrumentación Geofísica (LIG) ha estado activo
+por más de 13 años con labores orientadas al diseño, construcción,
+pruebas e instalación de instrumentos de medición de variables
+geofísicas, especialmente de equipos sismológicos, magnéticos y
+eléctricos. Desde 2008 opera la Red Sismológica de la Universidad
+Nacional de Colombia (RSUNAL), antes conocida como la Red
+Sismológica de la Sabana de Bogotá (RSSB), con ocho (8) estaciones
+sismológicas, tres de ellas multiparamétricas (incluyen sensores de
+campo magnético y eléctrico). Todos los datos adquiridos son
+enviados en tiempo casi real sobre la red de Colombia Móvil SA
+(Tigo) mediante módems 3G al servidor instalado en el LIG en la
+Universidad Nacional de Colombia Sede Bogotá.
+La Ministra Fernanda Millicay (Cancillería Argentina), extendió
+invitación al profesor Carlos Alberto Vargas Jiménez, Director del
+Laboratorio de Instrumentación Geofísica (LIG) y al Ing. Juan
+Manuel Solano Fino, y estudiante del Doctorado en Geociencias,
+para participar en la Campaña Antártica de Verano (CAV)
+2019/2020 con el grupo de Dosimetría del Instituto Antártico
+Argentino. Las diligencias de carácter técnico y logístico fueron
+coordinadas por la investigadora Prof. Adriana Gulisano, Ph.D., de
+la DNA-IAA. Los experimentos fueron planeados para desarrollarse
+en la Base de la Isla Marambio (también conocida como Isla
+Seymour), construida en 1969. Este sitio constituye la principal
+base científica y militar Antártica argentina, y es operada
+logísticamente por la Fuerza Aérea Argentina. La Figura 1 muestra
+la ubicación de la Isla Marambio, mientras la Figura 2 muestra el
+mapa de la Isla y perspectiva aérea de la base científica. La isla
+cuenta con temperatura media entre -15°C y -1°C con mínimos y
+máximos de -36°C y 17°C, respectivamente; el suelo es en su
+mayoría desértico de permafrost con poca vegetación (algunas algas
+o musgo) y su fauna en tierra se restringe a aves como skuas y una
+colonia de pingüinos de Adela, con aproximadamente 5000
+ejemplares al SE de la Isla.
+Descripción de la Instalación y puesta en funcionamiento de
+Estación Geofísica Permanente
+Una vez instalados y con las debidas precauciones, se recorrió la
+base en busca de la mejor locación para la instalación de los
+sensores magnético, eléctricos y de gases. Si bien el plan inicial fue
+realizar instalaciones independientes para estos sensores, se
+concluyó que por acceso a energía eléctrica y facilidad de
+mantenimiento se instalarían todos en un mismo lugar, en el
+exterior del Laboratorio Antártico Multidisciplinario en base
+Marambio (LAMBI). La ubicación final de la estación se observa en
+la Figura 1.
+Para este fin, se hizo modificación del diseño original para permitir
+que a un maletín de adquisición se conectaran todos los sensores.
+Como se observa en la Figura 2, se dispusieron en paralelo dos
+sistemas de adquisición alimentados a través de un conversor DC-
+DC de 12V a 5V, cada uno compuesto por:
+Raspberry Pi 3 (CPU)
+Tarjeta de adquisición (hasta 4 canales diferenciales)
+Tarjeta GPS con antena
+Debido a que son 2 sistemas de adquisición independientes, a cada
+uno se le asignó un nombre diferente: MRB3 y MRB4, ambos
+pertenecientes a la red A0. Cada uno tiene capacidad de adquisición
+de hasta 4 canales diferenciales.
+Figura 1. Ubicación Estación Geofísica Permanente en la Base
+Marambio. Compuesta por sistemas de adquisición MRB3 y MRB4.
+Las dos líneas amarillas corresponden a dipolos instalados de
+manera ortogonal, NNE (124m) y EEN (80m).
+Fuente: Fotografía tomada por el Grupo del Laboratorio de
+Instrumentación Geofísica (LIG) del Departamento de Geociencias
+de la Universidad Nacional de Colombia
+Figura 2. Maletín con doble sistema de adquisición, cada uno
+compuesto por Raspberry Pi 3, tarjeta de adquisición y GPS.
+Fuente: Fotografía tomada por el Grupo del Laboratorio de
+Instrumentación Geofísica (LIG) del Departamento de Geociencias
+de la Universidad Nacional de Colombia
+Sensores
+Los sensores usados para la medición de campo magnético y campo
+eléctrico se observan en la Figura 5. Se trata de un magnetómetro
+triaxial Bartington Mag648L de bajo ruido y rango de +-60uT y
+cuatro electrodos de polo a tierra de cobre de 70 cm cada uno. El
+magnetómetro fue enterrado en un agujero excavado a 75 cm de
+profundidad para evitar las drásticas variaciones de temperatura de
+la superficie, mientras los electrodos fueron enterrados por
+percusión a 80 cm de profundidad con su conexión superior
+protegida por silicona para evitar corrosión. Cada electrodo fue
+conectado a un cable de cobre de 1.2 cm de diámetro protegido por
+polímero resistente a temperaturas extremas. La disposición de los 4
+electrodos que conforman los dos dipolos ortogonales NNE (124m)
+y EEN (80m), se observa en la Figura 3.
+Figura 3. Sensores para campo electromagnético. A la izquierda
+electrodo polo a tierra de cobre, a la derecha magnetómetro
+Bartington Mag648L
+Fuente: Fotografía tomada por el Grupo del Laboratorio de
+Instrumentación Geofísica (LIG) del Departamento de Geociencias
+de la Universidad Nacional de Colombia
+Para la medición de gases de efecto invernadero como dióxido de
+carbono y metano, se usaron los sensores MG811 y MQ-4
+respectivamente, cuyo rango de trabajo operacional es 0 a 5 V, con
+una sensibilidad entre 350 a 10.000ppm para el MG811 y de 300 a
+10.000 ppm para el MQ-4. Ambos sensores se observan en la Figura
+4.
+Figura 4. Sensores de medición de gases. A la izquierda el sensor de
+dióxido de carbono (CO2) MG811 y a la izquierda el sensor de
+metano (CH4) MQ-4
+Fuente: Fotografía tomada por el Grupo del Laboratorio de
+Instrumentación Geofísica (LIG) del Departamento de Geociencias
+de la Universidad Nacional de Colombia
+Cada sensor de gas fue instalado en una estructura de J-invertida
+hecha con tubos PVC conectados, de tal manera que el sensor de
+gases quedara protegido adentro y se cree un diferencial de presión
+que permita la circulación de aire a través del sensor. La Figura 5
+muestra la estructura construida y la Figura cómo fue dispuesta
+finalmente.
+Figura 5. Estructura para sensores de gas fabricada en tubo PVC.
+Fuente: Elaborado por el Grupo del Laboratorio de Instrumentación
+Geofísica (LIG) del Departamento de Geociencias de la Universidad
+Nacional de Colombia
+Caja de protección
+Para proteger el maletín, sus conexiones, la batería y regulador de
+carga, todos los elementos de la estación se han ubicado dentro de
+una caja de fibra de vidrio con revestimiento interior de espuma de
+polietileno para aislamiento térmico. Se hizo un agujero en una
+esquina para el ingreso de los cables y posteriormente se
+impermeabilizó con silicona. Las Figuras 6a y 6b muestran el
+exterior y el interior de la caja de protección de la estación geofísica
+permanente, respectivamente.
+Figura 6a. Exterior de la caja de protección de la Estación
+Permanente Geofísica.
+Fuente: Fotografía tomada por el Grupo del Laboratorio de
+Instrumentación Geofísica (LIG) del Departamento de Geociencias
+de la Universidad Nacional de Colombia
+Figura 6b. Interior de la caja de protección de la Estación
+Permanente Geofísica.
+Los cables que conectan a los sensores de gas a los electrodos y al
+magnetómetro Mag648L son llevados hasta el maletín que contiene
+el sistema de adquisición. Especial cuidado se tuvo con el cable
+proveniente de cada uno de los 4 electrodos por su longitud de
+hasta 130 m y su diámetro completo de 3 cm, buena parte fue
+tendido bajo la pasarela que va del LAMBI a depósito (OMEGA)
+para los electrodos Norte (N), Este (E) y Sur (S), mientras que el
+cable del electrodo Oeste (W) fue tendido directamente en el suelo
+y un tramo de 5 metros de éste enterrado para dar lugar al paso de
+vehículos ocasionales sin que haya daños en el cable o en los
+vehículos.
+Los siete (7) canales de información enviada desde Marambio se
+observan en la Tabla 1.
+Tabla 1. Nomenclatura de variables adquiridas por la Estación
+Geofísica Permanente.
+Canal
+Nomenclatura
+Señal
+Sensor
+1
+A0.MRB3.02.HFN
+Campo Magnético N-S
+Mag648L
+2
+A0.MRB3.02.HFE
+Campo Magnético E-W
+Mag648L
+3
+A0.MRB3.02.HFZ
+Campo Magnético Z
+Mag648L
+4
+A0.MRB3.03.CO2
+Dióxido de Carbono
+MG811
+5
+A0.MRB4.01.HQN
+Campo Eléctrico N-S
+Dipolo electrodos cobre
+6
+A0.MRB4.01.HQE
+Campo Eléctrico E-W
+Dipolo electrodos cobre
+7
+A0.MRB4.03.CH4
+Metano
+MQ-4
+Fuente: Elaborado por el Grupo del Laboratorio de Instrumentación
+Geofísica (LIG) del Departamento de Geociencias de la Universidad
+Nacional de Colombia
+Transmisión en tiempo casi real
+La información adquirida por cada estación se envía cada minuto al
+servidor ubicado en el Laboratorio de Instrumentación Geofísica
+(LIG) para su almacenamiento. La Figura 7 muestra el despliegue de
+la información en pantalla del servidor.
+Figura 7. Visor en tiempo real de la Red Sismológica de la
+Universidad Nacional de Colombia (RSUNAL) mostrando 4 de los 7
+canales de información adquiridos en las estaciones MRB3 y MRB4,
+Isla Marambio, Antártica.
+Fuente: Elaborado por el Grupo del Laboratorio de Instrumentación
+Geofísica (LIG) del Departamento de Geociencias de la Universidad
+Nacional de Colombia
+Para actualizar Actividad ir a: h ttp://redsismobogota.unal.edu.co/
+index.php?id=5501.
+Estudio Geofísico en la Pista de Aterrizaje. Ruido Sísmico
+Para la medición del ruido sísmico de la Base Marambio, en la pista
+de aterrizaje y sus alrededores, se usó una estación sismológica
+diseñada en el LIG denominada MRB1. Esta consta de un sistema de
+adquisición con Raspberry Pi 3, tarjeta de adquisición de 24bit y
+una tarjeta GPS para sincronía de tiempo y posición alimentado
+todo con batería de 12 V @ 20 Ah. El sensor conectado es un
+geófono de frecuencia natural 4,5 Hz al que se le diseñó un circuito
+que incrementó el ancho de banda hasta 0,5 Hz mediante
+amplificadores operacionales. En la Figura 8 se observa la estación
+operando en uno de los puntos de adquisición cercanos a la
+plataforma de embarque de la pista de aterrizaje.
+En total se realizaron 67 mediciones de ruido sísmico de 27 minutos
+cada una. Los puntos de medición se observan en la Figura 9.
+Resultados parciales del análisis fueron enviados a personal del
+Ejército de Argentina encargado del mantenimiento de la pista de
+aterrizaje, con el fin de evaluar variaciones elásticas y definir
+arreglos geotécnicos de largo plazo. Aunque los resultados finales
+del trabajo aún se encuentran en etapa de discusión entre los
+equipos de científicos de ambos países, se ha podido establecer alta
+variabilidad de propiedades, posiblemente asociadas a cambios
+laterales en el permafrost, presencia de acuíferos subterráneos o
+fallas geológicas que atravesarían la pista (ver figuras 10 y 11).
+Figura 8. Medición de ruido sísmico en la plataforma de embarque
+de la pista de aterrizaje de la Base Marambio. Se observa el maletín
+de la estación MRB1 y al fondo el geófono triaxial de 4,5 Hz
+Fuente: Elaborado por el Grupo del Laboratorio de Instrumentación
+Geofísica (LIG) del Departamento de Geociencias de la Universidad
+Nacional de Colombia
+Figura 9. Mapa de mediciones de ruido sísmico con la estación
+MRB1.
+Fuente: Elaborado por el Grupo del Laboratorio de Instrumentación
+Geofísica (LIG) del Departamento de Geociencias de la Universidad
+Nacional de Colombia
+Figura 10. Ejemplo de estimación de parámetros elásticos en
+estratos superficiales en la Isla Marambio. Estación MB02. El
+espectro de ruido sísmico ha sido utilizado para invertir valores de
+velocidades de ondas P, S, densidad, espesores de 7 capas, y datos
+de atenuación (Qp y Qs). En este caso, el ajuste entre datos
+observados (línea negra en el espectro) y modelo de ajuste (línea
+roja) es muy buena.
+Figura 11.
+Perfil Vp a lo largo de la pista de aterrizaje. Obsérvese la gran
+irregular del basamento de la capa activa. Anomalías de Vp en el
+sector occidental podrían corresponder a acuíferos subterráneos.
+Fuente: Elaborado por el Grupo del Laboratorio de Instrumentación
+Geofísica (LIG) del Departamento de Geociencias de la Universidad
+Nacional de Colombia.
+Trabajo Futuro
+Los datos que actualmente se adquieren por la Estación Geofísica
+Permanente permitirán análisis a largo plazo sobre la variabilidad
+de la resistividad del subsuelo asociados a condiciones climáticas de
+la zona y/o perturbaciones tectónicas regionales. Por ahora, los
+equipos científicos de ambos países buscan que la estación adquiera
+datos para establecer líneas base de comportamiento de
+resistividad, y gases de efecto invernadero.

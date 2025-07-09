@@ -1,0 +1,131 @@
+﻿
+
+
+
+
+
+Report of the Intersessional Contact Group on Information Exchange and the Environmental Aspects and Impacts of Tourism
+
+
+
+
+
+
+
+
+
+Report of the Intersessional Contact Group
+on Information Exchange and the Environmental Aspects and Impacts of Tourism
+
+1.0 Summary
+
+This report summarises the outcome of discussions in the Intersessional Contact Group on Information Exchange and the Environmental Aspects and Impacts of Tourism.  Participants included: Australia, France, New Zealand, the United States of America, the Antarctic Treaty Secretariat, IAATO, and the World Meteorological Organisation.  The report includes recommendations and a draft Decision revising Resolution 6 (2001).
+
+2.0 Introduction
+
+At its XXXVth meeting, the ATCM agreed to:
+
+“establish an Intersessional Contact Group (ICG) for the purposes of ensuring that the ATCM has readily available to it a more complete picture of tourism activities in Antarctica and to facilitate regular assessments of the potential and actual environmental impacts at visited sites, with the objective of identifying the items of information that are required for management purposes, with the following terms of reference:
+
+a. Clearly articulate the questions that need to be answered to address the objectives stated above, consider whether existing data and information sources address those questions, and identify what information or data need to be collected and shared to answer those questions. These questions will inform a more efficient and effective design of the EIES; and
+
+b. Report back to the ATCM on a summary of findings.”
+
+It was also agreed that New Zealand would act as convenor and would report back to ATCM XXXVI on the progress made in the ICG.
+
+3.0 Background on Information Exchange in the Antarctic Treaty System
+
+New Zealand has submitted a separate Information Paper which provides an overview of ATCM Decisions and Resolutions relating to information exchange.  A version of this paper was circulated in the ICG to provide background on Parties’ obligations and to facilitate discussion on information exchange for improved management of Antarctic tourism and non-governmental activities.
+
+4.0 Discussions of the Intersessional Contact Group
+
+4.1 Existing Data and Information Sources and Collection and Sharing of Data
+
+The ICG considered a number of questions relating to existing data and information sources and the collection and sharing of data.
+
+4.1.1. Post-Visit Report Forms
+
+A fundamental question discussed was whether information collected in post-visit reports (PVRs) was relevant to improved tourism management, and whether this information should be the basis of a central database of tourism activities and visitor sites.  Several Parties noted that annual information was generally more complete and more relevant than pre-season reporting.  There was general agreement that Parties would have a good sense of the size and spread of Antarctic tourism through consistent exchange of PVR information.  The ICG also acknowledged that more complete and more accurate entry of data into the EIES would be required for the EIES to develop as a database from which Parties could draw high quality information to inform management decisions.
+
+The ICG considered what could be learned from IAATO’s experience in collecting and processing PVRs.  IAATO reported that it had faced some initial teething problems relating to different names or misspellings of landing sites, but these had been largely resolved through the use of drop down menus.  IAATO advised that key things to consider when reviewing PVRs were ensuring completeness, and double-checking the accuracy of: times listed (correctly in UTC); geographical coordinates; the number of participants; and the type of activity.
+
+4.1.2. EIES Search Functions and Data Aggregate Capability
+
+The Secretariat drew the ICG’s attention to improvements made with the PVR Excel spread-sheets to simplify Parties’ role of uploading PVRs to the EIES.  The Secretariat also highlighted the “summarized report” function as an example of a search tool already available through the EIES.  Other ideas raised in this context included: functionality to aggregate and review data at a regional scale; agreeing a list of activities in order to be able to review activity specific data; functionality to compare periods of site visits with sensitive periods in the life cycle of birds or mammals in the area; and the ability to record “touristic visits” by national programme personnel in the EIES.  The ICG noted in principle support for the further development of the search functions and data aggregate capability in the EIES, following consultation with the Secretariat on technical limitations and financial implications.  
+
+4.1.3. Visitor Site Descriptions
+
+The ICG acknowledged the 367 sites of tourism activity in Antarctica reported in the CEP Tourism Study and considered the categories of information that might be collected as the ATCM develops a database of visitor sites.  Suggestions included: site boundaries; description of topography and ground type; flora/fauna species present; historic/scientific values present; known impacts; constructions/installations; and any management information.  It is possible that the CEP’s advice on the development of a site sensitivity assessment methodology (following on from Recommendation 3 of the CEP Tourism Study) may also inform what information on sites should be presented in the database.
+
+4.2. Identifying the Items of Information Required for Management Purposes
+
+4.2.1. Improved Information Exchange and Monitoring Trends in Antarctic Tourism
+
+The ICG considered how improved information exchange could facilitate discussion of four of the top five issues of priority concern identified by Parties in the 2011/12 ICG on “Outstanding Questions” on Antarctic Tourism (see WP 27 at ATCM XXXV).  These issues were diversification (Question J); expansion (Question H); cumulative impacts (Question G); and information exchange implementation/compliance (Question D).
+
+4.2.2. Diversification of Tourism Activities
+
+The ICG discussed the possibility of selecting from a list of tourism activities in the annual information section of the EIES.  This would create greater consistency in reporting and help the EIES build data on trends in the diversification of tourism activities.  There was general support for the concept of developing a drop-down menu of activities, consistent with the drop-down menu of 22 activities in the PVR forms.  It was acknowledged that Parties should consider adding to this list of activities, based on the outcomes of parallel discussions on the diversification of tourism activities in the informal contact group led by the Netherlands.  Participants highlighted the importance of retaining the ability to add new categories of activities to the list and the ability to write a short description of the activity.  It was also noted that by agreeing on the categorisation of activities for exchange of information purposes, Parties should not give the appearance of endorsing all the activities on the list.  
+
+4.2.3. Expansion of Tourism Activities
+
+The ICG discussed the potential development of a tool in the EIES to search for all activities within known geographical coordinates.  Such a tool would allow Parties to review all activities within a certain distance of a research station, a science field event, or a penguin colony.  Participants agreed that the development of such a function would be desirable, and the Secretariat should be further consulted on the technical and financial implications of undertaking such work.  If the ATCM agreed that the work was desirable and feasible, a Decision would be required to make mandatory the exchange of information on the latitude and longitude of activities in the Non-Governmental Expeditions – Ship-based Operations section. 
+
+4.2.4. Cumulative Impacts at Visitor Sites
+
+The ICG discussed a possible technical amendment to the EIES to allow for searches of the annual information for one site over a number of years.  This would give Parties the ability to examine levels and trends of activity at any site of interest when considering cumulative impacts.  Participants considered that this technical fix would be welcome, provided that there were no significant financial implications.  A related proposal to make the submission of landing times mandatory for the purpose of analysis was seen as creating some difficulty due to the use of different time zones by different operators.
+
+4.2.5. Information Exchange Compliance/Implementation
+
+The ICG discussed the possibility of the Secretariat being tasked to lead a workshop at the ATCM on the required use of the EIES and on its capabilities.  It was noted that the other functions explored by the ICG were reliant on good implementation of information exchange requirements, and such a workshop would help improve the institutional memory of the ATCM and the awareness of competent authorities.  It was suggested that some of the time of the Legal and Institutional Working Group could be set aside for this purpose.  There was general support for exploring this concept further in discussion at ATCM XXXVI.
+
+5.0 Recommendations
+
+The ICG recommends that the ATCM:
+
+(i) adopt Decision XX (2013) amending the exchange of information requirements set out in Resolution 6 (2001) to include (i) “type of activity” in Non-Governmental Expeditions – Ship-based Operations and (ii) a list of tourism activities from which Parties could select one or more when reporting on activities;
+
+(ii) discuss whether the list of tourism activities should be limited to the 22 activities currently included in post-visit report forms, or expanded to include other activities discussed in the ICG on the diversification of tourism activities;
+
+(iii) task the Secretariat to report on the technical and financial implications of developing the following capabilities in the EIES:
+
+    a) a drop down menu of activities in the EIES to correspond with that in post-visit report forms;
+    b) a tool to search all reported activities within known geographical coordinates in the Summarized Report section of the EIES;
+    c) a search of all annual information at one site over a number of years in the Summarized Report section of the EIES; and
+
+(iv) agree to a trial workshop on the EIES to be led by the Secretariat for one hour at ATCM XXXVII.
+
+Attachment A
+Draft Decision XX (2013)
+The Representatives, 
+
+Recalling Article III (1)a and Article VII(5) of the Antarctic Treaty; 
+
+Conscious of the obligations within the Protocol on Environmental Protection to the Antarctic Treaty and its Annexes to exchange information; 
+
+Conscious also of Recommendation VIII-6 and other commitments that the Parties have made with respect to keeping each other informed by regular or occasional exchanges; 
+
+Desiring to ensure that the exchange of information between the Parties is conducted in the most efficient and timely way; 
+
+Further Recalling Resolution 6 (2005) which recommended the use of a revised standard Post Visit Site Report Form for Tourism and Non-Governmental Activities in Antarctica;
+
+Reaffirming Decision 4 (2012) which made mandatory the use of the Electronic Information Exchange System for Parties to fulfil their information exchange obligations under the Antarctic Treaty and its Environmental Protocol and specified that Parties shall continue to work with the Antarctic Treaty Secretariat to refine and improve the EIES;
+
+Desiring to update Resolution 6 (2001) on information exchange to ensure consistent reporting of types of tourist activity for both ship-based and land-based operations;
+
+decide to: 
+
+1. strengthen the exchange of information in accordance with Appendix 4 of the ATCM XXIV Final Report with the addition of (i) “type of activity” in Non-Governmental Expeditions – Ship-based Operations requirements and (ii) a list of 22 activities from which Parties can select one or more for reporting in annual information;
+
+2. provide this information to the EIES and as a general principle, make that information publicly available;
+
+3. expand the list of tourism activities included in post-visit report forms, by adding other activities identified by the ATCM;
+
+4. task the Secretariat to report to ATCM XXXVII on its ability to develop the following capabilities in the EIES within existing budgetary baselines:
+
+    a) a drop down menu of activities in the EIES to correspond with that in post-visit report forms;
+    b) a tool to search all reported activities within known geographical coordinates in the Summarized Report section of the EIES;
+    c) a search of all annual information at one site over a number of years in the Summarized Report section of the EIES; and
+
+5. hold a workshop at ATCM XXXVII on the EIES to be led by the Secretariat, without increasing existing budgetary baselines.
+

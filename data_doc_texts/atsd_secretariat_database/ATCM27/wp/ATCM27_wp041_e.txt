@@ -1,0 +1,203 @@
+﻿
+
+
+
+
+
+
+
+REPORT OF THE XXVI ATCM INTERSESSIONAL CONTACT GROUP ON THE DEVELOPMENT OF A DATABASE ON TOURISM AND NON-GOVERNMENT ACTIVITIES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report of the XXVI ATCM Intersessional Contact Group on the Development of a Database on Tourism and Non-government Activities
+
+At XXVI ATCM it was agreed that an Intersessional Contact Group (ICG) should examine the development of an Antarctic Treaty System database on non-government activities.  The terms of reference for the ICG were to:
+
+    • Define the specific information that a database on non-government activities would be needed to provide.
+    • Examine the capacity of existing data sources and databases to provide the information needed, and identify any gaps in the information currently available.
+    • Determine whether and how a prototype database could be developed.
+    • Report back to the next XXVII ATCM or to the Group of Experts on Tourism in 2004.
+
+The meeting agreed that it was important to encourage the full participation of Parties in the ICG, and that IAATO, COMNAP and SCAR be invited to join the ICG because of their expertise in developing database.  Representatives from Argentina, Australia, Germany, New Zealand, Sweden, the United Kingdom, the United States of America, COMNAP and IAATO participated on the ICG.  
+
+Consultations between members of the ICG were undertaken primarily by email.  A copy of the work plan adopted by the ICG to address the terms of reference is provided in Appendix 1.  
+
+Following is a report on the action taken and the findings made by the ICG in addressing its terms of reference.  
+
+
+TERMS OF REFERENCE – 1
+
+Define the specific information that a database on non-government activities would be needed to provide.
+
+In October 2003 key stakeholders including IAATO, COMNAP, SCAR and members of this ICG were asked to respond to two questions relating to information currently collected by the ATCM on tourism and non-Government activities.  These questions were:
+    1. Is this information necessary/useful? 
+    2. Is there other information that could/should be collected?
+
+Responses to these questions and to other issues associated with the development of a database were received from various members of the ICG, including IAATO.  A summary of the responses received follows. 
+Question 1. Is this information necessary/useful?
+
+Respondents indicated that they considered all of the information that is currently collected on non-government activities to be necessary and useful.  It is therefore recommended that this information is continued to be collected.
+
+Question 2. Is there other information that could/should be collected?
+
+Stakeholders suggested that the following additional information be collected on non-government activities:
+    • the email address of tour companies;
+    • information on EIAs, such as the title of the EIA, its authors, and a national contact point where a copy of the EIA could be obtained; and
+    • use of GPS transmitter receivers to collect real time information on ships’ positions.
+
+
+TERMS OF REFERENCE - 2
+
+Examine the capacity of existing data sources and databases to provide the information needed, and identify any gaps in the information currently available.
+
+The ICG identified a number of data sources and databases containing information on non-government activities.  These included:
+
+NSF / IAATO – The National Science Foundation (NSF) has for many years collected comprehensive data on non-government expeditions in Antarctica.  With the assistance of IAATO it has collated data from post-visit reports submitted by tour operators and prepared reports for consideration by ATCM and other interested bodies.  IAATO has also collected data and produced reports on tourist activities that are not necessarily included in the post visit site reports.
+
+The source data are mainly in the form of paper reports or excel documents.  Consequently, this historical information cannot be easily/readily accessed in its present form.  If this information is to be accessed from a database it will need to be transferred into a suitable electronic format.  As these data will provide essential information on tourism activity in Antarctica over the last ten years the ICG recommends that resources be allocated for this task.   
+
+IAATO Database – IAATO has developed a database on tourism and non-government activities.  IAATO has advised that all aspects of Antarctic tourism will be incorporated into the database including data from site sensitivities, IAATO site guideline information, ship categories relative to site information, vessel information for emergency contingency planning, lists of equipment on each of its vessels, and many other aspects.  
+
+IAATO provided the ICG with a table detailing the structure of its database.  On the basis of the information provided it appears that this database would be capable of providing much of the information needed on non-government activities.  If a decision was made by ATCM to proceed with an Antarctic Treaty database further work would be required to ensure its compatibility with the IAATO database in order to take advantage of their potentially extensive data-set and data collection/quality control processes.   
+
+National Programs – National Antarctic programs hold a range of data on non-government activities.  The type of information and the format in which these data are held varies from program to program.  This includes information collected to meet information exchange requirements and information collected for environmental impact assessments.  The data held by National Programs could provide the required information but a mechanism would be required to collate the information and to make it accessible from a database. 
+
+Info Antarctica  - The Infoantarctica web site has been established by the Argentine Government to provide a central repository for information exchanged by Parties in accordance with their obligations under the Antarctic Treaty and Madrid Protocol.  Consequently, this site should provide all the information on non-government activities that Parties are obliged to exchange.  A number of Parties have however failed to submit their reports to this site, or alternatively provide a link to where this information can be obtained, so the information is not complete. 
+
+Another consideration in relation to this information is that it is not held in a database, so the information cannot be readily consolidated and interpreted.  
+
+Madrid Protocol’s Information Exchange Requirements – This information is a subset of the information provided to Infoantarctica.  Refer to the comments above.
+
+INFUETUR (Antarctic Division of the Tourism Agency of Tierra del Fuego).  Since 1992-93 INFUETUR has collected post visit report information on all tourist operations through the port of Ushuaia. INFUETUR has agreed to make these data available for incorporation into other databases.  It must be noted that this information overlaps the data collected by IAATO.  Having both datasets will provide for checks and redundancy and processes would need to be put in place to manage and check possible discrepancies between the two.  
+
+In summary, the information required on non-government activities is available from a range of sources; however there are gaps in relation to the accessibility of these data, as much of it are not available in electronic format.
+
+The ICG recommends that the ATCM allocate resources to the Antarctic Treaty Secretariat to allow it to collate information on past non-government expeditions so that it may be incorporated into an electronic database. This would allow efficient analysis of data on past non-government expeditions.  
+
+
+TERMS OF REFERENCE - 3
+
+Determine whether and how a prototype database could be developed.
+
+In responding to the second terms of reference for the ICG it became evident that there is a need for information on non-government activities to be accessible from an electronic database.  Without such a facility it will not be possible to efficiently analyse the information collected on non-government activities in order to make informed management decisions.
+
+In determining how a prototype database could be developed the ICG identified the following features that it recommends are included in the functional design of the database.  These features are:
+
+Access – The functional design of the database should allow the administrator to restrict users’ access depending on the needs/responsibilities of the users.  Protocols should be agreed on the level of information that the various categories of users have access to.  
+
+Complement existing mechanisms and recycle/reuse data – The database should be designed to allow the import and export of data.  This would allow it to complement and recycle/reuse data; importing data already available within the Antarctic Treaty system as well as exporting data to other systems.  For example it could provide data for State of the Environment Reporting (SAER). It could also make use of, and update, SCAR’s Composite Gazetteer.    
+
+Compliance – Incentives could be provided (both positive and negative) to ensure that data are submitted on time and in the required format.  One approach could be to make it a condition of the environmental impact assessment process that relevant reports are provided.  An alternative approach could be to make the system more efficient than existing systems so that users prefer to use it e.g. using the same data for multiple purposes so that the operators only have to submit the data once.  It could also provide additional functionality to use the data for various value-added uses, an additional incentive to submit the data.  Both approaches may be necessary to ensure that data are submitted on time and in the agreed format.
+
+Comprehensive - The forms that have been used in the past for reporting on non-government activities have tended to focus on ship-based tourism activities.  The database should be designed with all types of tourism and non-government activities in mind. It should be sufficiently flexible to accommodate ship-based activities (including ships that do not land people in Antarctica), air based activities (including overflights), and land-based activities, while being clear about what information is sought for each category, e.g. do not present to a ship-operator the fields specific to aircraft operators.   
+
+Duplication – It is highly desirable that duplication of data entry is avoided.  Not only does this consume additional resources it also increases the likelihood that data will not be submitted and increases the risk of errors in data entry.
+
+Functionality – The functionality of the database could be expanded with the use of other tools/software.  For example, linking the database to the Antarctic Biodiversity Database would allow reports to be produced which could correlate visits to the reproduction cycles of species found at individual sites.  The inclusion of GIS tools would allow all activities undertaken within a specific distance of a location or site to be identified, etc.  
+
+Identification of sites where activities are undertaken – In the past the incorrect naming of locations visited has been a common error in post-visit reports requiring extensive follow-up action.  One solution to this problem may be to place greater emphasis on locations geo-referenced with latitudes and longitudes, through a gazetteer (strictly defined place names), direct use of latitude and longitude values or a combination of both.  
+
+One benefit of this approach would be that greater accuracy could be obtained when numerous sites are visited in one location. It would also allow more accurate recording of activities undertaken in areas, rather than specific locations.    
+
+Another benefit would be the potential to use a variety of tools to assist with entering the location data, from graphical maps to automatic suggestions of sites close to the previous site visited.  It would also assist with data checking and validation by providing route plots, etc.  It should be noted that these benefits and tools would also become very useful for later data interpretation and visualisation.  
+
+There may also be a benefit in using SCAR’s Composite Gazetteer to identify place names as it allows multiple place names for individual sites.  The database could be linked to the Gazetteer and provide a means of updating it, e.g. by providing the colloquial names of places that may not yet be in the SCAR Gazetteer. 
+
+Maintenance of database – Agreement is required on who will be responsible for maintenance of the database (or for components of it).  Adequate resources must be available to enable it to operate effectively.
+
+Management tool – The database should be designed as a management tool that accomplishes multiple functions.  That is it should have the ability to link activities to related data.  The inclusion of monitoring data, post-visit reports, site guidelines, activity guidelines, contingency plans and permit approvals would allow the database to be used for more than just collecting data to identify sites visited and where environmental impacts may be occurring, e.g. it could be used as an educative tool for tourists; as an operational tool for managers when identifying possible interactions with other operators; or for coordinating search and rescue activities.  
+
+Quality control – A well designed database can assist in maintaining the quality of data submitted.  Features should be built into the system to ensure that an appropriate level of quality control is maintained.  For example, the format for dates could be pre-determined by using pull down menus rather than free text boxes.  Also, as noted before, a series of value-added uses of the database could be used as a positive incentive for providing quality data.  
+
+Security – Users submitting data to the database should be registered and provided with a password in order to maintain the security of information in the database.  Password access would also allow the administrator of the database to determine who should be allowed access to specific datasets / reports, in accordance with guidelines set out by the ATCM.  Information that is available to the general public should be freely accessible and users should not need to be registered to gain access to this. 
+
+Submission and retrieval of data - The database should accommodate users’ requirements for access from remote locations, for example those operating in the field.  This could be achieved by allowing components of the database to be downloaded onto PCs.  Data that have been collected on the PCs could then be transferred to the database at the end of the season, or when the expedition returns to port.  Standalone programs on those PCs could also exchange data with the main database via email.  
+
+Validation – There must be adequate validation of the data submitted to ensure that the database contains accurate information (or acknowledgement given where data have not been verified so such data can be used/assessed accordingly).  Agreement should be reached on who will be responsible for verification of specific datasets, e.g. national authorities, industry bodies, or the Secretariat. As noted above, if the database is designed appropriately it should reduce the need for a high level of validation, for example the use of pick-lists can improve validation, as well as providing a quicker method of entering data and the provision of value-added uses can motivate users at the source to enter quality data.  
+  
+
+The Australian Antarctic Division has provided resources for the development of a prototype database, incorporating the functional criteria identified above.  The database can be accessed from the following URL http://aadc-maps.aad.gov.au/aadc/nga/index.cfm .     
+
+IAATO has also developed a database on non-government activities; however, the database was not at a stage at which it could be tested by the ICG to determine if it would meet the design criteria identified by the ICG.  Secondly, no assurance could be given that access to this database would be made available to the ATCM or Treaty Parties, as IAATO has not yet made a decision in this regard.  In any case, IAATO cannot be expected to develop and maintain a database whose scope and functionality extends beyond its members’ activities and needs.  
+
+But IAATO’s extensive datasets and data validation work are recognised and could certainly be leveraged by making it possible for IAATO’s database to feed into a database developed by the ATCM.  If IAATO agrees to provide access to the information in their database, further work would be required to ensure its compatibility with the prototype database developed by the Australian Antarctic Division, or alternatively with any other database established by the ATCM.
+
+
+TERMS OF REFERENCE - 4
+
+Report back to the next XXVII ATCM or to the Group of Experts on Tourism in 2004.
+
+Following are the key findings/recommendations of the ICG, presented for consideration by the Meeting of Experts.  
+
+The ICG asks the Meeting of Experts to note that:
+
+    1. The information collected on non-government activities in accordance with Antarctic Treaty requirements is available from a range of sources but is not readily accessible.
+    2. Were this information available in an electronic database it could be analysed more efficiently.
+    3. Electronic databases have been developed by the Australian Antarctic Division and IAATO.
+
+The ICG recommends that:
+
+    4. ATCM establishes an electronic database on tourism and non-government activities taking into consideration the work already undertaken in this regard by the Australian Antarctic Division and IAATO;
+    5. The information currently collected on non-government activities continues to be collected; and that consideration be given to collecting additional information such as:
+    • email addresses of tour companies;
+    • information on EIAs, such as the title of the EIA, its authors, and a national contact point where a copy of the EIA could be obtained; and
+    • real-time information on ships’ positions through the use of GPS transmitter receivers.
+    6. ATCM allocate resources to the Antarctic Treaty Secretariat to allow it to collate information on past non-government expeditions so that it may be incorporated into an electronic database.
+    7. The features identified for an efficient database (Terms of Reference 3 relates) be incorporated into the functional design of any database established by ATCM on tourism and non-government activities.
+
+Appendix 1
+
+
+Work Plan for the ATCM XXVI ICG on the 
+Development of a Database on Tourism and Non-government Activities
+
+
+Tasks to be Undertaken
+Completion By
+1.	Identify existing data sources and databases and the format of these.
+29 August 2003
+2.	Research applications used for similar databases.
+12 September 2003
+3.	Identify information that is currently collected on NGA.
+26 September 2003
+4.	Liaise with the custodians of existing data sources and databases and seek their agreement/support for protocols for data capture.
+26 October 2003
+5.	Develop the functional design of the database.
+31 October 2003
+6.	Survey stakeholders to determine if the information that is currently collected is appropriate, or if additional information should be sought.
+31 October 2003
+
+7.	Design reporting templates.
+31 October 2003
+8.	Identify any gaps in the information currently collected, taking into account the input received from the survey of stakeholders.
+14 November 2003
+9.	Report to other members of the ICG on the outcome of the survey and seek their comments on any recommendations made.
+28 November 2003
+10.	Load existing data into the database.
+28 November 2003
+11.	Undertake testing of the database by members of the ICG.
+19 December 2003
+12.	Collate information and prepare a report for the Meeting of Experts.
+6 January 2003
+13.	Seek comment from ICG members on the draft report.
+6 February 2004
+14.	Forward the Final Report to the Convenors of the Meeting of Experts.
+20 February 2004
+15.	Present the Final Report to the Meeting of Experts.
+March 2004
+

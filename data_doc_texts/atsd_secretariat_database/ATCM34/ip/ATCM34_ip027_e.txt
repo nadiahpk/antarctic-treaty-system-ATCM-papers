@@ -1,0 +1,43 @@
+﻿
+
+
+
+
+
+Progress Report on the Research Project ‘Whale Monitoring Antarctica’
+
+
+
+
+
+
+Progress Report on the Research Project 
+‘Whale Monitoring Antarctica’ 
+1. Introduction
+Data on the occurrence, distribution and abundance of cetacean species provide vital information for any conservation discussion, whether it includes setting conservation targets or evaluating impacts of activities on the Antarctic environment, especially under the EIA provisions of Annex I of the Environmental Protocol. Targeted research has already been suggested in several papers (e.g. ATCM XXIX WP41 SCAR Report on Marine Acoustics and the Southern Ocean), but the lack of knowledge constitutes an obstacle if it comes to evaluation processes. 
+2. The Research Project
+In 2008 a Memorandum of Understanding (MoU) was signed between the Alfred Wegener Institute for Polar and Marine Research (AWI) and the German Federal Environment Agency (UBA) to promote systematic collection and analysis of scientific data to create an accepted common ground for determining and assessing the impacts of sound on marine life (particular marine mammals) according to the current state of science and especially in preparation of future permits to the Act Implementing the Protocol on Environmental Protection of 4 October 1991 to the Antarctic Treaty. The starting point of the cooperation under the MoU was the research project “Whale Monitoring Antarctica” funded by a grant from UBA in 2008. It has the common goal to enhance the understanding of occurrence, distribution and abundance of Antarctic whales and to provide reliable data and information to identify and assess the impact of sound on these whales. Its main objectives are to improve the base-line data needed for decisions in management and conservation and to develop a new monitoring tool to support visual whale observations. 
+The research project consists of two major components: On the one hand information on occurrence, distribution and abundance of cetaceans are recorded and analysed. Additionally, response behaviour of cetaceans towards vessels in Antarctic waters is investigated by behavioural observations (conducted by Forschungs- und Technologiezentrum Westküste, Büsum, Germany). On the other hand new technologies should be developed to support visual mitigation measures as commonly requested by competent authorities when evaluating the impacts of underwater sound. Additionally an ecological model will be developed to assess the distribution and habitat use of marine mammals in Antarctic waters (conducted by AWI, Bremerhaven, Germany).
+So far the project covered three Antarctic summer seasons from December 2008 until February 2011 and will continue until 2013. For more information see the publication list at the end of the paper or contact the German Federal Environment Agency (CEP-contactpoint@uba.de).
+3. Methods and preliminary results
+3.1 Distance Sampling Survey 
+Distance sampling surveys were conducted from two different platforms (aerial survey using helicopters and shipboard survey using the crow’s nest as observer platform).
+So far, surveys were conducted in two seasons (2008/2009 and 2010/2011). They covered 28,647 aerial-km and 2,400 shipboard-km, recording more than 900 sighted cetaceans (724 helicopter- and 199 ship-based sightings). 
+Taking additional data from previous expeditions into account a preliminary detection function for aerial surveys has been calculated for three of the great whales, which allowed establishing an effective strip half-width of 1,112 m. This function is based on sightings of humpback, fin and minke whales. For these species densities on a local level will be calculated accordingly.
+A systematic aerial line-transect survey was conducted at the western side of the Antarctic Peninsula in 2010/2011. For this area distribution patterns and density of some cetacean species will be estimated in the course of the analysis.
+3.2 Habitat Suitability Model 
+The remoteness and demanding environmental conditions of the Southern Ocean pose a major obstacle to improvement of base-line data concerning distribution, density and abundance of cetaceans. Statistic modelling is used for some years already to reduce uncertainties caused by lack of data, however few models exist so far for cetaceans in partly ice covered waters like those of Antarctica. Recently developed statistical models are expected to facilitate extrapolation of presence-only data sets on both local and basin scales. Opportunistic whale sightings have been recorded by the nautical crew of the RV Polarstern since 2005. This data will be linked on the one hand side to ship data and on the other hand side to satellite-borne environmental proxy data to develop a habitat suitability model. So far depth and ice concentration have been analysed with regard to whale encounter probability. Further environmental proxies are currently being tested with regard to their relevance in the description of species specific habitats.
+3.3 Automated whale detection based on thermal imaging
+A 360° infrared scanner (funded by the German Federal Ministry of Education and Research (BMBF)) is used to detect the thermal signature of whale blows, which are – at higher latitudes – significantly warmer than the surrounding environment. The system has been operated during two expeditions to the Southern Ocean and was able to detect and track whales within the ship’s vicinity up to 5 km. 
+A first automated whale blow detection algorithm has been developed and tested successfully. It auto-detected 145 whale blows in the Antarctic Season 2010/2011. Each auto-detection triggered an alarm, so that an observer could verify the detection and identify the species. Furthermore a visual camera system was linked to the IR-sensor and automatically acquired close-ups of the animals detected facilitating retrospective species identification.
+3.4 Tracking
+In order to investigate potential behaviour response of whales towards the survey vessel, whale movements were tracked as long as possible while the ship passed by a sighting. Traditionally binoculars were used to follow the track of detected animals. However, the newly developed detection system based on thermal imaging showed potential to provide additional tracking data. 
+Visual “tracking” is only possible under perfect weather conditions with winds of less than 3 Beaufort, good visibility (clear horizon), a low swell and no ice breaking activity of the ship. As these conditions are only rarely met, only 20 visual tracks could be carried out by now. IR based video footage allows retrospective “tracking” under less favourable weather conditions, as the sensor is stabilized against the ship’s motion. Preliminary analyses of a subset of the available data provided 18 tracks and showed promising results also at wind forces higher than 3 Beaufort.
+The low sample sizes did so far not allow for the establishment of a significant relation between whale behaviour and activities of the survey vessel.
+4. Next Steps
+The analysis of the data is ongoing until the end of 2013. Further data will be collected using all methods in the next Antarctic summer season (2011/2012). The combined distance sampling data records of three expeditions will allow for the determination of a robust distance sampling detection function for both observation platforms (including the corresponding effective strip width) and therefore provide us with local densities for cetaceans. The thermal imager will be further developed, giving priority to the development of the autodetection algorithm and its testing under different environmental conditions. A habitat model will be developed and tested. 
+Eventually the different monitoring methods will be compared and evaluated. 
+Germany will present an update of the results of the research project at the next ATCM/CEP meeting in 2012. 
+5. Publications
+
+

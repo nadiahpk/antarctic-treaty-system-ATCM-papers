@@ -1,0 +1,1536 @@
+ 
+__________________________________________________________________ 
+ATCM XXV 
+Warsaw  Poland 
+10-20 September 2002 
+ 
+ 
+ 
+COMNAP Report to XXV 
+COMNAP Report to XXV ATCM 
+ATCM   
+ 
+ 
+ 
+_____________________________________________________________________________________ 
+ 
+ 
+CONTENTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNUAL COMNAP MEETINGS AND EVENTS 
+1-3 
+ 
+ATCM/CEP RELATED TASKS 
+• 
+“Worst Case” and “Less that Worst Case” Environmental Scenarios 
+4-5 
+• 
+Assessment of Environmental Incidents Arising from Activities in Antarctica 
+6-7 
+• 
+Best Practice to Avoid Waste Water Disposal onto Ice-free Ground at Inland Stations 
+8-9 
+• 
+An Analysis of Initial Environmental Evaluations (IEEs) 
+10-11  
+• 
+The Interaction Between National Operators, Tourists and Tourism Operators 
+12-14 
+• 
+Proposed Antarctic Shipping Guidelines 
+15-16 
+ 
+OTHER ACTIVITIES AND DEVELOPMENTS 
+• 
+Sub-glacial Lakes Exploration 
+17 
+• 
+Antarctic Master Directory 
+18-19 
+• 
+Ship Position Reporting System (SPRS) 
+20-21 
+• 
+Antarctic Medical Standards 
+22-23 
+ 
+COMNAP INFORMATION SYSTEMS 
+24-28 
+ 
+ATTACHMENTS 
+ 
+ 
+ 
+Annex A: 
+Web-based “Environmental Incident Reporting System” (EIRS) 
+Annex B: 
+Information on the Web-based “Ship Position Reporting System” (SPRS) 
+Annex C: 
+Sample SPRS Report 
+Annex D: 
+Web Site Publications page 
+Annex E: 
+COMNAP Members Web-based Information Facilities 
+Annex F: 
+COMNAP Committees, Working Groups & Networks 
+ 
+ 
+ 
+2
+ 
+ 
+ANNUAL COMNAP MEETINGS AND EVENTS 
+ 
+1. 
+COMNAP has held two annual meetings since the St Petersburg ATCM XXIV in July 2001.  The 
+XIII COMNAP meeting was held in Amsterdam on 21-24 August 2001 at the headquarters of The 
+Netherlands Academy of Science and the XIV COMNAP meeting was held in Shanghai on 15-19 July 
+2002 at the downtown Exhibition Centre.  In accordance with established practice, COMNAP held its 
+Shanghai meeting in conjunction with the XXVII SCAR meeting.  The SCAR Executive continues to 
+meet in conjunction with the COMNAP “odd year” meetings (2001in Amsterdam) and this arrangement 
+facilitates joint COMNAP/SCAR Executive meetings and helps consolidate ongoing cooperation between 
+the Antarctic scientific and program management communities. 
+ 
+2. 
+The Tenth SCALOP “Symposium on Antarctic Logistics and Operations” was held over two days 
+during the Shanghai COMNAP meeting.  In keeping with past practice, a Technical Exhibition was 
+staged in parallel with the Symposium allowing the participation of suppliers of Antarctic-related goods 
+and services.  Some 14 papers and 27 poster presentations were given at the Symposium.  The key topics 
+focussed on: 
+• 
+Antarctic Medical Support and Standards; 
+• 
+Selection and Recruitment Procedures; 
+• 
+Proven Technologies and Equipment for Field Camps and Intra-continental Air Networks 
+(including Waste Management); 
+• 
+Recent Advances in Solid and Liquid Waste Management; 
+• 
+Alternative / Sustainable Energy; and 
+• 
+Shipping in Antarctic Waters. 
+ 
+3. 
+The XV COMNAP meeting will be held in Brest, France on 8-11 July 2003.  Following the 
+recent implementation of structural changes in SCAR, the SCAR working group meetings and delegates 
+meeting will be held approximately three months apart in future rather than “back to back” over a two-
+week period.  To ensure continuing liaison between COMNAP and SCAR, the “even year” COMNAP 
+meetings will be held in parallel with the SCAR one-week working group meetings.  Thus the XVI 
+COMNAP meeting will be held with the XXVIII SCAR meeting in Bremen on 26-30 July 2004. 
+ 
+ 
+ATCM/CEP RELATED TASKS 
+ 
+“Worst Case” and “Less that Worst Case” Environmental Scenarios 
+ 
+4. 
+The XXIV ATCM in St Petersburg requested “COMNAP, in consultation with SCAR, to provide 
+the following information in respect of national program operations, for the purpose of establishing limits 
+on financial liability, compensation, and insurability. 
+(a) “Worst case scenarios” for land-based and sea-based environmental emergencies in the 
+Antarctic Treaty Area including the probability of occurrence and estimated cost for 
+responses action; 
+(b) For the purposes of illustration, a range of scenarios less than worst case that might result 
+in environmental impacts, including probability of occurrence and estimated cost of 
+response actions; 
+(c) Scenarios similar to those in (a) and (b) for which response action would not be 
+possible.” 
+ 
+3
+5. 
+COMNAP’s response is provided in a Working Paper to XXV ATCM that postulates a sea-based 
+environmental disaster as the “worst case” scenario. Fourteen “less than worst case” scenarios are 
+provided from an earlier COMNAP Working Paper (XXIII ATCM/WP14) of which six are identified 
+where primary response actions would not be possible.  The paper notes the difficulty of estimating the 
+probabilities and costs of incidents because of the relatively short history of Antarctic activities.  
+Furthermore risk assessment for actuarial purposes is not within COMNAP’s area of competence. 
+Nevertheless COMNAP will provide to the XXVI ATCM in Madrid with an additional paper of historical 
+data on accidents that may assist in this process. 
+ 
+ 
+Assessment of Environmental Incidents Arising from Activities in Antarctica 
+ 
+6. 
+In order to assist the ATCM in its deliberations on developing a Liability Annex to the 
+Environmental Protocol, COMNAP was asked to prepare and present a paper to XXIII ATCM in Lima 
+(June 1999) on an assessment of environmental incidents arising from activities in Antarctic.  An update 
+of this paper was subsequently presented at XII SATCM in The Hague (September 2000).  At the XXIV 
+ATCM in St Petersburg COMNAP was again requested to provide an updated paper to the XXV ATCM 
+in Warsaw. 
+ 
+7. 
+The earlier two COMNAP papers were collated manually from data on incidents that was 
+collected from national operators. In the case of the latest Working Paper it was decided to develop and 
+implement a web-based process (password protected) that would enable national programs to enter details 
+of incidents in a prescribed format and the process of extracting statistical reports was automated.  An 
+extract from the web page on the new “Environmental Incident Reporting System” (EIRS) is given in 
+Annex A to this report.  The Working Paper provided to XXV ATCM includes copies of the latest 
+statistical reports downloaded from the web site.  The EIRS enables national operators to enter details of 
+incidents soon after they have occurred updated statistical reports available within an hour of data input. 
+ 
+ 
+Best Practice to Avoid Wastewater Disposal onto Ice-free Ground at Inland Stations 
+ 
+8. 
+An Inspection Report tabled at CEP IV in St Petersburg noted that several inland stations were 
+discharging wastewater onto ice-free ground, which contravenes the provisions of Annex III of the 
+Environmental Protocol.  The meeting asked COMNAP to “provide advice on how best practice might 
+meet the requirements of the Waste Management Annex”. 
+ 
+9. 
+COMNAP has provided XXV ATCM with an Information Paper that summarises the results of a 
+survey of national programs to determine current wastewater disposal practices.  The survey indicated 
+that national programs use a wide variety of wastewater treatment systems including technologies that can 
+produce effluent of drinking water quality although such systems have not yet been applied to inland 
+stations on ice-free ground.  There are a number of technological developments that would have the 
+potential to complement existing wastewater disposal practices. 
+ 
+An Analysis of Initial Environmental Evaluations (IEEs) 
+ 
+10. 
+COMNAP presented a Working Paper at CEP IV (XXIVATCM/WP20) on a proposed process to 
+for analysing IEEs prepared for various Antarctic activities.  The activities selected were scientific core 
+ice-drilling, station living facilities and fuel storage facilities.  The analysis was to be undertaken on 
+behalf of COMNAP by its “Antarctic Environmental Officers Network” (AEON).  COMNAP has 
+submitted an Information Paper to CEP V summarising the outcomes of this work. 
+ 
+ 
+4
+11. 
+The IEEs for bulk storage facilities were rated as being the most complete by the review team, 
+followed by scientific core ice-drilling and station living facilities.  With respect to the sample of IEEs 
+examined it was concluded that some aspects of the IEE process were being done very well while other 
+aspects could be improved.  It was noted that those IEEs prepared since 1999 all ranked at least an 
+“acceptable” average total ranking.  COMNAP intends (through AEON) to continue its work on the 
+practical aspects of the EIA process with a view towards contributing to a future second edition of the 
+ATCM “EIA Guidelines”. 
+ 
+ 
+The Interaction Between National Operators, Tourists and Tourism Operators 
+ 
+12. 
+In view of the proposed discussion on tourism matters at the XXV ATCM, COMNAP has 
+submitted and Information Paper based on the results of a members survey on the “Interaction between 
+National Operators, Tourists and Tourism Operators”.  During the 2001/2002 season, some 9,300 tourists 
+visited Antarctic stations.  Three stations, all in the Peninsula region, had 20 or more visits by tourists 
+whereas four stations were visited only once.  A typical tourist visit to a station lasted three hours with an 
+average of 67 persons per visit.  It is noted that some national programs are using tourist operations to 
+supplement their logistics operations, albeit usually on a small scale. 
+ 
+13. 
+It is noted that contacts at a practical level, as demonstrated in the survey, between national 
+operators and the portion of the tourist industry represented by IAATO, function in a very satisfactory 
+way, largely because COMNAP and IAATO coordinate and exchange information with each other as 
+they prepare and plan for the upcoming Antarctic season.  
+ 
+14. 
+COMNAP notes two issues of concern to national operators.  Firstly, adventure tourism usually 
+involves a high safety risk but low environmental impact and cannot usually be regulated under the 
+domestic legal environmental frameworks that Parties have enacted to implement the requirements of the 
+Madrid Protocol.  This can result in inadequate contingency planning or lack of insurance to reimburse 
+national operators for emergency search and rescue costs.  Secondly, with moves to increase inter-
+continental air access to Antarctica there is a risk that this may open up more opportunities for air-based 
+tourist activities. 
+ 
+ 
+Proposed Antarctic Shipping Guidelines 
+ 
+15. 
+A report on the “Antarctic Treaty Meeting of Experts on Guidelines for Antarctic Shipping and 
+Related Activities” hosted in London in April 2000 was presented by the United Kingdom to XXIV 
+ATCM in St Petersburg.  The UK noted that the International Maritime Organsisation (IMO) was still to 
+complete its consideration of a draft “Arctic shipping Guidelines” but the ATCM had already agreed to 
+develop guidelines for Antarctic shipping.  The UK agreed to further progress consideration of the 
+proposed “Antarctic Shipping Guidelines” by consulting on various issues with COMNAP, IAATO and 
+other interested bodies. 
+ 
+16. 
+COMNAP has submitted an Information Paper to XXV ATCM outlining its response to the 
+various questions raised in correspondence by the UK.  The basis for COMNAP’s response was with 
+reference to the version of the IMO’s “Arctic Shipping Guidelines” that was available in January 2002.  
+The COMNAP paper provides some background notes on the history of the proposed polar shipping 
+guidelines and suggest possible amendments to the draft “Arctic shipping Guidelines” that could 
+accommodate the needs of an “Antarctic shipping Guidelines”. 
+ 
+ 
+5
+OTHER ACTIVITIES AND DEVELOPMENTS 
+ 
+Sub-glacial Lakes Exploration 
+ 
+17. 
+  COMNAP I taking an active interest in the work currently being undertaken under the auspices 
+of the SCAR Group of Specialists on Sub-glacial Lakes Exploration (SALE).  A number of national 
+programs are expressing keen interest in contributing specialist expertise on particular aspects of the work 
+and others are evaluating the technologies that may be applicable to ensuring that penetration of the lakes 
+is environmentally sound.  COMNAP will continue to monitor progress and seek facilitate international 
+partnerships for logistics and technical support, as appropriate. 
+ 
+ 
+Antarctic Master Directory 
+ 
+18. 
+At the Tokyo meeting of the Joint COMNAP/SCAR Executives in July 2000, it was agreed that 
+COMNAP and SCAR would contribute a total of US$40,000 per year for two years to support the 
+development of the Antarctic Master Directory (AMD) as a sub-directory of the NASA Global Change 
+Master Directory (GCMD).  The COMNAP/SCAR Joint Committee on Antarctic Data Management 
+(JCADM) undertook to progress this work in conjunction with the GCMD. 
+  
+19. 
+At the recent meeting of the Joint COMNAP/SCAR Executives in Shanghai (July 2002) JCADM 
+briefed the committee on the progress achieved to date and confirmed that development of the system was 
+essentially complete.  JCADM requested that US$20,000 per annum was needed to continue adding 
+metadata entries to the site and maintaining the system.  This request is currently being evaluated by 
+SCAR and COMNAP. 
+ 
+ 
+Ship Position Reporting System (SPRS) 
+ 
+20. 
+In 2001 COMNAP developed a web-based (password protected) system that permits vessels to 
+advise their position, heading by email to a site address and this data is automatically logged on the web 
+site.  This “Ship Position Reporting System” (SPRS) was implemented just prior to the 2001/2002 season 
+with six national programs participating in the system.  The design of the SPRS is consistent with the 
+International Maritime Organisation’s guidelines for ship reporting systems.  Access to the processed 
+information generated on the site is restricted to COMNAP member agencies and national maritime safety 
+authorities that have responsibility for Search and Rescue operations in Antarctic waters 
+ 
+21. 
+At the Shanghai meeting, COMNAP agreed any vessel operating in Antarctic waters (including 
+IAATO vessels) would be permitted to enter their position information on the site however such third 
+party users would not be able to access the SPRS processed data on ship locations.  This policy is 
+consistent with other international ship reporting systems.  Information on the SPRS (as appearing on the 
+COMNAP web site) is given in Annex B. A sample SPRS report format is given at Annex C. 
+ 
+ 
+Antarctic Medical Standards 
+ 
+22. 
+As a result of enhanced logistics capability there is an increasing degree movement of scientists 
+and support personnel between national programs.  Often this transfer of personnel occurs at relatively 
+short notice when personnel are already deployed in Antarctica.  In view of this increased mobility of 
+personnel, there is a need to have a better understanding of the medical screening standards that are 
+applied by each program. 
+ 
+ 
+6
+23. 
+During the last year a survey of medical standards was undertaken and the results are being 
+circulated to COMNAP member agencies.  An ad hoc working group of members has been formed to 
+evaluate the results of the survey and determine what steps should be taken.  It has been suggested that a 
+network be formed of operators and Antarctic medical practitioners to progress further work in this area. 
+ 
+COMNAP INFORMATION SYSTEMS 
+ 
+24. 
+During the last five years COMNAP has moved to communication systems that are almost totally 
+email or web site based.  The only “hard copy” paperwork distributed to members are the annual 
+amendments to the “Antarctic Flight Information Manual” (AFIM) which is produced in a standard 
+format used by the aviation industry.   
+ 
+25. 
+Email communications are in the form of either “Notices”, “Messages” or “Newsletters”.   
+“Notices” are used where there is an ACTION required by members by a specific date.   “Messages” 
+provide information to members on COMNAP related activities but do not necessarily require an 
+ACTION.   “Newsletters” are typically issued one or two times per month and largely depend on the 
+receipt of news items from members.  The number of Notices, Messages and Newsletters issued during 
+recent years are given in the table below. 
+ 
+ 
+1997 
+1998 
+1999 
+2000 
+2001 
+Notices 
+15 
+16 
+17 
+8 
+6 
+Messages 
+6 
+23 
+36 
+31 
+28 
+Newsletters 
+- 
+18 
+22 
+22 
+21 
+ 
+26. 
+The COMNAP web site has undergone considerable development during the last five years and 
+now provides members with various inter-active systems and a vast amount of reference information.  
+Approximately 1,700 documents, 190 views and 70 forms are contained on the site. The site’s 
+Publications page (Annex D) provides copies of various COMNAP and ATCM documents that are 
+available to the general public for downloading.  
+ 
+27. 
+A copy of the “Members” page of the web site is provided at Annex E and illustrates the range of 
+facilities available that include: 
+ 
+• 
+The “Antarctic Telecommunications Operators Manual” (ATOM); 
+• 
+A concise version of ATOM known as MiniAtom; 
+• 
+Advance exchange of Operational Information; 
+• 
+Papers for Upcoming Meetings; 
+• 
+Papers from Past Meetings; 
+• 
+Notices, Messages and Newsletters; 
+• 
+The “Antarctic Environmental Officers Network” (AEON) page; 
+• 
+“Accidents, Incidents and Near Miss Reporting” (AINMR) System; 
+• 
+“Environmental Incident Reporting System” (EIRS); and 
+• 
+“Ship Position Reporting System” (SPRS). 
+ 
+28. 
+During the next twelve months it is intended to develop a page for COMNAP’s “Energy 
+Management Network” (ENMANET) that will incorporate information on alternative energy systems 
+used at various stations throughout Antarctica.  The web site will undoubtedly continue to evolve to meet 
+the needs of members and inform the general public about Antarctic and national program activities. 
+ 
+Annex A
+Annex A  
+  
+  
+  
+  
+  
+  
+  
+Information on the Web
+Information on the Web-- based
+based   
+“Environmental Incident Reporting System”
+“Environmental Incident Reporting System”  
+(EIRS)
+(EIRS)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+This Environmental Incident Reporting System has been developed to provide both the
+Antarctic Treaty Consultative Meetings (ATCMs) and its Committee on Environmental
+Protection (CEP) with up-to-date information on incidents that have occurred in
+Antarctica since 1989 that may have resulted in environmental harm. The principal aim
+of this data collection is to facilitate an assessment of the risks of environmental
+emergencies arising in Antarctica in connection with scientific and operational activities.
+The data also provides valuable input to assist discussions on developing the proposed
+Liability Annex of the Madrid Protocol.
+Each Antarctic program is requested to advise the COMNAP Secretariat of the person
+who has been authorised to complete and submit Environmental Incident Reports. All
+reports should be submitted within two weeks of the incident occurring, so that the
+database and statistics are kept as up-to-date as possible.
+How to submit an Environmental Incident Report
+Updating or removing an Environmental Incident Report
+Downloading the data summary reports
+Further background
+How to submit an Environmental Incident Report
+Access to the Environmental Incident Reporting System is available using a COMNAP
+EIRS password. You can request a password, which will be sent to your COMNAP
+liaison.
+You can log in to the EIRS from the initial COMNAP Members page. You must close
+and reopen your browser before logging in for the EIRS password to be used.
+Member Countries
+Stations and Bases
+Operations 
+Science
+Meteorology
+Aviation
+Shipping
+Marine Navigation
+Environment
+About COMNAP 
+Overview
+Contact
+Organisation
+Representatives
+Procedures
+Publications
+Networks
+Committees
+Working Groups
+Meetings
+Glossary and Links
+Images
+Logged in as
+COMNAP - Environmental Incident Reporting System
+file:///C|/A Active/Comnap/ATCM Mtg/COMNAP - Environmental Incident Reporting System.htm (1 of 3) [8/13/2002 8:16:07 PM]
+Updating or removing an Environmental Incident Report
+You can update an Environmental Incident Report after logging in using your EIRS
+password. Past reports you have submitted will be listed in date order. Click on an entry
+to view its details and add or update information.
+To remove an Environmental Incident Report, you will need to contact the COMNAP
+Executive Secretary.
+Downloading the data summary reports
+There are two views of data stored in the Environmental Incident Reporting System:
+Download Table 1: EIRS Summary as a PDF
+Updated on 5 July 2002.
+(this may take a few moments)
+ 
+Detailed information on environmental incidents occurring since 1 November
+1999 recorded in the COMNAP EIRS database (landscape format).
+G   
+OR
+Download Statistics on Environmental Incidents as a PDF
+Table 2: Cumulative since 1989 or Table 3: Annual since 1999
+Updated on 5 July 2002.
+(this may take a few minutes)
+ 
+Summary statistics on environmental incidents since January 1989 and incidents
+since 1 November 1999 recorded in the COMNAP EIRS database, presented in a
+format comparable with the COMNAP working papers submitted to the
+ATCMs/CEPs in 1999 and 2000.
+G   
+It can be viewed using the free Adobe® Acrobat® Reader. If you do not have a copy of
+Acrobat Reader installed on your computer, you can download a free copy from the
+Adobe Web site.
+Further background
+The first request for Environmental Incident data was made to COMNAP under
+Resolution 6 of the Tromso ATCM XXII in 1998. COMNAP Notice 175 was
+subsequently issued to collect relevant data from national programs and the COMNAP's
+Working Group on Monitoring the Liability Annex (MOLIBA) prepared a working
+paper. This working paper, XXIII ATCM/WP16, was submitted to the Lima meetings
+of the ATCM and CEP in May 1999.
+The Lima ATCM/CEP requested COMNAP to provide an updated paper to the 2000
+ATCM. COMNAP Notice 201 sought updated information from national operators and
+a revised paper, XII SATCM/WP5, was submitted to The Hague ATCM/CEP in
+September 2000.
+The 2001 ATCM XXIV/CEP meetings in St Petersburg requested that the data again be
+updated and provided to the 2002 ATCM XXV/CEP in Warsaw. In view of the ongoing
+AQ/View/COMNAP
+Your COMNAP liaison
+Mr Jack Sayers
+(jsayers@comnap.aq)
+COMNAP - Environmental Incident Reporting System
+file:///C|/A Active/Comnap/ATCM Mtg/COMNAP - Environmental Incident Reporting System.htm (2 of 3) [8/13/2002 8:16:07 PM]
+need for up-to-date information by the Antarctic Treaty System, MOLIBA requested that
+a web page be developed that would enable national operators to enter data on
+environmental incidents as they occur. Thus the data would be automatically updated to
+provide summary reports to the ATCM/CEP upon request. In addition, the reports will
+provide national operators with information that can assist in developing operational
+strategies to enhance environmental protection and efficiency.
+Copyright © 1998-2002 COMNAP Secretariat
+Site by Human Solutions; graphics by Interpretive Graphics
+9 August 2002 - http://www.comnap.aq/
+ 
+COMNAP - Environmental Incident Reporting System
+file:///C|/A Active/Comnap/ATCM Mtg/COMNAP - Environmental Incident Reporting System.htm (3 of 3) [8/13/2002 8:16:07 PM]
+Annex B
+Annex B  
+  
+  
+  
+  
+  
+  
+  
+Information on the Web
+Information on the Web-- based
+based   
+“Ship Position Reporting System” 
+“Ship Position Reporting System”   
+(SPRS)
+(SPRS)  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Information on vessel positions is available in the eight Geographic Reporting Zones
+(GRZs):
+GRZ 1 (0°E - 45°E)
+GRZ 2 (45°E - 90°E)
+GRZ 3 (90°E - 135°E)
+GRZ 4 (135°E - 180°)
+GRZ 5 (180° - 135°W)
+GRZ 6 (135°W - 90°W)
+GRZ 7 (90°W - 45°W)
+GRZ 8 (45°W - 0°)
+Further details on the Ship Position Reporting System are discussed below:
+How it works
+How it works
+Participating vessels are provided with an email address, data format and password for
+making updates.
+When they wish to update their position (generally once a day), they send an email using
+a format which includes the MMSI of the vessel (as a unique identifier), a password (for
+authentication), and the current latitude and longitude of the vessel.
+This email is received by a server which processes the information, and if it uses the
+Member Countries
+Stations and Bases
+Operations 
+Science
+Meteorology
+Aviation
+Shipping
+Marine Navigation
+Environment
+About COMNAP 
+Overview
+Contact
+Organisation
+Representatives
+Procedures
+Publications
+Networks
+Committees
+Working Groups
+Meetings
+Glossary and Links
+Images
+Logged in as
+COMNAP - Ship Position Reporting System
+file:///C|/A Active/Comnap/ATCM Mtg/COMNAP - Ship Position Reporting System.htm (1 of 2) [8/13/2002 8:23:28 PM]
+correct format and matches the password on file, updates the coordinates displayed on
+the public site. If the format is incorrect, a reply is sent to the sender with details of the
+correct format.
+After the update is made, the COMNAP liaison for the vessel's operator is sent a
+confirmation email with details of the changes.
+The vessels are then grouped by GRZ, and mapping software dynamically plots the
+position of the vessels on the appropriate map for display on the site. Maps include a
+timestamp to ensure that the most recent version is used.
+AQ/View/COMNAP
+Your COMNAP liaison
+Mr Jack Sayers
+(jsayers@comnap.aq)
+Copyright © 1998-2002 COMNAP Secretariat
+Site by Human Solutions; graphics by Interpretive Graphics
+9 August 2002 - http://www.comnap.aq/
+ 
+COMNAP - Ship Position Reporting System
+file:///C|/A Active/Comnap/ATCM Mtg/COMNAP - Ship Position Reporting System.htm (2 of 2) [8/13/2002 8:23:28 PM]
+Annex C
+Annex C  
+  
+  
+  
+  
+  
+  
+  
+Sample
+Sample  
+“Ship Position Reporting System” (SPRS) 
+“Ship Position Reporting System” (SPRS)   
+Report
+Report  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Information on vessels and stations currently operating in GRZ 7 is provided below (locations marked with a * 
+are north of 60°S or south of 80°S). 
+< GRZ 6
+GRZ 7
+GRZ 8 >
+Member
+Stations
+Operati
+Environ
+About C
+Glossar
+Images
+Logged 
+AQ/View/
+ 
+Your CO
+Mr Jack S
+(jsayers@
+ 
+Page 1 of 3
+COMNAP - Ship Position Reporting System - GRZ 7
+13/08/02
+mhtml:file://C:\A%20Active\Comnap\ATCM%20Mtg\COMNAP%20-%20Ship%20Positio...
+  
+Click on the name of a station or vessel to see further information, including communication details. 
+Please read the important notes on the main SPRS page which detail limitations in the data provided through 
+the system. 
+ 
+ 
+ 
+ 
+Stations
+Base Jubany
+* 62°14'S
+58°40'W
+Teniente Luis Carvajal
+67°45'0"S
+68°54'0"W
+ZHF 45
+Rothera Research Station
+67°34'10"S
+68°07'12"W
+LTQ2
+Base San Martin
+68°07'47"S
+67°06'12"W
+EM1U
+Akademik Vernadsky Station
+65°14'43"S
+64°15'24"W
+Palmer Station
+64°46'30"S
+64°03'04"W
+CEF 219
+Sub Base Yelcho
+64°52'0"S
+63°35'0"W
+Base Melchior
+64°20'0"S
+62°59'0"W
+Base Brown
+64°54'0"S
+62°52'0"W
+Presidente Gabriel Gonzalez Vidiez
+64°49'0"S
+62°52'0"W
+Base Primavera
+64°09'0"S
+60°57'50"W
+Base Decepción
+62°52'0"S
+60°43'0"W
+Gabriel de Castilla Station
+62°58'51"S
+60°40'30"W
+AMV21
+Juan Carlos I Station
+62°39'46"S
+60°23'20"W
+St Kliment Ohridiski Station
+62°38'29"S
+60°21'53"W
+Matienzo Antarctic Base
+64°50'0"S
+60°07'0"W
+Cámara Base
+62°36'0"S
+59°54'0"W
+CCZ
+Naval Antarctica Arturo Prat
+62°30'0"S
+59°41'0"W
+CEF 216
+Luis Risopatron
+62°22'0"S
+59°40'0"W
+CAN 6D
+Presidente Eduardo Frei Montalva
+62°12'0"S
+58°57'51"W
+Professor Julio Escudero
+62°12'4"S
+58°57'45"W
+Great Wall Station
+62°12'59"S
+58°57'44"W
+UGE 2
+Bellingshausen
+62°11'47"S
+58°57'39"W
+Base Cientifica Antárctica Artigas
+62°11'04"S
+58°54'09"W
+Julio Ripamonti
+62°12'4"S
+58°53'8"W
+HL8KSJ
+King Sejong Station
+62°13'24"S
+58°47'21"W
+Dallmann Laboratory
+62°14'0"S
+58°40'0"W
+Machu Picchu Station
+62°05'29.6"S
+58°28'16.4"W
+PWZ-84
+Estação Antartica Comandante Ferraz
+62°05'0"S
+58°23'28"W
+Vicente
+62°8'0"S
+58°22'0"W
+General Bernado O'Higgins
+63°19'15"S
+57°54'01"W
+LTQ
+Base Esperanza
+63°23'42"S
+56°59'46"W
+Marambio Antarctic Station
+64°14'42"S
+56°39'25"W
+Petrel Base
+63°28'0"S
+56°17'0"W
+Signy Station
+60°43'0"S
+45°36'0"W
+ 
+Vessels
+WCX7445
+Laurence M Gould
+* 52°30'54"S
+069°36'06"W
+ 
+20011116T002629Z
+ 
+Page 2 of 3
+COMNAP - Ship Position Reporting System - GRZ 7
+13/08/02
+mhtml:file://C:\A%20Active\Comnap\ATCM%20Mtg\COMNAP%20-%20Ship%20Positio...
+ 
+ 
+WBP3210
+RV Nathaniel B Palmer
+62°08'00"S
+059°40'00"W
+ 
+20011116T002628Z
+NE 
+62°09'34"S
+58°28'15"W
+ 
+ 
+ZDLS1
+Royal Research Ship Ernest Shackleton
+* 52°35'00"S 
+50°29'00"W
+ 
+20020410T092456Z
+290 
+ZDLP
+Royal Research Ship James Clark Ross
+* 54°35'0"S
+50°06'0"W
+ 
+20020422T094150Z
+ 
+Copyright © 1998-2002 COMNAP Secretariat  
+Site by Human Solutions; graphics by Interpretive Graphics 
+9 August 2002 - http://www.comnap.aq/  
+ 
+Page 3 of 3
+COMNAP - Ship Position Reporting System - GRZ 7
+13/08/02
+mhtml:file://C:\A%20Active\Comnap\ATCM%20Mtg\COMNAP%20-%20Ship%20Positio...
+Annex D
+Annex D  
+  
+  
+  
+  
+  
+  
+  
+COMNAP Web Site Publications Page
+COMNAP Web Site Publications Page  
+ 
+ 
+ 
+ 
+ 
+Many of the documents available for download on this page are in Adobe Acrobat format 
+(PDF). You can download a free copy of the Adobe Acrobat Reader from Adobe by clicking 
+the icon below: 
+ 
+ 
+ 
+ 
+COMNAP Guidelines 
+Guidelines are developed by COMNAP's working groups with the aim of assisting national 
+operators implementing common procedures and practices to enhance operational 
+effectiveness and safety.  
+ 
+  Get Acrobat Reader 
+Download a free copy.
+COMNAP Guidelines 
+Manuals and Handbooks 
+Symposia Proceedings 
+Workshop Proceedings 
+AEON Reports 
+Reports to ATCM 
+ATCM Reference Documents 
+Other Related Publications 
+  
+Guidelines for Oil Spill Contingency Planning (1992) 
+(PDF: 85 KB / 19 pages) 
+ 
+  
+Recommended Procedures for Fuel Oil Transfer at Stations and 
+Bases (1992) 
+(PDF: 52 KB / 4 pages) 
+ 
+  
+Recommendations for Spill Prevention and Containment of Fuel at 
+Stations and Bases (1992) 
+(PDF: 54 KB / 4 pages) 
+ 
+  
+Guidelines for the Reporting of Oil Spill Incidents which Occur in 
+Antarctica (1993) 
+(PDF: 59 KB / 5 pages) 
+  
+Guidelines for Advance Exchange of Operational Information on 
+Antarctic Activities (revised 1999) 
+(PDF: 32 KB / 8 pages) 
+ 
+Guidelines for Advance Exchange of Operational Information on 
+Antarctic Activities (revised 1999) 
+Member Countries 
+Stations and Bases 
+Operations 
+ 
+Environment 
+About COMNAP 
+ 
+Glossary and Links 
+Images 
+Page 1 of 5
+COMNAP - About COMNAP - Publications
+21/08/02
+http://www.comnap.aq/comnap/comnap.nsf/P/Pages/About.Publications/?Open
+Manuals and Handbooks 
+COMNAP publishes and maintains an Antarctic Flight Information Manual (AFIM) and an 
+Antarctic Telecommunications Operators Manual (ATOM) that contain detailed operational 
+information for the use of national operators and other authorised personnel. These 
+documents are not available for download on the public site; members may download ATOM 
+once logged in. 
+ 
+In addition COMNAP publish handbooks, from time to time, that provide national operators 
+with guidance in specialist fields of activity. Some of these publications may be produced by, 
+or in conjunction with other Antarctic organisations. 
+ 
+ 
+ 
+ 
+l
+Part One - pages 1 to 29 
+(PDF: 4.02 MB / 42 pages) 
+  
+l
+Part Two - pages 30 to 38 
+(PDF: 7.47 MB / 9 pages) 
+  
+l
+Part Three - pages 39 to 50 
+(PDF: 6.19 MB / 12 pages) 
+  
+l
+Part Four - pages 51 to 113 
+(PDF: 3.39 MB / 63 pages) 
+  
+l
+Part Five - pages 114 to 123 
+(PDF: 4.53 MB / 10 pages) 
+  
+l
+Part Six - pages 124 to 138 
+(PDF: 5.28 MB / 15 pages) 
+  
+l
+Part Seven - pages 139 to 154 
+(PDF: 6.17 MB / 16 pages) 
+  
+l
+Part Eight - pages 155 to 230 
+(PDF: 4.65 MB / 76 pages) 
+  
+l
+Part Nine - pages 231 to 312 
+(PDF: 5.51 MB / 82 pages) 
+  
+l
+Part Ten - pages 313 to 427 
+(PDF: 3.63 MB / 115 pages) 
+  
+l
+Part Eleven - pages 428 to 512 
+(PDF: 4.40 MB / 85 pages) 
+  
+l
+Part Twelve - pages 513 to 691 
+(PDF: 3.59 MB / 179 pages) 
+  
+(RTF: 638 KB / 9 pages) 
+ 
+  
+Visitors' Guide to the Antarctic (1995) 
+(PDF: 55 KB / 2 pages) 
+ 
+  
+Antarctic Environmental Monitoring Handbook (June 2000) 
+(PDF: 1.2 MB / 218 pages) 
+ 
+  
+International Antarctic Weather Forecasting Handbook (Version 1.1, 
+August 2000) 
+(PDF: 58.8 MB / 691 pages / 12 parts)
+Page 2 of 5
+COMNAP - About COMNAP - Publications
+21/08/02
+http://www.comnap.aq/comnap/comnap.nsf/P/Pages/About.Publications/?Open
+Symposia Proceedings 
+COMNAP's Standing Committee on Antarctic Operations and Logistics (SCALOP) are now 
+held every two years in conjunction with annual meetings of COMNAP. The proceedings 
+have been prepared and published by the host members ever since the Fourth Symposium 
+was held in Brazil during 1990. The general public cannot purchase copies of the proceeding 
+but reference copies are usually held in the libraries of COMNAP member agencies. 
+Proceedings have been published for the following Symposia: 
+ 
+l
+Fourth Symposium - Sao Paulo, Brazil, 1990  
+l
+Fifth Symposium - Bariloche, Argentina, 1992  
+l
+Sixth Symposium - Rome, Italy, 1994  
+l
+Seventh Symposium - Cambridge, UK, 1996  
+l
+Eighth Symposium - Concepcion, Chile, 1998  
+l
+Ninth Symposium - Tokyo, Japan, 2000  
+ 
+Workshop Proceedings 
+Workshops are convened to consider specific topics of current interest and priority. The 
+proceedings are usually prepared and published by the host national operating agency. 
+Workshops held by COMNAP and SCALOP include: 
+ 
+l
+Environmental Impact Assessment Workshop (Bologna, Italy, 1991)  
+l
+Oversnow Traverse Workshop (Washington DC, USA, 1994)  
+l
+Air Transport Networks Workshop (Washington DC, USA, 1995)  
+l
+East Antarctic Air Network Workshop (Tokyo, Japan, 1998) 
+ 
+At ATCM XVIII, in April 1994, COMNAP and SCAR offered to convene workshops to 
+address the environmental monitoring requirements specified in the Madrid Protocol. Two 
+workshops were convened: 
+ 
+l
+Workshop on the Prioritisation of Impacts and the Development of Monitoring 
+Options (Oslo, Norway, October 1995)  
+l
+Workshop on the Practical Design and Implementation of Environmental Monitoring 
+Programs (College Station, Texas, USA, March 1996) 
+ 
+A report on the proceedings and outcomes of the workshops were published and are available 
+for download. 
+ 
+AEON Reports 
+The Antarctic Environmental Officers Network (AEON) was established in 1996 
+and undertakes specific tasks on behalf of COMNAP. The following reports and proceedings 
+have been produced by AEON: 
+ 
+ 
+  
+Report on Monitoring of Environmental Impacts from Science and 
+Operations in Antarctica (July 1996) 
+(PDF: 559 KB / 135 pages) 
+  
+AEON Workshop Report on Environmental Monitoring and 
+Environmental Impact Assessment (September 1999) 
+(PDF: 1.89 MB / 65 pages)
+Page 3 of 5
+COMNAP - About COMNAP - Publications
+21/08/02
+http://www.comnap.aq/comnap/comnap.nsf/P/Pages/About.Publications/?Open
+ 
+The Summary of Environmental Monitoring Activities in Antarctica provides information on 
+environmental monitoring (human impact, publications, baseline pollution) of member 
+countries. 
+ 
+It is available in two versions: 
+ 
+l
+Current version 
+Updated on 20 March 2002. 
+(this may take a minute or two) 
+  
+This version is automatically updated when the AEON representatives of member 
+countries change their information on the site. 
+ 
+l
+Archive version 
+Published in May 1998. 
+  
+This version was published (ISBN 0-478-10952-0) in May 1998. 
+ 
+Reports to ATCM 
+COMNAP has presented annual reports to the Antarctic Treaty Consultative Meetings since 
+its participation at XVI ATCM in 1991. In accordance with Recommendation XIII-2 an 
+agenda item on "Operations of the Antarctic Treaty System: Reports" is regularly included in 
+the ATCM agenda.  
+ 
+In addition, COMNAP prepares working and information papers in response to specific 
+requests, decisions or resolutions of the ATCMs. National operators have collected vast 
+databases of information on all aspects of Antarctic operations that may be used to assist 
+policy formulation. 
+ATCM Reference Documents 
+Other Related Publications 
+A N Fowler (2000). COMNAP: The National Managers in Antarctica. American Literary 
+Press, Baltimore, Maryland, USA (165 pages). 
+ISBN 1561676195. 
+ 
+  
+Protocol on Environment Protection to the Antarctic Treaty (Madrid 
+Protocol) 
+(PDF: 87 KB / 23 pages) 
+ 
+  
+Guidelines For Antarctic Protected Areas 
+(PDF: 70 KB / 19 pages) 
+ 
+ 
+  
+Environmental Impact Assessment in Antarctica (English) 
+(PDF: 90 KB / 24 pages) 
+ 
+  
+Environmental Impact Assessment in Antarctica (French) 
+(PDF: 110 KB / 28 pages) 
+ 
+  
+Environmental Impact Assessment in Antarctica (Spanish) 
+(PDF: 97 KB / 29 pages) 
+ 
+Page 4 of 5
+COMNAP - About COMNAP - Publications
+21/08/02
+http://www.comnap.aq/comnap/comnap.nsf/P/Pages/About.Publications/?Open
+ 
+Purchase information can be obtained from amerlit@erols.com. 
+ 
+This book is also available at amazon.com and Barnes and Noble. 
+ 
+Copyright © 1998-2002 COMNAP Secretariat  
+Site by Human Solutions; graphics by Interpretive Graphics 
+21 August 2002 - http://www.comnap.aq/  
+ 
+Page 5 of 5
+COMNAP - About COMNAP - Publications
+21/08/02
+http://www.comnap.aq/comnap/comnap.nsf/P/Pages/About.Publications/?Open
+Annex E
+Annex E  
+  
+  
+  
+  
+  
+  
+  
+COMNAP Members
+COMNAP Members  
+Web
+Web-- based Information Facilities
+based Information Facilities   
+  
+  
+  
+  
+ 
+The following sites are available to authorised individuals working for the Antarctic 
+organisations of COMNAP member nations: 
+ 
+ 
+  
+A username and password are required to access these sites, which are only available to the 
+Antarctic organisations of COMNAP member nations. You can request a password, or 
+contact COMNAP for assistance. 
+  
+General information about COMNAP, including COMNAP representatives, rules and 
+procedures, and upcoming meetings, is available under the About COMNAP section of the 
+site. 
+ 
+ 
+ 
+ 
+ 
+View
+Edit/Post
+National program information
+View
+Edit
+Station details
+View
+Edit
+ATOM
+View
+Edit
+MiniATOM
+View
+Edit
+ 
+Advance Exchange of Information
+View
+Post
+Upcoming COMNAP meeting papers
+View
+Post
+Upcoming ATCM meeting papers
+View
+-
+Papers from past meetings
+View
+-
+Notices, Messages and Newsletters
+View
+-
+Download COMNAP logos
+View
+-
+ 
+AEON
+View
+Edit 
+Discuss
+ 
+AINMR
+AINMR
+AINMR
+EIRS
+View
+EIRS
+SPRS
+View
+Edit
+Member Countries 
+Stations and Bases 
+Operations 
+ 
+Environment 
+About COMNAP 
+ 
+Glossary and Links 
+Images 
+Copyright © 1998-2002 COMNAP Secretariat  
+Site by Human Solutions; graphics by Interpretive Graphics 
+21 August 2002 - http://www.comnap.aq/  
+ 
+Page 1 of 1
+COMNAP - Members
+21/08/02
+http://www.comnap.aq/comnap/comnap.nsf/P/Pages/Members/?Open
+Annex F
+Annex F  
+  
+  
+  
+  
+  
+  
+  
+COMNAP Committees, Working Groups & Networks
+COMNAP Committees, Working Groups & Networks  
+  
+ 
+COMNAP Objectives
+COMNAP Objectives   
+ 
+• 
+To review, on a regular basis, operational matters and to facilitate regular exchanges of 
+information; 
+• 
+to examine, discuss and seek possible solutions to common operational problems; 
+• 
+to provide a forum for discussion in order to frame in a timely, efficient and harmonious manner; 
+o responses to common issues directed to Antarctic Operators, in particular requests from 
+and Recommendations of the ATCM, and 
+o appropriate input to SCAR responses to questions involving science and 
+operations/logistics; and 
+• 
+to provide, in conjunction with the Scientific Committee on Antarctic Research (SCAR), the 
+appropriate forum for discussions on international collaboration in operations and logistics. 
+ 
+ 
+ 
+COMNAP Executive Committee (EXCOM)
+COMNAP Executive Committee (EXCOM)   
+ 
+ 
+Dr Karl Erb (USA) 
+ 
+ 
+Chairman 
+ 
+Dr Gerard Jugie (FR) 
+ 
+ 
+Member 
+ 
+Dr Okitsugu Watanabe (JP) 
+ 
+Member 
+ 
+Mr Kim Pitt (AU) 
+ 
+ 
+SCALOP Chairman 
+ 
+Mr Jack Sayers  
+ 
+ 
+Executive Secretary 
+ 
+ 
+ 
+COMNAP Secretariat
+COMNAP Secretariat   
+ 
+ 
+Mr Jack Sayers 
+ 
+COMNAP Secretariat  
+ 
+ 
+Suite 25 
+ 
+ 
+GPO Box 824 
+ 
+Salamanca Square 
+ 
+Hobart 
+ 
+Tasmania 7000  
+ 
+Tasmania 7001 
+ 
+AUSTRALIA  
+ 
+AUSTRALIA 
+ 
+Tel: 
++61-3-6233 5498 
+ 
+Fax: 
++61-3-6233 5497 
+ 
+E-mail: jsayers@comnap.aq 
+ 
+ 
+ 
+ 
+Committees
+Committees   
+ 
+ 
+Executive Committee 
+ 
+ 
+ 
+ 
+ 
+EXCOM 
+ 
+Standing Committee on Antarctic Logistics and Operations 
+SCALOP 
+ 
+Steering Committee on the Antarctic Master Directory  
+STADM 
+ 
+Environmental Coordinating Group 
+ 
+ 
+ 
+ECG 
+ 
+Coordinating Group on Education and Training   
+ 
+CEDAT 
+ 
+ 
+Working Groups
+Working Groups   
+ 
+ 
+Air Operations WG 
+ 
+ 
+ 
+ 
+ 
+AIROPS 
+ 
+WG to Monitor the Liability Annex 
+ 
+ 
+ 
+MOLIBA 
+ 
+Ship Operations WG 
+ 
+ 
+ 
+ 
+ 
+SHIPOPS 
+ 
+Symposium WG 
+ 
+ 
+ 
+ 
+ 
+SYMP 
+ 
+Tourism and NGOs WG  
+ 
+ 
+ 
+ 
+TANGO 
+ 
+ 
+ 
+ 
+ 
+Networks
+Networks   
+ 
+ 
+Antarctic Environmental Managers Network 
+ 
+ 
+AEON 
+ 
+Energy Management Network  
+ 
+ 
+ 
+ENMANET 
+ 
+Information Officers Network  
+ 
+ 
+ 
+INFONET 
+ 
+Training Officers Network 
+ 
+ 
+ 
+ 
+TRAINET 
+ 
+ 
+ 
+ 
+Note:  
+A list of COMNAP and SCALOP members and the membership and objectives of the various 
+committees, working groups and networks may be found on the COMNAP Home Page at URL: 
+http//:www.comnap.aq  under “ABOUT COMNAP/REPRESENTATIVES”. 
+ 
+ 
+ 
+ 
+ 
+ 

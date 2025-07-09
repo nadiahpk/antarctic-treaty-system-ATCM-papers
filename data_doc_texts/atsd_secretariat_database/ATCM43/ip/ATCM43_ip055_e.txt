@@ -1,0 +1,152 @@
+Risks of COVID-19 to Antarctic Wildlife
+Risks of COVID-19 to Antarctic Wildlife
+Information Paper submitted by SCAR
+Summary
+In 2020, the Antarctic Wildlife Health Monitoring Working Group
+of the SCAR Expert Group on Birds and Marine Mammals (EG-
+BAMM) assessed the risk of a SARS-CoV-2 outbreak to Antarctic
+wildlife. Based on the scientific literature about the structure and
+function of SARS-CoV-2 as well as its stability in different
+environmental conditions, and taking into consideration
+information available on other viruses in Antarctic wildlife, a risk
+assessment was conducted to examine whether SARS-CoV-2 could
+survive in the Antarctic environment and be transmitted from
+humans to wildlife (and vice-versa) and if so, whether Antarctic
+wildlife could be susceptible to the virus.
+The findings from this study were published in the journal Science
+of the Total Environment1 and followed up by two publications in
+the outreach platform The Conversation2,3. This Information Paper
+highlights the vulnerability of Antarctic wildlife to novel viruses,
+our limited knowledge and understanding of infectious diseases in
+Antarctic wildlife, and the potential risks posed by human activity
+on the Antarctic continent.
+Background
+Human activity and human-wildlife interactions in Antarctica are
+on the rise5,6, increasing the risk of introducing novel infectious
+diseases to the Antarctic continent and to Antarctic wildlife. Both
+direct (activities within or close proximity to wildlife and wildlife
+colonies (<10m)) and indirect (fisheries, animals near stations)
+human-wildlife interactions pose a significant risk for the
+introduction and transmission of pathogens to wildlife. Currently,
+information on pathogens of Antarctic wildlife and their
+susceptibility to different microbes and viruses is limited, with little
+research being conducted on the presence of pathogens and their
+impacts on wildlife.
+In late 2019, a novel disease, COVID-19, emerged – most probably –
+from the Hubei Province of China and began to spread rapidly
+throughout the world, with the World Health Organization
+declaring a pandemic in early 2020. The COVID-19 pandemic is
+caused by the Severe Acute Respiratory Syndrome Coronavirus 2
+(SARS-CoV-2), which is a novel species of coronavirus closely
+related to other coronaviruses found in bats and pangolins. The
+virus is suspected to have originated in a yet-to-be determined
+animal and spread to humans via an unknown intermediate host.
+Recent research has shown that the viruses have the potential for
+cross-species transmission from humans to wildlife and vice versa,
+with animals such as felids, canids and mustelids and other
+mammals known to have been recently infected with the virus.
+However, little is known about the susceptibility of wildlife to the
+virus. In early 2020, Damas et al.4 predicted the risk to wildlife of
+SARS-CoV-2 based on a comparative and structural analysis of the
+ACE2 receptor, which is the main receptor used by the virus to
+infect its hosts. This raises the question, is Antarctic wildlife
+susceptible to the virus? To address this, the Antarctic Wildlife
+Health Monitoring Working Group of the SCAR Expert Group on
+Birds and Marine Mammals (EG-BAMM) conducted a risk
+assessment on the risk of a SARS-CoV-2 outbreak to Antarctic
+wildlife in 2020. Their findings were synthesized in an article
+whose key findings are presented below1.
+Key Findings
+Given the relative stability of SARS-CoV-2 at low temperatures and
+its ability to remain viable on a variety of materials, this study
+found that the Antarctic continent provided a suitable environment
+for the survival and transmission of the virus to wildlife.
+Based on the predictive modelling by Damas et al.4 in early 2020, it
+is predicted that Antarctic wildlife species such as pinnipeds and
+seabirds will have a low susceptibility to the virus, whilst cetaceans
+are
+considered to be highly susceptible, but the actual risk of
+transmission to cetaceans is lower in comparison to pinnipeds and
+seabirds due to their lower probability of contact with humans.
+However, it appears that the ACE2 receptor is not the only factor in
+determining a species’ susceptibility to the virus as species such as
+minks that were also predicted to have a low susceptibility to the
+virus have recently contracted the virus from humans on farms7. As
+such, further research is required to understand the risks to
+Antarctic wildlife.
+Barbosa et al. 1 also identified a number of key potential
+transmission routes of the virus to wildlife. Contact with wildlife via
+direct handling for research purposes, human-wildlife interactions
+via tourist activities and transmission via migratory species were
+deemed to pose the greatest risk for transmitting the virus (Fig. 1).
+Indirect routes, such as via faecal transmission from raw sewage,
+contaminated equipment and interactions between fisheries and
+wildlife, are also important to consider.
+Figure 1. Potential transmission routes of virus to wildlife in
+Antarctica1. Species and human activities shown in the map do not
+refer to actual locations (Barbosa et al 2021).
+The study also found that the areas that posed the greatest risk of
+introduction and transmission of the virus are areas where human
+activities and numbers of research stations are the highest including
+the Antarctic Peninsula, South Shetland Islands and Victoria Land
+(Figure 2).
+Figure 2. Map of Antarctica displaying Antarctic Research stations
+and key tourist landing sites8.
+Conclusions
+Human-wildlife interactions in Antarctica are on the rise, increasing
+the risk of introducing novel infectious disease to the Antarctic
+continent and to Antarctic wildlife. The recent COVID-19 pandemic
+highlights the need for further research into the microbial ecology
+and pathogens of Antarctic wildlife and assessment of current
+biosecurity measures to understand how novel pathogens can
+spread from humans to wildlife. Additional mitigation measures
+may also be required to minimise the risk of SARS-CoV-2 and other
+infectious pathogens being introduced to Antarctic fauna (see
+Barbosa et al. 2021), recognising that biosecurity measures and
+regulations aimed at limiting animal disturbance are already in
+place, in addition to COVID-19 prevention guidance and mitigation
+protocols developed by COMNAP and national Antarctic
+programmes, that will significantly reduce transmission pathways
+(see WP047).
+Although the work by Damas et al.4 highlights that most bird and
+mammal species in the Antarctic are not susceptible to the virus,
+further research and general monitoring of pathogen presence in
+Antarctic wildlife is needed. To address the knowledge gaps in
+wildlife health and disease, the Antarctic Wildlife Health
+Monitoring Group has established a disease surveillance network to
+coordinate research and surveillance programs on the impacts of
+current and emerging infectious diseases on Antarctic wildlife. The
+aim of the network is to:
+Coordinate the collection and analysis of data and biological
+samples for ongoing disease surveillance in Antarctic and Southern
+Ocean wildlife.
+Using historical collections of biological samples:
+Examine changes in the spatial and temporal variations in
+presence/absence of pathogens/infectious diseases;
+Examine the influence of human activity and climate change on the
+prevalence of pathogens/infectious agents in the Southern Ocean
+region.
+Assist in the investigation of “Unusual mass mortality events” and
+suspected disease outbreaks.
+Identify routes of introduction and transmission to assist in
+biosecurity and management of Antarctica.
+References cited in the text
+1. Barbosa et al 2021. Risk Assessment of SARS-CoV-2 in Antarctic
+Wildlife. Science of the Total Environment 755 :143352
+2. Barbosa 2020. La Antártida: la última frontera para la pandemia
+3. Powers and Dewar 2021. COVID has reached Antarctica.
+Scientists are extremely concerned for its wildlife.
+4. Damas et al 2020. Broad host range of SARS-CoV-2 predicted by
+comparative and structural analysis of ACE2 in vertebrates. PNAS
+117(36): 22311-22322
+5. IAATO. 2020. IAATO Antarctic visitor figures 2019–2020.
+https://iaato.org/wp-content/uploads/2020/07/IAATO-on-
+Antarcticvisitor-figures-2019-20-FINAL.pdf
+6. Tin T, Fleming ZL, Hughes KA, Ainley DG, Convey, P., Morenoa
+CA, Pfeiffer S, Scott J, Snape I. (2009). Impacts of local human
+activities on the Antarctic environment. Antarctic Science 21:3-33.
+7. Oude Munnink et al 2021. Transmission of SARS-CoV-2 on mink
+farms between humans and mink and back to humans. Science 371:
+172-177
+8. Hughes and Convey 2020. Implications of the COVID-19
+pandemic for Antarctica. Antarctic Science 32(6): 426-439

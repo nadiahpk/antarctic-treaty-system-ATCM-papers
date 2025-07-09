@@ -1,0 +1,43 @@
+﻿
+
+
+
+
+
+UAV impact – problem of a safe distance from wildlife concentrations
+
+
+
+
+
+
+
+
+UAV impact – problem of a safe distance from wildlife concentrations
+Information Paper submitted by Poland
+Summary
+The following paper discusses research study on the nesting Adélie penguins disturbance by unmanned aerial vehicles, as well as experiences gained during three Antarctic seasons of using fixed-wing UAVs for collecting diverse environmental data. Draft guidelines prepared by Polish Antarctic Program for the use of fixed-wing UAVs near wildlife colonies are presented.
+Background
+During the last few years unmanned aerial vehicles (UAVs) have become an important tool in both research and logistic activities in Antarctica. This rapid growth raised legitimate concerns over possible wildlife disturbance, especially as there is only limited information on this subject. Discussions at the ATCM/CEP are going since 2014, with papers presented by several Parties, as well as SCAR, COMNAP and IAATO. CEP recognized the need to develop guidance on UAVs, the issue was included in CEP Five-year Work Plan, and establishment of an ICG do develop UAV guidance is planned for CEP XX.
+Research study analysis
+The field study was conducted in November 2014 at the Adelié penguin (Pygoscelis adeliae) breeding colony at Point Thomas (ASPA No 128 Western Shore of Admiralty Bay, King George Island, South Shetland Islands) (Korczak-Abshire et al 2016). The impacts of electric and piston engine fixed-wing UAVs flying at 350 m altitude above ground level (AGL) over the colony were compared to the undisturbed colony (control group), and to natural disturbance (skua – Stercorarius sp. flying over nesting penguins). The reaction of breeding penguins was recorded on video camera, and visible behavioral response was used to measure the impact level. 
+No differences were found between control group and overflights by electric UAVs. During the first overflight by a UAV powered by piston engine, symptoms of vigilance were observed with penguins looking up and around for a few seconds when the UAV was overhead. Similar symptoms of vigilance were observed when skuas flew (approximately 5 m AGL) over penguin colony without trying to attack nesting birds. No increase in aggressive behaviour was observed during the overflights by either electric or piston engine UAVs. Authors conclude that overflights of Adelié penguin colonies by both types of UAVs at the altitude of 350 m were deemed safe, but electric engine UAVs were recommended for flights at lower altitudes. 
+Additional observations and experiences
+Before the first Antarctic season several field experiments with penguin models were carried out in Poland with the aim to test digital camera ability to detect birds, and to provide information on the optimal (good images versus wildlife disturbance) flight height. Eliptical shapes resembling nesting penguins were placed on ground (covered or not with snow). Flight tests at different altitudes were conducted in various weather conditions (from full cloud cover to clear day). The ability to recognize individual objects and groups of objects from images taken from different altitudes by different types of cameras and lenses was ascertained, enabling us to choose the most suitable photographic equipment and optimal flight altitude before going to Antarctica. This methodology made it possible to reduce the number of flights over penguin aggregations, and therefore, minimise the potential impact.  
+Since the research paper by Korczak-Abshire et al (2016) was prepared for publication additional observations were made during several flights conducted on King George Island in 2015/2016 and 2016/2017 field seasons. The reactions of breeding Adelié penguins (Pygoscelis adeliae), Gentoo penguins (P. papua) and southern giant petrel (Macronectes giganteus), as well as elephant seals (Mirounga leonina) to piston engine UAV were observed and/or video-recorded. UAV noise was recorded at ground level, both during the launching operations, as well as during overflights of penguin breeding colonies. 
+No significant behavioural changes in any of the investigated species were observed, although some data suggest that southern giant petrels might be more vulnerable to UAV impact (signs of vigilance in breeding petrels during the first overflight, abandonment of colony by some of the non-breeding birds).
+UAV noise level was considerably high during the launch operation which took several minutes, but decreased sharply (by >50%) as soon as UAV attained higher altitude. We think that taking-off is a critical moment for UAV use, with wildlife receiving both auditory and visual stimuli, especially if UAVs are brightly coloured. Therefore, distancing take-off location from wildlife aggregations is recommended. 
+It was noted that big noisy breeding aggregations of Adelié penguins seem to be less susceptible to stress connected with UAV overflights, as plane sound is lost in the ambient noise of the colony. Smaller breeding aggregations, especially “silent” ones as giant petrel colonies, are more exposed to stress. A sudden significant increase of noise (by e.g. 10 dB) above ambient level might constitute a stress signal.
+  
+Based on the experiences of three seasons of using fixed-wing UAVs in Antarctica, as well as literature data draft guidance for the future use of UAVs in Polish Antarctic research were formulated:
+    • Taking-off and/or landing should be done at a safe distance from wildlife concentrations, minimalizing disturbance. A  distance of 100 m for electric engine UAV, and 400 m for piston engine UAVs is recommended. Sites not covered by vegetation should be chosen for the taking-off and landing places.
+    • Flights near or above wildlife concentrations should be avoided, except for scientific or other compelling reasons.
+    • Repeated overflights or hovering above wildlife concentrations should be avoided, except for scientific or other compelling reasons, and must be kept to an absolute minimum.
+    • A presence of a trained observer tasked with scrutinizing wildlife reaction to UAVs is recommended if practicable. Flights should be terminated immediately upon noticing serious disturbance.
+    • Overflights of wildlife concentrations should be done at a safe altitude. An altitude of at least 350 m for penguin colonies overflown by piston engine UAVs is recommended. Electric engine UAVs are recommended for overflights at lower altitudes. Overflights of giant petrel colonies should be kept to an absolute minimum, and – if possible –only with electric engine UAVs.
+    • Overflights at lower altitudes by UAVs in bright colours should be avoided if possible. Grey, or other colours non-distinguishable against the sky are recommended.
+These guidelines are based on a rather narrow scope of experiences, and apply mostly to fixed-wing, medium sized UAV (MTOW < 35 kg, wingspan < 4.0 m). They will be modified and/or extended to accommodate results of new research. 
+We hope that data presented above might come useful in the future discussions on the UAV guidelines.
+References
+Korczak-Abshire M., Kidawa A., Zmarz A., Storvold R., Karlsen S.R., Rodzewicz M., Chwedorzewska K., Znój A. 2016. Preliminary study on nesting Adélie penguins disturbance by unmanned aerial vehicles. CCAMLR Science, 23, 1–16 (Accessible at: https://www.ccamlr.org/fr/system/files/science_journal_papers/Kidawa%20et%20al.pdf)
+

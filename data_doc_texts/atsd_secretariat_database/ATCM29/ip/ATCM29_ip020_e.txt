@@ -1,0 +1,34 @@
+﻿
+
+
+Antarctic Polarview programme to provide access to satellite observations for improved sea ice navigation
+
+
+
+
+Antarctic Polarview programme to provide access to satellite observations for improved sea ice navigation
+
+Information Paper submitted by the United Kingdom
+Introduction
+    1. Polarview will deliver near real time sea ice information based on satellite observations direct to users. This will contribute to improved sea ice navigation and routing efficiency. Building on three years of service delivery in the Arctic, the programme now aims to extend such provision to Antarctic operators. The British Antarctic Survey (BAS) will manage the Antarctic operation and deliver services in collaboration with organisations from Canada, Denmark, Germany, Italy, Norway and United Kingdom.
+    2. Operational services will start for the 2006 season in October. Before this Polarview is keen to promote the service to potential users such as the national Antarctic science programmes and Antarctic tour ship operators. Development and delivery of the Polarview Antarctic services are funded by ESA until mid-2008.
+Background
+    3. Polarview is part of the European Space Agency (ESA) GMES (Global Monitoring for Environment and Security) services element programme. GMES is a joint ESA and European Commission programme to develop a European Global Monitoring capability for Environmental Security purposes.
+    4. Polarview is based on three previous years of successful operations in the Arctic and Baltic Sea. With these services continuing, the programme is being extended to include operations in the Antarctic. The British Antarctic Survey will manage the promotion and delivery of the Antarctic services.
+Sea Ice Information Services
+    5. The primary aim of the programme in the Antarctic is to deliver sea ice information from a number of satellite observations in a timely manner to ship operators. Information products include both low-resolution data showing ice extent, concentration and drift over a wide area and targeted acquisitions of high spatial resolution (<100 metres ground sampling distance) images that will provide more detailed local information (Figure 1).
+    6. The imaging techniques used mean that data is unaffected by cloud cover. Wide area information is updated every 24 hours, whilst the higher resolution images can often be delivered within 12 hours of data acquisition.
+    7. Tools are being developed to combine and deliver these multiple sources of satellite data direct to ships. This standalone viewer is capable of displaying the data together with the current ship position on any PC workstation onboard. Maintaining current data requires daily access to small volume updates, delivered either via the internet or as an email attachment. Other delivery methods are being investigated for ships without email and internet connections. In addition, iceberg-monitoring services are being extended to the Southern Ocean.
+Access and continuity
+    8. Access to this information is currently open and free to all. Planning and processing the higher resolution imagery requires significant resources and there is a limit on how many users Polarview can schedule and deliver images for. However it will endeavour to meet the needs of as many ships as possible and encourages users to discuss their requirements with us as soon as possible. The Polarview Antarctic services are funded by ESA for the next two seasons, 2006/2007 and 2007/2008, and it is already investigating options for continuing these services beyond 2008.
+
+Further Information
+    9. Further information about Polarview can be found at www.polarview.org or specifically concerning the Antarctic operations from Andrew Fleming at BAS, email ahf@bas.ac.uk, telephone +44 (0)1223 221451.
+Polarview website www.polarview.org
+Polarview Antarctic operations website	www.polarview.aq
+
+May 2006
+
+
+Figure 1: Example of a high resolution Envisat satellite image providing a detailed picture of sea ice for the western Antarctic Peninsula. Area shown is approximately 250 kilometres across.
+

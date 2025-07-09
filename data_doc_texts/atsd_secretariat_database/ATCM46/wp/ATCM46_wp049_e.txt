@@ -1,0 +1,158 @@
+SCAR AntClimNow Antarctic Climate Indicators project
+SCAR AntClimNow Antarctic Climate Indicators project
+Working Paper submitted by SCAR and WMO
+Summary
+The SCAR AntClimNow Scientific Research Programme, together
+with partners including the World Climate Research Programme
+(WCRP) Climate and Cryosphere (CliC) project, has identified a
+range of Antarctic Climate Indicators (ACIs) with the aim of
+providing an accessible visualisation of broad aspects of the
+Antarctic climate system. This will help a range of users to keep
+track of ongoing changes in Antarctica, with visualisations that can
+be used for communication and to facilitate collaboration and
+further studies. The range of indicators may be expanded to focus
+on specific aspects of the climate system, through discussions with
+scientists and other stakeholders to determine further relevant
+variables.
+SCAR and WMO encourage the CEP and the ATCM to:
+consider the relevance of Antarctic Climate Indicators to inform
+their discussions on climate change;
+provide feedback on specific indicators that could be considered for
+further development and inclusion as Antarctic Climate Indicators;
+and
+consider whether and how Antarctic Climate Indicators might be
+routinely presented to provide context for CEP and ATCM
+discussions.
+Background
+Antarctic climate exhibits large variability with increasingly
+widespread signals of externally-forced change emerging. In such a
+rapidly evolving system is it more important than ever to
+continuously monitor the state of the Antarctic climate system in
+near real time. Due to the strong interactions between different
+components of the system, it is important that a range of
+diagnostics are considered.
+At present there is no central place that jointly displays or
+documents key climate variables relevant to Antarctica and the
+Southern Ocean, such as the Southern Annular Mode / westerly
+winds, Southern Hemisphere sea ice extent and ocean temperatures.
+Existing initiatives fulfil this role in a global context with the
+concept of ‘climate indicators’. Two prominent examples are the
+WMO Global Climate Indicators and the UK Met Office Climate
+Dashboard.
+The ATCM has agreed to continue to engage with the research
+community to deepen understanding of the key messages emerging
+from research on climate change, as well as to determine what
+science and what types of information would best support the
+development of robust policies and actions (ATCM XLV, paragraph
+175). It further agreed on the importance of developing key
+messages for the global community in regard to a changing
+Antarctica (ATCM XLV, paragraph 167).
+Antarctic Climate Indicators
+To fill this gap in accessible information, the SCAR Scientific
+Research Programme AntClimNow has identified a range of
+‘Antarctic Climate Indicators’ (ACIs). A key guideline is that these
+indicators should be derived from consistent observational or
+observationally-
+constrained datasets that are being continuously monitored and
+therefore can be updated regularly into the foreseeable future. A list
+of candidate ACIs has been collected from AntClimNow members,
+with a subset being taken forward for initial release.
+The aim of the ACIs is to provide an accessible visualisation of
+broad aspects of the Antarctic climate system. This will help a range
+of users to keep track of ongoing changes in Antarctica and have
+access to visualisations that can be used for communication. It will
+also provide references and contact points for the source data used,
+to facilitate collaborations and follow-up studies.
+At present the beta version of the Antarctic Climate Indicators
+webpage https://scar.org/science/research-programmes/
+antclimnow/climate-indicators shows a limited set of initial
+variables (Atmospheric river events, Atmospheric zonal wave-
+number 3, Antarctic Peninsula regional blocking index, Ocean
+transport (Antarctic Circumpolar Current, Ross, Weddell), Antarctic
+surface mass balance, Southern Annular Mode (SAM), stratospheric
+polar vortex strength, tropospheric westerlies latitude and strength
+– see examples in Figures 1 and 2).
+The ACI visualisations and online data generally show time series of
+a single number or index, and will therefore not be suitable for use
+in detailed studies or assessments. For example, information on
+seasonal or annual winds over the whole Southern Ocean (Figures 1
+and 2) would not be suitable for assessing detailed impacts of wind
+variability or change on a local scale. However, the visualisations
+are important tools that can be used to:
+provide long-term, consistently measured datasets critical for
+observing climate variables over time, facilitating the detection of
+ongoing climate changes and the attribution of these changes to
+specific causes;
+contribute to the validation of climate models by providing
+observational data against which model outputs can be compared;
+assist policymakers and stakeholders in developing adaptive
+responses to observed changes, by monitoring essential climate
+parameters; and
+communicate the complexities of climate change in the Antarctic
+through accessible visualizations, helping to inform and educate the
+public and decision-makers about the significance of these changes.
+In future there is scope for expanding the range of indicators to
+focus on other specific aspects of the climate system. This could be
+developed through discussions with scientists and other
+stakeholders across a range of disciplines and communities, to
+determine further relevant variables.
+Fig. 1. Time series of latitude of the maximum in the westerly winds
+(the westerly ‘jet’) over the Southern Ocean. The plot shows
+monthly anomalies from the long-term mean. The jet latitude index
+(JLI) is a measure of the latitudinal position of core of the westerly
+winds blowing over the Southern Ocean and the jet speed index
+(JSI) is the strength of the westerlies at this core. The westerly
+winds are strongly coupled to the Antarctic Circumpolar Current
+and sea ice (Bracegirdle at al., 2020). Greater sea ice drives a
+poleward shift in the jet, especially in winter (Smith et al., 2017).
+These shifting winds bring warmer waters from the Southern Ocean,
+the incursion of which onto the continental shelf amplifies melting
+at the base of coastal ice sheets, contributing to their instability and
+collapse. However, the poleward trend of these tropospheric winds
+during the summer months is due to ozone depletion in the
+stratosphere above (Polvani et al., 2011).
+Fig 2. Time series of seasonal mean of the westerly jet latitude.
+Future considerations and development
+The SCAR AntClimNow programme aims to further develop the ACI
+project together with partners including the World Climate
+Research Programme (WCRP) Climate and Cryosphere (CliC)
+project, and to extend the range of climate indicators available for
+visualisation. ACIs could also be shown for future projections as
+part of a second phase of the project. Options for dissemination and
+display of ACIs are being discussed.
+New suggestions for ACIs need to take into account three
+requirements, which reflect those used by the WMO:
+Relevance: the variable is critical for characterizing the climate
+system and its changes
+Feasibility: observing or deriving the variable technically feasible
+using proven, scientifically understood methods and
+Cost effectiveness: generating and archiving data on the variable is
+affordable, mainly relying on coordinated observing systems using
+proven technology, taking advantage where possible of historical
+datasets.
+SCAR and WMO encourage the CEP and the ATCM to:
+consider the relevance of Antarctic Climate Indicators to inform
+their discussions on climate change;
+provide feedback on specific indicators that could be considered for
+further development and inclusion as Antarctic Climate Indicators;
+and
+consider whether and how Antarctic Climate Indicators might be
+routinely presented to provide context for CEP and ATCM
+discussions.
+References
+Bracegirdle, T. J., Krinner, G., Tonelli, M., Haumann, F. A.,
+Naughten, K. A., Rackow, T., … & Wainer, I. (2020). Twenty first
+century changes in Antarctic and Southern Ocean surface climate in
+CMIP6. Atmospheric Science Letters, 21(9), e984. https://
+doi.org/10.1002/asl.984
+Polvani, L. M., Banerjee, A., Chemke, R., Doddridge, E. W., Ferreira,
+D., Gnanadesikan, A., … & Waugh, D. W. (2021). Interannual SAM
+modulation of Antarctic sea ice extent does not account for its long‐
+term trends, pointing to a limited role for ozone
+depletion. Geophysical Research Letters, 48(21), e2021GL094871.
+https://doi.org/10.1029/2021GL094871
+Smith, D. M., Dunstone, N. J., Scaife, A. A., Fiedler, E. K., Copsey,
+D., & Hardiman, S. C. (2017). Atmospheric response to Arctic and
+Antarctic sea ice: The importance of ocean–atmosphere coupling
+and the background state. Journal of Climate, 30(12), 4547-4565.
+https://doi.org/10.1175/JCLI-D-16-0564.1

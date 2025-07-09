@@ -1,0 +1,248 @@
+﻿
+
+
+Environmental Monitoring and Reporting. Report of the Intersessional Contact Group
+
+
+
+
+
+
+Environmental Monitoring and Reporting
+Report of the Intersessional Contact Group
+
+Introduction
+During the seventh Meeting of the Committee for Environmental Protection (CEP) (Cape Town, 2004), the Committee discussed requirements for environmental monitoring of human activities in Antarctica. Previously, the Antarctic Treaty Meeting of Experts (ATME), which convened in March 2004 in Norway, stressed that the CEP should address the issue of monitoring and provide the ATCM with recommendations for the coordinated monitoring of activities in Antarctica including the establishment of a consistent methodology and central data collection processes. In order to examine the issue of environmental monitoring in Antarctica, an ICG was established in 2004-2005. The ICG report was presented at Stockholm in June 2005 (ATCM28WP23).
+During the 2004 meeting, the Committee also endorsed continued effort into developing a web-based system for routinely reporting on key environmental indicators.  A pilot State of the Antarctic Environment Reporting (SAER) system has been established on the CEP website (http://www.cep.aq/default.asp?casid=5082).The potential value of the Antarctic State of the Environment reporting system comes from its ability to be routinely updated and to provide a central location for recording change in the status of key indicators over time, given appropriate data collection. On the basis of the ICG report at CEP VII, the Committee requested Australia and New Zealand to continue to develop the SAER system convening an intersessional contact group. Its report was presented at CEP VIII (ATCM28WP10).
+At CEP VIII (Stockholm 2005), COMNAP introduced ATCM XXVIII/WP26  on “Practical Guidelines for Developing and Designing Environmental Monitoring Programmes in Antarctica”, presenting standardised techniques for monitoring in Antarctica. 
+Recalling the the progress made by ICGs on "Environmental Monitoring" and "State of Antarctic Environment Reporting" (SAER) and the recent endorsement of the COMNAP Guidelines, CEP VIII  agreed the following terms of reference for a single ICG to further develop practices and procedures in Environmental Monitoring and Reporting:
+    1) Propose a preliminary list of environmental indicators and associated parameters which can best indicate the impact of human activities in Antarctica on populations, habitats and other sensitive areas directly, indirectly or cumulatively impacted. Special attention will be paid to the previous works by CEP/ATCM and COMNAP on environmental monitoring in Antarctica and to the outputs of the recent SCAR / COMNAP / NSF workshop on the "Practical Biological Indicators of Human Impacts in Antarctica".
+    2) Work with CCAMLR to examine the desirability of including marine debris and other data into CEP's SAER system.
+    3) Display these indicators using CEP's SAER system in order to analyse the potential value of this system for both reporting and monitoring of the state of the environment in Antarctica. 
+    4) Provide a report to CEP IX on the development of Environmental Monitoring and Reporting in Antarctica.
+Participants in the ICG
+The discussions were conducted using the online CEP Discussion Forum and the following countries / Observers expressed interest in participating in the debate: Australia, France, Italy, Japan, New Zealand, Norway, Romania, US, COMNAP and SCAR.
+Outcomes of the discussions
+Preamble : Analysis of the First Term of Reference and consequence on the ICG work
+The Report on Monitoring of Environmental Impacts from Science and Operations in Antarctica. (SCAR/COMNAP, 1996) stated that "it is not possible to produce a general prioritization of [monitoring] activities that would be applicable in all situations encountered in the Antarctic. The activities of concern need to be assessed on a variety of temporal and spatial scales that are not easily categorized into a general scheme that satisfies the wide variety of settings represented by Antarctic logistics, science operations, and tourist activities. The intensity, duration, area influenced by the activity, the repetitiveness of the activity, and the potential for cumulative impacts are among the issues that need to be considered on a case-by-case basis".
+ The SCAR/COMNAP Workshop on Practical Biological Indicators of Human Impacts in Antarctica (March 16-18, 2005, Bryan/College Station, Texas) stressed a similar conclusion, stating that [...] there is no “ideal” or standard set of biological indicators that a priori will address the needs of all situations in Antarctica. Another output of this workshop was that the pressure/state/response model used in other monitoring programs was applicable in Antarctica. In consequence, the design of a monitoring program must first define the issue of concern and establish which pressures (impacts, practices, etc.) may be the causes of these issues.
+In addition, one important output of the discussions held last year by the ICG on Environmental Monitoring was recognition that the main tenet for the design of monitoring programs is: to have a clear question. 
+The thought process should be: question à hypothesis à indicators à parameters à model à statistics and tests of hypothesis à interpretation 
+The proposed ToR # 1 of the ICG suggests commencing work at the third and fourth stage of this thought process.
+In consequence, 3 issues were initially proposed for discussion on ToR # 1:
+1) Given the acknowledged difficulties with identifying the best indicators applicable in all situations, and after informal discussions with New Zealand / Australia, as the proponents of the SAER component of the work, and SCAR, it was suggested to start the ICG's work at the "questions / hypotheses" stage, rather than at the "indicator/parameter" stage. 
+The ICG participants were asked to revisit the table 7.1 Operational Activities: Outputs and Impacts produced in the SCAR/COMNAP document (1996) in order to identify "significant" impacts and, in turn, "significant" outputs for which indicators may be suggested. 
+It was hoped that such a "desktop assessment" would result in a good list of key questions that reflect the main potential issues of concern to Antarctic environmental managers (i.e. the CEP). These key questions, in turn, could inform the ICG’s discussions about a "preliminary list of environmental indicators and associated parameters that "best indicate" the impact of human activities in Antarctica.
+2) In addition, ICG members were asked to consider a possible standardization of definitions and desired characteristics of indicators in order to avoid depreciation of the work previously made by other ICG (SAER, Environmental Monitoring) or groups of experts (SCAR, COMNAP…).
+3) Finally, ICG members were invited to make comments on the recommendations issued from the SCAR/COMNAP Workshop on Practical Biological Indicators of Human Impacts in Antarctica (March 16-18, 2005, Bryan/College Station, Texas).
+Outcome of the first round of discussion
+1) Assessment of specific question that would benefit from the establishment and monitoring of indicators
+No member addressed this first issue. Only contribution, although made implicitly through the preparation of the second ICG step in order to make progress on this issue, was a joint contribution by France, Australia, New Zealand and COMNAP (see below).
+2) Standardization of definitions and desired characteristics of indicators
+One member answered that it would be necessary to standardise the language used, particularly concerning the word "indicator". While the OECD definition is the most clear it may be fitting to also add a comment so that the definition of indicator reads : ‘a parameter or a value derived from parameters, which points to, provides information about, describes the current state of a phenomenon/environment/area, and a change in that state over time’.
+3) Comments on the recommendations from the Workshop on Practical Biological Indicators of Human Impacts in Antarctica
+One member stated that these recommendations are likely too detailed to be of much use for a first approach in the ICG work. However, it was recommended that the more general list of desired characteristics, as produced by the SAER ICG, be used as a brainstorming tool and the Texas list be implemented as a sort of checklist after indicators have been assigned. 
+Outcome of the second round of discussion
+Considering the little engagement of the Parties in this first round of discussion, and following informal discussions between France, Australia, New Zealand and COMNAP regarding the work of the ICG, a new approach was proposed for the second step.
+1) Two broad categories of environmental monitoring in Antarctica:
+It was proposed to consider two broad categories of environmental monitoring in Antarctica:
+“Operational monitoring”: a local approach dealing with specific activities and focussed on testing predictions developed through the EIA requirements. The question to be answered by this type of monitoring is: Are the potential impacts identified through the EIA process actually occurring and to what extent? ‘Operational monitoring’ would be relevant to local environmental management including operational managers responsible for the site and environmental managers responsible for EIA and approvals.
+“State of the environment monitoring”: a broader approach with the purpose to identify and report on regional or continent-wide environmental changes, irrespective of the cause, as intended by the SAER system. This type of monitoring may lead to investigation of the causes and possibly to responses to those changes. The question to be answered by this type of monitoring is: Are identified environmental values changing? For example, such environmental change may be the result of multiple activities in Antarctica over time (i.e. cumulative impacts), or a combination of external and internal pressures (i.e. climate change plus local activities). This approach would require knowledge of environmental values that occur across the range of specific sites (i.e. regional or continent-wide). ‘State of the environment monitoring’ would be relevant to a more general audience of Antarctic environmental managers, through the CEP and the ATCM.
+ICG members were asked to provide comments on this concept of broadly categorising environmental monitoring in Antarctica.
+Comments of the ICG members:
+This categorisation was supported by all participants. 
+However, it was noted that if separated and not coordinated, the two monitoring streams could lead to duplication, overlap and confusion. Another concern was expressed: noting that the scope of the ICG is explicitly related to the impact of human activities while SAER as a whole expanded beyond human activities there is a risk that the focus of the ICG may be becoming too broad.
+2) List of identified monitoring tools for "operational monitoring"
+For operational monitoring a number of useful tools/guidelines already exist, so it may not be pertinent for the ICG to focus its efforts on this type of monitoring by developing further tools. See the list of these tools in Annex 1. 
+ICG members were asked to provide comments on its completeness.
+Comments of the ICG members:
+The list in Annex 1 has obviously some weakness. For example, these documents do not all have the same status: some have been endorsed by the CEP whereas others have no official status. Some of the latest documents are based on earlier ones. There is also a need for a proper process to update and maintain such a list. The ultimate goal should be to produce one leading document for operational monitoring activity in Antarctica.
+3) State of the environment monitoring
+State of the environment monitoring will require the identification of a range of simple parameters/indicators measurable at the local area level but which may be collectively compared and contrasted to provide insight into broader environmental change. To identify such parameters/indicators will first require an understanding of the environmental values we seek to protect in those areas. 
+To help with this process, it would be useful to have a good overview of the main values present in each Party’s area of operation, as well as information regarding current monitoring of these values. This information may be used to identify suitable common parameters and monitoring methods that may be applied at either a regional or continent-wide scale. It may also be used to identify commonly used approaches and indicators for monitoring particular values, as well as gaps in current monitoring activities.
+ICG members were asked to provide comments on the proposed approach for ‘state of the environment’ monitoring, including identification of environmental values parameters.
+Comments of the ICG members:
+One member gave an insight into equivalent monitoring in the Arctic through the Arctic Council and its Arctic Monitoring and Assessment Programme” (AMAP).  One important lesson learned from this work is how important it is to standardize monitoring across the nations, both regarding choice of indicators/parameters and methods. It is also important to ensure that the different monitoring themes with their corresponding parameters get a sufficient geographical coverage. It was also noted that the success of the AMAP state of the environment report was in large part due to the very clear policy direction that was provided by the Arctic Council.
+4) Proposed questionnaire
+To help with the collection of the values and their current monitoring, it may be appropriate for the ICG to request that COMNAP ask national operators to complete a basic questionnaire, along the lines of that included at Annex 2. For consistency, it may be appropriate to utilise, as far as possible, the existing categories of values provided in Article 3 of Annex V.
+ICG members were asked to provide comments on the proposed questionnaire.
+Comments of the ICG members:
+One member raised the problem of the clarity of the values listed in the questionnaire and the potential difficulty to fill this questionnaire for many Antarctic programs. 
+Another member made some suggestions to improve the questionnaire: 
+terms like important, unusual, type locality, only known etc. should be defined and examples thereof given
+    • Possible additional values could be those reflecting ecosystem structure and functions (production, interspecies interactions, and biodiversity)
+    • It may also be an idea to split the value “marine ecosystem/environment” in at least two or more categories, e.g. pelagic and benthic ecosystems, and perhaps in categories reflecting the tidal zone, the coastal and the oceanic environment.
+Because two types of factors can affect the values (those caused by natural variations and those caused by human impact), indicators for both types of pressures are needed. So, it is suggested to add a column "possible impact factors" to the questionnaire.
+Conclusions and recommendations
+ToR # 1 (environmental indicators and associated parameters which can best indicate the impact of human activities in Antarctica)
+We regret that the number of participants in the discussion was very low. The reasons are probably related to the difficulty to identify standard set of indicators that a priori will address the needs of all monitoring situations in Antarctica, and to the necessity to first define the issue of concern and establish which pressures (impacts, practices, etc.) may be the causes of these issues. The question asked in this ToR # 1 is likely too huge to be easily assessed by an ICG. As a consequence, limited progress has been made on this particular issue.
+Nevertheless, the ICG work during this intersessional period has raised some outcomes that may benefit from further discussions, namely the questions of:
+    • the useful documents available, their updating and the possible leading document: 
+It is possible to identify a significant number of useful tools for environmental monitoring, demonstrating the large amount of work achieved on this issue over the years. However, these documents must be regularly updated and, ideally, consolidated into a single leading document maintained following a clear process.
+    • the pertinence of the distinction between operational monitoring and SAER: 
+All members seem to agree with the proposed categorisation of environmental monitoring but it is suggested all monitoring should be coordinated.
+    • the value of lessons from the Arctic experience:
+The organisational aspects of State of the Environment monitoring are important and the experience drawn from AMAP’s work could be carefully analysed and considered as a model.
+    • the use and format of the questionnaire:
+Majority of the ICG members think that the questionnaire is a good starting-point but requires some adjustments in line with the proposed improvements. Such questionnaire could be a possible future option for gathering data on the issue raised by this ToR #1.
+ToR # 2 (CCAMLR data on marine debris)
+CCAMLR has adopted and implemented measures to monitor marine debris and to mitigate its impact on marine biota in the Convention Area. There are 4 types of surveys conducted: 
+    • Beached marine debris 
+    • Entanglement of marine mammals in marine debris 
+    • Marine debris associated with seabird colonies 
+    • Seabird and marine mammals soiled in hydrocarbons
+In order to standardise the collection of data, CCAMLR prepared and adopted the first Standard Method for Surveys of Beached Marine Debris in 1993 (CCAMLR-XII, paragraph 4.1).  Standard methods for the collection of marine debris associated with mammal entanglements, seabird colonies and hydrocarbon soiling were adopted by the Commission in 2001 (CCAMLR-XX, paragraph 6.4).
+Standard forms, methods and instructions are available on the CCAMLR website (http://www.ccamlr.org/pu/E/sc/deb/intro.htm) 
+The following annual survey programmes are currently active (the years in parenthesis indicate the years for which data are held in the CCAMLR database): 
+    • Beached Marine Debris: Chile (Cape Shirreff, Livingston Island, South Shetland Island 1993 – 97), United Kingdom (Bird Island, South Georgia 1989 – 2004, and Signy Island, South Orkney Islands 1991 – present), Uruguay (King George Island, South Shetland Islands 2001 – present), and South Africa (Marion Island 2004) 
+    • Debris associated with seabird colonies: United Kingdom (Bird Island 1993 – present) 
+    • Marine Mammal & Seabird Entanglement:  Chile (Cape Shirreff 2004), United Kingdom (Bird Island 1991 – present, and Signy Island 1997 – present), Uruguay (King George Island, 2002 and 2005) 
+    • Hydrocarbon Soiling:  United Kingdom (Bird Island 1993 – present), Uruguay (King George Island, 2005)
+ToR # 3 (display indicators in SAER system)
+Nil comment
+In summary, the ICG recommends that the CEP:
+
+    • Considers the present report and discuss the possible reasons why limited progress has been made in the identification of environmental indicators and associated parameters which can best indicate the impact of human activities in Antarctica,
+    • Considers the usefulness to initiate the compilation of the existing documents on environmental monitoring in Antarctica in order to have a single leading document, and establishes a procedure for regular updating this document,
+    • Critically assesses the pertinence of the distinction between operational monitoring versus SAER, and consequently discusses the possible options for future work on environmental monitoring and reporting,
+    • Seeks to use important experience drawn from AMAP,
+    • Considers the possibility to use an improved version of the attached questionnaire for gathering data on the Antarctic values to protect and the commonly used approaches and indicators for monitoring particular values, as well as gaps in current monitoring activities.
+
+Annex 1
+Useful tools/guidelines for "operational monitoring"
+ These documents are available on the Forum web site
+
+SCAR-COMNAP 1996. Report on Monitoring of Environmental Impacts from Science and Operations in Antarctica.
+COMNAP-AEON 1999. Workshop Report on Environmental Monitoring and Environmental Impact Assessment.
+COMNAP-SCAR 2000 Antarctic Environmental Monitoring Handbook: Standard techniques for monitoring in Antarctica. 
+Hofman, R.J. and Jatko, J., (eds.), 2002. Assessment of the Possible Cumulative Environmental Impacts of Commercial Ship-Based Tourism in the Antarctic Peninsula Area: Proceedings of a Workshop Held in La Jolla California, 7-9 June 2000, National Science Foundation, Washington, DC.
+COMNAP–AEON 2005. Practical Guidelines for Developing and Designing Environmental Monitoring Programs in Antarctica. –this document was presented at  CEP VIII (atcm28-WP026)
+COMNAP 2005. Summary of Environmental Monitoring Activities in Antarctica (updated on 8 April 2005).
+SCAR-COMNAP-NSF 2005 – Report on the Worshop on Practical Biological Indicators of Human Impacts in Antarctica (March 16-18, 2005  Bryan/College Station, Texas) 
+
+
+Annex 2
+Questionnaire regarding areas where national operators support activities - i.e. 1. facilities (stations, bases, field camps); 2. areas where regular logistics activities take place (eg traverse route, unloading area, fuel depot) and 3. areas where any kind of occasional activities occur (eg drop-offs of scientific field parties for day-trips) and where monitoring activities may be in place.
+
+Area Name:
+
+Area Type (eg station etc)
+
+Location (including size of area considered):
+
+Value
+Rank importance (1-2-3…) of values present
+Current monitoring program (Y/N)
+How monitored?
+
+
+
+Parameters
+Brief details on methods
+Area kept inviolate from human interference
+
+
+
+
+Ice-free ecosystem/environment
+
+
+
+
+Glacial ecosystem/environment
+
+
+
+
+Aquatic ecosystem/environment
+
+
+
+
+Marine ecosystem/environment
+
+
+
+
+Air quality (atmospheric environment)
+
+
+
+
+Area with important or unusual assemblages of native plant species
+
+
+
+
+Area with important or unusual assemblages of native invertebrate species
+
+
+
+
+Area with important or unusual assemblages of native bird species
+
+
+
+
+Area with important or unusual assemblages of native mammal species
+
+
+
+
+Type locality or only known habitat of native plant species
+
+
+
+
+Type locality or only known habitat of native invertebrate species
+
+
+
+
+Type locality or only known habitat of native bird species
+
+
+
+
+Type locality or only known habitat of native mammal species
+
+
+
+
+Outstanding geological feature
+
+
+
+
+Outstanding glaciological feature
+
+
+
+
+Outstanding geomorphological feature
+
+
+
+
+Area of outstanding aesthetic value
+
+
+
+
+Site or monuments of recognised historic value
+
+
+
+
+Area of scientific significance
+
+
+
+
+Other value
+
+
+
+
+
+

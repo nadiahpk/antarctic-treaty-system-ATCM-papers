@@ -1,0 +1,66 @@
+﻿
+
+
+
+
+
+Improvements to the Alien Species Database
+
+
+
+
+Improvements to the Alien Species Database
+Information Paper submitted by Australia and SCAR
+Abstract
+The Australian Antarctic Data Centre is considering ways to modify the Biodiversity Database to improve the management of non-native species records. A new facility to associate images with species records could assist with species identification, and an online data entry form could provide a consistent format for entering and distributing new records. Feedback from Members on these enhancements would be welcome.  
+Background
+The 2006 New Zealand workshop on ‘Non-native Species in the Antarctic’ recommended establishing a common database for recording new species (ATCM XXIX/WP13). This recommendation was reflected in the five-year work plan adopted at CEP X, which included as a suggested action ‘establish a database of non-native species occurrences in Antarctica’.
+At CEP XI the Committee endorsed Australia’s proposal (in ATCM XXXI/WP16) to use the Biodiversity Database, maintained by the Australian Antarctic Data Centre (AADC), as the central database of non-native species (sometimes called alien species) occurrences in the Antarctic region (Final Report para. 267). 
+The Biodiversity Database supports the SCAR program Evolution and Biodiversity in the Antarctic (EBA) (http://www.eba.aq), and contains records of native and non-native species from the Antarctic and sub-Antarctic. The database is accessible from the AADC website at http://data.aad.gov.au/aadc/biodiversity/index.cfm, and the tab ‘Bioregions and Aliens’ provides a short-cut to non-native species records.
+Possible improvements to the Alien Species Database
+Associating images with records of non-native species
+The AADC has developed a database to manage information concerning collection events associated with the IPY project Aliens in Antarctica (see http://data.aad.gov.au/aadc/biodiversity/aliens/). The database allows images of items collected (e.g. seeds, invertebrates etc) to be uploaded and associated with the records. An example is shown in Attachment A.
+Associating images with non-native species records in the Biodiversity Database could also be useful, and the AADC is considering modifying that database. In particular, images could assist with identification of non-native species by experts worldwide, including from other National Antarctic research programs and beyond. Images of the location of observation or collection could also help put the record in context.
+Online form for entering non-native species records
+To streamline and provide structure to the process for submitting non-native species records, the AADC is also considering developing a standard online form. An example is shown in Attachment B. A final working version could be embedded in the Aliens pages of Biodiversity Database. The system could be set up to automatically direct new records to one or more ‘gatekeepers’, who could assist with species identification.
+
+Australia and SCAR would welcome feedback from Members on these possible enhancements to the Alien Species Database, or other suggestions for improvements.  
+
+Attachment A. Example of images associated with a non-native species record
+
+
+Attachment B. Possible standard form for entering non-native species records
+
+Personal entering the record:
+    • Name:
+    • Email address: 
+Are you recording an:
+    • Observation: Yes / No
+    • Collection: Yes /No
+Name of observer / collector:
+Date of observation / collection:
+Location of observation / collection:
+    • Named location:
+    • Latitude, Longitude:
+    • Habitat type:
+    • Image of location: [upload]
+Specimen information: [if a collection was made]
+    • Location where is the specimen stored:
+    • Specimen catalogue number:
+    • Image of specimen: [upload]
+Has the observed / collected non-native species been identified? Yes / No
+If yes:
+    • Name of person who made the identification:
+    • Degree of certainty: Certain / Uncertain
+    • Common name:
+    • Family:
+    • Genus:
+    • Species:
+Do you consider this non-native species to be a threat to the local environment? Yes / No / Possibly / Don’t know
+    • Please provide reasons for your answer:
+Notes: 
+For example: species abundance at the observation / collection location; does the species appear to be either restricted to the site it was found in or does the species have the ability to spread?
+Supporting information:
+    • Please upload supporting documentation
+
+

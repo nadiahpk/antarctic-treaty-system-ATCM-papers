@@ -1,0 +1,106 @@
+﻿
+
+
+Extending the use of the Automatic Identification System (AIS) to Antarctic operations safety
+
+
+
+
+Extending the use of the Automatic Identification System (AIS) to Antarctic operations safety
+
+Background
+In the last two years unfortunate accidents have occurred in the Antarctic Treaty Area, in which mobile transportation equipment was involved, usually used in the different bases and stations for the movement of personnel and equipment. That is what has happened with caterpillars that have fallen into land cracks and crevices, as well as with an inflatable boat in the marine environment.
+In order to enhance the level of safety and security of all operations in Antarctica, particularly in the light of these accidents, consideration has been given to extending the use of the Automatic Identification System (AIS), certified by the International Maritime Organization (IMO), to land stations and mobile or marine transportation equipment used in the Antarctic Treaty Area. We thus aim at safeguarding the lives of scientists, support staff and other individuals who use these means of transportation, and providing additional security to the equipment by facilitating search and rescue operations, or logistic support, including cases of environmental incidents, by constantly tracking the position of the mobile transportation units.
+
+The AIS is a shipboard radar display, with overlaid electronic chart data, that allows a specific ship within VHF radio range to transmit a signal with the mobile unit mark. This signal sends automatic information to coastal stations, other vessels and aircraft that have the necessary equipment, on the ship name, type, status, course, speed, as well as other relevant safety data, such as the closest point of approach (CPA) and time to closest point of approach (TCPA). It can also provide information on point of destination and estimated time of arrival.
+
+The use of this onboard equipment has been internationally determined in accordance with IMO guidelines and regulations, enabling every AIS-equipped ship to display information previously available only to modern Vessel Traffic Service operations centers. It is appropriate to bear in mind that IMO is a specialized agency responsible for adopting measures to improve the safety and security of international maritime traffic and to prevent marine pollution from ships, having established, for this purpose, AIS standards in order to facilitate interoperability of shipborne equipment compatible with mobile transport units, such as ships or search and rescue aircraft, and land stations.
+
+The use of this system on board ships has also been considered for the preparation of the Guidelines for Ships Operating in Arctic and Antarctic Ice Covered Waters.
+
+Hereunder we list the guidelines, recommendations and standards of the system:
+    • IMO Resolution MSC. 74 (69), Annex 3, RECOMMENDATION ON PERFORMANCE STANDARDS FOR AIS in SHIPS.
+    • IMO Resolution A.917 (22), GUIDELINES FOR THE ONBOARD OPERATIONAL USE OF SHIPBORNE AUTOMATIC IDENTIFICATION SYSTEMS (AIS).
+    • IMO Circular on the Safety of Maritime Navigation.227, GUIDELINES FOR THE INSTALATION OF A SHIPBORNE AUTOMATIC IDENTIFICATION SYSTEM (AIS)
+    • IALA GUIDELINES ON THE  AUTOMATIC IDENTIFICATION SYSTEMS (AIS), VOLUME 1:
+    • Part I – Operational Issues, Edition 1.3
+    • ITU – R Recommendation M.1371-1, TECHNICAL CHARACTERISTICS FOR A UNIVERSAL SHIPBORNE AUTOMATIC IDENTIFICATION SYSTEM USING TIME DIVISION MULTIPLE ACCESS IN THE VHF MARITIME MOBILE BAND.
+    • IALA TECHNICAL CLARIFICATIONS ON ITU-R M.1371-1 RECOMMENDATION 
+    • IEC 61993-2 Ed.1, MARITIME NAVIGATION AND RADIOCOMMUNICATION REQUIREMENTS - AUTOMATIC IDENTIFICATION SYSTEMS (AIS) - PART 2: CLASS “A” SHIPBORNE EQUIPMENT OF THE UNIVERSAL AUTOMATIC IDENTIFICATION SYSTEM (AIS) – OPERATIONAL AND PERFORMANCE REQUIREMENTS, METHODS OF TEST AND REQUIRED TEST RESULTS.
+NOTE:
+IMO – International Maritime Organization 
+IALA – International Association of Lighthouse Authorities 
+ITU – International Telecommunications Union 
+IEC – International Electrotechnical Commission 
+Additionally, the system provides for automatic contention resolution between itself and other stations, and communications integrity is maintained even in overload situations. These features are useful for Search and Rescue operations, or contention and remediation actions in cases of environmental incidents and also if logistic support is required, particularly in Antarctica where avoiding mutual interference between mobile units is an essential premise given the adverse operating conditions and during response actions in emergencies and contingency situations.
+Due to all these features, consideration has been given to extending the use of the AIS with the purpose of enhancing safety and security in Antarctic operations, land and marine, i.e. snow transport vehicles as well as smaller rigid or inflatable vessels.
+This enables constant monitoring of the ships´ movements and its possible search and location should a need for help arise, be it from a receiving station in a base in the Antarctic Treaty Area or mutually between the means deployed in the field (for example, travelling under convoy during voyage) and on the sea. Minimizing the search time when accurately knowing the datum or last position, individuals involved in a major accident are given greater possibilities for survival by receiving relief sooner.
+From an economic point of view, we must consider the low purchasing cost of the equipment, which is roughly equivalent to the U$S 700 you pay for receivers to install in Antarctic bases, and U$S 4.000 for the transponders to be installed in the mobile transportation units. One has to bear in mind that the wide use of onboard systems is promoting the manufacturing of smaller and lighter models which weigh approximately 7 kilograms, and are also more efficient and less costly.
+The designation of land mobile units is essential, and thus we propose the following category as an example:
+
+BASE
+TYPE
+NUMBER
+ARTIGAS
+CARRIER
+1
+
+Likewise, marine mobile units, vessels and inflatable boats could adopt a designation similar to land units, in keeping with the example above:
+
+BASE
+TYPE
+NUMBER
+ARTIGAS
+INFLATABLE BOAT
+1
+
+Experimental AIS test at Artigas Base
+In the light of all the results obtained from the AIS coastal station network installed in Uruguay by the Maritime Authority, tests have been performed at the Artigas Antarctic Scientific Base (known as BCAA for its acronym in Spanish).
+
+
+
+A receiver has thus been installed at BCAA, with the capability of relaying data to the Marine Traffic Control Centre in Montevideo, or it can be locally tracked by an operator in the base. Using a passive receiver, it can be continuously operated, avoiding interference with the environment, while it is in listening mode to receive the signal from a marine mobile unit, air rescue unit, or land rescue unit operating within radio range.
+Also, an AIS transponder has been installed in one of the BCAA carriers that was used to perform normal transport operations, such as trips to the coast of the Drake Passage to unload marine waste in accordance with the provisions of the Environmental Monitoring Programme. Contact was maintained at all times as its movements were continuously tracked. The following figure represents the contact with the carrier (shown as a triangle) during a voyage from Artigas Base (shown as a circle).
+
+
+
+	
+
+It is relevant to point out that contact was verified and information from the polar ship Polarstern was obtained during its activities in Maxwell Bay, which highlights how useful the system also is for bases operating with ships, both for scientific activity as well as support operations. The next figure represents the plotting obtained from the carrier (shown as a circle) during the voyage to Artigas Base, containing the information recorded with the contact from the Polarstern (shown as a triangle) in Maxwell Bay.
+
+
+	
+Tests have also been performed on board an AIS-equipped boat, with continuous tracking from the land station, in addition to revealing its identification to any ship equipped with the same system, which enhances navigational safety particularly in changing conditions of low visibility, in which it can be guided along safe traffic corridors.
+AIS Receiving Stations in Antarctic Bases
+Antarctic Bases that decide to install an AIS receiving station will be in a position to relay and record data of mobile units equipped with transponders, with overlaid digital chart data of the corresponding closest area, up to an average range of 20 nautical miles, which is compatible with the usual distance covered by land and marine vehicles from their respective bases. The range can be increased depending on the height of radar receiving antenna which determines the sensitive horizon and the physical conditions of the surrounding environment.
+Likewise, the resources deployed in convoy, such as land transport units performing transects, may be continuously tracking each other to provide mutual assistance, particularly in situations of low visibility, and might even remain connected even in severe weather conditions.
+In order to calibrate the charts, whether they are scanned or obtained from aerial photographs, there are programs available to synchronize geographical coordinates with the image shown, facilitating the setup of the system and making it accessible to most Antarctic programs.
+In case of a search and rescue incident, or any other request for assistance, the availability of a monitoring receiving station will provide information on the last position or datum of the mobile units, so that the rescue or support resources are guided directly to the site. This has the dual objective of avoiding a lengthy search operation by the rescue team, and providing a sound hope to those in distress or those who need help of being found as soon as weather conditions permit. As an example, from a practical point of view, it will make it easier to transport personnel replacements or equipment parts, provide assistance to a drifting vessel with a damaged engine, or to retrieve snow-covered transport without requiring special detection equipment such as a magnetometer.
+
+Future outlook: Establishment of an AIS Antarctic Network
+As a long term objective, based on the experience of individual stations or groups of stations, consideration might be given to the establishment of an Antarctic AIS network to enhance the coverage once the mobile unit exceeds the range limits of the equipment so that its mark can be tracked by the next receiving station depending on the location of nearby bases.
+A network organized by station or base concentration area would greatly facilitate issuing an alert and coordinating search and rescue operations, or any other support activity which requires accurate information on the position of the mobile units. One could count on the prompt participation of nearby resources, bearing in mind the fact that rescue aircraft might also be equipped with the system.
+Likewise, a speedy development of the equipment is foreseeable, making it more compact and lighter, which offers a good prospect to give it, in the near future, to individuals in a group, so as to ensure the continuous monitoring of expeditions on foot, once they leave their base or their vehicles, enhancing the response capacity if support is required.
+A chart is shown here as a graphic illustration of the coverage range using only two receiving stations in King George Island/25 de Mayo Island, which practically covers the entire area of the island and its environs, where station mobile units could operate as well as supply ships.
+
+
+Conclusions
+    • The AIS is shown as a universal compatible system which promotes interoperability of resources, enhancing the security and safety of Antarctic operations and avoiding duplication of efforts.
+    • The AIS shows a high cost-benefit ratio, since it contributes to safeguarding human life as a supreme asset to be protected in search and rescue operations, as well as the preservation of the environment by reducing the probability of incidents, providing at the same time a practical tool for routine support operations in the Antarctic Treaty Area.
+    • The future establishment of a network of Antarctic receiving stations could facilitate coordination of response actions in case of emergencies, inter alia, for search and rescue, as well as in environmental accidents, optimizing the performance of individual teams.
+Recommendations
+A recommendation is submitted to this ATCM to consider the following guidelines as a draft proposal for its consideration and possible adoption of a Resolution based on its instrumental applicability:
+
+Draft Proposal
+The Representatives,
+Aware of the importance of enhancing the safety of Antarctic operations, especially in safeguarding human lives in the light of severe accidents which have occurred recently;
+Taking into account that enhancing the safety operations also contributes to the preservation of the Antarctic environment and has reduced the potential risk and lowered the probability of accidents with marine and land Antarctic transportation means;
+Bearing in mind the possibility of making efficient use of the Automatic Identification System (AIS) established by IMO for ships, rescue aircraft and land stations, extending it, on a voluntary basis, to intercommunication between marine and land transport means used to move people and equipment, and to their tracking by Antarctic bases and stations;
+Taking note of the fact that extensive use of the AIS would also help to implement the provisions of Article 15 of the Madrid Protocol in providing a prompt and effective response action to such emergencies which might arise, and would improve interoperability for a joint action in such situations;
+Recommend the following:
+1) To urge all Parties to consider, on a voluntary basis, the possibility to perform tests with AIS equipment in land and marine mobile transportation units, and in bases and stations in the Antarctic Treaty Area, with the purpose of gaining experience in the operation of the equipment and assessing results aimed at the establishment of a future network between nearby stations.
+2) To request COMNAP:
+a. to assess the results on the basis of the experience gained in the various stations and bases, with the purpose of establishing the feasibility of implementing networks coordinated through groups set by bases or nearby stations in concentration areas;
+b. to standardize the protocols for the exchange of data between bases, on the basis of the results obtained from the establishment of the aforementioned networks;
+c.to submit a progress report to the next ATCM.
+

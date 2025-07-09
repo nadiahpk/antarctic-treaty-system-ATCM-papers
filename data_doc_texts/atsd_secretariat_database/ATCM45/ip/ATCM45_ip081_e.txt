@@ -1,0 +1,618 @@
+AIS AtoN installation in the Antarctic by the Argentine Republic
+(2011-2023 Programme)
+English version provided by the author
+AIS AtoN installation in the Antarctic by the Argentine Republic
+(2011 – 2023 Programme)
+Information document submitted by the Argentine Republic
+Summary
+Argentine Republic hereby informs the Consultative Parties and the
+Antarctic community as a whole about the works on the Automatic
+Identification System (AIS) developed during the last years in the
+Antarctic Continent.
+Consultative Parties are invited to become aware of the current
+situation and they together with tourist operators, who are IAATO
+members, are advised to issue reports for the AIS Aton optimization.
+INTRODUCTION
+In response to the exponential increase in navigation in the
+Antarctic and, with the aim of improving the safety of human life at
+sea and the protection of the marine environment, in December
+2016 the Argentine Republic submitted to the IMO Sub-committee
+on Navigation, Communications and Search and Rescue (NCSR) its
+plan of study and tests with AIS Aton that began in 2011 in a joint
+work performed with the Servicio de Hidrografía Naval, private
+companies, the Antarctic National Command and the Joint
+Antarctic Patrol responsible for the logistics operations in the
+Argentine bases.
+DEVELOPMENT
+In order to update the submitted information on the AIS Aton
+installation in the Antarctic, its progress between the 2011/2012
+and 2022/2023 Antarctic Summer Campaigns (ASCs) is set forth
+below in chronological order.
+During the 2011/2012 and 2012/201 ASCs an AIS AtoN was
+deployed in the Orcadas Station (LAT. 60° 44 S LON 044° 44 W),
+that enabled the generation of one Real AIS signal and four virtual
+signals to mark geographic features.
+Location
+AtoN type
+MMSI
+Latitude
+Longitude
+1.
+Estación Orcadas 1
+Real
+997011088.
+60°44´ S
+044° 44´ W
+2.
+Montura Island
+Virtual
+997016104.
+60° 36.75´ S
+044° 53,12´ W
+3.
+Brisbane Islet
+Virtual
+997016103.
+60° 37.68´ S
+045° 02,25´ W
+4.
+Corbeta Islet
+Virtual
+997016102.
+60° 40.75´ S
+044° 55,82´ W
+5.
+Sörle Cape
+Virtual
+997016101.
+60° 45.10´ S
+044° 58,62´ W
+During the 2014/2015 ASC a second AIS AtoN equipment was
+deployed in the Orcadas Station, which enabled the generation of
+another real AIS and four additional virtual signals.
+Location
+AtoN type
+MMSI
+Latitude
+Longitude
+1.
+Estación Orcadas 2
+Real
+997011089.
+60°44.22´ S
+044° 44,30´ W
+2.
+Wistrom Islet
+Virtual
+997016105.
+60° 47.31´ S
+044° 45,50´ W
+3.
+Burn Murdoch Cape
+Virtual
+997016106.
+60° 48.87´ S
+044° 42,35´ W
+4.
+Murray Islet
+Virtual
+997016108.
+60° 46.50´ S
+044° 31,25´ W
+5.
+Herdman Rock
+Virtual
+997016107.
+60° 40.90´ S
+044° 19,95´ W
+CONFIGURATION OF TWO REAL AND VIRTUAL AIS AtoN
+ORCADAS UNO – ORCADAS DOS
+During the 2015/2016 ASC an AIS AtoN station was deployed in
+the Esperanza Station (LAT.63° 23.5’ S LON 056° 59.4’ W), which
+enabled the generation of one real AIS signal, three virtual and one
+synthetic signal.
+ESPERANZA STATION
+Location
+AtoN type
+MMSI
+Latitude
+Longitude
+1.
+Estación Esperanza
+Real
+997011091.
+63°23.90´ S
+056° 59,88´ W
+2.
+Sheppard Point
+Virtual
+997016109.
+63°22.55´ S
+056° 58,35´ W
+3.
+Welchness Cape
+Virtual
+997016110.
+63°29.10´ S
+056° 15.29´ W
+4.
+Esperanza Lighthouse
+Synthetic
+997011104.
+63°23.71´ S
+056° 58.52´ W
+5.
+Kinnes Cape
+Virtual
+997016112.
+63°22.50´ S
+056° 33.32´ W
+CONFIGURATION OF ONE REAL, THREE VIRTUAL AND ONE
+SYNTHETIC AIS AtoN
+During the 2016/2017 ASC two new AIS AtoN stations were
+installed, one of them at the CARLINI Station (LAT. 62° 14.2’ S LON
+058° 40.1’ W) and another on DECEPCIÓN Station (LAT.62° 59’ S
+LON 060° 43’ W) generating each of them four virtual signals,
+which were timely informed through Navarea VI Navigational
+Warnings and the Notices to Mariners issued by the Servicio de
+Hidrografía Naval of the Argentine Republic.
+CARLINI STATION
+Location
+AtoN type
+MMSI
+Latitude
+Longitude
+1.
+CARLINI
+STATION
+Real
+997011092.
+62° 14.24’ S
+058° 39,83’ W
+2.
+Roca “M”
+Virtual
+997016116.
+62° 15.62’ S
+058° 41,45’ W
+3.
+Chanchito Rock
+Virtual
+997016114.
+62° 18.50’ S
+058° 47,82’ W
+4.
+Winship Point
+Virtual
+997016115.
+62° 14.60’ S
+058° 43,67’ W
+5.
+Stranger Point
+Virtual
+997016113.
+62° 15.71’ S
+058° 37,00’ W
+DECEPCIÓN STATION
+Location
+AtoN type
+MMSI
+Latitude
+Longitude
+1.
+DECEPCION STATION
+Real
+997011093.
+62°58.60’ S
+060° 42,05’ W
+2.
+Monolito
+Virtual
+997016117.
+62° 59.52’ S
+060° 32,97’ W
+3.
+Ravn Rock
+Virtual
+997016120.
+62° 59.71’ S
+060° 33,32’ W
+4.
+Entrada Point
+Virtual
+997016118.
+62° 59.87’ S
+060° 33,28’ W
+5.
+Balcarce Point
+Virtual
+997016119
+.
+62° 59.56 S
+060° 33,54’ W
+During the 2017/2018 ASC two new AIS AtoN stations were
+deployed, one of them at the BROWN Base (LAT. 64° 54’ S LON
+062° 12’ W) and another on SAN MARTIN Base (LAT. 68° 08’ S
+Longitude 067° 08’ W). The station at Brown Base generates one
+real and four virtual signals while the one at San Martin base
+generates one real signal and four synthetic ones, which were
+timely informed through NAVAREA VI Navigational Warnings and
+the Notices to Mariners issued by the Servicio de Hidrografía Naval
+of the Argentine Republic.
+BROWN STATION
+Location
+AtoN type
+MMSI
+Latitude
+Longitude
+1.
+Brown Station
+Real
+997011095.
+64°53.72’ S
+062° 52,24’ W
+2.
+Vieytes Point
+Virtual
+997016128.
+64°53.72’ S
+062° 57,31’ W
+3.
+Rondeau Point
+Virtual
+997016127.
+64° 53.51’ S
+062° 56,02’ W
+4.
+Laprida Point
+Virtual
+997016124.
+64° 54.02’ S
+063° 04,58’ W
+5.
+San Eladio Cape
+Virtual
+997016125.
+64° 51.01’ S
+063° 07,16’ W
+SAN MARTÍN STATION
+Location
+AtoN type
+MMSI
+Latitude
+Longitude
+1.
+San Martín Station
+Real
+997011094.
+68°07.83’ S
+067° 06,17’ W
+2.
+Lanusse Beacon
+Synthetic
+997011102.
+68°12.98’ S
+066° 57,15’ W
+3.
+Libertad Beacon
+Synthetic
+997011101.
+68° 11.74’ S
+067° 09,30’ W
+4.
+22 de febrero Beacon
+Synthetic
+997011100.
+68° 10.44’ S
+067° 15,63’ W
+5.
+Garay Beacon
+Synthetic
+997011103.
+68° 08.61’ S
+067° 03,87’ W
+During the 2018/2019 ASC an AIS AtoN was renewed at the
+ORCADAS Station (LAT. 60º 44’ S Longitude 044º 44’ W). In
+contrast to the previous one, this station generates one real signal
+and ten virtual ones, which were timely informed through Navarea
+VI Navigational Warnings and the
+Notices to Mariners issued by the Servicio de Hidrografía Naval of
+the Argentine Republic.
+Location
+AtoN type
+MMSI
+Latitude
+Longitude
+1.
+Orcadas Station 2
+Real
+997011089.
+60°44.22´ S
+044° 44,30´ W
+2.
+Montura Island
+Virtual
+997016104.
+60° 36.75´ S
+044° 53,12´ W
+3.
+Brisbane Islet
+Virtual
+997016103.
+60° 37.68´ S
+045° 02,25´ W
+4.
+Corbeta Islet
+Virtual
+997016102.
+60° 40.75´ S
+044° 55,82´ W
+5.
+Sörle Cape
+Virtual
+997016101.
+60° 45.10´ S
+044° 58,62´ W
+6.
+Wistrom Islet
+Virtual
+997016105.
+60° 47.31´ S
+044° 45,50´ W
+7.
+Burn Murdoch Cape
+Virtual
+997016106.
+60° 48.87´ S
+044° 42,35´ W
+8.
+Murray Islet
+Virtual
+997016108.
+60° 46.50´ S
+044° 31,25´ W
+9.
+Herdman Rock
+Virtual
+997016107.
+60° 40.90´ S
+044° 19,95´ W
+10.
+Roca Cape
+Virtual
+997016129.
+60° 44.25´ S
+044° 50,50´ W
+11.
+Mabel Point
+Virtual
+997016130.
+60° 40.50´ S
+044° 41,50´ W
+NEW AIS AtoN EQUIPMENT, MSM TRADEMARK
+ELECTRONIC EQUIPMENT INSTALLED AT THE MAIN BUILDING
+During the 2019/2020, a new AIS AtoN was deployed at the
+PRIMAVERA Station (LAT.64º09’ S LON 060º 58’ W), which
+generates 1 real and 10 virtual signals, which were timely informed
+through NAVAREA VI Navigational Warnings and by the Argentine
+Notices to Mariners.
+Location
+AtoN type
+MMSI
+Latitude
+Longitude
+1.
+Primavera Station
+Real
+997011105.
+64°09.38’ S
+060° 57,32’ W
+2.
+Vivot Cape
+Virtual
+997016132.
+64°04.08’ S
+061º 02.12’ W
+3.
+Kay Islet
+Virtual
+997016123.
+64° 07.46’ S
+060° 55,97’ W
+4.
+Mar Islet
+Virtual
+997016122.
+64º08.61’ S
+060° 59,14’ W
+5.
+Primavera Cape
+Virtual
+997016121.
+64° 09.29’ S
+060° 57,40’ W
+6.
+Musgo Islet
+Virtual
+997016126.
+64º 09.98’ S
+061º 01.81’ W
+7.
+José Hernández Island
+Virtual
+997016137.
+64º 10.17’ S
+061º 06.41’ W
+8.
+Pastore Islet
+Virtual
+997016136.
+64º 05.55’ S
+061º 16.98’ W
+9.
+Madariaga Islet
+Virtual
+997016135.
+64º 02.92’ S
+061º16.46’ W
+10.
+Mansilla Islet
+Virtual
+997016134.
+64º 04.68’ S
+061º 01.93’ W
+11.
+Pepino Point
+Virtual
+997016133.
+64º08.42’ S
+060º 53.60’ W
+During the 2020/2021 ASC, all the before-mentioned stations
+underwent maintenance works and the equipment of the
+ESPERANZA STATION was configured (LAT. 63° 23.5’ S LON 056°
+59.4’ W) to broadcast message 8.
+During the 2021/2022 a new SIA AtoN was deployed at the PETREL
+Station (LAT.63º28’ S LON 056º 17’ W), which generates 1 real and
+9 virtual signals, which were timely informed through NAVAREA VI
+Navigational Warnings and by the Argentine Notices to Mariners.
+Location
+AtoN type
+MMSI
+Latitude
+Longitude
+1.
+Petrel Station
+Real
+997011148.
+63°28.36’ S
+056° 13,36’ W
+2.
+Uruguay Island
+Virtual
+997016345.
+63°28.36’ S
+056° 32,02’ W
+3.
+Rosamel Island
+Virtual
+997016344.
+63° 33.43’ S
+056° 17,43’ W
+4.
+Monte D’Urville
+Virtual
+997016343.
+63°25.18’ S
+056° 18,54’ W
+5.
+Active Rock
+Virtual
+997016342.
+63° 23.27’ S
+055° 52,25’ W
+6.
+Purvis Cape
+Virtual
+997016341.
+63° 34.35’ S
+056° 01,07’ W
+7.
+Rodriguez Cape
+Virtual
+997016340.
+63° 31.47’ S
+056° 43,12’ W
+8.
+Jonassen Rocks
+Virtual
+997016339.
+63° 32.12’ S
+056° 38,43’ W
+9.
+Scrymgeour Cape
+Virtual
+997016338.
+63° 33.12’ S
+056°27.09’ W
+10.
+Sky Beacon
+Synthetic
+997011149.
+63° 28.23’ S
+056° 13,33’ W
+11.
+Diana Reef
+Virtual
+997016337.
+63°26.20’ S
+056° 12,19’ W
+EQUIPMENT ANTENNA INSTALLED AT THE MAIL PREMISE AT
+PETREL STATION
+During the 2022/2023 ASC a new AIS AtoN was deployed at the
+MARAMBIO Station (LAT.64º14,4’ S LON 056º 37,7’ W), which
+generates one real, two virtual and four synthetic signals. These
+aids to navigation shall be operational in a trial mode once the
+MMSI be assigned.
+Location
+AtoN type
+MMSI
+Latitude
+Longitude
+1.
+MARAMBIO Base
+Real
+Pending
+64° 14.39´ S
+056° 37,71´ W
+2.
+Venesia
+Synthetic
+Pending
+64° 15.59´ S
+056° 38,39´ W
+3.
+Chavez
+Synthetic
+Pending
+64° 14.08´ S
+056° 35,25´ W
+4.
+Pierrou
+Synthetic
+Pending
+64° 12.92´ S
+056° 36,36´ W
+5.
+Cincuentenario
+Synthetic
+Pending
+64° 21.32´ S
+056° 55,85´ W
+6.
+Cockburn
+Virtual
+Pending
+64° 12.00´ S
+056° 50,53´ W
+7.
+Gorrochategui
+Virtual
+Pending
+64° 12.80´ S
+056° 38,34´ W
+The antennas of the AIS AtoN equipments located at the control
+tower
+PROPOSAL:
+The parties are hereby invited to:
+1. Take note of the installation of the AIS AtoN in the Antarctic
+with the purpose of increasing safety in navigation for the benefit of
+safeguarding human life at sea and the protection of the marine
+environment.
+2. Inform mariners and tourist operators (IAATO) that organize
+cruise tours to the Antarctic region about the availability of
+installed AIS AtoN.
+3. Request mariners to inform NAVAREA VI Coordinator about
+operational failures of these signals or any other information that
+they may consider relevant for the service improvement. In order to
+enable communication, an online form in Spanish and English
+languages has been uploaded on www.hidro.gov.ar.

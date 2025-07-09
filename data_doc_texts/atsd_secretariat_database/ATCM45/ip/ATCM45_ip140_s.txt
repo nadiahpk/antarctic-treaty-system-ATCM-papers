@@ -1,0 +1,131 @@
+Informe sobre la Modelización de Ecosistemas Antárticos con
+Técnicas de Machine-Learning y sus Perspectivas Futuras
+Informe sobre la Modelización de Ecosistemas Antárticos con
+Técnicas de Machine-Learning y sus Perspectivas Futuras
+Resumen
+En el marco del Programa Técnico, Científico y Ambiental de la
+XXVI Expedición Antártica Ecuatoriana, alineado al eje de
+Ecosistemas y Servicios Ecosistémicos en la Antártida, se ejecutó el
+proyecto “Modelización de ecosistemas antárticos con técnicas de
+machine-learning y sus perspectivas futuras”, dicho proyecto se
+desarrolló en el Campamento Turco de Investigación Científica
+ubicado en Isla Herradura, su objetivo es la aplicación de la
+modelización matemática, entre ellas los IBMs, junto con técnicas
+de machine-learning para estudiar la dinámica de los ecosistemas
+antárticos, referente los gases de efecto invernadero más
+importantes como son: metano (CH4) y óxido nitroso (N2O).
+Desarrollo
+La Antártida es uno de los lugares más vulnerables al cambio
+climático. El aumento de las temperaturas globales llevan al
+derretimiento de la capa de hielo y cambios en las corrientes
+oceánicas. Estos cambios pueden tener impactos significativos en el
+planeta, incluyendo el aumento del nivel del mar, cambios en los
+patrones climáticos, movilidad de especies, disponibilidad de
+recursos, entre otros. Por las interconexiones existentes, podemos
+afirmar sin lugar a dudas que: Si no hay hielo en Antártica, se sabrá
+en Galápagos.
+La capacidad actual de las computadoras ha abierto nuevas
+perspectivas a la utilización de la modelización matemática para el
+estudio de los sistemas biológicos complejos. Una estrategia de
+modelización matemática con grandes posibilidades es la
+modelización basada en el individuo o la modelización basada en
+agentes, en inglés individual-based model (IBM) o Agent-based
+Model (ABM).
+El proyecto con código CIDi22023, aprobado por el Instituto
+Oceanográfico y Antártico de la Armada del Ecuador (INOCAR),
+auspiciado por la Universidad Central del Ecuador y ejecutado por
+el investigador PhD Pablo Araujo Granda consolida la aplicación de
+la modelización matemática, entre ellas los IBMs, junto con técnicas
+de machine learning para estudiar la dinámica de los ecosistemas
+antárticos, en lo referente a la dinámica de los gases de efecto
+invernadero, metano (CH4) y óxido nitroso (N2O).
+La modelización de gases de efecto invernadero en Antártica puede
+ayudar a los científicos a comprender cómo se comportan CH4 y
+N2O en la atmósfera, incluyendo sus fuentes y sumideros. Uno de
+los desafíos de la modelización de gases de efecto invernadero en
+Antártica es la falta de mediciones directas. Solo hay algunas
+estaciones de investigación en el continente, lo que dificulta obtener
+una vista completa de la atmósfera sobre Antártica.
+En el marco del memorándum de entendimiento de cooperación
+científica interinstitucional suscrito en el 2022 entre INOCAR y el
+Consejo de Investigación Científica y Tecnológica de Turquía
+(TUBITAK), este proyecto se llevó a cabo en el Campamento
+Científico de Turquía ubicado en la isla Herradura (Horseshoe
+Island), el objetivo de campo planteado por el proyecto durante esta
+expedición fue tomar muestras de agua mar al pie de los glaciares
+de la bahía principal de la isla, para en las mismas analizar la
+concentración de CH4 y N2O, y de esta forma comenzar a crear la
+línea base in-situ de estos gases.
+El CH4 es un gas de efecto invernadero mucho menos común que el
+dióxido de carbono (CO2), pero es mucho más potente en términos
+de su capacidad para atrapar el calor en la atmósfera, es
+decir, es un gas con un Global Warming Potential (GWP) 25 veces
+superior a CO2 en 100 años. La concentración de CH4 en la
+atmósfera ha aumentado significativamente desde la revolución
+industrial debido a actividades humanas como la agricultura, junto
+a la producción y quema de combustibles fósiles.
+El estudio del CH4 en Antártica es importante porque la región
+alberga grandes cantidades de CH4 atrapado en el hielo y el
+permafrost. A medida que la temperatura en Antártica aumenta
+debido al cambio climático, el CH4 atrapado en el hielo y el
+permafrost puede ser liberado a la atmósfera, lo que a su vez puede
+acelerar el cambio climático.
+El N2O es otro gas de efecto invernadero que el proyecto CIDi22023
+estudia en Antártica. Aunque el N2O es menos conocido que el CO2
+y el CH4, es un gas de efecto invernadero muy potente con GWP
+300 veces superior a CO2 en 100 años. El N2O llega a la atmósfera
+a través de procesos microbianos en el suelo y el océano, pero
+también es liberado por actividades humanas como la agricultura y
+la quema de combustibles fósiles.
+En Antártica, la producción de N2O está asociada a procesos
+biológicos complejos y delicados, que se en desarrollan en la tierra
+y mayoritariamente en el océano. Se estima que las áreas más
+cercanas a la costa podrían tener una mayor concentración de N2O
+debido a la actividad biológica.
+Durante la XXVI Expedición Antártica Ecuatoriana, el proyecto
+CIDi22023 tomo 46 muestras de agua de mar a una profundidad de
+10 metros, en la bahía de Horseshoe Island. Todas y cada una de las
+muestras fueron geolocalizadas, etiquetadas y debidamente
+preservadas para analizar en estás las concentraciones de CH4 y
+N2O. Actualmente las muestras están siendo analizadas en los
+laboratorios de la Universidad de Liege en Bélgica, uno de los
+colaboradores estratégicos del proyecto CIDi22023.
+Dichos resultados permitirán crear la línea base de estos gases en la
+zona de influencia del campamento científico de Turquía, latitud 67
+de la península antártica. El proyecto busca replicar esta toma de
+muestras en las siguientes expediciones antárticas en las zonas de
+influencia de otras bases científicas antárticas y así completar las
+mediciones directas de CH4 y N2O en el océano que rodea al
+continente antártico. La Universidad Central tiene previsto además
+entre sus objetivos el hacer uso de los datos de satélites, que ya
+rastrean y registran las concentraciones de CH4 y N2O en la
+atmósfera. Dichos datos de satélites (Sentinel-V) pueden rastrear el
+movimiento de estos gases en la atmósfera, relacionarlos con las
+mediciones experimentales y así desarrollar algoritmos matemáticos
+(modelos) para predecir su comportamiento en el futuro.
+Una diferencia notable de la modelización en comparación con el
+trabajo experimental es que los científicos intentan explicar un
+hecho en condiciones experimentales a partir de la observación
+directa, mientras que los modelos no investigan la naturaleza del
+fenómeno; investigan la validez de nuestros pensamientos, en
+esencia, si la lógica detrás de un argumento es correcta.
+En el mediano y largo plazo el proyecto CIDi22023 busca ampliar
+su cobertura hacia perforar la capa de hielo y extraer estas burbujas
+de aire atrapadas en la nieve y hielo para estudiar la concentración
+de CH4 y N2O de la atmósfera en el pasado y modelizar cómo han
+cambiado con el tiempo, relacionando esto con cambios en los
+patrones climáticos, movilidad de especies, disponibilidad de
+recursos, entre otros.
+Conclusión
+El repositorio de información de estudios antárticos del Ecuador, se
+verá enriquecido con la modelización de gases de efecto
+invernadero basada en las técnicas de análisis de machine-learning,
+las que permitirán contar con herramientas para comprender la
+dinámica de los
+ecosistemas antárticos y entender como las interacciones entre estos
+gases afectan el clima global, así como a las especies y recursos
+antárticos. Adicionalmente la modelización de gases de efecto
+invernadero en Antártida permitirá ayudar a predecir el impacto
+futuro del cambio climático en la región y en todo el mundo,
+consintiendo a los científicos desarrollar estrategias para mitigar sus
+efectos negativos.

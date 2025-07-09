@@ -1,0 +1,687 @@
+ANTARCTIC TREATY                TRATADO ANTARTICO
+XXI CONSULTATIVE MEETING       XXI REUNION CONSULTIVA
+
+TRAITE SUR L'ANTARTIQUE        ДОГОВОР ОБ АНТАРКТИКЕ
+XXIeme REUNION CONSULTATIVE    XXI КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+WMO NETWORKS IN SUPPORT OF ANTARCTIC
+OPERATIONS AND RESEARCH
+
+Agenda item 11               Submitted by WMO
+
+XXI ATCM/IP49
+May, 1997
+Original: English
+14-05-1997 10:58   FROM BOM TAS/ANT EXECUTIVE    TO     000156433633884   P.03
+                        2
+
+WMO NETWORKS
+IN SUPPORT OF ANTARCTIC OPERATIONS AND RESEARCH
+
+Introduction
+
+The Antarctic continent, covers almost 12.5 million square kilometres, compared with 7.7
+million square kilometres for Australia. To the continental area can be added 1.5 million
+square kilometres for permanent ice shelves, and in winter another 19 million square
+kilometres of sea-ice covered ocean. The total area of interest to Antarctic scientists is
+over 30 million square kilometres - four to five times the area of Australia.
+
+The Trans-Antarctic Mountains cross the entire continent, rising as high as 4,900 metres
+above sea level, and dividing the continent into two natural regions - East Antarctica and
+West Antarctica. Antarctica has the world's greatest modern ice sheet, with an average
+ice thickness of almost 2500 metres. This contains 90% of the world's ice and 75% of its
+fresh water. It consists of enough ice to raise global sea level by some 65 metres if it
+should melt. Much of the rock on which the ice is supported is below sea level. The
+average surface elevation of the Antarctic ice sheet is 2300 metres but it rises to 4300
+metres in the vicinity of Dome A (81°S 79°E), the highest point on the East Antarctic
+Plateau.
+
+Understanding basic attributes of the Earth's atmosphere is fundamental to understanding
+our changing climate. Antarctica's icecap, sea ice and the general circulation of the
+Southern Ocean are known to have major impacts on global climate. The influence of
+Antarctica on the weather and climate of Australia (and other populated areas of the
+Southern Hemisphere) has still to be quantified, but polar-region processes are turning
+out to be of crucial importance to human-induced global environmental changes.
+
+Surface observing network
+
+Staffed stations
+
+Although some 35 occupied stations south of latitude 60°S are staffed throughout the
+year, the distribution of these across the continent is not uniform, and less well distributed
+than during the International Geophysical Year in 1957-58. For example eight of these
+stations are on King George Island at approximately latitude 62°S. Excluding the
+Antarctic Peninsula, there are 16 staffed stations located on the Antarctic continent, most
+on the coast at sites that can be reached by ship. Not all Antarctic stations contribute
+observer measured surface meteorological data to the Global Telecommunications
+System.
+
+The USA station Amundsen-Scott at the South Pole (2800 metres above sea level) and
+Vostok (at an altitude of 3488 m above sea level) are the only long term stations over the
+14-05-1997   10:59   FROM BOM TAS/ANT EXECUTIVE   TO   000156433633884   P.04
+
+3
+
+continental interior that are staffed year-round. Vostok was originally established by a 
+Soviet Antarctic expedition on 16 December 1957. Vostok was temporarily closed 
+(including surface meteorological observations) from February to November 1994 and 
+again from 23 January 1996. Surface meteorological observations were recommenced at 
+Vostok station in February 1997.
+
+The new station Japanese station Dome Fuji (77° 19'S 39° 42'E and 3810 metres above 
+sea level) was settled in December 1994 for three years to carry out ice core drilling 
+together with glaciological and meteorological research. Dome Fuji is located 1000 km 
+south of Syowa. Surface meteorological observations are being provided three times a 
+day for the three years while ice core drilling is being carried out at Dome Fuji. An 
+automatic weather station operates continuously on the site.
+
+Automatic weather stations
+
+Automatic weather stations provide an essential contribution to the maintenance of a 
+meaningful meteorological network over the continent, and particularly over the 
+continental interior of East Antarctica, West Antarctica and the seasonal sea ice zone of 
+the south Pacific. WMO recommends a spacing of 250 km for land areas over more 
+heavily populated continents than Antarctic.
+
+The USA network of 51 automatic weather stations is operated in the Antarctic by a 
+principal scientific investigator Prof. Charles Sterns from the University of Wisconsin. 
+These stations are operated to meet special meteorological objectives and measure air 
+temperature, wind speed and direction, and air pressure. The data are received and stored 
+by he ARGOS Data Collection System, at Landover, Maryland. ARGOS forwards the 
+data to RTH Washington where it is entered into the GTS. The complete data set is 
+provided daily to the University of Wisconsin from Service ARGOS, Landover, 
+Maryland, via Internet.
+
+Another sizeable AWS network of 10 stations, all on the east Antarctic ice sheet, is 
+operated by the Australian Antarctic Division. Six of these stations are in the hinterland 
+of the Lambert Glacier Basin, between 1830 m and 2740 m altitude. The other four are in 
+Wilkes Land, between 1360 m and 3070 m above sea level. Data are updated 
+approximately every hour, and data from all except one station are contributed to the 
+GTS. These stations are powered with solar-charged 12v batteries and the longest running 
+station has operated continuously for over 12 years. Stations closer to the coast and at 
+lower altitudes have a shorter lifetime because they become buried in snow accumulation.
+
+There are several other AWS which store data, rather than relay the information in real 
+time via the GTS, in use by several other nations in Antarctica.
+14-05-1997  11:00  FROM BOM TAS/ANT EXECUTIVE        TO      000156433633884    P.05
+
+4
+
+Upper air network
+
+TABLE 1  ANTARCTIC UPPER AIR NETWORK - 1997
+Stations at which balloon-borne radiosondes are released to measure vertical profiles of 
+pressure, temperature and moisture. Upper wind velocities are also calculated.
+
+NATION    STATION           LAT        LONG       WMO        TIME      YEAR 
+                                          Index No.   (UTC)     obs.
+                                                     00   12   began
+
+Argentina  Marambio         64° 14'S   56°37'W    89055          Yes        1957
+Australia  Mawson           67°36'S   62°52'E    89564  Yes  Yes     1957
+           Davis             68°35'S   68°36'E    89571  Yes  Yes     1959
+           Casey             66° 17'S  110° 32'E  89611  Yes  Yes     1959
+France     Dumont D'Urville  66°40'S   140° 01'E  89642  Yes         1956
+Germany    Neumayer         70°35'S   8° 15'W    89002         Yes     1957
+Italy      Terra Nova Bay   74° 42'S  164° 06'E  89662  Yes* Yes*   1991
+Japan      Syowa            69° 00'S   39° 35'E   89532  Yes  Yes     1957
+Russia     Bellingshausen   62° 12'S   58° 58'W   89050  Yes         1969
+           Molodezhnaja     67° 40'S   45° 51'E   89542  Yes  Yes     1964
+           Mirnyj            66° 33'S   93° 01'E   89592  Yes         1956
+UK         Halley           75° 36'S   26° 15'W   89022  Yes         1957
+USA        Amundsen-Scott   90° S                89009  Yes  Yes*    1957
+           McMurdo           77° 51'S  166° 40'E  89664  Yes  Yes*    1957
+                                                     * November to February only
+
+Upper air observations from Antarctic in general, but in particular from the interior of the 
+continent now that only the Station at South Pole remains in operation, are of paramount 
+importance. As can be seen in Table 1 above, there are 14 sites from which upper air 
+soundings are currently made south of latitude 60°S, at either 00 UTC or 12 UTC. There 
+is a long term (34 years) climatological record of upper air soundings at 00 UTC from 
+Vostok (WMO No. 89606) for the period December 1957- January 1992.
+
+Calibrations of remotely sensed data from polar orbiting satellites, such as the mean 
+temperature of atmospheric layers, contained in TOVS data require at least a one, and 
+preferably two or three sites, from which balloon borne radio sonde measurements are 
+made of conditions over the continental ice cap are required. The only upper air sounding 
+made over the continental interior being made is at South Pole (Amundsen-Scott) which 
+has two flights per 24 hours (00 and 12 GMT) from November to February and one each 
+day (00 GMT) for the remainder of the year.
+14-05-1997   11:01   FROM BOM TAS/ANT EXECUTIVE   TO   000156433633884   P. 06
+
+                                  5
+
+WMO Expert Meeting on Antarctic Telecommunications
+
+The telecommunication network within the Antarctic and the interconnecting links 
+between the Antarctic and the GTS should ensure the rapid and reliable collection, 
+exchange and further distribution of Antarctic meteorological data to satisfy the needs of 
+Members of WMO. Meteorological services at many Antarctic stations are run by 
+National Antarctic Programmes and not by the Meteorological Authority of the operating 
+country.
+
+Data to be transmitted
+
+The data transmitted from the Antarctic should be composed of:
+(a) Surface synoptic reports (WMO coded messages called SYNOP) for main and 
+    intermediate standard hours (0000, 0300, 0600, 0900, 1200, 1500, 1800 and 2100 
+    UTC).
+
+(b) Radiosonde data giving vertical profiles of temperature, pressure, moisture and win 
+    velocity (WMO coded messages identified as TEMP) 0000 and 1200 UTC (and if 
+    available for other hours) from all stations in the Antarctic Basic Synoptic Network 
+    (ABSN) and also reports from additional stations as available.
+
+(c) All reports from ships, aircraft, drifting buoys and automatic weather stations. 
+    Meteorological data from buoys in the Southern Ocean and automatic weather 
+    stations in the Antarctic are normally collected by ARGOS and then disseminated 
+    from centres in Toulouse (France) and Landover (USA).
+
+(d) Monthly WMO coded messages of a summary of weather observations during the 
+    past month (CLIMAT) and monthly summary reports of upper air soundings 
+    (CLIMAT TEMP).
+
+(e) Priority reports, such as warnings of dangerous weather phenomena.
+
+(f) Other types of information as agreed.
+
+The Expert Meeting on Antarctic Telecommunication Arrangements was held in Geneva 
+from 21 to 23 October 1996. The Deputy Secretary-General of WMO Mr M. J. P. Jarraud 
+in his welcoming address (on behalf of the Secretary General) said that some progress had 
+been made in WMO Antarctic activities, in particular expansion of the Antarctic Basic 
+Synoptic Network (ABSN) by inclusion of real time data from Automatic Weather 
+Stations in Antarctica on the Global Telecommunications System (GTS). The Internal 
+Programme for Antarctic Drifting Buoys (IPAB) has been succesfully launched and it is 
+providing data from the Southern Ocean that have very high impact on the improved 
+performance of global analysis and prediction models of the atmosphere.
+
+The links for the daily international exchange of meteorological data within Antarctica 
+are shown in schematic form in Figure 1. The principal routes by which Antarctic 
+meteorological data enter the GTS are depicted in Figure 2.
+14-05-1997   11:01   FROM BOM TAS/ANT EXECUTIUE                TO               000156433633884   P.07
+
+6
+
+Mr Jarraud also indicated that deficiencies still exist in Antarctic observing and telecommunications networks. There is a decreasing number of upper-air stations. The delay between time of observation and insertion of reports into the GTS is still less than ideal. He pointed out that WMO Congress in 1995 re-emphasised the target time of within three hours for the reception of data from any Antarctic station at the Regional Telecommunication Hubs (RTH) of the GTS. Mr Jarraud said that the availability and appropriate use of satellite communications offers new opportunities for improvement in Antarctic telecommunications networks organised by National Meteorological Services and Managers of National Antarctic Programmes.
+
+The meeting reviewed the existing Antarctic Basic Synoptic Network (ABSN) on the basis of monitoring results and several notifications received from Members regarding the status of their stations. A revised list of ABSN stations was developed. The meeting requested the Chairman of the WMO Executive Council Working Group on Antarctic Meteorology to submit this list to the WMO Executive Council meeting to be held in June 1997 (WMO EC-XLIX).
+
+•
+Monitoring the real time exchange of Antarctic data on the GTS
+
+In addition to participating in the annual specific monitoring on the exchange of Antarctic data, Members may carry out their own monitoring. When shortcomings are identified, the results of such a survey should be communicated to the relevant GTS centres, including the Antarctic transmission stations, and the WMO Secretariat, to take appropriate action.
+
+The WMO Expert Meeting on Antarctic Telecommunications noted that only 44% of weather reports from all Antarctic stations were received in Bracknell, UK, within three hours of the time of observation (see Table 2 below). The meeting felt that the present Antarctic telecommunication arrangements needed to be reviewed, with a view to:
+(a)    Rationalising the arrangements, in particular avoiding the duplication of the distribution of data and output products by various telecommunication means;
+(b)    Coordinating the evolution of the Antarctic arrangements with the global evolution of the GTS arrangements, in particular as regards the development of satellite distribution systems;
+(c)    Benefiting from the introduction of new telecommunication services in the near future.
+
+•
+14-05-1997   11:03   FROM BOM TAS/ANT EXECUTIVE   TO   000156433633384   P.09
+
+        8
+
+term climatic record eg. Vostok, then best endeavours must be made to install and 
+maintain an AWS on the historical site.
+
+Because of the short instrumental record of the Antarctic climate and the sparse weather 
+reporting and climate reference station networks, compared with more populated parts of 
+the globe, there is a need to try to design a synoptic weather reporting and reference 
+climate station network for the future. New weather reporting and Reference Climate 
+Stations are needed in West Antarctic and the continental interior of East Antarctica, to 
+better represent the climate of Antarctica.
+
+Automated Geophysical Observatories currently operated by USA, UK and Japan have 
+the potential to fill the gaps in the meteorological network over the continental interior of 
+East Antarctica for little additional costs. An Antarctic network with a spacing of say 
+about 500 km should be achievable, and some further progress towards this goal could be 
+made in the next five years if the Automatic Geophysical Observatories could be brought 
+online through System ARGOS and WMO's GTS.
+
+Identification of general locations in Antarctica and on Sub Antarctic Islands for 
+installation, maintenance, calibration and replacement of AWS should be a result of the 
+Review of the GCOS Surface Network. Accordingly a plan will be developed as to where 
+AWS should in future be installed so as to provide a long term climate record.
+
+Automatic Geophysical Observatories
+
+UK
+
+The British Antarctic Survey (BAS) Automatic Geophysical Observatory (AGO) is an 
+unmanned station designed and built in-house to collect and store a wide variety of data 
+sets from locations where permanently staffed activities are impractical. An AGO 
+consists of a prefabricated housing, and is powered by renewable energy sources (wind 
+power and solar panels) with energy storage in lead acid batteries. Novel features include 
+the power management, and the thermal and environmental control systems. BAS AGOs 
+collect key data for geospace and meteorology research. Two AGOs deployed in 
+Antarctica in 1992 operated with great reliability, experiencing external temperatures as 
+low as -50°C and wind speeds of 30 metres per second. Two years field experience led to 
+an improved design for further deployments.
+
+BAS now has four Automatic Geophysical Observatories operating on the polar plateau 
+south of Halley Research Station. These AGOs support equipment for collecting and 
+storing data for studies on many solar-terrestrial physics and meteorological phenomena. 
+Meteorological information from these AGOs is not yet included in the real time data 
+distribution on the WMO Global Telecommunications System (GTS).
+
+TOTAL P.29
+14-05-1997   11:02   FROM BOM TAS/ANT EXECUTIVE   TO   000156433633884   P.06
+
+ 
+                                      7
+
+TABLE 2    AVAILABILITY OF REAL TIME OBSERVATIONAL DATA 
+FROM ANTARCTIC STATIONS AT BRACKNELL, UK, 
+DURING MONITORING PERIOD 1-15 FEBRUARY 1996
+
+                   Within      Within      Within 
+                   1 hour      3 hours     24 hours
+
+Surface weather (SYNOP)     32%         44%         57%
+
+                   Within      Within      Within 
+                   3 hours     12 hours    24 hours
+
+Temperature soundings (TEMP) 44%         59%         60%
+
+The monitoring of the availability of real time observational data (SYNOP, TEMP and 
+CLIMAT messages) from Antarctic stations at Regional Telecommunications Hubs 
+(RTH) is an important function. For the purposes of monitoring WMO recommends the 
+following cutoff times for the counting of the reports of SYNOP and TEMP reports:
+(a)    For SYNOP reports: 1, 3 and 12 hours.
+(b)    For TEMP reports 3 and 12 hours.
+
+The Antarctic Telecommunications meeting recommended preparing a review of these 
+Antarctic telecommunication arrangements before next session of the WMO EC Working 
+Group on Antarctic Meteorology planned to be held in 1998. The WMO Secretariat was 
+requested to send a questionnaire to Members signatory to the Antarctic Treaty before the 
+next session of the Working Group.
+
+The meeting reviewed the Antarctic telecommunications arrangements given in the 
+Manual on the GTS - Volume II - Antarctic. It proposed some amendments to the Manual 
+on the GTS and requested the chairman of the WMO EC Working Group on Antarctic 
+Meteorology to submit these to WMO EC-XLIX in June 1997 for approval.
+
+The Global Climate Observing System
+
+We need to design the WMO surface and upper air weather observing networks over 
+Antarctica and the Southern Oceans so that they will also serve to support the Global 
+Climate Observing System (GCOS).
+
+From a network spacing point of view it is desirable that formerly staffed stations that 
+have a climatic record and are now closed eg Byrd to maintain an AWS on the historical 
+site. If it is not financially possible to continuously operate a staffed station with a long
+14-05-1997  11:22   FROM BOM TAS/ANT EXECUTIUE   TO  000156433633884   P. 02
+
+                                  9
+
+U.S.A.
+
+Instrumentation and Sites
+
+The U.S.A. AGO network, when completed, will consist of a suite of identical 
+instruments (optical and radio wave auroral imagers, magnetometers, and narrow-and 
+wide-band radio receivers) placed at six locations on the polar plateau. Meteorological 
+data (temperature, pressure, wind speed and direction) are also obtained at each site.
+
+The AGOs provide power and data acquisition as a host to the instruments in a room-
+temperature shelter. They are powered by propane-fuelled thermoelectric generators that 
+use no moving parts and can run for a full year between servicing visits, and are designed 
+to be deployed and serviced by ski-equipped LC-130 Hercules and Twin Otter aircraft 
+operated by the VXE-6 Antarctic flight squadron of the U. S. Navy. Yearly service visits 
+provide opportunities to exchange optical disks used as recording media, replace fuel 
+supplies, and refurbish equipment as needed. The AGOs were designed, built, and 
+installed at the field sites by Lockheed Palo Alto Research Laboratory.
+
+Three AGOs were established in December 1992 and January 1994. A fourth unit was 
+deployed in January 1995. A fifth new AGO (P5) was deployed in January 1996. Half of 
+the total cargo for AGO-P6 was put into the last site in January 1996, but air operations 
+were suspended there until a better landing strip can be built. Revised plans called for the 
+installation of P6 to be completed in January 1997, which was achieved.
+
+TABLE 3: AGO Sites of the U.S.A.
+
+AGO  Date         Geographic location    Altitude    WMO
+     Established  Lat.         Long.      (metres)    No.
+
+P1   Jan 1994     S 83° 52'   E 129° 36'   2865       
+P2   Dec 1992     S 85° 40'   W 46° 23'    1860       
+P3   Jan 1995     S 82° 48'   E 28° 34'    3000*      
+P4   Jan 1994     S 82° 01'   E 96° 46'    3565       
+P5   Jan 1996     S 77° 14'   E 123° 31'   3000*      
+P6   Jan 1997     S 69° 31'   E 130° 01'   2500*      
+South Pole Station  S 90° 00'              2800       89009
+McMurdo Station     S 77° 51'   E 166° 40'    24        89664
+
+                                     * approximate
+14-05-1997  11:23   FROM BOM TAS/ANT EXECUTIUE  TO  000156433633884  P.03
+
+                                  10
+
+The importance of communication of meteorological data on the GTS
+
+Meteorological data are brought out in near real time in routine health and status 
+transmissions routed through the ARGOS satellite data retrieval system. Parameters 
+measured include the ambient air temperature, barometric pressure, wind speed and wind 
+direction. Currently, data from all satellite passes (about 28 per day in Antarctica) in the 
+previous 24 hour interval are relayed by Service ARGOS to Lockheed on a once per day 
+distribution via the Space Physics Analysis Network (SPAN). The health and status data 
+are scaled, plotted and archived at Lockheed and a snapshot (the last satellite pass) is 
+distributed to about a dozen interested parties via the Internet. Scaled meteorological data 
+are likewise available on the Internet http://space.augsburg.edu/ago/index.html but they 
+reflect the one day lag time.
+
+The data transmitted to ARGOS is organised into the appropriate frame byte positions so 
+that it should be directly compatible with WMO code. The Meteorology Program 
+Manager of the USA AGOs (Dr J. A. Doolittle, Lockheed Research Laboratory) 
+submitted a request through NOAA for WMO identification numbers for each of the 
+USA AGOS. He intended that the meteorological data from the AGOs will eventually be 
+distributed in real time via the WMO Global Telecommunications System (GTS).
+
+If Service ARGOS is requested to perform the function of delivery of WMO coded 
+messages to the GTS, then it would be necessary for the Meteorology Program Manager 
+of the USA AGOs Project to initially supply Service ARGOS with the applicable scaling 
+factors for each sensor, and then to subsequently provide updates as re-calibrations occur 
+during annual service visits to each AGO. This would be a very important step for 
+Antarctic atmospheric science because these data are likely to have a significant impact 
+on the performance of global models of the atmosphere over Antarctica and the Southern 
+Ocean.
+
+Staffed stations and automatic weather stations tend to be mostly confined to the 
+Antarctic coastline and adjacent hinterland. With the support of long range fixed wing 
+aircraft the AGOs have been located in the high elevation continental interior of 
+Antarctica. Apart from Amundsen-Scott station at the South Pole and Vostok, the deep 
+interior of East Antarctica will remain largely unrepresented in global weather prediction 
+models for many years to come, if the AGO network is not been brought on-line for this 
+purpose.
+
+Drifting buoys
+
+The International Program for Drifting Buoys
+
+The fourth session of the WMO/ICSU Joint Scientific Committee for the World Climate 
+Research Program (WCRP) Working Group on Sea Ice and Climate (Rome, Italy, 
+November 1989) concluded that a network of drifting buoys with a basic grid-scale of
+14-05-1997  11:23   FROM BOM TAS/ANT EXECUTIVE   TO   00015643353384   P.04
+
+11
+
+500 km would be the most cost-effective means to obtain surface atmospheric pressure 
+data and sea-ice drift observations over the Antarctic seasonal sea-ice zone, thus 
+providing accurate wind field and upper ocean current information, as required, to test 
+sea-ice models (See WCRP-41 : WMO/TD-No 377).
+
+The International Program for Antarctic Buoys (IPAB) is a cooperative project aiming to 
+establish a network of some 50 drifting buoys for both global weather forecasting and 
+climate research. Ice strengthened drifting data buoys are used. Position, air pressure and 
+(for those buoys in water) sea temperature are collected as basic data. Some systems are 
+equipped to additionally measure other parameters such as air temperature, wind speed 
+and direction. All buoys in the basic network should be equipped to enable data to be 
+transmitted in real time. As a preferred approach, platforms are located and data is 
+collected via CLS - Service ARGOS using the NOAA series of satellites. Some will be 
+instrumented to measure ocean temperatures to 200 m depth and other variables.
+
+There is a generally a northwards divergent flow of the pack ice drift in the Antarctic so 
+many buoys deployed at high southern latitudes eventually move north of the ice edge and 
+out of a main region of interest. Although IPAB has seen an increase in Antarctic drifting 
+buoy activities, it has not yet achieved the required network density. The IPAB plan 
+proposes a long-term commitment after the initial phase 1994 - 2000.
+
+The Australian Sector of the Southern Ocean
+
+Since the summer of 1994/95, data from all operational drifting buoys in of the Southern 
+Ocean and Automatic Weather Stations (AWS) installed in the Australian sector of the 
+Antarctic continent are distributed on the Global Telecommunications System (GTS) in 
+bulletins prepared by CLS-Argos (France). These ARGOS bulletins are received, via the 
+WMO Global Telecommunications System, in Australian forecasting centres within two 
+hours of the corresponding polar orbiting satellite pass.
+
+In the eastern hemisphere there were 7 drifters operating south of latitude 55°S on 30 
+April 1997 (see Figure 3). Four buoys were deployed in April by RSV Aurora Australis 
+after departing Casey, at latitudes between 62°S to 66°S and between longitudes 110°E 
+and 150°E. In early May 1997 two buoys were deployed from the RV Nathaniel B 
+Palmer in the northwest Ross Sea, near latitude 68°S.
+
+In response to the International Program for Antarctic Buoys (IPAB) of the World 
+Climate Research Program (WCRP), Dr Ian Allison, Australian Antarctic Division, will 
+continue to deploy four to six buoys each year. Deployment times and locations are 
+required that will ensure that the buoys are placed onto ice floes or eventually become 
+trapped within the pack ice and drift with the sea ice. For voyages other than those in 
+winter that generally requires....
+- deployment as late as possible, preferably after April 1, and certainly after mid March;
+14-05-1997   11:27   FROM BOM TAS/ANT EXECUTIUE   TO   000156433633884   P.01
+
+12
+- deployment south of the Antarctic Divergence in the east wind drift, generally south 
+of latitude 64°S.
+
+The NOAA series of meteorological and oceanographic satellites
+
+Large streams of meteorological and oceanographic data are provided by polar orbiting 
+satellites. The polar-orbiting environmental satellites of the US National Ocean and 
+Atmospheric Administration (NOAA) have one visible and four infra-red scanners. The 
+NOAA satellites travel at an altitude of 850 km and have an orbit time of 104 minutes. 
+They move over the ground at 6 km per second, taking an average of 13 minutes to pass 
+from horizon to horizon. The satellites transmit continuously as they scan the earth. Each 
+satellite is in view 4 to 6 times each day, depending on orbital ground tracks. NOAA 11, 
+NOAA 12 and NOAA 14 satellites are currently operational, normally only two NOAA 
+satellites are available.
+
+Data from the NOAA satellites include information from the Advanced Very High 
+Resolution Radiometer (AVHRR) instrument and data relayed from buoys drifting in the 
+Southern Ocean and Automatic Weather Stations on the Antarctic continent. There are 
+more than 10 Automatic Picture Transmission (APT) ground stations in Antarctica, 
+providing visual and infra-red images with a resolution of about 5 km. There is a network 
+of at least three 3 High Resolution Picture Transmission (HRPT) ground receiving 
+stations operating in the Antarctic, at McMurdo, Casey and Rothera. HRPT stations 
+collect additional satellite information such as Tiros Operational Vertical Sounder 
+(TOVS) atmospheric layer temperature and moisture data, as well as providing imagery in 
+four infra-red as well as one visible light channel with a horizontal resolution of 1 km.
+
+The Australian system
+
+The first HRPT satellite images were received at Casey in February 1991. It represented a 
+major step forward in Australia's meteorological forecasting capability in Antarctica and 
+provided the basis for Casey being recognised as an Antarctic Meteorological Centre. 
+High resolution pictures from NOAA polar orbiting satellites covering an area within a 
+radius of approximately 3,500 km from Casey are received at the AMC.
+
+HRPT data received at the Casey Meteorological Centre, are transmitted in real time via a 
+high speed data link to our National Meteorological and Operational Centre in Melbourne 
+for operational purposes. HRPT data are also archived on Exabyte tapes for transport each 
+summer to Hobart and Melbourne where data bases are stored. Ready access to the tapes 
+is provided to Antarctic Cooperative Research Centre, CSIRO Office of Space Science & 
+Applications and other researchers.
+
+The actual orbital paths taken by polar orbiting satellites vary from the predicted orbital 
+information so that griding of pictures has an accuracy of approximately + or - 5 km at
+the centre of the swath, if it is based solely on the orbital predictions. Progress has been 
+made at CSIRO Division of Oceanography in refining software so that AVHRR images, 
+taken from NOAA polar orbiting satellites, are automatically remapped using 
+geographical features identified and precisely located in the same orbit. In this way the 
+location of any grid point or pixel for which data are available can be specified with an 
+accuracy of 1 km at sub-satellite points over Australia.
+
+Exabyte tapes of archived raw HRPT data for 1992-95 are freely available for loan from 
+the Bureau of Meteorology or the Antarctic CRC. It is hoped that value added data, that 
+has been renormalised and calibrated, and made available in a user friendly display system 
+will eventually be provided by the Antarctic CRC and/or Mr Lee Belbin, Manager, 
+Australian National Antarctic Data Centre.
+
+Cloud drift and water vapour drift winds have been successfully derived by Dr. John Le 
+Marshall, Australian Bureau of Meteorology, from geostationary meteorological satellite 
+images down to about latitude 60°S. Hourly cloud drift winds routinely generated by the 
+Australian Bureau of Meteorology have been proved to be useful and their impact on 
+Numerical Weather Prediction has been quantified. Experimentation is continuing with 
+the use of AVHRR cloud images from the NOAA series of polar orbiting satellites and 
+some of the problems, including discrimination between cloud and ice are being 
+overcome.
+
+Sea Surface Wind Vectors
+
+Visible and infrared imagery taken from satellites is most useful but such observations are 
+affected by clouds and not all geophysical parameters on or near the Earth's surface can 
+be "seen", even under clear-sky conditions. The importance of remote sensing techniques, 
+utilising the microwave part of the spectrum has been recognised.
+
+Over the vast Southern Ocean, apart from drifting buoys and isolated ship observations, 
+sea level air pressure measurements are almost totally lacking. This deficiency limits the 
+performance of numerical weather prediction models and will be exacerbated as model 
+resolution improves. In summer when there are substantial areas free of sea ice, sea 
+surface wind vectors are derived from scatterometer data, to locate more accurately over 
+the Southern Ocean the centre and central pressure of extra-tropical cyclones and position 
+of cold and warm fronts. Accordingly the initial location of synoptic weather systems is 
+better specified in the analysis and hence forecasts are improved.
+
+European Space Agency
+
+ERS-1 launched in 1991 was the first satellite since SEASAT in 1978 to carry  a 
+scatterometer for making sea surface observations. ERS-2 was launched in April 1995. 
+Data from the ERS-1 and ERS-2 satellites operated by the European Space Agency
+14-05-1997   11:29   FROM BOM TAS/ANT EXECUT IVE   TO   000156433633884   P. 03
+
+14
+
+(ESA). Data from scatterometer instruments can be used to generate wind vectors over 
+ice-free areas of the Southern Ocean. Since 1994 sea surface wind data derived from the 
+scatterometer instrument on board the European Space Agency satellites ERS-1 and 
+ERS-2 have been relayed from Europe via WMO's Global Telecommunications System, 
+plotted and distributed within six hours of the satellite pass to analysts in National 
+Meteorological Centres.
+
+NASA
+
+NASA scientists, using weather forecast models with newly incorporated data from the 
+wind-measuring NASA Scatterometer (NSCAT) instrument on-board Japan's Advanced 
+Earth Observing Satellite (ADEOS), are secing significant improvements in their ability 
+to analyse weather patterns and gencrate more accurate forecasts, especially in the 
+Southern Hemisphere.
+
+The scatterometer uses an array of stick-like antennas that radiate microwave pulses in 
+the Ku-band across broad regions of the Earth's surface. A small faction of the energy in 
+the radar pulses is reflected back and captured by NSCAT's antennas. At any given time 
+NSCAT's array of six dual-beam antennas scans two swaths of ocean - one on either side 
+of the satellite's near-polar, sun-synchronous 500-mile orbit. Each swath is 375 miles 
+wide. The swaths are separated by a gap of about 215 miles directly below the satellite 
+where no data collection is possible.
+
+Accurate measurements of wind velocity in the Southern Hemisphere have been virtually 
+non-existent duc to the vastness of the Southern Ocean. The NSCAT takes 190,000 wind 
+measurements per day, mapping more than 90 per cent of the world's ice-free oceans 
+every two days. The instrument is giving scientists more than 100 times the amount of 
+ocean wind information than is available from ship reports or buoys. Because the 
+scatterometer is a radar instrument, it operates 24 hours a day, collecting data day or 
+night, regardless of sunlight or weather conditions.
+
+The NSCAT instrument was launched August 16, 1996 on Japan's ADEOS. ADEOS is an 
+international global change research mission of the National Space Development Agency 
+of Japan, which includes instruments from the United States, Japan and France, with 
+investigators from many other countries. The satellite is a key part of an international 
+environmental research effort that includes NASA's Mission to Planet Earth (MTPE) 
+program, a long-term, coordinated research effort to study the Earth as a global 
+environmental system. The goal of MTPE is to develop a better scientific understanding 
+of natural environmental changes and to distinguish between natural and human-made 
+changes and impacts. The Jet Propulsion Laboratory developed, built and manages the 
+NSCAT instrument for NASA's Office of Mission to Planet Earth, Washington, DC.
+
+Weather forecasters will be able to use these data to better predict the evolution of fronts 
+and storms over the oceans and track them as they approach land and major population
+14-05-1997  11:30   FROM BOM TAS/ANT EXECUTIUE         TO           000156433633884   P. 04
+
+15
+
+centers. The maritime industry will benefit by steering ships away from storms and 
+toward areas with favourable tailwinds. Initial experiments with the wind measurements 
+taken by the scatterometer indicate the potential to extend the useful range of weather 
+forecasts in the Southern Hemisphere by about 24 hours, according to Dr. Robert Atlas, 
+an NSCAT science team member from the Goddard Space Flight Center, Greenbelt, MD. 
+By combining the scatterometer wind data with ocean height data from the 
+TOPEX/Poseidon mission, Earth scientists are getting a first hand look at the forcing 
+function, the winds; and the ocean's response, ocean height and waves - in other words 
+the forces that control much of our planet's weather and climate change.
+
+ 
+●
+ 
+●
+14-05-1997 11:30 FROM BOM TAS/ANT EXECUTIVE                  TO     000156433633884   P.05
+
+
+LESSER ANTARCTICA
+(Antarctic Peninsula)
+
+GREATWALL         MARAMBIO          FREI       
+                  F1, F4                       F1, F4
+                  
+                  Bellingh[?]ausen             
+                  GREATWALL   FREI   ROTHERA    VERNADSKY       PALMER
+                                  Ir             (on call)
+                                  ROTHERA        DAVIS           ZHONGSHAN
+                  
+                                  HALLEY         AMUNDSEN-SCOTT  
+                                                     CASEY
+                                                     McMURDO
+
+NEUMAYER         MOLODEZHNAYA      AMUNDSEN-SCOTT
+Irr                F4                          CASEY
+SANAE            NOVOLAZAREVSKAYA    F4              McMURDO
+F1, F4           Irr                             F4
+                  SANAE
+                  NEUMAYER
+                  Irr
+                  NOVOLAZAREVSKAYA
+
+                                  TELECOMMUNICATION MEANS
+                                  Point-to-point link
+                                  Omnidirectional broadcast
+                                  Irregular                  Irr
+
+                                  RADIO BROADCASTS
+                                  F1: radio/telegraph broadcasts
+                                  F4: teleprinter broadcasts
+                                  Note: the transmission schedules are detailed in
+                                  WMO Publication no.9 - Volume C
+
+                                  Antarctic
+                                  collecting station         Back-up Antarctic
+                                                             collecting station
+
+Figure 1 - The links for the daily international exchange of meteorological data within Antarctic
+WASHINGTON          BRACKNELL          TOULOUSE          OFFENBACH          MOSCOW          NEW DELHI          TOKYO
+                                                                                
+BUENOS AIRES                                        
+                      ARGOS 
+                                                    ROME                    
+                                                                                
+SANTIAGO                                        
+ROTHERA          FREI          MARAMBIO          TERRA NOVA BAY
+Buoys 
+and AWS          DUMONT D'URVILLE          METEOSAT DCPs
+                                                                                
+                                                    BELLINGSHAUSEN
+                                                    NOVOLAZAREVSKAJA
+                                                    MIRNYJ          McMURDO                    
+                                                                 MAWSON          CASEY                    
+MAITRI                                        
+                                                    HOBART          DAVIS
+                                                                                      ZHONGSHAN
+
+GOES DCPs
+
+WMC           NMC or station with
+RTH           similar functions
+              Antarctic collecting and 
+              transmitting station
+              Back-up Antarctic 
+              Collecting station
+
+MTN circuit
+Primary route to and from GTS centre
+Primary route to GTS centres
++ Note: ARGOS reception centres located in Landover (USA) and Toulouse (France)
+
+Figure 2 - The principal routes by which Antarctic meteorological data enter the GTS
+14-05-1997 11:32 FROM BOM TAS/ANT EXECUTIVE TO 000156433633384 P.07
+
+
+TOTAL P.07

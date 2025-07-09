@@ -1,0 +1,439 @@
+Persistent Organic Chemicals in Antarctica: A horizon scan of
+priority challenges
+Persistent Organic Chemicals in Antarctica: A horizon scan of
+priority challenges
+Information Paper submitted by SCAR
+Summary
+This information paper has been developed by the SCAR ImPACT
+(Input Pathways of Persistent Organic Pollutants in Antarctica)
+Action Group and presents a horizon scan of priority challenges in
+the field of persistent organic chemical research in Antarctica.
+Persistent Organic Pollutants (POPs) are a subset of synthetic
+chemicals that share the four characteristics of: i) persistence, ii)
+mobility in the environment, iii) toxicity, and iv) tendency to
+bioaccumulate. The SCAR ImPACT Action Group was established in
+2018 to facilitate coordinated investigation and monitoring of
+chemical input to the Antarctic region. In March 2021, all ImPACT
+members were invited to participate in a scoping meeting to
+identify key priorities for Antarctic persistent organic chemical
+research.
+This paper presents a summary of identified priority research gaps
+and suggested actions arising from this meeting. It suggests
+potential approaches for coordinated research and monitoring
+efforts and highlights the importance of such activities for informed
+policy decision-making. It also outlines a number of actions needed
+to align Antarctic persistent organic chemical research with
+international efforts and existing global monitoring frameworks.
+The ImPACT Action Group aims to undertake further work towards
+specific recommendations, in consultation with other interested
+groups.
+Background
+Mitigating human influences in Antarctica has been identified as
+one of six priorities for Antarctic science1, 2. Global chemical
+production is increasing faster than chemical policy frameworks can
+respond3. In the Antarctic context, these challenges are
+compounded by considerable regional research gaps, serving to
+elevate the need for timely progress in the field of Antarctic
+chemical research via collaborative, policy-relevant research4.
+Globally, a reliance on chemical innovation to meet industrial and
+societal challenges has grown exponentially over the past 70 years.
+Today, 1 million new chemicals are produced every year3.
+Managing the myriad of chemicals present in the natural
+environment represents one of the greatest Planetary Health
+challenges of our time5, 6.
+Persistent Organic Pollutants (POPs) are a subset of synthetic
+chemicals that demonstrate the four shared characteristics of: i)
+persistence, ii) mobility in the environment, iii) toxicity, and iv)
+tendency to bioaccumulate. Concerns regarding the human and
+environmental impacts of POPs led to the promulgation of the
+Stockholm Convention in 2004, an international agreement that
+aims to restrict and eliminate the use and production of such
+chemicals.
+The majority of listed POPs are semi-volatile compounds that
+achieve environmental mobility via atmospheric transport, moving
+along temperature gradients to progressively colder latitudes, thus
+making the polar regions of the Earth ‘sink’ environments for these
+compounds. An expanding diversity of chemical structures, and
+therefore chemical behaviours, flagged as ‘of concern’ has meant
+that increasingly hydrospheric, and even biological long-range
+environmental transport pathways must also be considered when
+trying to uncover Antarctica’s chemosphere. Frequent incomplete
+knowledge surrounding each of the four POP risk criteria for
+individual chemicals, and associated time lags in regulation of
+chemicals, has led to a broadening of the research and monitoring
+scope beyond regulated POPs, to include other persistent organic
+chemicals, or “POP candidates”. Polar regions are special interest
+areas for persistent organic chemical research, both from
+environmental management and chemical policy viewpoints.
+POPs have been detected in Antarctica since the 1960s7, yet
+research on this topic is inherently slow. In 2009, the former SCAR
+Environmental Contaminants in Antarctica (ECA) Action Group
+carried out a review of Polycyclic Aromatic Hydrocarbon and POP
+research in Antarctica8, reporting just 35 publications between
+2000 and 2008. This report, combined with several subsequent
+review articles (e.g.9,10) contributed an overview of past organic
+chemical research in the Antarctic context. The slow output of the
+field is the result of common challenges associated with organic
+chemical research, such as the high cost of analysis. These are
+amplified in the Antarctic context where they are compounded by:
+the logistical challenges of Antarctic fieldwork, and limitations in
+infrastructure and service support; difficulties in detection/
+contamination risk; and sporadic and unpredictable access to
+Antarctica. Limited opportunity for successful research in turn
+carries the risk of portraying the erroneous impression that there is
+adequate understanding, and that current operational approaches
+are appropriate.
+The purpose of this information paper is to highlight key areas of
+persistent organic chemical research in Antarctica that require
+traction in order to close limiting research gaps; and secondly
+provide a framework of suggested actions to address these gaps and
+inform decisions on related chemical and environmental policy.
+This paper is produced by the SCAR ImPACT Action Group, which
+was established in 2018 to facilitate coordinated investigation and
+monitoring of chemical input to the Antarctic region. ImPACT has
+four objectives within the term of the Action Group, which are to:
+Co-ordinate current and ongoing research efforts aligned with the
+Action Group terms of reference, ensuring data collected meets
+minimum quality assurance requirements for temporal trend
+collation, and that data is made publicly available via open source
+data repositories.
+Pursue national and multi-national funding strategies for
+establishment of permanent atmospheric monitoring stations at
+multiple sites across the continent.
+Publish collaborative synthesis works arising from coordinated
+monitoring efforts.
+Identify ways in which the ImPACT Action Group can facilitate the
+establishment of an Antarctic Monitoring and Assessment (AnMAP)
+body (acknowledging that this requires progress and actions beyond
+the capacity and term of the Action Group)
+In March 2021, all ImPACT members were invited to participate in
+a scoping meeting to identify key priorities for Antarctic persistent
+organic chemical research. This horizon scan is a summary of
+identified priority research gaps and suggested actions arising from
+this meeting.
+Horizon scan – limiting research gaps
+Regulated versus ‘suspect’ POPs in Antarctica
+Environmental monitoring in Antarctica has to date focused on
+chemicals of regulatory relevance, via targeted methods. Targeted
+analytical approaches using mass spectrometry, present benefits in
+terms of sensitivity, selectivity and reliability. These approaches,
+however, require that the operator defines the chemicals of interest
+a priori and, in doing so, only these selected chemicals can be
+detected. Targeted approaches will as such always miss “unknowns”
+regardless of how elevated or toxic the levels of unknowns are.11
+Detection of new chemicals in Antarctica is largely fortuitous, yet
+these discoveries underscore the fact that current analytical
+repertoires capture only a fraction of chemicals making their way to
+Antarctica. New and advanced technology developments are
+allowing a broader, non-targeted analytical approach12, 13 to
+identify contaminants without prior knowledge of their presence,
+effectively moving the research question from “Is this chemical
+here?” further towards, “What chemicals are here?” Such
+approaches must be implemented on specially-collected Antarctic
+environmental media to provide a truer picture of present-day
+persistent organic chemical contamination in Antarctica. This
+information will fit the needs of international chemical policy (e.g.
+Stockholm Convention) by uncovering chemicals that meet the
+chemical risk criteria of persistence and environmental mobility, as
+demonstrated by their presence in the most remote region of the
+planet.
+Remote vs. local sources
+Distinguishing long range sources from in-situ human usage (e.g.
+stations and maritime activities)14, 15, 16 must serve as a quality
+assurance component. Information regarding local emissions will in
+turn inform policy, such as the Madrid Protocol, which explicitly
+prohibits emissions of harmful chemicals in Antarctica.
+How will climate change impact persistent organic chemical
+contamination in Antarctica?
+All major drivers of organic chemical behaviour and fate stand to be
+impacted in a warming climate17. These include air and sea
+temperature, cryosphere dynamics, organic carbon cycling, ocean
+pH, and food web connections. Atmospherically delivered organic
+chemicals may, for example, be trapped in the cryosphere until ice-
+melt releases these, often hydrophobic, compounds into the marine
+environment18. Here they will preferentially associate with organic
+carbon-rich particulates, providing an efficient vector for transfer to
+higher trophic levels, or the ocean floor. Reduced glacial ice may
+initially result in enhanced release of historically deposited
+persistent organic chemicals to the atmosphere19, whilst warmer
+temperatures and expanded ice-free land areas may facilitate
+greater terrestrial primary production and generate new terrestrial
+sinks for persistent organic chemicals.
+In the marine realm, ice-dependent species are expected to be
+impacted most severely in a warming Antarctic20. These include
+Antarctic krill (Euphausia superba), a keystone species of the
+Antarctic sea-ice ecosystem. Altered food-web connections, driven
+by reduced prey biomass, is expected to, in turn, impact chemical
+exposure. Similarly, changed foraging ranges, particularly for highly
+mobile and migratory species, may result in higher latitude feeding
+with associated higher persistent organic chemical uptake.
+Investigating, and temporally tracking, chemical dynamics in
+response to shifts in bio-physical change in Antarctica, is
+fundamental for accurate interpretation of observations and trends.
+What is the role of hydrospheric and biological transport, compared
+to atmospheric transport pathways of persistent organic chemicals
+to Antarctica?
+With a growing list of POP candidate compounds that will come
+from a widened analytical scope, it is also anticipated that the range
+of chemicals with properties that satisfy the risk criteria of mobility
+and persistence will also grow. A historical example is provided by
+perfluorolkyl substances (PFAS). In contrast to chlorinated and
+brominated POPs that achieve environmental mobility largely
+through atmospheric transport, these chemicals are hydrophilic and
+their environmental transport is expected to be governed by ocean
+currents.21 This has implications for how we monitor for the
+presence of persistent organic chemicals in the Antarctic region.
+Transport of chemicals to Antarctica via the hydrosphere, compared
+to the atmosphere, will take decades, if not centuries.22 It is ~70
+years since widespread commercial manufacture of POPs
+commenced. We are therefore currently in a position to capture
+initial input from which to monitor temporal trends22. Routine
+observation systems that capture these trends remain an operational
+limitation, preventing an information response targeted at this
+research gap.
+What is the toxicological sensitivity of Antarctic biota on account of
+unique metabolism, extended life spans and often, capital breeding
+life histories?
+Polar biota has adapted to the seasonal productivity of high latitude
+environments. Common adaptations include slower metabolism,
+extended lifespans, and behavioural life-history adaptations such as
+fasting and/or migration. Seasonal productivity has also driven a
+dependence of polar biota on lipid-rich prey sources23. In
+combination, a lipid-rich diet and adaptations that markedly impact
+lipid dynamics may influence sensitivity to, and expression of, the
+toxicological impacts of lipophilic organic chemicals. Advancing
+understanding of the comparative toxicological sensitivity of
+Antarctic biota, relative to temperate or tropical counterparts,
+remains a key ecotoxicological research gap24. Often,
+ecotoxicological assessment of Antarctic biota has generated
+surprise findings of disproportionate relevance or impact outside of
+the field. Examples include the discovery of families of organic
+pollutant degrading bacteria25, which could lead to commercial
+biotechnology applications, as well as the discovery of the ability of
+Antarctic krill to crush microplastics to form nanoplastics, the first
+species on the planet observed to do so26.
+Next steps
+In order to align Antarctic persistent organic chemical research with
+international efforts and existing global monitoring frameworks, a
+number of actions are needed. These are outlined below, and the
+ImPACT Action Group aims to undertake further work towards
+specific recommendations, in consultation with other interested
+groups.
+Antarctica as part of the Global Monitoring Plan of the Stockholm
+Convention
+The Global Monitoring Plan (GMP) forms one component of the
+effectiveness evaluation of the Stockholm Convention. It seeks to
+provide a harmonized organizational framework for the collection
+of comparable monitoring data on the presence of POPs from all
+regions and recommends longitudinal monitoring of ‘core media,’
+including ambient air and seawater. Most consultative parties to the
+Antarctic Treaty are also signatories of the Stockholm Convention.
+However, routine, large-scale monitoring is lacking in Antarctica,
+except for the continuous monitoring of atmospheric POPs at the
+Norwegian Troll observatory since 2009. Consequently, temporal
+assessment can only be made from Troll from 2009 onwards, while
+spatial assessment cannot be made. This is in stark contrast to
+Arctic nations where coordinated monitoring frameworks have been
+in place for the past 40 years, and which now represent major
+contributions via the Arctic Monitoring and Assessment Programme
+(AMAP) towards evaluation and guidance of global chemical policy.
+Globally standardized, systematic monitoring to contribute to the
+requirements of the GMP could include:
+Continuous air sampling. High volume air sampling will entail
+installation of permanent, semi-automated, high volume sampling
+equipment, as well as service agreements for the collection and
+transport of samples to an approved laboratory for analysis and/or
+archiving.
+Seasonal collection of surface seawater in north-south transect
+across the Antarctic circumpolar current. Such sampling would be
+undertaken via research and re-supply voyages. Low effort sampling
+may be conducted via service level agreements, with support for
+subsequent transport of samples to an approved laboratory for
+analysis and/or archiving.
+Additional monitoring for the Antarctic region could include:
+Non-targeted and suspect screening of specially-collected
+environmental media to provide a truer picture of present-day
+persistent organic chemical contamination in Antarctica. Findings
+will guide policy and ongoing priority analyte lists for harmonized
+monitoring across the region.
+A network of summer-time, air and seawater passive sampling
+stations could be integrated into the Global Atmospheric Passive
+Sampling (GAPS) network27, and the recently launched AQUA-
+GAPS monitoring program for POPs in the Waters of the World28.
+In the absence of human media, it is proposed that one or more
+model species, with a circum-polar distribution be selected for long-
+term persistent organic chemical biomonitoring. Two options are
+proposed to fulfill distinct purposes, 1) a coastal benthic
+invertebrate for routine sampling around stations via service level
+agreements, which could be used for the identification of local
+source contamination. 2) Secondly, a higher trophic level species
+could be targeted to provide integrated ecosystem information, and
+information regarding bioaccumulation potential of specific
+compounds. Such routine sampling could take place in conjunction
+with the Convention for the Conservation of Antarctic Marine
+Living Resources Ecosystem Monitoring Program (CEMP)29, or the
+Humpback Whale Sentinel Program (HWSP)30, two long-term
+Antarctic sea-ice ecosystem observation programs. The HWSP
+protocols encompass routine POP monitoring for this purpose.
+Systematic collection of environmental samples for archiving and
+retrospective analysis of persistent organic chemicals, as and when
+either new priority chemicals are identified, or new methodologies
+become available, is a robust strategy that has generated many
+valuable contribution to global chemical policy. Coordination
+between national Antarctic Programs and national Environmental
+Specimen Banks for the inclusion of systematic collection and
+archiving of Antarctic environmental samples is one proposed
+approach.
+Achievement of the above actions requires comparable, quality
+assured, chemical analysis, and it is suggested that selected
+laboratories could be nominated for analysis. Nominated
+laboratories would need to be approved for delivery of data to the
+GMP and as such, regularly participate in inter-laboratory
+calibration exercises.
+Finally, the ImPACT Action Group advocates a Planetary Health
+approach to persistent organic chemical research in Antarctica.
+Planetary Health acknowledges that the health of human
+civilisation is dependent upon, and inextricably linked to, the state
+of natural systems6. Investigations of human impacts must therefore
+be viewed at a systems scale. Notably, the expression of toxic effects
+in humans and wildlife alike, are typically exacerbated by
+environmental factors. As such persistent organic chemical risk
+must be considered through the lens of multiple stressors and
+ecosystem health.
+References
+Kennicutt, M.; Chown, S.; Cassano, J.; Liggett, D.; Massom, R.; Peck,
+L.; Rintoul, S. R.; Vaughan, D. G.; Wilson, T.; Sutherland, W., Polar
+research: Six priorities for Antarctic science. Nature 2014, 512,
+(7512).
+Chown, S. L.; Lee, J. E.; Hughes, K. A.; Barnes, J.; Barrett, P. J.;
+Bergstrom, D. M.; Convey, P.; Cowan, D. A.; Crosbie, K.; Dyer, G.;
+Frenot, Y.; Grant, S. M.; Herr, D.; Kennicutt, M. C.; Lamers, M.;
+Murray, A.; Possingham, H. P.; Reid, K.; Riddle, M. J.; Ryan, P. G.;
+Sanson, L.; Shaw, J. D.; Sparrow, M. D.; Summerhayes, C.; Terauds,
+A.; Wall, D. H., Challenges to the Future Conservation of the
+Antarctic. Science 2012, 337, (6091), 158-159.
+Burton, G. A.; Di Giulio, R.; Costello, D.; Rohr, J. R., Slipping
+through the Cracks: Why is the U.S. Environmental Protection
+Agency Not Funding Extramural Research on Chemicals in Our
+Environment? Environmental Science & Technology 2017, 51, (2),
+755-756.
+Chown, S., Polar collaborations are key to successful policies.
+Nature 13 June, 2018.
+Rockstrom, J.; Steffen, W.; Noone, K.; Persson, A.; Chapin, F. S., III;
+Lambin, E. F.; Lenton, T. M.; Scheffer, M.; Folke, C.; Schellnhuber,
+H. J.; Nykvist, B.; de Wit, C. A.; Hughes, T.; van der Leeuw, S.;
+Rodhe, H.; Sorlin, S.; Snyder, P. K.; Costanza, R.; Svedin, U.;
+Falkenmark, M.; Karlberg, L.; Corell, R. W.; Fabry, V. J.; Hansen, J.;
+Walker, B.; Liverman, D.; Richardson, K.; Crutzen, P.; Foley, J. A., A
+safe operating space for humanity: identifying and quantifying
+planetary boundaries that must not be transgressed could help
+prevent human activities from causing unacceptable environmental
+change, argue Johan Rockstrom and colleagues. Nature 2009, 461,
+472+.
+Whitmee, S.; Haines, A.; Beyrer, C.; Boltz, F.; Capon, A. G.; de Souza
+Dias, B. F.; Ezeh, A.; Frumkin, H.; Gong, P.; Head, P.; Horton, R.;
+Mace, G. M.; Marten, R.; Myers, S. S.; Nishtar, S.; Osofsky, S. A.;
+Pattanayak, S. K.; Pongsiri, M. J.; Romanelli, C.; Soucat, A.; Vega,
+J.; Yach, D., Safeguarding human health in the Anthropocene
+epoch: report of The Rockefeller Foundation–Lancet Commission on
+planetary health. The Lancet 2015, 386, (10007), 1973-2028.
+Sladen, W. J. L.; Menzie, C. M.; Reichel, W. L., DDT Residues in
+adelie penguins and crabeater seal from Antarctica. Nature 1966,
+210, (May 14), 670-673.
+Fuoco, R.; Capodaglio, G.; Muscatello, B.; Radaelli, M. Persistent
+organic pollutants in the Antarctic environment: A review of
+findings The SCAR action group on Environmental Contamination
+in Antarctica (ECA): 2009.
+Cincinelli, A.; Dickhut, R., Levels and trends of organochlorine
+pesticides (OCPs) in Antarctica. In Antarctica: Global,
+Environmental and Economic Issues, Mulder, T. J., Ed. Nova
+Science Publishers: 2011, 2011; pp 143-164.
+Corsolini, S., Industrial contaminants in Antarctic biota. Journal of
+Chromatography A 2009, 1216, 598-612.
+Schlabach, M. Non-target screening - a powerful tool for selecting
+environmental pollutants; Miljødirektoratet: 2013.
+Röhler, L.; Bohlin-Nizzetto, P.; Rostkowski, P.; Kallenborn, R.;
+Schlabach, M., Non-target and suspect characterisation of organic
+contaminants in ambient air, Part I: Combining a novel sample
+clean-up method with comprehensive two-dimensional gas
+chromatography. Atmos. Chem. Phys. Discuss. 2020, 2020, 1-33.
+Liu, Y.; Richardson, E. S.; Derocher, A. E.; Lunn, N. J.; Lehmler, H.-
+J.; Li, X.; Zhang, Y.; Cui, J. Y.; Cheng, L.; Martin, J. W., Hundreds of
+Unrecognized Halogenated Contaminants Discovered in Polar Bear
+Serum. Angewandte Chemie International Edition 2018, 57, (50),
+16401-16406.
+Hale, R. C.; Kim, S. L.; Harvey, E.; La Guardia, M. J.; Bush, E. O.;
+Jacobs, E. M., Antarctic research bases: Local sources of
+polybrominated diphenyl ether (PBDE) flame retardants.
+Environmental Science and Technology 2008, 42, 1452-1457.
+Wild, S.; McLagan, D.; Schlabach, M.; Bossi, R.; Hawker, D.; Cropp,
+R.; King, C.; Stark, J.; Mondon, J.; Bengtson Nash, S. M., An
+Antarctic Research Station as a source of Brominated and
+Perfluorinated Persistent Organic Pollutants to the Local
+Environment. Environmental Science and Technology 2014, 49,
+103-112.
+Corsolini, S.; Metzdorff, A.; Baroni, D.; Roscales, J. L.; Jiménez, B.;
+Cerro-Gálvez, E.; Dachs, J.; Galbán-Malagón, C.; Audy, O.;
+Kohoutek, J.; Přibylova, P.; Poblete-Morales, M.; Avendaño-Herrera,
+R.; Bergami, E.; Pozo, K., Legacy and novel flame retardants from
+indoor dust in Antarctica: Sources and human exposure.
+Environmental Research 2020, 110344.
+Dachs, J., Coming in from the cold. Nature 2011, 1, 247-248.
+Bigot, M.; Hawker, D.; Cropp, R.; Muir, D.; Jensen, B.; Bossi, R.;
+Bengtson Nash, S., Spring melt and the redistribution of
+organochlorine pesticides in the sea-ice environment: A
+comparative study between Arctic and Antarctic regions.
+Environmental Science and Technology 2017, 51, 8944-8952.
+Bigot, M.; Curran, M. A. J.; Muir, D.; Hawker, D.; Cropp, R.;
+Teixeira, C.; Bengtson Nash, S. M., Organochlorine pesticides in an
+archived firn core from Law Dome, East Antarctica. Cryosphere
+2016, 10, 2533–2539.
+Laidre, K.; Stirling, I.; L., L.; Wiig, Ø.; Heide-Jørgensen, M.;
+Ferguson, S., Quantifying the sensitivity of Arctic marine mammals
+to climate-induced habitat change. Ecological Applications 2008,
+18, (2), s97-s125.
+Yamashita, N.; Taniyasu, S.; Petrick, G.; Wei, S.; Gamo, T.; Lam, P.
+K. S.; Kannan, K., Perfluorinated acids as novel chemical tracers of
+global circulation of ocean waters. Chemosphere 2008, 70,
+1247-1255.
+Bengtson Nash, S. M.; Rintoul, S. R.; Kawaguchi, S.; Staniland, I.;
+Van den Hoff, J.; Tierney, M.; Bossi, R., Perfluorinated Compounds
+in the Antarctic Region: Ocean Circulation Provides Prolonged
+Protection. Environmental Pollution 2010, 158, 1985-1991.
+Borgå, K.; Fisk, A. T.; Hoekstra, P. F.; Muir, D. C. G., Biological and
+chemical factors of importance in the bioaccumulation and trophic
+transfer of persistent organochlorine contaminants in Arctic marine
+food webs. Environmental Toxicology and Chemistry 2004, 23,
+(10), 2367-2385.
+King, C.; Riddle, M. J., Effects of metal contamination on the
+development of the common Antarctic sea urchin Sterechinus
+neumayeri and comparisons of sensitivity with tropical and
+temperate echinoids. Marine Ecology Progress Series 2001, 215,
+143-154.
+Martinez-Varela, A.; Casas, G.; Piña, B.; Dachs, J.; Vila-Costa, M.,
+Large Enrichment of Anthropogenic Organic Matter Degrading
+Bacteria in the Sea-Surface Microlayer at Coastal Livingston Island
+(Antarctica). Frontiers in Microbiology 2020, 11, (2153).
+Dawson, A. L.; Kawaguchi, S.; King, C. K.; Townsend, K. A.; King,
+R.; Huston, W. M.; Bengtson Nash, S. M., Turning microplastics into
+nanoplastics through digestive fragmentation by Antarctic krill.
+Nature Communications 2018, 9, (1), 1001.
+Pozo, K.; Harner, T.; Wania, F.; Muir, D. C. G.; Jones, K. C.; Barrie,
+L. A., Toward a global network for persistent organic pollutants in
+air: Results from the GAPS study. Environmental Science &
+Technology 2006, 40, 4867-4873.
+Lohmann, R.; Muir, D.; Zeng, E. Y.; Bao, L.-J.; Allan, I. J.; Arinaitwe,
+K.; Booij, K.; Helm, P.; Kaserzon, S.; Mueller, J. F.; Shibata, Y.;
+Smedes, F.; Tsapakis, M.; Wong, C. S.; You, J., Aquatic Global
+Passive Sampling (AQUA-GAPS) Revisited: First Steps toward a
+Network of Networks for Monitoring Organic Contaminants in the
+Aquatic Environment. Environmental Science & Technology 2017,
+51, (3), 1060-1067.
+CCAMLR CCAMLR Ecosystem Monitoring Program Standard
+Methods; Convention for the Conservation of Antarctic marine
+Living Resources (CCAMLR): Revised June 2014, 2004.
+Bengtson Nash, S.; Castrillon, J.; Eisenmann, P. In Signals from the
+South; Humpback Whales Carry Messages of Antarctic Sea-ice
+Ecosystem Variability, 31st Annual Conference of the European
+Cetacean Society, Middelfart, Denmark, 2017; Middelfart, Denmark,
+2017.

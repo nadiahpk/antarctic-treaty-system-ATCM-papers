@@ -1,0 +1,533 @@
+Antarctic Treaty 
+XXII Consultative Meeting
+
+Traité sur L’Antarctique 
+XXIIème Réunion Consultative
+
+Tratado Antartico 
+XXII Reunión Consultiva
+
+Договор об Антарктике 
+XXII-oe Консультативное Совещание
+
+XXII ATCM/IP29
+April, 1998
+Original: English
+
+Agenda item 7a
+
+Pollution Abatement 
+at McMurdo Station, 
+Antarctica
+
+Submitted by
+USA
+]
+Proceedings of the Seventh (1997) International Offshore and Polar Engineering Conference
+Honolulu, USA, May 25-30, 1997
+Copyright © 1997 by The International Society of Offshore and Polar Engineers
+ISBN 1-880653-28-1 (Set); ISBN 1-880653-30-3 (Vol. II)
+
+Pollution Abatement at McMurdo Station, Antarctica
+
+Eric Chiang, Shih-Cheng Chang and Arthur J. Brown
+Office of Polar Programs, National Science Foundation
+Arlington, VA, USA
+
+ABSTRACT
+
+The soil and marine sediment of McMurdo Station, the logistical 
+hub of the U.S. Antarctic Program, are contaminated by both                   
+petroleum hydrocarbons and the residual products of waste disposal.           
+These contaminants were released to the environment during earlier           
+years of expeditionary operations. Since 1987, the National Science           
+Foundation has initiated a number of measures in pollution abatement           
+to correct past abuses and to protect the Antarctic environment. These        
+measures include promulgation of waste regulations, development and           
+implementation of a waste management program, cleanup of the station           
+waste dump sites, and development of spill prevention and spill               
+response plans.
+
+KEY WORDS: McMurdo, Antarctica, contamination, pollution               
+abatement, waste management
+
+Introduction
+
+McMurdo Station established in 1955 is the largest U.S. research            
+station in Antarctica. This paper briefly reviews the U.S. Antarctic           
+Program, its expeditionary operations and waste disposal practices at           
+McMurdo and the resulting contamination at the station. The paper            
+then describes the measures and investment in pollution abatement            
+which the National Science Foundation has initiated since 1987. The            
+national operators of other Antarctic Programs which have experienced           
+similar conditions of contamination resulting from past practice have           
+also implemented active pollution abatement programs. However, this           
+paper is limited to the U.S. Antarctic Program pollution abatement at           
+McMurdo Station.
+
+Antarctica
+
+Antarctica is the coldest and the driest continent on earth, and was            
+largely unknown until four decades ago. Approximately 98 percent of            
+the continent is buried under ice, averaging 2000 m thick, which               
+represents 90 percent of the world's ice. The continent encompasses 14        million km², as large as the United States and Mexico combined. In the        
+winter, the continent is surrounded by a belt of sea ice, 500 to 1500 km       
+wide, making the continent inaccessible to ships, while erratic storm         
+conditions combined with cold temperatures makes air access               
+impractical.
+
+The extreme cold and dry climate limit natural biodegradation.                 
+Pollutants and wastes released to the environment tend to persist.            
+Therefore control of the release of pollutants and removal of waste are       
+essential to the protection of the environment. This premise is               
+embodied in the Antarctic Treaty. By international agreement, the             
+Antarctic Treaty governs the conduct of human affairs south of 60             
+degree south latitude. The Antarctic Treaty assures free access to the        
+region for scientific purposes, conserves the resources, and protects the      
+environment. The Protocol on Environmental Protection to the                 
+Antarctic Treaty, Annex III, provides the basic framework for waste           
+management and waste disposal in Antarctica.
+
+U.S. Antarctic Program
+
+The United States has strong interests in Antarctica and is a                 
+signatory to the Antarctic Treaty. The U. S Antarctic Program (USAP)          
+is a national program administered by the National Science Foundation         
+(NSF) to implement U.S. policy through the support of scientific              
+research on the continent and in its surrounding oceans. The Program          
+currently operates three year-around research stations in Antarctica:         
+McMurdo, Amundsen-Scott South Pole, and Palmer. Additional                    
+seasonal field camps are established during the austral summer. The           
+Program also charters two research vessels-Polar Duke and Nathaniel           
+B. Palmer-to support research in Antarctic waters.
+
+McMurdo Station
+
+McMurdo Station (77° 51' S, 166° 40' E) ( Figure 1) is located on             
+the southern tip of Hut Point Peninsula on Ross Island, Antarctica,           
+approximately 3860 km south of Christchurch, New Zealand. Ross               
+Island is located in the western Ross Sea, separated from the Antarctic        
+mainland by McMurdo Sound. The annual mean temperature at                     
+
+572
+McMurdo Station is -18° C: monthly mean temperatures range from -3
+° C in January to -28° C in August. The station is constructed on
+barren volcanic rocks consisting of pyroclastic deposits. The soil
+derived from weathering of volcanic rocks contains virtually no organic
+matter. The ground is frozen solid, permafrost underlying the station at
+a depth of 15 to 45 cm.
+
+McMurdo has the world's most southern port accessible by ship.
+Winter Quarters Bay (WQB) is a small harbor of less than 4 hectares in
+area. The harbor has a floating ice pier, a solid 6 m thick ice platform
+reinforced with layers of steel cables. For most of the year, McMurdo
+Sound and the harbor are covered with sea ice about 2.5 m thick. Late
+in the austral summer, a U.S. Coast Guard (USCG) icebreaker opens a
+navigation channel to the harbor, which allows a fuel tanker and a
+supply vessel to replenish the station with a yearly supply of fuel and
+provisions. After unloading the cargo, the vessel is backloaded with
+science cargo and the annual accumulation of USAP wastes which are
+to be returned to the United States.
+
+Starting as an expeditionary camp in 1955 in preparation for the
+International Geophysical Year, McMurdo expanded over the past forty
+years and has evolved into a modem research station currently having
+54,000 m2 of living and working space housed in more than 70
+structures. McMurdo (Figure 2) has numerous storage yards, graded
+roads, a helicopter pad, a power plant, water plant, maintenance
+facilities, above ground water and sewer systems, above-ground bulk
+fuel storage tanks, and an extensive fleet of general purpose vehicles
+and heavy equipment.
+
+McMurdo operates a fuel terminal which has a bulk fuel storage
+capacity of 34 million liters. Currently most of the fuel is an AN-8
+aviation turbine fuel (JP-8 with an icing additive inhibitor to depress
+the freezing point to -58° C) which is the primary fuel for power
+generation, space heating, and aircraft operation. Annual deliveries of
+AN-8 average 20 to 25 million liters. Fuel is transported to outlying
+aerodrome complexes by above-ground pipelines and hoses. Within the
+station proper, intermediate storage tanks are directly fueled through
+above-ground steel pipelines from the bulk storage tanks.
+
+Most of the fuel tanks and delivery pipeline were built before 1970
+and are antiquated compared to modern construction standards. Until
+recently, the steel pipes were jointed by flanges fitted with neoprene
+gaskets; the flanged joints were prone to leaks as the piping expanded
+and contracted with changing temperatures. Most of the fuel tanks are
+without secondary containment, and are not equipped with overfill
+protection devices such as high level alarms and indicators. This fuel
+system has traditionally been the major cause of fuel spills.
+
+Early Practices in Waste Disposal
+
+In the years prior to 1980, McMurdo disposed of its solid waste at a
+dump site located on the eastern shore of Winter Quarters Bay,
+approximately 2 hectares in area, which slopes to the bay from an
+elevation of 12 to 15 m. During winter months when the bay was
+frozen, the dump often extended out onto the sea ice. Combustible
+solid wastes were stock piled at the southern tip of the dump site.
+Periodically the piles of waste were doused with contaminated fuel and
+set on fire. Open burning lasted from hours to days. Afterward, the ash
+and residues were spread throughout the dump site.
+
+Non-combustible wastes (scrap metals, construction debris, waste
+drums, unserviceable equipment) were frequently staged on the
+adjacent sea ice for eventual disposal at sea. During late summer
+months, the sea ice would break up and drift out to sea, dumping waste
+material into the deep waters of McMurdo Sound. However, the waste
+did not always make it all the way to the sea, and some would sink in
+the immediate vicinity of Winter Quarters Bay.
+
+During a consecutive three-year period in the late 1970s, the sea ice
+failed to break away from the shoreline. As a result, wastes continued
+to build up and eventually encroached onto the shore. When the ice
+finally did break away in the fourth season, a significant amount of
+waste remained as an ice encased, consolidated mass on the shore. This
+mass was a source for continuous pollutant releases to the contiguous
+shoreline and adjacent marine environment. In 1980 the waste disposal
+activity was relocated from WQB to Fortress Rocks, a natural hollow
+on high ground on the northeast side of McMurdo Station. The dump
+site at Fortress Rocks was less than 2 hectares in size. Open
+Table 1 Distribution of Hydrocarbon in Soil Samples
+
+TPH Level (ppm)     Number of Samples
+less than 10         35
+10 to 100            86
+100 to 200           27
+200 to 300           15
+300 to 400           11
+400 to 500           6
+500 to 1,000         6
+1,000 to 5,000       20
+
+A number of studies (Lenihan 1990, 1992; Risebrough 1990) have 
+indicated that hydrocarbon contaminated marine sediments were 
+largely confined to Winter Quarters Bay. Among the contaminants 
+measured in the sediments in WQB were petroleum hydrocarbons, 
+polychlorinated biphenyl's (PCBs) and terphenyl's (PCTs). Level of 
+purgeable hydrocarbons (PHC) in sediments was measured as high as 
+4,500 ppm. Total polycyclic aromatic hydrocarbons (PAH) in the 
+sediments varied from below the method detection limit to as high as 
+13 ppm. Level of PCBs and PCTs were measured in the range of 0.1 to 
+1.4 ppm and 0.03 to 1.2 ppm respectively. It was estimated that WQB 
+contained 4 kg of PCBs and 1 to 2 kg of PCTs in its sediment. Certain 
+trace metals were also elevated in the bay compared to sediments 
+outside the bay.
+
+WQB is enclosed at the bay entrance by a large submarine sill which 
+greatly constrains the flow in and out of the bay. The inner part of the 
+bay is 34-37 m deep and the submarine sill rises to a water depth of 18-
+20 m. Consequently, the contaminated sediments are naturally 
+contained within the bay. Contaminants are found to drop precipitously 
+away from the bay. The sharp pollutant gradient represents one of the 
+steepest and claims to be the most well-defined sediment contamination 
+in the world. Just a few hundred meters away, levels of PHCs in 
+sediments were measured at only 3.5 ppm, about one thousandth of that 
+in the bay sediment (Lenihan 1990, 1992).
+
+Scattered around the floor of the bay and in the vicinity in 
+McMurdo Sound are numerous debris; metal drums, vehicle frames, 
+and discarded equipment. This debris was deposited as residuals from 
+the former waste disposal activities.
+
+Pollution Abatement
+
+Since 1987, NSF has initiated a number of measures to abate 
+pollution at the U.S. stations in Antarctica. These measures have 
+included: termination of open burning and land disposal, surface 
+cleanup of former dumps sites at WQB and Fortress Rock, 
+promulgation of waste regulations for all U.S. citizens visiting or 
+working in Antarctica, establishment of a waste permit system for the 
+use and discharge of designated pollutants in Antarctica, development 
+and implementation of a waste management program and a spill 
+contingency and response plan, removal of all wastes except sewage 
+from Antarctica, training of program participants, upgrade of fuel 
+systems to prevailing standards, and investigation of soil remediation 
+technologies applicable to the polar environment. A brief description 
+of these measures follows.
+
+Termination of Open Burning and Land Disposal and Cleanup of 
+Dump Sites
+
+Commencing in 1987 and extending over the next two field seasons, 
+the residual surface waste and debris left at the former WQB dump site 
+was removed and relocated to Fortress Rocks. The site was then 
+covered with fill material and graded.
+
+At the end of 1990-91 field season, the waste disposal operation-
+open burning of combustible waste and land disposal of ash residue -- 
+at Fortress Rocks was terminated. This decision in part resulted from 
+concern for public health over the presence of friable asbestos found in 
+the demolition waste.
+
+During the 1991-92 field season, USAP, through a special Safety, 
+Environment and Health initiative, launched a multi-million dollar 
+operation to clean up the Fortress Rocks dump site and to remove all 
+the waste backlog and accumulated surface debris (Reference 4). 
+Specialized equipment for processing and packaging the waste and 
+debris were purchased and flown in to McMurdo via U.S. Air Force C-
+5 Galaxies. Remediation specialists were subcontracted to undertake 
+the actual hands-on cleanup. A temporary decontamination structure 
+was erected on the site and air monitoring was set up in advance of 
+remediation of the asbestos waste. Scrap metals were either baled or 
+appropriately sized with cutting torches. Wood waste was chipped in a 
+tub grinder to reduce volume. Other wastes were sorted and segregated 
+into various waste streams -- cardboard, rubber, tires, glass --to 
+facilitate packaging and shipment. The contents of 800 abandoned 
+drums were sampled and tested to allow chemical characterization. 
+Based
+waste regulation is consistent with the provisions for waste management and disposal, endorsed in October 1991 by the Antarctic Treaty nations, in the Protocol on Environmental Protection to the Antarctic Treaty. In 1996, the U.S. Congress adopted the legislation necessary to implement the provisions of the Protocol and on October 2, 1996, President Clinton signed into law the Antarctic Science, Tourism, and Conservation Act of 1996.
+
+The waste regulation bans the use of certain substances in Antarctica. These include any PCBs, non-sterile soil, polystyrene beads, plastic chips or similar loose polystyrene packing material, pesticides (other than those required for scientific, medical or hygiene purposes). The regulation requires a permit for the use or release of designated pollutants, and for release of any waste in Antarctica. It specifies that certain wastes be removed from Antarctica, except when the removal of such waste would cause greater adverse environmental impacts.
+
+The regulation sets forth requirements for waste storage and waste disposal. Maximum time limits are set for storage of hazardous wastes at U.S. stations: 15 months for McMurdo and South Pole Station, 28 months for Palmer Station, and 12 months for field camps. Hazardous waste storage facilities are to be inspected weekly.
+
+The regulation requires phase out of open burning by March 1, 1994 and prohibits disposal of any waste onto ice-free areas, or into fresh water system. Sea disposal of any sewage is allowed provided sewage is macerated before discharge at a location where dispersal is rapid.
+
+The regulation establishes the requirements for waste permit application, and requires the tracking of the USAP wastes in five categories and the filing of an annual report on the USAP waste management.
+
+Waste Management
+
+Since the close down of Fortress Rocks dump site and phase out of open burning at McMurdo in 1991, USAP has launched an aggressive waste management program at all U.S. stations.  All the solid wastes generated at South Pole and at the seasonal field camps are transported to McMurdo for further processing and preparation for removal from the continent. A brief attempt at incineration of food waste at McMurdo did not prove to be satisfactory, and incineration was terminated in 1993. The USAP no longer practices open burning, incineration or land disposal of wastes at any U.S. station in Antarctica. All wastes except domestic sewage are removed from Antarctica. Approximately 4000 metric tons of waste were removed from Antarctica in 1994, 3000 tons in 1995 and 2700 tons in 1996. The decline in the amount of the waste removed reflects a diminishing waste backlog at the station. Table 2 shows the annual production of USAP wastes in category and waste streams which are to be removed from the continent.
+
+After discharging the annual resupply of equipment and material at McMurdo, the resupply vessel is backloaded with the USAP waste which has accumulated during the previous 12 months. On return to the United States, the vessel disembarks the waste at Indian Island, Washington; the State of Washington has one of the most aggressive waste recycling infrastructures in the nation.  A waste disposal subcontractor takes custody of the USAP waste at the port and is responsible for its disposition in accordance with the USAP mandated priority of resale, reuse and recycling, with incineration or land
+
+disposal being the last consideration. For the past three years, USAP has achieved a recycling rate in excess of 60 percent, compared to the U.S. average recycling rate of 24 percent for municipal solid wastes.
+
+Table 2
+
+Annual Production of USAP Waste in 1995
+(sewage excluded)
+
+Category        Waste Stream              Quantity
+                (1000 kg)
+
+Recyclables     aluminum                     16
+                cardboard                   149
+                cooking oil/lard               6
+                copper & wire                 22
+                glass                         12
+                scrap metals (heavy)         327
+                scrap metals (light)         108
+                paper, magazine                9
+                wood                         298
+                                 subtotal   947      38%
+
+Disposables     clothing                       1
+                construction debris          587
+                greywater & urine             42
+                plastics                      26
+                others                        54
+                                 subtotal   710      29%
+
+Combustible     food waste                   163
+                food contaminated              8
+                human waste                    8
+                trash                         73
+                                 subtotal   252      10%
+
+Used Equipment  tire & resalable              199       8%
+
+Hazardous waste hazardous waste             368      15%
+
+                Total waste produced       2,476     100%
+
+In creating the necessary infrastructure to achieve its desired objectives, the USAP completely reordered the waste management organization and practices. Single point management was established, functions were consolidated, the organization streamlined, and an investment was made in staffing and in the procurement
+required for transportation and importation of waste into the U.S. The 
+procedures are revised in response to changes in state and federal 
+regulations or in response to the introduction of new technologies. An 
+educational program was launched to inform USAP participants about 
+the waste management program  and to instruct them in the need for 
+compliance with established practices. This program was supplemented 
+by special training provided to those contractors and researchers who 
+generate or process hazardous waste or low level radioactive waste in 
+the course of their normal duties.
+
+Waste prevention and waste minimization are two keystones 
+underlying the USAP waste management; the former is achieved 
+through source reduction, and the latter through reuse and recycling.
+
+Waste Prevention and Source Reduction
+
+Education and employee training have proven to be essential in 
+reducing the generation of waste. A waste management brochure 
+(Reference 9) is distributed to each USAP participant before they start 
+their journey to the continent. When packaging personal hygiene 
+products, participants are asked to consolidate, use bulk containers, and 
+to discard excess vendor packaging. The brochure encourages 
+articipants to observe the backpacker's rule (pack it in and pack it out) 
+and further advises participants not to leave personal items behind 
+when departing the station. Upon arrival at McMurdo all participants 
+are required to attend a waste management orientation, which 
+emphasizes each individual's responsibility for sorting and recycling of 
+waste (Reference 10).
+
+On-going measures are also being taken to improve material 
+procurement practices and to streamline the consumable material 
+inventory in order to reduce conditions of over stockage and the 
+retention of products which have exceeded useful shelf-life. Vendors 
+are notified, in the purchase order, of the ACA waste regulation which 
+bans the use polystyrene foam "peanuts," plastic chips or similar loose 
+polystyrene packing materials. Often, cargo is re-packaged in the U.S. 
+before loading the supply ship, in order to reduce needless over-
+packaging which would end up in waste stream. Fresh fruits and 
+vegetables which are purchased at Christchurch, New Zealand are pre-
+processed in New Zealand for the removal of excess leaf and stalks, 
+then sealed in plastic bags which are filled with nitrogen gas. Such 
+preprocessing significantly reduces the amount of food waste which 
+would be generated from food preparation at McMurdo Station.
+
+Product substitution is pursued as a means of reducing the on-hand 
+inventory of highly toxic materials. For example, polypropylene glycol 
+has been substituted for ethylene glycol. Polypropylene glycol unlike 
+ethylene glycol is significantly less toxic. Since ethylene glycol is used 
+as an antifreeze coolant in all vehicles and as a heat transfer fluid in the 
+heating systems of most buildings at McMurdo, the on-hand inventory 
+of the product is high. This substitution eliminates a major source of 
+toxic waste.
+
+Waste Minimization
+
+Opportunities for reuse and recycling are continuously being 
+assessed in order to minimize the quantity and volume of waste 
+produced at McMurdo Station. Used pallets and crates which are in 
+good conditions are reused. A reuse center has been opened for the 
+distribution to the community of reusable discarded personnel items - 
+clothing, stereos, books. The procurement of a drum washing apparatus 
+enables local cleaning and reuse of metal drums as they are returned to 
+McMurdo from outlying camps. Off-specification aviation fuel is 
+being burned in furnaces for space heating. Used lubrication oil is 
+tested and, if found to be within the established standards, is then 
+blended with furnace fuel and burned.
+
+The USAP also maximizes reuse and recycling after the waste is 
+retrograded to the United States. The terms of the waste disposal 
+subcontract is designed to leverage the subcontractor to maximize reuse 
+and recycling. The Request for Proposal requires each bidder to 
+explicitly list how and where the bidder plans to dispose of individual 
+waste streams, hazardous and nonhazardous, that are listed in the 
+proposal. The criteria for evaluating the proposal explicitly assigns 
+high scores to recycling and reuse, and low scores to incineration and 
+landfill. This procurement mechanism has worked well.
+
+Waste Segregation, Processing and Packaging
+
+Reuse and recycling has been demonstrated to be most easily 
+facilitated when the wastes are segregated at the source (Reference 10). 
+This requires the active involvement of the entire McMurdo 
+community. In the dormitories and in all maintenance shops and 
+laboratory spaces, numerous receptacles are provided, each clearly 
+marked and dedicated to a single type of waste. The receptacles are 
+colored coded to indicate the type of waste acceptable: green for 
+recyclable, gold for incineration, blue for disposable, and red for 
+regulated waste. These receptacles are collected and the contents 
+further sorted for ease of processing.
+
+Aluminum, metal cans, and light-weight scrap metals are
+The level of spill response is based on the scale of the spill. Level I 
+are small spills of less than three 208-liter (55-gallon) drums of cleanup 
+waste. Level II are spills that generate cleanup waste in excess of three 
+208-liter (55-gallon) drums. Level III are large spills that are beyond 
+the capability of the local spill response teams and will require outside 
+assistance.
+
+It is the responsibility of the individual causing a Level I spill to 
+clean it up. Level II and Level III spills are addresse ' through a team 
+approach. There are four 5-person teams organized in the summer 
+season to respond to Level II spills. The teams rotate the duty on a 
+weekly basis. For Level III spills there are 23-person response 
+teams. During the winter, the response capability is reduced to two 5-
+person teams because the decreased level of winter activities limits the 
+potential for spills to occur. Spill response teams are organized prior to 
+deployment to the continent and team members receive hand-on spill 
+response training at U.S. based training centers. An extensive inventory 
+of equipment and supplies for containment and recovery of spills, both 
+waterborne and terrestrial, have been procured. A representative 
+amount of this inventory is staged in mobile containers which can be 
+rapidly transported to the scene of a spill, if required.
+
+Spill reporting procedures have been established for all levels of 
+spill. The data are used to identify spill causes and trends so that 
+preventive measures can be instituted.
+
+A Spill Prevention, Control and Countermeasures Plan (SPCC) 
+(Reference 7) has been developed following the requirements of the 
+EPA regulations as guidance. The SPCC recommends measures 
+deemed necessary or helpful to prevent and control spills. The 
+recommendations include: replacement of the older bulk fuel storage 
+tanks, replacement of all flanged pipe joints, and installation of 
+secondary containment.
+
+In response to these recommendations, in 1995 USAP completed the 
+construction of two new 1,892,000 liters bulk storage tanks with 
+secondary containment, initiated a multi-year program for the welding 
+of all flanged type piping, and by 1996 completed the construction of 
+secondary containment around 5 of the older bulk storage tanks ( 2-
+1.892 million liters, 2-946 thousand liters, 1-9.46 million liters).
+
+Investigations Underway
+
+The USAP continues to investigate the means to further reduce 
+waste at McMurdo Station. One significant target for waste reduction 
+is wood, a major waste stream of high volume. The feasibility of 
+utilizing commercially available wood burners for space heating is 
+being assessed. Such devices are clean burning and could potentially 
+eliminate the need to annually retrograde approximately 110 milvans of 
+waste wood. An added benefit would be realized in the reduction of 
+heating fuel usage.
+
+Soil cleaning technologies for remediating fuel contaminated soils at 
+McMurdo are also being actively investigated. Technologies of interest 
+include: soil washing with biodegradable deterg ats, in-situ 
+bioremediation, thermal desorption, and steam cleaning.
+
+At the international level, the USAP is currently in discussion with 
+the national operators of other Aniartic Programs concerning regional 
+based approaches to spill response. The capability to provide an 
+increased level of response through a sharing of assets could be critical
+in limiting the extent and coincident damage to the environment of a 
+large spill.
+
+Conclusion
+
+During the past several years, the NSF has taken aggressive 
+measures to abate pollution at McMurdo. It has issued new waste 
+regulations to govern waste management and disposal in Antarctica. It 
+has banned open burning and closed down the waste dump. It has 
+cleaned up former waste dump sites and removed the waste backlog 
+from the station. It has developed and implemented spill prevention 
+and spill response plans and continues to invest in the upgrade of its 
+aging bulk fuel storage and distribution system. It has interacted with 
+other national programs within the Antarctic Treaty System in sharing 
+pollution abatement plans, procedures and technology. Opportunities 
+for further reductions in waste are being pursued and technologies to 
+remediate soil contamination are being explored. Perhaps the most 
+significant improvement from past practices has been the shift in the 
+culture of McMurdo community toward environmental responsibility. 
+All these measures have enabled the USAP to assume a leadership role 
+in the Antarctic Treaty System for the protection of the Antarctic 
+environment.
+
+REFERENCES
+
+1. Lenihan, HS; Oliver, JS; Oakden, JM, and Stephenson, MD (1990). 
+"Intense and Localized Benthic Marine Pollution Around McMurdo 
+Station," Marine Pollution Bulletin, Vol 21, No. 9, pp 422-430.
+
+2. Lenihan, HS (1992). "Benthic Marine Pollution Around McMurdo 
+Station, Antarctica: A Summary of Findings,"
+ANTARCTICA
+5.4 million square miles
+larger than the United States
+and Mexico combined
+
+Palmer
+Station                  South Pole Station
+
+                                  McMurdo Station
+
+Figure 1    Location Map of McMurdo Station, McMurdo
+
+Figure 2    McMurdo Station Site Plan
+578
+

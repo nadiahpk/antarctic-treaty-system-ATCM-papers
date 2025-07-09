@@ -1,0 +1,93 @@
+﻿XXVII ATCM
+Information Paper
+IP 024
+Agenda Item: CEP 4g
+NEW ZEALAND
+Original: English
+
+ 
+
+
+
+SYSTEMATIC ENVIRONMENTAL PROTECTION IN ANTARCTICA –FIRST PROGRESS REPORT
+
+THE CREATION OF A SYSTEMATIC ENVIRONMENTAL GEOGRAPHIC FRAMEWORK FOR THE ROSS SEA REGION USING ENVIRONMENTAL DOMAINS ANALYSIS
+SYSTEMATIC ENVIRONMENTAL PROTECTION IN ANTARCTICA: first progress report on the creation of a systematic environmental geographic framework for the Ross Sea region using Environmental Domains Analysis
+
+Executive Summary 
+Following support from the Committee for Environmental Protection at ATCM XXVI/CEPVI, work has commenced on developing a systematic environmental geographic framework. Such a scientific classification of Antarctic environments would be a systematic way to assist the CEP in identification and protection of special areas in the Antarctic and other measures for managing human impact. 
+
+Initially this work is focusing on a swath of varied terrain in Southern Victoria Land.  Data have been collated for this swath and layers to be used in the environmental classification have been identified.  The pilot classification and documentation is due to be completed by the end of 2004.   A further report will be made to CEP VIII.
+
+Background
+New Zealand presented Working Paper 20 supported by a power point presentation at CEP VI in Madrid following a need identified in the intersessional review of Antarctic Protected Areas completed after CEP II.  CEP VI encouraged New Zealand to commence work on a systematic environmental geographic framework (SEGF) to attach substance to this phrase, presently undefined, in Article 3(2) of Annex V of the Protocol.  Other potential uses of a SEGF are reiterated in Appendix 1. 
+
+This document is the first progress report for the creation of an environmental domains analysis of the entire Ross Sea region. This project covers the creation of a pilot classification for a swath of land covering a variety of physical environments (fast sea ice, coastal terrain, dry valleys, glaciers, nunataks, continental ice). This pilot classification will provide us with an important proving ground to test our data interpolation techniques, our models of climate, and other variables in creating spatial data layers. The trial classification is based around the Taylor and Wright valleys while including the Ferrar Glacier and other surrounding features. (See Figure 1 for a detailed image).
+
+Progress since CEP VI
+Funding has been obtained from government departments and agencies in New Zealand (Antarctica New Zealand, Ministries of Foreign Affairs and Trade, and Environment, Department of Conservation, Manaaki Whenua Landcare Research) for a year-long effort to complete a pilot classification in the Ross Sea region.  This utilises and will build on expertise and experience with a major environmental classification called Land Environments New Zealand, which is being used for systematic environmental protection in New Zealand.
+
+The steps being followed are:
+    • Assembly of raw data (complete for now) 
+    • Decision on pilot swath to trial (by end of April)
+    • Preparation of data Layers (to be completed 31 May)
+    • Pilot classification (30 August)
+    • Technical documentation (end of year, including review)
+
+Collation of Data – This stage has been completed with climate data having been collated for the swath and other datasets having been downloaded or supplied to us. Currently we are using data from 19 stations within and immediately surrounding the project area.  The main climate stations from which we have received data include United States Long Term Ecological Research (LTER) McMurdo Dry Valleys and the United States Department of Agriculture Soil Climate Project stations.  New Zealand is very grateful to US scientists and their agencies for making the data available.
+
+Additional climate information can be sourced and included but we are now proceeding to the next stage of the project with the data we currently have.
+
+Swath
+The trial classification so far focuses on the Taylor Valley including the Taylor Glacier and dry valley while including large sections of the Ferrar Glacier, the Asgard Range and much of the Wright Valley (Figure 1, images 2 and 3). Climate data in the project area are most concentrated in lower Taylor Valley including the areas of Lakes Fryxell, Brownworth, Vanda, Bonney and Hoare as well as the Canada and Commonwealth Glaciers.  Four climate stations are located on glacier ice (e.g. Figure 2) which should help avoid classification bias towards ice-free terrain.  The swath shown is indicative only and may change if the interpolation/extrapolation of climate data becomes too extreme or if other aspects of the classification process require it.
+
+Layers to be used in the Classification
+The following layers have been decided upon to date:
+    • Air Temperature – Monthly Aggregate used and interpolated across swath
+    • Relative Humidity – Monthly Aggregate used and interpolated across swath
+    • Solar Radiation – Monthly Aggregate used and interpolated across swath
+    • Wind Speed – Monthly Aggregate used and interpolated across swath
+    • Geology – Static Layer used to differentiate important landforms
+    • Ice – Static Layer used to differentiate between ice types
+    • Slope – Static Layer derived from Digital Elevation Models (DEMs)
+    • Roughness – Static Layer derived from DEMs
+    • Aspect - Static Layer derived from DEMs and Sun Trajectory
+
+While most of these layers will be included in the final classification, other layers might be included and some might be removed if they compromise the quality of the final classification and/or do not contribute to it.
+
+The future, including the marine environment
+It is intended that the outcome of this years work will be presented to CEP VIII, noting what can and can not be achieved (e.g. spatial resolution), with suggestions for the way forward.  The approach envisaged is to develop the classification process and criteria and run pilot classification models, so that a Ross Sea region classification can be developed to “proof of concept” stage, followed by the Antarctic-wide classification to a similar stage.  Regular reporting back to CEP and progressively involving SCAR (Geosciences, CADM and Antarctic Master Directory) and eventually CCAMLR will be very important.  Evolution of Information Technology and access to datasets will affect the feasibility and progress of this work.  Incorporation of wilderness, aesthetic and other values can be envisaged but defining them and incorporating them as layers will take further work.  No funding has been secured beyond 2004 for subsequent work needed to extend the classification to the whole Antarctic region so a timeline is premature at this stage.
+
+Development of a marine classification is also important.  After more than three years work, a classification for the New Zealand EEZ is currently being validated and is due for release in June 2004.  Spatial resolution is 1x1 km over most of the EEZ.  Data layers include Sea Surface Temperature (and derivatives), bathymetry, solar irradiance, mean orbital velocity (important for wave action near shore), tidal currents, sea bed slope and suspended sediment.  Substrate has not been included because of insufficient data.  Ice cover and type are not applicable in New Zealand but would be necessary in the Antarctic.  However we have not yet formulated a way forward for an Antarctic marine classification.
+
+Figure 1 Study area with indicative swath in images 2 and 3 and the LTER stations whose data are to be used. (Landsat 6 and AVHRR images from USGS, Information from LTER).
+
+
+Figure 2. Taylor Glacier meteorology station. Photo by Thomas Nylen, 2002/03 season All rights reserved. Reproduced with permission.
+
+
+
+
+Appendix 1 (from ATCM XXVI Working Paper 20) 
+Use of a systematic environmental geographic framework
+Working papers prepared by New Zealand for CEP III-V (working papers 16, 12, 13 respectively) noted that a systematic environmental geographic framework would:
+    1. attach substance to the words, presently undefined, in Article 3(2) of Annex V of the Protocol; 
+    2. provide a tool for the CEP to use within the protection framework provided by the Protocol, consistent with modern approaches to conservation; and
+    3. fill a gap long noted during discussions by SCAR and others on the Antarctic protected area system; 
+
+ Ross Sea Region 2001 A state of the environment report for the Ross Sea region of Antarctica (Waterhouse [editor] 2001) noted that a more systematic approach to protected area planning would provide an important basis for identifying, assessing and designating areas in the future.  
+
+A SEGF based on environmental domains would assist the CEP in its identification and protection of special areas in the Antarctic by:
+
+    1. identifying areas with similar environmental and habitat characteristics including places where important aspects of biodiversity and ecosystem processes are likely to be located;
+    2. enabling more systematic risk assessments of proposed protected areas by taking account of  environmental and geographic differences in Antarctica;
+    3. enabling representativeness of proposed and existing protected areas, ecosystems etc to be assessed efficiently, transparently and repeatedly  (Representativeness is widely considered to be a very important part of protected area systems and was included in the Guidelines for protected areas accepted at CEP III);
+    4. assisting with the assessment of rarity and/or distinctiveness of areas, species and ecosystem processes; 
+    5. supporting the designation of Antarctic Specially Protected Species and Areas by helping identify specific areas where additional protection would best be applied to protect designated species;
+    6. allowing the CEP to assess goals and achievement of targets for specific types or numbers of areas that may be agreed as especially important (e.g. inviolate or reference areas (CEP I Report paragraph 49 iii)) within an overall goal of achieving an agreed comprehensive system of protected areas.
+
+In addition a SEGF based on environmental domains would also assist the CEP and the Antarctic Treaty System by:
+    7. providing a scientific basis for classification of Antarctic environments that could underpin and potentially help integrate management of protected areas, cumulative impacts, environmental monitoring and reporting and other measures in the Antarctic Treaty System for managing human impact;
+    8. helping predict the potential spread of introduced species and severity of invasion in order to optimise management response;
+    9. helping identify key gaps in environmental knowledge for understanding human impacts including climate-sensitive processes, other earth system processes, ecosystem sensitivity, disturbance to biota and natural variation.
+

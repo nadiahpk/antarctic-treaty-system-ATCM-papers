@@ -1,0 +1,335 @@
+Operationalizing the use of Unmanned Aerial Vehicles (UAV) for
+assessing Antarctic wildlife populations
+Operationalizing the use of Unmanned Aerial Vehicles (UAV) for
+assessing Antarctic wildlife populations
+Submitted by Germany
+Summary
+This paper discusses opportunities to operationalize UAV surveys
+for the assessment of wildlife populations in the Antarctic. On the
+basis of three publications, it is shown how, beyond taking
+spectacular pictures, reliable, comprehensible and reproducible
+results can be achieved.
+Background
+The use of unmanned aerial vehicles (UAVs) Also known as
+remotely piloted aircraft systems (RPAS) or colloquially as "drones".
+has increased during the last decade worldwide and in the
+Antarctic. A number of studies have demonstrated the general
+suitability of this technology to support the assessment of wildlife
+populations. However, the questions of how different species can be
+identified and differentiated operationally, and how efficient flight
+planning can be combined with high recognition quality, have
+received little attention so far. In order to identify regional
+differences or temporal changes, it is also necessary to achieve
+comparability with data collected by using other methods.
+Study site
+The studies were performed in season 2016/2017 at Fildes
+Peninsula (King George Island) and an adjacent 30 km coastal
+section adjoining thereto to the west of north-western Nelson Island
+and south-western King George Island, (South Shetland Islands,
+maritime Antarctic). While Fildes Peninsula is the largest ice-free
+part of King George Island with diverse topography, the coastal
+section is characterized by hundreds of small ice-free islands and
+rocks within 5 km of the coastline.
+Detecting flying seabirds and seals by UAV
+One (Mustafa et al., 2019) of the three studies presented here
+investigated the detectability of five seal and six flying seabird
+species by UAV, leading to practical advice for the planning of UAV
+missions in terms of mapping and data analysis. Whether certain
+species qualify for UAV based population assessment depends on
+their detectability from the distance and the distinctiveness of their
+characteristics in comparison to other species. Mustafa et al. (2019)
+evaluated how and under which conditions, particularly flight
+height, Antarctic flying seabird and seal species are detectable in
+aerial imagery. The detection rates of different observers were
+compared for several Antarctic species in aerial images of different
+‘ground sample distances’. A ground sample distance refers to the
+distance between pixel centres measured on the ground.
+Descriptions of individual appearance as well as body size
+dimensions are delivered for all species. For most of the
+investigated species, population assessment proves to be possible
+from flight heights which allow efficient mapping missions, while
+others are still very hard to detect even at low altitudes. A
+concluding table (Appendix 1) is given with the aim to provide
+guidance for future surveys on which flight altitudes to choose and
+how to identify focal study objects.
+Mapping colonies of chinstrap penguins and Antarctic shags by UAV
+Two further studies (Pfeifer et al., 2019 & 2021) demonstrated the
+successful implementation of a mapping mission to simultaneously
+survey colonies of chinstrap penguins (Pygoscelis antarctica) and
+Antarctic shags (Phalacrocorax atriceps). Apart from the planning
+and realization of the data acquisition, the studies also describe
+how to distinguish the species, derive breeding pair numbers and
+make comparisons with heterogeneous historical data.
+Multiple flights of a battery-powered fixed-wing micro UAV were
+used to map the rocks, cliffs and islands of a coastal section that is
+difficult to access over a total distance of 317 km at a flight height
+of 30 - 100 m above ground level to achieve a ground sample
+distance of 1-3.4 cm. The characteristics of breeding sites and the
+habitus of individuals were elaborated for both species from the
+UAV images (Appendix 2). The figures in Appendix 3 illustrate
+exemplarily that it is necessary to consider these characteristics
+when analyzing images. The surveys were able to determine the
+exact positions of 14 chinstrap penguin colonies and four colonies
+of Antarctic shag, with some of the colonies not known before.
+In total, 35,604 adult chinstrap penguins were detected by
+analysing the UAV images. Terrestrial time-lapse imagery was used
+to model the number of occupied nests based on the number of
+adults, resulting in a total of 29,396 ± 1,722. Comparison with the
+rare published historic data revealed a general decline in the total
+abundance of occupied nests in the South Shetland Island area.
+However, four chinstrap penguin colonies in this region showed an
+increase since the 1980s (see Appendix 4).
+For Antarctic shags, in sum 106 occupied nests were counted. For
+comparison with historic abundance data it was necessary to adjust
+their unprecise position information and to apply a factor to obtain
+numbers of occupied nests. This revealed evidence of a population
+increase by a factor of 2.86 compared to the end of the 1980s (see
+Appendix 4).
+The results of these studies were submitted to the MAPPPD
+database (www.penguinmap.com) and will be included in the next
+database update.
+Operationalizing UAV-based population assessment of Antarctic
+wildlife
+In addition to the results mentioned above, the three studies (Pfeifer
+et al. 2019 & 2021, Mustafa et al. 2019) also provide useful
+information for planning and operationalizing future UAV surveys.
+Necessary issues that need to be clarified prior to an UAV survey
+are:
+Topography of the survey area,
+Size of the survey area in relation to the flight range of the UAV
+model,
+Necessary flight height to detect the target species and to
+distinguish it from similar species,
+Optimal flight date (regarding e.g. the visibility of juveniles or the
+ratio between chicks and adults),
+Sufficient weather conditions (e.g. fresh snow, direct sunlight, wind
+speed and direction).
+For the analysis of population assessment data from UAV surveys,
+the following issues need consideration:
+The characteristics of the species regarding habitus of the
+individuals and appearance of the breeding site should be known
+from the perspective of UAV images,
+The assessment of seabird population trends should be based on
+numbers of breeding pairs or occupied nests as the target variable,
+Changes in abundance during day and during the course of a
+breeding season should be taken into account.
+Considering these aspects, UAVs are a useful tool to significantly
+increase the data base on the status and dynamics of populations of
+certain animals in Antarctica. They allow access to areas that were
+previously inaccessible or difficult to reach. The risk of serious
+accidents is lower since these aircrafts do not carry personnel.
+Furthermore, it is time and cost saving compared to ground-based
+methods, as it is possible to map large areas in a relatively short
+time. Provided the Environmental Guidelines for operation of
+Remotely Piloted Aircraft Systems (RPAS) in Antarctica (ATCM
+Resolution 4 (2018)) are followed, UAV overflights also have a
+lower impact on animals and vegetation than traditional methods.
+Typically, the flight paths are programmed in detail before UAV
+missions. This makes them highly repeatable, which is particularly
+valuable for determining trends in population development.
+Another advantage of this method is the
+reproducibility of the results, since the images are also available as
+basic data for later evaluations with other methods or for other
+studies. Satellite-based methods surpass some of these advantages,
+yet do not provide the high resolution of UAV imagery which
+allows recognizing single animals. Satellite-based methods are also
+highly dependent on the cloud coverage in the area which is
+particularly frequent in the maritime Antarctic. All these
+characteristics qualify the use of UAVs as a very suitable tool for
+carrying out monitoring programs and complementing the
+methodological set of ground-based mapping and population census
+and satellite-based remote sensing techniques.
+References
+Mustafa, O., Braun, C., Esefeld, J., Knetsch, S., Maercker, J., Pfeifer,
+C., Rümmler, M.-C., 2019. Detecting Antarctic seals and flying
+seabirds by UAV. ISPRS Ann. Photogramm. Remote Sens. Spatial
+Inf. Sci. IV-2/W5, 141–148. https://doi.org/10.5194/isprs-annals-
+IV-2-W5-141-2019
+Pfeifer, C., Barbosa, A., Mustafa, O., Peter, H.-U., Rümmler, M.-C.,
+Brenning, A., 2019. Using Fixed-Wing UAV for Detecting and
+Mapping the Distribution and Abundance of Penguins on the South
+Shetlands Islands, Antarctica. Drones 3, 39. https://
+doi.org/10.3390/drones3020039
+Pfeifer, C., Rümmler, M.-C., Mustafa, O., 2021. Assessing colonies of
+Antarctic shags by unmanned aerial vehicle (UAV) at South
+Shetland Islands, Antarctica. Antarctic Science 1–17. https://
+doi.org/10.1017/S0954102020000644
+Appendix 1
+Antarctic Fur Seal
+Arctocephalus gazella
+Crabeater Seal
+Lobodon carcinophagus
+Leopard Seal
+Hydrurga leptonyx
+Southern Elephant Seal
+Mirounga leonina
+Weddell Seal
+Leptonychotes weddelli
+Length
+Width [m]
+1.09-1.50
+0.38-0.48
+2.06-2.30
+0.48-0.56
+2.64-3.08
+0.57-0.69
+2.51-3.73
+0.58-1.00
+2.30-2.70
+0.58-0.71
+Description
+Colorful: brown, blonde, black, grey; smallest seal in the Antarctic;
+hind flippers are mostly not visible, as they are rotated forward;
+head often turned to the side
+Color variably: brown, blonde, creamy, grey, silver-white; usually
+brighter than other seals, body relatively slender
+Grey, dorsal almost black, large head, usually stretched, cigar-like,
+often at floating ice, appears a little stiff
+Color variably: dark to pale grey, brown, blotchy during moult;
+relatively rotund body shape; head end often appears cigar-shaped
+pointed; adult males larger than all other seals; immature like
+females; often close together in groups
+Grey, ventral brighter, small head, small flippers, rotund body
+shape, often with bend posture
+Confusion risk
+-
+Weddell Seal
+Weddell Seal, Crabeater Seal
+Weddell Seal
+Leopard Seal, Crabeater Seal
+GSD* [mm] (min/recom.)
+86/86
+30/<30
+100/30
+170/30
+30/<30
+* ground sampling distance
+Antarctic Shag
+Phalacrocorax atriceps
+Antarctic Tern
+Sterna vittata
+Kelp Gull
+Larus dominicanus
+Skua
+Catharacta spec.
+Snowy Sheathbill
+Chionis alba
+S. Giant Petrel
+Macronectes giganteus
+Length
+Width [m]
+0.42-0.54
+1.11-1.65*
+0.25-0.30
+0.11-0.13
+0.42-0.50
+0.20-0.25
+0.45-0.55
+0.21-0.30
+0.27-0.33
+0.13-0.15
+0.53-0.68
+0.28-0.32**
+Description
+Nests are distinct circular with star-shaped guano stains; usually at
+rocks and cliffs; adult individuals appear irregular black and white;
+juveniles brown
+Greyish and white; black cap and deeply forked tail are distinctive
+White head and tail; dorsal slate-black back often with a white
+mark close to the tail; curved boundary between head and back
+coloring; in high resolutions the yellow bill can be visible
+well camouflaged; heterogeneous in color and pattern; greyish-
+brown in different variations; tail and head mostly darker than the
+back
+Entirely white with slight shades of grey; distinct drop-shaped;
+often in colonies of other birds
+Adult: mostly heterogeneous greyish-brown; head, neck and breast
+often brighter or white; completely dark or white morphs possible;
+large pale yellowish bill; Juvenile: gray with lighter head; roundish;
+fluffy appearance
+Confusion risk
+Penguins
+Snowy Sheathbill
+-
+S. Giant Petrel
+Antarctic Tern
+Skua
+GSD [mm] (min/recom.)
+120/90
+70/<70
+44/16
+17/<17
+40/20
+50/10
+(50/30)
+* nest diameter/nest distance; ** ‘length and width’ for juvenile
+Giant petrels not suitable
+This guide is intended to support the identification of seals and
+birds in aerial images based on (Mustafa et al., 2019)
+Appendix 2
+Comparison of Antarctic shag and chinstrap penguins features
+visible in aerial images of the study area.(Pfeifer et al., 2021)
+Antarctic shags
+Chinstrap penguins
+Colony position
+highest part of plateau, close to cliff
+above supralittoral zone
+Guano colour
+whitish
+reddish
+Guano ring radius (cm)
+50–80
+30–50
+Mean min. nest distance(cm)
+142
+70 (Carrascal et al.1995)
+Nest appearance
+bowl shaped, sometimes bright edge
+not visible
+Nest shadow
+visible
+not visible
+Nest height (cm)
+10–40
+5–20
+Density on guano covered ground
+0.2–0.37 nest m-2
+0.31–0.6 adults m-2
+not detectable
+0.6–0.97 adults m-2
+Mean visible body length/width (cm)
+29/17
+30/18
+Adults upper back
+white
+black
+Adults neck
+long
+short
+Adults tail width (cm)
+4
+2
+Adults wings/flippers
+folded
+sometimes spread
+Chicks colour
+brown
+light grey
+Appendix 3
+a. & b. At Fregata Island Antarctic shag and chinstrap penguin
+colonies were impossible to distinguish by guano colour after rain
+(20 December 2016)
+c. & d. At Kwarecki Point Antarctic shags breed within a chinstrap
+penguin colony. Single nests of both species were difficult to
+distinguish reliably from each other (28 December 2016).
+e. & f. At the eastern part of Rzepecki Islands Antarctic shag and
+chinstrap penguin colonies overlap partially, but predominantly use
+different topographic positions (28 December 2016). (Pfeifer et al.,
+2021)
+Appendix 4
+Left: Size and location of chinstrap penguin colonies in the study
+area. Right: Estimated changes in the population compared to
+previous counts (Pfeifer et al., 2019)
+Left: Positions of the Antarctic shag colonies in the study area.
+Right: Change in the distribution and abundance of Antarctic shag
+colonies compared to previous counts 2016/17 (Pfeifer et al., 2021)

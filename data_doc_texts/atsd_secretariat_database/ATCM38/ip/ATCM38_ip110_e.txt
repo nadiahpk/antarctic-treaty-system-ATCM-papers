@@ -1,0 +1,161 @@
+﻿
+
+
+
+
+
+Climate Change 2015: A Report Card
+
+
+
+
+
+
+
+
+Climate Change 2015: A Report Card
+Information paper submitted by ASOC1
+Summary 
+
+ASOC annually composes a climate change report card to present a summary of up-to-date scientific findings about current and future climate change in the Antarctic. In it, we reviewed environmental changes including temperature, ice sheets and glaciers, sea ice, ocean acidification, and species impacts. This year, we introduce a new category of “blue carbon” reflecting the uptake of carbon by krill.
+
+Climate change in Antarctica is happening now—it is not a future event. This makes scientific research in Antarctic worthy of the highest support possible. However, climate change in Antarctica is not simply a matter of scientific understanding. If we want to protect the Antarctic and its ecosystems, the Antarctic Treaty Consultative Parties should seek solutions that enable, to the greatest possible extent, the adaptation of the Antarctic environment to climate changes on the continent and work to limit future climate change through international agreements. 
+
+Overview
+
+Overview of research focus
+In Sum
+Changes from Last Year
+Temperature
+Surface temperatures on continent
+Warming overall
+Similar, with extreme temperature event
+Ice Sheets and Glaciers
+Current and future ice sheet behavior
+Instabilities in WAIS, new research on EAIS instabilities, contributing incrementally to sea level rise
+Big gains in scientific research, further SLR contributions expected
+Sea Ice
+Sea ice expansion and thickness
+Sea ice extent in Antarctica is expanding for a net positive growth, though regional variation exists
+Similar, research continues
+Ocean Acidification
+Impacts of acidification on invertebrates
+Acidification has different effects on different species, but future conditions may be disastrous
+More data on individual species’ responses to predicted future acidic conditions
+Blue Carbon
+The role of organisms in the global carbon cycle
+Krill are both a carbon sink and play a role in nutrient cycling
+New analysis of how krill affects carbon cycling
+Impacts on Antarctic Species
+Habitat changes and trends in populations
+Climate change can impact habitats on a micro and macro level. Adélie penguins are declining on the Peninsula. 
+Data synthesis on habitat impacts identifies key gaps in data. Better data is available to understand penguin population trends.
+
+
+Antarctic Climate Changes
+
+Temperature 
+
+Antarctica made headlines on March 24, 2015 with its highest ever temperature recording: 17.5 degrees C at Esperanza Base (Argentina), located on the northern tip of the Antarctic Peninsula.2 This reading broke the record of 17.3 degrees C set on March 23, 2015 at nearby Marambio Base (Argentina). While single temperatures do not indicate a pattern and the bases are located outside of the Antarctic Circle, the extreme temperature is noted in relationship to broader climatological observations. 
+
+Like the rest of the Earth, Antarctic surface temperatures have increased since the 1950s.3 However, in Antarctica, IPCC assessors assign low confidence to this warming being anthropogenic, due to large observational uncertainties, such as the wide dispersal of instruments around the continent.4 Statistical significance of temperature observations is currently being debated in peer-reviewed literature.5,6,7 For the rest of the planet, anthropogenic sources are “extremely likely” to be the cause of temperature increases.8
+
+In sum: Antarctic surface temperatures have been increasing [warming] overall for several decades. Antarctic temperature data is challenging to analyze due to patchy observations and instrumentation. The continent experienced record-setting high temperatures in March.
+
+Changes from last year: similar, with an extreme temperature event.
+
+Ice sheets and glaciers 
+
+Understanding glacial dynamics relies both on observational data as well as models about the future behavior of the ice sheet. 
+
+Historically, observational data has provided only a small contribution from the Antarctic Ice Sheets—comprised of the larger, land-based East Antarctic Ice Sheet (EAIS) and the smaller, marine-based West Antarctic Ice Sheet (WAIS)—to global sea level rise. Observational data indicates that the Antarctic (and Greenland) ice sheets are losing mass, and that this loss is accelerating.9  
+
+Ice sheet models have been deemed highly uncertain and seemed to indicate relative ice sheet stability in the short- to mid- term. However, the last year brought new research that changes this perception.
+
+Two 2014 publications suggest that parts of WAIS may already be experiencing accelerated disintegration (i.e, collapse). In the first, Joughin et al. have created a model and run simulations of the Thwaites Glacier Basin, West Antarctica, that indicate a faster melt rate and disintegration than previous studies predict. The authors state, “the similarity between our highest melt rates and present observations suggests that collapse may be closer to a few centuries than to a millennium.”10 This study also notes that uncertainties are increased due to the standard decoupling of ice sheet models to broader global climate models. Future coupling of ice sheet models to those of the rest of the Earth’s system are likely to improve certainties. 
+
+In the second article, Rignot et al. analyze observational data from Earth Remote Sensing (ERS-1/2) satellite radar interferometry from 1992 to 2010. They look at Thwaites, above, alongside the nearby Pine Island glacier, Haynes glacier (also included in the Joughin et al. study), and the Smith/Kohler glaciers. Their data show that each of these glaciers are already experiencing significant retreat, measured in distance as:
+*	Pine Island Glacier retreated 31km at its center, with rapid retreat from 2005-2009, the timeframe “when the glacier ungrounded from its ice plain.”11
+*	Thwaites Glacier retreated 14km in its center and 1-9km along the side.
+*	Haynes Glacier retreated 10km along its sides.
+*	Smith/Kohler Glacier retreated 35km retreat along its ice plain, with pinning points (locations where the glacier is buttressed onto land) vanishing.
+
+According to the authors, “we conclude that this sector of West Antarctica is undergoing a marine ice instability that will significantly contribute to sea level rise in decades to centuries to come.”12
+
+This statement is particularly important when we consider it alongside the IPCC’s most recent projections for sea level rise. In the IPCC’s two middle-of-the-road Representative Concentration Pathways (RCP), a likely 2100 sea level rise falls between 0.26m-0.82m, with their higher-end RCP under 1m by 2100.
+
+Nonetheless, an IPCC footnote carries an important caution that actual sea level rise could be much higher based on the response of the Antarctic ice sheet to warming:
+
+Based on current understanding (from observations, physical understanding and modelling), only the collapse of marine-based sections of the Antarctic ice sheet, if initiated, could cause global mean sea-level to rise substantially above the likely range during the 21st century. There is medium confidence that this additional contribution would not exceed several tenths of a meter of sea level rise during the 21st century.13
+
+The findings of Rignot et al. (2014) and Joughin et al. (2014) concur that, though disintegration does seem to be in process in parts of the WAIS, disintegration is not as fast as the colloquial term “collapse” might indicate. However, this modest 21st century contribution indicates an irreversible process that holds meters of potential sea level rise in a slightly longer timescale. 
+
+While the researchers above focused their findings in an Antarctic area known for glacial dynamism, whole-continent remote sensing afforded a more comprehensive overview of glaciers in other places. McMillan et al. used radar altimetry data from CyroSat-2 to study elevation changes over the whole continent. They found that West Antarctica lost 134 +/-27 Gt/ yr, the Antarctic Peninsula lost 23 +/- 18 Gt/ yr, and East Antarctica lost 3 +/-36 Gt/yr. While accumulation rates (which are increasing in the Antarctic) must be taken into account with this numbers, the authors conclude that Antarctic ice sheets annually contribute 0.45 +/- 0.14 mm to global sea level.14 
+
+Another recent study examines increasing dynamism at the Totten Glacier, East Antarctica. Totten Glacier is similar to WAIS in that it is a marine-grounded ice sheet and therefore interacts directly with the ocean. Researchers Greenbaum et al. note that Totten contains 3.5m potential global sea level rise and have identified ocean water intrusion into the underside of the glacier.15 Totten Glacier has been thinning recently and will remain a point of research interest for East Antarctic instability in the near future.
+
+Pairing these rate increases with the new research on signals of upcoming and occurring dynamical events indicates that Antarctic ice sheet research is strong, and the environmental implications of their findings are serious.
+
+In summary: Antarctic ice sheets are contributing to global sea level increases. Major research breakthroughs indicate some events are occurring now, increasing global sea level rise estimates for this century and beyond.
+
+Changes from last year: Big gains for both scientific understanding and in projections for our world’s coastlines.
+
+
+Sea ice 
+
+The increase of sea ice extent in parts of Antarctica garners a lot of attention and press coverage. Current climate models, including CMIP5, predict Antarctic sea ice decreases, which suggest some uncertainties or errors in these models.16
+
+Between 1979-2012, Antarctic sea ice extent has increased 1.2-1.8% per decade.17 However, the IPCC notes that “there is high confidence that there are strong regional differences in Antarctica, with extent increasing in some regions and decreasing in others.”18
+
+Simmonds (2015) analyzes satellite data to compare Arctic and Antarctic sea ice extent and discusses possible reasons for the discrepancy, including changes in atmospheric circulation. He notes that no answer has yet been agreed upon, though there continues to be substantial speculation and research about the role of freshening as ice sheets melt.19
+
+The role of wind—and how wind patterns change under anthropogenic warming—is also a piece of the conversation about Antarctic sea ice extent.20 A recent modeling study found a correlation between wind intensification and sea ice extent.21 Also, modeling studies involving both the role of wind as well as sea ice thickness—a characteristic of sea ice not well observed—are helping to provide more points of analysis into understanding Antarctic sea ice increases.22
+
+In summary: There are regional differences in Antarctic sea ice extent, though the overall trend is significant positive growth. There is no clear scientific explanation for this phenomenon.
+
+Changes from last year: Similar, research continues.
+
+Ocean acidification
+It has been established that ocean acidification (OA) may affect wintertime levels of calcium carbonate in the Southern Ocean as early as early as 2030,23 making this one of the most urgent problems for the Antarctic. Furthermore, recent evidence suggests that ocean acidification caused the mass extinction event at the Permo-Triassic Boundary (252 million years ago),24 under conditions that might occur on earth again in the near future. Thus it is critical that researchers obtain more information to be better able to predict these changes. One analysis indicates that declining carbonate levels in the Southern Ocean have been mirrored by a reduction in calcification rates in the Indian and Pacific sectors of the Southern Ocean.25 The calcification rate has increased in the Atlantic sector, probably resulting from the Polar Front moving further south, which could have created more favourable conditions for calcifying coccolithophores.26 
+
+Though these results indicate that ocean acidification is causing measurable changes already in some parts of the Southern Ocean, it remains to be seen how individual species will react. The Antarctic brachiopod Liothyrella uva appears to be able to maintain growth rates and continue to repair its shell at pH levels predicted to occur in 2050 and 2100.27 However, only adult L. uva were studied, so it is unknown how larval stages might react, and larvae may be particularly vulnerable.28  Larval stages of other calcifying invertebrates such as echinoderms and bivalves may be particularly vulnerable to OA’s effects. Thus it is important to study the effects of OA throughout an organism’s life cycle. Research on the common Antarctic sea urchin, Sterechinus neumayeri, found that although embryos were not significantly affected, larvae in CO2 conditions that will occur by 2100 grew smaller than those exposed to current conditions.29 However, the study only monitored larval development for 30 days, so how the conditions would have affected subsequent growth is unknown. Another study on adult S. neumayeri found that adults could adapt to higher pH conditions over a period of 6-8 months, with normal spawning.30 Again, however, the study did not follow larvae through the entire development process. 
+
+Pteropods, or zooplanktonic sea snails, are also vulnerable because they have thin shells at risk of dissolution in a more acidic ocean with less calcium carbonate available. An analysis of pteropods collected in sediment traps from 1997-2007 showed differing responses to decreasing aragonite (a form of calcium carbonate) from different taxa.31 Interestingly, Limacina helicina Antarctica forma Antarctica, one of the most abundant in circumpolar waters, showed lighter shells as expected, but by a greater amount than would be expected by the decline in aragonite levels in that period, suggesting that other factors may exacerbate the effects of ocean acidification.32 
+
+In summary: Ocean acidification, though likely to cause significant changes in Southern Ocean marine foodwebs, may not have immediate effects. There will likely be much variation between species and between regions. 
+
+Changes from last year: Research is showing a variety of impacts on vulnerable organisms that are not as negative as might be expected, but some critical life-cycle stages have not been assessed. Nevertheless, research into acidification occurring under similar circumstances 252 million years ago resulted in mass extinction, so a precautionary approach is desirable. 
+
+Blue Carbon
+
+It is well-known that the Southern Ocean is a large carbon sink and is a key part of the carbon cycle. It is also well-known that Antarctic krill (Euphausia superba) are likely to be affected by climate change and ocean acidification, and that this may cause problems for the many krill-dependent predators in the Southern Ocean. However, the role that Antarctic krill may play in the global carbon cycle has not been adequately considered to date. A recent report on open ocean carbon stores by the International Union for the Conservation of Nature found that 2.3 x 1013 g carbon are taken up by krill annually.33 This is equivalent to the weight of 15.2 million cars34 or about 0.26% of anthropogenic CO2 emissions. Additionally, due to their large numbers, krill may be a factor in other aspects of the carbon cycle, likely by bringing nutrients from benthic sediments to the ocean surface.35 These findings point to the need for a holistic approach to understanding climate change in Antarctica, particularly for species such as krill that play a variety of roles in the ecosystem, from prey item to carbon sink. 
+
+In summary: Examining Antarctic’s role in the carbon cycle reveals that krill are an important part of the cycle. 
+
+Changes from last year: Quantification of krill’s carbon sequestration ability, and hypotheses about other roles it may play in the carbon cycle by bringing nutrients from the seafloor to the surface. 
+
+Impacts on Antarctic Species
+
+The Southern Ocean Sentinel workshop held in 2012 produced an important review paper in late 2014 that summarized the state of knowledge on the effects of physical habitat changes on species.36 The paper highlights the full range of climate change impacts, including those that may receive less media attention. For example, although sea ice extent and its impact on ice-associated species such as penguins and seals is a topic of significant interest for those studying Antarctic species facing climate change, relatively less attention is given to other aspects of Antarctic habitats such as ocean currents and even localized eddies. Appreciating the full range of habitat changes and their impacts on species (and even each other) is a difficult task. Unfortunately, as is indicated in the paper, there are large gaps in our knowledge of how many species will respond to those factors. Recommendations from the workshop for addressing these gaps are to study: 
+
+    • How plankton (primary producers) would react in changed habitats;
+    • How invertebrate life cycles will be affected by changes in primary production and temperature;
+    • How seasonal food consumption affects bird and mammal reproduction; and
+    • How seals and birds might be affected if their prey moves to other locations. 
+
+Moving from the general to the specific, the “first global census” for Adélie penguins was released.37 Adélies are thought to be vulnerable to climate change and so are an important indicator species. The census, which was conducted using satellite imagery, indicates that there are significantly more penguins than previously estimated, with the current total found to be approximately 3.79 million breeding pairs. Overall, Adélies are, as expected, declining in the Peninsula and increasing in East Antarctica (although in some areas of the East Antarctic they are decreasing). A study focusing on Adélies in the Ross Sea region found population declines associated with increases in sea ice as well, but recently have been doing better, perhaps due to the removal of Antarctic toothfish, which eats some of the same prey as penguins.38 This provides further evidence that there is an optimum amount of sea ice for Adélies, and that they will generally have trouble adapting to changes in ice extent caused by climate change.39 In the future, the Ross Sea will probably be a climate refuge as the Peninsula first loses most of its sea ice. Finally, a review of all penguin species notes that marine reserves that are large enough to protect penguins at all stages of their lifecycle, will help penguins maintain resilience in the face of climate change.40
+
+In sum: Antarctic species are facing changing environmental conditions, the impacts of which are not well understood. Adélie penguin populations are declining on the Antarctic Peninsula. Marine reserves can help penguin populations as they adjust to climate change. 
+
+Changes from last year: A synthesis of the knowledge on how species respond to habitat changes is available, indicating critical data gaps. Better data on Adélie penguins is available to help understand the changes to this key species. 
+Conclusions 
+In summary, Antarctic scientists continue to provide robust research in many key areas of climate change, improving our understanding of environmental changes already underway, as well as those predicted. 
+
+Nonetheless, there remain significant gaps between what scientists know about climate change with high certainty and what policy makers are willing to do to respond to this knowledge, including the establishment of protected areas that can serve to build resilience and to serve as scientific reference areas. While international climate policy is the domain of the United Nations Framework Convention on Climate Change, ASOC urges ATCPs to:
+
+    1. implement logistics in ways that are as environmentally sustainable as practicable.
+    2. continue supporting world-class Antarctic scientific research and share the results to the scientific community as well as broader public.
+    3. adapt management plans to reflect changing conditions in some areas of the Antarctic.
+    4. energetically support the goals of the multi-year strategic work-plan on climate change.
+
+

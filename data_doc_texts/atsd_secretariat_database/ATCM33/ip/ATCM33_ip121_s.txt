@@ -1,0 +1,53 @@
+﻿
+
+
+
+
+
+Estimación de riesgo al cambio climático y la variabilidad climática, en los ecosistemas terrestres circundantes y en la infraestructura física de la Estación Científica Maldonado
+
+
+
+
+ESTIMACION DE RIESGO AL CAMBIO CLIMATICO Y LA VARIABILIDAD CLIMATICA, EN LOS ECOSISTEMAS TERRESTRES CIRCUNDANTES Y EN LA INFRAESTRUCTURA FISICA DE LA ESTACION CIENTIFICA MALDONADO. 
+Ing. Abigail Alvarado1
+
+1Centro Internacional para la Investigación del Fenómeno del Niño, Guayaquil-Ecuador, a.alvarado@ciifen-int.org   
+
+Antecedentes
+Este proyecto  forma parte del eje de investigación propuesto por el Instituto Antártico Ecuatoriano denominado “Cambio Climático”, aprobado en el año 2009 y que fue ejecutado en el verano austral 2009-2010 durante la XIV Expedición Ecuatoriana a la Antártida.
+Objetivo general
+Efectuar un análisis de riesgo climático para el área de la Estación Pedro Vicente Maldonado y sus ecosistemas circundantes. 
+ Objetivos específicos
+    • Calcular índices de cambio climático en el área de influencia de la Estación Maldonado, combinando datos in situ con estaciones y datos representativos en áreas marinas y terrestres circundantes. 
+    • Analizar la tendencia climática y calcular su correlación con proxis previamente estudiados especialmente en la flora antártica circundante.
+    • Desarrollar un análisis integral de riesgo climático en la estación Maldonado y los ecosistemas identificados a fin de sugerir medidas de manejo y reducción de los mismos.
+Procesamiento de la información
+Para calcular los índices de cambio climática se empleará la herramienta RClimdeX (1.0), la cual está diseñada para proporcionar una interfase amigable para calcular índices de extremos climáticos.  Calcula todos los 27 índices básicos recomendados por el Equipo de Expertos de CCl/CLIVAR para “Climate Change Detection Monitoring and Índices” (ETCCDMI) así como también otros índices de temperatura y precipitación con límites definidos por el usuario. RClimDex es desarrollado y mantenido por Xuebin Zhang y Feng Yang del Departamento de Investigación Climática del Servicio Meteorológico de Canadá.
+Para que el programa haga el cálculo de las tendencias, se requiere que los datos tengan un control de calidad antes de que los índices sean calculados.  Además, se requiere una serie continua de 30 años, por lo que no se puede utilizar los datos de temperaturas ni precipitación registrados en Maldonado que posee una serie de aproximadamente 10 años.  
+Gracias al apoyo de la estación Chilena Arturo Prat y la Dirección Meteorológica de Chile, se ha podido acceder a los datos de la estación Eduardo Frei, ubicada aproximadamente a 60 km de la estación. La Organización Meteorológica Mundial (OMM) establece que las series empleadas en análisis climatológicos deben tener períodos representativos de 30 años, y define como períodos internacionales 1901-1930, 1931-1960 y 1961-1990.  La serie de datos diaria para los tres parámetros es desde 1970 hasta el 2008.
+Se ha realizado una adecuación de la base de datos acorde a los requerimientos del programa, y se ha realizado un primer control de calidad, arrojando resultados preliminares que posteriormente serán tratados y analizados a mayor detalle para obtener datos con mayor confiabilidad. 
+
+Una vez compilada y procesada toda la data, se procederá a calcular nuevamente los índices y determinar cuáles son más representativos y posterior a esto realizar una análisis sobre su incidencia en la vegetación del área y la infraestructura de la Estación Pedro Vicente Maldonado.
+A continuación se lista algunos de los índices calculados en esta primera etapa de análisis:
+
+Nombre del Índice
+Descripción
+ID0  (días de hielo)
+Evolución temporal de número de días en un año cuando TX (máximo diario) <0ºC
+FD0 (días de heladas)
+Evolución temporal  de número de días en un año cuando TN(mínimo diario)<0ºC
+FD8 (días de heladas)
+Tendencia negativa (>97% de significancia estadística). Evolución temporal de número de días en un año cuando TN (mínimo diario)<8ºC
+TNn (Mínimo de temperatura mínima)
+Evolución temporal de valor mensual mínimo de temperatura mínima diaria
+TX90P (Días Cálidos)
+Tendencia negativa (>96% de significancia estadística). Evolución temporal del porcentaje de días cuando TX>90th percentil.
+TN10P (Noches Frías)
+Tendencia negativa (>98% de significancia estadística). Evolución temporal de Porcentaje de días cuando TN<10th percentil
+DTR (Rango Diurno de Temperatura)
+Tendencia negativa. Evolución temporal de diferencia media mensual entre TX y TN
+Cuadro No.1.- Índices de cambio climático calculados 
+
+
+

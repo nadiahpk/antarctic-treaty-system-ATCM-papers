@@ -1,0 +1,90 @@
+﻿
+
+
+
+
+
+Pruebas de un sistema de radar FMCW en las cercanías de base O’Higgins, península Antártica
+
+
+
+
+Pruebas de un sistema de radar FMCW en las cercanías de base O’Higgins, península Antártica
+
+Resumen
+La Universidad de Magallanes (UMAG), y el centro de estudios del Cuaternario (CEQUA)  con el apoyo logístico del departamento antártico del ejército de Chile (DAE), están desarrollando un proyecto denominado “Generación de cartografía de zonas de riesgo por presencia de grietas en la península Antártica, sector base O´Higgins y áreas aledañas”.  El objetivo principal de este proyecto es la  detección y mapeo de grietas  en el sector comprendido entre base O´Higgins y el refugio Bonnen Rivera, en el sector View Point de la península antártica.
+
+El proyecto contempla la utilización  de tres tipos de radares para realizar la prospección sobre la zona glaciar.  Un sistema de radar aerotransportado de alta resolución será probado sobre hielo temperado para determinar sus posibilidades en mediciones  de estratigrafía interna (en sus primeros metros).  Un segundo radar  de alta frecuencia, transportado en un moto tobogán, que por razones de seguridad será  controlado en forma remota, permitirá complementar las mediciones  internas del glaciar,  realizadas mediante el sistema de radar aerotransportado. Finalmente  un tercer sistema de  radar de baja frecuencia transportado en forma superficial, realizará las mediciones  de topografía subglaciar de la zona . La información será georeferenciada con equipos GPS de calidad topográfica. 
+
+Bajo este contexto, durante la segunda semana de Marzo del 2007 se realizó un vuelo de prueba con el sistema de radar aerotransportado para definir sus posibilidades en la prospección de grietas sobre hielo temperado. El sistema de radar fue instalado en el interior de un helicóptero junto al sistema de georeferenciación.  El radar utilizado  fue un sistema  FMCW de alta resolución. Las mediciones incluyeron un sobrevuelo de 1 hora (aprox. 70 kilómetros) obteniendo un perfil continuo a  lo largo del  recorrido.  Este trabajo preliminar muestra las características de los sistemas utilizados, el trayecto recorrido por el helicóptero determinado por el sistema de georeferenciación y algunos resultados preliminares del procesamiento de datos de radar.
+
+ INTRODUCCION
+La base O´Higgins esta localizada en el extremo norte de la  peninsula antartica (costa del estrecho de Bransfield) específicamente en los 63° 19’ S,  57° 53 ’W . El sistema de radar  utilizado fue  un sistema de frecuencia modulada de onda continua  (FMCW), de alta resolución que fue instalado sobre un helicóptero modelo Bolkow BO-105 perteneciente a la aviación naval de Chile.  Este sistema fue probado con éxito en el interior de antártica, especificamente en Patriot Hills  (80° 18’ S,  81° 22 ’W )   sobre hielo frio, permitiendo realizar mediciones  sobre los 600 metros de profundidad y con una resolución de 65 centímetros. El rango máximo teórico del sistema  en hielo frío es de  3360 m  y su resolución vertical teórica es de 0,42 m [Cárdenas, 2006]. La georeferenciación del recorrido efectuado fue registrada utilizando  receptores GPS de calidad topografica.
+
+
+
+
+
+
+MATERIALES Y METODOS
+
+El sistema de radar es un instrumento no invasivo que permite realizar mediciones  en forma remota,  esta compuesto de cuatro partes fundamentales: una etapa transmisora, una receptora, sus antenas y un sistema de adquisición de datos.  La etapa transmisora  genera una señal  de radio frecuencias en un rango comprendido entre los 200 y 400 MHz  y es transmitida a través de la antena transmisora con una potencia de 1 Watt.  Luego las señales reflejadas son capturadas por la antena receptora.
+
+
+Error: Reference source not found
+
+Figura 1. Trayecto efectuado por el helicóptero entre base O´Higgins y el refugio Bonnen                 
+               Rivera, sector View Point,   península antártica.
+
+
+La georeferenciación del recorrido se realizó utilizando dos receptores GPS de calidad topográfica marca NOVATEL. Un receptor operó como estación base el cual permaneció en las cercanías de la base O´Higgins capturando datos durante el periodo que el helicóptero estuvo en vuelo,  al igual que el receptor instalado en su interior como estación móvil. La recolección de datos se realizó en ambos  receptores con una tasa de muestreo de 1 segundo. El pos-procesamiento  de  datos  se realizó utilizando el método de corrección diferencial logrando una precisión de hasta 20 centímetros. El trayecto realizado por el helicóptero entre  base O´Higgins y el refugio Bonnen Rivera es mostrado en la fig. 1. El sistema de radar junto a la estación  receptora GPS y   su  antena fueron instalados en el interior del helicóptero.  La antena transmisora y receptora del radar  fueron instaladas bajo el fuselaje del helicóptero,  junto a los patines de este y a un costado de los flotadores de emergencia adosadas a barras laterales que se fijaron a los patines del helicóptero (fig. 2).
+
+
+
+
+
+Figura 2  Antenas del sistema de radar instaladas  bajo el  fuselaje del  helicóptero en base 
+               O´Higgins , antártica
+
+
+RESULTADOS PRELIMINARES
+La fig. 3 muestra el resultado de las mediciones realizadas sobre un sector determinado del trayecto mostrado en la fig. 1. El despliegue de datos fue realizado mediante un software de análisis sísmico.  La figura 6 muestra el tiempo de  viaje de la señal reflejada en microsegundos (eje vertical izquierdo) sobre  un eje horizontal el cual indica el número de muestras en un rango  aproximado entre  los 1000 a 1300  muestras. 
+
+
+
+
+
+
+
+
+
+																											
+
+Figura 3.  Resultado de un sector comprendido entre base O´Higgins y el refugio Bonnen Rivera, en el sector View Point de la península antártica,
+
+El eje vertical derecho  muestra la distancia entre el sistema de radar y los diferentes reflectores del medio por la cual se propagó la señal de radiofrecuencia.  Para el cálculo del tiempo de propagación de la  onda electromagnética en el medio se tomo una  velocidad de propagación de 168 (m/ms) [Bogorodsky, 1985].  El punto 0 del eje vertical de la fig. 3 representa el inicio de la transmisión de la señal generada por el sistema de radar.  La línea oscura   aproximadamente a los 0,06 ms representa la señal directa entre la antena transmisora y la receptora.  Entre los 2,5 ms  y 4 ms  se reconoce 
+
+
+una fuerte reflexión,  que es interpretada como la superficie glaciar. Estructuras internas del glaciar son reconocidas con dificultad en algunas zonas de  la fig. 3,   sin embargo se  reconocen estructuras internas  en un rango entre 30 a 50 metros bajo la superficie glaciar.     
+
+ CONCLUSIONES
+Las mediciones mostradas en la fig. 3 fueron realizadas mediante el sistema de radar FMCW (frecuencia modulada de onda continua) en las cercanías de la base O´Higgins, donde los resultados   muestran características recurrentes de hielo temperado.  En cuanto a la capacidad de detección del sistema sobre este tipo de hielo se puede concluir en forma preliminar desde la figura 3  la posibilidad de sondear hasta  un rango de 50 metros bajo la superficie glaciar. Sin embargo, los parámetros del sistemas de radar deben ser optimizados para esta tipo de hielo. En la  próxima campaña  se realizará la optimización del radar con los nuevos parámetros, para luego volver a realizar las mediciones y compararlas con las ya obtenidas.   Esto abre  la  posibilidad que el sistema de radar   permita  la detección de grietas. Por otro lado  la identificación de ellas requiere del análisis detallado de la información capturada que permitirá el reconocimiento de sus características digitales.  En una segunda etapa esta información será comparada además con datos adquiridos en la misma zona mediante sistemas de radar superficial, que comparados  con la información ya obtenida, determinará la capacidad real del sistema FMCW en la detección de grietas de este sector de la península antártica.   
+ 
+AGRADECIMIENTOS
+
+Se agradece al departamento antártico del Ejercito de Chile (DAE) por el apoyo logístico prestado para el desarrollo de esta primera campaña y de igual forma  a la dotación de la base chilena Bernardo O´Higgins 2007, por el apoyo prestado durante la estadía en la base. 
+
+REFERENCIAS
+ 
+-  Bogorodsky, V.V., C. Bentley, C.R. y Gundmandsen,   P.E. 1985. Radioglaciology. D. Reidle Publishing Company.
+
+-  Cárdenas, C. 2006. Hochauflösende Radargeräte zur Untersuchung oberflächenaher Bodenschichten für geophysikalische und glaziologische Anwendung ( Tesis doctoral ).
+
+AUTORES 
+
+Carlos Cárdenas(1,2), José Araos(2) 
+
+(1)Universidad de Magallanes, UMAG,  carlos,cardenas@umag.cl
+(2)Centro de estudios del cuaternario, CEQUA,  jose.araos@gmail.com
+
+

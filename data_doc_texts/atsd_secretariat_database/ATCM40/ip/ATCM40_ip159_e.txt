@@ -1,0 +1,135 @@
+﻿
+
+
+
+
+
+Decarbonizing Antarctic Operations
+
+
+
+
+
+
+
+
+Decarbonizing Antarctic Operations
+Submitted by ASOC1
+Summary
+ASOC provides a brief summary on the progress by Antarctic stations to reduce fuel consumption by introducing renewable energy and energy efficiency policies. The progress on introducing renewable energy is highly uneven among Antarctic Parties. While some stations currently obtain 70 percent of their energy by renewable sources, the majority still remain entirely dependent on fossil fuels. Conversely, the majority of the stations have introduced modifications to the structure of their stations in order to reduce energy consumption. Antarctic operators who have introduced clean energy have reduced costs, carbon-dioxide emissions, and the risk of incidents associated with fossil fuels (e.g., spills, fires). Therefore, ASOC recommends that ATCPs should:
+    • Undertake measures to reduce energy consumption by introducing advanced energy management controls and robust energy efficiency measures, and encourage behavioral change; 
+    • Introduce renewable energy to complement and replace fossil fuel-based systems;
+    • Support technological research and innovation on renewable energy machinery in extreme environments; and
+    • Collaborate and share expertise on the implementation of renewable energy and energy efficiency policies.
+Introduction
+Gasoline, diesel, and jet fuel continue to be the main sources of electricity generation at Antarctic research stations. These fuels are also used for ships, boats, and land-based vehicles. Transporting fuel and oil to Antarctica is costly and sometimes a risky exercise2. Nevertheless, despite harsh polar conditions, renewable energy sources such as solar and wind have been successfully used for power generation in Antarctica for more than thirty years.3. The use of renewable energy in Antarctica has been the subject of a number of documents submitted by the ATCMs. In particular, the Council of Managers of National Antarctic Programs (COMNAP) reported on best practices in energy management, including renewable energy sources, in their 2012 ATCM XXXV IP031 and 2013 ATCM XXXVI IP034 submissions.
+
+This paper provides an updated summary on the progress of Antarctic Treaty Parties towards reducing their energy consumption and replacing the fossil fuel system with renewable energy. This document - which is illustrative rather than comprehensive - also includes the environmental and economic benefits of using clean energy versus fossil sources. 
+
+
+
+
+Why Is It Important to Decarbonize Antarctic Operations?
+Decarbonizing Antarctic energy systems has shown multiple benefits. First, there is extensive literature that records the environmental profits associated with the introduction of wind and solar electricity generation.4 For example, wind power uses less land area than any other energy conversion system per kilowatt-hour (kWh), apart from rooftop solar energy.5 Moreover, the operational lifetime of wind turbines or solar panels is 20–25 years,6 during which it emits zero greenhouse gases. Although there are some greenhouse gases associated with its construction, this is compensated by reduced emissions during operations within a few months.7 
+Second, complementing or replacing fossil fuels with clean energy sources will reduce the number of incidents that might occur when oil is transported. The Antarctic is more susceptible to oil spills because of the region’s extreme temperatures that reduce the structural integrity of equipment (e.g., tanks and fittings) and make fuel pumping more challenging8. Oil spills are particularly dramatic in polar regions as the oil decomposes at slower rate compared to warmer regions, causing longer impacts on wildlife.9 Also, most fire accidents in the Antarctic are due to problems related to fuel handling.10 For example, an accident with a fuel transfer inside the Brazilian Base Comandante Ferraz's engine room set fire to and completely destroyed the station in 2012.
+Third, renewable energy reduces transport costs for fuel. Cargo ships, helicopters and other vehicles that are used to transport fuel to Antarctic stations are costly, representing a significant part of any Antarctic Party operational budget. Moreover, the price of oil is volatile. During 2008, the price of a barrel of oil surpassed US$100, creating large budget constraints in Antarctic operations. Renewable energy technologies, even if they involve large upfront investment, have been shown to lower costs in the long-term period and have more stable maintenance costs (more information on this point is developed in the section, Progress on Introducing Renewable Energy in Antarctica). 
+Fourth, while the emissions produced in Antarctica are insignificant compared to those at the international level, the operational and economic benefits are concrete, and reducing emissions has a central symbolic importance. Developing clean energies in the Antarctic sends a message to the world: if governments can develop clean energy systems in the most dangerous and isolated place on the planet, it can be carried out in the whole world. In addition, reducing emissions from the continent is an ethical duty of countries to keep the most pristine territory on the planet unpolluted. Antarctic researchers generate crucial, cutting-edge climate science for global public interest. If Antarctica is helping to save the world by understanding climate change, Antarctica must be a model in every sense.
+Progress on Energy Efficiency
+Energy demand in Antarctic research stations is highly correlated with demand for heating11. For this reason, the objective of many Antarctic operators has been focused on reducing energy demand through energy efficiency measures. While the first Antarctic bases did not include criteria to save energy, new facilities in Antarctica have incorporated innovative designs in order to save on lighting and heating. For example, the Swedish base Wasa was one of the pioneers in incorporating energy efficiency measures since its construction in 1989. The base included the installation of a 30 to 50 centimeters thick mineral wool insulation in the walls and ceilings to reduce heating consumption.12 Moreover, the Swedish base installed a heat recovery system in the electric generators to improve fuel efficiency. Currently the heat recovering system from electrical generators is the most used mechanism by Antarctic bases to avoid the installation of an additional heating system.13
+Currently, advanced energy management controls, robust energy efficiency measures, encouragement of behavioral change, low energy instrumentation, improved insulation, innovative snow removal techniques, and cogeneration have contributed towards reducing energy demands.14 Such measures have the added advantages of being flexible and relatively cheap.15 In this context, several stations have started to implement energy efficiency measures and criteria from the design stage to the operation and equipment of Antarctic bases. For example, in 2009, the Belgian station Princess Elizabeth utilized improved insulation and passive solar design to minimize energy consumption. In addition, a “smart” central unit was installed to monitor and control the thermostat and other systems, further reducing the station’s overall energy demand. In 2014, the Uruguayan base Artigas carried out renovation works that included the redesign and installation of its thermal conditioning system, and installation of a mixed-heat pump system, residual heat recovery system, floor insulation, efficient lighting, and automatic closing doors. The improvements cost US$600,000 and so far have generated annual savings of US$90,000 in fossil fuel.16
+Progress on Introducing Renewable Energy in Antarctica
+The first experiments with wind turbine prototypes in Antarctica started in the mid 1980s. For instance, World Park Base, which was operated by Greenpeace on Ross Island between 1987 and 1992, had an energy system combining solar and wind power generation equipment (although it was only during the last year of operation that it supplied a sizeable amount of the station's energy demands).17 The first wind turbine installed was in 1991, at the German Neumayer Station in the north-east Weddell Sea.18 The turbine, which is still in operation, has a maximum wind speed of 68 m/s and a minimum operating temperature of -55°C. On average, it produces an output of 40MWh/year, or 5-15 percent of the station’s energy demand.19
+In 2003, the Australian base Mawson incorporated three 300-kW wind turbines (Enercon E-30). This was the result of a collaboration between the Australian Antarctic Division (AAD), the German company Enercon, and the Australian Powercorp.20 Currently, the wind power system can generate as much as 95 percent of the station's energy requirements. 
+In 2009, the Chinese base Zhongshan incorporated a 10-kW wind turbine. The power generated from the turbine is primarily used to heat the station floor, which accounts for 1-2 percent of the station’s overall energy demand.21 In the same year, the first “zero emission” station, Princess Elizabeth, was inaugurated. Most of the station surface is covered by photovoltaic panels to make use of the long hours of sun during the summer. Further, there is a solar thermal system to melt the ice and provide hot water for the base. The station also incorporated nine high-technology wind turbines to complement its solar installations. “Each of the wind turbines can close down in the event of a strong storm, thus reducing the rotating speed in order to prevent any damage from occurring to the turbine.”22
+ The United States and New Zealand jointly created the Ross Island Wind Farm (RIWF) in 2009 with the aim of reducing fuel consumption at the Scott and McMurdo bases. The RIWF is located in Crater Hill in the Ross Island and is made up of three Enercon E-33 turbines. Each turbine has a capacity of 0.33MW that can together produce 1 MW.23 Two-thirds of the electricity generated by the turbines is used by the United States to meet 11-15 percent of the McMurdo Base energy demand. The remaining third is used by New Zealand to meet 87 percent of the Scott Base energy demand. RIWF has also significantly reduced the carbon dioxide emissions of both stations. The total cost of the RIWF was US$7.4 million.24
+Table 1. Antarctic Stations Operating Wind Energy Systems. 
+Stations
+Mawson
+Princess Elisabeth
+McMurdo
+Scott
+Neumayer
+Zhongshan
+Turbine
+2 Enercon E30
+
+8 Proven 6 kW
+
+3 Enercon E33
+
+3 Enercon E33
+
+1 HMW 56
+1 10 kW
+
+Personnel Capacity
+Summer: 60
+Winter: 20
+Summer: 40
+Winter: 0
+Summer: 1200
+Winter: 250
+Summer:60 
+Winter: 10
+Summer:60
+Winter: 20
+Summer: 50
+Winter: 20
+
+Electricity generated by wind
+4,200MWh per year
+
+90 MWh per year
+
+1,200 MWh per year
+
+600 MWh
+per year
+40MWh per year
+
+Use to hot water only
+Percentage generated by wind
+70-85%
+50-65%
+11%
+85%
+6-15%
+1-2%
+Costs saved by wind energy (in liters of oil)
+450,000liters per year
+Never used fuel
+354,882 liters per year
+118,294 liters per year
+18,000 liters per year
+1,200 liters per year
+Total fuel Consumption
+200,000 liters per year
+0
+4.26 million liters per year
+410,000 liters per year
+315,000 liters per year
+
+320,000 liters per year
+Estimated CO2 emissions saved
+1,500 metric tons of CO2 per year
+
+0
+1,242 metric tons of CO2 per year
+
+400 metric tons of CO2 per year
+45 metric tons of CO2 per year
+3 metric tons of CO2 per year
+Sources: Australian Antarctic Division, International Polar Foundation, US Antarctic Program, Antarctica New Zealand, Chinese National Antarctic Program. 
+
+Finally, it is important to emphasize that a significant part of the fuel transported to Antarctica is used in the operation of machinery, including boats, planes, helicopters, and land-based vehicles. At the moment, there is no renewable option that provides the thrust needed to make planes, ships, and heavy machinery work. In the same situation, there is still scarce technology available for locations with limited accessibility, such as Vostok Station. For this reason, ATCPs should develop strategies and make focused efforts to develop technology to overcome these barriers. 
+ Renewable energy reduces costs
+Antarctic stations that have introduced wind energy systems have been shown to save costs and reduce CO2 emissions. In the short term, the installation costs for a wind energy system are significant compared to the costs of maintaining existing fuel systems. However, in the long term, these costs have been offset (and savings incurred) through reduced maintenance and repair costs, and the avoided cost of fuel and its transportation. Table 1 below summarizes the main features of the wind energy systems in Mawson, Prince Elisabeth, McMurdo, Neumayer, and Zhongshan stations.  
+Of the Antarctic stations, Mawson is the leader in wind energy generation. Wind produces around 80 percent of the station’s total energy consumption, eliminating the annual need for approximately 450 000 liters of oil and emissions of 1,500 Metric tons of CO2. From installation in 2003 to 2014, the wind turbines cumulatively generated 17,010 MWh of electricity, saving about five million liters in diesel.25 
+At Scott Base, before the introduction of wind power, the average daily amount of fuel used for running power and heating systems varied between summer and winter, with the highest consumption rates reaching around 1,300 liters per day occurring in winter. Summer saw consumption drop off to an average of nearly 900 liters per day and an overall annual amount of approximately 410,000 liters.26 The wind power farm cut the operational cost by 25 percent since 2010, reducing the fuel consumption by approximately 80 percent.27 McMurdo has also reduced the total cost of generating power by between 0.5 and 2 cents per kWh produced by introducing wind energy, an estimated savings of between $1 million and $4 million over 20 years.28 The wind energy system has also a strong impact in emissions saved, calculated to be about 1,242 tons per year.
+Recommendations
+All these experiences have shown that extreme cold weather conditions are not a limit to the development of renewable energy systems in Antarctica. In addition, stations designed with energy efficiency in mind, some of which have been built in recent years, have the opportunity to make a fresh start. For the reasons stated along this paper, ASOC recommends that ATCPs perform the following: 
+    • Undertake measures to reduce energy consumption by introducing advanced energy management controls and robust energy efficiency measures, and encourage behavioral change;
+    • Introduce renewable energy to complement and replace fossil fuel-based systems;
+    • Support technological research and innovation on renewable energy machinery in extreme environments; and
+    • Collaborate and share expertise in how to introduce renewable energy and energy efficiency policies. 
+

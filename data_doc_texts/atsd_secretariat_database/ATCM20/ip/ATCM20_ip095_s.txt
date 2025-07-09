@@ -1,0 +1,125 @@
+X UTRECHT X
+29.4.96 - 10.5.96
+
+ANTARCTIC TREATY               TRATADO ANTARTICO
+XX CONSULTATIVE MEETING       XX REUNION CONSULTIVA
+
+TRAITE SUR L'ANTARCTIQUE       ДОГОВОР ОБ АНТАРКТИКЕ
+XXe REUNION CONSULTATIVE      XX КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+
+                                 XX ATCM/INF 95
+                                 Mayo, 1996
+                                 Original: Espagñol
+
+DESARROLLO DEL PROYECTO DE RADAR MST EN LA ANTARTIDA
+CAMPAÑA 1992-1994
+
+(Tema de Programa 13)
+
+(Presentado por Peru)
+DESARROLLO DEL PROYECTO DE RADAR MST EN LA ANTARTIDA
+CAMPAÑA 1992 - 1994
+
+ABSTRACT
+
+A 50 Mhz radar with 25 KW peak power has been installed at the Peruvian base on St. George Island,
+Antarctic in early 1993. A search for PMSE echoes was made during its first year of operation, with negative
+results. These results have already been reported in the literature. We report here our results during the
+summer of the second year of operation. This time the observations were made starting earlier, i.e., closer
+to the summer solstice. On this occasion PMSE were observed, albeit much weaker that what one would
+expect based on the Poker Flat radar results at a comparable latitude in the Northern Hemisphere. A large
+asymmetry, therefore, remains. It is explained in terms of subtle differences in temperature and water vapor
+in the mesopause region of both polar regions. The potential of the technique to monitor global changes of
+anthropogenic origin is discussed.
+
+INTRODUCCION
+
+Important discoveries of upper atmospheric geophysical phenomena are becoming
+relatively uncommon. Decades of intense research in atmospheric and ionospheric
+physics initiated during the International Geophysical Year (1957-1959) has left little
+to be discovered. One interesting exception is the discovery by Ecklund and Balsley
+[1981] of what has come to be known as Polar Mesospheric Summer Echoes or
+PMSEs (See Cho and Kelley [1993] and Röttger [1994] for recent reviews). PMSEs are
+manifested as very strong VHF (30-300 Mhz) radar echoes near the mesopause at
+high latitudes during summer. These VHF echoes cannot be explained on the basis of
+standard turbulent mixing theories, and their occurrence at even higher frequencies
+(UHF = 300-3000 Mhz) makes their existence more puzzling still [Röttger et al., 1990].
+
+There is no current consensus regarding the generation mechanism(s) responsible for
+the occurrence of PMSE. Weaker mesospheric echoes -with are still significantly
+stronger than incoherent scatter returns- are observed at lower latitudes in all seasons.
+These weaker echoes have been postulated to arise from small-scale fluctuations in
+the refractive index resulting from turbulence-induced fluctuations in the ionization
+density [Woodman and Guillén, 1974]. Even these weaker echoes, however, are
+explained only marginally by turbulent processes, since the "inner scale"2 of turbulence
+is comparable to, or possibly larger than, the meter-scale wavelengths to which the
+radar is sensitive. In other words, echo-producing meter-scale turbulence may be very
+difficult to sustain, since such small-scale irregularities will be heavily damped by
+viscosity and diffusivity.
+
+Current speculation is that, while turbulence must still play an important role in the
+generation of PMSE, it is also necessary to include the existence of slowly-diffusing,
+large, heavy ions or charged particles that can exist in the mesosphere at these
+
+2 The inner scale is the smallest scale that turbulence can create as it works against
+the competition of molecular diffusion.
+high-latitudes, provided that the temperature is low enough. The reader is referred to 
+the work of Cho and Kelley [1993] for a review of the physical processes that have 
+been put forward to explain PMSE occurrence.
+
+Interest in PMSE is further heightened by a possible relationship between PMSE 
+and Global Climate Change. A relationship appears to exist between PMSE and the 
+occurrence of both Noctilucent Clouds (NCL) and a related phenomenon, Polar 
+Mesospheric Clouds (PMC) [Thomas, et. al., 1991]. A correlation between both PMC 
+and NLC occurrences and man's industrial activity has been postulated by Thomas et 
+al., [1989]. This correlation is based on the fact that NLC -as spectacular as they are-
+were never reported prior to the industrial era. According to Thomas et al. [1989], the 
+first observation of NLC was made by R. Leslein in 1885, who attributed the formation 
+of the clouds on this occasion to the eruption of the Krakatoa volcano some two years 
+before. Thomas et al. [1989] propose that these first observations, and all subsequent 
+observations, are due to the increase in methane in the earth's atmosphere. Methane, 
+which is the primary source of water vapor in the mesosphere, is necessary in the 
+condensation process responsible for the particles that produce the light scattering.
+
+Both the mecanisms proposed for NLC and PMSE require extremely low 
+temperatures (the polar mesosphere in summer is the coldest region of the earth's 
+atmosphere). It is interesting, therefore, to speculate how anthropogenic activities 
+could produce temperature and water vapor mixing ratio changes at these altitudes. 
+It is perhaps even more intriguing to examine whether or not PMSE may turn out to be 
+an easily observable phenomena that can be used to monitor these changes.
+
+In the summer of 1993, we installed a VHF radar at Peru's Machu Picchu Station 
+(62° 06' S, 58° 28' W) on King George Island, Antarctica. This on-going project is an 
+important part of the Peruvian research activities in Antarctica, and is being carried out 
+with the collaboration of the University of Colorado with partial funding from the Division 
+of Polar Programs of the National Science Foundation.
+
+The most interesting result of our first campaign (1992-3) was the discovery that 
+essentially no PMSEs were observed [Balsley et al, 1993, 1995]. This was very 
+surprising, since a comparable radar located at an equivalent latitude in northern 
+latitudes would have observed echoes of the order of 30 dB (i.e., one thousand times) 
+above the noise level during an equivalent period of the arctic summer. Note that the 
+observations in this first Antarctic campaign were made between January 21 and 
+February 15, i.e., toward the later part of the summer months. A careful summary of 
+the first campaign [Balsley et al., 1995] compared our negative results with northern-
+hemispheric, high-latitude observations. We concluded that Antarctic PMSE were at 
+least 34 dB to 44 dB weaker than their northern-hemispheric counterparts. We also
+reported, as a footnote following acceptance of our manuscript, that a more thorough 
+analysis using refined noise reduction techniques yielded one very weak PMSE return 
+lasting for a few hours. While this result did not alter our fundamental conclusions 
+regarding the disparity between PMSE intensities in the two hemispheres, it did change 
+the estimated magnitude of the difference by about 8 dB to 26-36 dB.
+
+We have carried out a second summer campaign, during the summer 1993-94, and have 
+been able to detect echoes, although they are again much weaker than comparable 
+PMSE observed in northern latitudes. The purpose of this present paper is to report 
+the results of this second campaign, and to discuss their significance in the context 
+of our previous (largely negative) results reported by Balsley et al. [1993,1995] 
+and in comparison with more quantitative statistics of the Poker Flat results. We also 
+provide additional details of the earlier 1992-1993 short PMSE event, which was 
+detected after a more extensive analysis. Note that, in an attempt to get these 
+intriguing, albeit preliminary, results out to the scientific community in a timely manner, 
+we will discuss here only the echo power characteristics. The large interhemispheric, 
+difference in power are explained in terms of subtle differences in temperature, of the 
+order of few degrees.

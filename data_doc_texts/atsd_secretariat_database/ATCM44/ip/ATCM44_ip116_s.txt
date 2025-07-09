@@ -1,0 +1,158 @@
+Propuesta ecuatoriana de catálogo de objetos geográficos antárticos
+Propuesta ecuatoriana de catálogo de objetos geográficos antárticos
+Resumen
+La creciente demanda de generación de información geográfica en
+el continente antártico ha hecho que se adquiera la necesidad de
+estructurar, estandarizar, clasificar y organizar la Información
+Geográfica Antártica (IGA)utilizando normativas internacionales
+como las ISO 19110, la norma S-57 donde se recogen todos los
+objetos relevantes de la cartografía que son necesarios para la
+seguridad de la navegación, la norma DIGEST que permite el
+intercambio eficiente de información geográfica digital entre
+naciones que producen información geográfica. Contar con una
+gestión correcta de la IGA permitirá a los usuarios y productores
+tener un “lenguaje común de la información” otorgándoles la
+interoperabilidad de la misma. Por ello el Catálogo de Objetos
+Geográficos (COG) se convierte en una herramienta fundamental
+para definir a los datos geográficos respecto a su naturaleza en su
+categoría y subcategoría correspondiente, generando así una mayor
+y mejor comprensión para su uso y aplicabilidad. La importancia de
+un COG radica en la optimización de los procesos de producción de
+información geográfica, aumento de calidad en su consistencia y
+lógica, y la estructuración homogénea de la información la cual
+debe contar de características propias de los objetos, definidos de
+forma clara y concreta. Toda la estructuración de la IGA permitirá
+la accesibilidad, interoperabilidad y contribuirá con la toma de
+decisiones integrales dentro del Sistema del Tratado Antártico.
+Introducción
+Desde los inicios de la inserción del ser humano en el continente
+antártico, la demanda en la producción de información geográfica
+del continente ha crecido significativamente. Conjuntamente a ello
+se encuentra la falta de conexiones universales, la inexistencia de
+componentes estandarizados, y la carencia de aspectos de calidad
+en las técnicas de documentación o las comunicaciones telemáticas;
+por lo que la normalización y administración de la geoinformación
+se convierte en uno de los principales mecanismos en el proceso de
+obtención de la misma, resultando necesario que se establezca una
+normativa que se alinee a los estándares internacionales vigentes, la
+cual permita la generación y actualización de información
+geográfica de forma oportuna, eficiente, eficaz y de calidad,
+cumpliendo así normas de usabilidad para quienes generen nuevas
+investigaciones científicas sobre la Antártida en la que se incluyan
+información geográfica, permitiendo así “hablar un lenguaje
+común” y lograr una interoperabilidad e intercambio de la
+información tanto a nivel nacional como internacional.
+Si bien, a principios de la década del 2000, el Standing Committee
+on Antarctic Geographic Information (SCAGI) desarrolló el Catálogo
+de tipos de características del Scientific Committee Antarctic
+Research (SCAR), actualmente solo Australia utiliza este catálogo.
+El catálogo que se encuentra desarrollando el Ecuador está alineado
+al catálogo propuesto por el SCAGI, ya que utiliza la normativa ISO
+19110 (norma internacional que regula el Catálogo de Objetos del
+SCAR) para la catalogación de objetos y almacenamiento de
+información geográfica multiescala, generados durante la ejecución
+de los diferentes proyectos de investigación científica.
+La promulgación de un catálogo de objetos geoespaciales de la
+Antártida, que codifique la información en categorías,
+subcategorías, y permita describir (atributos y dominios) cada
+objeto, permitirá propiciar la aplicación, uso, almacenamiento,
+procesamiento, actualización, disponibilidad y difusión de la
+información geográfica que se genera desde los distintos campos de
+acción dispuestos en el Tratado Antártico.
+Desarrollo
+El continente blanco como también se la conoce a la Antártida,
+posee grandes riquezas sobre las cuales se puede generar
+información geográfica, tales como su composición fisiográfica, su
+hidrografía, oceanografía, cobertura de la tierra, su biota,
+nomenclatura y demás, pero con la llegada del ser humano y la
+presencia de infraestructura de diferente tipo necesita ser
+considerada dentro de esta catalogación de objetos. En este sentido,
+los objetos que integran el catálogo serán aquellos que provienen
+tanto de la parte terrestre como de la parte marítima.
+Por tal motivo Ecuador plantea una propuesta de catálogo de
+objetos geoespaciales utilizando una combinación de normas como
+la ISO 19110, la norma S-57 (Norma OHI para cartas náuticas
+electrónicas) y la DIGEST desarrollada por la DGIWG (Normativa
+que permite compartir información espacial generada en
+operaciones de defensa de la OTAN, también analizará la posible
+vinculación don el modelo de datos S-100 de la OHI. El principio es,
+que el catalogo sea compatible con una gran variedad de datos
+espaciales representados en Cartas electrónicas de nueva
+generación, que incluya información hidrográfica, corrientes, olas,
+mareas, hielos, parámetros meteorológicos, entre otros. Esta
+propuesta incluye un registro de entidades de información
+geoespacial, características generales y modelos de representación,
+estructuras para describir la calidad de los datos, información del
+sistema de coordenadas, formatos de codificación, etc.
+Con la norma ISO 19110 se define la metodología para la
+catalogación de los tipos de objetos geográficos la cual es
+perteneciente al Comité Técnico ISO/TC211. También se utiliza la
+norma ISO 19126 – Diccionario de conceptos y registros la cual
+permite obtener un esquema estructurado para la conformación de
+un diccionario y conceptos. Con la norma S-57 y modelo de datos
+S-100 que son estándares de Transferencia de la Organización
+Hidrográfica Internacional (OHI) para Datos Hidrográficos
+Digitales, se integran todos los objetos relevantes de una cartografía
+náutica que son necesarios para la seguridad de la navegación.
+Finalmente, la norma DIGEST que son las siglas en ingles de
+Estándar de Intercambio de Información Geográfica Digital, fue
+desarrollada por la DGIWG (Digital Geographic Information
+Working Group), la cual permite el intercambio eficiente de
+información geográfica digital entre naciones que producen y
+utilizan información geográfica.
+Con estas normativas se procede a estructurar la información en 11
+categorías, de las cuales, en cada una de ellas se establecen cada
+una de las subcategorías correspondientes, las cuales permiten
+establecer un almacenamiento adecuado de la información (Ver
+Figura 1).Las once categorías propuestas para la estructuración de
+los objetos, se basan en las áreas de investigación prioritarias del
+SCAR, que se levantan en las investigaciones científicas y demás
+proyectos ejecutados en el continente Antártico.
+Cada objeto geográfico cuenta con la descripción del objeto per sé,
+con los atributos y dominios correspondientes, propios de las
+características específicas de cada objeto, así como con la metadata
+correspondiente, otorgándole a cada objeto el contenido de calidad,
+historia, disponibilidad, condición y otras características con las que
+el usuario puede ubicar y entender la información.
+Implícitamente, entre los objetivos que conlleva la normalización,
+se encuentran los aspectos vinculados a estándares y
+especificaciones de metadatos, políticas, servicios, aspectos de
+seguridad y legalidad y demás, simplificando así el establecimiento
+de la Infraestructura de Datos Espaciales Antártica Ecuatoriana
+(IDEAntEc) e implementación de un Geoportal vinculado a esta.
+Conclusiones
+El correcto almacenamiento y estructuración uniforme de la
+Información Geográfica generada a través de diversas actividades
+operacionales y de investigación en la Antártida, permitirá la
+interoperabilidad de los datos espaciales contribuyendo así con la
+toma de decisiones integrales dentro del Sistema del Tratado
+Antártico, en beneficio de la gestión de dicho Continente.
+El catálogo de objetos que se encuentra desarrollando el Ecuador a
+través del Instituto Oceanográfico y Antártico de la Armada se
+encuentra alineado a normas internacionales de manejo y
+administración de datos espaciales, así como a las áreas prioritarias
+de investigación del SCAR, lo que permite su uso y aplicación tanto
+a nivel nacional como internacional.
+Recomendaciones
+En caso de que en el levantamiento de información geográfica se
+encontrase con algún objeto que no estuviese considerado dentro de
+este catálogo de objetos, se recomienda ubicarlo en la categoría y
+subcategoría correspondiente nombrando y codificando el objeto
+según las normativas utilizadas para la estructuración del Catálogo.
+Lo propio en caso de que no exista ni el objeto ni la subcategoría.
+Referencias bibliográficas
+Defense Geospatial Information Working Group DGIWG, 2000.
+Digital Geographic Information Exchange Standard (DIGEST).
+Instituto Panamericano de Geografía e Historia, 2021. Catálogo de
+objetos geográficos y símbolos multiescalav.1.2.
+Instituto Panamericano de Geografía e Historia, 2013. Guía de
+Normas Comité ISO/TC211 Información Geográfica / Geomática.
+Segunda edición en español, año 2013.
+International Organization for Standardization ISO. (2005) ISO
+19126. Geographic information — Feature concept dictionaries and
+registers.
+International Organization for Standardization ISO. (2016). ISO
+19110 Geographic Information Methodology for feature
+cataloguing.
+International Hydrographic Organization IHO (2000). Transfer
+Standard Digital Hydrographic Publication S-57.

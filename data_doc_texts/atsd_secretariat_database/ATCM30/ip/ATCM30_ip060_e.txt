@@ -1,0 +1,89 @@
+﻿
+
+
+
+
+
+Scientific activities at Indian station Maitri and proposed new research base at Larsemann during 2006 -2007 season
+
+
+
+
+Scientific activities at Indian station Maitri and proposed new research base at Larsemann during 2006 -2007 season
+Introduction
+The paper highlights the significant thematic research, in different fields of Polar Science, undertaken during winter of 2006 as well as during the current austral summer period of 2006-07 by Indian scientists at Maitri and at the proposed site of India’s new research Station at Larsemann Hills.
+Scientific activities at Maitri during the winter period
+    • A Seismometer Pier was constructed inside the Vault for the Installation of Seismometers. Up gradation of the Broad Band Seismic System with Geotech KS2000M sensor and Smart 24R digital acquisition system was undertaken. Following observations were taken at the Seismological Observatory:
+    • Recording of digital data on a continuous basis from Short Period S-13 Sensors with Reftek    DAS unit along with Reftek RT121-03 
+    • Analogue recording by Teledyne Geotech Analog Recorder (Portacorder RV 320B) with S-13 Seismometer 30 seismic events have been recorded for the Month of June 2006.
+    • Downloading the seismic event files and archiving them for further processing and analysis at Headquarters.
+    • Archiving the digital Seismic data and storing in relevant format.
+
+    • Ashtech GPS Receiver was in operation on a continuous basis and the GPS data accumulated is in the form of Ashtech Binary at an interval of 15 secs. A total of 440 Earthquake Events recorded during the year 2006. Similarly, Turbo Rouge GPS receiver was in operation on a continuous basis through out as a permanent marker at Maitri.
+    • The Magnetic variation data from the digital flux gate magnetometer (by seconds, minutes and hour), EDA Flux Gate Magnetometer (every 30 seconds), total magnetic field data from the Proton Magnetometer (every 5 seconds), Electromagnetic wave absorption data from Relative Opacity meter (every second) were collected with out any break. Magnetic field disturbance are observed on 4th, 5th, 6th, 7th, 10th, 11th, 12th, 13th and14th of May, 2006 and 2nd, 3 rd, 6th, 7th, 8 th16th, 17th, 18th, and 28th of June 2006. Auroral activity observed on 3rd, 6th, 7th and 8th. June 2006
+    • The Global Electric circuit (GEC) data from Maxwell current antenna (for atmospheric electric currents, with a 500 second atmospheric relaxation time), total electric field data from Field mill, and atmospheric electric potential (at 1 meter height) from Passive antenna was collected. 11 days of fair weather days were observed 
+    • Continuous monitoring of weather phenomena was undertaken to collect data on tele-connection of Antarctic weather data with that of Indian South- West Monsoon. Following observations were made :
+
+    • Synoptic observations: the daily seasonal and annual variations of atmospheric pressure, surface wind, surface air temperature and cloud cover. These observations were taken every three-hour and every sixth hour period (00, 06, 12 &18z) and transmitted in real time basis.
+    • Radiation studies: Diffuse and direct solar radiation was monitored continuously. Balloon borne radiometer sonde were sent every fortnight after sunset to study about short and long wave radiations in the atmosphere.
+    • Study of Ozone depletion. Ozone sonde instrument was released every week to study the Ozone – hole phenomena over Antarctica and also to obtain the vertical profile of ozone. A total of 42 Ozone Sonde ascents for vertical profile for the study of ozone were released.
+    • Atmospheric turbidity was measured with help of sun photometer every 2 hourly. 
+    • Surface Pressure, D.B. Temperature, Wind Speed, Wind direction, cloud coverage, Surface Ozone and diffused & direct Solar Radiation through Self-recording instruments and their computation and tabulation was done for the whole year.
+    • Data down loading of RRTS (Remote relay Transmission system) on Continental ice just 8 Kms from Maitri Station was done. The data collected from the data logger of RRTS will be utilized for Energy Balance model.
+Scientific activities at Maitri during austral summer (2006-2007) period 
+During the current austral summer following major scientific tasks were accomplished;
+
+    • 65.04 m and 74.98 m of ice core was raised from two different holes at the base of Humboldt glacier (Lat: 71 deg 20’ 38”S, 11 deg 35’ 38” E) and on the ice shelf (Lat: 70 deg 11’ 57.4” S, 12 deg 27’ 25.1” E) respectively. 
+    • Portable echo sounder was used to obtain the depth profiles in Priyadarshani Lake. GPR was made use of in crevasse detection, 70 Km south of Maitri.
+    • Observations for monitoring of the fluctuations in the glacial snout and margin of the continent ice were continued.
+    • Concurrent/non-concurrent ground truth data collection over cap ice with respective to IRS P6 satellite passes, with the indigenously developed radiometers was completed. The data will be used for the onboard radiometric calculation of IRS P6 AWiFS sensor.
+    •  A newly fabricated Gerdian Condenser was operational from December 2006 onwards to measure the atmospheric conductivity, both positive and negative, with a sampling rate of 4 seconds.
+    •  Operation of Brewer Spectrophotometer for measurement of total Ozone, UVB, SO2 and NO2 on all the days of clear sky conditions.
+    • Installation of new APT System for reception of low-resolution cloud imageries from satellites was made fully operational.
+    • Temporal and Spatial variations of energy balance of different snow and ice media in Antarctica using RRTS (Radio based Remote Telemetry System) has been observed for the whole year. 
+    • Hourly observations has been taken of the following snow-meteorological parameters over the continental ice sheet during the above mentioned period:
+    • Incoming Solar Radiation, outgoing Solar Radiation, Sun Shine duration, Net Radiation, Average Ambient Temperature, Maximum temperature minimum Temperature Instantaneous Temperature, Relative humidity, Wind Speed & Wind Direction, Atmospheric Pressure, Snow Surface Temperature, Snow Depth etc.
+Scientific activities around Larsemann Hills region 
+Various scientific programmes have been undertaken in the fields of Earth sciences, Biological Sciences, Upper atmospheric research, limnology and oceanography in Larsemann Hills region.
+Atmospheric studies 
+The studies included measurement of meteorological parameters, changes in the partial pressure of the atmosphere, study of the D layer of the ionosphere and the effects of space weather on this layer, monitoring the ambient air quality of the region and total Ozone column, water vapour column and radiations at various wavelengths, variations in daily mean values of AOD and Column Water Vapour, direct   radiative Forcing due to Aerosols and Precursor Gases etc.
+Ground truth radiometric data collection
+ In continuation with the work carried out at Maitri station during the austral summer period, measurements of direct component of solar spectral irradiance were carried at various heights from 200 meters to 3000 meters with Narrow Band Ground Truth Radiometer (NBGTR). The data will be used in estimating total spectral radiance at the exit port of the IRS P6 AWiFS satellite sensor.
+Geomagnetism
+A Digital Fluxgate Magnetometer has been installed at Larsemann Hills, recording variations in the three orthogonal components of Earth’s magnetic field. The magnetometer will be operated throughout the year. The data will be used to understand the auroral current systems. Comparison of this data with that of Maitri magnetic data will provide information on movement of auroral electro jet currents and on space weather.  A GPS has been installed and will be operational throughout the year. The data will be used for atmospheric studies like Total Electron Content (TEC), Water Vapor & L Band Scintillation studies etc.
+ An AWS, recording three parameters i.e. Pressure, Temperature and Humidity has also been installed with this GPS. Data are being logged at 30 sec sampling interval and will operate throughout the year. The Wind Speed and Wind Direction sensors developed a minor snag and will be added to this system during the forthcoming expedition. A magnetic survey of the area shows a significantly high magnetic anomaly along SE – NW ridge and certain pockets of this area. 
+Geology
+ Nine traverses across the regional tectonic grain were undertaken to cover the entire terrain and to sample and study all the lithotypes exposed. The main rock types of this area are Ortho-gneisses (migmatitic), mafic rich migmatite, amphibolitic enclaves, arenite (quartzitic) and granite. Few oriented samples were collected for AMS (Anisotropy of Magnetic Susceptibility) and related geological studies. The evidence of multiple episodes of deformation and the fold interference patterns are well documented in the region
+The team also carried out a short traverse to record the radioactivity in the area (Larsemann Hills) using a hand held Scintillometer. Observed radiation levels were generally in the range of background values except some pegmatite bands. Snow samples were also collected for the chemical analysis.
+Wide band magneto telluric investigation to delineate the deep crustal Conductivity structure and to compare the co-seismic activity in Antarctica was also undertaken.
+Glaciology
+ In order to characterize and understand the mechanisms involved in the accretion of aerosols and particles during the fresh snow deposition in coastal Antarctica, systematic sampling of surface snow was carried out in the Larsemann Hills region. 
+The following radiation, snow and meteorological parameters were collected in the Larsemann area for development of algorithm and estimation of integrated albedo and snow/ice surface temperature using satellite data.   
+    • Incoming solar radiation 
+    • Albedo of different Snow, Ice and land area at 30 min interval 
+    • Snow / Ice Surface Temperature
+    • Ambient Temperature
+    • Relative humidity
+    • Wind Speed
+    • Pressure
+    • Cloud cover and cloud Type
+Environmental Studies 
+Studies were undertaken to collect essential base line data to fill up the areas of gaps in information
+    • Sampling of lake’s surface waters and sea waters from various locations at Larsemann Hills, east Antarctica 
+    • Sampling for soil and biological studies
+    • Ambient air quality monitoring at two sites using High Volume Sampler (HVS), operated round the clock 
+    • Bird density and diversity study
+    • Survey for fecal matter of Penguins and Skuas 
+    • An Aethalometer was operated to sample atmospheric aerosols at the proposed site of the new station. Atmospheric CO2 sampling was done using potassium hydroxide medium and pump assembly to obtain the baseline data. The time series observations of vertical oceanic profiles of temperature were obtained on a sunny day for characterizing changes in the upper (0-760m) water column from the stationary ship. The surface temperature change of 0.30 C has been observed between 0600 hr and 1200 hr profile. Surface cooling of about 0.50 C was observed between noon profile and 1800 hr profile. The thermocline also exhibits changes due to vertical penetration of surface heat down to about 60m. 
+Palaeoclimatic studies: 
+The samples were collected for pollen, diatom and other algae, clay mineralogy, chemical, C-14 dating and isotopic analysis from Glacio - lacustrine deposit from several lake sites around Larsemann Hills. 
+Polar microbes
+Water samples were collected after opening the frozen surface from lakes adjoining the proposed site for bacterial diversity. Seawater samples were also collected from either side of the promontory. Snow samples were collected from areas adjoining the Amery and Publications ice shelf as well as the Lambert Glacier. Bacteriological studies on snow samples would give better insights on the origin of microbes associated with volcanic ash trapped in ice.
+Large-scale topographical mapping of Larsemann Hills 
+A topographical map of the unnamed promontory has been completed at 1:5,000 scale with contour interval of 5 m. Additionally, another map, on 1:500 scale with contour intervals of 1 m, has also been prepared for the area where the proposed station is likely to come up. 
+Hydrographic survey off Larsemann Hills: 
+Ship sounding of the outer approaches of the area was carried out bounded by the following limits: -
+    • 69 deg 15 min S - 69 deg 20 min S, and
+    • 76 deg 10 min E - 76 deg 20 min E
+The area was surveyed on a scale of 1: 50,000.  Sounding lines were run 250 meters apart and two cross lines were run 4000 meters apart.  
+

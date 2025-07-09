@@ -1,0 +1,63 @@
+﻿
+
+
+
+
+
+Japan’s Antarctic Research Highlights 2016–17
+
+
+
+
+
+
+
+
+Japan’s Antarctic Research Highlights 2016–17
+Information Paper submitted by Japan
+Summary
+Among various research activities carried out by the Japanese Antarctic Research Expedition (JARE) in the Japanese Antarctic Syowa Station area, three topics are introduced: (1) PANSY, a large-scale atmospheric radar at Syowa Station, started full system operation to conduct the second international campaign observation based on a combination of general circulation model (GCM) simulations and simultaneous observations by several MST/IS radars around the world for improving the current GCM, (2) comprehensive observations on aerosol transportation using UAS, and (3) a joint geological survey in East Antarctica under the umbrella of the Asian Forum for Polar Sciences (AFoPS) for reconstructing the past geological history of the Antarctic.
+1.	Introduction
+The headquarters of the Japanese Antarctic Research Expedition (JARE), Japan’s national Antarctic program, was established in 1955 at the Ministry of Education, Science and Culture (now the Ministry of Education, Culture, Sports, Science and Technology, or MEXT). The headquarters comprises departments and agencies of various government ministries, including the Ministry of Foreign Affairs; the Ministry of the Environment; the Ministry of Defense; the Ministry of Land, Infrastructure, Transport and Tourism; and the Ministry of Agriculture, Forestry and Fisheries. The scientific research and observation programs of JARE are considered and adopted as midterm research plans at general meetings of the headquarters.
+This Information Paper introduces selected highlights from scientific projects carried out by overwintering and summer members of the 57th and 58th JAREs, respectively, at and around Syowa Station (69°00′ S, 39°35′ E) during the 2016–17 season.
+2.	Selected Research Highlights
+Year-round observations have been carried out by overwintering JARE personnel at and around Syowa Station. Seasonal observations are also carried out by summer expedition personnel aboard the Shirase of the Japan Maritime Self-Defense Force and the Umitaka Maru of the Tokyo University of Marine Science and Technology for oceanographic observations and in various research areas.
+2.1.  PANSY radar full system observation and international collaboration
+The large-aperture atmospheric radar PANSY (Program of the ANtarctic SYowa Mesosphere, Stratosphere, and Troposphere/Incoherent Scatter [MST/IS] Radar) was constructed during the 2010–11 austral summer. While it has been continuously operated since April 2012 with a quarter of the full system, additional installation and adjustment work has been conducted until the 2014–15 austral summer. A one-year continuous full system observation by the PANSY radar was successfully conducted from late September 2015 through September 2016. This is the first MST radar data in the world continuously covering a whole year. It will enable us to capture various temporal- and spatial-scale phenomena in the Antarctic troposphere, stratosphere, mesosphere, and thermosphere/ionosphere with high temporal and vertical resolution throughout the year and to contribute to improving global climate models (GCM) for better understanding of future climate change.
+Continuous observations (i.e., about three years) by the PANSY radar performed before the completion of the radar adjustment work also provided a large amount of valuable data in the Antarctic atmosphere. A recent study by Sato et al. (2017) based on those data, for the first time, showed frequency spectra of horizontal and vertical winds in the Antarctic mesosphere and lower thermosphere (MLT) covering a wide period range from several minutes to 20 days, and demonstrated that atmospheric gravity waves (AGWs) with a period longer than one hour were responsible for the momentum transport from the lower atmosphere to the MLT region (Fig. 1). The momentum transport due to AGWs is a primary agent driving a global meridional circulation in the MLT region and a key to accurate projection of future climate in state-of-the-art climate models. This study disproved the established theory that short-period (i.e., < 1 hour) AGWs were essential for the momentum transport.
+In addition, the second Inter-hemispheric Coupling Study by Observations and Modeling (ICSOM2; see http://pansy.eps.s.u-tokyo.ac.jp/icsom/) campaign was successfully conducted from January 22 to February 28, 2017. The ICSOM2 campaign was based on a combination of GCM simulations and simultaneous observations by several MST/IS radars around the world, including PANSY (Fig. 2) with some complementary instruments at Syowa Station such as medium-frequency (MF) and meteor radars, lidars, imagers, etc. This campaign was approved as a project for ROSMIC (Role Of the Sun and the Middle atmosphere/thermosphere/ionosphere In Climate) of the Scientific Committee on Solar-Terrestrial Physics (SCOSTEP) under the International Council for Science (ICSU). International collaborative studies based on the first and the second ICSOM campaigns are ongoing. It is expected that these international collaborations, including PANSY radar, will promote a more accurate understanding of the Antarctic atmosphere and inter-hemispheric coupling processes.
+Refer to the project website at http://pansy.eps.s.u-tokyo.ac.jp.
+
+
+
+
+Figure 1. Frequency power spectra of (a) zonal wind fluctuations, and (b) zonal momentum flux. The power spectra averaged for the height region of 84–88 km are shown for 2013–2014 (black), 2014–2015 (blue), and 2015–2016 (green), respectively.
+
+
+
+
+
+
+
+Figure 2. Global MST/IS radar network, participating in the ICSOM2 campaign.
+
+2.2.  Airborne comprehensive observation on aerosol transportation into the Antarctic interior using UAS
+Atmospheric circulation transports aerosols (fine particles in the air) into the Antarctic interior, and the aerosols accumulate on the ice sheet, which can modify climate and are the sources of climatic markers found in ice cores. The principal atmospheric circulation pattern in every climatic age is being studied through observation of the aerosol loading in ice-cores. For this goal, it is important to know how aerosols are transported into the Antarctic interior with atmospheric circulation in this age as a realization of the system. 
+Thus, transportation of aerosols in the lower troposphere from the ocean onto the ice sheet was the focus, in the last summer season, to identify the accumulation mechanism of aerosols in ice cores. The field operation was carried out at inland observation site S17 (69°02′ S, 40°04′ E) on the ice sheet for 45 days.
+UAS (Unmanned Aircraft System), called Kite-plane (Fig.3), was employed for observing spatial and temporal variations in distribution of aerosols between S17 and a coastal area about 20 km away. As shown in Fig.4, Kite-plane flew at around 750 m asl (above sea level), i.e., in the planetary boundary layer, for the outbound flight from S17 to the coast and at around 1200 m asl, i.e., just above the planetary boundary layer, for the inbound flight. Full-course return flights were carried out 11 times among 24 times of the observation flights during this field operation. The success of the comprehensive observation employing UAS is a first for JARE. 
+ 
+Figure 3 Launching a UAS, called Kite-plane at S17.	 Figure 4 The full flight course of Kite-plane from S17 to the coast.
+Figure 5 shows horizontal profiles of number concentrations of aerosol particles for the outbound and inbound flights. The particle size is more than 0.3 μm, the major parts of which are supplied from sea salt. In this case, the number of particles are larger in the boundary layer (the lower panel) on the coastal side. This result suggests that aerosol particles supplied from the sea surface are transported through the boundary layer onto the ice sheet. On the other hand, large numbers of particles only in the upper layer were found in another case, which can transport aerosols to the Antarctic interior. The transportation process and the mechanism will soon be clarified. 
+A remarkable feature of the climate around Syowa Station in the last summer season was the retreat of the sea ice cover. Syowa Station was surrounded by open sea in late summer, a situation that occurred for the first time in at least the last 10 years. This means that the source of aerosols approached the ice sheet. Such conditions may enhance transportation of aerosols from the sea surface into the ice sheet directly through the boundary layer.
+
+Figure 5 Horizontal profiles of number concentrations of aerosol particles for the outbound (lower panel) and inboundd (upper panel) flights in the morning of January 27, 2017.
+
+2.3.  AFoPS joint geological program in the 58th Japanese Antarctic Research Expedition in 2016–17: AFoPS Geology Expedition in Antarctica (AGEA 2016/17)
+The 58th Japanese Antarctic Research Expedition (JARE58) invited three Asian geologists from Indonesia, Mongolia and Thailand to conduct geological surveys on the basement rocks in East Antarctica during the 2016–17 austral summer (Fig. 6). This project was performed in collaboration with the Japanese geologists of the JARE58 under the umbrella of the Asian Forum for Polar Sciences (AFoPS). The fundamental concept of this project was to organize an international research program with Asian colleagues, in which Japan can contribute to conducting scientific collaboration with Asian countries that have not yet started Antarctic research activities.  
+
+Figure 6. Members of AFoPS Geology Expedition in Antarctica (AGEA 2016–17), including geologists from Indonesia, Mongolia and Thailand.
+
+The field party consisted of seven geologists–four Japanese, one Indonesian, one Mongolian and one Thai–who arrived in Antarctica aboard the Japanese icebreaker “Shirase” in late December 2016. They conducted a geological survey until late February 2017. The surveyed area covered outcrops in the Lützow-Holm Bay, Prince Olav Coast and Amundsen Bay regions in East Antarctica that are underlain by metamorphic and plutonic rocks formed in the deep crust (Fig. 7). The geologists who participated in this program are preparing to publish the results of this collaboration, and the geologists from Indonesia, Mongolia, and Thailand are expected to work as scientific leaders to promote Antarctic geology in their countries after they return home.
+
+Figure 7. The surveyed area covered outcrops in the Lützow-Holm Bay, Prince Olav Coast and Amundsen Bay regions in East Antarctica.
+

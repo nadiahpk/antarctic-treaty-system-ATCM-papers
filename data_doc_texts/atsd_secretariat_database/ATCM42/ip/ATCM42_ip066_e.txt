@@ -1,0 +1,29 @@
+﻿
+
+
+
+
+
+Investigation of the Prospective Mapping Studies in Antarctic Peninsula
+
+
+
+
+
+
+
+
+
+Investigation of the Prospective Mapping Studies in Antarctic Peninsula
+Summary 
+This paper gives a brief report on prospective mapping studies of Turkey during Third Antarctic Science Expedition
+Prospective Mapping Studies in Antarctic Peninsula
+A geomatics engineer from General Directorate of Mapping/Turkey attended Turkish Antarctic Expedition-III in 2019 to investigate the prospective mapping studies in Antarctic Peninsula. The actions taken within this project can be summarized as follows: 
+
+    1) Static Global Navigation Satellite Systems (GNSS) measurements were carried out on five Ground Control Points (GCP) in Livingston, Galindez and Horseshoe islands and precise coordinates were determined. These points might be used for the rectification of the orthophotos in future. On the other hand, precise velocities of these points will be estimated through episodic GNSS observations in the future for the purpose of tectonic monitoring. Considering the fault geometry, it is planning to enlarge the network as much as possible during the next expeditions.
+
+    2) Two permanent GNSS stations located in Cornish and Horseshoe islands which are funded by University of Tasmania were visited. Since it is planned to install permanent GNSS stations in future by Turkey, designs of these stations were examined. Station in Cornish island does not have a real-time data transfer capability. Thus, data collected in the receiver were downloaded and sent to the people who are in charge of data management.
+
+    3) For tectonic monitoring, it is preferable to have permanent GNSS stations with inter-station distances over 50 km. Thus, although Turkish Temporary Camp is founded on Horseshoe island, it is decided not to install a permanent GNSS station to avoid redundancy, due to the existence of a station funded by University of Tasmania. A reconnaissance was conducted, and offshore Faure islands which are away from the effects of the melting glaciers were selected as prospective location for a future installation. 
+
+

@@ -1,0 +1,157 @@
+﻿Report of the ICG Established to Update the ‘Guidelines for Environmental Impact Assessment in Antarctica’ (1999)
+
+Report of the ICG Established to Update the ‘Guidelines for Environmental Impact Assessment in Antarctica’ (1999)
+
+Background
+
+At CEP VII Argentina introduced ATCM XXVII/WP28 on the application of environmental impact assessment procedures to tourism activities in Antarctica.  The paper noted that existing procedures for environmental impact assessment are not sufficient to predict cumulative environmental impacts arising from the activities of many operators at a site, or of one operator conducting activities at many sites.  
+
+Noting that this issue is not confined solely to tourism activities the Committee agreed to establish an intersessional contact group (ICG) to update the ‘Guidelines for Environmental Impact Assessment in Antarctica (1999)’and endorsed the following Terms of Reference for the ICG:
+    1. To consider whether the ‘Guidelines for Environmental Impact Assessment in Antarctica’ should be supplemented to take into account the assessment of possible cumulative impacts arising from multiple activities at multiple locations undertaken by one or more national or private operators.
+    2. To bring forward any suggestions for updating the ‘Guidelines’, in accordance with TOR 1, for consideration at CEP VIII.
+
+Australia convened an ICG with representatives from the following Antarctic Treaty Parties, Antarctic Treaty System Observers and International Organisations, as well as the Secretariat of the Antarctic Treaty:  Argentina, Australia, Brazil, Bulgaria, Canada, Chile, China, Czech Republic, Estonia, Finland, France, Germany, Italy, Japan, Korea, Netherlands, New Zealand, Norway, Peru, Poland, Romania, South Africa, Spain, Sweden, Ukraine, United Kingdom and United States of America; CCAMLR, ASOC, IAATO.
+
+The ICG adopted the following strategy to address its Terms of Reference:
+    1. Identify the problems that need to be addressed in the guidelines
+    2. Identify possible solutions to the problems
+    3. Incorporate these solutions into the ‘Guidelines’ where practical
+    4. Refer to the CEP those issues that need to be addressed to solve the problems identified in 1. above, but which are outside the Terms of Reference of the ICG.
+
+The ICG identified four principal areas where the current EIA guidelines are problematic or inadequate in assessing cumulative impacts.  These problems/inadequacies and the solutions identified to address them are detailed below. 
+
+The proposed amendments to the EIA Guidelines are shown in upper case text in Attachment A.
+
+Problem 1:  where more than one proponent is undertaking activities at the same site the combined effects of these activities are not taken into consideration because the activities are assessed individually, not collectively.
+
+Discussion of Issues: It was noted that the ideal solution for this problem would be for a collective EIA to be prepared in which the combined effect of past, present and planned activities are taken into consideration.  However, it was considered that such an approach is unrealistic at present and that the best that can be achieved is for assessments to take into consideration the impact that is expected as a result of other proponent/s activities.  This would however require that proponents are aware of each others’ past and planned activities.
+
+Current information exchange requirements do not provide this information in time for it to be taken into account.  It is also difficult to obtain information about past activities.  A database or document archive linked to the information exchange process and giving access to EIA documentation where appropriate, could address these deficiencies, particularly if it were linked to a geographic information system to allow the data to be viewed in a spatial context.  The archive should be developed in conjugation with other information exchange mechanisms under consideration by ATCM to avoid unnecessary duplication.
+
+Consideration could also be given to adding an appendix to the guidelines containing a list of sites known to be heavily used.  This would assist proponents in identifying such sites and could be done quickly without having to wait for a database to be established.  
+
+Ideal Solution/s for Problem 1: 
+    • when preparing EIA proponents take into consideration all activities which are proposed at a site;
+
+Incorporating Solution 1 into the Guidelines: 
+
+Section 3.1.1 – add at the end of the paragraph which commences with “Careful consideration...” - Where activities are to be undertaken at sites which are visited repeatedly by one or more operators the cumulative impacts of past, current and planned activities are to be taken into consideration.
+
+Section 3.1.1 – add new paragraph - In identifying spatial and temporal boundaries for the EIA proponents should identify other activities occurring in the region within the EIA framework. 
+
+Section 3.1.3 – replace first sentence of third paragraph with – When planning an activity the outputs of the proposed activity must be considered together with the outputs arising from past, present and future activities.  
+
+Section 3.3.3 para 6, add second sentence- It is important that this evaluation determine the magnitude and significance of cumulative impacts.
+
+
+Section 6 – insert following text at the end of the paragraph under Cumulative impacts – These activities may involve visits by multiple operators or repeated visits to the same site by the same operator.
+
+Section 6  - Define Operator and Proponent and use consistently throughout the document.
+"Proponent" - Individuals and / or national programmes advocating the activity and responsible for the preparation of an EIA document.
+"Operator" - Individuals or organisations undertaking activities from which impacts arise. 
+
+		- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+ 
+Problem 2:  there is often insufficient base-line information to determine the initial environmental reference state at sites where activities are/would be undertaken, or alternatively the information has been collected but is not readily accessible.   Without this information it is difficult to determine whether cumulative environmental impacts are occurring.
+
+Discussion of Issues: Section 3.2 of the Guidelines requires the characterisation of all relevant physical, biological, chemical and anthropic elements or values in the area where the activity is proposed.  A large amount of baseline environmental data has already been collected for some sites; however this data is not always readily accessible to proponents to assist them in their development of EIA.  A high priority should be given to archiving this data in a suitable electronic format that can be accessed by both proponents and decision makers; and a program instituted to collect this data where it does not exist for sites that have high levels of visitation.  
+
+Ideal Solution for Problem 2: comprehensive base-line information is available on sites where multiple activities are undertaken so that the initial environmental reference state is adequately described for each of the sites. 
+
+Section 3.2, new final paragraph - When an operator plans an activity which will be undertaken at several sites, each one of those sites should be described according to the methodology above.  
+
+
+		- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+ 
+ 
+Problem 3:  if cumulative impacts are identified there is currently no mechanism available to advise other users of the site about them, or a means to co-ordinate an appropriate response to mitigate these impacts.
+
+Discussion of Issues: if cumulative impacts are identified a mechanism is required to report this so that management action can be taken to mitigate any further impacts.  When considering the environment (Section 3.2 of the Guidelines), proponents should include consideration of management action taken/required to address or minimise the cumulative impacts of past and present activities.   
+ 
+Ideal Solution for Problem 3: A mechanism which would:
+    • allow proponents to report perceived cumulative impacts, or sites where these impacts could occur, and the action they took to avoid, minimise, or mitigate these impacts;
+    • advise users and other stakeholders of the site of the report; and 
+    • determine an appropriate response to the events identified in the report. 
+
+Incorporating Solution 4 into the Guidelines: 
+
+Section 3.2, para 3 - additional bullet point stating – Recognition of management action taken/required to address or minimise the cumulative impacts of past and present activities.
+
+		- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+ 
+Problem 4:  there is a limited understanding of the potential impacts of specific activities, both on a regional basis and at specific sites, and also of the interacting impacts of multiple activities.
+
+Discussion of Issues: There has been limited research undertaken on the impact of specific activities, and even less research undertaken on the interacting impacts of multiple activities.  This information is essential in order to identify outputs of the activities (Section 3.1.3 of the Guidelines). 
+
+Ideal Solutions for Problem 5: 
+    • research is undertaken to identify the environmental impact of activities, both when undertaken alone and when undertaken in conjunction with other activities; and the likely impacts of these activities at specific sites.  
+    • assessments determine the tolerance limits (sensitivities) of heavily visited sites to various activities.
+
+Incorporating Solution 5 into the Guidelines: 
+
+Section 3.3.2 – Insert additional sentence at the end of the final paragraph- Recognition should be given to relevant scientific data where this exists and to the results of monitoring programs. 
+
+Section 3.6- insert following text after paragraph 3- Where a number of proponents are conducting activities at the same site/s they should give consideration to establishing joint regional monitoring programs.
+
+		- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Recommendations to the CEP
+
+The ICG considers that the inclusion of the above text in the ‘Guidelines’ will not, by itself, provide proponents with sufficient tools and/or the information necessary to adequately assess the potential cumulative impacts of their activities and recommends:   
+
+1: Establishment of an electronic archive to provide proponents with relevant information on past and present EIA so that proponents have complete and accurate information for use in development of their EIA.  This information should include all identified impacts (including impacts identified as insignificant and/or less than minor or transitory), environmental audits and plans for future activities,  The archive should also identify which Parties are undertaking activities in associated areas/regions. Use of a GIS to access data held in the archive would allow it to be viewed in a spatial context.  
+
+2: That systematic environmental baseline data be collected at sites which are visited frequently.  A decision is required on who is going to collect this base-line data, where it is going to be stored, and who will be responsible for monitoring and reporting on this data.  
+
+3: Development of a mechanism to respond to reports of environmental damage, particularly in instances where currently approved activities may extend or aggravate the environmental damage which has occurred.
+
+4: Additional research be undertaken to improve our understanding of the potential environmental impact of specific activities, both when undertaken alone and when undertaken in conjunction with other activities.  To achieve this, appropriate monitoring programs - utilising agreed methods/protocols - should be established at a representative range of sites, while additional research identifies threshold levels at which significant impacts are likely to occur.  The ongoing work of the CEP on environmental monitoring will be useful in this regard.
+
+5: Development of a methodology as an annex to the ‘Guidelines for EIA in Antarctica’ to assist proponents in identifying all the steps/information required in assessing cumulative impacts when preparing their EIA. Witness Section 3.3.2, of the Guidelines which states: “Several methods exist to identify impacts such as: overlay maps, checklists, matrices etc.  The choice of methodology will depend on the character of the activity and the environment that is likely to be affected.”  
+
+A methodology annex would offer a systematic approach to assessing cumulative impacts and should include a checklist, a list of heavily used sites to indicate sites to be particularly vigilant about, and an example of how the information could be presented (Table 1). The additional guidance offered in this annex should also include a process whereby activities involving national programmes, private operators and IAATO can be coordinated.  
+ 
+Example.  Table 1. Combined impacts of planned activity on specific key values and the combined impacts of past (5 years), concurrent and potential (5 years) future activities on key values.  
+
+
+
+
+
+Key Values
+Combined impacts of planned activity
+Past activity
+Concurrent activities
+Future activities
+Flora
+Dust, trampling, removal of small samples etc
+Scientific sampling
+3 science events in the area (2 x NZ, 1 x Italy). All are soil sampling.
+Scientific sampling
+Fauna
+Noise 
+Vehicles, drilling, seismics.
+None
+None planned
+Aesthetic
+New buildings
+None
+None
+Further buildings
+Ice-free ground
+Dust, modified topography…etc
+Trampling, camping, 
+2 science events in area.
+Camping, trampling.
+
+
+
+Other Issues for CEP’s Consideration
+
+The ICG identified a range of other issues relating to the assessment of cumulative impacts on which it could not make specific recommendations.  The CEP may wish to give further consideration to the following actions:  
+
+    • Encourage proponents to compile one comprehensive regional based EIA in those areas where the total activity level is high.  
+    • Conduct a sensitivity analysis of areas/sites which are heavily used in order to provide guidance as to the implementation of activities in the area.     
+
+

@@ -1,0 +1,419 @@
+ANTARCTIC TREATY              
+XIXth CONSULTATIVE MEETING              
+TRAITÉ SUR L'ANTARCTIQUE              
+XIXème RÉUNION CONSULTATIVE                                    TRATADO ANTARTICO              
+XIX REUNION CONSULTIVA              
+ДОГОВОР ОБ АНТАРКТИКЕ              
+XIX КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ                          
+
+                              SEOUL              
+May 8-19, 1995              
+
+XIX ATCM/INF 91              
+May 15, 1995              
+Original: English              
+
+
+____________________________________________________
+                                                     
+              A MULTI-DSP SIGNAL PROCESSING              
+          AND CONTROL SYSTEM FOR MST RADAR              
+
+                  Agenda Item 15                     
+
+              (Submitted by Peru)                     
+____________________________________________________
+A MULTI-DSP SIGNAL PROCESSING AND CONTROL SYSTEM FOR MST RADAR†
+
+Martin F. Sarango¹, Enrico Ragaini²,††, Ronald F. Woodman¹, Edilberto H. Vasquez²
+
+1) Radio Observatorio de Jicamarca, Instituto Geofisico del Perú, Lima, Perú.
+2) Universidad de Piura, Piura, Perú.
+
+Abstract
+
+This paper describes a signal processing and control system for atmospheric sounding radars, with im-
+proved characteristics with respect to formerly used architectures. We refer especially to wind profiling as 
+an important and interesting application.
+
+The system allows up to 4 receiver signals to be processed at the same time, with 60 range gates and 300 
+m height resolution. The use of two DSPs working in parallel allows the use of a single PC for real time 
+data processing and system control. Some experimental results are reported.
+
+1. Introduction
+
+Atmospheric remote sensing by Doppler radar is an increasingly used technique in meteorology and atmo-
+spheric physics [1]. Atmospheric radars are classified according to the range of heights they can observe. 
+An MST radar is an instrument that can be used for Mesosphere, Stratosphere and Troposphere remote 
+sensing. Frequencies in the VHF band are usually employed for this purpose. Some attractive features of 
+MST radars are: the possibility to replace in-situ measurements with ground based sounding, the improvement 
+of measurement quality, and the integration in totally automated instrument systems. There are even cases 
+(e.g. vertical wind velocity) in which a quantity can only be measured by this means.
+
+Among the applications of atmospheric radars, one of considerable importance is wind profiling. A wind 
+profiler is a radar designed to measure wind speed and direction at different heights. It is essentially a 
+Doppler radar that works on clear-air echoes. Received signal is due to small variations in the air refrac-
+tion index caused by turbulence. Thus, the whole atmosphere along the transmitted beam path acts as a 
+backscattering target.
+
+Due to the Doppler effect, the scattered signals show a frequency shifts proportional to the wind speed, 
+measured along the beam path.
+
+As part of the Peruvian Antarctic Research activities, with the collaboration of CIRES of the University of 
+Colorado, a Wind Profiler system was designed and built. The purpose of this paper is to present the de-
+sign characteristics of the digital control and processing system of the radar. The scientific goals of the 
+project were twofold: 1) to measure the tropospheric and lower stratospheric winds, in an effort to better 
+understand the role of these wind systems in the depletion of the ozone layer in the Antarctic; and, 2) giv-
+en the experience of similar radars in the Arctic, where very strong echoes are received from mesospheric 
+altitudes, known as PMSE ( for Polar Mesospheric Summer Echoes, Ecklund and Balsley, 1981), the 
+study of their presence in the Antarctic.
+
+† To be presented at the IEEE Radar Conference, Washington, 8-15 May, 1995.
+
+†† Now at the politecnico de Milan
+
+1
+The radar was then designed as a MST radar, i.e. with capabilities to study these three regions of the 
+middle atmosphere. The Antarctic radar has three independent antenna beam directions, each with its own 
+transmitter and receiver. The processing system, then, was designed to process in parallel four independent 
+radar receiving channels, each with two altitude sampling windows, one for the troposphere, lower strato-
+sphere and the other for the mesosphere.
+
+The system could have other applications. In fact, it has been planned to use the same radar, with a 
+horizontally pointing antenna, as a Sea-State radar, to measure the surface currents in the surrounding bay. 
+A similar system will be build at the Jicamarca Radio Observatory, Lima, Peru, as part of the JULIA 
+project. This is a project designed to use the large Jicamarca antenna as a continuosly operating radar at a 
+reduced power level.
+
+2. Algorithm
+
+The algorithm for wind profiler signal processing will be briefly described. However, the same processing 
+scheme is used in other kinds of atmospheric remote sensing experiments as well [2].
+
+The radar transmitted signal consists of a series of short, equally spaced pulses. Data from a single height 
+are obtained by sampling the receiver output signal with a constant delay after each transmitter pulse. 
+Receiver output is actually composed by two components, one in phase and one in quadrature with respect 
+to a reference oscillator. The two are sampled at the same time; it is usual to consider the two samples as 
+the real and imaginary part of a complex number.
+
+Digitized data are usually time averaged, i.e., blocks of N successive samples are summed, separately ac-
+cumulating real and imaginary parts (coherent integration).
+
+Advantages of time averaging can be resumed as follows:
+
+a) data rate reduction: data rate is reduced N times, typical values of N being around 100. Processing 
+speed and memory size required for subsequent processing are correspondingly reduced.
+
+b) improvement of signal to noise ratio: this is because noise is uncorrelated between samples, while sig-
+nal is correlated.
+
+As coherent integration reduces the effective sampling rate by N, care must be taken in selecting N so that 
+frequency aliasing is avoided. Coherent integration can be used safely in VHF wind profiling applications, 
+because Doppler shifts due to wind velocity are known to be small.
+
+After time averaging, data are Fourier-transformed. A complex spectrum, which contains the physically 
+significant information, is obtained. To enhance signal to noise ratio, a number of successive power spec-
+tra can be averaged (incoherent integration).
+
+The above algorithm is performed in parallel for all the heights to be observed. The result is a radial ve-
+locity profile, i.e., a measurement of the component of the wind velocity vector along the direction of the 
+transmitted beam.
+
+To determine completely the velocity vector, the measurement has to be repeated on three different, non-
+coplanar beam directions.
+
+The three measurements can be performed subsequently, with antenna switching and one receiver, or si-
+multaneously, with three receivers and three antennas. Of course, the latter measurement is more de-
+manding on the signal processing system.
+
+Even if three receivers are sufficient for wind profiling, various measurement have been proposed in which 
+more receivers are employed [3]. For this reason, the system has been designed with four input channels.
+
+2
+## 3. System Description
+
+The signal processing and control system we describe has been designed and built in collaboration between Universidad de Piura, Peru, and Jicamarca Radio Observatory, Lima, Peru.
+
+Design objectives were to design a flexible, totally programmable processing system, while at the same time improving measurement time resolution and eliminating the need for antenna switching. The system would thus work with up to four receivers, 60 range gates (i.e., heights) and 300 m height resolution.
+
+The system is composed of an A/D converter unit, two DSP boards, a control computer (PC) , an optical disk drive, a tape backup unit and the interfaces to connect all the above. A second computer can be connected to the PC via an Ethernet link, for off-line data processing.
+
+A block diagram of the system is drawn in Fig. 1.
+
+From a design point of view, the main features are:
+- multiple ADC's for simultaneous processing of different receiver outputs;
+- the use of two DSPs, each of which performs one phase of the processing;
+- the use of a single PC for signal processing, data storing, and control of the experiment; the PC also plots real time graphics of the data.
+
+### 3.1. System outline
+
+The system is connected to the receiver outputs and to the Radar Controller, a programmable device which generates all the timing signals of the radar. The RS-232 interface allows the Radar Controller to be programmed by the PC.
+
+The Radar Controller was designed and built at the Jicamarca Radio Observatory. Its design and programming are not of our concern in this paper and are discussed in [4].
+
+The receiver output signals are sampled and converted to digital form by the converters. Sample pulses come from the Radar Controller, which synchronizes them with the transmitted RF pulses, according to the ranges to examine.
+
+A parallel interface connects the ADC outputs to the first DSP board. The first DSP works as a coherent integrator: it reads converter data and sums the programmed number of successive samples. This is done separately for each height and for the real and imaginary component.
+
+Time averaged data are then passed through a serial interface to the second DSP board. The second DSP works as a frequency analyzer, computing complex FFT's and then power spectra of the data.
+
+Spectra are transferred through the PC bus to the PC RAM, then incoherently integrated and stored in the optical disk. Sample data are displayed, to allow monitoring of the results. Data can also be stored in a 8 mm magnetic tape for backup.
+
+### 3.2. A/D converters and parallel interface
+
+The ADC unit has four input channels. Each of them employs a dual 8 bit flash converter for the in-phase and quadrature components.
+
+The four converter outputs (2 bytes each) are multiplexed and connected to the first DSP board through a 16 bit parallel interface. The multiplexer is controlled by two bits of the DSP address bus, so each channel can be individually addressed. Time required to read one complex datum from the interface and store it into the DSP memory is 300 ns.
+
+The system has been used with a minimum sampling interval of 2 μs (300 m resolution) with three channels, and of 1 μs (150 m resolution) with one channel.
+3.3. DSP boards
+
+The DSP boards are installed in two of the PC slots. The DSP programs are loaded from the PC into the board memory via the PC BUS. At the beginning of each experiment, the programs can be changed according to the required processing.
+
+The same type of DSP chip is used in the two boards, namely an AT&T DSP-32C working at 50 MHz (25 MFLOPS).
+
+On the first board (coherent integrator) 140 KBytes of RAM and the parallel interface hardware are installed. Connection to the converter outputs through the interface is memory-mapped: the DSP reads a converter output as a memory location.
+
+The second board (frequency analyzer) has 256 KBytes of RAM and no parallel interface.
+
+The two DSPs are connected through the on-chip serial port, configured for a 2 Mbit/s throughput.
+
+3.4. Control PC
+
+A 486-based PC working at 33 Mhz is used as the control console. At the same time, the PC processes and stores data being taken.
+
+At the beginning of each experiment, an initialization program is run, which:
+- loads the DSP programs in the DSP boards memory and runs them;
+- programs the Radar Controller with the parameters of the experiment (interpulse period, heights to sample etc.) and enables RF pulses transmission.
+
+During each experiment, the control program continuously performs the following tasks:
+- reads data (power spectra) from the frequency analyzer and stores them to the PC RAM;
+- averages the power spectra according to the programmed number of incoherent integrations;
+- stores results into the optical disk, which is a WORM (Write Once - Read Many times) device with 0.5 GByte capacity;
+- stores backup copies of the data in the tape unit;
+- displays a graph of total received power vs height: from this, the operator can detect system fails;
+- displays graphs, in the form of contour plots or density plots, of received power versus height and frequency: thus, all spectra can be monitored in real time;
+- allows the operator to stop the experiment at any time and start it again with new parameters. If no changes are required, data collection automatically continues with the same parameters. The radar station can thus work completely unattended, requiring operator intervention only for optical disk replacement.
+
+3.5. Ethernet link
+
+An Ethernet adapter is installed in one of the PC slots. A two computer network can be formed, e.g. with a UNIX workstation.
+
+The link can be enabled or disabled at any time during the experiment. When it is enabled, the other computer receives a copy of all processed data.
+
+Still, the Ethernet link is not needed for the radar system to work properly. The system has been designed to work without network adapter as well.
+
+4. Algorithm implementation
+
+The design of the processing system is influenced by the following considerations:
+1) sampling is not uniform over time: instead, sampling instants form short bursts, repeated with constant 
+delay after each transmitted pulse. This is due to the fact that a small height range is usually observed, 
+while echoes are received from a much larger height interval. 
+e.g., if a wind profiler is sounding heights between 3 and 12 km and the unambiguous height limit is 
+150 km, sampling window only spans 60 ms of the 1 ms pulse repetition period.
+
+2) furthermore, the operator can define multiple sampling windows: e.g. heights between 3 and 12 km and 
+between 85 and 95 km can be sampled at the same time.
+
+3) pulse transmission and sampling instants are triggered by the radar controller. This device has its own 
+clock, independent of the processing system, so that sampling is not synchronized with the DSP nor the 
+PC clock.
+
+These first considerations suggest the use of interrupts for coherent integrator input. Each sample pulse 
+generates an interrupt signal to the first DSP, which then reads data from the parallel interface. As con-
+verters are individually addressed, the DSP can be programmed to read one, two, three, or all of them.
+
+A further consideration is of concern for system performance:
+
+4) height resolution depends on time interval between successive samples: to achieve a good height reso-
+lution, input speed has to be as high as possible.
+
+Consequence is that interrupt execution time has to be kept to a minimum. Hence, the interrupt routine 
+reads converter data and stores them in a buffer, leaving the task of updating the running sums to the main 
+program.
+
+As stated above, time required to read and store a datum is 300 ns. Thus, 1200 ns are required for four 
+channels. Interrupt overhead (320 ns maximum) must be taken into account: total input time (i.e., mini-
+mum sampling interval) is 1.52 µs. Corresponding limit for height resolution is 230 m.
+
+On the other hand, overall processing speed of the first DSP is not as critical as input speed. In fact:
+
+a) the main program only performs a small number of operations (as many retrieve, sum and store opera-
+tions as sampled heights);
+
+b) a large fraction of time is available, as the sampling window only covers a small fraction of the interp-
+ulse period.
+
+Actually, the first DSP processing speed would allow more functions to be implemented (phase coding, 
+windowing, etc.), which will be part of future enhancements of the system.
+
+If we now consider the second DSP board, the two design parameters of importance are processing speed 
+and on-board memory.
+
+Processing speed forces a trade-off between minimum number of coherent integration and maximum num-
+ber of heights. In fact, the DSP must calculate all power spectra of a data set before the next one is ready. 
+If less integrations are performed, less time is available, so a smaller number of heights can be processed. 
+However, time required to compute a 256-point FFT is around 1 ms; thus, processing speed is not a limit, 
+except when a low number of coherent integration is used.
+
+On the other hand, on-board memory can limit number of heights, because all data are kept in memory 
+while computing FFT's. Also, double buffering is used for data transfer, so the required RAM size is dou-
+bled. Nevertheless, with the actual configuration, 60 heights with four beam directions can be processed.
+
+5. System evaluation
+
+Measurement characteristics of the described system can be summarized by the following parameters:
+
+a) four beams are processed at the same time, thus eliminating the need for antenna switching;
+in wind profiling, where three beams are used, time required to obtain a profile is reduced to one third. 
+With typical parameters, a wind profile can be measured in 2 minutes, which is an excellent time reso-
+lution.
+
+b) Height resolution is 300 m with four beam directions and 150 m when only one is used. These are 
+state-of-the-art values in VHF MST radars.
+
+Height resolution, i.e. data acquisition speed, could be improved with further development of the inter-
+face between ADCs and coherent integrator. However, sampling interval should match the duration of 
+the pulse transmitted by the radar, which is limited by RF hardware. Pulse durations currently used in 
+VHF MST radars are of the order of our system sampling interval.
+
+c) with typical wind profiling parameters, 60 heights can be processed at the same time on four beam di-
+rections (or 80 with three directions). Such a number of heights fits the current requirements for MST 
+radars.
+
+Some further features of the system are the following:
+
+1) programming flexibility allows the operator to set all the parameters of the experiment using a single 
+program on a PC. Processing parameters (e.g., number of integrations), radar parameters (e.g., transmit-
+ted pulse duration) and other system parameters (e.g., number of heights to observe) can all be con-
+trolled and set on a single software "control panel".
+
+2) the system could be applied with slight or no modifications to other remote sensing devices that require 
+Doppler processing, e.g. lidars.
+
+3) radar control and data collection are fully automatic, allowing unattended operation.
+
+4) finally, the system was completely realized with off the shelf components, with minimum cost.
+
+6. Experimental results and final remarks
+
+After being tested at Jicamarca Radio Observatory, in January 1994 the described system has been in-
+stalled at the Peruvian Scientific Base "Macchu Picchu", King George Island, Antarctica, where a 50 MHz 
+MST radar had been installed in 1993 [5]. The system replaced a previous, single DSP system.
+
+The MST radar has been working continuously with the processing system for more than 20 days. 
+Wind profiling between 3.5 and 12 km as well as mesospheric sounding from 85 to 95 km were per-
+formed.
+
+A contour plot obtained in a wind profiling experiment is shown in fig.2. Contours represent levels of re-
+ceived power. Plots of this kind are shown in real time on the control console. In a typical wind profiling 
+experiment, three plots of this kind are obtained every 2 minutes.
+
+Fig. 3 shows a density plot (colors represent SNR values) for a mesospheric sounding experiment. The 
+graph was obtained in real time on a UNIX workstation connected to the Ethernet.
+
+With respect to the previous system, the following aspects have been improved:
+- no antenna switching is needed;
+- time resolution is 3 times better, as the 3 beam directions are processed in parallel;
+- data processing is performed in real time, while in the previous system frequency transforms had to be 
+calculated off-line.
+
+ACKNOWLEDGEMENTS
+
+Installation of the MST radar in the Antarctica is a Peruvian-USA cooloborative project funded by the .
+Comisión Nacional de Asuntos Antarticos and the Consejo Nacional de Ciencia y Tecnología on the Peru-
+vian side, and by National Science Foundation of the USA. We would like to thank Dr. Ben B. Balsley, of
+CIRES, Colorado University, Principal Co-investigator of the project, for his scientific, finatial and logistic
+support. We would also like to thank Vice-Almirante Jorge Broussett and Commandante Hector Soldi, of the
+Direccion de Hidrografia y Navegacion de la Marina Peruana, for their support in the construction and op-
+eration of the radar in Antarctic. The authors wish to thank Fredy Aquino for his help in processing and
+graphing the data.
+
+FIGURE CAPTIONS
+
+Fig. 1 : Block diagram of the measurement system.
+
+Fig. 2 : Wind profiling data measured at "Macchu Picchu" Station, Antarctica. Contours rep-
+resent levels of received power, vs. heights from ground (km) and radial velocities
+(m/s). The graph on the left represents total received power vs. height (km).
+
+Fig. 3 : Mesospheric sounding data measured at "Macchu Picchu" Station, Antarctica. These
+graphs are shown in real-time while collecting data.
+
+REFERENCES
+
+1. S.F.Clifford et al., Ground-based remote profiling in atmospheric studies: an overview, Proc. IEEE,
+vol.82, pp.313-355, Mar.1994
+
+2. J.Rottger, M.F.Larsen, UHF/VHF radar techniques for atmospheric research and wind profiling appli-
+cations, in "Radar in Meteorology", D.Atlas, ed.; American Meteorological Society, 1990
+
+3. R.D.Palmer, Multi-receiver techniques for atmospheric wind profiling, IEEE Geoscience and Remote
+Sensing Newsletter, pp.9-17, Mar.1994
+
+4. Julio Urbina, Diseño e implementacion de un Controlador de Radar MST para la Base Antartica Peru-
+ana "Macchu Picchu", Tesis de Titulo, Universidad Nacional de Ingenieria, Lima 1993
+
+5. B.B.Balsley et al., Southern-Hemisphere PMSE: Where are they ?, Geophysical Research Letters, vol-
+.20, pp.1983-1985, Sept.1993
+7
+Receivers                   Digitalization                 SUN
+Rx 1                       system                     WorkStation
+Rx 2                                              Ethernet Network
+Rx 3                  A/D                        Ethernet
+Rx 4                 Converters                     card
+Transmitters          DSPLink                    CPU 80486
+Tx 1                  DSP serial                   
+Tx 2                 interface                  PC ISA BUS
+Tx 3              DSP #1     DSP #2              
+Tx 4              board      board                
+it 1                                           
+it 2              RS-232     ISA to SCSI       Optical disk
+it 3             serial     adapter card     controller
+it 4             interface                       
+nt 3                                           
+nt 4              8mm tape unit     Optical disk       
+                  Control computer
+Fig. 1
+MACHU-PICCHU STATION, ANTARCTICA, UHF WIND PROFILER              CHAZDS : 1
+UDEP - IGP - DHMM - PERU                                        WIMZDS : 1
+1994 Jan 11 Tue   19:19:47 Day 011                            HT_INDEX : 8
+
+
+      SIGNAL POWER                     WIND PROFILE
+ 22.3                                 22.3
+ 20.3                                 20.3
+ 18.3                                 18.3
+ 16.3                                 16.3 L
+ 14.3                                 14.3
+ 12.3                                 12.3
+ 10.3                                 10.3
+  8.3                                  8.3
+  6.3                                  6.3
+  4.3                                  4.3
+  2.3                                  2.3
+  0  10  20  30  40  50              -2.9      -1.5         9
+S I G . P O V . (dB)                 VELOCITY (M/S)
+
+Fig. 2
+MACHU-PICCHU STATION, ANTARCTICA, UHF WIND PROFILER          CHAZDS :  1
+UDEP - IGP - DHMI - PERU                                      WIN2DS :  1
+1994 Jan 12 Wed     15:50:04  Day 012                      HT_INDEX :  0
+
+
+SIGNAL POWER                                  WIND PROFILE
+93.8                                           93.8
+91.3                                           91.3
+88.8                                           88.8
+86.3                                           86.3
+83.8                                           83.8
+81.3                                           81.3
+78.8                                           78.8
+76.3                                           76.3
+73.8                                           73.8
+71.3                                           71.3
+68.8                                           68.8
+ 0  10  20  30  40  50  60                    -11.7  -5.9  0.0   5.9   11.7
+S I G. P O W. (dB)                             VELOCITY (M/S)
+
+Fig. 3

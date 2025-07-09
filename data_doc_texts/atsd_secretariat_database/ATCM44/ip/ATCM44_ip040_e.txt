@@ -1,0 +1,161 @@
+Methodology for evaluating vulnerability to climate change in
+environmental impact assessments
+Methodology for evaluating vulnerability to climate change in
+environmental impact assessments
+Information Paper submitted by Argentina
+Summary
+The objective was to implement a qualitative methodology for
+climate change risk analysis to be incorporated into the initial
+environmental impact assessments carried out for infrastructure
+works. The methodology involves determining the exposure, threats
+and vulnerability in order to establish the risks involved and finally
+propose adaptation measures to minimise the impact.
+Introduction
+The impacts of the risk of damage due to climate change are a
+growing concern as they reduce the predictability of future
+infrastructure needs and increase the vulnerability of populations
+and assets worldwide. In this regard, Resolution 1 (2016) states that
+one of the aims of the guidelines is "where appropriate, assist
+proponents to give consideration to the possible implications of
+climate change for proposed activities and their associated
+environmental impacts". For these reasons, the objective of being
+able to establish a methodology that allows the incorporation of a
+climate change risk analysis into its environmental impact
+assessments was set.
+Methodology Guidelines
+To establish the methodology, the definitions and guidelines
+established by the IPCC (IPCC 2014) were followed. This
+Methodology was designed in this first stage to be applied mainly to
+infrastructure projects, but it is expected to be extended to all types
+of activities in the future. Among the many methodologies that
+exist, we take as a basic reference “Hagenlocher, M.,
+Schneiderbauer, S., Sebesvari, Z., Bertram, M., Renner, K., Renaud,
+FG, Wiley, H. & Zebisch, M. (2018). Climate Risk Assessment for
+Ecosystem-based Adaptation: A guidebook for planners and
+practitioners.”
+The methodology is based on the determination of the components
+of the risk of damage due to climate change: Hazard, Exposure and
+Vulnerability. Based on these concepts, a risk assessment was
+designed that allows the consideration of the potential for damage
+due to climate change of a particular project. At this stage of
+development, we propose a qualitative approach to determine the
+nature and scope of disaster risk through the analysis of possible
+threats and the evaluation of existing conditions of exposure and
+vulnerability that in concert could cause damage to people,
+property, services, livelihoods and the environment.
+Qualitative methodology
+The methodology used is based on the information and specific
+knowledge about the project design provided for the preparation of
+the preliminary environmental impact assessment and the scientific
+knowledge available on climate change in Antarctica:
+Environmental Factor: environmental variable that has an impact
+on the activity being assessed.
+Observed impacts: Refers to (already observed) changes in the
+physical environment or in the wildlife resulting from climate
+change, added to existing climate variability, that have significant
+deleterious effects on the composition, resilience or productivity of
+natural or managed ecosystems, or in the functioning of socio-
+economic systems, or in natural and human health and well-being
+from extreme weather and climate events, and from climate change.
+Threats: natural or man-made phenomena that have the potential to
+cause harm to people or property.
+Exposed values: elements of the analysed activity that could suffer
+damage due to the threats of climate change.
+Risks: “The potential for consequences where something of value is
+at stake and where the outcome is uncertain (...). Risk results from
+the interaction of vulnerability, exposure and hazard (...)” (IPCC
+2014a, p. 40). A climate risk is the potential for specific climate-
+related consequences (climate shocks) that can affect assets, people,
+ecosystems, culture, etc.
+Hazard: Potential occurrence of a physical event or trend of natural
+or human origin, or a physical impact that can cause loss of life,
+injury or other negative effects on health, as well as damage and
+loss in property, infrastructure, means of subsistence, provision of
+services, ecosystems and environmental resources.
+Vulnerability: attributes of exposed elements that can increase (or
+decrease) the potential consequences of a specific climate hazard. In
+accordance with Wilches-Chaux (1993), we consider the following
+vulnerabilities useful for analysing climate change risks in Antarctic
+activities:
+Natural Vulnerability: Human beings and their constructions have
+certain conditions of temperature, humidity and other
+environmental variables for which they were designed.
+Physical Vulnerability: This refers especially to the location of
+human constructions in risk areas, and to the deficiencies of their
+physical structures in terms of their ability to “absorb” the effects of
+these risks.
+Technical Vulnerability: This refers to inadequate construction
+techniques in risk areas. Although this vulnerability could be
+included within Physical
+Vulnerability, its expressions are so specific that they warrant a
+separate sub-section.
+Adaptation: Process of adjustment to the actual or projected climate
+and its effects. In human systems, adaptation aims to moderate or
+avoid harm or to take advantage of beneficial opportunities.
+Example of Use
+The first use case was in the evaluation of the installation of a field
+of solar panels at the Marambio Base. Based on the changes in the
+observed and expected climate on Seymour Island, it was possible
+to determine in a specific way that a clear positive trend can be
+observed in the increase in the average annual average temperature.
+However, although Seymour Island is located in the continuous
+permafrost zone, with ground temperatures close to –5°C and a
+thickness of approximately 200 metres (Silva Busso, Sánchez and
+Fresina, 2000), the observed and expected changes in temperatures
+have significant effects on the dynamics and thickness of the active
+layer of permafrost (top layer of permafrost that thaws in summer
+and refreezes in autumn).
+Climate change is a phenomenon that has the potential to cause
+damage to property, and in this specific case, the increase in
+temperatures in the Seymour Island area will expose the structures
+of the photovoltaic plant to the threat of greater melting of the
+permafrost, which will thaw to a greater depth risking decreased
+support for the pillars buried in the ground.
+Table1: risk matrix for the installation of the solar panel field
+In this way and in order to take into account the threats of climate
+change for the proposed activity, the threats, risks, exposed values,
+hazards and adaptation measures to be taken into account to reduce
+vulnerability are described in Table 1 of the photovoltaic plant
+during its useful life. Based on the impacts already observed and
+future scenarios, it is expected that the infrastructure of the solar
+panel field (buried pillars) will be exposed to the threat of increased
+thermal erosion of the permafrost, which will in turn cause an
+increase in the depth of thawing in the area of the pillars and
+therefore these will be left entirely buried in the active (thawed)
+layer and as a consequence the entire structure may become
+unstable or suffer partial collapse.
+Conclusions
+In order to comply with the requirements of Resolution 1 (2016) -
+Guidelines for Environmental Impact Assessment in Antarctica, a
+qualitative methodology was established in this first stage that
+allows adaptation measures to be obtained in preliminary
+environmental impact assessments with the aim of reducing the
+vulnerability of infrastructure projects due to exposure to and
+hazards deriving from climate change.
+Bibliography
+Annex, I. Guidelines for Environmental Impact Assessment in
+Antarctica.
+GIZ and EURAC 2017: Risk Supplement to the Vulnerability
+Sourcebook: Guidance on how to apply the Vulnerability
+Sourcebook's approach 2017: Risk Supplement to the Vulnerability
+Sourcebook.
+GIZ, EURAC & UNU-EHS (2018): Climate Risk Assessment for
+Ecosystem-based Adaptation: A guidebook for planners and
+practitioners, Bonn: GIZ.
+IPCC 2014a: Climate Change 2014: Impacts, Adaptation, and
+Vulnerability. Part A: Global and Sectoral Aspects. Working Group
+II Contribution to the Fifth Assessment Report of the
+Intergovernmental Panel on Climate Change. Cambridge University
+Press.
+Hagenlocher, M., Schneiderbauer, S., Sebesvari, Z., Bertram, M.,
+Renner, K., Renaud, FG, Wiley, H. & Zebisch, M. (2018). Climate
+Risk Assessment for Ecosystem-based Adaptation: A guidebook for
+planners and practitioners.
+Silva Busso, A., Fresina, M., & Sánchez, R. (2000). Characterization
+of the hydrogeological behavior of Marambio (Seymour) Island,
+Antarctica. In I Joint Congress on Groundwater (p. 292).
+Turner, J., Bindschadler, R., Convey, P., Di Prisco, G., Fahrbach, E.,
+Gutt, J., Hodgson, D., Mayewski, P. & Summerhayes, C. (2009).
+Antarctic climate change and the environment. SCAR
+Wilches-Chaux, G. (1993). La vulnerabilidad global. Los desastres
+no son naturales, 11-44.

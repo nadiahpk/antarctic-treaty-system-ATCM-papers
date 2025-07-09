@@ -1,0 +1,172 @@
+﻿
+
+
+
+
+
+Initial Environmental Evaluation for Installation of Wind Energy Generators (WEG) at Proposed New Indian Research Base at Larsemann Hills, East Antarctica
+
+
+
+
+Initial Environmental Evaluation for Installation of Wind Energy Generator (WEG) at Proposed New Indian Research Base at Larsemann Hills, East Antarctica
+Introduction
+India has proposed to establish a research base at Larsemann Hills in East Antarctica. In this regard a draft Comprehensive Environmental Evaluation (CEE) report was submitted to the XXX-ATCM/X-CEP at New Delhi. In order to reduce the air emissions from the generators which run on fossil fuel, it is decided to supplement proposed station’s power demand by harnessing the wind energy. Experiments regarding feasibility of Wind Energy Generators (WEG) of lower output were conducted earlier with success at Maitri station in Antarctica. Various manufacturers of WEG were contacted and provided with basic data on weather parameters to help them study the viability and sustainability of the WEG in the harsh climatic conditions of Antarctica. The functioning of WEG system at Belgian station in Antarctica was also studied and finally the WEG manufactured by M/S Proven Energy, UK was selected.
+At the initial stage, one Wind Energy Generator (WEG) of 6KW output (maximum) is proposed to be installed at Larsemann Hills near the site of new Research Station. Installation of the WEG is planned in the austral summer of 2009. 
+This Initial Environmental Evaluation (IEE) report for installation of WEG, at Larsemann Hills in Antarctica has been prepared in agreement with Article 2 of annex 1 to the Protocol on Environmental Protection to the Antarctic Treaty.  Probable impact due to construction and operation of the systems has been carried out as per the guide lines of the Council of Managers of National Antarctic Programs (COMNAP) for Environmental Impact Assessment. The report has concluded that the impact from installation of WEG is of very low category and found IEE is sufficient to address the issue. 
+Scientific Studies at Larsemann Hills
+India has been conducting the scientific studies   at the Larsemann Hills area since 2003/04 when it first short listed the area for its new Research station .The studies are being conducted, during the austral summers, in the realms of following disciplines:
+    • Earth Science
+    • Upper Atmosphere 
+    • Meteorology
+    • Geomagnetism
+    • Environmental Science and Biology
+Need of Activity and Purpose
+In order to obtain continuous scientific data from the Larsemann Hills region, various instrument either on short-term or long-term basis, have been installed.  A high resolution multi-parameter AWS is already placed for acquiring data on various meteorological parameters. Digital Fluxgate Magnetometer (DFM), Proton Precession Magnetometer and a Global Positioning System (GPS) are also installed to obtain continuous geomagnetic and related data.  Installation of a WEG is needed to provide uninterrupted power supply to the instruments, which have to be left unattended during the winters as there is no wintering yet at the site. 
+
+
+
+Alternatives for the Location
+Four alternate locations, marked as A, B, C and D in the figure below, were considered for WEG installation. The sites A, B and C situated in NE, NW and SW direction in the promontory were not found suitable on account of future helicopter operations or topographical reasons.  Site at point” D” was  found most appropriate location being at a higher elevation and away from helicopter landing/flying zone.
+
+Figure 1: Alternate sites for installation of WEG at Larsemann Hills
+Description of Area
+The Larsemann Hills area is marked by persistent, strong katabatic winds that blow from east to southeast during austral summer. Daytime air temperatures from December to February at times exceed 4°C, with the mean monthly temperatures being a little above 0°C. Extreme minimum temperature recorded in the region so for is -400 C. Annual mean wind speed of 7 m/s and maximum wind speed 50 m/s is recorded at the nearby Zhongshan station. Annual mean gale days are about 171 (47%). Precipitation occurs as snow and is unlikely to exceed 250 mm water equivalent annually. Snow cover is generally thicker and more persistent on Stornes Peninsula than on Broknes Peninsula. The sea ice grows steadily during March – September, with maximum growth in April – June.
+Description of Activity
+Salient features of the WEG are listed below;
+    • 6 kW maximum output , battery charging inverter system
+    • Low temperature material
+    • 9 m guyed tower
+    • Generator – Brushless (without gearbox)
+
+    • Rock bolt foundation
+    • Blade diameter – 5.5 meter
+
+It is proposed to carry out the installation and commissioning of the systems during the austral summer of 2009. After testing for a year, the station shall be augmented with additional WEGs. Total weight of  WEG is estimated around 2.5 tons however dismantled weight of any single part is not more that 500 kg, which will be transported by helicopter to site from ship. 
+Installation
+Low temperature steel would be used in all tower sections, castings, and structural components. The height of the tower is proposed to be kept at 9 m due to the high winds and flying restrictions. The foundation of the platform is designed to be anchored to the rock rather than using concrete. A few meters from the WEG foundation, gin pole will be erected and bolted to the rock by drilling. Using the gin pole and winch, a WEG tower shall be lifted and placed in position.
+All the control systems and batteries shall be placed inside the Igloo satellite cabin which exists at the location. Sealed batteries shall be maintenance free in nature to avoid any spillage of the electrolyte.
+Cumulative Impact Evaluation
+Impact identification and evaluation, carried out for the proposed activity as well as the mitigation measures pertaining to activities are presented in Table 1.
+Table 1: Impact Evaluation
+
+Environ-mental Parameter
+Indicator
+Description of Potential Impact from Activities
+Evaluation of Impact
+Value
+Mitigation Measures
+Air
+Impact from ship helicopter and generators 
+
+
+
+
+
+
+Airborne dust emission due to drilling operation
+Extent:       Low
+Duration:   Low
+Intensity:   Low
+Probability: Medium
+Low
+As the ship will be berthed far away from the site there will not be any direct or indirect impact on the air quality at the site. 
+Helicopters will have a total of about 45 sorties during the entire period of operation. The engines shall be shut while at the site. The impact on the air is, therefore, expected to be minimum. 
+The portable Generators to be used at the site conform to Central Pollution Control Board, India and USEPA emission standards. The emission levels are expected to be minimum. Moreover the generators shall be operated only for about two weeks period. 
+ No concrete is being used for foundation, it shall be only drilling and bolting over the rock, will reduce the probability of generating air borne dust 
+Water
+Spillage of electrolyte as well as excavated material may mix with snow and water which ultimately may join to lake system
+Extent:       Low
+Duration:   Low
+Intensity:   Low
+Probability: Low
+Low
+Batteries shall be maintenance free and sealed type. Shall be kept inside the Igloo hut.
+
+Noise
+Helicopter, generator operations and scientific experiments.
+Extent:       Low
+Duration:   medium
+Intensity:   Low
+Probability: Medium
+Low
+Helicopter shall not remain in air for long hours. At the landing site engine shall be switched off. Helicopter will not fly over terrestrial fauna of the area. 
+A small silent generator does not have potential to emit much noise 
+Scientific experiments shall not add noise emission. Low noise drilling machine shall be used. Suitable media shall be used to absorb and reduce the propagation of vibration and sound.
+WEG shall produce 45-70 dBA in 5-12 m/s wind speed. All the moving part shall be properly maintained to avoid resistance
+Land
+Solid waste produce during drilling may disperse in high wind if kept in open place. Used may be left at site.
+
+An area of 5 square meter shall be occupied 
+Extent:       Very Low
+Duration:   Very Low
+Intensity:   Very Low
+Probability: Low
+Very Low
+Rock drilling shall be executed only to, few inches and that too by having a wooden enclosure. Used batteries shall be brought  back to India for recycling
+
+
+
+Area required for base foundation is very low
+Flora and  Fauna
+Bird hit by moving blades of WEG may occur
+.Alien species may be introduced from human clothing etc
+Extent:      Very Low
+Duration:   Very Low
+Intensity:   Very Low
+Probability: Very Low
+Very Low
+The site does not fall under any observed migration route of birds. Tower height shall be kept low. The probability of bird hit is very low.
+Cleaning and inspection of clothing items and material before sending to Antarctica shall reduce the probability of introduction of alien species
+Wilder-ness and Aesthetic values
+Two WEG installation may affect the aesthetic value of the area
+
+Extent:       Very Low
+Duration:   Very Low
+Intensity:   Very Low
+Probability: Very Low
+Very Low
+Low tower height is selected to avoid the visual interference. 
+HSM,ASPA, ASMA
+Present site falls under ASMA 6
+Extent:       Very Low
+Duration:   Very Low
+Intensity:   Very Low
+Probability: Very Low
+Very Low
+No direct impact on the area however the ASMA guidelines shall be followed.  
+ABBREVIATIONS and ACRONYMS 
+
+ASMA - Antarctic Specially Managed Area 
+ASPA - Antarctica Specially Protected Area 
+ATCM – Antarctica Treaty Consultative Meeting
+CEP – Committee for Environmental Protection
+DFM - Digital Fluxgate Magnetometer 
+EIA - Environmental Impact Assessment 
+GPS - Global Positioning System 
+HSM - Historic Site and Monument 
+IEE - Initial Environmental Evaluation 
+USEPA - United States Environmental Protection Agency
+
+Supporting Bibliography
+Antarctica Treaty, (2006). (In) CEP Handbook, pp 13-17
+Beg M.J., Das M., Shrivastava M., Singh J., Wanganeo A., (2006). A Preliminary Report on the Scientific Study and Establishment of First Structure in the Area (Larsemann), XXIV-Indian Scientific Expedition to Antarctica, NCAOR 
+COMNAP (2005), Practical Guideline for Developing and Designing Monitoring Programmes in Antarctica, COMNAP Secretariat, Hobart, Australia
+COMNAP, (2005). Guideline for Environmental Impact Assessment in Antarctica, COMNAP/ATCM
+Gillieson, D. S., Burgess, J., Spate, A. and Cochrane A, (1990). Atlas of the Lakes of the Larsemann Hills, Princess Elizabeth Land, Antarctica, A N A R E Research Notes, No.74
+Hodgson, D. A., Noon, P. E., Vyverman, W., Bryant, C. L., Gore, D. B., Appleby, P., Gilmour, M., Verleyen, E., Sabbe, K., Jones, V. J., Ellis-Evans, J. C. and Wood, P. B., (2001). Were The Larsemann Hills Ice-Free Through The Last Glacial Maximum? Antarctic Science, Vol. 13 (4), pp 440-454
+IP 26, (2008). Initial Environmental Evaluation for Installation of Earth Station at Maitri, Schirmacher Oasis, Antarctica, XXXI-Antarctica Treaty Consultative Meeting, Kyiv, Ukraine
+Khandal R.K., Verma V.K., Niyogi U.K., Singh R.K., Pal N., Sharma B., (2008). Long-term Environmental Monitoring and Impact Assessment Studies at New Indian Scientific Base, at Larsemann Hills, East Antarctica, Shriram Institute for Industrial Research, New Delhi
+Khwairakpam G., Singh R.K., Pal N., Sharma B., Verma V.K., Khandal R.K., (2007). Water quality of some lakes in Grovnes promontory (Larsemann Hills): East Antarctica, Shriram Institute for Industrial Research, New Delhi
+Rao U.R., (1996). Expert Group Report on Ten-Year Work Profile of the Indian Antarctic Programme, (In) G.N.P, Publication and Information Directorate CSIR, India
+Ravindra R., Rajan S., Dhar A. and Malhotra P., (2004).Prydz Bay: Voyage to Select Site for Indian Second Research Station in Antarctica, Report of First Task Force to Select Site for Indian Research Base, NCAOR, India
+Reddy C.D., Dhar Ajay, (2008). Magnetic anomaly map for Bharati promontory, Larsemann Hills, East Antarctica, Current Science, Vol. 94, NO. 6, pp 715-717
+Singh Shiv Mohan, Nayaka sanjev, Upreti D.K., (2007). Lichen communities in Larsemann Hills, East Antarctica, Current Science, Vol 93, NO12, pp 1670-1672
+The Environmental Protocol, (1991).Protocol On Environmental Protection to Antarctic Treaty, (In) CEP Handbook-2006, pp19-64
+Turner J .and Pendlebury S., (2004). The International Antarctic Weather Forecasting Handbook, BAS, UK
+U.S. EPA, (2000). AP-42 Emission Factors, Fuel Oil Combustion Ver 8.0.
+WP 4 and IP 7, (2007). Draft Comprehensive Environmental Evaluation of New Indian Research Base at Larsemann Hills, Antarctica, XXX-Antarctica Treaty Consultative Meeting, New Delhi
+WP8, (2007).  Larsemann Hills east Antarctica, Antarctic Specially Managed Area Management Plan, (Australia, China, India, Romania and Russian Federation), XXX-Antarctica Treaty Consultative Meeting, New Delhi
+
+
+

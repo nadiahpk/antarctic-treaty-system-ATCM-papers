@@ -1,0 +1,95 @@
+﻿º
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+ ATCM XXVI 
+Information Paper
+Agenda Item: ATCM 9
+
+The First Field Activities at the Korean Arctic Facility, Dasan Station, Ny-Alesund, Svalbard 
+
+by
+REPUBLIC OF KOREA
+
+
+This briefly introduces the 1st field activities we conducted at our Arctic facility Dasan Station which was opened at Ny-Alesund, Svalbard on April 29, 2002. The first field activities focused on (1) marine biology and (2) upper atmospheric physics, which are designed basically as long-term monitoring studies, and were initiated as comparative studies with Antarctic regions. In addition, in August, 2003 we plan to install a micro-meteorological measurement system and to start another monitoring on local climatic changes such as surface exchange of energy, water, CO2. etc. The ultimate goal of our studies in the Arctic is to contribute scientifically to protection of the Arctic environment as a member of International Arctic Science Committee (IASC). We will use Dasan Station in Kongsfjorden as a site for monitoring and detecting environmental changes. 
+
+1. The 1st Marine Biological Studies at Kongsfjorden
+Kongsfjorden is an important feeding ground for marine mammals and seabirds. Especially, seabirds have the largest energy intake and also export nutrients for primary production of marine microalgae. Kongsfjorden has received a lot of research attention as a site for exploring the impacts of possible climate changes. A pilot sampling on plankton and benthos was conducted in order to figure out species composition and density in a coastal region near Ny-Alesund (79°N, 12°E) from 5 to 28 August 2002. Assemblages, biomass and production of planktonic and benthic organisms were studied in the near-shore waters. Water samples were also collected to determine seawater temperature, salinity, density, and chlorophyll concentrations. Total of 15 surface samples were collected for the phytoplankton-related measurements. Chlorophyll a concentrations were measured to investigate the relations between physical factors and phytoplankton biomass distribution. The physical factors were not highly correlated with phytoplankton distribution. Drifting ice, freshwater, and sediment inputs from large tidal glaciers located in inner part of Kongsfjorden were shown to create steep physico- and biogeochemical environmental gradients along the longitudinal axis of this fjord. The glacial inputs seem to reduce water column biodiversity, biomass, and productivity in the inner fjord. Primary production of benthic and pelagic microalgae appear to reduce likely due to limited light levels in the turbid, mixed inner waters. The magnitude of the glacial effects tended to diminish towards the mouth of the fjord.
+In the summer of 2003 biological parameters such as biomass and composition of phytoplankton, zooplankton, benthic organisms will be continuously and routinely measured. Physical and chemical parameters will also be measured to investigate their influence on marine organisms and also to obtain a baseline data inventory for a later assessment on long-term changes in temperature, salinity, nutrients, UVB, and sea-ice dynamics.
+
+Contact point: Dr. Sung-Ho Kang, shkang@kordi.re.kr
+
+2. A new Fourier Transform Spectrometers (FTS) in Ny-Alesund for Comparative Studies with Antarctic regions in Upper Atmospheric physics 
+
+We have located another Fourier Transform Spectrometers (FTS) at Ny-Alesund (79 N), Svalbard in November 2002 following the one in Kiruna (68 N), Sweden that we set up in October 2001. As a part of our upper atmospheric research program, the Polar Sciences Laboratory, KORDI has equipped FTS to characterize the thermodynamics of the Earth's lower thermosphere and upper mesosphere region. We are interested in performing measurements from these two arctic places in collaboration with British Antarctic Survey (BAS), who has been operating the same instrument in Halley (75 S) and Rothera(68 S) stations in Antarctica, nearly conjugate points of Ny-Alesund and Kiruna, respectively. 
+Long-term measurements of atmospheric emission features are expected to reveal the detailed information on the energy balance and the dynamics behavior (such as gravity waves, tides) of the lower thermospheric and upper mesospheric region of the atmosphere.
+
+Contact point: Dr. Young-In Won, yiwon@kordi.re.kr
+
+
+ 
+
+
+3. Micrometeorological Research on Arctic Climate System
+(Monitoring Land/Ice/Ocean Surface Exchange of Energy & Matter) 
+
+A micrometeorological measuring instrument will be installed at the Dasan station in August 2003, and observation will be carried out at the station continuously. We will use eddy covariance methods to measure the exchanges of carbon dioxide, water vapor, and energy between terrestrial ecosystem and atmosphere. Our goals are to understand the mechanism controlling the exchanges of each element across a spectrum of time and space scales, to compare Arctic data with those obtained from our Antarctic station, King Sejong, and to provide information to scientists in the world and to the public. 
+
+Objectives: 
+1. Understand the interactions between the Arctic ocean circulation, ice cover and the hydrological cycle,
+2. Initiate long-term climate research and coordinated enhanced monitoring programs for the Arctic, and 
+3. Provide a scientific basis for an accurate representation of Arctic processes in global models.
+Science and coordination plan will particularly focus on:
+    1. Interactions between the atmosphere, land and snow on polar region
+    2. Interactions between sea ice, oceans and atmosphere on polar region
+        3. Remote sensing, modeling and data management
+Major questions to be addressed:
+    1. What are the interactions and feedback between the terrestrial cryosphere, atmosphere and land surface and current climate, its variability and change?
+    2. What will be the magnitudes, patterns and rates of change in terrestrial cryosphere regime on seasonal to century time scales?
+    3. What will be the associated changes in the energy and water cycles?
+Implementation:
+    1. Monitor the surface exchange of energy, water and CO2 using the eddy covariance technique on a daily to annual time scales;
+    2. Develop procedures to scale up process studies to regional and climate models capable of better reproducing the essential features of the sub-grid scale land-atmosphere interactions;
+    3. Use, and further develop remote sensing techniques and validate atmosphere-cryosphere-land interactions from in-situ and remotely sensed data; and
+        4. Study the energy and water budgets as derived from field process experiments, climatological observation and assimilated data fields, and determine the degree to which these are properly represented within LSP (land surface parameterization) models, hydrological models and re-analyses products.
+
+Deliverables and priorities:
+    1. Develop and implement the proposed contribution of monitoring, process and modeling studies 
+    2. Produce daily/monthly fluxes of energy, water and CO2 for the Arctic region, and baseline terrestrial cryosphere products for model validation and climatological assessment;
+    3. Continue developing/intercomparing land surface process models and GCM output involving cryospheric processes and features.
+
+Contact point: Dr. Bang Yong Lee, bylee@kordi.re.kr

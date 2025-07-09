@@ -1,0 +1,160 @@
+﻿
+
+
+
+
+
+Evaluación Ambiental Antártica: Modelo de Aplicación Chileno
+
+
+
+
+Evaluación Ambiental Antártica: Modelo de Aplicación Chileno
+Documento Informativo elaborado por Chile
+Resumen
+Chile informa a las Partes el detalle del modelo que aplica para la preparación y análisis de las evaluaciones de impacto ambiental de actividades antárticas, como herramienta práctica.
+Introducción 
+Luego de la entrada en vigor del Protocolo al Tratado Antártico sobre Protección del Medio Ambiente en 1998, Chile definió los procedimientos nacionales para evaluar las actividades y proyectos planificados realizar en la Antártica. En una primera instancia, la Comisión Nacional del Medio Ambiente (CONAMA) fue la entidad que asumió esta tarea, como organismo del Estado de Chile dedicado a promover, cuidar, vigilar y patrocinar el cuidado y cumplimiento de las políticas medioambientales, así como de administrar el sistema de evaluación de impacto ambiental, entre los años 1994 y 2010. Hoy esta tarea la lleva a cabo el Ministerio del Medio Ambiente, la cual asumió en octubre de 2011, año en el cual entró en operación con la misión de velar por el cumplimiento de las convenciones internacionales en que Chile es parte y colaborar con los Ministerios, organismos y autoridades competentes en materias ambientales.
+En 2008, al cumplirse 10 años de aplicación de la normativa ambiental antártica, la CONAMA encargó a la consultora Corporación Chile Ambiente el estudio “Criterios para la evaluación ambiental de las actividades a realizar en Antártica”, con la finalidad de homogenizar la evaluación ambiental de los proyectos o actividades chilenas en la Antártica, respecto a los criterios usados por el resto de las Partes del Protocolo al Tratado Antártico sobre Protección del Ambiente.
+Este estudio produjo una tabla de valoración de impactos, con un lineamiento del nivel de los principales impactos a generar, junto a una matriz de cálculo, con la finalidad de orientar a los responsables nacionales, de forma indicativa, sobre los impactos que podrían generar sus actividades en terreno, y ayudarles a determinar si los impactos serían menores, iguales o mayores a mínimos o transitorios.
+Este modelo es utilizado actualmente por el Comité Operativo para la Evaluación del Impacto Ambiental sobre el Medio Ambiente Antártico, como una herramienta orientadora para preparar las evaluaciones de impacto ambiental por parte de los proponentes de actividades, como para analizar dichas evaluaciones, dentro del Comité.
+Con este documento, Chile informa a las Partes el detalle de su modelo, como una herramienta práctica para facilitar la evaluación del impacto que las actividades generarían sobre el ambiente antártico.
+Valoración de los impactos y matriz de cálculo
+Como un modelo práctico, para facilitar la determinación de los impactos que diferentes actividades podrían generar en el ambiente antártico, Chile determinó asignar un valor de relevancia a seis variables principales, en base a aquellas definidas en los Lineamientos para las Evaluaciones de Impacto Ambiental (EIA) en la Antártica (Resolución 1 (1999) de la RCTA XXIII-CPA II, vigente en el momento de desarrollo del estudio), según lo siguiente:
+Tabla 1. Variables y su nivel de relevancia, a considerar en el análisis de impacto ambiental
+Variable
+Valor de relevancia
+Reversibilidad
+0,3
+Extensión espacial
+0,2
+Acumulación 
+0,2
+Duración
+0,1
+Intensidad 
+0,1
+Retardo 
+0,1
+Además, definió tres ponderadores del nivel del impacto identificado (1 al 3), de acuerdo a rangos de cobertura de ellos en diferentes dimensiones, los cuales de resumen en la siguiente matriz:
+Tabla 2. Matriz de niveles de impacto, agrupados en ponderadores 1, 2 y 3, para cada variable a considerar en el análisis de impacto ambiental
+FACTOR
+PONDERA-
+DOR
+VALOR
+
+
+1
+2
+3
+Reversibilidad
+0,3
+Menor 1 temporada
+1 temporada
+Mayor a 1 temporada 
+Acumulación
+0,2
+No evidente
+Probable
+Evidente
+Extensión espacial
+0,2
+Contaminación: Menor al lugar de asentamiento de la actividad
+
+Erosión: 
+0 - 10 m2
+Contaminación: Igual al lugar de asentamiento de la actividad
+
+Erosión:
+10,1 – 100 m2
+Contaminación: Sobrepasa el lugar de asentamiento de la actividad 
+
+Erosión: 
+Mayor a 101m2
+Intensidad
+0,1
+Contaminación: 50% Bajo normas de emisión chilenas en contaminantes orgánicos. 
+80% Bajo normas de emisión chilenas en contaminantes inorgánicos
+Erosión: Intervención sólo en hielo y que causa movimiento de tierra en una superficie no mayor a 10m2
+Mortalidad: No causa mortalidad ni afecta reproducción de poblaciones
+Contaminación: Cumple con Normas de emisión chilenas
+Erosión: Movimientos menores a 100m2 de tierra
+Mortalidad: Causa mortalidad o afecta reproducción de especies, sin causar daño poblacional
+Contaminación: Cualquier contaminante excede las Normas de emisión chilenas
+Erosión: Movimientos >100m2 de tierra
+Mortalidad: Causa mortalidad o afecta reproducción de especies, causando daño poblacional
+Duración
+0,1
+Igual al tiempo de actividad
+Supera el tiempo de actividad; máximo de una temporada
+Mayor a una temporada 
+Retardo
+0,1
+Inmediato
+En la misma temporada
+Mayor a una temporada 
+Con esta información, el proponente puede completar la matriz de cálculo, completando el ponderador correspondiente para cada variable, según el nivel de impacto identificado que generaría la actividad, determinando un valor total del nivel de impacto.
+Tabla 3. Matriz de cálculo, según ponderador de impacto, para cada variable a considerar en el análisis de impacto ambiental
+Parámetro a Medir
+Relevancia
+Ponderador del Nivel de Impacto
+(completar)
+Total
+Justificación del valor adoptado en el 
+Ponderador del Nivel de Impacto
+(completar)
+Reversibilidad
+0,3
+ 
+0
+ 
+Acumulación
+0,2
+ 
+0
+ 
+Extensión Espacial
+0,2
+ 
+0
+ 
+Intensidad
+0,1
+ 
+0
+ 
+Duración
+0,1
+ 
+0
+ 
+Retardo
+0,1
+ 
+0
+ 
+Total del
+Nivel de Impacto
+
+
+0
+
+
+Nivel de impacto
+Escala
+Tipo de  formulario a usar
+Menor a mínimo o transitorio
+1,0 - 1,7
+Formulario de Evaluación Preliminar de Impacto Ambiental (link)
+Mínimo o transitorio
+1,8 - 2,3
+Formulario de Evaluación Inicial de Impacto Ambiental (link)
+Mayor a mínimo o transitorio
+2,4 - 3,0
+Formulario de Evaluación Global de Impacto Ambiental
+Un nivel de impacto total entre 1 y 1,7 indica que los impactos de la actividad, de la forma en la cual se ha planificado, serían menores a mínimos o transitorios; un valor entre 1,8 y 2,3, se asocian a impactos iguales a mínimos o transitorios, mientras que valores entre 2,4 y 3 reflejan impactos mayores a mínimos o transitorios.
+El valor final obtenido, además permite determinar fácilmente al proponente el tipo de Evaluación Ambiental a presentar, ya sea Preliminar, Inicial o Global.
+Consideraciones finales
+Desde el año 2012, la presentación de esta información, junto a la Evaluación de Impacto Ambiental preparada para las actividades a desarrollar en terreno, ha permitido agilizar el proceso de análisis dentro del Comité Operativo de Evaluación Ambiental chileno, disminuyendo, además, los tiempos de determinación de las calificaciones.
+Chile invita a las Partes a revisar la información en detalle y utilizarla, si la consideran una potencial herramienta de apoyo. 
+Es posible acceder a ella en https://eaa.mma.gob.cl/comite-operativo/, junto a los diferentes formularios (en español).

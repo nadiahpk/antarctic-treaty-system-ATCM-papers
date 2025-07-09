@@ -1,0 +1,53 @@
+﻿
+
+
+
+
+
+SAR-WG: Global Search and Rescue (SAR) System: Impacts of New Technologies
+
+
+
+
+
+
+
+
+
+SAR-WG: Global Search and Rescue (SAR) System: Impacts of New Technologies
+Summary
+
+The Antarctic Treaty area poses severe challenges for survival of persons in distress.  As discussed in WP 52 we have submitted on Proposed Development of Regional SAR Standard Operating Procedures, standard operating procedures are one way to improve SAR coordination between RCCs, NAPs, and private operators in Antarctica.  However, technology is also contributing to the effectiveness of SAR efforts.  This paper will discuss the implications of two types of technology, the personal locator beacon (PLB) and a commercially available satellite emergency-notification device, both of which could be used by a person who is in distress but also present new challenges to responders.
+
+Background
+
+Both global SAR systems – aeronautical and maritime – rely upon the 406 MHz distress beacon and the international Cospas-Sarsat system which distributes the 406 MHz distress alerts to the responsible RCCs.  There are three types of 406 MHz distress beacons.  The processes to handle the maritime type (EPIRB) and the aeronautical type (ELT) are well practiced.  But, the third type, the personal locator beacon (PLB) is growing in use and will pose new challenges for SAR services, Antarctica in particular.  The PLB is a small device designed to be carried by an individual (whereas the EPIRB is mandated to be carried on a ship and the ELT is mandated to be carried on an aircraft).  It is an excellent piece of safety equipment for private operators, adventurers, and NAP field teams to carry.  (As reported in COMNAP IP 76 to ATCM XXXIII in 2010, the 2nd Antarctic SAR Workshop, Recommendation 9:  “That National Antarctic Programmes and IAATO encourage their members to carry Cospas-Sarsat beacons in the field and that countries encourage all land-based expeditions to carry these beacons and to ensure that all beacons are registered and preferably have a GPS chip.”)
+
+The PLB can be on a vessel, in an aircraft, and on a person on land.  The PLB can be used by anyone and carried to any part of the world.  This benefit of the 406 MHz PLB can become a challenge for SAR efforts in Antarctica for reasons including: 
+
+    (1) Whether or not the person carrying the PLB registered it.  (And, did the country of registration have arrangements for the PLB registration information to be available to SAR services?)
+    (2) The PLB distress alert is routed by the Cospas-Sarsat system to the responsible RCC.  But, the distress alert is also allowed to be routed to the country in which the beacon was registered (Cospas-Sarsat calls this “Notification of Country of Registry”).  This country (or several countries) may call the responsible RCC to hear what actions are being taken. 
+    (3) NAP stations may be requested by the RCC to “search” the location provided by the Cospas-Sarsat system to the RCC.  (Also, the NAP station may have arrangements for its national SAR service to deliver PLB alerts from NAP personnel to the NAP station itself.)
+
+Outside of the Cospas-Sarsat system, the “commercial locating, tracking and emergency notification service provider” is a service for which people pay.  This service is gaining wide popularity with adventurers.  (One of the better known companies in this business is “SPOT.”)  The system is outside of the established global SAR system but many of the users think that their call for help is automatically part of the international distress alerting distribution system – it is not.  The service provider uses a GPS device (which has a global position and tracking function) and combines it with the ability to send text messages through a different satellite system.  Several companies offer this service for a fee and those companies are spreading around the globe.  National SAR authorities depend upon other national regulatory authorities to impose some oversight on these commercial service providers since there is no international authority at this time.  In an effort to manage expectations of the user, national SAR authorities have been working with commercial service providers to take steps such as: 
+    1. Correctly advise the customer as to the coverage area
+    2. Work in advance with the RCC on how the company passes the information to the RCC
+    3. Have a ‘call center’ which operates 24-hours a day to receive their tracking messages and to answer questions
+    4. Provide quality control on the text messages so that only valid distress messages are sent to the RCC
+    5. Use the format provided in the International Aeronautical and Maritime SAR (IAMSAR) Manual
+    6. Do not use e-mail notification unless followed by a telephone call since RCCs are not staffed to monitor e-mail
+
+SAR authorities view these devices as serving the same distress alerting function as a telephone – an actual distress alert can be called in to the RCC.  Given the lack of regulating this emerging industry,  they could overload the phone line with non-distress calls to an RCC.  For example, it is possible for the person using this device to inform friends and family back home who would then contact an RCC (in the individual’s home country or an Antarctic SAR state) or even a nearby NAP station itself.  Also, calls may come from government officials concerned about a timely response to this type of notification. 
+
+Way Forward
+
+These commercial services providers have not expanded to all countries yet, but people who carry these devices do travel around the world.  Given the growing use of these devices in Antarctica, the following concerns (scenarios) are provided for discussion in the SAR Special Working Group: 
+
+    1. The personal locator beacon (PLB) is a recognized distress alerting device.  The RCC will have that alert routed to it via the Cospas-Sarsat distribution system.  Is there clear understanding for the RCC on how to react to a device that can be for air, land and sea SAR in the Antarctic Treaty area? 
+    2. What procedures does an RCC have for handling a telephone call from the service provider (“call center”) of a ‘commercial locating, tracking and emergency notification device’?
+    3. To what extent are private operators using these devices and how effective have they been?
+
+Recommendation
+
+The United States proposes that the ATCM XXXVI SAR Special Working Group discuss these scenarios with the objective of establishing agreed procedures for response to PLBs in Antarctica.  The attachment provides an example “Process Guide” to understand the various steps involved in handling one type of distress alert.  The Special Working Group should also consider how best to ensure all operators are aware of the differences between the 406 MHz PLB distress beacon and the device offered by the commercial service providers.  SAR authorities clearly prefer the use of the 406 MHz distress beacon over that of the “commercial locating, tracking and emergency notification device,” but procedures need to be in place for responding to either one. 
+

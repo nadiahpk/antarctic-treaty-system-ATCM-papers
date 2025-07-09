@@ -1,0 +1,68 @@
+﻿
+
+
+
+
+
+Near-term Antarctic Impacts of Black Carbon and Short-lived Climate Pollutant Mitigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attachments: Link to On Thin Ice Report (64 MB) http://iccinet.org/thinicepubfinal
+Near-term Antarctic Impacts of Black Carbon and Short-lived Climate Pollutant Mitigation
+Information paper submitted by ASOC1
+Background and Summary	
+
+No emissions inventories yet exist on black carbon from human activity and associated research stations, transport, diesel generator, fishing, and tourism that comprise the only potential local sources of emissions. Although growing, black carbon emissions from these activities are likely to remain localized to the Peninsula and coastlines, or the immediate area around research stations at the South Pole and other inland research bases.  
+
+Previous modelling studies of the impact of short-lived climate pollutants have not included Antarctica, largely because of the region’s remoteness from larger anthropogenic black carbon sources. The Antarctic gyre or front zone presents a seemingly formidable barrier to any pollution from other continents.  As in the Arctic, the sun is only up for half of the year, limiting the radiative impact of deposited black carbon in the region, although radiative absorption of black carbon suspended in the atmosphere above Antarctica occurs over a longer period. The impact of that atmospheric warming on ground temperatures remains an area of active research.
+
+Despite these caveats, the On Thin Ice report, co-published by the World Bank and ICCI in November 20132, showed a surprising degree of Antarctic climate benefits from black carbon reductions, in terms of a decrease in radiative forcing on Antarctica — equaling about two-thirds of the decreased forcing in the Arctic from these black carbon reduction measures.  Employing three global climate models (NASA-GISS, HadGem3 and ECHAM), the study examined total radiative forcing impacts of taking seven existing and feasible anti-pollution measures that target black carbon (including co-emissions of cooling aerosols), as well as seven methane-reducing measures. (While On Thin Ice underwent an extensive peer review process, the below results should be considered preliminary prior to scientific publication, but are shared here for the benefit of ATCM XXXVII participants.)
+Modelling Results of Short-lived Climate Pollutant Impacts
+
+Results on Antarctica proved remarkably consistent for the different sources across the three models. Climatologists use radiative forcing as a way to describe the total energy impacting climate at the top of the Earth’s atmosphere. Total decrease in radiative forcing over Antarctica from black carbon mitigation measures taken by 2030 was -1.1 W/m2 (range -0.5 to -1.7 W/m2). (By comparison, total average global radiative forcing today relative to the pre-industrial, according to the IPCC Fifth Assessment, is about 2.3 W/m2, and is anticipated to grow to between 2.6 W/m2 to 8.5W/m2 under different IPCC greenhouse gas mitigation scenarios.)
+
+Measures to reduce black carbon from cookstoves and diesel measures proved the primary contributor to this decrease in radiative forcing (Figure 1), with direct atmospheric forcing providing the main component.  Only 0.02 W/m2 of this decrease arose from deposited black carbon, consistent with the few Antarctic snow and ice samples3 measuring black carbon concentrations. Models did show greater deposition on the Peninsula and higher ranges of East Antarctica, again consistent with the few available measurements.
+
+
+Figure 1: Modeled Decrease in Radiative Forcing Estimates for Antarctica from Black Carbon Measures
+
+Because little atmospheric mixing occurs between the hemispheres on the few day timescale of black carbon’s atmospheric lifetime, the black carbon affecting Antarctica likely arises primarily from southern hemisphere sources. These are quite large from cookstoves in sub-Saharan Africa. In addition, the population of southern South America still uses biomass cooking to a great degree, and these sources are relatively closer to the Peninsula, which showed the greatest impact 
+
+Diesel emissions (from on- and off-road sources) also showed a discernible impact on Antarctica, again especially on the Peninsula. Note also that no within-Antarctic black carbon sources (such as diesel transport or shipping) were included in the modelling, as no Antarctic emissions inventories for such pollution yet exist.
+
+On Thin Ice also examined impacts from seven methane-reducing measures. A multi-modal method using 10 CMIP5 simulations from IPCC work could be used to calculate temperature decreases, rather than simply radiative forcing, and differences in impact across the continent. As with the rest of the globe, total decrease in radiative forcing from methane measures was -0.3W/m2. The greatest temperature response appeared on the Antarctic Peninsula (0.3°C avoided warming by 2050), with under 0.1°C avoided warming in portions of East Antarctica.
+
+All of these methane and black carbon sources would result in health and crop benefits, especially close to where they are emitted. For example, cookstoves mitigation benefits alone would result in over 200,000 lives saved annually in sub-Saharan African and South America.
+ 
+Work characterizing the impact of SLCP measures on sea level rise, due to lower rates of warming including on Antarctica, is in the early stages but a recent study by Hu et al4 modeled the potential benefits. They found that SLCP measures could cause a levelling of the rate of sea level rise by 2050; and a downward trend in rate beginning by 2060 were the SLCP measures combined with CO2 reductions aimed at a stabilization level at 450ppm (the OECD 450 scenario, see Figure 2). This could avoid about 10cm of sea level rise by 2100 with action on SLCPs alone, about 42% of projected sea level rise under business as usual emissions scenarios.
+
+
+Figure 8a. Sea Level Rise (Including projected land ice melt) with SLCP Measures, from Hu et al (2013).
+
+Conclusion and Recommendations
+Only swift and deep cuts in CO2 emissions will ultimately constrain climate change impacts on Antarctica and the associated global consequences such as sea-level rise. Given concerns about the rapid warming of the Peninsula and the inherent instability of the West Antarctic Ice Sheet (WAIS) however, there is an urgent need for further study of the potential benefits of these short-lived climate pollution measures for slowing temperature rise on Antarctica, as an important and near-term complementary measure.
+
+In this initial modelling, black carbon reduction measures had a surprisingly robust positive impact on Antarctica.  Because of the importance of local emissions, it would be very helpful for the CEP, ATCM and CCAMLR to work together with COMNAP to construct an emission inventory of black carbon from human activity in the Antarctic, as these could be significant given the relatively large black carbon component in diesel sources.  This would include research stations, associated transport by air, ship and land-based vehicles, diesel generators, fishing vessels, and tourism vessels.
+

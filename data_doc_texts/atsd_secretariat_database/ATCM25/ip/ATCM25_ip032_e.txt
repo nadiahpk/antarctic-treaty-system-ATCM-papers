@@ -1,0 +1,529 @@
+ 
+1 
+A New Waste Water Treatment System for New Zealand’s Scott Base 
+- Rationale, Selection Process and Outcome 
+ 
+ 
+New Zealand 
+Information Paper 
+ 
+ 
+1. 
+Introduction 
+ 
+Wastewater (sewage and domestic grey water) from New Zealand’s Scott Base is 
+currently macerated and discharged through a short ocean outfall.  The sewage is not 
+treated in any way to reduce the content of solids, the organic strength (BOD), or the 
+bacteria concentration. In October 2002, a new wastewater treatment plant will be 
+commissioned at the base.  This paper outlines the rationale to treat the discharge, 
+describes the treatment options considered, and provides details of the selected 
+wastewater treatment plant. 
+ 
+ 
+2. 
+The Treatment Rationale 
+ 
+Antarctica New Zealand (the New Zealand Antarctic Institute) operates Scott Base on 
+Ross Island, in the Ross Sea region of Antarctica.  Since 1957, untreated wastewater 
+has been discharged into the sea in front of the base.  The base is occupied year round 
+with up to 120 people in summer and 12 in winter.  Total daily maximum wastewater 
+flow is approximately 70,000 litres per day in summer.  Although this process meets 
+the minimum requirement under Article 5.1 (b) of the Protocol on Environmental 
+Protection to the Antarctic Treaty, Antarctica New Zealand’s commitment to high 
+standards of environmental practice led to a decision to treat this discharge. 
+ 
+The rationale to treat sewage was based around an analysis of the following key 
+factors:  
+ 
+(i) Actual and Potential Environmental Impacts  
+Assessment of the actual and potential environmental impacts associated with the 
+current disposal practice demonstrated that there are adverse impacts on receiving 
+water quality and evidence also indicates that contamination of the local marine fauna 
+is occurring.  In particular, viruses, bacteria and genetic material pose the highest 
+potential risk to the environment.  There have also been, and continue to be, health 
+and safety issues associated with the location of the seawater and potable water intake 
+sites and contaminants from the wastewater discharge.  Contamination at the potable 
+and aquarium seawater intake has also been recorded.  The clear potential for waste 
+water treatment to result in a significant reduction of current and potential 
+environmental impacts was also considered. 
+ 
+(ii) The Environmental Protocol 
+A review of Environmental Protocol requirements included consideration of:  
+• the principles contained in Article 3 which include the need to limit adverse 
+impacts on the Antarctic environment including on water quality; and  
+ 
+2 
+• the specific waste management aspects contained in Annex III including the need 
+to minimise the impacts of waste disposal and the requirement to discharge 
+sewage and domestic liquid wastes wherever practicable where conditions exist 
+for initial dilution and rapid dispersal.   
+ 
+(iii) New Zealand Legislation  
+A review of New Zealand legislation, regulations and guidelines was carried out as 
+they relate to wastewater disposal, including current “best practice”.  The review 
+indicated that a discharge of this nature would be treated if occurring in New Zealand.   
+ 
+(iv) Antarctic “Best Practice” 
+Consideration was also given to current practice for wastewater treatment by other 
+national operators in Antarctica.  There is a precedent from other Antarctic Treaty 
+parties to provide treatment of wastewater being discharged into the marine 
+environment.  In the Ross Sea region, Italy have been treating wastewater at Terra 
+Nova Bay Station, by chemical and physical treatment and UV disinfection since 
+1987.  The United States, at their McMurdo Station, are currently in the process of 
+installing a new treatment plant.  There are also a number of other stations throughout 
+Antarctica of similar size to Scott Base, that already treat their wastewater. 
+ 
+(v) Aesthetic and Cultural Considerations 
+Aesthetic and cultural considerations were also taken into account, including issues of 
+public perception.  In New Zealand, the discharge of untreated wastewater is no 
+longer regarded as culturally or socially acceptable.   
+ 
+ 
+After consideration of these key factors, Antarctica New Zealand decided to provide 
+for treatment of the wastewater discharge at Scott Base.  This decision was in keeping 
+with Antarctica New Zealand’s ongoing commitment through its environmental 
+policy to limit any adverse impacts on the environment of its activities.  Meeting best 
+practice standards for New Zealand and Antarctica in relation to wastewater treatment 
+was also an important consideration.   
+ 
+ 
+3. 
+Setting an Effluent Standard 
+ 
+Testing and analysis of the current untreated discharge showed it to have the 
+following characteristics: 
+ 
+Characteristic 
+Value 
+Notes 
+Maximum daily flow 
+20m3/day 
+Based on 122 persons at 164l/person/day 
+ 
+Biological oxygen demand 
+(BOD) 
+700mg/L 
+Maximum load 14 kg BOD/day 
+Suspended solids (SS) 
+ 
+700mg/L 
+Maximum load 14kg/d 
+Temperature 
+ 
+12°C 
+ 
+Seawater content 
+ 
+7 – 28 percent by volume 
+Toilets have saltwater flushing 
+ 
+ 
+ 
+3 
+Antarctica New Zealand resolved to provide treatment of the sewage before discharge 
+to the ocean, to a nominal standard of <30m/l BOD and SS and <200 cfu/100ml faecal 
+coliforms.  This standard, or better, will be achieved by providing secondary treatment 
+followed by disinfection by UV light.  Effluent treated to this standard, will, when 
+dispersed by the local currents, provide a seawater quality suitable for human 
+consumption of shell fish living in that environment.  This standard was adopted as 
+being conservative, realistic, measurable and achievable on a consistent basis. 
+ 
+Other performance requirements specified for the system were as follows: 
+ 
+• The de-watering plant shall de-water the sludge generated by the treatment 
+process to approximately 20 percent solids (80 percent moisture) or better; 
+ 
+• Sludge production must be minimal; and 
+ 
+• The sewage treatment systems offered must be capable of treatment of sewage 
+containing up to 28 percent of seawater. 
+ 
+ 
+4. 
+Treatment Options  
+ 
+A number of issues were considered when determining which treatment system 
+should be implemented at Scott Base.  These included effluent quality, size of the 
+system and building requirements, staff inputs for sludge management, capital and 
+operating costs, and the “track record” of each system.  The chosen system needed to 
+reliable and be capable of producing a consistent output with minimum maintenance, 
+given the variation in loadings over the year.   
+ 
+The following systems were short listed for consideration and assessed against these 
+criteria for their suitability.  A number of other options were also considered 
+(including composting, chemical processes, and electrolytic oxidation) but were 
+eliminated earlier in the selection process.  An environmental impact assessment 
+process was also initiated during the selection process and was integral to it.  The 
+resulting document, an initial environmental evaluation (IEE) was produced in June 
+2001 (Annex I).   
+ 
+System 
+ 
+Description 
+Assessment 
+Electrolysis 
+The wastewater is diluted with seawater 
+and an electric current is passed through 
+it to generate chlorine, which oxidises 
+and disinfects the wastewater.   
+ 
+ 
+Rejected because of the risk of producing 
+chlorinated organic compounds that could be 
+toxic to and accumulate in the environment.  
+The system could not achieve the desired 
+quality other than by dilution with seawater. 
+ 
+Rotating 
+Biological 
+Contactor (RBC) 
+ 
+Uses plastic mesh discs that provide a 
+surface for bacteria to cling to.  The disc 
+rotates so that it alternatively rotates into 
+the air and then into the wastewater. 
+Waste solids are settled out as sludge and 
+de-watered for disposal.  Disinfection is 
+provided by ultraviolet light. 
+ 
+A suitable technology with low power 
+demand and capable of a high standard of 
+treatment.  Used at Australian bases and at 
+Terra Nova Bay (Italy).  The large size and 
+hence cost of housing the plant was 
+considered a disadvantage. 
+ 
+ 
+4 
+System 
+ 
+Description 
+Assessment 
+Fixed Media 
+Aeration 
+ 
+The wastewater is treated in a chamber 
+containing plastic mesh on which grows 
+a bacterial biofilm.  Aeration is provided 
+by air blown into the bottom of the 
+chamber through fine holes.  Waste 
+solids are settled out as sludge and de-
+watered for disposal.  Disinfection is 
+provided by ultraviolet light. 
+ 
+A suitable technology but with higher power 
+demand than a RBC, compact and suited to 
+housing in a container. 
+ 
+Submerged 
+Membrane 
+Activated Sludge 
+ 
+Wastewater is treated in a tank with 
+suspended bacteria aerated by air blown 
+through fine nozzles.  Bundles of fine 
+hollow tubes with porous walls 
+(membranes) are suspended in the tank 
+and treated wastewater is drawn through 
+the tube walls and out through the hollow 
+centre by suction. The process is 
+essentially an activated sludge process, 
+but does not require a clarifier to settle 
+bacteria solids from the effluent and 
+return it to the treatment tank. Excess 
+sludge is removed and de-watered for 
+disposal. 
+ 
+This process is capable of producing a very 
+high standard of treatment, because the 
+membranes achieve very fine filtration.  
+However, the process was rejected because 
+the membrane cassettes require periodic 
+lifting up above the aeration tank for 
+cleaning, which would require housing in a 
+building at least 7m high.  This requirement 
+would be very expensive and obtrusive.  The 
+capital cost was very high and the operating 
+cost was also very high because of the need 
+to replace the membranes every 8-10 years. 
+ 
+Moving Bed 
+Bioreactor 
+ 
+Treatment of wastewater is provided in a 
+tank containing individual plastic media 
+with growth of bacterial biofilm.  The 
+media are free to move about in the tank. 
+Subsequent treatment tanks have fixed 
+plastic media similar to the “fixed media 
+aeration” process.  All tanks are aerated 
+with air blown in through fine nozzles. 
+Waste solids are settled out as sludge and 
+de-watered for disposal.  Disinfection is 
+provided by ultraviolet light. 
+The process was suitable for Scott Base, but 
+was not offered as a complete system.  The 
+size of the tanks did not conform to standard 
+shipping container sizes, and the effluent 
+quality did not meet the specifications. 
+ 
+ 
+ 
+5. 
+Selected Option  
+ 
+After consideration of the options, the fixed media aeration system was chosen for the 
+following reasons: 
+ 
+• ability to meet the specified treatment standards; 
+• conservative process design; 
+• simplicity of operation; 
+• ability to be successfully operated by non specialist staff; 
+• robust configuration; 
+• engineering redundancy and reliability; 
+• low maintenance requirements; 
+• compact format and minimal "footprint"; and 
+• "plug and play" design requiring minimal work to install, connect and commission 
+in Antarctica. 
+ 
+An operational schematic of the chosen treatment plant is illustrated in Figure 1. 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1: The Fixed Media Aeration Treatment System. 
+ 
+ 
+The plant was designed and fabricated in New Zealand between November 2001 and 
+January 2002.  The plant was constructed within two ISO-20 shipping containers and 
+shipped to Scott Base in February 2002.  The containers were placed on 1 m high 
+foundations and a steel frame erected for the top compartment.  Insulated panels were 
+then attached around the plant (see Figure 2).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2: The Sewage Treatment Plant Building. Left: Schematic. Right: On location at 
+Scott Base. 
+ 
+ 
+An important feature of the plant is that it will make use of waste heat from the 
+existing ablutions facility thus reducing its overall energy demand.  The plant is 
+scheduled to be commissioned in early October 2002.  The estimated final 
+commissioned cost is NZ$500,000. 
+ 
+6 
+6. 
+Further Information 
+ 
+For further information including technical details regarding the new wastewater 
+treatment plant at Scott Base contact: 
+ 
+Emma Waterhouse  
+Environmental Manager 
+Antarctica New Zealand  
+Private Bag 4745  
+Christchurch 
+e.waterhouse@antarcticanz.govt.nz 
+Peter Brookman  
+Facilitates Engineer 
+Antarctica New Zealand  
+Private Bag 4745  
+Christchurch 
+p.brookman@antarcticanz.govt.nz 
+ 
+ 
+Bibliography 
+ 
+Anderson B, Chague-Goff C. 1996. Benthic foraminifera and trace metals in 
+sediments off the Scott Base sewer outfall, Antarctica: Antarctic Research 
+Centre Report No. 18. Research School of Earth Sciences, Victoria University. 
+ 
+Battershill, C. 1992. The ecology of the Pram Point reef slope, Ross Island, 
+Antarctica.  Antarctic Record 12: 17-18. 
+ 
+Conlan EC, Rau GH, McFeters GA, Kvitek RG. 2000. Influence of McMurdo Station 
+sewage on Antarctic marine benthos: evidence from stable isotopes, bacteria, 
+and biotic indices.  In Davison W, Howard-Williams C, Broady P (eds) 
+Antarctic Ecosystems: Models for wider ecological understanding. New 
+Zealand Natural Sciences, Christchurch: 315-318. 
+ 
+Kennicut, M.C.,S. J. McDonald, J.L. Sericano, P. Boothe, J. Oliver, S. Safe, B.J. 
+Presley, H. Liu, D. Wolfe, T. L. Wade, A. Crockett, and D. Bockus.  1995.  
+Human contamination of the marine environment – Arthur Harbour and 
+McMurdo Sound, Antarctica.  Environmental Science and Technology 29. 
+ 
+Lenihan HS, 1992. Benthic marine pollution around McMurdo Station, Antarctica: a 
+summary of findings. Marine Pollution Bulletin. 25:318-323. 
+ 
+Lenihan HS, Keist KA, Conlan KE, Slattery PN, Konar BH, Oliver JS. 1995. Patterns 
+of survival and behaviour in Antarctic benthic invertebrates exposed to 
+contaminated sediments: field and laboratory bioassay experiments. Journal of 
+Experimental Marine Biology and Ecology. 192: 233-255. 
+ 
+McFeters GA, Edwards DD, Smith JJ, Jones WL, Barry JP, Howington JP, 
+Venakatesan MI, Conlan K. 1998. Distribution, fate and impact of a sewage 
+outfall in an Antarctic marine environment. NZ Natural Sciences. 23. 
+ 
+Redvers G. 2000. Dispersion and Fate of Sewage and Wastewater Components from 
+Scott Base, Antarctica. MSc Thesis. University of Auckland. 
+ 
+Royds Consulting. 1996. New Zealand Antarctic Programme. Scott Base Wastewater 
+Monitoring Survey. Royds Consulting, Wellington. 
+ 
+7 
+Annex I:  
+IEE for Scott Base Wastewater Treatment – Contents and Executive Summary 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+TABLE OF CONTENTS.......................................................................................................................... 
+LIST OF TABLES.................................................................................................................................... 
+LIST OF FIGURES.................................................................................................................................. 
+LIST OF ACRONYMS ............................................................................................................................ 
+CONTACT DETAILS.............................................................................................................................. 
+NONTECHNICAL SUMMARY ............................................................................................................. 
+1. 
+INTRODUCTION.......................................................................................................................... 
+1.1 
+BACKGROUND............................................................................................................................... 
+1.2 
+SCOTT BASE AND EXISTING WASTEWATER DISPOSAL.................................................................. 
+2. 
+PROPOSED ACTIVITY............................................................................................................... 
+2.1 
+THE PURPOSE OF AND THE NEED FOR THE ACTIVITY.................................................................... 
+2.2 
+DESCRIPTION OF THE ACTIVITY ................................................................................................... 
+2.3 
+CONSTRUCTION REQUIREMENTS.................................................................................................. 
+2.4 
+OPERATIONAL REQUIREMENTS .................................................................................................... 
+3. 
+ALTERNATIVES .......................................................................................................................... 
+3.1 
+DO NOTHING................................................................................................................................. 
+3.2 
+ALTERNATIVE SYSTEMS............................................................................................................... 
+3.3 
+ALTERNATIVE SITES..................................................................................................................... 
+3.4 
+ALTERNATIVE PIPELINES AND OUTFALL...................................................................................... 
+4. 
+POTENTIAL ENVIRONMENTAL IMPACTS OF PROPOSED ACTIVITY ....................... 
+4.1 
+TERRESTRIAL ENVIRONMENT....................................................................................................... 
+4.2 
+MARINE ENVIRONMENT ............................................................................................................... 
+4.3 
+AIR ENVIRONMENT....................................................................................................................... 
+4.4 
+VISUAL AND AESTHETIC VALUES ................................................................................................ 
+4.5 
+INDIRECT IMPACTS ....................................................................................................................... 
+4.6 
+CUMULATIVE IMPACTS................................................................................................................. 
+4.7 
+EVALUATION OF POTENTIAL IMPACTS ......................................................................................... 
+5. 
+MONITORING .............................................................................................................................. 
+6. 
+CONCLUSION............................................................................................................................... 
+7. 
+REFERENCES............................................................................................................................... 
+ 
+ 
+ 
+8 
+NON-TECHNICAL SUMMARY 
+ 
+The Initial Environmental Evaluation (IEE) relates to the proposal by Antarctica New 
+Zealand to start treating wastewater produced at Scott Base, Pram Point, Ross Island, 
+Antarctica.  The wastewater at Scott Base is currently macerated and discharged 
+through a short ocean outfall.  This process meets the minimum requirement under 
+Article 5.1 (b) of the Antarctica (Environmental Protection) Act 1994, to treat sewage 
+by maceration. 
+ 
+However, Antarctica New Zealand has decided that treatment of the wastewater 
+should be provided, to minimise environmental effects on the receiving environment.  
+Currently, sewage from Scott Base is not treated in any way to reduce the content of 
+solids, the organic strength (BOD), or the bacterial concentration. A number of 
+wastewater treatment system options that would improve the quality of the wastewater 
+from Scott Base have been considered.  Four wastewater treatment options have been 
+identified that would meet appropriate treatment standards.  These include: 
+ 
+§ Reaman (rotating biological contactor) 
+§ Blivet Aerator (rotating biological contactor) 
+§ Smith & Loveless “FAST” (aerated fixed media) 
+§ Innovative Water Systems (aerated fixed media) 
+ 
+Tenders have been invited for all four systems from the suppliers.   
+ 
+Specific actions associated with the proposal causing impacts include; visual intrusion 
+from the pipeline and insulated containers housing the system, ground disturbance 
+through earth moving activities and construction of foundations for the system.  The 
+environmental impacts (including the benefits) of the proposal are discussed in the 
+context of the highly disturbed nature of the Pram Point environment and the marine 
+environment surrounding the area. 
+ 
+The results of the evaluation of impacts of the proposal indicate that the activities are 
+likely to have no more than a minor or transitory impact on the environment and will 
+in fact significantly minimise the environmental effects on the receiving environment 
+as compared to current practices. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+Annex II: 
+Images of the Scott Base Wastewater Outfall and Treatment Plant Installation 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,180 @@
+﻿REPORT OF THE INTERSESSIONAL CONTACT GROUP REVIEWING THE PROCESS FOR EXCHANGE OF INFORMATION
+REPORT OF THE INTERSESSIONAL CONTACT GROUP REVIEWING THE PROCESS FOR EXCHANGE OF INFORMATION 
+Introduction
+
+The establishment of the Secretariat of the Antarctic Treaty provides ATCM with an opportunity to improve the operation of the information exchange process to make it easier for Treaty Parties to meet their information exchange obligations, while at the same time providing ATCM with greater access to this information for use in its deliberations/decision making capacity.  
+
+In this context ATCM XXVII adopted Resolution 5 (2004) which recommended that an intersessional contact group be established with the following terms of reference:
+
+    a) to examine how the process for the exchange of information may be improved to make this process more efficient, in particular to identify better ways to collate, analyse and circulate the information; and
+    b) to prepare a report on its findings, together with recommendations, for a decision on the matter by ATCM XXVIII.
+
+An ICG was subsequently convened by Argentina and Australia, with the assistance of the Antarctic Treaty Secretariat.  Six Consultative Parties and the Antarctic Treaty, COMNAP, IAATO and CCAMLR Secretariats participated in the work of the ICG.  
+
+The following report details the findings of the ICG in accordance with the first term of reference.
+
+Deficiencies in Current Approach
+
+In undertaking its work the ICG first identified why the process for exchange of information needed to be improved in order to identify solutions that would address these deficiencies.  The following deficiencies were identified: 
+    • There is a lack of consistency in the information provided by Parties.  Resolution 6 (2001) established a list of the information to be exchanged but some Parties do not submit the information in the agreed format.  
+    • Parties distribute their information in different mediums (e.g. some Parties submit it directly to the ATS website; others provide a link to information held on their own websites; and some continue to provide it as a report distributed by diplomatic post).   This makes it very difficult to collate the data e.g. for value added management purposes such as comparative analysis, SAER, environmental monitoring, or to make other Parties aware of activities that may have potential implications for them (see Resolution 3 (2004)). 
+    • Information is not submitted on time, particularly information which is submitted through diplomatic channels.  A more efficient and transparent system would make it easier for Parties to meet agreed dead-lines and monitor their compliance. 
+    • The information is not adequately archived.  There is no central location where past reports can be obtained.  Also, information that has been posted on web-sites can change over time, or the page where the information is held may be updated, leading to a loss of the original data.
+    • Data is not stored securely.  At recent ATCMs some Parties have voiced concerns regarding the relationship between the dissemination of information and domestic legislation, in particular data protection (para 167, XXVII ATCM Final Report). 
+    • There is still significant duplication of some of the information being exchanged e.g. expedition itineraries are currently collected by COMNAP, IAATO and also through the annual exchange of information process.  There are mechanisms available that would allow the information to be shared between these sites. There is also significant duplication in content between the Annual, Permanent and Pre-Season reports.   
+    • There is no quality control over the information submitted, and no process for following up information that has not been submitted.  
+
+In order to address these deficiencies and to make any revised process more efficient, particularly with regard to the collation, analysis and circulation of the information exchanged, the ICG analysed what design characteristics should be sought in the new process. 
+
+Three guiding principles were adopted to assist the ICG in determining whether the design characteristics were appropriate.  These were to:
+
+    a) simplify the information exchange process to make it easier for parties to comply with existing requirements in a reliable, timely manner.
+
+    b) design a secure data repository system to allow efficient use of the information in support of the management and governance of the Antarctic.
+
+    c) provide data export capabilities to minimise the duplication of data entry e.g. to avoid having to provide the same data to both the Antarctic Treaty and COMNAP Secretariats.  This would also enable Treaty Parties and Antarctic organisations to maximise the use of information they, and other Parties, have provided in support of their respective activities.
+
+Following consideration of various design criteria it was determined that an efficient information exchange process should possess the following characteristics: 
+
+    1. The system should provide a simple, web-based, interface for data entry/extraction in each of the four official languages of the Antarctic Treaty 
+    2. Information should be clearly structured in discrete fields and submitted in an appropriate electronic format
+    3. Parties should have the option to submit data in agreed data formats (eg XML)
+    4. The system should have integrity, transparency and security
+    5. Parties should be able to check data submitted and use it for other purposes
+    6. Data submitted to the system should be archived
+
+In addition the system should be designed with the following functional requirements:
+
+- Treaty Parties should retain responsibility for their internal processes for submission of information
+
+- The ATIE system should be compatible with information systems of other Antarctic organisations/bodies.
+
+A technical report outlining these design characteristics in more detail and providing examples of how they would work is provided in Attachment A.
+Recommendations
+In accordance with the second term of reference the ICG makes the following recommendations for consideration by ATCM XXVIII.
+In order to improve the efficiency and transparency of the information exchange process the ICG recommends that:
+    1. The Secretariat of the Antarctic Treaty develop and maintain an electronic information exchange process in accordance with the design characteristics identified above.
+    2. That Treaty Parties submit information in accordance with Resolution 6 (2001) to the electronic information exchange system once it is established.
+A draft Decision authorising the Secretariat’s development of the electronic information exchange system is attached for consideration by ATCM XXVIII.
+
+DECISION X (2005)
+
+ESTABLISHMENT OF AN ELECTRONIC INFORMATION EXCHANGE SYSTEM
+
+The Representatives,
+
+Recalling Article III(1)a and Article VII(5) of the Antarctic Treaty;
+
+Conscious of the obligations within the Protocol on Environmental Protection to the Antarctic Treaty and its Annexes to exchange information;
+
+Conscious also of Resolution 6 (2001) and other commitments that the Parties have made with respect to keeping each other informed by regular or occasional exchanges;
+
+Desiring to ensure that the exchange of information between the Parties is conducted in the most efficient and timely way, and that the ATCM has available to it the best available information on which to base it decisions;
+
+Decide:
+
+That the Secretariat of the Antarctic Treaty shall, in consultation with other relevant bodies, develop an electronic information exchange system with the following design characteristics:
+
+    1. The system should provide a simple, web-based, interface for data entry/extraction in each of the four official languages of the Antarctic Treaty 
+    2. Information should be clearly structured in discrete fields and submitted in an appropriate electronic format
+    3. Parties should have the option to submit data in agreed data formats (eg XML)
+    4. The system should have integrity, transparency and security
+    5. Parties should be able to check data submitted and use it for other purposes
+    6. Data submitted to the system should be archived; and
+
+With the following functional requirements:
+
+- Treaty Parties should retain responsibility for their internal processes for submission of information
+
+- The ATIE system should be compatible with information systems of other Antarctic organisations/bodies.
+Attachment A
+
+Technical Report Outlining Desirable Design Characteristics
+
+
+The ICG identified the following design characteristics which are considered essential to the improvement of the Antarctic Treaty information exchange (ATIE) process:
+
+DC 1. Information must be submitted in an appropriate electronic format
+Information must be provided electronically and in a format that allows clear identification of, and direct access to, specific fields of information.
+
+Example a:  
+It should be possible to create a list of all IEEs and CEEs undertaken in the previous year by automatic extraction of information submitted by Parties in accordance with item 2.4.2 of  Resolution 6 (2001).  This requires the information to be held electronically and in a form in which this specific information is clearly tagged as being information provided under item 2.4.2.  
+
+Example b:  
+ It should be possible to extract all information relating to a “Station X”, or to permits delivered for visits to a protected area you are managing, to ensure you are aware of activities that have potential implications for you.
+
+DC 2. Information should be clearly structured in discrete fields
+Information should be clearly structured into separate, non-repeated, discrete fields to allow a single set of data to be used for multiple Treaty requirements or purposes without the need for duplication of data entry or for multiple, over-lapping fields of information.  
+
+Example:
+A varying number of basic information items about national programs' wintering stations must be provided in the Pre-season Information section (item 1.1.1.A), in the Annual Report section (item 2.2.1.A) and in the Permanent Information section (item 3.2.A).  It should be possible to submit required information only once, even if it is then used in different sections.  This makes it easier to enter but also ensures that it is consistent, without different values stored in different places for the same information.  This requires (1) the clear separation in different data fields of the station information provided under those three sections so that for example name and maximum capacity can be isolated as well as (2) a mechanism to link different copies of the same information to its authoritative 'master' copy.  
+
+
+DC 3. The ATIE System should have integrity, transparency and security.
+Information should be held in the ATIE system with high levels of integrity (protection against unauthorised modification of data and against loss of data), transparency (audit trail of who did what, when) and security (protection against unauthorised access to data, taking into account national privacy legislation where applicable) .  
+
+Example:
+If “Party A” decides to give its national Antarctic program agency “NAP-A” responsibility for entering and maintaining information about its stations X and Y, only NAP-A should be able to edit information about X and Y on the ATIE system.  This information, including past versions, should be backed-up by the ATIE system, there should be a trace of who at NAP-A edited this information and when, and any confidential data (such as the audit trail including contact details of the editing person) should be readable by the Treaty Secretariat and other authorised users, but not by the general public.
+
+
+DC 4. Parties should be able to check data submitted and use it for other purposes
+Each Party should, at any time, be able to check the information it has submitted to the ATIE system and export it out of the system both in a structured data format (eg XML) and in a readable format (eg PDF).  Parties should also be able to generate reports from data submitted to the system.
+
+Example:
+A party could at any time log onto the ATIE system and create a PDF file showing all current information contained in the Permanent Information section for use as a ready-made report of the status of its Antarctic involvement.  If this function is well designed and useful to parties, it should indirectly take care of most of the needs for quality control – each party wanting these reports to be accurate.    
+
+
+DC 5. Parties to have option to submit data in agreed data formats (eg XML)
+Each Party should be given the option to submit its information to the ATIE system in a single file containing all required information in an appropriate, agreed, structured data format (eg XML).  
+
+Example:
+A party which already holds all data pertaining to Resolution 6 (2001) in its own systems in electronic form, instead of having to manually re-enter the information into the ATIE through web-based forms, could send out a copy of its information in an agreed interchange format (eg XML) for automated loading into the ATIE.  
+
+
+DC 6. The system should provide a simple, web-based, interface for data entry/extraction in each of the four official languages of the Antarctic Treaty
+The system should provide a simple, easy-to-use standards-compliant web-based interface for data entry as the basic means of entering data.  The interface for data entry and extraction should be available in each of the four official languages of the Antarctic Treaty
+
+Example:
+A research group asked by its government to enter and maintain its part of the national information should be able to do so using an internet connected personal computer and any standards-compliant web browser installed on that computer.    
+
+DC 7. Data submitted to the system should be archived
+All data submitted to the system should be archived in such a way that specific submissions can be easily viewed for comparison and/or historical reasons.  At a given time, or after a given process, each and every submission should be relocated so that it is no longer the present submission. Efficient reporting mechanisms should be developed, so that it can be easily viewed.
+
+Example a:
+Each year after a certain date, information on e.g. the number and rank of military personnel supported is relocated/relabelled as the previous year’s data, but it is still easily accessible.    
+
+Example b:
+Each time any data is updated, information on e.g. the number and rank of military personnel supported is relocated/relabelled as the previous year’s data, but it is still easily accessible.    
+
+
+
+Additional Functional Requirements
+
+In addition to the design characteristics identified above the system should be designed with the following functional requirements in mind:
+
+AFR1. Treaty Parties should retain responsibility for their internal processes for submission of information.
+
+Each Treaty Party should retain responsibility for determining how it wishes to organise its internal processes to submit national information.  
+
+Example a: 
+Party B could decide to delegate submission and maintenance of:
+(1) its operational information to its national Antarctic program agency;
+(2) its information on visits to protected areas (item 1.2), permit information (2.3) and environmental information (2.4) to the environment agency administering its commitments under the Madrid Protocol;
+(3) its scientific information (2.1) to its national Antarctic research committee;
+while keeping full access to this information's audit trail and subscribing to automated notification of all information updates.  
+
+Example b:
+Party C, at the same time, could choose to retain all responsibility for submission into the ATIE system of all information under Resolution 6 (2001), gathering itself all elements from relevant national agencies.  
+
+
+AFR2. ATIE system to be compatible with information systems of other Antarctic organisations/bodies.
+
+The ATIE system should, where possible, be inter-operable [compatible] with the information systems of various Antarctic organisations to allow import/export and synchronisation of data between these systems, when appropriate.  
+
+Example:
+All station information required by Resolution 6 (2001) under items 1.1.1.A, 2.2.1.A and 3.2.A is already held by COMNAP on its web site.  National Antarctic programme agency “NAP-D” has been given authority by its government to submit and maintain its nation's station information on the ATIE.  NAP-D should be able to have those elements of station information common to both the ATIE and the COMNAP systems synchronised between the two systems, and be able to decide which of the two will act as the authoritative 'master' copy, i.e. which of the two systems it will use to maintain its information, to its own benefit and without any prejudice to either system.  
+
+
+
+
+

@@ -1,0 +1,193 @@
+﻿Proposed Amendments to the Standard
+Post Visit Site Report Form by the
+International Association of Antarctic Tour Operators (IAATO)
+Proposed Amendments to the Standard
+Post Visit Site Report Form by the
+International Association of Antarctic Tour Operators (IAATO)
+
+
+IAATO proposes that amendments to the standard Post Visit Site Report Form (PVSR) noted in Section 3 of this information paper be adopted by the Antarctic Treaty Consultative Parties. It was agreed by parties that the Standard Post Visit Site Report would be the “expedition record” and needs to be completed for every expedition. This information is in compliance with Antarctic Treaty Recommendation XVIII-1 and Resolution XIX-3. 
+
+This paper includes the background discussion, prior adoptions of this form at ATCM XXI and ATCM XXIV, changes made by IAATO and then implemented during the 2004-2005 season and the actual form itself in Appendices A and B.
+
+Appendix A includes instructions on how to fill the report out and Appendix B is the actual document.  For purposes of this ATCM the document is in “Word” but the working version is an “EXCEL’ document and can be found on the IAATO website at www.iaato.org under Operational Documents.  Prior to each Antarctic season a new PVSR will be posted on the IAATO website and distributed to operators no later than October 1 of each year to take into account new sites and new activities if any are anticipated.  Updated PVSRs have been sent to various Antarctic Treaty Parties in the past prior to each season.
+
+Processing the PVSR’s
+All PVSR’s are sent by electronic mail from each company representative to IAATO during the Antarctic operating season (November – March).  Where domestic legislation requires these forms to be submitted, the forms are also sent to a tour operator’s national authority by the individual operator.  IAATO reviews each PVSR prior to it being loaded into the database.  Where clarification or changes are needed the form is returned to the operator for verification.  IAATO requests that operators send the form at the end of each voyage or as soon after the voyage finished. Some tour operator offices prefer to see the form prior to it being sent to IAATO. Some Expedition Leaders send the form directly to IAATO.  Once the data is verified it is then loaded into the database. Once all the reports are loaded the raw data is reviewed and the appropriate statistical reports are then compiled.  
+
+IAATO makes every attempt to include non-IAATO operators PVSRs in order for the information to be available in the tourism database.  At the end of each season, new sites and new activities are added to the PVSR and additional computer code is written to accommodate the changes. 
+
+1. Background
+1.1	Changes to the PVSR were discussed and agreed to at ATCM XXI (See 	Final Report, Appendix J), and then again at ATCM XXIV.  Amendments proposed by IAATO and then subsequently agreed to at ATCM XXIV (IP 72), are in Proposed Amendments to the Standard Post Visit Site Report Form.  See Final Report, Appendix J.
+
+	The following amendments previously agreed to in 2001 at ATCM XXIV 	include the following:
+
+	Part One
+    • Changed from a WORD to an EXCEL document.
+    • Inserted drop-down menu for each of the nationalities identified on voyages, with extra rows added for new nationalities.
+    • Inserted a total formula so that numbers of passengers, staff, and crew are automatically totaled at the bottom of Part C.
+	Part Two
+    • Inserted one additional column, which automatically totals the numbers of passengers, staff, and crew so that total footprints ashore are accounted for.
+    • Inserted drop-down menus so that the Expedition Leader filling out the form would be able to choose from the list of sites already in existence in the database.  Once the site is accepted there would be an automatic insertion of latitude and longitude.  There are extra rows for new sites.
+
+	By making slight amendments, the forms were then integrated into the 	IAATO database that is currently being used.  All other areas on the 	form would remain the same.
+
+        1.2 Amendments to the form were further advised to “Parties” in IAATO’s 
+Information Paper ATCM XXVII IP 68, Report of the International Association of Antarctica Tour Operators 2003-2004, Section 7.1. Antarctic tour operators made use of the standard Post Visit Site Report form that  was updated and adopted by ATCPs at ATCM XXI and then was revised at ATCM XXIV.  Prior to moving ahead on the IAATO database, Members wanted to see how this form worked and if the data would be easily transferred into a database.  This worked reasonably well for the 2003 – 2004 season; however, IAATO will probably need to propose modifications to the Post Visit Site Report at ATCM XXVIII to reflect the increased number of activities and in order to “code” activities properly.  IAATO encourages the use of the revised form adopted at ATCM XXIV and to discontinue the use of outdated reporting forms. The ATCM-approved form can be found on the IAATO website.  New landing sites will be added each year to the drop-down menus prior to November 2004.
+
+No comments or concerns were subsequently sent to IAATO, so amendments to the form proceeded.
+
+2.	Tourism Data Base
+A tourism database commissioned by IAATO has been integrated with the information collected on the ATCM-agreed PVSR forms.  Computer codes and programming have been written specifically for this report form.  Any significant structural or substantive changes to this form are not advised or it will result in significant costs to IAATO relative to computer programming and data inconsistency.
+
+3.      	Proposed Amendments to the Post Visit Site Report Form (PVSRs)
+The following minor changes were made to this form and implemented during the 2004-2005 season.
+
+        3.1 Part 1 Changes
+            3.1.1 Part A: Expedition is: (A drop-down menu was added to include the following: ship, yacht and aircraft. For 2005-06 land-based was added as an option.)
+            3.1.2 Part C: The number of rows was increased in the drop-down menu to include more nationalities. At the end of each season new nationalities are added to the drop down menu as needed.
+
+        3.2 Part 2 Changes
+            3.2.1 Site Visited:
+The drop-down menu is updated at the end of each season when new sites are visited. Over the last two years new sites were added to the form. Additional rows were also added to accommodate longer trips.  All landing sites during the last 16 seasons have been added to the drop down menu.  Every attempt has been made to correct discrepancies-- this process is continually evaluated and updated as needed.  Once the site has been clicked on, the latitude and longitude immediately appear in appropriate columns.  Landing sites not included in the drop-down menu can be filled in at the bottom under ‘Other.’ 
+
+            3.2.2 Activities Columns:
+Three columns were added to account for additional activities taking place at each site.  			Activities at Site
+Select up to Three Activities per Site Visit Entry
+Use Additional Lines if More Than Three Activities Occurred
+
+Instructions have been issued to assist Expedition Staff on how to fill out this column correctly.  For example, if a visit to Cuverville Island included a small-boat landing and a small-boat cruise and 85 tourists participated in both activities, then one row can be used.  If not, then multiple rows need to be filled out.  Only where multiple activities included the same number of people participating would one row be used.
+
+            3.2.3 Type of Activities
+In addition, a drop-down menu was added to include the following activities:
+Aircraft Flight, Aircraft Landing, BH-WB Walk (Baily Head to Whalers Bay 
+Walk), Camping, Climbing, Extended Walk, Helicopter Flight, Helicopter Landing, Sea-Ice Landing, Sea-Ice Walk, Kayaking, ROV (Remote Underwater Vehicle), Other.   Skiing and Snowboarding will be added to the 2005-06 PVSR.
+
+
+Attached Appendices
+A: Instructions for Filling out the Post Visit Site Report Form
+B: Part 1&2 of the Post Visit Site Report Form
+		Appendix A
+
+Instructions  for filling out the Antarctic Post-Visit Site Report Form
+
+
+
+
+
+
+
+
+
+This form is required in accordance with Antarctic Treaty Recommendation XVIII-1 and Resolution XIX-3 to be filled out by any person(s), companies or organizations visiting the Antarctic continent or any island or territory within the Antarctic Treaty region for the purposes of recreation or tourism.  
+
+The form consists of two parts; An Expedition record (part 1) and a Site Visit record (part 2) which must be completed by the Expedition leader or Captain and submitted to an appropriate national authority. 
+
+The Expedition record (Part 1) must be completed for every expedition to the Antarctic region regardless of whether any landings or visits to sites were made.  
+
+The Site Visit record (Part 2) should only be completed if visits or landings were made to sites in the Antarctic region. For cruise only vessels you can include waterways.
+
+Instructions for Filling Out This Form
+
+This completed form will be processed electronically by a computer, to reduce errors and manual interaction.  It is imperative this document be completed thoroughly and accurately.  Please use the following instructions as guidelines while completing the data required in the two worksheets. 
+
+Throughout this form, please use ONLY the following date format:  dd-Mon-yy (e.g.  12-Jan-02).
+
+When selecting items from a drop-down menu, you may type a value in the menu for auto-search and fill feature.
+
+PART 1 - Expedition Data
+
+The Expedition Record is completed for each expedition.
+
+1) Expeditions are categorized as either:  Ship based, Yacht based, Aircraft or land based.
+
+2) Voyage/Flight Number should have the following format:   3-char ship code + Embarkation Date as 2-digit day + 3 char month + 4-digit year: USH28JAN2005.
+
+3) Select Expedition Member Nationalities from the drop-down menu provided.
+
+4) If you have a Nationality that is not listed in the drop-down menu, please use a line titled "Other (please specify)" and write in the full name of the member nationality's country of origin.  Please do not use abbreviations. Use the official name of the country.
+
+5) If you have used all of the available nationality lines and still have data to enter, please create a new spreadsheet and enter only the Expedition data (Section A) and the additional nationalities. On Part 1 - Section A - Cell B6, add the following text:
+Continuation Sheet #  where # represents the number of forms used so for to describe the expedition. Please do not duplicate any other data.
+
+6) If the form is being submitted electronically, a typed name will be accepted for a signature.
+
+PART 2 - Site Visit
+
+Complete one line of the Site Visit record wherever Expedition members disembark or journey beyond base or camp.
+
+1) Select Site Names from the drop-down menus provided.
+
+2) If you have a Site that is not listed in the drop-down menu, please use a line titled "Other (please specify)" and write the full site name. If you enter Site data manually, you must include Latitude and Longitude co-ordinates; please use one of the recognized co-ordinate formats below:
+
+                                       Format                                        Example
+                               Latitude    Longitude                  Latitude    Longitude
+
+                              ##°##'S      ###°##'[W/E]                 62°10'S      058°48'W
+                              ##*##'S      ###*##'[W/E]                62*10'S      058*48'W
+                              ##d##'S     ###d##'[W/E]                 62d10'S      058d48'W
+                              ## ##'S       ### ##'[W/E]                 62 10'S       058 48'W
+
+3) Times should be entered using GMT and a standard 24-hour format.  (i.e. hh:mm - e.g. 14:35)
+
+4) You may select up to three activities for each Site Visit entry.  Use additional lines if more than three activities occurred or if the number of passengers differs per activity.  
+
+For example:
+Date
+Site
+Pax
+Staff
+Crew
+Obs
+Total 
+Activities
+
+
+01-Jan-05
+Paulet Island
+25
+3
+2
+
+30
+Small Boat Cruising
+Small Boat Landing
+
+01-Jan-05
+Paulet Island
+3
+2
+
+
+5
+Scuba Diving
+
+
+
+Every row must have the date filled in. For example if a landing occurs in the morning and again in the afternoon the date must be filled in for both landings.
+
+5) If you have used all of the available Site Visit lines and still have data to enter, please complete a new spreadsheet and enter only the Expedition Data (Part 1 - Section A) and the additional Site Visit data.   
+
+6) Camping activities that take place over two day periods need to have a separate row. For example, if the camping activity occurred at 2100 hrs on Dec 2 and ended at 0800 on December 3, then 2 rows are needed and the times ashore need to reflect both days.
+
+On Part 1 - Section A - Cell B6, add the following text:  Continuation Sheet # (number) where # (number) represents the number of forms used so for to describe the expedition.    Please do not duplicate any other data.
+
+7) If a station is visited by small boat than record in the activities section both small boat landing and station visit provided the same number of people took place in both activities.
+
+8) If a vessel carries more than 100 tourists but only 100 are allowed on shore at anyone time, do not list per hundred. Simply record 300 tourists versus three rows of 100.
+
+Other than data entry, do not modify this document in any way or it will not load properly in the database or the data loaded could be skewed!!!
+
+At the end of each trip please email this report as soon as possible to: iaato@iaato.org and your national authority.
+
+Thank you for your cooperation and if you have any questions please contact us and we would be pleased to assist.
+
+
+
+					Appendix B
+
+
+
+
+
+

@@ -1,0 +1,85 @@
+﻿
+
+
+
+
+
+Developing a New Methodology to Analyse Site Sensitivities
+
+
+
+
+
+
+
+
+Developing A New Methodology To Analyse Site Sensitivities
+Information Paper submitted by Australia, New Zealand, Norway, 
+the United Kingdom and the United States
+
+
+The attached paper (Attachment A) contains a preliminary report on work planned by Oceanites and partner institutions to develop a new methodology to analyse site sensitivities at visitor sites in Antarctica. The report does not necessarily reflect the views of the Governments of Australia, New Zealand, Norway, the United Kingdom and the United States, but is submitted as a reference for the Committee’s ongoing discussions of tourism management and, in particular, recommendations 3 and 6 from the 2012 CEP Tourism Study.
+
+Attachment A. Oceanites Preliminary Report: Human Activities & Site Sensitivities
+
+Background
+
+During the XXXVI Antarctic Treaty Consultative Meeting (2013), Treaty Parties agreed that one of the priorities of the next consultative meeting should include a review and assessment of the relationship between tourism and site management, and the assessment of environmental sensitivities at tourism venues.1 This review and assessment necessarily builds on previous efforts to examine such sensitivities. 
+The Antarctic Site Inventory project (ASI) is a long-term monitoring programme on the Antarctic Peninsula that includes data and information collected across all heavily visited tourism locations, sites believed to be most sensitive to potential environmental disruption, and all sites covered by ATCM site-specific visitor guidelines. The ASI has resulted in many analyses and publications from its 20-year database (see Table 1).
+Oceanites, Inc., which has managed and operated the Antarctic Site Inventory (ASI) monitoring project since 1994, has twice addressed this concern. 
+The 1st edition of the Oceanites Compendium,2 using the best available data and information at the time (1997), identified nine potential site sensitivities and evaluated which visitor sites were most sensitive to potential environmental disruptions.3  Eleven sites were identified as presenting at least two site sensitivities, and three of these were identified as presenting 3-6 site sensitivities. In 2003, using as a baseline ASI presence/absence data regarding 16 penguin and seabird species, elephant seal wallows, and floral communities, Oceanites evaluated and ranked sites according to species diversity and, secondly, in regard to the ease of visitor access at each site to penguin/seabird nests, elephant seal wallows, and large patches/beds of moss and lichens.4 The resulting comparative index identified four highly sensitive sites that received 2.37% of the total visitors in the 2012-2013 season. An additional twelve sites were identified as moderately sensitive, receiving 19.62% of the total landings in the 2012-2013 season.
+While there has been much discussion regarding the issue of site sensitivity and the need for the development of a broad-based criterion for analyzing site sensitivity, little progress has been made in developing and applying Oceanites’s approach. In its 2012 study on Antarctic tourism, the Committee for Environmental Protection (CEP) commented on the lack of a widely accepted methodology for assessing visitor site sensitivities. Recommendation 3 of that study states:
+ “An appropriate method of assessing site sensitivity should be developed and a relative sensitivity analysis undertaken for at least the most heavily visited sites in Antarctica, including, for example, consideration of the vulnerability of tourist sites to non-native species establishment, for the purpose of more rigorously assessing appropriate management needs.  Site sensitivity considerations should also be included in the Environmental Impact Assessment process for tourism activities.”5
+
+Recent research has identified additional aspects of environmental sensitivity that can be incorporated into this model to provide a more comprehensive analysis.6,7 These frameworks highlight the need to identify conservation priorities and goals. Once these are identified, the most important aspects of site sensitivity may be evaluated. The definition of site sensitivity is highly dependent upon the conservation goal, can range from a global to a local scale, and can include biological, social, and policy goals.
+
+Proposed Research
+In conjunction with Dr. Heather Lynch at Stony Brook University, Oceanites has begun work on developing a new methodology for analyzing such site sensitivities. To develop more comprehensive metrics of site sensitivity in the Antarctic Peninsula, three interrelated components are suggested: (1) a broad-based survey of expert opinion to identify and quantify the ‘dimensions of sensitivity’; (2) a browser-based ‘decision support tool’ that will track seabird abundance and distribution in real-time and produce estimates of current abundance and predictions of future abundance at any user-defined spatial scale; and (3) updated biological surveys of visited sites , with a particular focus on moss, lichen and other poorly surveyed species contributing to a site’s unique biological diversity. 
+It is expected that this new approach will easily permit the inclusion of intra-seasonal variation in site sensitivity (as sensitivity varies over the course of the austral summer), as well as changes in site sensitivity across years. 
+In conducting this work, site sensitivity methodologies used in comparable areas, especially the Arctic, will be considered and assessed as appropriate, in order to inform the development of the methodology for the Antarctic context. 
+Necessary to the development of these new components will be ongoing, Peninsula-wide, monitoring and data collection by the Antarctic Site Inventory, which, in turn, will be tasked with gathering additional data and information that may be required. The ASI already collects considerable site-specific data/information relevant to the new methodology (e.g. penguin/seabird nest/chick censuses and species presence/absence data) and, because of its Peninsula-wide focus, is uniquely poised to collect further data of utility to the new methodology.
+
+Component 1: Expert Opinion. 
+Local ecological knowledge has been identified as an important source of information for ecological management decisions, particularly in marine systems.8,9 Moreover, statistical methods to incorporate expert opinion into resource management or conservation assessments are becoming increasingly sophisticated, as evidenced by the growing academic literature on the subject and the number of management frameworks already using, or exploring the use of, expert opinion.10,11,12  
+In recognition of the vast knowledge possessed by the scientists and professionals working in the Antarctic region, and in the operational adjustments already being made to ensure that landing operations are tailored to avoid such sensitivities, it is suggested that this new approach will incorporate surveys of local experts to determine which Antarctic visitor sites are deemed most ‘sensitive’. In essence, the hope is to elicit information on what specific features (biological, topographical, etc.) practitioners feel require the most experience or careful attention, and which sites might present new challenges due to changing snow/ice cover or shifting occupation by plants or animals. In this context, ‘sensitive’ is operationally defined by the practitioner in whatever way captures their experience with the unique challenges of environmentally-sensitive travel at and around Antarctic visitor sites. Using these surveys as data, a multivariate statistical analysis will identify traits, or combinations of traits, that distinguish ‘highly-sensitive’ sites from less sensitive sites. Multiple factors may be associated with ‘highly-sensitive’ sites; these ‘dimensions of sensitivity’ can be used to quantify site sensitivity even for sites not included in the original survey and for sites that are not currently visited regularly that may become popular landing places in the future.
+
+Component 2: Tracking seabird abundance and distribution. 
+Nesting seabirds are only one component of site sensitivity, but because they represent an attraction for visiting tourists, it is important to develop methods to track their occupancy and abundance. Changes in the abundance and distribution of nesting seabirds may reflect changes in the environment, and may actually drive a shift in the spatial pattern of tourism as sites with declining populations get replaced over time by newly established colonies or sites with growing seabird populations.
+While data on the abundance and distribution of seabirds in the Antarctic Peninsula region have been provided by the ASI to Antarctic stakeholders for two decades, significant advances have been made over the last several years in the use of remote sensing satellite imagery to map penguins and, increasingly, other colonially-nesting seabirds. The use of remote sensing technology radically transforms Antarctic ecology and management from a data-limited situation to a data rich situation. At the same time, traditional streams of data from remote cameras and the ASI’s direct field surveys continue to provide important information on the occupancy and abundance of penguins and other seabirds. 
+What is suggested is developing a browser-based application that is freely accessible on the internet, which creates estimates of penguin abundance in any user-defined area, identifies those sites driving the uncertainty of aggregated abundance estimates, and predicts future abundance based on the dynamics of each breeding population in the area of interest. This application would automatically download all available satellite imagery for the region, use recently developed interpretation methods to extract abundance estimates, and integrate those estimates with field counts (including, but not limited to, those from the ASI) as well as verified records of presence and absence of species from tourists and other visitors to the region. This application would represent a key tool for spatial-management of Antarctic resources, including the designation of specially-protected areas and the continued monitoring of the human footprint as it relates to penguin breeding areas. Importantly, this decision-support tool will facilitate the real-time updating of site sensitivity metrics related to penguin occupancy, and may be further adapted to include other seabirds and vegetation as the technology for monitoring these other groups of species becomes more mature.
+
+Component 3: Mapping Evolutionary Uniqueness
+An analysis of the evolutionary uniqueness of species located at a given site will lend further support to the site sensitivity analysis. Previous attempts to quantify site sensitivity have measured only presence and absence of species, however it is also important to consider whether species are rare and/or taxonomically unique. To that end, a comprehensive survey of species occupying visited sites is proposed, with a focus on moss and lichen species which are known to be incompletely surveyed and are currently not being monitored regularly.13 Once a comprehensive biological survey has been completed, species can be placed in the context of their evolutionary relationships to identify those species that are most critical to protect. Sites possessing endemic species that are highly unique from an evolutionary perspective will be weighted as more sensitive than those possessing species that are closely related to other, more common, species. In this way, it is hoped to be able to protect cryptic species whose biological uniqueness may be unappreciated and not currently included in assessments of site sensitivity. 
+
+Summary
+As noted in the covering Working Paper (ATCM XXXVI / WP 17) a Final Report about the new site sensitivity methodology will be prepared and submitted by means of a Working Paper to ATCM XXXVIII/CEP XVIII. The Final Report will be informed by discussion among CEP members during CEP XVII and data collected during the forthcoming 2014-15 Antarctic Site Inventory field season. 
+Among other things, it is intended that the Final Report should:
+    • Describe the suite of characteristics that may be found to be associated with “high sensitivity” sites;
+    • Describe a methodology for assessing site sensitivity that may be applied to less frequently visited sites or new sites that may be visited by Antarctic tourists;
+    • Demonstrate the methodology’s application to (at least) the top 10 most heavily visited sites in Antarctica; and
+    • Recommend further analyses that might be required.
+In advance of ATCM XXXVIII/CEP XVIII, it is hoped that CEP will advise on the relative importance of the various site sensitivity factors so these weightings may be appropriately reflected in the Final Report.
+
+Table 1: References & Key Antarctic Site Inventory Publications.
+Casanovas, P., H.J. Lynch, and W.F. Fagan. 2013. Multi-scale patterns of lichen and moss richness along the Antarctic Peninsula. Ecography 36: 209-219.
+Chesalin, M., R. Naveen, H. Lynch, I. Bullock, M. Rider, A. Miller, S. Forrest, R. Dagit, I. Dykyy, and V. Timofeyev. 2009. Long-term changes in populations of seabirds on Petermann Island and surrounding islands in Graham Land, Antarctic Peninsula. Marine Ecological Journal (In English and Russian) VIII(3): 5-13.
+Emslie, S. 1997. Natural and human-induced impacts to seabird productivity and conservation in Antarctica: a review and perspectives. In Cumulative Impacts in Antarctica: Minimisation and Management, The World Conservation Union (IUCN), Washington.
+Hofman, R.J. and J. Jatko (eds). 2002. Assessment of the Possible Cumulative Environmental Impacts of Commercial Ship-Based Tourism in the Antarctic Peninsula Area: Proceedings of a Workshop Held in La Jolla California, 7-9 June 2000, National Science Foundation, Washington, DC.
+Lynch, Naveen and Casanovas, 2013, Antarctic Site Inventory breeding bird survey data 1994/95-2012/13, In preparation.
+Lynch, H.J., R. Naveen, P.N. Trathan and W.F. Fagan. 2012a. Spatially integrated assessment reveals widespread changes in penguin populations on the Antarctic Peninsula. Ecology 93(6): 1367-1377.
+Lynch, H.J., R. White, A.D. Black, and R. Naveen. 2012b. Detection, differentiation, and abundance estimation of penguin species by high-resolution satellite imagery. Polar Biology 35: 963-968. 
+Lynch, H.J., R. Naveen, and W.F. Fagan. 2008. Censuses of Penguin, Blue-Eyed Shag Phalacrocorax Atriceps and Southern Giant Petrel Macronectes Giganteus Populations in the Antarctic Peninsula, 2001-2007. Marine Ornithology 36: 83–97.
+Lynch, H.J., R. Naveen, and W.F. Fagan. 2009a. Population trends and reproductive success at a frequently visited penguin colony on the western Antarctic Peninsula. Polar Biology 33(4): 493-503.
+Lynch, H.J., K. Crosbie, W.F. Fagan and R. Naveen. 2009b. Spatial patterns of tour ship traffic in the Antarctic Peninsula region. Antarctic Science 22(2): 123-130.
+Lynch, H.J., W.F. Fagan, R. Naveen, S.G. Trivelpiece, and W.Z. Trivelpiece. 2009c. Timing of clutch initiation in Pygoscelis penguins on the Antarctic Peninsula: Towards an improved understanding of off-peak census correction factors. CCAMLR Science 16:149-165.
+Naveen, R. 1996. Human Activity and Disturbance: Building An Antarctic Site Inventory, In R. Ross, E. Hofman, and L. Quetin (eds.) Foundations for Ecosystem Research in the Western Antarctic Peninsula Region. American Geophysical Union. Washington. pp. 389-400.
+Naveen, R. 1997. Compendium of Antarctic Peninsula Visitor Sites: A Report to the Governments of the United States and the United Kingdom, US Department of State and UK Foreign and Commonwealth Office.
+Naveen, R., S.C. Forrest, R.G. Dagit, L.K. Blight, W.Z. Trivelpiece, and S.G. Trivelpiece. 2000. Censuses of penguin, blue-eyed shag, and southern giant petrel populations in the Antarctic Peninsula region, 1994-2000, Polar Record 36 (199): 323-334.
+Naveen, R., S.C. Forrest, R.G. Dagit, L.K. Blight, W.Z. Trivelpiece, and S.G. Trivelpiece. 2001. Zodiac landings by tourist ships in the Antarctic Peninsula region, 1989-99, Polar Record 37 (201): 121-132.
+Naveen, R. 2003. Compendium of Antarctic Peninsula Visitor Sites (2nd edition): A Report to the United States Environmental Protection Agency. US Environmental Protection Agency.
+Naveen, R. and H. Lynch. 2011. Antarctic Peninsula Compendium (3rd edition). US Environmental Protection Agency; Oceanites, Inc.
+Naveen, R., H. J. Lynch, S. Forrest, T. Mueller, and M. Polito. 2012b. First direct, site-wide penguin survey at Deception Island, Antarctica, suggests significant declines in breeding chinstrap penguins. Polar Biology 35 (12): 1879-1888.
+
+
+
+

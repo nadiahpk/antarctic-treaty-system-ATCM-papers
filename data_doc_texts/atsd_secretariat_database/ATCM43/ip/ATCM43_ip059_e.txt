@@ -1,0 +1,269 @@
+COMNAP Antarctic Aviation Project: Update
+COMNAP Antarctic Aviation Project: Update
+Background
+After discussions at ATCM XLII (2019) on “Safety and Operations:
+Aviation” the Meeting requested COMNAP report on innovative
+technologies in order to improve air operations safety, for guidance
+on what minimal but non-mandatory survival equipment should be
+carried (on personned aircraft) and welcomed information on the
+intended workshop on the practical and technical aspects of safe air
+operations in Antarctica (ATCM XLII Final Report, paragraphs 263–
+265, 267–268). To address these ATCM requests and in support of
+our common goal to promote operational safety in Antarctica,
+through the COMNAP Air Operations Expert Group, COMNAP
+began the “COMNAP Antarctic Aviation Project”. The global
+pandemic has seen the project timeline shifted and the workshop
+postponed to early 2022. Never-the-less, progress on many of the
+outputs has been possible. This paper serves as an update on the
+status of the COMNAP Antarctic Aviation Project and its component
+outputs.
+Summary of the project
+The project was developed with five outputs:
+Output 1: Review ATCM Resolution 1 (2013) and provide COMNAP
+advice to ATCM XLIII (2021).
+Output 2: Perform Air-related Technology Audit.
+Output 3: Develop minimum survival equipment recommendations
+(non-mandatory) for carriage on aircraft.
+Output 4: Convene Antarctic Aviation Workshop (AAW).
+Output 5: COMNAP paper(s) to ATCM XLIII (2021) & ATCM XLIV
+(2022).
+Status: Output 1
+Review of practical and technical aspects of ATCM Resolution 1
+(2013) by COMNAP Membership is completed and preliminary
+advice was presented to ATIP 2019/2020 IP033 and to ATCM XLIII
+(2021) as WP008.
+Status: Output 2
+A paper-based air-related technology audit was performed by way
+of the COMNAP Air Operations Expert Group. The initial list of
+technologies is provided as Annex 1 to this document and will be
+further enhanced and discussed at the COMNAP Antarctic Aviation
+Workshop (see Status: Output 4 below).
+Status: Output 3
+A draft of the minimum survival equipment recommendations (non-
+mandatory) for carriage on aircraft was prepared. The draft list in
+the form of preliminary advice to the ATCM XLIII (2021) can be
+found as Annex 2 to this document and will be further enhanced
+and discussed at the COMNAP Antarctic Aviation Workshop (see
+Status: Output 4 below).
+Status: Output 4
+Planning was well-advanced for the COMNAP Antarctic Aviation
+workshop to be hosted by the Australian Antarctic Division, in
+Hobart, Tasmania, Australia, on 30 & 31 July 2020. The global
+pandemic forced the postponement of the workshop and the hosts
+of COMNAP Annual General Meeting (AGM) 2021, Japan’s National
+Institute of Polar Research, kindly agreed to take on organisational
+responsibilities for the workshop on the margins of the AGM in
+Toyama, Japan, 15 & 16 July 2021. Due to the global pandemic the
+AGM has been moved to a virtual format. The Workshop Steering
+Committee have determined that the workshop would be most
+effective and successful if it was postponed in order to meet in-
+person. There is a strong indication that the workshop will take
+place in late April/early May which would be the normal time for a
+COMNAP Search and Rescue (SAR) triennial workshop (SAR
+Workshop V 2022). It is likely the two
+meetings could be combined with the Antarctic Aviation Workshop
+being the focus of discussions since it is anticipated that the SAR
+community would also participate. The Workshop Steering
+Committee intends to make a formal announcement of dates, host
+and venue in the very near future. For the time-being, the proposed
+workshop agenda and schedule is presented as Annex 3 to this
+document. COMNAP welcomes full participation by the aviation/air
+operations community in the development of the agenda or
+schedule, and for suggestions of experts to present, facilitate or
+chair sessions of the workshop.
+Status: Output 5
+If the workshop is held in late April/early May 2022, COMNAP
+anticipates submitting the project and workshop reports, and any
+additional papers that may be required based on the outcomes of
+the project, to ATCM XLIV (2022). Upon completion of this output,
+the project will end. The Air Operations Expert Group is a standing
+Expert Group and will remain convened to continue to focus on
+promoting operational safety in Antarctica.
+Annex 1: Air-related Technology Audit
+Items that were considered:
+Situational Awareness
+Tracking systems (COMNAP Asset Tracking System (CATS) and
+others)
+Participation
+Opportunities
+Potential obsolescence
+Enhancement
+Automatic Dependent Surveillance-Broadcast (ADS‐B) out
+Fixed wing, rotary wing and RPAS
+Flight Aware
+Ground receiver distribution
+National Antarctic Programs
+Non-Governmental Operators, including non‐IAATO members
+De-confliction
+Traffic Information Broadcast by Aircraft (TIBA) relevance
+Transponder Landing System (TLS)
+ADS‐B in
+Traffic Collision Avoidance System (TCAS)
+Other technologies?
+Search and Rescue
+Autonomous Distress Tracking (ADT)
+ADS‐B/Flight Aware
+SARSAT
+Other technologies?
+Detailed descriptions with Pros/Cons for the Antarctic situation
+TRAFFIC COLLISION AVOIDANCE SYSTEM (TCAS)
+Automated visual and voice warning of potential mid-air collision
+between TCAS equipped aircraft and transponder equipped aircraft.
+International standards vary, but most countries require TCAS for
+aircraft with 30 or more passengers.
+Depiction of TCAS threat ring:
+Depiction of transponder equipped aircraft identified on typical
+flight management system (FMS) on TCAS equipped aircraft.
+Depiction of alert warning on typical vertical velocity indicator
+(VVI) on TCAS equipped aircraft. Threat aircraft is 300’ below TCAS
+aircraft. TCAS aircraft is descending at 400’/minute toward the
+threat aircraft.
+PROS
+Existing, off-the-shelf technology
+Mandated in most countries
+Can see transponder equipped RPAS
+CONS
+Only sees transponder equipped aircraft with system turned on
+AUTONOMOUS DISTRESS TRACKING (ADT)
+On 1 January 2021 ICAO requirement for all large (> 27,000 kg)
+new production aircraft to have ADT installed. Possible
+recommendation for all operators to consider install of ADT on
+aircraft operating in Antarctica. Rescue Coordination Centre’s
+(RCCs) prepare for ADT implementation.
+Distress signal automatically activates when aircraft deviates from
+specific parameters. No pilot interface required.
+RCC response accelerated, data automatically captured in secure
+repository for SAR.
+PROS
+Immediate and automatic alert prior to crash
+CONS
+Not widely manufactured and mature technology
+ADS-B out may make this redundant
+AUTOMATIC DEPENDENT SURVEILLANCE - BROADCAST
+(ADS-B)
+Various ATCM papers advocate for safety improvements largely
+built on ADS-B. Some equipment, like ADS-B out, will be mandatory
+ICAO requirement for international flight.
+Features are depicted below.
+ADS-B out – equipped aircraft broadcast GPS and transponder data
+via multiple paths to air traffic control. The signal eliminates/
+supplements ground based radar for broader surveillance. Trans-
+oceanic monitoring can be near real-time with satellite (Iridium)
+interface.
+ADS-B in traffic signal received
+ADS-B in traffic signal received
+ADS-B in - Properly equipped aircraft can receive the signals of
+ADS-B and transponder equipped aircraft for collision avoidance.
+Big airplane “sees” little airplane from little airplane signal and/or
+ground based broadcast of little aircraft position (black arrow).
+Typical ADS-B in depiction of near real-time pilot awareness of near
+traffic.
+COMNAP SAR MEETING DISCUSSION – FLIGHT AWARE
+INTERFACE
+Flight Aware is a commercial entity that supplies ground-based
+ADS-B receivers to airfields for around $100 and ask the owners to
+tie-in the signals to the internet. Owners need an unobstructed
+antenna mounting position, power, and internet access. The
+incoming data is automatically sent to the Flight Aware server and
+presented to all global users for the global picture of aircraft in
+flight.
+There is a huge void of information in Antarctica. Any willing
+participants, NAP or NGO, would improve the real time picture of
+aviation activities around the continent.
+Flight Aware provided receiver
+Flight Aware provided receiver
+Any station in Antarctica with internet could “feed” the Flight
+Aware global traffic picture
+This is a typical Flight Aware image with traffic and weather. Live
+images are easily accessed by internet. This image example shows
+weather and traffic in the USA Gulf States region.
+Annex 2: Minimum survival equipment recommendations (non-
+mandatory) for carriage on aircraft
+Personal Equipment
+• Thermal underwear
+• Mid layer
+• Outer layer - parka and bibs
+• Socks
+• Hat
+• Balaclava
+• Sunglasses / goggles
+• Gloves / Mittens
+• Spare socks - Spare mittens/ gloves - Spare hat
+• Winter boots with thermal liner
+Food / Drinks
+• Dehydrated rations
+• Tea bags / Instant coffee / Chocolate
+• Chocolate bars/ nuts / Energy bars
+• Energy drink powder
+Cooking Equipment
+• Matches / lighter
+• Stove / Burner - Repair kit for stove
+• Fuel bottle(s) / Hose to drain fuel from fuel tank
+• Cutlery
+• Cooking pot with lid
+• Thermos / Water bottle
+• Funnel
+Sleeping Equipment
+• Sleeping bag / Bivy bag / Recue blanket
+• Sleeping pad
+• Tent / Tarp
+• Spade
+• Snow saw
+Group Equipment
+• First Aid kit
+• Toilet paper
+• Multi tool / knife
+• Plastic bags / Ziploc bags
+• Ice screws
+• Snow anchor
+• Rope / String / Para cord
+• Compass / with mirror
+• Mirror – Whistle
+Communications Equipment
+• Satellite telephone / Iridium / Inmarsat
+• PLB / EPIRB – Emergency locator
+• Inreach / Satellite tracking device
+• HF / VHF radio
+Annex 3: Proposed Antarctic Aviation Workshop Agenda and
+Schedule
+Agenda
+The Workshop Agenda Items are as follows:
+Opening, introductions, workshop background
+Session 1: Regulatory Review
+Session 2: Technology Innovations
+Session 3: Safety
+Session 4: Communications Initiatives
+Reporting of key outcomes
+Close
+Overview of Programme Schedule
+The Workshop will be held in four main sessions. Each session
+includes presentations, time for questions to presenters and a panel-
+led discussion with all participants. The broad Overview is as
+follows:
+Day 1
+Day 2
+ 
+0830
+Participants arrive/Registration
+Participants arrive/Summary of key points day 1/Additional
+comments
+0930
+Welcome/background
+Session 3: Safety
+1000
+Session 1: Regulatory Review
+1100
+1200
+1300
+Lunch
+Lunch
+1400
+1500
+Session 2: Technology Review
+Session 4: Communications Initiatives
+1600
+1700
+1800
+Discuss draft reporting/Next steps
+1900
+ 

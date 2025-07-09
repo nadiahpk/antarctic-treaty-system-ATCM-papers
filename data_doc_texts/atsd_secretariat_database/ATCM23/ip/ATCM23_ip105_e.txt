@@ -1,0 +1,217 @@
+Antarctic Treaty                                                
+XXIII Consultative Meeting                                   
+Traité sur l'Antarctique                                        
+XXIII  Réunion consultative                                   
+Tratado Antártico                                              
+XXIII Reunión Consultiva                                       
+Договор об Антарктике                                          
+XXIII Консультативное Совещание                               
+
+                                           XXIII ATCM/ IP105
+                                           May, 1999
+                                           Original: English
+
+                                           Agenda Item 16
+
+Operational meteorology and sea
+ice information services
+
+Submitted by
+WMO
+To undertake scientific work
+of practical and /or economic significance
+
+The surface weather observing and upper air-sounding networks organized by the World Meteorological Organization (WMO) are an example of work of practical and economic importance. The analyses of operational Numerical Weather Prediction (NWP) models are increasingly being used to define fields of climate information, processed from the real time input of weather observations in recent decades. We can no longer distinguish between NWP and climate models. Also the raw climate data that is formed by automatically archiving routine weather data from specific observation sites is of long term strategic importance as reference climate data. It can be used to validate the output of processed climate fields from models. The consequential historical data bank is fundamental to our understanding of the global climate system and detection of climate change. Substantial meteorological work is required to support human activities in the Southern Ocean and Antarctica. Managers of national Antarctic programs require weather services to make their shipping and aviation operations effective. Six Antarctic Treaty Parties have seen the need to establish Antarctic Meteorological Centres at Casey, McMurdo, Marambio, Mirny, Frei and Rothera.
+
+WMO's WORLD WEATHER WATCH ACTIVITIES
+THAT ARE RELATED TO ANTARCTICA
+
+Some improvement has been achieved in the implementation of observing and telecommunication networks in the Antarctic, but some significant deficiencies still exist. The number of upper-air stations is decreasing and there are still delays between the time of observation and insertion of the data into WMO's Global Telecommunications System (GTS).
+
+It is important for WMO to define the Antarctic Basic Synoptic Network (ABSN) and then encourage Member nations to implement it for the purposes of coordinated real time weather analysis and prediction on a global scale. Routine operational weather data from specific observation sites are then compiled by National Meteorological Services and research institutes into basic climate databases. These activities have led to the specification of the Global Climate Observing System (GCOS) for collection of long term reference climate data. The ABSN and the Antarctic component of GCOS are vital if Antarctica is to be adequately represented in global weather and climate analyses and prediction systems.
+
+The Antarctic Basic Synoptic Network
+
+Despite the hostile weather conditions and the problem of logistics, the Antarctic Basic Synoptic Network is well implemented and the percentage of reports received at the main centres of WMO's telecommunication network is close to the global average.
+
+There were 42 staffed stations of SCAR nations operating in the Antarctic (south
+2
+of latitude 60"S) in 1998. Some 37 staffed stations were providing routine coded surface 
+synoptic weather reports - see Figure 1. There were over 50 separately located Automatic 
+Weather Stations (of which 37 were operated by the USA. 12 by Australia and 3 by 
+Germany). There were 14 staffed stations (including 4 Russian, 3 Australian and 2 USA) 
+that were providing upper-air soundings of meteorological variables at 12 or 24 hours 
+intervals - see Figure 2, with vertical profiles up to altitudes of 25-35 km, in the lower 
+stratosphere.
+
+Surface synoptic meteorological data are required on the GTS organized by 
+WMO, at 3 or 6 hourly intervals with a minimum of delay (no more than 3 hours). Upper 
+air soundings of pressure, temperature, moisture and wind velocity at 00 GMT and 12 
+GMT are needed on the GTS within three hours of launching the balloon. Accordingly 
+the upper air profile data are then assimilated into operational global models before the 
+initial cut off times.
+
+In view of the importance of long-term series of data for climate monitoring, the 
+WMO Executive Council Working Group on Antarctic Meteorology issued the Catalogue 
+of Antarctic Climate Data. This catalogue has been used to establish the Antarctic Data 
+Directory System (ADDS) developed by SCAR Planning Group on Data Management. 
+The reliability of real time Numerical Weather Prediction analyses has become important 
+from a climate point of view because ECMWF and NCEP/NCAR have embarked on re-
+analysis projects, that are designed to produce definitive climatogical fields for the last 
+40 years.
+
+Drifting buoys
+
+The impact of meteorological data from buoys, drifting in the seasonal sea ice 
+zone of the Southern Ocean, on the accuracy of automated analysis systems in global 
+models has been larger in high southern latitudes than at any other single data point in the 
+world.
+
+Automatic weather stations
+
+There are few real time SYNOP messages emanating from the staffed stations in 
+the continental interior of Antarctica (South Pole and Vostok) that are being ingested into 
+global numerical weather prediction models. As a result the continental interior of 
+Antarctica (an area twice the size of Australia) has a very sparse real time data reporting 
+network. Automatic Weather Stations are being used to extend the surface-observing 
+network into the continental interior of Antarctica.
+
+Automatic geophysical observatories
+
+The networks of Automatic Geophysical Observatories (AGOs) operated by the 
+USA and UK provide very useful climate data from the interior of the continent. 
+However the data are not yet available within three hours at major analysis centres 
+around the world via WMO's Global Telecommunications System. 
+                                                                                                                         3
+Representation of the atmosphere over the Southern Ocean
+
+The Sub-Antarctic Macquarie Island (near latitude 55°S, longitude 150°E) is a 
+unique site for monitoring weather and climate, atmospheric chemistry, as well as ozone 
+and UV radiation measurements. There is no other site from which upper air soundings 
+and surface observations are continuously made in the latitude band from near 45°S to the 
+Antarctic coast and stretching from the central Indian Ocean to South America and the 
+Antarctic Peninsular. The French Island of Kerguelen located near 50°S & 70°E has a full 
+meteorological observations program. At the other extremity of this data sparse sector are 
+the Chilean station at Punta Arenas and the Argentinean station of Marambio on the 
+northern tip of the Antarctic Peninsular. Both have surface and upper air meteorological 
+observations programs. This sector spans some 220 degrees of longitude with Macquarie 
+Island located in the middle. Satellite remote sensing, occasional shipping voyages and 
+aircraft flights are the only other means of obtaining weather and climate information in 
+this scientifically important part of the world. Data from a long term, high quality, 
+ground-based observatory are of more use in environmental monitoring than sampling, 
+because continuity in time and fixed location allows more comprehensive and accurate 
+analyses.
+
+Atmospheric re-analyses projects
+
+The ECMWF Re-Analysis (ERA) project produced a validated 15-year data set 
+that was assimilated for the period 1979-1993. The data sources were the real time WMO 
+World Weather Watch data from ECMWF's archive which has a 3-day cut-off, 
+augmented by additional data not available in real time.
+
+In the USA, the National Centre for Environmental Prediction (NCEP) and the 
+National Centre for Atmospheric Research (NCAR) commenced in 1991 a Reanalysis 
+Project of data for the 40 years 1957-96 and completed it in 1997. The effort involved 
+recovering land surface, ship, rawinsonde, pibal, aircraft, satellite, and other data. NCEP 
+plans call for an updated reanalysis using a state-of-the-art data assimilation system every 
+five years or so.
+
+Operational weather forecasting in Antarctica
+
+During the 1990's modern communications such as geostationary satellites have 
+made possible a new standard of meteorological services in Antarctica. There has been a 
+gradual improvement in the representation of Antarctica in global numerical weather 
+prediction models over the last decade. Remote sensing of atmospheric variables and sea 
+ice from polar orbiting satellites has become more sophisticated. As a result it is now 
+possible to specify a new meteorological standard with respect to the provision of 
+operational meteorological services. Increasingly, we can no longer distinguish between 
+Numerical Weather Prediction (NWP) and climate prediction models. The analyses of 
+NWP systems are being used to define fields of climate parameters for recent decades
+
+    4
+With meteorology we must not focus exclusively on the high tech aspects of research, such as numerical modelling, at the expense of the more routine, but still very important, monitoring programmes. We must bridge the fields of operational meteorology in the Antarctic (dealt with by WMO) and the research community, with which SCAR is largely concerned. This subject has been increasing in importance within SCAR via the First Regional Observing Study of the Tropophere (FROST) project and the Antarctic Weather Forecasting Handbook (which has come out of the forecasting workshop held in Hobart last year). John Turner, Chairman of the SCAR Physics and Chemistry of the Atmosphere (PACA) Working Group believes that this area of development is of great importance and one that is well fitted for support. We need an inter-disciplinary approach to much of the atmospheric science work. For example, climate studies invariably involve interactions between the atmosphere-ocean-sea ice.
+
+WMO's Executive Council Working Group on Antarctic Meteorology,
+7th Session, Hobart, Australia, 7-11 September 1998.
+
+The Working Group on Antarctic Meteorology comprises representatives of 23 WMO Members who are Antarctic Treaty Parties. There were 11 participants representing 10 Member countries at the 7th Session of the Working Group held in Hobart. In addition Jack Sayers, Executive Secretary of COMNAP, John Church, representing the Intergovernmental Oceanographic Commission and John Turner, Chairman of the SCAR PACA Working Group also contributed in a meaningful way to the proceedings.
+
+The Hobart meeting provided an opportunity to review how the activities of the Working Group would cope with existing needs and future developments. The Working Group should consider further development of observing and telecommunication systems in the Antarctic to meet growing requirements for the World Weather Watch, the Global Climate Observing System and other WMO Programmes. The Working Group should play a leading role in the co-ordination of these activities and continue close collaboration with other international bodies related to the Antarctic.
+
+First International Symposium on Operational Weather Forecasting in Antarctica
+
+WMO, SCAR, Australian Bureau of Meteorology, BAS, American Meteorological Society (AMS) and the Australian Meteorological and Oceanographic Society (AMOS) sponsored the First International Symposium on Operational Weather Forecasting in Antarctica, held in Hobart from 31 August - 3 September 1998. There were 40 participants at the Symposium from Australia, Brazil, China, France, Italy, Russia and the UK.
+
+International Handbook on Weather Forecasting in Antarctica
+
+Congress XIII of WMO in May 1999 considered the proposed International Handbook on Antarctic Weather Forecasting, emanating from the recent International Symposium on Operational Weather Forecasting in Antarctica. WMO and SCAR are
+                                                                                                                         5
+sponsors of this project. A draft copy of the handbook will be submitted to WMO 
+Executive Council in May 2000. WMO's Secretariat has agreed to publish the handbook 
+and give it wide distribution.
+
+Sea ice information services
+
+It is imperative that Antarctic vessels have weather and sea ice information 
+providing suitable cloud and sea ice discrimination. Recent improvements in obtaining 
+real-time satellite imagery have made a marked difference in the productivity and 
+effectiveness of polar-class research and re-supply vessels. For many years the goal had 
+been simply to construct vessels with sufficient power and unique hull design to go 
+through sea ice. However it is always safer to go around, rather than through sea ice. 
+Avoidance limits damage to propellers, shafts and rudders, saves fuel and time, and 
+reduces stress on crew members by limiting the fatigue associated with the constant 
+movement and noise associated with ice breaking.
+
+The twelfth session of the WMO Commission for Marine Meteorology (CMM) 
+Havana, March, 1997, expressed a requirement for the review and updating of the WMO 
+publication "Sea-ice Information Services in the World" (WMO-No 574). It requested its 
+SubGroup on Sea-Ice (SGSI) to update and issue a new version of this publication during 
+the inter-sessional period.
+
+At the informal session of the SGSI (Copenhagen, September 1997) it was 
+decided that it would be best to update the publication on the basis of material from the 
+marine meteorological services involved in sea-ice activities. Dr J.E. Lundqvist was 
+asked to complete the new version of the publication, which will be issued by the WMO 
+Secretariat.
+
+Contributions to the new version of the "Sea-ice Information Services in the 
+World" were to be sent (diskette or e-mail) to Dr J.E. Lundqvist by the end of December 
+1998 to the following address:
+
+Swedish Meteorological and Hydrological Institute (SMHI)
+Marine Services
+S-601 76 Norrkoping
+Sweden
+Telephone: +46-11 495 84 00
+Telefax: +46-11495 84 03 00
+E-mail: jan-eric.lundqvist@smhi.se
+
+                                                                                
+6
+Figure 1
+
+SPECIFIC MONITORING OF THE EXCHANGE OF ANTARCTIC DATA
+(1-15 February 1998)
+SYNOP reports
+
+
+Percentage of reports received from stations comprising the Antarctic Basic Synoptic Network for main synoptic hours
+  • 50% to 100% (68)
+  o 1% to  49% (6)
+  Silent stations (15)
+
+WMO Secretariat
+Figure 2
+
+SPECIFIC MONITORING OF THE EXCHANGE OF ANTARCTIC DATA
+(1-15 February 1998)
+TEMP reports Part A
+
+The 14 stations comprising the Antarctic Basic Synoptic Network are presented into three following groups
+in accordance with the precentage of reports recieved for 00 and/or 12 UTC
+
+■ 75% to 100% twice per day  (8)
+● 75% to 100% once per day  (4)
+⊕ 1% to 50% once per day  (2)
+
+WMO Secretariat

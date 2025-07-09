@@ -1,0 +1,62 @@
+﻿
+
+
+
+
+
+Monitoring vegetation cover in Antarctic Specially Protected Areas using satellite remote sensing: a pilot study
+
+
+
+
+
+
+
+
+Monitoring vegetation cover in Antarctic Specially Protected Areas using satellite remote sensing: a pilot study
+
+Working Paper presented by the United Kingdom
+Summary
+The United Kingdom has used remote sensing techniques to provide baseline data on the extent of vegetation cover in 43 Antarctic Specially Protected Areas (ASPAs) protecting terrestrial vegetation. Additional layers of the Antarctic Digital Database are under development to help CEP Members visualise the vegetation cover within these ASPAs (http://www.add.scar.org/aspa_vegetation_pilot.jsp).  Preliminary results showed that vegetated ground within ASPAs totalled 16.4 km2, with almost half of this vegetated area within ASPA No. 126 Byers Peninsula, Livingston Island.  The United Kingdom recommends that CEP Members consider the potential usefulness of this remote sensing approach for: (i) on-going monitoring within ASPAs, (ii) determining the potential effects of climate change on Antarctic vegetation within ASPAs and more widely, and (iii) informing the further development of the Antarctic Protected Areas system.
+Background
+Antarctic environments are subject to climatic variability, which can impact upon their glacial, hydrological and biological characteristics.  Regional climate change may have further impacts with increasing temperatures, retreating ice and altered water availability potentially resulting in changes in the availability of suitable habitat for plants, including those within ASPAs (ATCM XXXIII WP16; ATCM XXXIII IP46).  Monitoring of vegetation cover may (i) allow an assessment of vegetation distribution change and (ii) test the validity of predicted impacts of climate change on Antarctica’s flora.
+In recent years the United Kingdom has submitted several Working Papers highlighting the potential use of remote sensing techniques for monitoring environmental parameters in Antarctica (ATCM XXXIV WP15 rev.1, ATCM XXXV WP7, ATCM XXXVI WP10). In particular, ATCM XXXV WP7 Remote sensing for monitoring Antarctic Specially Protected Areas: use of multispectral and hyperspectral data for monitoring Antarctic vegetation, described the use of airborne and satellite imagery in quantifying vegetation cover in Antarctic terrestrial environments.  This approach was shown to be effective in detecting green vegetation on the Antarctic Peninsula using relatively low-resolution (c. 30 metre pixel size) Landsat satellite imagery data.
+The United Kingdom has continued its work on vegetation monitoring, but a significant recent development is the use of higher resolution imagery (c. 2 metre pixel size) in order to provide the required level of detail necessary to monitor potentially minor changes in vegetation cover extent over small timeframes.  The new information presented here provides example baseline data against which future distribution of vegetation cover within ASPAs might be compared.
+Methodology
+Satellite images of 43 ASPAs thought to contain substantial quantities of terrestrial vegetation  (including ASPAs where terrestrial vegetation was included in the Management Plan ‘Description of values to be protected’) were acquired from the Digital Globe QuickBird and WorldView-2 satellite sensors (ASPA Nos. 104,105,106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 119, 120, 121, 124, 125, 126, 128, 129, 131, 132, 133, 134, 135, 136, 139, 140, 141, 143, 147, 148, 149, 150, 151, 154, 163, 165, 170, 171 and the proposed ASPA at Stornes, Larsemann Hills). 
+
+In general, ASPAs thought to contain little macroscopic vegetation were not included in this study (i.e. those protecting primarily microbial habitat, bird colonies, geomorphological features, marine mammals on sea ice, marine ecosystems and/or historic structures).  For a very small number of ASPAs that contained large areas of ocean, permanent ice or sea ice, in which terrestrial macroscopic vegetation was unlikely to exist, satellite imagery for these parts of the ASPAs may not have been acquired.
+
+Vegetation cover within each ASPA was assessed using a simple and well-established vegetation index called NDVI (Normalised Difference Vegetation Index).  It should be noted that this methodology is effective at detecting green plants, such as mosses and vascular plants, but may be less effective at detecting darkly pigment lichens.  As far as possible, satellite images captured during December to March were used as, in general, they had lower levels of snow cover than images collected during other times of the year.  
+
+ASPA boundaries were taken from the Antarctic Protected Area (APA) database (http://www.ats.aq/devPH/apa/ep_protected.aspx?lang=e).  In some cases, corrections had to be made to ensure the digitised ASPA boundary coincided with features visible in the satellite imagery and the maps in the associated ASPA Management Plan.  The United Kingdom would welcome feedback from ASPA proponent Parties regarding the accuracy of the boundaries of each ASPA visualised in the pilot website.  
+Results
+The preliminary results of this analysis are available at http://www.add.scar.org/aspa_vegetation_pilot.jsp (see also Figures 1 and 2).
+Figure 1.  False colour satellite image of ASPA No. 109 Moe Island, South Orkney Islands, which highlights vegetation in red.  At its widest, the island measures approximately 2 km across, (i.e. from top to bottom in this image).
+
+
+
+Figure 2.  NDVI, derived from satellite imagery, for ASPA No. 109 Moe Island, South Orkney Islands, showing vegetation cover using a colour scale of white → orange → red, with red indicating the highest NDVI values.
+
+
+For each ASPA the following data are provided:
+    • Visualisation of the high resolution satellite image
+    • The ASPA boundary
+    • NDVI vegetation coverage values
+    • The area and percentage of vegetation cover for each ASPA
+Preliminary analysis of the results, collected according to the definitions used in this study, showed the following:
+    1. The 43 ASPAs included in this study covered a combined area of approximately 732 km2, of which just over 2.2% was classified as vegetated.  In total, this equated to a vegetated area of 16.4 km2, (i.e. all the vegetated ground would fit within a square measuring 4.1 × 4.1 km).
+    2. Three ASPAs contained 68% of the total vegetated ground that was detected within the 43 ASPAs protecting substantial terrestrial ecosystems (see Figure 3), i.e.:
+    • ASPA No. 126 Byers Peninsula, Livingston Island (8.1 km2)
+    • ASPA No. 133 Harmony Point, Nelson Island, South Shetland Islands (1.9 km2)
+    •  ASPA No. 134 Cierva Point and offshore islands, Danco Coast, Antarctic Peninsula (1.1 km2).
+All three ASPAs are found in Antarctic Conservation Biogeographic Region (ACBR) 3 North-west Antarctic Peninsula. 
+
+Figure 3.  Area of vegetated ground within ASPAs (or proposed ASPAs) protecting terrestrial ecosystems
+
+Recommendation
+The United Kingdom recommends that CEP Members consider the potential usefulness of this remote sensing approach for: 
+    i. on-going monitoring within ASPAs;
+    ii. determining the potential effects of climate change on Antarctic vegetation within ASPAs and more widely; and 
+    iii. informing the further development of the Antarctic Protected Areas system.
+

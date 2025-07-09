@@ -1,0 +1,234 @@
+TRATADO ANTARTICO
+XIII REUNION CONSULTIVA
+
+TRAITE SUR L'ANTARCTIQUE
+XIII REUNION CONSULTATIVE
+
+
+ANTARCTIC TREATY
+XIII CONSULTATIVE MEETING
+
+ДОГОВОР ОБ АНТАРКТИКЕ
+XIII КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+BRUXELLES
+
+1985                          ANT XIII/INF 12
+7-18 octobre                 10.10.85.
+
+ITEM 8 OF THE AGENDA :
+
+IMPROVEMENT OF TELECOMMUNICATIONS IN ANTARCTICA
+AND COLLECTION AND DISTRIBUTION OF METEOROLOGICAL DATA
+
+Information Paper submitted and referred to by
+the South African Delegation.
+ARGOS-SYSTEM AS AID TO SEARCH AND RESCUE OPERATIONS
+
+When the subject of Search and Rescue was discussed during the 18th
+SCAR meeting in Bremerhaven 1984, the South African delegate on communi-
+cation suggested that Antarctic operators should consider employing
+the ARGOS system for search and rescue purposes.  Having had previous
+experience with the system through an ongoing drifting weather-buoy
+programme, the technique was strongly recommended.  In order to deter-
+mine Service-ARGOS's stand on the use of the system for this purpose
+the South African delegate was requested, as the representative for
+SCAR, to approach and discuss the possibility with Service-ARGOS manage-
+ment.  This was done and both Service-ARGOS as well as the Joint Tariff
+Committee, the body presiding over tariffs, welcomed the idea of SCAR
+participating in ARGOS application.
+
+Service-ARGOS
+Service-ARGOS was established as a co-operative project between CENTRE
+NATIONAL D'ETUDES SPATIALES (CNES, France), the NATIONAL AERONAUTICS
+and SPACE ADMINISTRATION (NASA, USA) and the NATIONAL OCEANIC and ATMOS-
+HERIC ADMINISTRATION (NOAA, USA).  It offers capabilities for the satel-
+lite-based location of fixed and moving platforms and the collection
+of environmental data.  It will provide a continuous service for the
+NOAA satellite programme until at least 1995.  The technical and
+administration centre of the ARGOS system is Service-ARGOS, a sub-section
+of CNES, Toulouse.
+- 2 -
+
+_ARGOS system application.
+
+The ARGOS system has been designed and developed for a wide range of environmental studies to be carried out on land, air and sea.  Land-based applications normally centre around automatic weather stations (AWS), snow-data stations, hydrological stations and animal tracking. Air application comprises the tracking of free flowing balloons in the strato- as well as troposphere.  Also long-duration manned balloon voyages are catered for. Sea application are normally required by meteorologists and oceanographers i.e. position location and environmental data transmissions from free drifting weather buoys, moored buoys and drifting ice buoys.  This service has been an ongoing process since the inception of the system during the FGGE.
+
+The possibility of having the same facility on board seagoing vessels was soon realised and South Africa, for example, has a system on board the ship, SA AGULHAS, the South African Antarctic research/supply ship whereby synoptic meteorological messages are read into an ARGOS terminal (ARGOS Newsletter December 1983). The terminal transmits the data every 200 seconds and, as soon as the polar orbiting NOAA satellites clear the horizon in sight of the SA AGULHAS, the data is received by the spacecraft, processed and the position of the ship is determined.  Not only is environmental data being received by the meteorologists but the position of the ship is known at all times.  No wonder that seagoing yachts are increasingly making use of this facility supplied by Service ARGOS. Yachts, however, do not normally carry terminals.  They are instead equipped with mini AWS's fitted with air-pressure and temperature sensors.  By making use of a 50 seconds transmission rate the position of yachts can also be determined during short orbital passes occuring to their east or west.
+
+During the BOC Around-The-World-Alone race the 14 yachts which left from Cape Town, South Africa, on the second leg of a four-leg race were equipped with mini AWS's.  The result was that the exact position of every participating yacht was known at all times and of course meteorologists, especially those in the Southern Hemisphere, were delighted with the mass of additional data they received daily.  It was during the third leg of the race, between Sydney and Rio de Janeiro, that the mini AWS and System ARGOS made possible one of the most spectacular search and rescue ventures undertaken in the South Pacific.  SKOIERN 111, skippered by the French yachtsman Jacque De Roux, was damaged by heavy seas.  According to subsequent press reports SKOIERN 111 was poun-
+- 3 -
+
+Fig. 1  The synoptic situation at 00h00 on 9 February 1983.  Air pressure
+reading 987,1 mb was received for 00h28 UT from SKOIERN 111 (AWS 16505).
+Between 05h57 and 08h37, the same day, the distress alarm on the AWS was
+activated.
+
+Considering the synoptic analyses of 00h00 on 9 February given in fig
+1 this could well have been the case.  The data given under 16505,
+north-east of the centre of the depression, refers to that received from
+SKOIERN 111 at 00h28 UT on the 9th.  Between satellite passes 05h57
+and 08h38 she activated the distress facility on the AWS and what fol-
+lowed was a most dramatic search and rescue venture.  Meteorological
+and position data from the other yachts as well as SKOIERN 111 were
+being received and transmitted during the entire operation.  The result
+was that the progress of the operation could be followed at all stages.
+
+/4
+- 4 -
+
+Fig. 2 shows that the yacht PERSEVERANCE, skippered by Richard
+Broadhead from Britain, was alerted and from the 22h29 satellite pass
+on the 9th it was clear that he turned south to the rescue of SKOIERN
+111. At approximately midnight on 11 February PERSEVERANCE met up with
+SKOIERN 111 and skipper Jacque de Roux was taken on board just before
+SKOIERN 111 sank.
+
+Fig. 2      After SKOIERN III activated the distress alarm PERSEVERANCE was
+alerted. At approximately 22h29 UT she turned south and to the rescue.
+
+System ARGOS uses exactly the same spacecraft as the official search-
+and-rescue system COSPAS/SARSAT.  However System ARGOS has the very
+important added advantage that the location of the transmitter - in
+our case it could be an Antarctic field party - is known at all times
+as well as the fact that the field party can forward environmental,
+or any other data for that matter, to its headquarters and/or sponsors.
+
+System description
+
+The space segment of the ARGOS system comprises two NOAA low polar-orbi-
+ting satellites (±850 km). These satellites are equiped with the ARGOS
+Data Collection System (DCLS) which receives and processes data from
+- 5 -
+
+all transmitting platforms visible during a pass. . Fig. 3 shows that 
+each of the two satellites in orbit simultaneously sees all the transmit-
+ters within a 5 000 km diameter circle, the minimum elevation angle 
+being 5 degrees.  As the satel-
+lite  orbits,  the  visibility
+zone centred on the satellite
+ground track sweeps a swath
+5 000 km in width encompassing
+the North  and  South poles.
+See fig. 4.
+
+
+VMSIBILITY CIRCLE
+
+
+
+
+Fig. 3
+
+SATELLITE 2  SATELLITE 1
+Fig. 4
+
+As a result of the earth's
+rotation  two  successive
+swaths,  that  is  one  orbit
+followed  by  the  next,  are
+separated by 25 degrees longi-
+tude on the equator.  There-
+fore  an  element  of  side-lap
+between two successive
+swaths as shown in fig. 5.
+
+
+
+
+Fig. 5
+
+Location calculation
+
+The most important feature of the ARGOS-system is the location-determina-
+tion capability.  Location is determined by the calculation of the
+Doppler effect on the frequencies received by the spacecraft.  Service-
+ARGOS claims an accuracy of ± 500 m with respect to the true position
+when the oscillator in use in the transmitter adheres to specifications.
+Independent tests on the accuracy have been conducted by differenct
+institutions and, although discrepancies have been noted, no serious
+contradictions to the Service-ARGOS claims are known.  The South African
+Weather Bureau on two occasions recovered drifting weather buoys from
+- 6 -
+
+the ocean by using the ARGOS location data.  On both occasions the buoys
+were picked up without undue waste of time in searching.  To relate
+one of these occasions, it was during October 1983 that the South
+African Weather Bureau decided to recover buoy 20646 from the less use-
+ful position 30S 14E and deploy it in an area of greater interest.
+To facilitate the search, 20646 position data accurate to three decimal
+places, was obtained from the Service-ARGOS, Toulouse computer.  Posi-
+tions determined from seven successive satellite passes, from 15h55
+on the 6th till 05h22 on the 7th, were obtained and forwarded to the
+SA AGULHAS during the morning of the 7th.  During the same morning the
+SATNAV position of the ship was determined and the buoy intercept was
+dead-reckoned at 13h01 the same day.  Weather conditions in the search
+area were not by any means ideal.  A 25 kt south-easterly wind was
+blowing, the visibility was estimated at 6 to 8 km and the general state
+of the ocean was that which mariners refer to as state 6.  The sun was
+somewhat low in a hazy sky and this made the surface of the sea appear
+silvery.  A SATNAV position calculation was done at 12h08 making the
+
+30°S                                         30°S
+14°E                                         30°S
+
+Port Turn, maintain heading for 6 min
+Port Turn, maintain heading for 15 min
+Port Turn. Buoy in sight
+SATNAV position 13h12 UT
+Recovery point
+
+05h23 
+7 October 1983
+01h35 
+23h50 
+19h46 
+System-Argos 
+positions 
+6 October 1983 18h04 
+15h55 
+Track of S.A.
+Agulhas
+Buoy speed : 0.78kt
+Ship speed 13.85kt
+
+Track of drifting weather
+Buoy 20646
+
+5 October 1983
+18h00 UT
+
+14°E
+
+Fig. 6    S.A. Agulhas recovered a drifting weather buoy from the South
+Atlantic.  This figure shows the track of drifting weather buoy 20646 as
+- 7 -
+
+next fix possible at 13h12. At 13h04, 20646 had still not been sighted.
+However its signal did come up on the Handar test set used for testing
+and evaluating buoys before deployment. By 13h10 the signal on the
+handar was fading and it was obvious that the ship had passed the buoy
+without sighting it. The master of the SA AGULHAS decided to maintain
+speed and heading till after the 13h12 SATNAV position determination.
+This fix revealed that the SA AGULHAS was 1 km east of the expected
+track. A 90° turn to port was carried out and the heading maintained
+for six minutes. This was then followed by another 90° turn to port
+with new heading being maintained for fifteen minutes. Finally another
+90° turn to port was ordered.
+
+Fig. 6 illustrates the manoeuvre described. It was whilst on track
+after the last 90° turn to port that 20646 was sighted about 40° off
+the port bow at 800 m.
+
+Data availability
+Users can obtain data in various ways. Meteorologists normally obtain
+data via the Global Telecommunication System (GTS). Data can however
+also be obtained via access to the international telex system. Access
+is also possible via telephone at a transmission rate of 300 baud;
+Worldwide data can be accessed through Transpac.
+
+South African Delegation
+
+South African Weather Bureau
+Department of Transport
+Republic of South Africa

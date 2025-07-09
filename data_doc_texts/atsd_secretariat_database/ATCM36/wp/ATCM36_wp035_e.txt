@@ -1,0 +1,148 @@
+﻿
+
+
+
+
+
+Possible guidance material to assist Parties to take account of wilderness values when undertaking environmental impact assessments
+
+
+
+
+
+
+
+
+Possible guidance material to assist Parties to take account of wilderness values when undertaking environmental impact assessments
+
+1.0 Summary
+
+This paper provides a report developed from intersessional discussions on the issue of wilderness management in Antarctica.  The paper suggests an option for further developing the EIA guidelines so as to provide a structured means of taking account of wilderness values when preparing environmental impact assessments of proposed activities.   
+
+2.0 Introduction
+
+At CEP XV, New Zealand and the Netherlands introduced WP 50, “Concepts for Wilderness protection in Antarctica using tools in the Protocol” (CEP XV Report paragraph 150). The Committee acknowledged that there had been gradual degradation of some aspects of Antarctic wilderness (paragraph 152) and welcomed the offer to bring further work to CEP XVI to “develop guidance material to assist Parties to take account of wilderness values when undertaking environmental impact assessment of proposed activities and/or developing proposals for protected areas on the basis of their wilderness values”
+
+New Zealand initiated inter-sessional discussions via the CEP Forum in early July 2012. Volcanic activity in New Zealand meant only part of the work took place. From late February 2013 some work resumed. This Working Paper refers to a companion Information Paper reporting on intersessional discussions on the CEP Forum to suggest possible supplementary material to the Environmental Impact Assessment (EIA) guidelines.
+
+
+3.0 Supplement to the Guidelines for Environmental Impact Assessment in Antarctica
+
+3.1 The Guidelines for Environmental Impact Assessment in Antarctica
+
+The “Guidelines for Environmental Impact Assessment in Antarctica” (ATCM XXVIII /CEP VIII Resolution 4, see http://www.ats.aq/e/ep_eia.htm, referred to here as “the Guidelines”), were developed to assist Parties with undertaking environmental impact assessments under the provisions of Annex I to the Protocol and its three levels of assessment, namely Preliminary, Initial and Comprehensive Environmental Evaluations. Like the Guidelines themselves, the general objective of additional guidance on wilderness values would be to achieve transparency and effectiveness in assessing environmental impacts during the planning stages of possible activities in Antarctica, as well as consistency of approach in fulfilling the obligations of the Protocol.
+
+3.2 Assessing potential impacts on wilderness under the Guidelines 
+
+The proposed addition to the EIA Guidelines would aim to assist those Parties preparing EIAs by helping them understand and assess potential impacts on wilderness, building on sections 1, 3 and 4 in the Guidelines. For most proposals with probably less than a minor or transitory impact this would be a simple check as part of a PEE. This guidance may be most useful for some proposals requiring an IEE or especially a CEE. 
+
+To assess the potential impacts of a proposal on wilderness values:
+    • the proposed activity needs to be described, including its location, duration and intensity in terms of visibility, noise and other outputs that might impact on wilderness, and distance from existing infrastructure, including that of other Parties (see Tables 1 and 2 below);
+    • For most proposals visibility can be assessed in a general way by reference to Table 2. For some CEEs the following might be useful to model infrastructure visibility: 
+    • Data on location and height of infrastructure, and elevation data from which to construct a digital elevation model, with both datasets in formats that are compatible with each other;
+    • Software packages to perform viewshed analyses (e.g. the Spatial Analyst extension for ArcGIS);
+    • Expertise to acquire or build the datasets, load them into the GIS, run the program and interpret and map the results;
+    • the “environmental reference state” (the initial wilderness classification) also needs to be considered so that the nature, extent, duration, and intensity of the likely direct and indirect impacts of the proposed activity on wilderness and alternatives, can be identified and assessed:
+    • Tables 2 and 3 offer guidance on how to assess the initial “environmental reference state”, the final reference state in the absence of the proposed activity and the final reference state with the activity;
+    • inventories of sites of past activity as recommended previously by CEP and COMNAP will also be helpful;
+    • the identified impacts need to be evaluated and compared, and proposals made to mitigate or remediate them. (There could be a table suggesting ways to mitigate impacts such as designing facilities for easy removal, avoiding leaving permanent markers, removing waste, and co-locating facilities);
+    • the cumulative impact of more than one activity in an area on the areas’ wilderness values can be assessed by reference to Tables1-3 or visibility models.
+
+4.0 Antarctic wilderness as part of the environmental reference state 
+
+When using the Guidelines, we need to understand the initial environmental reference state of the area where we are proposing activities so we can predict the final reference state. In a theoretical sense it may be useful to refer initially to a concept suggested in the CEP over 10 years ago that all Antarctica can be defined as wilderness where it is devoid of human interference, that is, unless it has been influenced by human activity within Antarctica including permanent or long-term habitation or other permanent visible evidence of past or present human presence (ATCM XXII /CEP I-IP2, Summerson and Riddle 2000, Codling 2001). That is, the environment is either “wilderness” or “not wilderness”. For practical purposes near to existing human activities, a classification of wilderness will provide important guidance for this aspect of the reference state. Table 3 based on the intersessional work can provide initial guidance and be practically applied to the EIA process.
+
+5.0 Recommendations
+
+New Zealand recommends that the CEP:
+
+    • discusses if guidance material such as contained in this Working Paper would assist Parties take account of wilderness values when undertaking environmental impact assessment of proposed activities; and
+    • considers using the material in this Working Paper within the Guidelines for Environmental Impact Assessment in Antarctica, and possibly as part of a wider review and update of those Guidelines. 
+
+
+Tables referred to above
+
+Table 1. Guideline for assigning significance to predicted impacts of a proposed activity on wilderness values in an area. Dimensions and distances in the “Extent” and “Distance from existing infrastructure” rows are based on visibility distances in Table 2. The numbers 1, 2 and 3 in “Levels of Impact” columns can be used to score potential impacts in matrices as used in the Guidelines including a template in the companion Information Paper.
+
+Attributes of proposed activity
+Level of Impact on Wilderness Values
+
+1 (Low)
+2 (Medium)
+3 (High)
+Extent
+Activity extends over < [100 km2 (5 km distant)] from a site
+Activity extends over > [100 km2 and < 1200 km2 (5- 20 km distant)] from a site
+Activity extends over > [1,200 km2 (20 km distant)] from a site
+Distance from existing infrastructure
+Less than 5 km
+Less than 20 km but more than 5 km
+More than 20 km or more than 200km if helicopters are used
+Duration
+Impacts are likely to  last less than 1 year
+Impacts are likely to  last in the order of years
+Impacts are likely to  last in the order of decades
+Frequency
+Activity does not take place every season
+Activity takes place every season
+Activity takes place most days during the season
+Reversibility
+Impacts are reversible from one season to the next.
+Impacts are reversible but will take more than a season to be reversed.
+Impacts are irreversible and may alter surrounding area over the long term 
+Probability
+Impacts should not occur under normal operations
+Impacts likely to occur under normal operations
+Impacts are inherent and unavoidable
+
+Table 2. Infrastructure and infrastructural elements that can be defined as having an impact on wilderness, if more than the indicated visibility distance from existing infrastructure. Visibility distances were obtained mainly from Summerson (2012) who used a GIS-based visibility model (e.g. Bishop 2003).  Kennicutt et al (2010) provided data which show that other environmental outputs and components influencing impact distance (extent), for example on flora and fauna, are generally significant only at shorter distances than visibility.
+
+Infrastructure (examples)
+Visibility distance 
+Permanent research station and logistic base
+20-50#
+Summer only research or logistic facility used most operating seasons 
+10-20
+Airstrip and associated buildings used in association with research stations
+10*
+Disused station
+10
+Telecommunication installations or other large infrastructure on hills or in isolated locations
+10
+Small refuge or hut in place for many years
+5
+Small scientific installations (e.g. automatic weather stations) 
+5
+Large monument
+5
+Flag pole
+5
+Surface resupply routes used most operating seasons
+1-2*
+Depot
+1
+Historic isolated artifacts (e.g. crosses, cairns, old caches, plaques)
+1
+Markers (e.g. small flags, cairns, poles)
+1
+# Maximum distance proxy represented by distance lights can be seen at night
+*Based on distance from buildings or flags and other markers in a linear arrangement
+
+
+Table 3. Wilderness in Antarctica as part of the environmental reference state
+
+Wilderness classification on a continuum from “wilderness” to “not wilderness” (examples only)
+Human footprint extent, duration, frequency, reversibility and probability (reference to Tables 1-3)
+High
+No artifact or infrastructure present; and no transient activity ever within [50] km 
+High to Moderate
+Transient or infrequent, short duration activity within 50 km; or any infrastructure >50 years old, small or present less than 1 season with no impacts persisting beyond this time
+Moderate
+Activity in some seasons within 20 km; or small infrastructure and impacts present for a few seasons  
+Low To Moderate
+ Activity most seasons within 20 km; or infrastructure of various sizes present for the order of several years, with some persistent physical or biological impacts
+Low to zero
+Activity every season within 20 km; and large or complex infrastructure present for decades
+
+
+

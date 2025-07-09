@@ -1,0 +1,56 @@
+﻿
+
+
+
+
+
+South Africa’s use of Unmanned Aerial Vehicles (UAV) in Antarctica
+
+
+
+
+
+
+
+
+South Africa’s use of Unmanned Aerial 
+Vehicles (UAV) in Antarctica
+
+Information Paper submitted by South Africa
+
+
+Summary
+
+In view of the increased use of Unmanned Aerial Vehicles (UAV) in Antarctica for both scientific and non-scientific purposes, it is agreed that Parties should look at the best means whereby programmes and non-governmental operations can assure the safety of persons, infrastructure and the environment, by sharing their experiences and providing insights into their national processes in this regard.
+
+
+Background
+
+Thus, in responding to the CEP’s request for Parties to prepare papers relating to their own experiences regarding the use of UAV in Antarctica, South Africa can report that only one such system was used by the programme during the 2013/14 summer season and that to date the South African Civil Aviation Authority (SACAA) is in the process of finalising its intended guidelines for the use of Remotely Piloted Aircraft Systems (RPAS) – also known as UAV or UAS (Unmanned Aircraft Systems) – within South Africa.
+
+
+South Africa’s experiences
+
+Experiences:
+A custom-built UAV (hexacopter) was utilised in Western Dronning Maud Land in the 2013/14 Austral Summer to photograph the parts of three nunataks utilised for the project Landscape Processes in Antarctic Ecosystems.  Agisoft software was then employed to develop a 3-dimensional image to identify and map landforms.  The geo-rectification of the images was undertaken by marking specific reference points with a cross, using duct tape, which was removed after completion of the flights.  The exact position of the reference points was determined using a differential global positioning system (GPS).  Ground truthing (verification) of the results followed to determine the validity of measurements from the UAV.  In this regard, it is argued that the results obtained from models developed using the UAV are even more accurate than manually measuring landforms with tape-measures and hand-held GPSs.
+
+Other Uses:
+Using UAV makes it possible to accurately map and provide images of isolated nunataks, which were previously not mapped.  The speed and accuracy at which this mapping can take place, which exceeds previously utilised mapping techniques in the area, makes the UAV an extremely useful tool for both scientific research and for establishing baseline data for environmental monitoring. For example, it is possible to record changes in snow accumulation around the SANAE IV station.  It is also likely that such an instrument could be utilised to conduct animal and bird censuses in inland colonies and along the coast.
+
+Environmental Disturbances:
+The UAV was used near the Norwegian Troll Station and, simply because it was unavoidable, it was used in relatively close proximity to Antarctic Skuas, Antarctic Petrels and Snow Petrels.  Given obvious potential impacts, the responses of avifauna were carefully monitored and no adverse visible reaction from the birds was recorded. Elsewhere in Western Dronning Maud Land, the UAV was not used in areas where bird colonies are located (specifically not at the Snow Petrel breeding colony at Robertskollen) to avoid any potential impacts, so it was not possible to observe any reactions from the birds there.
+
+
+Current national status
+
+The SACAA is nationally responsible for regulating civil aviation activities in order to ensure acceptable levels of aviation safety and security within South Africa and amongst operators.  Currently, there are no specific regulations which govern the use of RPAS, however, the SACAA has made progress in terms of drafting an Interim Guiding Document earmarked to assist with RPAS authorisations. 
+
+It is envisaged that this Interim Guiding Document will provide certain standards for compliance by all prospective operators in order to be authorised to operate their RPAS.  Research to determine the feasibility and ease of use of these standards is underway and it is also intended to compile proposed RPAS Regulations, Technical Standards and Technical Guidance Material. The draft Regulations will be made available for public comments and follow the existing regulation development processes to promulgate the new regulations as part of the Civil Aviation Regulations.
+
+
+Concluding remarks
+
+South Africa looks forward to a fruitful discussion in the furtherance of developments on this matter at the upcoming meeting.
+
+
+

@@ -1,0 +1,61 @@
+﻿
+
+
+
+
+
+Cost/energy Analysis of National Antarctic Program Transportation
+
+
+
+
+
+
+
+
+Cost/energy Analysis of National Antarctic Program Transportation
+An example provided by Alfred Wegener Institute (AWI)
+
+Background
+The National Antarctic Programs are acutely aware that the transportation of personnel and cargo to and from Antarctica from their home institutes involves significant costs in terms of annual budgets and also energy. Some have begun to do in-depth analysis of their logistics chains in order to save on costs including energy costs and thereby make the chain most efficient and lessen fossil fuel use. This paper presents the results of a transportation cost and energy analysis that was recently undertaken on behalf of  the Alfred Wegener Institute–Helmholtz Center for Polar and Marine Research (AWI).  It focuses on the analysis of transportation of people and cargo via both maritime and air transportation methods. It is an individual case study, but also it is provided as one example of what National Antarctic Programs are doing to reduce costs and fuel use.  Others might wish to apply such an analysis as part of their own Antarctic science support operations.
+Transportation chain
+The AWI is based in Bremerhaven, Germany.  Antarctic passengers and cargo are carried by scheduled aircraft flights to Capetown, South Africa. From there, there are two possibilities: 
+1. Maritime transport to Antarctica by Polarstern–takes 10 days (direct) from Capetown to Neumayer III; or
+2. Airlift transport via the Dronning Maud Land Air Network (DROMLAN) flight–a two-part journey which takes approximately 6  hours from Capetown to Novolazarevskaya (Ilyushin IL-76TD) followed by an additional 2.5 hours flight from Novolazarevskaya to Neumayer III (BT-67).
+The analysis methodology
+A report was carried out by a University student with information and direct supervision provided by an AWI staff member. The entire report is presented in attachment 1.  It shows that separate analyses were carried out to determine:
+1. Transport costs per passenger (scientists and science support personnel) via DROMLAN;
+2. Transportation costs for cargo (per freight ton) via DROMLAN;
+3. Transportation costs per passenger via Polarstern;
+4. Transportation costs for cargo via Polarstern.
+Each analysis took into account operating at full capacity, at an average capacity (approximately less than full) and at minimum capacity. In the analysis the actual number of passengers and load of cargo was used for the 5 season period between 2007 and 2012.
+The various options were then compared in order to understand the most inexpensive way to transport people and cargo to/from Antarctica. The report continues to consider an “emission comparison” between DROMLAN and Polarstern transportation looking at the quantity of carbon dioxide produced during the transport chain via air and via sea and also taking into consideration the emissions caused by transportation of the aviation fuel required for the airplanes involved in the airlift.  Such fuel is transported by vessel and is therefore in addition to the transportation provided by DROMLAN or Polarstern.
+Ultimately the report considers the overall analysis and presents an evaluation of the different transportation methods in order to identify savings in regards to costs and emissions.
+
+
+
+Summary of results
+The full report provides very detailed summaries of each of the various transportation options.  The key findings are:
+1. Costs associated with carrying passengers are much lower (approximately 40%) using the DROMLAN air system when compared with using sea transport on Polarstern.
+2. Costs associated with carrying cargo are much lower (approximately 25%) using sea transport on Polarstern when compared with using airlift on DROMLAN.
+3. The produced emissions per passenger during air transport on DROMLAN are 15.03g/g, which is 35% lower than the emissions per passenger produced during a voyage on Polarstern (42.74g/g).
+4. The produced emissions per cargo ton with air carriage on DROMLAN are 70.01g/g which is significantly higher than carriage by sea on Polarstern (1.84g/g).
+
+
+Illustration 16 from full report: Costs comparison DROMLAN vs. Polarstern (one way).
+
+Understanding the key findings, allows for greater control in decision-making in order to reduce costs and to make emissions savings.  In the case of Polarstern the biggest percentage of costs associated with transportation is in relation to the operation of the vessel itself. There is no alternative, however, other than vessel transport in order to fully supply the Antarctic wintering base Neumayer III, in particular with the fuel It requires. Therefore, at least one visit per year by Polarstern is inevitable and this opportunity can be used for additional transportation tasks. This however must be weighed against Polarstern’s primary function, that is, as a research vessel.  
+In the case of airlift emissions reduction, it is the intercontinental flight from Capetown to Novo which causes 92% of the overall emissions of the air transport chain. With this in mind it is important to operate the flights at as close to 100% capacity (passengers and cargo) as possible. At 100% capacity the emissions per person falls by two-thirds.
+
+
+Illustration 49 from full report: Emission comparison DROMLAN vs. Polarstern.
+
+Conclusions
+The cost comparison of both transport chains showed that expenses for the carriage of passengers are much lower using the DROMLAN air system. In regards to cargo, the exact opposite is true. While the price per passenger travelling by vessel is almost double the price of transport by air, the rate for the freightage is less than one quarter of the cargo rate via DROMLAN.
+In regards to emissions the produced emissions per passenger by air are lower than the value produced with Polarstern. The amount of emissions per ton during the carriage with DROMLAN is about 38 times higher than the carriage by sea.   
+These observations lead to the resulting suggestion to ship as many passengers as possible by air transport and the predominant part of freight by sea, which coincides with the approach of the logistical department of the AWI. Above all a maximum carrying capacity utilisation of all carriers is of crucial importance to hold costs and emissions down as far as possible.
+Each transportation method has its respective merits. Providing a service to supply the Antarctic research platforms with goods and also being a research platform themselves. Logistics and research in equal measure cannot dispense with one of the carriers. The challenge consists in the right combination of both ways of transport.
+A full copy of the report may be obtained from the AWI by request. 
+
+
+

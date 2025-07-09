@@ -1,0 +1,124 @@
+An example SCAR online application to inform State of the
+Antarctic Environment Reporting (SAER)
+An example SCAR online application to inform State of the
+Antarctic Environment Reporting (SAER)
+Summary
+This paper describes the outcomes of recent work by SCAR to
+develop an example online application to support the provision of
+information to inform elements of ‘State of the Antarctic
+Environment Reporting’ (SAER). SCAR recommends that the
+Committee:
+considers the example online application developed by SCAR as a
+mechanism for the provision of information relevant to SAER to the
+CEP;
+invites the views of CEP Members regarding (i) the usefulness of
+this online tool and (ii) if considered beneficial, what further topics
+would be most usefully examined to support the Committee in their
+provision of advice to the ATCM on the state of the Antarctic
+environment; and
+considers whether and how information relevant to SAER might be
+routinely presented to provide context for CEP discussions.
+Background
+Article 12 (1) of the Protocol on Environmental Protection to the
+Antarctic Treaty sets out the functions of the Committee for
+Environmental Protection (CEP), i.e.:
+‘…to provide advice and formulate recommendations to the Parties
+in connection with the implementation of this Protocol, including
+the operation of its Annexes, for consideration at Antarctic Treaty
+Consultative Meetings, and to perform such other functions as may
+be referred to it by the Antarctic Treaty Consultative Meetings.’
+The Protocol goes on to state that amongst other things, the
+Committee shall provide advice on ‘the state of the Antarctic
+environment’ (Article 12(1)j). The CEP has identified monitoring
+and state of the environment reporting as a Priority 2 issue in its 5-
+Year Work Plan. Specified actions include:
+Identify key environmental indicators and tools;
+Establish a process for reporting to the ATCM; and
+SCAR to support information to COMNAP and the CEP.
+For many decades, SCAR has provided Antarctic policymakers with
+information relevant to SAER, but generally on an ad-hoc basis.
+Today, SCAR provides independent, relevant and up-to-date
+scientific information on Antarctic environments and human
+activities in the region through Information Summaries posted on
+the SCAR Antarctic Environments Portal (https://environments.aq/)
+as well as papers submitted to the CEP. However, there may be an
+opportunity to provide policymakers, and other stakeholders
+including COMNAP, with further and potentially more-detailed and
+area-specific information, with scope to report on environmental
+change and trends in Antarctica.
+At CEP 25, SCAR introduced ATCM XLV WP18 ATCM XLV WP18.
+Contribution of information to inform State of the Antarctic
+Environment Reporting (SAER): a potential new SCAR initiative.,
+which described the outcomes of a recent SCAR workshop
+coordinated by the SCAR Scientific Research Programme (SRP)
+‘Integrated science to inform Antarctic and Southern Ocean
+Conservation’ (Ant-ICON) to consider the potential provision of
+information to inform elements of State of the Antarctic
+Environment
+Reporting (SAER). WP18 (2023) proposed that the resulting new
+SAER initiative would bring together a variety of relevant existing
+knowledge which could be used to make web-based maps, identify
+knowledge gaps and perform assessments. SCAR recommended that
+the Committee: note the recent SCAR workshops held to consider
+how best the scientific community might contribute to SAER;
+consider the proposal by SCAR to develop a mechanism for the
+provision of information relevant to SAER; and request the view of
+CEP Members regarding the usefulness of this proposal and what
+information would be most useful for supporting the Committee in
+its provision of advice to the ATCM on the state of the Antarctic
+environment.
+The Committee thanked SCAR for its paper and welcomed SCAR’s
+proposal to develop a mechanism for SAER, noting its relevance to
+the CEP’s work including with respect to environmental monitoring
+and providing advice to the ATCM. Members highlighted the
+usefulness of this initiative for the CEP’s entire work agenda,
+including to develop a systematic approach to environmental
+monitoring and noted that it would be useful to receive an example
+report from SCAR to fully assess the practicality and usefulness of
+its proposed mechanism for providing information on SAER.
+Recent developments
+Noting the request from the CEP to provide an example report for
+SAER, SCAR has developed an online application visualising an
+example dataset on the occurrence of non-native species within the
+Antarctic Treaty area. The online application for non-native species
+is currently available at: https://saer-non-
+nativespecies.data.bas.ac.uk and has the following features:
+It is underpinned by the most up-to-date curation of non-native
+species records available. This dataset contains over 200 records of
+non-native species introduced to Antarctica and includes
+information on when each species was first observed in that
+location, whether it is still currently present, and how long it
+survived/survives there.
+The data table is available in the online application and can be
+explored by the user, including filtering records by various
+categories including ‘kingdom’, ‘occurrence status’, and ‘scientific
+name’ (see Figure 1).
+The occurrence records can also be explored via the interactive
+map, where individual species can be selected to be viewed on the
+map. Individual records can be clicked on to find out more detailed
+information about the record (see Figure 2).
+Figure 1. Screenshot of the online application illustrating the data
+table of introduced species records to the Antarctic Treaty area.
+Figure 2. Screenshot of the online application that provides an
+example of the map visualizing the non-native species data and
+associated environmental data.
+If considered useful by the CEP, SCAR could consider the delivery
+of further environmental datasets that are relevant to SAER, using
+the same online application approach with different topics available
+in a centrally hosted location. The SCAR Antarctic Environments
+Portal provides an existing platform for delivery of policy-relevant
+information to decision-makers and could prove an effective and
+updatable mechanism for centralized delivery of information
+relevant to SAER in the future.
+Recommendations
+SCAR recommends that the Committee:
+considers the example online application developed by SCAR as a
+mechanism for the provision of information relevant to SAER to the
+CEP;
+requests the views of CEP Members regarding (i) the usefulness of
+this online tool and (ii) if considered beneficial, what further topics
+would be most usefully examined to support the Committee in their
+provision of advice to the ATCM on the state of the Antarctic
+environment; and
+considers whether and how information relevant to SAER might be
+routinely presented to provide context for CEP discussions.

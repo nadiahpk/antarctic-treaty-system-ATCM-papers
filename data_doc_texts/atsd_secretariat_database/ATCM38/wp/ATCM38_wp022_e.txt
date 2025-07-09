@@ -1,0 +1,82 @@
+﻿
+
+
+
+
+
+UAV Use in Antarctica – Risks and Benefits
+
+
+
+
+
+
+
+
+
+
+UAV1 Use in Antarctica – Risks and Benefits
+Background
+At ATCM XXXVII/CEP XXVII there was discussion on deployment of unmanned aerial vehicles (UAVs) in the Antarctic. As a result, COMNAP, SCAR and IAATO were asked to consider the issue and bring back information which explored utility and risks of UAV operation in Antarctica. This paper presents the practical benefits of use by national Antarctic programs, applied to science support, operations and logistics.  The paper also presents the risks to human safety and the built environment.  COMNAP recognises that there are other risks and benefits that are beyond the remit to COMNAP and therefore outside the scope of this paper. There is little published data available on the impacts of UAVs to fauna and flora.2 Therefore, this paper should be read together with the SCAR paper.
+Definitions
+A UAV is a component of an Unmanned Aerial System (UAS). UAV is considered an “all-encompassing” term, where Remotely Piloted Aircraft (RPA) is a subset. An RPA is piloted by a “remote pilot” situated external to the aircraft, who monitors the aircraft and has direct responsibility for its safe conduct at all times.  An RPA does not include those fully autonomous aircraft operations which cannot be managed on a real-time basis during flight. There is a wide choice of sizes, weights, ranges and operating ability across UAVs.  This paper was developed with the “close range” and “medium range” categories3 of RPAs in mind and on non-recreational use exclusively.
+Consideration of issue
+Technological advances have seen leaps in UAV capability and deployability. Many countries do not currently have domestic legislation to govern civil UAV use in their home countries4 and there is a lack of standards and recommended practices in place globally.  
+
+Most categories of UAS are now available at low cost, are lightweight and transportable. Technological advances will continue and soon any national Antarctic program, non-governmental organisation or individual will have the ability to operate UAV in the region. This shifts aircraft operations from being only in the hands of licensed pilots who are fully aware of operational constraints, ATCM recommendations, and best practice guidelines, to those who may have little or no awareness of these. 
+
+RPAs, though small and remotely-piloted, are aircraft. The principle objective of aviation regulatory guidelines is to achieve and maintain the highest possible level of safety.  In the case of RPA this means ensuring the safety of any other airspace user and of persons and infrastructure on the ground. Hazards and risks should be identified and assessed for each specific RPA deployment as for any airborne object. 
+
+While the Antarctic region is very big, national Antarctic programs principally and deliberately work in relatively small operational areas, and, as a result, any UAV use is likely to be superimposed on top of areas where there is already human activity.  UAV use will likely be clustered around areas where there is ‘crowded’ operational space, relatively speaking. This presents a risk to people and to infrastructure in that space, including stations, related infrastructure, scientific instrumentation and other aircraft. Such areas already have operational restrictions and rules, including many such areas with airspace regulations. Some national Antarctic program areas of operation are close to or are shared with other operators.  In those areas it is imperative to include planned UAV operations in advanced exchange of operational information and to follow standard operating and communications procedures with all others working in that operational space. All current ASMAs have provisions with specific guidance in regards to access to and movement within, or over, the areas, including for landing or overflight of aircraft.
+Benefits
+National Antarctic programs see benefits from RPA use in the Antarctic Treaty area.  The benefits presented here broadly fall within the categories of ‘safety’ and ‘logistics/operations’.
+Safety
+Because they are unmanned, there is no risk associated with crew and passengers on-board. UAVs are highly deployable and it is envisioned they will be used for fire-fighting, missing persons search and for medical emergencies.5  They can also be used for quick reconnaissance (crevasse detection, sea ice and fuel spill extent).
+Logistics/Operations
+The cost of purchasing a UAS is now within the means of many and there are low operational costs. UAVs in the micro- to mini- range are easily transportable and deployable and are powered by rechargeable, sealed batteries.  Their use as an alternative to other aircraft means there is a reduction in fossil fuel transportation to, and use in, Antarctica. Operating a UAS does require special skills and expertise, however, the costs associated with the necessary training of the operator is significantly less than costs involved with manned aircraft training.  UAVs can carry science payloads or can be used for delivery of equipment and small objects to field sites within their range.
+Risks
+Removal of people from aircraft is a distinct advantage to human safety in Antarctica.  As with any operations, in the event of an accident, there are still risks to human bystanders and there are risks to the built environment including stations, related infrastructure and scientific instrumentation. 
+
+The taxi, take-off and landing phase often take place through predefined paths/areas (in/over airfield/skiways/helo pads) which already are sites generally free of people, but may include other aircraft operations.  Under normal operations risks are generally confined to the possibility of enroute collision with other airborne objects, or with built infrastructure. As ‘Sense And Avoid’ (SAA) technology improves, collision possibility will decrease, but such technology is still some time away.  There is also the possibility of radio signal and electromagnetic interference, especially in areas designated as “radio quiet” zones.
+
+Failure simulation studies have shown that the vast majority (99.97%) of crashes (where a ‘crash’ is an impact on the earth’s surface) occur within 600 metres of the initial UAV failure location.6  
+
+Failure can be due to (some of which can be mitigated):
+    • Pilot error (Mitigated by training)
+    • Pilot medical issue (Mitigated by medical evaluation)
+    • Communications loss (Mitigated by “return to home” programming)
+    • Line of sight loss (Mitigated by operation only in daylight hours and only in clear weather conditions; or by use of observer)
+    • Equipment failure (Mitigated by equipment pre-check; regular system maintenance; and by requiring that each operator develop an standard operating procedure that details how long each particular flight will be and to what minimum battery/fuel level)
+    • Mid-air collision7 (Mitigated  by pre-planning, flight plan filing, consideration of specific  station air operations guidelines; implementing SAA technology when available)
+    • Weather
+
+Robust machinery with electronic location devices should be used in order to optimise chance of recovery. Recovery at sea, on sea ice and in crevassed terrain may be impossible given the risk to human life involved. In cases were a UAV crashes and is not recovered, the impact to the Antarctic environment may be beyond what might be considered reasonable and acceptable.
+
+Recommendation
+Low costs and rapidly advancing technology mean there will be increased calls to deploy UAVs for science and science support activities in the Antarctic region. COMNAP considers that there are benefits and risks to the use of UAVs.  A learning period is required in order to understand the particularities of UAV use in the Antarctic Treaty area and so COMNAP has begun to collect information from its member national Antarctic programs on UAS use/planned use.
+
+After review of the risks and benefits within the context of “safety” and “operations and logistics” only, COMNAP is drafting fundamental considerations for UAV use in the Antarctic Treaty areas by national Antarctic programs.  Those considerations will focus on general considerations, preflight, crew, flight, airworthiness, safety and review, incidents, and reporting.
+
+COMNAP recommends:
+
+    • That Parties support their national Antarctic programs to develop guidelines for Unmanned Aerial Vehicle (UAV) use in the Antarctic region which are specific to their operations.
+    • That any national Antarctic program-specific guidelines should be based on fundamental considerations of Unmanned Aerial Vehicle (UAV) use in the Antarctic Treaty area currently being drafted by COMNAP in consultation with other relevant organisations. Such considerations will be shared with COMNAP-member national Antarctic programs and will be refined and developed as necessary within the COMNAP Expert Groups. 
+    • That any national Antarctic program guidelines should take into consideration the specific details of the proposed Unmanned Aerial System (UAS) use, including category of Remotely Piloted Aircraft (RPA) to be utilised, area of operation, other activities being undertaken in the area of operation by the national Antarctic program and by other national Antarctic programs and the purpose of deployment.
+    • That any national Antarctic program guidelines should be developed as an evolutionary process as national and international regulatory frameworks are advanced on the topic, as technologies evolve and as published information, including data on utility and impacts on flora and fauna becomes available.
+    • That national Antarctic programs and other operators in the Antarctic region should make every effort to collect and share data and information on Unmanned Aerial Vehicle (UAV) use in the Antarctic Treaty area and share that data and information openly to expedite the development of evidence-based guidelines, standards and recommendations as necessary. 
+
+
+Attachment 1: Characteristics of Unmanned Aerial Systems and Vehicles
+Unmanned Aerial Systems (UASs) are an emerging technology that can be widely used in various applications,8 ranging from monitoring tasks, to item manipulation, cargo delivery, scientific investigation, photography acquisition and search and rescue (SAR).  UASs are normally composed of a portable control station with a human operator/pilot on the ground, and one or more powered Unmanned Aerial Vehicles (UAVs). UAVs is an all-encompassing term which includes Remotely Piloted Aircraft (RPA) and fully autonomous (therefore not “piloted”) aircraft.  UAVs and RPAs come in a broad range of categories which cover a wide range of size, weight and performance capabilities.  Any guidelines or instruction for UAV or RPA use must be specific to category. 
+
+UAVs can be equipped with various sensors specific to the task at hand or with communications devices or with other payloads. UAVs operate without an on-board pilot, but they are aircraft none-the-less.  UAVs can often perform the same tasks as can be done by manned aerial vehicles, but are often faster, safer to human life, can be operated at lower costs and can be initially purchased at lower costs.9 The continuous improvement in function and performance, and reduction in weight, size and cost of the system means that use of this technology is becoming common into various applications.
+
+UAVs today cannot ‘sense and avoid’ (SAA) autonomously, but such technology is actively being worked on and will improve. SAA refers to the capability of an autonomous vehicle to detect objects, both stationary and mobile, that do not broadcast their position, which are in the vehicles path (or otherwise on a collision course) and, if necessary, alter the vehicles’ course to avoid a collision. In a manned aircraft, a human pilot can react if there is something in his/her view that should be avoided. In a UAS, the pilot is not on-board the aircraft and so cannot provide SAA capability. In addition to proximity to other aircraft (including fixed-wing, helicopters and balloons), UAVs are frequently operated in close proximity to the ground, and therefore, especially in the context of Antarctic use, to fauna and flora, areas of ice, ice free land, ice-covered and open water (including areas of scientific importance, ASPAs and ASMAs) and to the built environment (which includes scientific instrumentation and may include Historic Sites and Monuments (HSMs)). 
+
+
+
+
+UAV Classification (Eisenbeiss, 2004)10
+
+
+

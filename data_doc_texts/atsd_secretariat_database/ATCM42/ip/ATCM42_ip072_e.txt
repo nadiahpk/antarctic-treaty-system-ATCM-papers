@@ -1,0 +1,81 @@
+﻿
+
+
+
+
+
+The U.S. Antarctic Marine Living Resources (AMLR) Program leverages advanced technologies and international collaborations in a changing fiscal landscape
+
+
+
+
+
+
+
+
+
+The U.S. Antarctic Marine Living Resources (AMLR) Program leverages advanced technologies and international collaborations in a changing fiscal landscape
+
+Information paper submitted by the United States
+
+Introduction
+
+The U.S. AMLR Program has conducted integrated ecosystem assessments around the Antarctic Peninsula since 1986. The principal objective of the program is to collect data and conduct analyses that form the basis of scientific advice relevant to management of the Antarctic krill (Euphausia superba, hereafter krill) fishery. In general, we annually attempt to estimate the standing biomass of krill and quantify the reproductive success of krill-dependent predators as a function of krill availability. During 1986 – 2011, we conducted annual surveys from January – March to estimate the biomass and characterize the distribution of krill. During 2012 – 2016, we conducted these surveys in August. Our ship-based surveys ended after 2016. During 1986 – 2014, we staffed two field camps in the South Shetland Islands from October – March to study and monitor the breeding activities of Antarctic fur seals (Arctocephalus gazella) and three species of Pygoscelis penguins. Our seasons at these field camps have now been curtailed to December – March on Livingston Island (the Cape Shirreff field camp) and three weeks each January on King George Island (Copacabana).
+
+Scientists from the U.S. AMLR Program actively contribute scientific data, results, and advice to the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR) and its associated Scientific Committee (SC-CAMLR). We leverage collaborations with several countries to facilitate this effort. For example, we are currently working with colleagues from Argentina and Chile to support development of a new marine protected area (MPA) near the Antarctic Peninsula and South Orkney Islands and with colleagues from Italy and New Zealand to develop and implement a Research and Monitoring Plan for the Ross Sea region MPA. We routinely collaborate with other colleagues from other national Antarctic Programs and academic institutions in Australia, Brazil, Canada, France, Germany, Italy, Japan, Norway, Peru, Poland, Ukraine, and the United Kingdom.
+
+Over the last five years of flat budgets and rising costs, our presence in the field has decreased. We have thus become more dependent on advanced technologies and our partners to maintain our presence in Antarctica. We rely heavily on the use of remote cameras to record breeding chronology and success of fur seals and penguins at our two field camps (Figure 1). We have transitioned away from ship-based krill surveys to surveys using autonomous, underwater gliders, and we are using moorings to measure the flux of krill through our survey area (Figures 2, 3). Without a dedicated research vessel of our own, the scientists from the U.S. AMLR Program, coming primarily from the U.S. National Oceanic and Atmospheric Administration (NOAA), have increased our reliance on our partners from the U.S. National Science Foundation and from Antarctic Institutes in Chile and Poland to facilitate the transfer of personnel and materiel to and from our field camps.
+
+We are happy to collaborate on topics of mutual interest and expertise with scientists from all Parties to the Antarctic Treaty. We bring an extensive and integrated set of ecosystem data, ecological insight, analytical skill, operational expertise, and experience at the science-policy interface to such collaborations. The remainder of this paper summarizes our expertise and the current foci of our work; we provide this summary as a brief prospectus for colleagues who might be interested in new or continuing collaborations.
+
+Predator-prey research by the U.S. AMLR Program
+
+    • Expertise
+        ◦ Observational oceanography
+        ◦ Krill, fish, seabird, pinniped, and cetacean ecology
+        ◦ Acoustic estimation of krill biomass
+        ◦ Animal telemetry and biologging
+        ◦ Still and video image analysis
+        ◦ Population- and ecosystem-dynamics modelling
+        ◦ Unmanned aerial and underwater systems piloting
+        ◦ Logistics and field operations
+        ◦ Provision of scientific advice to policy makers
+
+    • Predator monitoring
+        ◦ We monitor Adélie, chinstrap, and Gentoo penguins plus Antarctic fur seals, Weddell seals, leopard seals, and southern elephant seals at our two field camps (only penguins are monitored at Copacabana).
+        ◦ Our monitoring effort is extensive and includes breeding phenology, energetic investment in breeding, estimates of breeder abundance, offspring production, reproductive success, and foraging effort. We also sample predator diets, both directly via stomach and scat samples and indirectly via biochemistry.
+        ◦ As we have reduced the period of time during which we occupy our camps, we have developed and applied monitoring methods that leverage a network of remote, rugged trail cameras that are programmed to capture images at specific time intervals. We have successfully reconstructed critical events in the reproductive cycles for all three species of penguins using images from the cameras.
+        ◦ We have also adapted our monitoring protocols to be less invasive (e.g., we sample penguin diets without lavage and use unmanned aerial systems to measure the masses of pinnipeds) and cause less disturbance (e.g., we also use unmanned aerial systems to count penguins).
+        ◦ We apply an array of telemetry and biologging methods to estimate where penguins and pinnipeds forage and characterize various details of their foraging efforts (e.g., trip durations and foraging depths). Most recently, we have made substantive investments in use of animal-borne video cameras to characterize the densities of krill swarms that penguins and pinnipeds target.
+        ◦ The monitoring efforts described here primarily aim to quantify how variations in the physical environment, krill availability, and krill harvest rates affect predator performance.
+
+    • Glider-based estimates of krill biomass
+        ◦ We currently have four 1000m G3 Slocum gliders (Teledyne-Webb Research) and two more have been ordered.
+        ◦ Each glider is equipped with a CTD (Sea-Bird Scientific), a dissolved oxygen sensor (AANDERAA), a 3-wavelength fluorometer (WETLabs), and an Acoustic Zooplankton Fish Profiler (AZFP; ASL Environmental Sciences) for collecting oceanographic data and estimating krill biomass.
+        ◦ Each glider contains three lithium primary 4S extended batteries, giving each glider an endurance of approximately six months.
+        ◦ Gliders are remotely-piloted via a web-based interface (Slocum Fleet Mission Control, Teledyne Webb Research) that can be operated from anywhere with reliable access to the Internet.
+        ◦ In March 2019, we successfully completed a mesoscale krill survey in the Bransfield Strait and a small scale survey off Cape Shirreff, on the north side of Livingston Island using two gliders respectively named “AMLR01” and “AMLR02” (Figure 1). AMLR01 was deployed for 85 days, travelled a total of 1,486 km, and performed 714 dives. AMLR02 was deployed for 90 days, travelled a total of 1,277 km, and performed 1,408 dives. Each glider collected approximately 40 GB of data, providing unprecedented resolution for relating variations in krill density of physical and biological oceanographic characteristics.
+        ◦ Preliminary estimates of krill biomass from our glider surveys fall in the range of those from our historic ship-based surveys, and we are confident we can use the gliders 
+
+    • Estimates of krill flux from moorings
+        ◦ We currently have eight moorings, and two more are being ordered.
+        ◦ Each mooring is equipped with one or two CTDs (Sea-Bird Scientific) and a self-contained Acoustic Doppler Current Profiler integrated with wideband echosounder (ADCP/E) (Nortek) for simultaneous measurements of ocean circulation and backscatter from larger animals in the water column.
+        ◦ During the 2018/19 field season we deployed six moorings in an array off the north side of Livingston Island, in an area where penguins and pinnipeds that we monitor at the Cape Shirreff field camp forage (Figure 3).
+        ◦ The moorings were deployed at about 350 m or 15 m off the seafloor (whichever was shallower), with the ADCP/Es “looking” up to obtain quantitative estimates of krill flux over the instrument.
+        ◦ Multiple instruments will allow us to estimate krill flux throughout the survey area.
+        ◦ In March 2019, we successfully retrieved all moorings deployed in December 2018. Each mooring collected approximately 100 GB of data.
+        ◦ Preliminary estimates of krill flux indicate a general pattern of relatively slow (on the order of weeks), south western movement across the survey area.
+
+
+
+Figure 1: Trail cameras deployed in a colongy of Adélie penguins breeding near Copacabana field camp on King George Island.
+
+
+
+
+Figure 2: Tracks of two gliders (AMLR01 and AMLR02) deployed in December 2018 and recovered in March 2019. Red stars indicate initial deployment locations. Yellow dots near the deployment location of AMLR01 represent recovery locations for both gliders. The red oval near Copacabana marks a recent position of an iceberg 20 km wide that remained in the Bransfield Strait throughout the duration of the deployment. Blue triangles represent the recent positions of all icebergs visible in a RADARSAT image. RADARSAT images were available every 2 – 3 days and imported into a GIS, where we overlaid planned glider tracks so that we could steer the gliders clear of the ice. AMLR01 traversed the Bransfield Strait twice, from west to east and back again. AMLR02 conducted two small-scale surveys from west to east off the northern coast of Livingston Island. The glider also spent about six days repetitively diving over moorings 5, 3, and 1 (about two days at each mooring, Figure 3) before completing a series of repeat transects along the continental slope and then making its way into the Bransfield Strait to rendezvous with AMLR01 for recovery.
+
+
+
+Figure 3: Mooring locations off of Cape Shirreff, Livingston Island. Blue triangles represent marked icebergs (see Figure 2 for explanation).
+

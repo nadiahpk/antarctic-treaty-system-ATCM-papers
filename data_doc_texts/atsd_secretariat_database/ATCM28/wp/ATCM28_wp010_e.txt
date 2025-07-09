@@ -1,0 +1,325 @@
+﻿State of the Antarctic Environment Reporting System: Report of the Intersessional Contact Group
+State of the Antarctic Environment Reporting System: Report of the Intersessional Contact Group
+Introduction
+
+Article 12(1)(j) of the Environmental Protocol provides for the Committee for Environmental Protection to advise the ATCM on the state of the Antarctic environment.  Developing means by which this requirement might be achieved has occupied the Committee for some time.
+
+However, progress has been made.  At its 2004 meeting, the Committee endorsed continued effort into developing a web-based system for routinely reporting on key environmental indicators.  The State of the Antarctic Environment Reporting (SAER) website is incorporated into the CEP website and has been operational for the last year and a half.  See http://www.cep.aq/default.asp?casid=5082
+
+The purpose of State of the Environment reporting is to represent as accurately as is practicable, the current condition of the Antarctic environment, and the success or otherwise of any actions that are occurring to minimise identified pressures which are believed to be acting adversely on that condition.
+
+The potential value of the Antarctic State of the Environment reporting system (as perceived) comes from its ability to be routinely updated and to provide a central location for recording change in the status of key indicators over time, given appropriate data collection.
+
+The 2004 meeting of the CEP (CEP VII) also considered a draft Purpose Statement for the SAER work (reproduced at Annex 1).  Whilst not formally adopted this has been used to guide further work on the SAER system.
+
+CEP VII also requested Australia and New Zealand to continue to develop the SAER system and agreed the following terms of reference for an intersessional contact group:
+
+    • Continue to develop the pilot SAER system ahead of CEP VIII, based on the recommendations contained in ATCM XXVII / WP20 and discussions at CEP VII;
+    • Liaise with the Antarctic Treaty Secretariat where relevant and appropriate;
+    • Liaise as appropriate with other intersessional contact groups;
+    • Report on its work to CEP VIII, including a prototype report against the indicators developed at that stage.
+
+Participants in the ICG
+The ICG received support and involvement from the Antarctic Treaty Secretariat as well as from the following Countries, Observers and Invited Experts:  Chile, Italy, Norway, Romania, Sweden, US, SCAR (Group of Experts on Birds) CCAMLR, COMNAP, IAATO.
+
+Outcome to the discussions
+The ICG focussed on two key issues: establishing a framework for indicator categorisation and populating the SAER site with indicators that meet the draft purpose statement.
+
+Establishing a framework for indicator selection.
+The ICG has made some progress towards a matrix for categorising indicators.  This is included at Annex 2.  The matrix uses the standard “Pressure, Condition, Response” model for addressing environmental monitoring and reporting.  The matrix also attempts to categorise selected indicators against key environmental “issues” as a means of assisting indicator selection.
+
+Recognising that this needs further development the ICG concluded that such a matrix approach would be a useful mechanism for categorising indicators and for prioritising indicators against which to report.
+
+Key observations:
+
+The matrix needs to be expanded to ensure that it captures the key issues and indicators that will be useful to the CEP and the ATCM.  However, it is likely that such a matrix will need continuous review to ensure it remains up to date and relevant.
+
+Recommendations:
+The ICG recommends that the CEP:
+    • Considers the attached framework, provides feedback on the matrix approach and tasks an ICG with developing the matrix further.
+
+Populating the SAER site with new indicators
+Two new indicator evaluations were added to the SAER website during the intersessional period.  These deal with respectively: the status of the Antarctic protected areas system, and the status and trends of Adelie penguin populations.
+
+The rationale for selecting these particular indicators was twofold: firstly they represent indicators about which there is sufficient data, and secondly both are pertinent to the CEP’s (and the ATCM’s) current interests.  Protected area management is an ongoing concern of the CEP, and the Adelie penguin evaluation is a useful demonstration of how the SAER system might assist the CEP’s work on specially protected species1.
+
+The ICG is also grateful to SCAR and in particular to Dr John Turner for updating the evaluation for near surface air temperature.
+
+Key observations
+The additional evaluations added to the SAER website during this intersessional period have provided a useful demonstration of the ease with which the reporting template can be used.  However, the value of the system lies in the extent to which the site is populated (and kept up-to-date) with evaluations of relevant indicators.
+
+Recommendations:
+The ICG recommends that the CEP:
+    • Seeks to continue the process of identifying a suite of indicators that contributes to meeting the Committee’s goals for reporting on the state of the Antarctic environment.
+
+Overview of the SAER System
+The SAER system makes use of the standard Pressure Condition Response model for environmental monitoring and reporting.  
+
+The "Pressure, Condition, Response" model is a reasonably standard (though not universally accepted) approach to State of the Environment reporting as a means of deciding which data to collect, analyse and report.  It is a fundamental method of ensuring that analysis of the environment is conducted in a systematic way and that data are collected in such a fashion as to allow a reliable evaluation of the environment and of the way it may be changing as a result of human pressure.
+
+    • Pressure indicators present data for the main human activities that could potentially adversely affect the condition of the environment. For example, in the Antarctic this might be natural habitat loss through the construction of stations and other scientific, logistical or tourism related activities.
+    • Condition indicators present the data that tells us how the environment is at any particular time. A condition indicator for atmospheric quality, for example, could be the extent of the ozone hole over Antarctica and whether this is increasing or decreasing.
+    • Response indicators present data about the main things we are doing to alleviate pressures, or to improve the condition of the environment. For example, the Antarctic environment can be improved through clean-up effort and the removal of abandoned stations and other sites of past activity.
+
+It is worth recalling that the system, as currently designed, does not store data, but instead relies on identified “custodians” to update the evaluation template for selected indicators on a routine basis, utilising data collected and stored elsewhere.
+
+The website has been modified during the intersessional period to assist user needs, but further improvements are proposed.  These include, for example, the modification of the SAER “home page” to ensure it better reflects the Pressure, Condition, Response model, and that it remains consistent with any agreed way forward for categorising indicators (cf Annex 2).
+
+The ICG also discussed the notion of a summary page where the state of the Antarctic environment might be gauged “at a glance”.  Such an approach has been used to good effect elsewhere (using sad, neutral or smiling faces) and the ICG noted in particular the website for Sweden’s Environmental Quality Objectives (see http://miljomal.nu/english/objectives.php#4) and the European Environment Agency state of the environment website http://themes.eea.eu.int/indicators/all_indicators_box Screen downloads of these sites are shown at Annex 3.  The CEP’s views on the usefulness of such an approach would be welcome.
+
+As noted above, a key component of the system is the need to involve those organisations holding relevant data, and the identification of “custodians” able to provide the evaluations on a routine basis.  This is an issue requiring further attention.
+
+Further still, if the SAER system is to be effective, the CEP needs to critique what has been achieved so far and identify a) key indicators against which to seek evaluations and b) options for improving the look and usability of the site.
+
+The CEP may also wish to consider what might be an appropriate “management structure” for the SAER system.  It is suggested that with respect to oversight and ongoing improvement, continuity will be a key facet of the management of the system.  Such an approach may not be best served through the ICG process.
+
+Finally, as required by the terms of reference a trial “state of the environment report” is provided at Annex 4.  The Committee’s comments on the trial report would also be welcome.
+
+Recommendations:
+The ICG recommends that the CEP:
+    • Seeks active participation and support for the SAER system from Observers and Invited Experts as appropriate;
+    • Critically assesses the SAER system as developed to date and makes suggestions as to a) key indicators it wishes to see reported on and b) options for improving the website;
+    • Considers what might be an appropriate management structure within the CEP to ensure continuity in the further evolution of an effective SAER system.
+
+Conclusions and Recommendations
+
+The SAER system so far developed is regarded as a “work in progress” and has been designed to allow for steady evolution over time.  However, it is the view of the ICG that the system has the potential to meet the needs of the CEP in advising the ATCM on the state of the Antarctic environment.
+
+In summary the ICG recommends that the CEP:
+    • Considers the attached framework, provides feedback on the matrix approach and tasks an ICG with developing the matrix further.
+    • Seeks to continue the process of identifying a suite of indicators that contributes to meeting the Committee’s goals for reporting on the state of the Antarctic environment.
+    • Seeks active participation and support for the SAER system from Observers and Invited Experts as appropriate;
+    • Critically assesses the SAER system as developed to date and makes suggestions as to a) key indicators it wishes to see reported on and b) options for improving the website.
+    • Considers what might be an appropriate management structure within the CEP to ensure continuity in the further evolution of an effective SAER system. 
+
+It is further recommended that:
+
+    • (at least in the first instance) an ICG be established to continue to develop the SAER system ahead of CEP IX, based on the recommendations above and discussions at CEP VIII;
+    • the ICG provides a further annual report under the SAER system to CEP IX.
+Annex 1
+State of the Antarctic Environment Reporting System
+
+Draft Purpose Statement
+
+In order to meet the requirements of Articles 3(e) and 12(1)(j) of the Environmental Protocol, the CEP State of the Antarctic Environment Reporting (SAER) system will provide a mechanism for collecting carefully selected indicator data on:
+
+    • the environment, and
+    • human activities that could impact on the Antarctic environment 
+
+to enable the CEP to advise the ATCM on the effectiveness of the implementation of the Environmental Protocol to the Antarctic Treaty, and to advise on the state of the Antarctic environment.
+
+Goals:
+
+    • To establish an efficient, web-based SAER system that is relevant to and easily accessible by all national Antarctic programmes and Parties to the Environmental Protocol.
+    • To identify, record and report on carefully selected indicators that will assist in the detection of anthropogenic impacts on the marine, aquatic, terrestrial and atmospheric environments, and associated biota within the Antarctic Treaty area.
+    • To provide a framework for environmental monitoring in the Antarctic.
+    • To provide effective links between the SAER system and relevant environmental information provided under the Protocol’s information exchange requirements.
+    • To link the SAER system to other national and international information sources relevant to state of the Antarctic environment reporting.
+    • To report to the CEP at appropriate intervals on: trends and implications of the indicators and the effectiveness of the SAER system.
+Annex 2.
+
+Framework for Categorising Indicators
+
+
+
+Environmental Issue
+
+
+Pressure
+
+Condition
+
+Response
+
+Ozone depletion / increased UV-radiation
+
+No internal pressure? With time consider indicators for external pressures?
+
+Ozone level / concentrations
+Comment: Could also be an indicator on UV-radiation if available. One of our concerns should be the increased UV-radiation in the environment as a cause of ozone depletion. 
+
+
+No internal response possible?
+
+Climate change
+
+
+
+
+Surface Air Temperature
+Comment: Currently in the SAER system.
+
+Sea-ice extent
+Comment: Sea-ice extent is a good indicator (based on long time series) of climate change, and seems reasonable to include if data is readily available.
+
+
+
+
+Habitat loss / alienation
+
+
+Number / location of personnel
+Comment: Person-days is likely more descriptive of pressure than number of persons. 
+
+Number / location of stations / landing sites
+Comment: Could be easy to collect (even as time series over many years) An indirect indicator of research program and tourism activity.  IAATO collects information on landing sites used each year.
+
+Station footprint
+Comment: Perhaps less easy to collect, but area impacted by station activities (permanent and / or seasonal) might be another way of looking at “wilderness encroachment”.
+
+
+Status of protected area system
+Comment: If assessed with regard to the categories set out in Article 3 of Annex V, then this response indicator could possibly be spread over several environmental issues, eg. biodiversity (status of ASPA with biological purpose), wilderness, etc.  NB: New Zealand is looking at developing this indicator for inclusion on the SAER site ahead of the next CEP meeting.
+
+Could also consider eg. “extent of area not affected by human activity”
+
+
+
+Biodiversity
+
+
+Number of permits issued for taking / harmful interference for selected species
+Comment: Should be available through annual reporting to the CEP/ATS. Permits issued for taking / harmful interference with SPS would indicate response trend.
+
+Status and trends of invasive species
+Comment: See Frenot et al: Biological invasions in the Antarctic: extent, impacts and implications. Biological Reviews. 80. 45-72. We will consider whether this might deliver a further evaluation ahead of CEP VIII.
+
+
+Status and trends of Antarctic seabirds
+Comment: Currently in progress to include on the SAER website with support from SCAR’s Group of Experts on Birds.
+
+Status and trends of Antarctic seals.
+
+Status and trends of other Antarctic species.
+
+
+
+Pollution
+
+
+Fuel stored
+Comment: Indirect indicator of potential spills.
+
+Fuel use
+Comment: Fuel consumption might also be a useful indirect indicator of climate change (greenhouse gases). 
+
+
+Fuel spills
+Comment: Data currently collected by COMNAP.
+
+Amount of alternative energy produced
+Comment: Would provide an indication on how operators respond to the challenge of fuel consumption.  Potentially readily available? 
+
+Clean up activities
+Comment: Annex III requires Parties to maintain an inventory of sites of past activity.  The extent of success of cleaning up these sites might be a useful response indicator.
+
+Other environmental issues….
+
+
+
+
+
+Annex 3
+Examples of “at a glance” summaries of the status of key indicators using faces (ringed)
+
+
+http://miljomal.nu/english/obj5.php
+
+
+http://themes.eea.eu.int/indicators/all_indicators_box
+Annex 4
+
+State of the Antarctic Environment
+
+Trial Report - April 2005
+
+Introduction:
+
+Evaluations for three key indicators are now available on the SAER website.  Summary information about these indicators and what they tell us about the continent and our management of it, are included below:
+
+The State of the Antarctic Atmosphere:
+
+Indicator: Near surface air temperature.
+
+Responsible organisation: SCAR.
+Custodian: Dr John Turner (British Antarctic Survey)
+
+Indicator type: “Condition” indicator.
+Satisfies 10 out of the 15 indicator criteria.
+
+Rationale for indicator selection:  The vast majority of staffed stations in Antarctica have had or continue to have a surface meteorological observing programme in place including near surface air temperature.
+
+Evaluation: 
+
+A. What do the data tell us about the state of the environment or human impacts in the environment? 
+B. Are there trends in the data? If so, what do they represent? 
+
+The following is taken from: Turner, J et al, ANTARCTIC CLIMATE CHANGE DURING THE LAST 50 YEARS Int. J. Climatol. 25: 279–294 (2005), which has been used as the basis for this evaluation.
+
+The Reference Antarctic Data for Environmental Research (READER) project data set of monthly mean Antarctic near-surface temperature has been used to investigate trends in these quantities over the last 50 years for 19 stations with long records.  Eleven of these had warming trends and seven had cooling trends in their annual data (one station had too little data to allow an annual trend to be computed), indicating the spatial complexity of change that has occurred across the Antarctic in recent decades.  The Antarctic Peninsula has experienced a major warming over the last 50 years, with temperatures at Faraday / Vernadsky station having increased at a rate of 0.56 °C / decade over the year and 1.09 °C / decade during the winter; both figures are statistically significant at less than the 5% level.  Overlapping 30 year trends of annual mean temperatures indicate that, at all but two of the 10 coastal stations for which trends could be computed back to 1961, the warming trend was greater (or the cooling trend less) during the 1961–90 period compared with 1971–2000.
+
+The State of Antarctica’s biodiversity:
+
+Indicator:  Status and trends of Adelie penguin populations at selected sites.
+
+Responsible organisation:  SCAR
+Custodian: Dr Eric Woehler (Convener SCAR Group of Experts on Birds)
+
+Indicator type: “Condition” indicator
+
+Evaluation:
+
+A. What do the data tell us about the state of the environment or human impacts in the environment?  
+
+Adélie penguins are the most widely distributed penguin in the Antarctic, with a circum-polar distribution around the coastline of the Antarctic, the Antarctic Peninsula and some peri-Antarctic islands.  Adélie penguins are long-lived birds for which long-term data (40 year +) are available from 4 sites (Palmer, Dumont d'Urville, Ross Island and Casey).  Monitoring occurs annually at these and a number of other sites for which shorter-term data are available.  Syntheses and assessments of these data provide information on annual breeding success, population trends and the roles of environmental factors (such as food availability, temperature and sea ice extent etc).  These analyses may also allow separating any contributions of human activities and disturbance on penguin populations from natural influences.
+
+B. Are there trends in the data? If so, what do they represent? 
+
+Differing trends are evident in the long-term data available.  Preliminary investigations of Antarctic Peninsula populations suggest physical environmental factors (decreased sea ice extent and persistence, increased air temperatures and increased snow deposition) are primarily responsible for the decreases observed at one island where tourism also occurs.  The contribution of tourism, if any, is presently unknown.   An earlier study implicated human disturbance associated with visitation to colonies at Shirley Island near Casey (East Antarctica).  The breeding population on Shirley Island has not increased since the late 1960s while the remaining populations within the Casey region have increased by approximately 300%.  The cause for this increase is unknown.  The Ross I populations   have fluctuated and are presently being adversely influenced by large icebergs in the southern Ross Sea. 
+  
+C. Are there any anomalies or problems in the data? If so, please explain.
+
+Data analyses are constrained by data availability - typically these census and survey data are related to the proximity of study populations to research stations.  Adélie penguins are the best-studied seabird in the Antarctic with respect to distribution, abundance and trends, and provide the clearest signal for any seabird species on long-term trends.
+
+D. Are there management actions that can be suggested to improve the state of the environment with respect to this indicator?
+
+Management of human activities in the Antarctic will require greater knowledge and a fuller understanding of the relationship between Adélie penguins and the various physical and anthropogenic factors influencing them.  Different physical factors are operating around the Antarctic enabling investigators to examine their relative contributions to population trends etc.
+
+E. Are there any gaps in knowledge or research issues that can be identified with regards to this indicator?
+
+Greater spatial coverage of annual monitoring would provide more data to incorporate into syntheses and analyses.  Long-term data are critical to assessing trends observed in this long-lived species.
+
+
+The State of natural and cultural heritage in Antarctica:
+
+Indicator:  Status of the Antarctic protected areas system
+
+Responsible organisation:  CEP
+Custodian: CEP Chair
+
+Indicator type: “Condition” indicator
+Satisfies 12 of the 15 indicator selection criteria.
+
+Evaluation:
+
+A. What do the data tell us about the state of the environment or human impacts in the environment? 
+
+Some Antarctic protected areas do not have management plans in the required Annex V format. Some management plans are over due a review (they have not been reviewed for > 5 years). There is potential for the state of the protected environmental values to decline. 
+
+B. Are there trends in the data? If so, what do they represent? 
+
+There are two geographical clusters of protected areas accounting for 77% of all protected areas. Protected areas in Antarctica are exclusively located on or near the coast. There are no protected areas inland and none in Marie Byrd Land.
+
+C. Are there any anomalies or problems in the data? If so, please explain. 
+
+No publicly available up-to-date database of management plans exists and although the plans used here represent a concerted effort to obtain the most up-to-date material there is potential for more recent plans to have been overlooked.
+
+D. Are there management actions that can be suggested to improve the state of the environment with respect to this indicator? 
+
+All management plans should be in Annex V format. A timetable for reviewing all plans should be agreed. Management plans should be clearer about the primary reason for designating sites. The protected areas information archive should be completed and regularly updated.
+
+E. Are there any gaps in knowledge or research issues that can be identified with regards to this indicator? 
+
+Consideration should be given to actively seeking sites for under-represented areas and values. Re-assess Moe Island (ASPA 109) as the management plan model - as it has not been reviewed since it was adopted as the model in 1995.
+
+

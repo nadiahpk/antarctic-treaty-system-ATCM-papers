@@ -1,0 +1,231 @@
+Considerations for conducting and reporting on remotely piloted
+aircraft system (RPAS) surveys of penguin colonies
+Considerations for conducting and reporting on remotely piloted
+aircraft system (RPAS) surveys of penguin colonies
+Information Paper submitted by the United Kingdom and the United
+States
+Summary
+The use of remotely piloted aircraft systems (RPAS) to study
+penguin colonies is becoming increasingly common. To ensure the
+transition from traditional on-ground survey methods does not
+compromise the continuity of existing datasets, it is necessary to re-
+evaluate the procedures for using RPAS to ensure they are fit for
+purpose. This paper describes some of the factors that require
+consideration, and describes potential future opportunities to
+expand on available guidelines for conducting and reporting on
+RPAS surveys, including flying protocols, standards for the imagery
+collected, methods for image interpretation, and environmental
+considerations.
+Background
+The CCAMLR Ecosystem Monitoring Program (CEMP; Agnew 1997)
+describes internationally accepted methods to collect standardised
+data on breeding population size and breeding success of several
+penguin species (CCAMLR 2014). These methods have been used
+since the 1980s, and largely involve on-ground methods to assess
+the number of nests, eggs and chicks within colonies. The
+standardised nature of these approaches means that trends can be
+monitored and compared across distinct sites, and any changes to
+populations detected.
+In recent years, the use of RPAS to survey penguin nesting success
+has become more common. RPAS offer a quick and reliable method
+of surveying penguin colonies, and have a range of potential
+benefits, including reducing disturbance, facilitating surveys in
+areas that are difficult to access, and capturing images of colonies
+that provide a range of additional information (Dunn et al. 2021).
+Now that Highly Pathogenic Avian Influenza (HPAI) has reached
+the Antarctic Peninsula, it is increasingly critical to maintain long-
+term records into the future to understand the impacts of major
+infections. RPAS offer a method to do so, as HPAI may reduce
+opportunities for ground counts.
+Guidelines exist to assist with conducting Environmental Impact
+Assessments for decision-making in relation to RPAS (Resolution 4
+2018; COMNAP 2023), and there is some guidance focusing on
+survey protocol (Mustafa et al. 2018). Additionally, IAATO has
+policies that limit the use of RPAS to certain locations and purposes
+(IAATO 2016). However, as yet there is limited guidance available
+on the procedures for interpreting and reporting on data collected
+using RPAS.
+To ensure that the data collected during RPAS surveys are
+comparable to data collected by traditional on-ground methods, and
+can accurately be used to make management recommendations, it is
+essential to develop standardised approaches for all aspects of
+surveying using RPAS. That requires outlining standards for flying
+protocols, as well as the imagery collected, methods for interpreting
+the images, and reporting findings. Further, the reports of survey
+activities necessarily require appropriate meta-data.
+Additionally, to accurately document population trends over longer
+timeframes and interpret possible causes of change, there are
+additional factors to consider beyond survey methodology. These
+include environmental factors that can result in changes in nest
+numbers across several temporal scales. For example, climate
+change is likely to result in long-term changes to the
+timing of penguin nesting cycles (known as breeding phenology;
+Lynch et al. 2012), whilst one-off weather events can result in nest
+abandonment. The CEMP methodology involves repeat surveys to
+ensure that peak nesting population size is captured. In contrast,
+RPAS surveys are often conducted opportunistically, making the
+opportunity to capture peak nesting less likely. Such factors further
+complicate assessments, making between-year and methodological
+comparisons of nesting success challenging.
+Recent developments
+Oceanites has begun investigating the differences between on-
+ground and RPAS survey methodologies. During the 2023/24
+Antarctic season, Oceanites conducted 105 site visits across 54 sites
+on the Peninsula. Some sites were surveyed on-ground and using a
+RPAS during the same visit, offering the opportunity to compare
+results obtained from both methods, and from repeat counts of the
+same RPAS imagery by different individuals. The extent of
+similarity between counts varied by site (Table 1).
+Table 1. Differences in counts of gentoo nests between two
+individuals counting from the same RPAS imagery and an on-
+ground count conducted during the same visit at three sites
+Site
+Survey date
+RPAS count surveyor #1
+RPAS count surveyor #2
+On-ground count
+Damoy Point
+24/01/2024
+1687
+1660
+1625
+Dorian Beacon
+24/01/2024
+179
+180
+188
+Danco Island
+03/02/2024
+2488
+2475
+2136
+Oceanites do not apply the CEMP method to on-ground surveying as
+surveys are conducted opportunistically via expedition ships, so it is
+also helpful to examine sites where RPAS surveys and on-ground
+CEMP methods are applied. A small number of sites are vital for
+this purpose. For example, Goudier Island, which has a population
+of gentoo penguins that have been surveyed by the UK Antarctic
+Heritage Trust (UKAHT) and the British Antarctic Survey (BAS)
+using CEMP methods since 1996/97 (Cobley & Shears 1999;
+Trathan et al. 2008; Dunn et al. 2019). There have also been RPAS
+surveys in several recent seasons, with results again showing
+variable levels of agreement between methods (Table 2; Flynn et al.
+2023).
+Table 2. Results of RPAS and on-ground nesting surveys at Goudier
+Island since the 2018/19 season. On-ground surveys were by
+UKAHT/BAS and are available at https://
+portlockroy.data.bas.ac.uk/. RPAS surveys were by a team of
+researchers from Stony Brook, Cornell and Oxford Brookes
+Universities and are available in Flynn et al. (2023), except the
+2023/24 survey which was by Oceanites
+Season
+RPAS nest count
+On-ground nest count
+2018/19
+508*
+523
+2019/20
+N/A
+499
+2020/21
+666
+N/A
+2021/22
+978
+424
+2022/23
+N/A
+552
+2023/24
+586
+600
+*An additional RPAS survey during the 2018/19 season recorded
+535 nests
+Data from on-ground CEMP surveys suggests that the timing of
+breeding at Goudier Island (and elsewhere) is becoming delayed
+(Dunn et al. 2020). This highlights the importance of
+considering changes to breeding phenology when assessing changes
+in nesting numbers, particularly counts derived from opportunistic
+RPAS surveys, and when comparing results obtained by on-ground
+and RPAS survey methods.
+Future opportunities
+The transition from on-ground to RPAS counts in the face of HPAI,
+and in the context of climate change and observed phenological
+changes, highlights the need for standardisation of RPAS survey
+methods, if data are to be useful for management purposes. The
+authors have therefore identified opportunities to build on the
+existing guidelines for operating RPAS in Antarctica outlined in
+Resolution 4 (2018) and supporting literature (e.g., Mustafa et al.
+2018). So far, guidelines have largely focused on reducing
+environmental impacts and survey protocol, so there is now the
+opportunity for a collaborative approach to provide additional
+guidelines on the following suggested topics:
+Survey protocols:
+Height above ground-level (considering enhanced restrictions due
+to HPAI)
+Safe environmental conditions
+Launching on land and from watercraft
+Imagery collected:
+Image resolution (e.g., minimum requirements and reporting of
+resolution)
+Environmental conditions during survey (e.g., precipitation,
+windspeed)
+Image interpretation:
+Classifying nesting vs. non-nesting penguins
+Number of individuals involved in image interpretation
+Number of repeat counts for image interpretation
+Reporting results:
+Potential influence of survey timing and breeding phenology on the
+outcome
+Conclusions
+Having additional guidelines on RPAS survey protocols, image
+quality, image interpretation and reporting requirements would
+help to standardise penguin nesting data collected during RPAS
+surveys. Such guidelines would help to ensure that any transition
+from on-ground to RPAS surveys would not jeopardise existing
+datasets, and ensure data are interpreted consistently and correctly,
+which is essential when making management recommendations.
+References
+Agnew DJ. 1997. Review: The CCAMLR Ecosystem Monitoring
+Programme. Antarctic Science 9:235–242.
+Antarctic Treaty Committee. 2018. Environmental Guidelines for
+operation of Remotely Piloted Aircraft Systems (RPAS) in Antarctica
+(v 1.1).
+CCAMLR. 2014. Ecosystem Monitoring Program Standard Methods
+2014:233.
+Cobley ND, Shears JR. 1999. Breeding performance of gentoo
+penguins (Pygoscelis papua) at a colony exposed to high levels of
+human disturbance. Polar Biology 21:355–360.
+COMNAP. 2023. COMNAP Antarctic Remotely Piloted Aircraft
+Systems (RPAS) Operator’s Handbook Version 8.
+Dunn M, Nichol C, Forcada J, trathan P. 2020. Population numbers
+and breeding success of Gentoo penguins (Pygoscelis papua) at Port
+Lockroy, Goudier Island, 1996 - 2020 (Version 1.0) [Data set].
+Dunn MJ, Adlard S, Taylor AP, Wood AG, Trathan PN, Ratcliffe N.
+2021. Un-crewed aerial vehicle population survey of three
+sympatrically breeding seabird species at Signy Island, South
+Orkney Islands. Polar Biology 44:717–727.
+Dunn MJ, Forcada J, Jackson JA, Waluda CM, Nichol C, Trathan
+PN. 2019. A long-term study of gentoo penguin (Pygoscelis papua)
+population trends at a major Antarctic tourist site, Goudier Island,
+Port Lockroy. Biodiversity and Conservation 28:37–53.
+Flynn CM, Hart T, Clucas G V., Lynch HJ. 2023. Penguins in the
+anthropause: COVID-19 closures drive gentoo penguin movement
+among breeding colonies. Biological Conservation 286:110318.
+IAATO. 2016. IAATO Policies on the Use of Unmanned Aerial
+Vehicles (UAVs) in Antarctica: Update for the 2016/17 Season.
+Lynch H, Fagan W, Naveen R, Trivelpiece S, Trivelpiece W. 2012.
+Differential advancement of breeding phenology in response to
+climate may alter staggered breeding among sympatric pygoscelid
+penguins. Marine Ecology Progress Series 454:135–145.
+Mustafa O, Barbosa A, Krause DJ, Peter HU, Vieira G, Rümmler MC.
+2018. State of knowledge: Antarctic wildlife response to unmanned
+aerial systems. Polar Biology 41:2387–2398. Springer Berlin
+Heidelberg.
+Oceanites. 2023. About Oceanites. Available from https://
+www.oceanites.org/ (accessed February 21, 2024).
+Trathan PN, Forcada J, Atkinson R, Downie RH, Shears JR. 2008.
+Population assessments of gentoo penguins (Pygoscelis papua)
+breeding at an important Antarctic tourist site, Goudier Island, Port
+Lockroy, Palmer Archipelago, Antarctica. Biological Conservation
+141:3019–3028.

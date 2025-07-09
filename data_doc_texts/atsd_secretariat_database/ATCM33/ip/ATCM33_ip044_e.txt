@@ -1,0 +1,784 @@
+﻿
+
+
+
+
+
+Suggested framework and considerations for scientists attempting to determine the colonisation status of newly discovered terrestrial or freshwater species within the Antarctic Treaty Area
+
+
+
+
+
+Suggested framework and considerations for scientists attempting to determine the colonisation status of newly discovered terrestrial or freshwater species within the Antarctic Treaty Area
+CEP Information Paper submitted by the United Kingdom
+
+Introduction
+The Antarctic Treaty area has fewer than ten known non-native species (Convey, 2008) compared with c. 200 in the sub-Antarctic islands (Frenot et al., 2005).  Recently, the attention of Antarctic environmental managers has turned to non-native species issues: in 2007, the Antarctic Treaty Consultative Meeting (ATCM) Committee for Environmental Protection (CEP) made the prevention of non-native species introductions to Antarctica one of the highest priorities for consideration over the following five years (ATCM XXX/CEP X WP15).  
+Several scientific projects have been initiated in an effort to inform policy makers and improve non-native species management within the Treaty area (ATCM XXXII/CEP XII SP 11; ATCM XXXII/CEP XII WP 23) including the International Polar Year ‘Aliens in Antarctica’ project (ATCM XXXII/CEP XII IP10 rev.1) and some draft biosecurity guidelines have been developed (ATCM XXXII/CEP XII WP32; Hughes et al., 2009).  The Non-Native Species Intersessional Contact Group set up by the CEP in 2009 identified several issues for further work (ATCM XXXII/CEP XII WP 05).  One issue, for which there is little Antarctic-specific information, is how to assess whether a newly discovered species is native or non-native/alien or the factors to consider in making such a decision.  
+When a species new to Antarctica is discovered, it is important to understand its likely colonisation history as this may determine its status under the Antarctic Treaty and related Agreements and therefore how it should be managed in the future (i.e. eradication/control vs. conservation/protection).  Guidelines on how available evidence should be used to differentiate between previously undiscovered long-term native species, recent natural introductions and human-mediated introductions are not readily available.  Within the sub-Antarctic context, the draft updated Environmental Management Plan for the Prince Edward Islands recommended that guidelines be drawn up to differentiate between natural and human-mediated introductions to the islands (Davies et al., 2007).  The New Zealand Department of Conservation used its Conservation Management Strategy planning process to determined the colonisation history of the tree daisy species Olearia lyalli on the Auckland Islands (Department of Conservation, 1998; Roberts, 2007) which involved information gathering and consultation with experts, but no specific guidelines were in place (P. McClelland, pers. comm., 2010).
+This paper highlights some of the key considerations and proposes a decision framework for scientists attempting to determine the colonisation status of newly discovered terrestrial or freshwater species within the Antarctic Treaty Area.  Most Antarctic species will fall into one of the categories described in Table 1, although the evidence may not always exist to allocate any specific species to a category.  For Antarctic scientists faced with the task of identifying the likely colonisation status of the newly found species, the available evidence may be weighed up and the category assigned as described in Figure 1.  
+
+Legal framework
+Under Annex II  Conservation of Antarctic Fauna and Flora of the Protocol on Environmental Protection to the Antarctic Treaty, the introduction of all living organisms not native to the Antarctic Treaty area is prohibited [Annex II, Article 4(1)].  If a non-native species is introduced to the Antarctic Treaty area without a permit it should be removed ‘unless the removal or disposal would result in greater environmental impact’.  In addition, ‘all reasonable steps shall be taken to control the consequences of that introduction to avoid harm to native flora and fauna’ [Annex II Article 4(5)].  However, the Protocol says little about unintentional introductions, and nothing about distinguishing natural from anthropogenically-assisted introductions (for a wider review see Hughes and Convey, 2009).  Making the decision on whether the removal of a non-native species would result in greater environmental impact than leaving it in place is not discussed in this document.  
+
+Mechanisms of species introduction
+Vectors for natural and human introductions to Antarctica are shown in Tables 2 and 3, respectively.  Migratory birds are one of the key natural dispersal mechanisms for plant propagules from outside Antarctica.  Seeds may be carried on birds’ feathers or feet, but propagule viability is likely to be reduced due to osmotic stress and microbial degradation if the birds touch down at sea.  Storms may increase rate of bird transportation to Antarctica, and reduce the likelihood of the birds touching down at sea, thereby increasing the probability of propagules remaining viable upon reaching Antarctica (Taylor 1955, Selmi and Boulinier, 2001).  Those resident bird species that typically spend time on land at both ends of their journeys (e.g. skuas, gulls, sheathbills) are more likely to be viable carriers than those that spent the majority of their time in the Antarctic at sea (e.g. petrels, albatrosses, penguins). However, one should also note the estimates of large numbers of vagrant birds reaching parts of the Antarctic region, particularly the sub-Antarctic islands and Scotia arc (Burger et al., 1980).  While these individually are highly likely to die, they may also be an unquantified but significant vector. Wind may also transport biological material into Antarctica, but will favour smaller propagules such as microorganisms, spores and small seeds (Marshall 1996).
+The recent expansion of both the Antarctic tourism industry and the activities of the increasing number of national Antarctic programmes means the opportunity for anthropogenic transportation of non-native species to Antarctica is likely to have increased in recent years.  Some sites have high levels of visitation, with around eight tourist locations on the Antarctic Peninsula receiving more than 10,000 visitors per year (Lynch et al., 2010).  Other locations contain research stations run by Antarctic Treaty nations, many of which have been in operation for several decades and may have several hundred (or more) personnel passing through them each year (COMNAP, 2010). The clothing and personal belongings of these visitors, combined with the transport vessels, cargo and material required to support their visit, may act as vectors for the transportation of non-native species to Antarctica (Frenot et al., 2005, Whinam et al., 2005; Lee and Chown, 2009, Hughes et al., 2009).  In particular, all newly discovered terrestrial mammal species (e.g. rats and mice) are almost certainly human introductions (probably associated with ships and cargo) as available natural colonisation routes are unlikely to be appropriate for this biological group.  If found they should be eradicated immediately.  
+
+Native or non-native?
+Information that will help in determining the likely colonisation history of a newly discovered species in Antarctica may come from several sources. Webb (1985) listed eight types of evidence, although some may be more useful than others in an Antarctic context (see below). These criteria may help us determine whether a species has existed in Antarctica for a long period of time (native species; category 1, Table 1) or if it has only recently arrived in the region (category 4) and whether it is a natural or human introduction (category 4a, b) (Usher, 2000):
+Fossil evidence.  Although difficult to obtain in Antarctica, fossil evidence may be derived from remains in moss banks or from within lake sediments.  The presence of fossil evidence may show conclusively that a species is a long-term native species (Hodgson et al., 2005; Gibson & Bayly, 2007).
+Historical evidence.  Examination of previous Antarctic biodiversity surveys performed over the last century may reveal that the species is already known, or that it has already been described, but misidentified.  Biodiversity surveys from the sub-Antarctic islands and neighbouring landmasses may provide information on possible source populations.
+Habitat. Recently introduced species, and in particular plants, can sometimes be restricted initially to man-made habitats such as disturbed ground.
+Geographical distribution. Assuming that a newly discovered species is native to areas outside Antarctica, the location of the new discovery relative to the boundary of its previously known distribution range may indicate the likelihood that the species is a natural as opposed to a human introduction.  In particular, it may be almost certain that species of a Northern Hemisphere or boreal-cosmopolitan origin were introduced to the region by humans, though their further spread may be by natural means. 
+Frequency of known naturalisation. Species which are increasing their distribution range rapidly may suggest a recent introduction, while a slow spread might point to a long-term colonist, although this generalisation is further complicated by the tendency for newly introduced species to exist in a ‘persistent’ state for years, if not decades, before becoming invasive.  This observation may be difficult to apply to Antarctica due other factors affecting species distribution e.g. climate change, emergence of new ice free areas for colonisation and the lack of competition for existing habitat relative to ecosystems in other part of the world. Added to this, expansion rates may be comparatively slow in Antarctica, and it is likely that managers would want to take some action without waiting potentially several decades for this information to become available.
+Genetic diversity. Studies of genetic relatedness to existing populations outside Antarctica may be one of the only ways to determine how long an Antarctic species has been established (e.g. Allegrucci et al., 2006). However, when a rapid management response has to be implemented following the discovery of new species, there will almost certainly be insufficient time, manpower, resources or funding available to perform genetic studies.  Greater genetic diversity within a population may suggest that a species is more likely to be a long-established native species.
+Reproductive pattern.  Generally, native plant species are capable of reproducing at least in part by the production of seeds rather than purely by vegetative reproduction, while some alien plants may rely on vegetative reproduction. Similarly there is a tendency for some invertebrates introduced to extreme environments to reproduce parthogenetically (i.e. with only females present), an example being the chironomid midge Eretmoptera murphyi introduced to Signy Island, South Orkney Islands (Convey, 1992).  Nevertheless, reproductive pattern may be a rather unreliable line of evidence to distinguish native from non-native species in Antarctica, compared with other areas of the Earth, as the extreme climatic conditions may result in many exceptions to the general observations mentioned above.  
+Possible means of introduction. If a newly discovered species has no obvious means of introduction by human means, then circumstances may be point towards it being a recent natural introduction or long-term resident (see Tables 2 and 3).
+
+Suggested questions to help clarify the colonisation status a newly discovered species 
+A newly discovered species could be found under a diverse range of circumstances and belong to one of a wide variety of biological groups.  Due to the subtlety of interpretation of available information, it was considered impossible to produce a simple but comprehensive decision tree or key that could be used to determine the likely colonisation history of a newly found species that has not been reported previously from a given location (cf. Greenslade, 2002).  Nevertheless general guidelines are included within ATCM XXXIII/CEP XIII WP XX Guidance for visitors and environmental managers following the discovery of a suspected non-native species in the terrestrial and freshwater Antarctic environment: Attachment B: General guidelines for environmental managers upon finding a suspected terrestrial or freshwater non-native species within the Antarctic Treaty Area.  
+Table 4 gives examples of questions that may provide evidence of one colonisation history over another following discovery of a species new to Antarctica as a whole.  Some of the questions may also be useful in evaluating the likelihood of a known native Antarctic species having been subject to intra-regional translocation by natural or human-mediated means.  Some of the questions will require input from specialists.  It is imperative that this information is sought as it may influence greatly the conclusions and the ultimate management response.  
+In many cases there will be inadequate information available to provide a definitive answer on a new species’ colonisation history, but this should not preclude an informed assessment of its likely origin.  Table 5 is a blank summary sheet which may assist in assessing the evidence supporting the long-term native, recent natural colonist or non-native status of a discovered species.
+
+Precedent: eradication of recently introduced species
+Clout & De Poorter (2008) suggested that following prevention of introductions is the ideal, but the second line of defence is the early detection of an introduced invasive non-native species, allowing for a rapid response (e.g. eradication before numbers have become too great, or the area of spread too vast).  As it is difficult to predict the level of invasiveness of a newly introduced non-native species, the ‘precautionary principle’ should be applied where any non-native species must be considered ‘guilty until proven innocent’,  i.e. a confirmed introduced species should be assumed to be highly invasive and eradicated as soon as possible.  However in assessing the likely success and benefits relative to the environmental damage of an eradication attempt, it would be helpful to consider information on the species distribution and current and likely future ecosystem impacts.
+Only a few Antarctic examples of responses to potential non-native introductions exist, although the eradication of a single grass plant (possibly Poa trivialis) close to Syowa Station (ATCM XX IP66; S. Imura, pers comm., 2007), several plant species near Progress II station (ATCM XXIII/CEP II IP 79) and grasses, other graminoids and Cerastium sp. at Great Wall Station (H.-U. Peter, pers. comm., 2006) and Nassauvia magellanica from Whalers Bay, Deception Island (K. A. Hughes, pers. comm., 2010) are all thought to have been successful (Table 6).  In the cases of the plants found near Great Wall and Syowa stations, the eradications were performed after a delay of several years following discovery, and were undertaken by scientists concerned about the consequences of non-native species introductions, rather than environmental managers, and were not stimulated by explicit management decisions.  In each case little formal reporting on the long-term success of the eradications is available.
+Attempts have been made to eradicate non-native invertebrates living syn-anthropically in Antarctic research stations.  In each case there was little doubt that the eradicated species was introduced through human activities.  Eradications of non-native flies (Lycoriella spp.) were attempted at Rothera Research Station (Hughes et al., 2005) and Casey Station (Smith, 2005); however, the fly later re-colonised the sewage treatment plant and other buildings at Casey Station (D. Bergstrom, pers. comm., 2007).  Non-native mites, springtails and enchytraeid worms have also been found in hydroponic systems at Australian Antarctic Division stations (Greenslade, 1987), and more recent invertebrate infestations have occurred at McMurdo Station (US) and Scott Base (NZ) [Entomobrya marginata (Tullberg) P. Greenslade, unpubl. data].  As a general response, upon the discovery of an introduced species, the hydroponics facility is closed down immediately and all plants and growing media are destroyed (incinerated) before operations resumed (AAD, 2010).  It should be noted that such facilities are considered a major source of successful establishment events on several sub-Antarctic islands (Frenot et al. 2005).
+Within the sub-Antarctic islands, non-native species eradication efforts have focused on removal of widespread and established invasive mammal populations (rats, mice, rabbits, cats etc.; see Convey and Lebouvier, 2009).  Some records exist of eradication/control programmes for other taxa, but few report a successful outcome once the species is established (see Table 6).  
+Several Antarctic non-native species may be candidates for eradication including the two introduced invertebrates at Signy Research Station (the chironomid midge, Eretmoptera murphyi, and enchytraeid worm, Christensenidrilus blocki; Hughes & Worland, 2010) and the grasses Poa annua and Poa pratensis at Arctowski Stations (Olech, 1996) and Cierva Point (Smith, 1996), respectively.  In each of the previous examples, there is little doubt that they were human-mediated introductions.  Before an informed decision can be made on the likely success and benefits relative to the environmental damage of an eradication attempt, more information on the species distribution and current and likely future ecosystem impacts would be needed.
+
+Precedent: conservation of recently discovered species
+Several examples exist of newly discovered species within the sub-Antarctic islands being classified as natural introductions through either bird or wind transport (see Table 7).  According to the literature listed in Table 7, most species were considered natural introductions primarily because (1) natural transportation mechanisms exist that conceivably could have taken the propagules in a viable condition to the new location, (2) the colonised sites were considered sufficiently far from areas of significant human activity on the islands (in most cases a few kilometres), and (3) source populations exist in the Southern Hemisphere.
+If we extend these three criteria to the Antarctic we may find that they are not always useful:  
+1.  The existence of natural transportation mechanisms
+To give an informed estimate of whether a newly discovered species has been introduced by natural or human means, data quantifying the probability of both human and natural transport mechanisms are needed.  Currently the information necessary to estimate the probability of species arriving in Antarctica by natural means, and in particular by bird and wind transport, is largely lacking, although recent studies have gone some way in determining the likely propagule load arriving in Antarctic through human activities (Lee and Chown, 2009; ATCM XXXII/CEP XII IP10 rev.1).  An objective assessment of the ‘balance of probabilities’ of a species arriving by either natural or anthropogenic transport mechanisms can be made reliably only once adequate information on natural transport mechanisms is available.   
+2.  Proximity to sites of human activity
+How do we define ‘areas of significant human activity’?  Such areas may not simply be the ground within and around a research station, but could be very large, for example, much of the South Shetland Islands have been subject to human activity, both now and in the historical past. A high degree of variability in human activity exists at a local scale across Antarctica and there is a lack of sufficiently detailed readily-available information showing where humans have visited.  For example, locations may be the sites of low level or sporadic national operator activity or subject to visitation by private yacht whose visits are not included in the annual IAATO tourist visitation statistics.  Without accurate information on the level of human activity, a site may be incorrectly classified as unvisited and a new species found there may be more readily considered a natural introduction.  Looking at examples from the sub-Antarctic, newly discovered species subsequently classified as natural colonisers in some cases are found within a few kilometres of research stations and other infrastructure, although this distance may be influenced by the small scale of the islands (see Table 7).  Intuitively, the listed human-influenced sites seem rather close to the colonised locations compared with the vast distances over which propagules transported by natural mechanisms may have travelled, though it is difficult to assess the relative importance of these sites as potential propagule sources in the absence of appropriate data.
+
+3.  Proximity to natural source populations
+Of the examples presented in Table 7, all species categorised as natural introductions on the sub-Antarctic islands have potential native source populations in the Southern Hemisphere.  Often potential source populations are hundreds or thousands of kilometres away, and found on other sub-Antarctic islands or continental landmasses (see Table 7).  In comparison, much of continental Antarctica is greater than c. 2,500 km from other major landmasses, while much of the Antarctica Peninsular is greater than c. 1,000 km from South America.  With this in mind, colonisation rates in some Antarctic locations may be roughly similar to those found in some of the more isolated sub-Antarctic islands. Indeed, rates could be lower due to Antarctica’s circumpolar wind currents that may act as a barrier to natural transport mechanisms (Marshall, 1996; Hughes et al., 2006; Pearce et al., 2010).  Without good estimates of the efficiency of these dispersal mechanisms into the different regions of Antarctic, it is difficult to predict the importance of geographical differences. 
+The Antarctic Peninsula merits special consideration.  The Peninsula experiences greater levels of human visitation by national operators and the tourist industry than continental Antarctica, which could result in a higher level of non-native propagules being transported to the region compared to continental Antarctica.  However, the closer proximity of the Peninsula to source populations on major landmasses (i.e. South America; Moore, 1975) outside the Treaty Area compared to continental Antarctica, may increase the probability of a new species colonising by natural means. The Peninsula also experiences less extreme environmental conditions than the continent, a statement particularly true for the South Shetland Islands and northern Peninsula, further increasing the ‘pool’ of colonists potentially able to survive and establish if they are transferred to the region by either natural means or with human assistance.  For example, species travelling to the northern Antarctic Peninsula from southern South America have shorter distances to travel with probably shorter transit times than species travelling to continental Antarctica from other Southern Hemisphere landmasses.  In the future, a growing number of new species may be found in the northern Antarctic Peninsula and it may often be a challenge to determine if they have arrived by natural or human means.
+
+Native or non-native: considerations in the absence of conclusive evidence
+When a known non-native species is found within the Treaty area it is clear that the precautionary principle should be applied and the species eradicated if possible.  However, management action following the discovery of a species that has recently arrived in Antarctica will depend upon its classification as either a natural resident/colonist or human introduction (Figure 1). In some cases, the available evidence may not point strongly to classification as either a native or non-native species, in which case the likelihood of taking the wrong management action is high (Table 8). 
+Where the evidence for natural or human introduction is not compelling either way, those deciding on whether to eradicate or protect a recently arrived species should perhaps consider which course of action is more detrimental for the wider Antarctic ecosystem should they make the wrong decision: (1) to have the natural rate of Antarctic colonisation reduced, or (2) to allow a non-native species to colonise Antarctica, which could - but probably would not - become invasive (Table 8).  When presented with the options, it may seem appropriate to apply further the ‘precautionary principle’ and eradicate (if feasible) a new introduction where there is doubt over its mechanism of introduction.  However, the policy may result in an end to natural colonisation processes involving macroscopic species in areas where there is significant human activity or infrastructure.
+Even when presented with the two alternative scenarios, lack of information inhibits our ability to make a measured assessment. Rates of natural colonisation are poorly understood and we have little idea how human eradication of newly-discovered species ‘judged’ to be non-native will impact upon overall colonisation rates. The presence of only two native flowering plants in Antarctica may point to low rates of establishment, at least for this biological group, but we should expect on-going natural colonisation following the retreat of ice after the last glacial maximum (c. 10,000 – 20,000 years ago depending upon location), particularly in the ice-free areas of the northern Peninsula.  On the other hand, when we consider the known terrestrial Antarctic non-native species, little research has been performed to quantify either their distribution or likely ecological impact (Hughes and Worland, 2010).
+
+Conclusion
+The terrestrial and freshwater Antarctica environment has few known non-native species compared to sub-Antarctica and other areas of the Earth. Currently, it should be possible to determine the likely native/non-native status of many species newly discovered within the Antarctic Treaty area by examining the available evidence. However, for some species, particularly those with source populations in the Southern Hemisphere or that are found close to areas that have been subject to human activity, there may be insufficient evidence to do so with complete certainty.  Improved quantification of propagule transfer into Antarctica by natural and artificial mechanisms may help inform judgements based on a balance of probabilities in the future.  Where evidence is lacking, the classification of a newly discovered species as either native or non-native will be based on the skills, experience and personal perspectives of the individuals making the assessment, and may not always be correct.  Where doubt remains, a precautionary approachshould be applied, but only after considering any implications for the terrestrial and freshwater Antarctic ecosystem.  
+
+References
+ATCM XX IP 66 A grass (seed plant) found in Syowa Station area, East Antarctica
+ATCM XXIII/CEP II IP 79 Initial Environmental Evaluation: compacted snow runway at the Larseman Hills
+ATCM XXXII/CEP XII IP10 rev.1 The IPY Aliens in Antarctica Project 
+ATCM XXXII/CEP XII SP 11 Topic Summary of CEP discussions on Non-native species (NNS) in Antarctica
+ATCM XXXII/CEP XII WP 05 A work program for CEP action on non-native species
+ATCM XXXII/CEP XII WP 23 Propagule transport associated with logistic operations: a South African appraisal of a regional issue 
+ATCM XXXII/CEP XII WP32 Procedures for vehicle cleaning to prevent transfer of non-native species into and around Antarctica
+ATCM XXXII/CEP XII IP10 rev.1 The IPY Aliens in Antarctica Project
+ATCM XXXIII/CEP XIII WP XX Guidance for visitors and environmental managers following the discovery of a suspected non-native species in the terrestrial and freshwater Antarctic environment
+Allegrucci, G., Carchini, G., Todisco, V., Convey, P., & Sbordoni, V.  (2006).  A molecular phylogeny of Antarctic chironomidae and its implications for biogeorgraphical history.  Polar Biology 29: 320-326.
+Australian Antarctic Division.  (2010).  Disease and environmental controls in hydroponics. http://www.aad.gov.au/default.asp?casid=35306.  [Accessed 4 January 2010].
+Bailey, R. H., & James, P. W. (1979). Birds and the dispersal of lichen propagules.  Lichenologist 11: 105.
+Barnes, D. K. A., & Fraser, K. P. P. (2003). Rafting by five phyla on man-made flotsam in the Southern Ocean. Marine Ecology Progress Series 262: 289–291.
+Barnes, D. K. A., Warren, N., Webb, K., Phalan, B., & Reid, K. (2004). Polar pedunculate barnacles piggy-back on pycnogona, penguins, pinniped seals and plastics. Marine Ecology Progress Series 284: 305-310.
+Barnes, D. K. A., Hodgson, D. A., Convey, P., Allen, C., Clarke, A. (2006). Incursion and excursion of Antarctic biota: past, present and future. Global Ecology and Biogeography 15: 121-142.
+Bergstrom, D. M., & Smith, V. R. (1990). Alien vascular flora of Marion and Prince Edward Islands: new species, present distribution and status. Antarctic Science 2: 301-308.
+Bergstrom, D. M., Turner, P. A. M., Scott, J., Copson, G., & Shaw, J.  (2006). Restricted plant species on sub-Antarctic Macquarie and Heard Islands.  Polar Biology 29: 532-539.
+Burger, A. E., Williams, A. J., & Sinclair, J. C. (1980). Vagrants and the paucity of large bird species at the Prince Edward Islands. Journal of Biogeography 7: 305-310.
+Brown, M. J., Jenkins, J. F., Brothers, N. P., & Copson, G. R. (1978).  Corybas macranthus (Hook.f.) Reichb. f. (Orchidaceae) a new record for Macquarie Island.  New Zealand Journal of Botany 16: 405-407.
+Chown, S.L., Sinclair, B. J., Jansen van Vuuren, B.  (2008).  DNA barcoding and the documentation of alien species establishment on sub-Antarctic Marion Island.  Polar Biology 31: 651-655.
+Clout, M., & De Poorter, M.  (2008).  Invasive alien species: global lessons and Antarctic implications.  In: Rogan-Finnemore, M. (Ed), Non-native species in the Antarctic – proceedings. Gateway Antarctica, Christchurch, New Zealand, pp. 1-52.
+Convey, P. (1992). Aspects of the biology of the midge, Eretmoptera murphyi Schaeffer (Diptera: Chironomidae), introduced to Signy Island, maritime Antarctica. Polar Biology 12: 653–657.
+Convey, P., (2008). Non-native species in Antarctic terrestrial and freshwater environments: presence, sources, impacts and predictions. In: Rogan-Finnemore, M. (Ed), Non-native species in the Antarctic – proceedings. Gateway Antarctica, Christchurch, New Zealand, pp. 97-130.
+Convey, P., & Lebouvier, M.  (2009).  Environmental change and human impacts on terrestrial ecosystems of the sub-Antarctic islands between their discovery and the mid-twentieth centuty.  Papers and Proceedings of the Royal Society of Tasmania 143: 33-44.
+Council of Managers of National Antarctic Programs (COMNAP) (2010)  Antarctic facilities.  Access via www.comnap.aq/facilities  [Accessed 10 Jan 2010].
+Copson G. R. & Leaman E. G. (1981). Rumex crispus L. (Polygonaceae) — a new record for Macquarie Island. New Zealand Journal of Botany 19: 401–404.
+Copson, G. & Whinam, J. (2001). Review of ecological restoration programme on subantarctic Macquarie Island: Pest management progress and future directions. Ecological Management & Restoration 2: 129-138.
+Coulson, S. J., Hodkinson, I. D., Webb, N. R., and Harrison, J. A. (2002).  Survival of terrestrial soil-dwelling arthropods on and in seawater: implications for trans-oceanic dispersal. Functional Ecology 16: 353-356.
+Davies, S. J., Chown, S. L., & Joubert, L. S.  (2007).  Renewed management system and provisions for South Africa’s sub-Antarctic islands.  Papers and Proceedings of the Royal Society of Tasmania 141: 115-120.
+Department of Conservation. (1998).  Conservation Management Strategy Subantarctic Islands 1998-2008.  Southland Conservancy Conservation Management Planning Series No. 10.  Wellington: Department of Conservation.  113 pp. 
+de Villiers, M. S., & Cooper, J. (2008). Conservation and management. In: Chown, S.L., Froneman, P.W. (eds) The Prince Edward Islands. Land-sea interactions in a changing ecosystem. Sun, Stellenbosch.
+Frenot, Y., Chown, S.L., Whinam, J., Selkirk, P.M., Convey, P., Skotnicki, M., & Bergstrom, D.M., (2005). Biological invasions in the Antarctic: extent, impacts and implications. Biological Reviews 80: 45-72. 
+Gibson, J. A. E., & Bayly, I. A. E. (2007).  New insights into the origins of crustaceans of Antarctic lakes. Antarctic Science 19: 157–164.
+Godley, E. J.  (1965). Notes on the vegetation of the Auckland Islands. Proceedings of the New Zealand Ecological Society 12: 57-63.
+Greenslade, P. (1987). Invertebrate conservation in the Antarctic and subantarctic. In: Majer, J. D. (ed.) The role of invertebrates in conservation and biological survey. Western Australian Department of Conservation & Land Management. pp. 119–121.
+Greenslade, P. (2002). Assessing the risk of exotic Collembola invading subantarctic islands: prioritizing quarantine management. Pedobiologia 46: 338–344.
+Gremmen, N. J. M., & Meijden R. van der. (1995).  Introduced Agrostis species sub-Antarctic Marion Island. South African Journal of Antarctic Research 25: 85-86.
+Gremmen, N. J. M., & Smith, V. R. (1999). New records of alien vascular plants from Marion and Prince Edward Islands, Sub-Antarctic. Polar Biology 21: 401–409.
+Gremmen, N., Barendse, J. & Orr, I. (2001). Invasion and eradication of Sagina procumbens L. (Procumbent pearlwort) on Gough Island. IUCN SSC Invasive Species Specialist Group (ISSG). Aliens 14: 19-20.
+Gressitt, J. L., Larch, R. E., O'Brien, C. W. (1960). Trapping air-borne insects in the Antarctic area. Pacific Insects 2: 245-250.
+Hänel, C., Chown, S. L., & Davies, L.  (1998).  Records of alien insect species from sub-Antarctic Marion and South Georgia Islands. African Entomology 6: 366-369.
+Hawes, T. C., Worland, M. R., Convey, P., & Bale, J. S. (2007). Aerial dispersal of springtails on the Antarctic Peninsula: implications for local distribution and demography. Antarctic Science 19: 3-10.
+Hnatuik, R. J. (1972).  Hymenophyllum peltatum (Poiret) Desvaux, a new Macquarie Island record.  New Zealand Journal of Botany 10: 701-704.
+Hodgson, D. A., Verleyen, E., Sabbe, K., Squier, A. H., Keely, B. J., Leng, M. J., Saunders, K. M. & Vyverman, W. (2005). Late Quaternary climate-driven environmental change in the Larsemann Hills, East Antarctica, multi-proxy evidence from a lake sediment core. Quaternary Research 64: 83–99.
+International Association of Antarctica Tour Operators (IAATO), 2010. Boot, clothing and equipment decontamination guidelines for small boat operations.  http://www.iaato.org/docs/Boot_Washing07.pdf.
+Hughes, K.A., & Convey, P.  (2009).  The protection of Antarctic terrestrial ecosystems from inter- and intra-continental transfer of non-indigenous species by human activities: a review of current systems and practices.  Global Environmental Change. DOI:10.1016/j.gloenvcha.2009.09.005
+Hughes, K. A., & Worland, M. R.  (2010).  Spatial distribution, habitat preference and colonisation status of two alien terrestrial invertebrate species in Antarctica.  Antarctic Science DOI: 10.1017/S0954102009990770
+Hughes, K. A., Walsh, S., Convey, P., Richards, S., & Bergstrom, D. M.  (2005).  Alien fly populations established at two Antarctic research stations.  Polar Biology 28: 568-570.
+Hughes, K. A., Ott, S., Bolter, M., & Convey, P. (2006).  Colonisation processes.  In: Trends in Antarctic terrestrial and limnetic ecosystems.  Ed: Bergstrom, D., Convey, P., & Huiskes, A. H. L.  Kluwer, Dordrecht.
+Hughes, K. A., Convey, P., Maslen, N. R., & Smith, R. I. L. (2009).  Accidental transfer of non-native soil organisms into Antarctica on construction vehicles.  Biological Invasions.  DOI 10.1007/s10530-009-9508-2.
+Huntley, B. J. (1971).  Vegetation.  In: van Zinderen Bakker, E.M. Sr., Winterbottom, J.M., & Dyer, R.A. (eds) Marion and Prince Edward Islands.  Balkema, Cape Town, pp 98-160.
+Lee, J. E., & Chown, S. L.  Breaching the dispersal barrier to invasion: quantification and management. Ecological Applications 19: 1944-1957.
+Lynch, H.J., Crosbie, K., Fagan, W.F., & Naveen, R.  (2010) Spatial patterns of tour ship traffic in the Antarctic Peninsula region. DOI 10.1017/S0954102009990654.
+Marshall, W. A. (1996). Biological particles over Antarctica. Nature 383: 680.
+Marshall, D. J., & Convey, P. (2004). Latitudinal variation in habitat specificity of ameronothroid mites.  Experimental and Applied Acarology 34: 21-35.
+Massé, L., Delarue, D., Thomas, T. (1982).  Une fougrère nouvelle pour les Iles Kerguelen (TAAF): Elaphoglossum randii Alston et Schelpe.  CNFRA 51: 25-31.
+Moore, D.M. 1975. The alpine flora of Tierra del Fuego. Anales Instituto de Botanica A. J. Cavanilles 32: 419-440. 
+Olech, M. (1996). Human impact on terrestrial ecosystems in west Antarctica. Proceedings of the NIPR Symposium on Polar Biology 9: 299–306.
+Pearce, D.A., Bridge, P.D., Hughes, K., Sattler, B., Psenner, R., & Russell, N. J.  (2010).  Microorganisms in the atmosphere over Antarctica.  FEMS Microbiology Ecology 69: 143-157.
+Pugh, P. J. A. (1997).  Acarine colonization of Antarctica and the islands of the Southern Ocean: the role of zoohoria.  Polar Record 33: 113-122.  
+Roberts, A. D. (2007).  Management frameworks for the New Zealand sub-Antarctic islands.  Papers and Proceedings of the Royal Society of Tasmania 141: 29-32.
+Schlichting, H. E., Speziale, B. J. & Zink, R. M. (1978). Dispersal of algae and protozoa by Antarctic flying birds. Antarctic Journal of the USA 13: 147-149.
+Scott, J. J. (1989).  New records of vascular plants from Heard Island.  Polar Record 25: 37-42.
+Selmi, S. & Boulinier, T. (2001). Ecological biogeography of Southern Ocean islands: the importance of considering spatial issues.  American Naturalist 158: 426-437.
+Seppelt R. D., Copson G. R. & Brown M. J. (1984). Vascular flora and vegetation of Macquarie Island. Tasmanian Naturalist 78: 7–12.
+Slabber, S. & Chown, S.L. (2002) The first record of a terrestrial crustacean, Porcellio scaber (Isopoda, Porcellionidae), from sub-Antarctic Marion Island.  Polar biology 25: 855-858.
+Smith, J. (2005).  Shoo fly! http://www.aad.gov.au/default.asp?casid=19699 [Accessed 9 Jan 2010]
+Smith, R. I. L. (1996).  Introduced plants in Antarctica: potential impacts and conservations issues.  Biological Conservation 76: 135–146.
+Smith, R. I. L. (2003). The enigma of Colobanthus quitensis and Deschampsia antarctica in Antarctica Antarctic biology in a global context. In: Huiskes, A.H.L., Gieskes, W.W.C., Rozema, J., Schorno, R.M.C., Van der Vies, S.M., Wolff, W.S. (Eds.), Proceedings of the VIII SCAR International Biology Symposium. Backhuys Publishing, Leiden, pp. 234–239.
+Taylor, B. W.  (1955).  The flora, vegetation and soils of Macquarie Island.  ANARE Reports, Series B, vol II, Botany.
+Turner P. A. M., Scott, J. J., & Rozefelds, A. C. (2006). Probable long distance dispersal of Leptinella plumosa Hook.f. to Heard Island : habitat, status and discussion of its arrival.  Polar Biology 29: 160-168.
+Usher, M. B. (2000).  The nativeness and non-nativeness of species.  Watsonia 23: 323-326.
+van Zanten, B. O. (1983).  Possibilities of long-distance dispersal in bryophytes with special reference to the Southern Hemisphere. Naturwiss V Hamburg 7: 49-64.
+Webb, D. A. (1985). What are the criteria for presuming native status?  Watsonia 15: 231-236.
+Whinam, J., Chilcott, N., Bergstrom, D.M. (2005). Subantarctic hitchhikers: expeditioners as vectors for the introduction of alien organisms. Biological Conservation 121: 207–219.
+
+Figure 1.  Decision framework for managers upon discovery of a new species in Antarctica
+
+Decision 1: After weighing up the available evidence, on balance is the newly discovered species a:
+å                        æ
+Long-term Native Species  
+Some native species may have a distribution that extending over areas both within and outside the Antarctic Treaty Area.  If Antarctic populations of such species are found for the first time it is important that they are not classified as recently arrived species (see category 4, Table 1). This may be a previously unrecorded species that is well-established and likely to have been a long-term colonists dating to before humans first visited the area, but until now it had remained unknown to Antarctic science.
+Recently Arrived Species.  
+This classification may include species that have arrived in Antarctica in the last 200 years or so, by either natural or human means.
+
+â
+â
+Yes
+Yes
+â
+â
+Management action: Conserve  and Protect
+Go to Decision 2
+
+
+Decision 2: After weighing up the available evidence, on balance is the Recently Arrived species a:
+å                        æ
+Natural Colonist 
+A new species to Antarctica, transported to the area by natural means
+â
+Non-native Species
+A new species to Antarctica, transported to the area as a result of human activity
+â
+Yes
+Yes
+â
+â
+Management action: Conserve and Protect
+Management action: Eradicate/Control spread/Monitor
+
+Table 1.  Categories classifying species according to their nativeness (adapted from Usher, 2000).  The categories may be applied to the whole of Antarctica (Ant), or just to biologically distinct regions within Antarctica (BDR)
+
+
+No.
+Category1
+Application
+Sub-division
+1
+Native: species occurring in Antarctica by natural means. 
+
+Ant, BDR
+    a. Native species with a distribution solely within Antarctica
+    b. Native species with a distribution that extending over an areas both inside and outside Antarctica.  If Antarctic populations of such species are found for the first time it is important that they are not classified as recently arrived species. (see category 4)
+2
+Formally native: native species now extinct
+Ant, BDR
+    a. Extinct because of environmental change (e.g. climate change)
+    b. Extinct due to human activity (e.g. destruction of habitat by construction of logistical infrastructure)
+3
+Locally non-native: a species native to one part of Antarctica, but transferred to another biologically distinct region by human activities
+BDR
+
+4
+Recently arrived: species for which there is as yet insufficient evidence to decide if it is a natural or human assisted introduction.
+Ant, BDR
+    a. Arrival suspected of being human assisted
+    b. Natural means of arrival suspected
+5
+Non-native: species where all the evidence points to a human assisted introduction, either intentionally or accidentally
+Ant
+
+
+1 An additional category of ‘long-established’ or ‘naturalised’ species has not been included as this is for non-native organisms that were introduced several centuries or millennia ago, or longer, and who have become part of the foodwebs where the majority of species are native.  Human activity in Antarctica is not of sufficient duration to make this category a useful addition.
+Table 2.  Methods of natural dispersal of biological material into and around Antarctica
+Dispersal method
+
+Propagule or biological material type
+Potential transfer distance
+References
+Wind
+Microorganisms, [pollen], Seeds, spores, arthropods, plant fragments
+Thousands of km up to global; depends on stress tolerance of biota concerned
+
+Marshall, 1996; van Zanten 1983; Gressitt et al. 1960; Hawes et al. 2007
+Birdlife
+Pathogens, parasites, Microorganisms, Seeds, arthropods, plant fragments, soil
+
+Km to thousands of km – inter-island to intercontinental
+Schlichting et al. 1978; Bailey & James 1979
+Marine mammals
+Pathogens, parasites, passengers
+Km to thousands of km – inter-island to intercontinental
+
+Pugh 1997, Barnes et al. 2004
+Water
+Microorganisms, seeds, arthropods, plant fragments
+
+Up to hundreds of km or more, depends on stress tolerance of biota concerned
+Coulson et al., 2002 (Arctic invertebrates)
+Ocean: marine debris
+Marine (also littoral and terrestrial) species with a stage in the life cycle where they are attached.
+Metres to potentially hundreds of km or more, depends on sea state and stress tolerance of organisms.
+Barnes & Fraser 2003, Barnes et al. 2004; 2006; Marshall & Convey, 2004
+
+Table 3.  Methods of human introduction of biological material into and around Antarctica1
+
+Introduction method
+
+Propagule or biological material type
+References
+Visitor’s clothing and personal belongings
+Microorganisms, seeds, spores, insect eggs, plant fragments
+Whiman et al. 2004; ATCM XXXII/CEP XII IP10 rev.1 The IPY Aliens in Antarctica Project
+Vehicles, aircraft and ship holds
+Microorganisms, soil, seeds, spores, invertebrates including many stages of life cycle, plant fragments and whole plants, rodents
+Hughes et al. 2009
+Imported food
+(fresh fruit and vegetables and meat)
+Plant pathogens, soil microorganisms, soil, invertebrates (including water stress intolerant groups such as slugs, caterpillars, etc), animal pathogens 
+Hughes et al. 2005; K. Hughes unpubl. data 
+Cargo
+Microorganisms, seeds, soil, invertebrates, plant fragments
+Lee & Chown 2009
+Building materials
+(sand, aggregate, wood)
+Microorganisms, including wood degrading fungi, soil, seeds , invertebrates
+Bergstrom & Smith 19902
+
+1 For all introduction methods the potential transfer distance could be from thousands of km up to global, depends on stress tolerance of biota concerned and duration of transportation
+2 sub-Antarctica
+
+ Table 4.  Questions that may help to provide evidence as to whether a species is a long-term native species, recent natural colonist or human introduction
+No.
+Question
+1
+Fossil Evidence
+(a)
+Is there any evidence that the newly discovered species has been present in the area over a long period of time (e.g. undegraded remnants in peat or sediment cores)?
+2
+Historical Evidence
+(a)
+How well-known is the biodiversity of the area? 
+(b)
+Has the areas been the subject of any baseline biodiversity survey in the past? If so, when did this occur, who performed the survey and was there any record of species similar in description to the recently discovered species?
+(c)
+Does the area have any past reports of either new natural colonists or human introduced species?
+3
+Habitat
+(a)
+What sort of ground has been colonised (e.g. bare soil, moss bank, sparsely vegetated area, rock)? 
+(b)
+Is there anything special about the substratum that might favour specific species (e.g. geothermally heated, or particularly acid or alkaline soils, nutrient enriched by guano)?
+(c)
+Is the new species restricted to previously disturbed ground?
+4
+Geographical distribution
+
+Regional scale
+(a)
+Is the discovered species known as a non-native species or recent natural introduction in another Antarctic location?
+(b)
+Is the discovered species known as a non-native species or recent natural introduction in another sub-Antarctic location?  [NB A natural colonist of an invasive sub-Antarctic species should be eradicated.]
+(c)
+If the identity of the new species is known, what is the extent of its biogeographic range outside of Antarctica?  What is the distance between the newly colonised Antarctic location and the nearest other population?  Is the species of Northern Hemisphere/boreal-cosmopolitan or Southern Hemisphere origin?
+(d)
+Does the newly discovered species have an equivalent distribution patterns to other similar native or non-native species found in Antarctica?
+
+Local scale
+(e)
+How many individuals are present and over what area they are found (a map showing the limit of distribution may be useful here)?
+(f)
+Is the distribution of the species even across the local area or concentrated around specific locations?
+(g)
+Are there any local factors or features that are likely to aid local dispersal, e.g. streams, gradients or bird/seal populations?
+(h)
+If found in a fresh water lake, what other lakes in the area are also colonised?
+5
+Frequency of known naturalisation.
+(a)
+How rapidly is the new discovered species spreading? 
+6
+Genetic diversity
+(a)
+Do any genetic studies exist that may help to distinguish between spatially separate populations of the new species?
+7
+Reproductive pattern
+
+Terrestrial plants
+(a)
+How big is the plant? (please take photographs)
+(b)
+If more than one plant specimen is present, are the plants of different sizes, potentially representing different generations of plant?
+(c)
+Is the species capable of vegetative reproduction?
+(d)
+Is the plant producing flowers or seeds?  Is there any evidence of this having happened at the site in the past?
+(e)
+Based on growth rates outside Antarctica, but allowing for reduced growth rate under potentially colder Antarctic conditions, how old is the plant likely to be?
+
+Terrestrial invertebrates
+(f)
+What life cycle stages are found (eggs, juveniles, adults)  
+(g)
+How many individuals are found per unit area?
+8
+Possible means of introduction
+
+General questions
+(a)
+How many new species have been discovered in the area alongside this one?
+(b)
+If more than one new species has been discovered, is there any evidence that points to a common introduction event (e.g. clumping of two or more new species around a specific location, presence of obviously foreign material such as wood, litter, etc.)
+(c)
+Does a plausible route for natural colonisation exist (for example, do major wind currents travel between the source population and the site of the new species)?
+
+Wind dispersal
+(d)
+Does the new species have propagules adapted or suitable for windblown dispersal?
+
+Bird/marine mammal dispersal
+(e)
+Does the new species have propagules adapted or suitable for animal dispersal (e.g. hooks to aid attachment)?
+(f)
+Do the distribution/migration ranges of any of the local native bird species extend to include the distribution range of the new species outside Antarctica?  Do the local native bird species regularly touch down on land within the Antarctic Treaty Area and other non-Antarctic landmasses?
+(g)
+Is the new species found close to bird nesting sites or bathing areas?
+(h)
+Is there any evidence for rate and frequency of bird migration between source population sites and the new location (e.g. bird ringing data)?
+(i)
+What is the likelihood of the species surviving translocation to Antarctic associated with marine debris or marine mammals?
+(j)
+Is the species growing or existing in a parasitic or symbiotic relationship with an existing native species or new species?
+
+Human-mediated transport
+(k)
+When was the area first visited by humans? 
+(l)
+How has the frequency of human visitation changed since the area was first visited (i.e. are visits more or less frequent now than in earlier years?)?
+(m)
+What is the extent, intensity and frequency of current human activity in the area (e.g. number and frequency of tourist visitors, number, frequency and extent of scientific activities, extent of any buildings or logistics hubs such as an airstrip or wharf, etc.).
+(n)
+How close is the nearest operational infrastructure to the newly discovered species, that may act as a potential source of new propagules (i.e. the nearest station building, airstrip, hut or wharf)?  When was it built? How far away is the nearest hydroponic facility?
+(o)
+Has the new species been found close to an active primary (e.g. main research station) or secondary logistics hub (e.g. remote inland field station) within Antarctica?
+(p)
+How close is the nearest abandoned infrastructure (i.e. abandoned base, waste dump, etc…) When was it abandoned? Are past human activities likely to have generated a non-native propagule bank?  
+(q)
+What is the distance between the location of the new species and areas visited or transited by tourists, scientists or other national operator personnel?
+(r)
+If the discovered species is also known as a non-native species or recent natural introduction in a sub-Antarctic location, is the sub-Antarctic location regularly visited by ship en route to the site in Antarctica where the newly discovered species was found?
+(s)
+Does the biogeographic range of the newly discovered species encompass a known port of departure for Antarctica?  Do ships or aircraft travel between that port of departure and the vicinity of the newly discovered species?
+(t)
+Has there ever been an introduction of non-Antarctic soil to the area? If so, when, and how was this soil disposed of?
+(u)
+Have transplantation experiments been performed in the local area in the past (see Smith, 1996 for known Antarctica examples of such work).  If so, is the new species found in the location where the transplanted material originated?  Is the new species found specifically at the site of the transplantation experiments?
+(v)
+Has the new species been found within an Antarctic Specially Protected Area (ASPA) or other area with restricted access? If so when was the last entry to the site and what was the nature of the visit (e.g. scientific research, environmental management)?  How close have recent visitors come to the location of new species?
+
+Propagule bank
+(w)
+Has there been any change that may lead to germination of the existing propagule bank (e.g. change in extent of geothermally heated ground, climate warming, disturbance of ground, etc.)?
+
+
+Table 5.  Blank summary sheet for evidence supporting the long-term native, recent natural colonist or non-native status of a discovered species (tick as appropriate).
+Decision 1:  Long-term resident native species or recent arrival?
+Evidence criterion
+Long-term native
+
+Equivocal or no data
+Recent arrival
+
+Conclusive
+Strongly supports
+Weakly supports
+
+Weakly supports
+Strongly supports
+Conclusive
+Fossil Evidence
+
+
+
+
+
+
+
+Historical Evidence
+
+
+
+
+
+
+
+Habitat
+
+
+
+
+
+
+
+Geographical Distribution
+
+
+
+
+
+
+
+Frequency of Naturalization
+
+
+
+
+
+
+
+Genetic Diversity
+
+
+
+
+
+
+
+Reproductive Pattern
+
+
+
+
+
+
+
+Possible Means of Introduction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Decision 2:  If a recent arrival, was the species introduced by natural or human means?
+Evidence criterion
+Recent arrival – natural introduction
+
+Equivocal or no data
+Recent arrival – human introduction
+
+Conclusive
+Strongly supports
+Weakly supports
+
+Weakly supports
+Strongly supports
+Conclusive
+Historical Evidence
+
+
+
+
+
+
+
+Habitat
+
+
+
+
+
+
+
+Geographical Distribution
+
+
+
+
+
+
+
+Genetic Diversity
+
+
+
+
+
+
+
+Reproductive Pattern
+
+
+
+
+
+
+
+Possible Means of Introduction
+
+
+
+
+
+
+
+Table 6.  Examples of attempted eradications of non-mammalian non-native species in the sub-Antarctic islands and Antarctica
+Locations
+Species
+Date first recorded
+Eradication attempt date and outcome
+References
+Sub-Antarctic islands
+
+
+
+
+Gough Island
+Sagina procumbens
+1998
+Initiated 2000: on-going
+Gremmen et al. 2001
+South Georgia
+Cardamine flexuosa
+2002
+2002-2010: unsuccessful
+Pasteur & Walton 2006
+Macquarie Island
+Anthoxanthum odoratum
+1978
+1989: removed
+Seppelt et al. 1984; Copson & Whinam 2001
+Macquarie Island
+Rumex crispus
+1980
+1996: removed
+Copson & Leaman 1981; Copson & Whinam 2001
+Marion Island
+Elymus repens
+Pre 1965
+On-going
+Huntley 1971; Chown et al. 2008; de Villiers & Cooper 2008
+Marion Island
+Sonchus sp.
+May 1983
+1983 & 1984: removed
+Bergstrom & Smith 1990
+
+
+1998
+1998: removed
+Gremmen & Smith, 1999
+Marion Island
+Plantago lanceolata
+Pre 1988
+1988: removed
+Bergstrom & Smith 1990
+
+
+1997
+1997: removed
+Gremmen & Smith 1999
+Marion Island
+Senecio sp.
+1988
+1988 & 1989: removed
+Bergstrom & Smith 1990
+Marion Island
+Agrostis gigantean
+1994
+On-going
+Gremmen & van der Meijden, 1995; de Villiers and Cooper 2008
+Marion Island
+Agrotis ipsilon
+1996/97
+Planned?
+Hänel et al. 1998; Chown et al. 2008
+Marion Island
+Hypochoeris radicata
+  
+1997
+1997: removed
+Gremmen & Smith 1999
+Marion Island
+Porcellio scaber 
+April 2001
+On-going
+Slabber & Chown 2002; de Villiers & Cooper 2008
+Antarctica
+
+
+
+
+Near a refuge, 20 km from Syowa Station, East Antarctica  
+Poa trivialis
+1995
+2007
+ATCM XX IP 66; S. Imura pers. comm. 2007
+Great Wall Station, King George Island
+Non-native grasses, other graminoids and Cerastium sp.
+1997
+2005
+Smith 2003; H.-U.Peter pers. comm. 2006 
+Progress II Station, Larsmann Hills
+Alopecurus geniculatus, Puccinellia distans, Rumex pulcher, Stellaria media and Chenopodium rubrum
+Pre 1999
+Pre 1999
+ATCM XXIII/CEP II IP 79 
+Whalers Bay, Deception Island, South Shetland Islands
+Nassauvia magellanica
+Jan 2009
+Jan 2010
+K. A. Hughes pers. comm. 2010
+Table 7.  Examples of recently discovered plants species on the sub-Antarctic islands subsequently classified as recent or long-term natural colonists.  Generally, the species are either considered to have arrived within the last 200 years (with bird or wind transport most likely transport mechanisms) or the species are thought to be long-term colonists not recognised by earlier botanical surveys.  Included in the table are distances to potential natural source populations, and for comparison, distances to local human infrastructure on each island. 
+Location	
+Species 
+Date first recorded
+Other populations (distance in km)
+Distance to local human infrastructure 
+Reference
+Auckland Is. (Ewing Island and Port Ross)
+Olearia lyalli
+pre 1840
+Snares Island (270 km)
+?
+Godley 1965; Roberts 2007
+Heard Island (Paddick Valley)
+Leptinella plumosa
+2003/04
+Iles Kerguelen (500 km), Iles Crozet (1,700 km) Marion and Prince Edward Islands (2,700 km), Macquarie Island (5,300 km), some New Zealand sub-Antarctic Islands (>5,800 km)
+Spit Bay, 5 km Refuge hut 750 m
+Turner et al. 2006
+Heard Island (northern Skua Beach)
+Ranunculus crassipes
+December 1986
+Iles Kerguelen (500 km)
+Spit hut, c. 4.5 km
+Scott 1989; Bergstrom et al. 2006
+Heard Island (widely distributed)
+Montia fontana
+1983
+Iles Kerguelen (500 km), Marion Island (2,700 km), 
+Widely distributed, sometimes close to camping areas
+Scott 1989
+Heard Island (western Winston Lagoon and midway between Spit Hut and Skua Beach)
+Poa annua
+1986-87
+Macquarie Island (5,200 km), Marion and Prince Edward Islands (2,700 km)
+Populations c. 2 km and 7.5 km from Spit Hut
+Scott 1989
+Iles Kerguelen (near Lac d’Armor)
+Elaphoglossum randii
+1979
+Marion and Prince Edwards Island (2300 km)
+Port-aux-Français c.37 km
+Massé et al. 1982
+Macquarie Island (Handspike Point and Caroline Cove)
+Poa litorosa
+1983 (possibly misidentified as Festuca contracta in 1950s)
+Southern New Zealand (1000 km); Campbell Is. (700 km); Auckland Is (640 km);
+Handspike Point population c. 2.5 km from Macquarie Island Station, Caroline Cove and Creek populations c. 1.75 km from Hurd Point Hut
+Bergstrom et al. 2006; Taylor 1955
+Macquarie Island (beach terrace on west coast)
+Nematoceras dienema
+1977
+New Zealand (1000 km) and New Zealand sub-Antarctic Islands (not Campbell Island) (> 640 km) 
+Generally < 6 km from current or previous field hut sites
+Brown et al. 1978; Turner 2006
+Macquarie Island (Handspike Point)
+Carex trifida
+1912
+Southern New Zealand (1000 km); Campbell Is. (700 km); Auckland Is. (640 km)
+c. 2.5 km from Macquarie Island Station
+Bergstrom et al. 2006
+Macquarie Island (north end of island plateau)
+Hymenophyllum falklandicum
+1971?
+Widely distributed, nearest sources include New Zealand (1000 km), New Zealand sub-Antarctic Islands (>640 km) and Tasmania (1500 km)
+c. 3 km (?) from Macquarie Island Station
+Hnatiuk 1972; Turner 2006
+Macquarie Island
+Galium antarcticum
+
+Iles Crozet (7,200 km), Iles Kerguelen (5,800 km),
+?
+Seppelt et al. 1984
+Marion Island (near Johnny’s Hill)
+Unidentified woody plant related to Zizyphus mucronata*
+2004?
+South Africa (1,700 km)
+3 km from field hut at Kildalkey Bay. Location may have been visited during cat eradication work
+S. Chown pers. comm. 2010
+
+Prince Edward Islands
+e.g. Juncus scheuchzerioides, Colobanthus kerguelensis, Ranunculus moseleyi and Limosella australis
+1965-66
+South Africa (1,700 km); Iles Kerguelen (2,300 km); Heard Island (2,600 km); Iles Crozet (1,000 km), etc.
+Species are probably long-term colonists not recognised previously
+Huntley 1971
+
+*  The unidentified woody plant on Marion Island has yet to be classified as either a recent natural colonist or human introduction.
+ 
+Table 8.  Consequence of the incorrect classification of a newly arrived species in Antarctica as either a natural colonist or a human introduction
+No.
+Method of introduction
+Accuracy of classification
+Management response
+Outcome of management response on wider Antarctic ecosystem
+1
+Natural colonist
+Correct classification as natural colonist
+Conserve and protect
+Natural path of Antarctic ecosystem development unaltered
+2
+Natural colonist unknown to science (probably at a location remote from areas of human activity) 
+None
+None 
+Natural path of Antarctic ecosystem development unaltered
+3
+Natural colonist
+Incorrect classification as human introduction
+Eradicate/control
+Reduction in rate of natural colonisation of Antarctica
+4
+Human introduction
+Correct classification as human introduction
+Eradicate/control
+Natural path of Antarctic ecosystem development largely unaltered
+5
+Human introduction
+Incorrect classification as natural colonist
+Conserve and protect
+Artificial alteration of Antarctic ecosystem development, with unknown wider impacts on Antarctic ecosystems
+
+

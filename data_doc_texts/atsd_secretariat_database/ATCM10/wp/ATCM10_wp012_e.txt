@@ -1,0 +1,578 @@
+ANTARCTIC TREATY              
+TENTH CONSULTATIVE MEETING              
+
+ДОГОВОР ОБ АНТАРКТИКЕ              
+ДЕСЯТОЕ КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ              
+
+TRAITÉ SUR L'ANTARCTIQUE              
+DIXIEME REUNION CONSULTATIVE              
+
+TRATADO ANTARTICO              
+DECIMA REUNION CONSULTIVA              
+
+SEPTEMBER 17 - OCTOBER 5, 1979
+
+WASHINGTON, D.C.              
+
+AGENDA ITEM 7                                 ANT/X/12
+                                                  September 18, 1979
+                                                  ORIGINAL:  Spanish
+
+IMPROVEMENT OF ANTARCTIC              
+TELECOMMUNICATIONS SYSTEMS AND COLLECTION AND
+DISTRIBUTION OF METEOROLOGICAL DATA              
+ANT/X/12
+
+- 2 -
+
+DEVELOPMENT OF AN ANTARCTIC ENVIRONMENTAL DATA COLLECTION SYSTEM USING
+REMOTE SENSORS AND SATELLITES
+
+ANNEX "A"
+
+
+1. BACKGROUND
+
+This paper deals with the main features and the preliminary results of
+Chilean activities relating to the establishment of an automatic satellite
+environmental data collection system in the Antarctic Peninsula.  This
+technology, known as the satellite Data Collection System (DCS), enables
+the automatic, reliable, economical, and nearly instantaneous collection
+of data from isolated areas. Bascially, it consists of a network of
+autonomous sensing stations situated so as to suit researchers' needs.
+These stations relay data to a central receiving station.
+
+Chilean activities began during the 1977/78 season. At present, four
+meteorological stations are relaying information to Santiago via LANDSAT
+and GOES satellites. The use of Nimbus and Tiros-N satellites is being
+considered. These satellites make it possible to work with mobile sensing
+stations such as ocean buoys and atmospheric balloons. Thus a fast and
+reliable environmental data collection system will be operating on the
+Antarctic Peninsula in the near future. Data collected by means of this
+system will supplement the data collected by conventional means by the
+Presidente Frei Antarctic Regional Meteorological Center.  In this manner,
+complete data will be broadcast to Antarctic bases. This system could
+also be expanded to form a Global Antarctic System, as proposed by the
+Chilean delegation during the Third Antarctic Telecommunications Meeting,
+held at Washington, D.C. in September 1978. The preliminary results of
+the Chilean activities suggest that the use of satellite data collection
+systems in Antarctica is quite feasible.
+
+2. INTRODUCTION
+
+Because of the urgent need to study and to collect environmental data
+from isolated sites on the Antarctic Peninsula, Chile decided to experiment
+and to apply new technologies to solve these problems.  This gave rise to
+the development of Chile's Remote Sensing Program.  This Program comprises
+the use of multi-spectrum (ultraviolet, visible, infrared, etc), multi-
+temporal (different times), and multi-level (satellite, airplane, ground,
+etc.) photographs and images duly supplemented by ground data collected
+from isolated sites by satellite. Remote sensing techniques are well known
+throughout the world because of their succesful use in the study and
+management of natural resources, inasmuch as they lead to good results
+faster and more reliably and economically than conventional methods.  The
+Remote Sensing Program developed by Chile in the Antarctic Peninsula has
+two main objectives:
+
+(1) Acquisition of knowledge about environmental conditions;
+
+(2) Acquisition of knowledge about and protection of natural resources.
+- 3 -
+
+The first objective is directly related to Antarctic telecommunications. Therefore, the main features of the Chilean activities are explained below.
+
+3. MAIN FEATURES OF SATELLITE DATA COLLECTION SYSTEMS
+
+A satellite Data Collection System (DCS) comprises three subsystems:
+
+(a) A network of automatic sensing stations called Data Collection Platforms (DCPs) that send environmental data to a satellite according to the researchers' requirements;
+
+(b) A satellite polar-orbit or geostationary) that relays data from the DCPs to a ground receiving station;
+
+(c) A ground receiving station that receives, decodes, and processes data and distributes it to users in appropriate computer format.
+
+Figure No. 1 shows a general outline of a DCS and Figure No. 2 shows a typical DCP installation plan.
+
+At present LANDSAT and GOES satellites are being used to relay the meteorological data collected by four DCPs installed by Chile on the Antarctic Peninsula.
+
+Nimbus and Tiros-N satellites will also be for this purpose in the future, inasmuch as their features enable them to relay data from mobile DCPs (ocean buoys and atmospheric balloons), to determine their position, and to receive evaluated environmental data. Because DCPs use very little power it is possible to recharge their 12-volt batteries by using solar panels or small wind chargers.
+
+The LANDSAT series is operated by the United States National Aeronautics and Space Administration (NASA). LANDSAT-3 is now being used to relay data. This series has a nearly circular polar orbit at about 900-kilometer altitude and it completes 14 revolutions per day. The orbit path moves daily in a westerly direction in 18-day cycles, which enables the satellite to obtain high resolution images of the entire planet. The satellite only relays DCP data when crossing the DCP-receiving station mutual visibility zone, as shown in Figure No. 3. Moreover, it crosses this zone at least once every 12 hours and it remains in it from 5 to 10 minutes each time.
+
+DCPs store up to 12 readings of sensor data and transmit them, normally every 90 seconds. Usually no more than 3 or 4 groups of stored data are used (which is equivalent to reading the sensors every 3 to 4 hours); therefore, their transmission takes no more than 4 to 6 minutes. In this manner, under normal conditions, information read every 3 to 4 hours may be relayed every 12 hours. Sometimes this is not enough and geostationary satellites must be used to increase data relaying capacity. However, this type of satellite has problems in relaying data from DCPs located at latitudes exceeding 75°N or 75° S. Up to eight different analogue sensors can be employed in each DCP.
+ANT/X/12
+
+- 4 -
+
+LANDSAT has one sole channel (401.5 MHz) that enables it to operate 
+with about one thousand DCPs on a random access basis (without a DCP data 
+transmission schedule).
+
+The GOES series is operated by the United States National Oceanic 
+and Atmospheric Administration (NOAA).  This series consists of geo-
+stationary satellites located at about 36,000 kilometer altitude.
+
+The system comprises two satellites located at 75°W and 135°W longitude 
+over the equator and two reserve satellites (one in orbit and one on the 
+ground; the latter capable of being launched within 30 days).  There is 
+permanent visibility between the DCPs and the receiving stations located 
+in the broad zone of activity of every satellite, as shown on Figure No. 4. 
+For this reason, the DCP data transmission are rigidly scheduled in terms 
+of frequency and time.  Every satellite has 100 channels on the 401.5-
+401.75 MHz band for self-programmed DCPs and 100 channels on the 401.75-
+402.0 MHz band for DCPs that must be queried.
+
+Self-programmed DCPs transmit data at fixed intervals set by the 
+researcher during their installation.  These intervals range from 15 
+minutes to 63 hours and 45 minutes, in 15 minute increments.
+
+DCPs that are queried can send information at any time.  A query signal 
+is sent by the receiving/command station through the satellite to activate 
+the DCP transmission.
+
+The power consumption of these DCPs is higher than that of the self-
+programmed DCPs.
+
+Both types of DCP can read the sensors at 6- or 15-minute increments 
+over total reading periods ranging from 6 minutes to 63 hours and 45 
+minutes.
+
+Usually self-programmed DCPs read sensors every 15 minutes, store the 
+data, and transmit them every 3 hours.  DCPs that must be queried usually 
+operate every 3 hours, but in emergency situations they may be queried at 
+any time.
+
+Each satellite can operate with about 30,000 DCPs.  This system is 
+more effective than polar satellite systems, although its operation is 
+limited to a zone between 75°N or 75°S latitude.  Moreover, the system 
+cannot be operated with mobile DCPs.
+
+A Global Meteorological Observation System has been created through 
+the WMO consisting of polar-orbit and geostationary satellites that obtain 
+DCP images and data.  This sytem could be used to establish an Antarctic 
+Global Environmental Data Collection System.
+- 5 -
+
+4.  MAIN FEATURES OF THE CHILEAN PROGRAM ON THE ANTARCTIC PENINSULA AND 
+POTENTIAL EXPANSION OF THE SYSTEM TO COVER THE ALL OF ANTARCTICA
+
+This Program contemplates a network of fixed and mobile sensing stations 
+(DCPs) on the Antarctic Peninsula.
+
+These sensing stations will measure chiefly meteorological parameters, 
+but they will also measure others relating to glacio1ogy, hydrography, 
+oceanography, vulcanology, ecology, etc.
+
+The information measured by these DCPs will be relayed to Santiago 
+via geostationary and polar-orbit satellites.
+
+The DCPs will send their data via satellite to the satellite data 
+receiving station at Santiago.  A telemetric link will enable sending these 
+data rapidly from Pudahuel, the President Frei Antarctic Regional 
+Meteorological Center on the Antarctic Peninsula, from where they will be 
+distributed to other bases on the Peninsula and throughout the Continent 
+through the other Regional Meteorological Centers.
+
+Figure No. 6 shows an outline of the plan.
+
+The role of the President Frei Base as an Antarctic Regional 
+Meteorological Center will thus be substantially increased for the benefit 
+of the entire Antarctic community.
+
+Most of the infrastructure is in place and will be significantly 
+improved during 1980 and 1981, as noted in Annex B to the presentation 
+of the Delegation of Chile at this Tenth Consultative Meeting.
+
+At present, LANDSAT data is being received directly at the Santiago 
+NASA station.  It is hoped that during the first half of 1980 it will also 
+be possible to receive directly data sent by the GOES satellite.  Meanwhile, 
+GOES data is being received by NOAA in the United States and mailed to 
+Santiago under a cooperation agreement concluded between NOAA, the U.S. 
+Geological Survey, NASA, and the University of Chile. For the time being, 
+this delay is inconsequential, inasmuch as the project is still in an 
+experimental stage.
+
+The system planned by Chile for establishment on the Antarctic 
+Peninsula may be expanded to form an Antarctic Global system that will 
+make it possible to supplement conventionally collected meteorological 
+data throughout the continent.  The three existing Antarctic Regional 
+Meteorological Centers (Frei, McMurdo, and Molodeshnaya) may form the 
+basis of this global system without ruling out the possibility of parti-
+cipation by other Antarctic Centers for the purpose of supplementing the 
+work of the Regional Centers.  The basic idea is to have each Regional 
+Center collect the data corresponding to the DCPs located in its own 
+region and distribute them, together with the data collected by con-
+ventional means, to the Antarctic bases in its zone and to other regional 
+Centers.  Figure No. 7 summarizes this idea.
+ANT/X/12
+
+- 6 -
+
+In this connection, the following thoughts should be borne in mind:
+
+(a) It would be desirable for the regional networks to be 
+established with contributions from the countries that 
+have established bases in the region of each Regional Center.
+
+(b) Using the present geostationary and polar-orbit satellite 
+system that constitutes the World Meteorological Observation 
+system, data collection for each region could be carried out 
+by receiving stations located in Antarctica or in the 
+countries concerned, as necessary.
+
+5. MAIN FEATURES OF THE CHILEAN ACTIVITIES.  PRELIMINARY RESULTS AND 
+OUTLOOK
+
+During the XXXII Chilean Scientific Commission (February/March 1978) 
+three DCPs were installed in the vicinity of the Chilean Antarctic Bases: 
+Frei and O'Higgins ARMC.  These DCPs measure meteorological parameters 
+such as wind velocity and direction, air temperature, snow temperature, 
+air humidity, solar radiation, and atmospheric pressure.  Originally, 
+the three DCPs sent to the LANDSAT satellite data corresponding to 
+hourly readings of the sensors, and they transmitted them every 30 
+seconds.  Experience taught us that such frequent readings were not 
+necessary and the satellite often could not relay all the data.  Moreover, 
+that procedure increased battery power consumption.  Therefore, during 
+the scientific season 1978/1979 (XXXIII Commission, January/February 1979) 
+the program was modified so that one of the Frei ARMC DCPs and the 
+O'Higgins Base DCPs would read the sensors every four hours and send a 
+group of data every 90 seconds.  The other Frei ARMC DCPs had been 
+modified in December 1978 and it is now working with the GOES satellite, 
+reading data every 15 minutes, storing them, and transmitting them every 
+three hours.  These data are received by NOAA in the United States and 
+mailed to Chile through the U.S. Geological Survey.
+
+A metal structure with a watertight thermal box has been used to 
+house the various components.  It contains the transmitting equipment, 
+the batteries, and the electronic interfaces of the senors.  Moreover, 
+the structure has masts that hold the sensors, the solar panels, and 
+the antenna.  The general plan of the installation is shown in Figure No. 8.
+
+The tower, made up of aluminum segments bolted together, was designed 
+to be installed on any type of terrain (rock, gravel, ice) and to be 
+assembled quickly.  Photographs 1 to 6 show some details of the Frei ARMC 
+and the O'Higgins Base installations.  Photograph No. 2 makes it possible 
+to compare the LANDSAT and GOES antennas.  Figure No. 9 shows the location 
+of the first four DCPs installed by Chile on the Antarctic Peninsula.
+
+In January and February 1979 a major step was taken toward the 
+establishment of the DCPs network planned by Chile, consisting of the 
+installation of a fourth DCP  on the Wedell seacoast at a remote site 
+isolated from any human presence during the entire year.  In order to
+- 7 -
+
+accomplish this, the Antarctic Peninsula was crossed starting from
+General Bernardo O'Higgins Base and using caterpillar tractors.  The
+distance traveled was about 100 km., but the Peninsula had to be crossed
+three times.  Thus a total distance of over 500 km. of dangerously
+fissured ice was covered under unpredictable cloud coverage and wind
+conditions.  Photographs 7 to 11 show some of the highlights of this
+difficult expedition which demonstrated the feasibility of installing and
+operating DCPs in remote and isolated sites.  Photographs 12 and 13 show
+details of the installed tower with the new 20-watt solar panels.  This
+new DCP measures the following parameters:  wind velocity and direction,
+air temperature and humidity, and incident, reflected and net solar
+radiation.  Its sensors are read every six hours and are subsequently
+relayed to Santiago every 12 hours via satellite.
+
+6.  THE CHIEF FINDINGS OF THE CHILEAN ACTIVITIES MAY BE SUMMARIZED AS FOLLOWS:
+
+      (a) The metal structure consisting of aluminum segments bolted together
+that is used to house the various electronic components has been found to be
+very useful and its design has been found very appropriate for Antarctic
+conditions.
+
+      (b) The 20-watt solar panels yield better results than the 3.5-watt
+panels initially used.  A system of five 12-volt batteries of 20 AH
+capacity each and two 20-watt solar panels provide adequate enerty supply
+for a DCP for a one-year period.  An alternative worth trying is using
+wind generators combined with solar panels.
+
+      (c) When using the LANDSAT satellite it is advisable to read sensors
+at intervals of 3 hours or more in order to minimize power consumption and
+to ensure relay of all the groups of data obtained during the satellite
+transmission cycle.
+
+      (d) DCPs operation in the GOES mode, with sensors read every 15
+minutes and data transmission every three hours, results in slightly
+decreased power consumption as compared with operation in the LANDSAT
+mode.  However, this difference may be absorbed by the batteries, solar
+panels and generators.
+
+      (e) From 80 to 90 percent of the DCPs messages are relayed accurately
+by the LANDSAT satellite.
+
+      (f) The rate of accurate relay by the GOES satellite is in the order
+of 80 percent, which is approximately the same as the results obtained in
+continental zones at lower latitudes.  The higher data relay capacity of
+the GOES satellite, as compared to the capacity shown by polar-orbit
+satellites, should also be noted.
+
+      (g) Sensors should be resistant to the severe environmental conditions
+prevalent.  The STRATWANE type sensor has given the best results in
+measuring wind velocity and direction.
+- 8 -
+
+(h) Some of the problems that have arisen because of unreliable readings yielded by some sensors will be corrected in the future by improving calibration and observing the warm-up period strictly (some sensors must be energized some 5 to 10 minutes before readings, which, of course, increases power consumption.
+
+7.  CONCLUSIONS
+
+(a) In view of the successful preliminary results achieved it is possible to consider the possibility of establishing a network of fixed and mobile DCPs on the Antarctic Peninsula.
+
+(b) Satellite Data Collection Systems are an excellent alternative to the problem of collecting environmental data from remote sites in Antarctica.
+
+(c) This system may be expanded throughout Antarctica to form a Global Antarctic Environmental Observation System using man-made satellites.
+
+*   *   *
+ENVIRONMENTAL     PARAMETERS           DATA DISTRIBUTION
+(hydrology,meteorology, oceanography,
+vulcanology, forestry, etc.)
+
+                  FIGURE 1
+CHART OF A SATELLITE DATA COLLECTION SYSTEM (DCS)
+
+
+DCP INSTALLATION
+GENERAL SCHEME
+
+                  FIGURE 2
+CHART OF A TYPICAL DCP INSTALLATION
+ANTENA DE COMANDO
+PANELES PARA
+ENERGIA SOLAR
+SISTEMA DE
+CONTROL DE
+POSICION
+ANTENA DE
+TRANSMISION
+MSS
+CAMARAS RBV
+ANTENA DCS
+CAMARA
+INFRARROJA
+Y VISIBLE
+TELEMETRIA VHF
+MAGNETOMETRO
+1.88 Diám.
+1.24 m.
+ANTENA DE
+BANDA-S
+ANTENA UHF
+0.51 m.
+1.25 Diam.
+FIGURE 3a. SATELITE LANDSAT.
+FIGURE 4a. SATELITE GOES.
+PLAN VIEW OF DIFFERENT SITUATIONS
+OF MUTUAL VISIBILITY
+
+FIGURE 3b
+
+WHEN THE SATELLITE ENTERS THE CROSS-HATCHED ZONE
+THE DCP RELAYS THE MESSAGE.  THIS FIGURE SHOWS AN
+ACTIVE SATELLITE PASS ABOVE THE RECEIVING STATION
+
+MUTUAL VISIBILITY ZONE
+
+                  120o          285o (typical)
+               (typical)
+
+VERTICAL VIEW OF MUTUAL VISIBILITY
+ZONE
+
+FIGURE 3c
+
+GEOMETRY OF THE LANDSAT DSC
+180  180  160  140  120  100  80  60  40  20  0  20  
+80
+60
+DCP
+40  ANTENNA
+ELEVATION
+20
+0
+20
+40
+60
+80
+180  180  160  140  120  100  80  60  40  20  0  20  
+
+FIGURE 4b
+
+Chart of DCS/GOES reception by two satellites at 1150 W and 
+750 W above the equator in relation to the angle of elevation 
+of the DCP antenna directed toward the satellite.
+GMS 
+(ESA)
+140°W
+boaa 
+QUAO
+Meteor 
+(SSA)
+GMS 
+(Japan)
+140°E
+GMS 
+(ESA)
+75°E
+GMS 
+(ESA)
+GOES 
+(USA)
+GOES 
+(USA)
+35.800 km
+GMS 
+(ESA)
+0°
+GMS 
+(ESA)
+Indian 
+(India)
+60°E
+Com 
+(USA)
+GMS 
+(ESA)
+GOES-E 
+(USA)
+Com 
+(USA)
+60°W
+Insat 
+(India)
+Com 
+(USA)
+FIGURE 5a  SCHEME OF THE GLOBAL SATELLITE OBSERVING 
+SYSTEM FOR METEOROLOGICAL INFORMATION, 
+INCLUDING GEOSTATIONARY AND POLAR ORBIT-
+ING SATELLITES.
+
+FIGURE 5b  SCHEME OF THE GEOSTATIONARY SATELLITES 
+OF THE GLOBAL METEOROLOGICAL OBSERVING 
+SYSTEM.
+LEGEND:
+Δ  DCPs                  ---  Information interchange lines
+                         →  Meteorological data (DCPs/images)
+
+FIGURE 6. CHART OF THE OPERATION OF THE SATELLITE ENVIRONMENTAL DATA COLLECTION
+          SYSTEM TO BE OPERATED BY CHILE ON THE ANTARCTIC PENINSULA
+FIGURE 9
+
+MAP SHOWING THE LOCATION OF DCPs
+INSTALLED BY CHILE ON THE ANT-
+ARTIC PENINSULA
+wind direction
+sensor                                  ANTENNA
+(LANDSAT type)
+solar radiation             air humidity
+sensor                        sensor
+air tem[?]ure
+sensor
+steel cables
+DCP
+80X
+snow
+temp
+sensor
+tower
+founda-
+tion
+PLAN VIEW
+INSTALLATION
+OF DCPs IN CHI-
+LEAN ANTARTIC.
+SCALE approx
+0        1.0 1.5
+meters
+(the size of sensor
+antenna and solar
+panel are exagerated)
+
+FIGURE 8
+
+CHART OF DCP INSTALLATION IN CHILEAN ANT-
+ARCTIC TERRITORY
+PHOTO 1. Installation of two (2) DCPs
+in President Frei Antarctic
+Regional Meteorological Center.
+
+PHOTO 3. Installation of DCP in
+General B. O'Higgins Base.
+At center is the protective
+case for the transmitter and
+other electronic components.
+
+PHOTO 2. Detail of the DCPs in-
+stalled in President Frei
+Antarctic Regional Mete-
+orological Center.  In
+mast (A) there are mete-
+orological sensors; mast
+(B) supports the LANDSAT
+antenna; in mast (C)
+there are meteorological
+sensors; mast (D) supports
+the GOES antenna and the
+solar panel.
+PHOTO 4. Solar radiation sensors 
+(left) and air temperature 
+sensors (right).
+
+PHOTO 5. Air relative humidity 
+sensor (right).
+
+PHOTO 6. Protective case for 
+the transmitter (A), 
+batteries (B), and 
+electronic interfaces 
+of the sensors (C).
+PHOTO 7. Photograph of the 
+caterpillar tractor 
+(SNOCAT) crossing 
+the mountain chain, 
+through Mackenna 
+Landing, in order to 
+start the descent 
+toward the Weddell 
+Sea.
+
+PHOTO 8. Sledge of the 
+caterpillar tractor 
+(SNOCAT) on an ice 
+fissure.
+PHOTO 9a. Rescue of the 
+caterpillar 
+tractor (SNOCAT) which 
+had fallen into an ice 
+fissure in heavy fog.
+
+
+PHOTO 9b. Exploring party 
+sounding the ice 
+for fissures.
+PHOTO 10. Antarctic land-
+scape seen from
+the DCP installation site
+in the Weddell Sea.  Note
+the mountain chain which
+separates the Bellinghausen
+and Weddell seacoasts.
+
+PHOTO 11. Photograph of the
+caterpillar
+tractor (SNOCAT) from the
+DCP installation site on
+the Weddell seacoast.
+PHOTO 12a. Location of the 
+DCP installed on 
+the Weddell seacoast.
+
+PHOTO 12b. Detailed photograph 
+of the DCP installation 
+on the Weddell seacoast.  Note 
+the 20 watt panels (2) used to 
+recharge the transmitter betteries.
+
+PHOTO 13. Detail of the sensors 
+and LANDSAT antennas 
+in use.

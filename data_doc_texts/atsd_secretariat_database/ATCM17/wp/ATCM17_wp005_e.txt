@@ -1,0 +1,232 @@
+ANTARCTIC TREATY
+XVIIth CONSULTATIVE MEETING
+TRAITÉ SUR L'ANTARCTIQUE
+XVIIème RÉUNION CONSULTATIVE
+
+TRATADO ANTÁRTICO
+XVII REUNION CONSULTIVA
+ДОГОВОР ОБ АНТАРКТИКЕ
+XVII КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+VENICE
+11-20 november 1992
+
+XVII ATCM/WP 5
+9 November 1992
+Original: English
+
+PROPOSAL FOR
+AN ANTARCTIC DATA MANAGEMENT SYSTEM
+Report by the SCAR-COMNAP ad hoc Planning Group on Antarctic Data Management
+Washington DC, USA, October 1992
+
+Agenda Item 9
+
+(Submitted by the Scientific Committee on
+Antarctic Research - SCAR)
+ANTARCTIC TREATY
+XVIIth CONSULTATIVE MEETING
+Venice, Italy
+11-20 November 1992
+
+ 
+PROPOSAL FOR
+AN ANTARCTIC DATA MANAGEMENT SYSTEM
+
+Report by the SCAR-COMNAP
+ad hoc Planning Group on Antarctic Data Management
+Washington DC, USA, October 1992
+
+
+Environmental Monitoring
+Agenda Item 9
+
+[Submitted by the Scientific Committee on Antarctic Research (SCAR)]
+PROPOSAL FOR
+AN ANTARCTIC DATA MANAGEMENT SYSTEM
+
+Report by the SCAR-COMNAP
+ad hoc Planning Group on Antarctic Data Management
+Washington DC, USA, October 1992
+
+EXECUTIVE SUMMARY
+
+This report was prepared by the SCAR-COMNAP ad hoc Planning Group on Antarctic Data Management, following the terms of reference agreed at XXII SCAR in June 1992. Earlier ATCM concerns with the accessibility and comparability of scientific data have recently been highlighted by the requirements for environmental monitoring defined by the Madrid Protocol on Environmental Protection to the Antarctic Treaty, and research into global change under the International Geosphere-Biosphere Programme (IGBP).
+
+Better data management can improve both the quality and economics of Antarctic operations and science. While there are a number of creditable initiatives underway in member countries, SCAR and other international agencies, these do not adequately address the need to improve Antarctic data access and comparability on a multi-national and multi-disciplinary basis. The Planning Group noted that the First Meeting of Experts on Environmental Monitoring in Antarctica (Buenos Aires, June 1992) recommended development of an international data management system for the collection, validation, archiving and exchange of environmental monitoring data. The Group considers that the key requirements are for an integrated directory of all Antarctic data, international data standards, and ultimately, some form of international database system.
+
+A directory is regarded as the most appropriate starting point for overall Antarctic data management, as it will directly address the problems of awareness and access and is a necessary prerequisite for an effective database system. However, the development of a comprehensive integrated directory of Antarctic data is not a trivial task. It will require the commitment and participation of all member countries, and significant on-going resources. Failure to provide this commitment and support will inevitably lead to unnecessary duplication of expenditure, lost opportunities for cooperation, and a lower return on investment from Antarctic science.
+
+The Planning Group has defined two phases for development of an Antarctic Data Management System: Phase 1, Directory System and Phase 2, Database System. A framework, implementation plan and resource estimate for the Directory System are proposed in this report. The framework builds on the existing International Directory Network (IDN) established by the US, European and Japanese space agencies. The IDN provides an existing directory infrastructure, already contains some Antarctic data descriptions, is being used by the IGBP Data and Information System, and its Directory Interchange Format (DIF) can be readily adapted to Antarctic needs.
+
+The proposed framework involves:
+•   identification of a National Antarctic Data Centre in each member country;
+•   development of an Antarctic DIF tool kit to assist countries to produce national directories;
+•   establishment of an Antarctic Master Directory (AMD) holding the DIF records from each country.
+PROPOSAL FOR
+AN ANTARCTIC DATA MANAGEMENT SYSTEM
+
+Report by the SCAR-COMNAP
+ad hoc Planning Group on Antarctic Data Management
+Washington DC, USA, October 1992
+
+1. BACKGROUND
+
+The issue of data management was first raised within the Antarctic Treaty System with ATCM
+Recommendation XIII-5 (1985) which called on SCAR for advice on steps that could be taken
+to improve the comparability and accessibility of Antarctic scientific data, in the context of
+additional protective arrangements for the Antarctic environment. In response to this SCAR
+carried out an initial review of databases in the biological sciences and then in 1989 established
+the SCAR ad hoc Committee on the Coordination of Antarctic Data (CCAD). Subsequent to
+this, ATCM Recommendation XV-16 (1989) made a number of recommendations to
+governments to assist the work of the CCAD, including assisting in the development of an
+Antarctic scientific data directory.
+
+Following adoption of the environmental protocol, the First Meeting of Experts on
+Environmental Monitoring in Antarctica (June, 1992) identified a number of requirements for a
+coordinated Antarctic data system to support the needs of environmental assessment and
+monitoring. The Group also highlighted that establishment of an environmental monitoring data
+system would facilitate the creation of a broader system for all scientific data collected in
+Antarctica.
+
+The SCAR-COMNAP ad hoc Planning Group on Antarctic Data Management was established
+at XXII SCAR in June 1992 to replace the CCAD. The terms of reference for the Planning
+Group include the development of a plan for the coordination and management of Antarctic
+data, taking into account SCAR's programmes and requirements under the Antarctic Treaty
+System especially with respect to the Protocol on Environmental Protection to the Antarctic
+Treaty.
+
+In addressing data management, the Planning Group considers that the term 'data' includes raw
+and processed scientific, monitoring and logistic data, as digital, analog or physical records.
+'Information' in forms such as published reports and bibliographies has not been considered.
+
+2. THE PROBLEM
+
+Article III (1) (c) of the Antarctic Treaty calls on parties to exchange and make freely available
+scientific observations and results from Antarctica, so establishing the political context for
+addressing Antarctic data management. The scientific context arises from the increasingly large
+and complex issues being addressed, including environmental monitoring under the Madrid
+Protocol on Environmental Protection to the Antarctic Treaty and global change programmes
+such as the IGBP. These are multi-disciplinary and multi-national programmes, requiring a
+high degree of cooperation. Data management also has an economic context. Data and
+information are the primary assets derived from Antarctic expenditure, and so must be carefully
+managed.
+
+3
+4. REQUIREMENTS ANALYSIS
+
+The goal of the proposed framework is to ensure access and comparability of multi-national, 
+multi-disciplinary, and multi-type Antarctic data. To reach this goal, both scientific and 
+management requirements have been identified.
+
+Scientific requirements include:
+    • knowledge of data existence;
+    • availability of meta-data (information about data, for example equipment used for data 
+      collection or the analysis method);
+    • provision for data access;
+    • definition of standards for data transfer;
+    • development of a glossary of terms;
+    • existence of a data inventory, data repository, and on-line access procedures.
+
+Management requirements include:
+    • agreement by SCAR and COMNAP on the proposed framework;
+    • commitment by all parties to realize the goal;
+    • provision of adequate funding;
+    • effective participation of the parties;
+    • education of potential users.
+
+These requirements form the basis for the following framework and implementation plan.
+
+5. PROPOSED FRAMEWORK
+
+The Planning Group recognizes that development of the required comprehensive and integrated 
+system will require two phases.
+
+1. The development of an Antarctic Data Directory System.
+2. The establishment of an Antarctic Database System.
+
+A directory is regarded as the most appropriate starting point for overall Antarctic data 
+management, as it will directly address the problems of awareness and access and is a 
+necessary pre-requisite for an effective database system.
+
+The US, Japanese and European space agencies have jointly set up the International Directory 
+Network (IDN), based on the Directory Interchange Format (DIF). Participation in the IDN is 
+increasing, and the Global Change Master Directory already contains over 400 data set 
+descriptions relating to Antarctica. DIF can be readily adapted to Antarctic needs through the 
+addition of appropriate key words. The Planning Group therefore recommends that IDN/DIF 
+be used as the platform for development of the Antarctic Data Directory System. The 
+alternative of developing a new system would require significantly more time and money.
+
+Elements of the proposed Antarctic Data Directory System are:
+
+National Centres: Will provide a focal point and coordination inside each member country; 
+                 will produce Antarctic Directory Interchange Format (ADIF) records in computer or 
+                 hard-copy form to be included in the Antarctic Master Directory (AMD); may choose to 
+                 become computer-based AMD nodes; may choose to hold a copy of the AMD.
+
+Group Nodes:     May choose to hold a copy of the AMD; may function as shared resources 
+                 for groups of countries or as facilities to support particular programmes or disciplinary 
+                 groups.
+
+AMD Node:       As part of the IDN, will hold a current copy of the IDN software; will 
+                 maintain and update the AMD by receiving ADIFs from National Centres; will provide 
+                 support to National Centres and to users of the AMD.
+
+5
+Implementation will involve:
+	• designation by member countries of their National Antarctic Data Centres, which will 
+develop their own Antarctic data directories;
+	• development of Antarctic key words, with the participation of SCAR Working Groups;
+	• development of an ADIF tool kit to assist National Centres to prepare Antarctic DIFs;
+	• development by Antarctic programmes, for example ANTOSTRAT, AGONET and 
+Antarctic-IGBP, of their own directories using the ADIF;
+	• collection of all ADIFs from National Centres and Antarctic programmes into the AMD.
+
+The AMD will be available on-line and should also be published on CD-ROM or other 
+appropriate media. This will ensure wide dissemination and will encourage participation by 
+countries and individuals.
+
+The Planning Group considers that a workshop with the following objectives should be part of 
+the implementation:
+	• encourage a network of Antarctic data managers;
+	• define data standards and protocols, for areas such as ownership, right of first use, data 
+access and data transfer;
+	• provide education and training on the AMD and use and implementation of ADIFs.
+
+Workshop delegates should represent a wide range of disciplines, SCAR and COMNAP 
+Working Groups, National Antarctic Data Centres and other relevant organizations, including 
+the IDN.
+
+Table 1 provides a guide to the resources required to finalize the design for the Antarctic Data 
+Directory System. Completion of the design will require a further US $11,000 and 65 
+working days during 1992/93 by the members of the Planning Group. Funding for the 
+workshop, and the support of member countries to send delegates will also be required.
+
+Implementation of the Antarctic Data Directory System will require the equivalent of 2 full time 
+staff for the life of the system, responsible to a SCAR-COMNAP Steering Committee. Start-up 
+costs for hardware, etc, are estimated at US $50,000 with on-going costs of some US 
+$200,000 each year. These costs could be reduced if the system was hosted and subsidized by 
+an existing facility.
+
+List of Acronyms
+
+AGONET         Antarctic Geospace Observatory Network
+ADIF             Antarctic Directory Interchange Format
+AMD             Antarctic Master Directory
+ANTOSTRAT     Antarctic Offshore Acoustic Stratigraphy Project (SCAR)
+ATCM            Antarctic Treaty Consultative Meeting
+BIOMASS        Biological Investigations of Marine Antarctic Systems and Stocks (SCAR)
+CCAD            SCAR ad hoc Committee on the Coordination of Antarctic Data
+CD-ROM         Compact Disc - Read Only Memory
+CEOS             Committee on Earth Observation by Satellites
+CODATA          Committee on Data for Science and Technology (ICSU)
+COMNAP        Council of Managers of National Antarctic Programmes
+DIF                IDN Directory Interchange Format
+ICSU             International Council of Scientific Unions
+IDN               International Directory Network
+IGBP             International Geosphere-Biosphere Programme
+SCAR             Scientific Committee on Antarctic Research
+SDLS             Seismic Data Library System
+UNEP             United Nations Environment Programme
+WMO              World Meteorological Organization
+7

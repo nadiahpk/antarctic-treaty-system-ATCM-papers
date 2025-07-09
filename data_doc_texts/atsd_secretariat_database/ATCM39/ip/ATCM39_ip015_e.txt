@@ -1,0 +1,87 @@
+﻿
+
+
+
+
+
+The Year of Polar Prediction
+
+
+
+
+
+
+
+
+The Year of Polar Prediction
+1. Introduction
+Polar prediction has never been as high on the international weather and climate research agenda as today. Increasing economic, tourism, transportation, and scientific activities in polar regions, fuelled by climate change and its polar amplification, are leading to more demands for enhanced environmental prediction capabilities to support decision-making. Furthermore, there is increasing evidence that weather and climate in the polar regions have a substantial influence on the lower latitudes. However, forecasting capabilities in the polar regions are lagging behind compared to mid- and low-latitude predictions. The probably most important reason for this is the sparseness of polar observations (Figure 1), posing challenges to data assimilation1, process understanding, model development, and forecast verification2.
+Realising that significant knowledge gaps in terms of observational coverage and process understanding exist, the World Meteorological Organization (WMO) has initiated major efforts to address the lagging environmental forecasting capabilities at the poles, focussing on hourly-to-seasonal [Polar Prediction Project (PPP)] and on seasonal-to-centennial [Polar Climate Predictability Initiative (PCPI)] time scales. A key element of these activities is the Year of Polar Prediction (YOPP) with a Core Phase from mid-2017 to mid-2019.
+
+The YOPP Mission is to:
+Enable a significant improvement in environmental prediction capabilities for the polar regions and beyond, by coordinating a period of intensive observing, modelling, prediction, verification, user-engagement and education activities.
+
+More specifically, the objectives of YOPP are to:
+
+    1. Improve the existing polar observing system (better coverage, higher quality and efficiency);
+    2. Gather additional observations through field programmes aimed at improving understanding of key polar processes;
+    3. Develop improved representation of key polar processes in prediction models;
+    4. Develop improved (coupled) data assimilation systems accounting for challenges in the polar regions such as sparseness of observational data;
+    5. Explore the predictability of the atmosphere-cryosphere-ocean system, with a focus on sea ice, on time scales from days to seasons;
+    6. Improve understanding of linkages between polar regions and lower latitudes and assess skill of models representing these linkages;
+    7. Improve verification of polar weather and environmental predictions to obtain better quantitative knowledge on model performance and prediction skill, especially for user-relevant parameters;
+    8. Demonstrate the benefits of using predictive information for a spectrum of user types and services;
+    9. Provide training opportunities to generate a sound knowledge base (and its transfer across generations) on polar prediction science.
+
+
+  
+Figure 1: Conventional observations that were assimilated by the operational forecasting system at the European Centre for Medium-Range Weather Forecasts (ECMWF) on 15 April 2015. Different colours are used for different observation types (see legend). The striking polar observational gaps exist also for other important data types, in particular Argo floats in the ocean. Figure from Jung et al. (2016).
+
+As reflected in its mission statement, YOPP is an extended period of coordinated intensive observational and modelling activities, aimed at improving prediction capabilities for the Antarctic, the Arctic and beyond. This concerted effort will be augmented by research into forecast-stakeholder interaction, verification, and a strong educational component. Being rooted in the Polar Prediction Project, YOPP concentrates on time scales from hours to seasons. With its clear focus on polar prediction rather than a very broad range of polar science topics, YOPP is quite different from IPY (the International Polar Year 2007-2008). Prediction of key variables such as visibility, wind, precipitation, and in particular sea ice, is central to YOPP. The presence of linkages between polar and non-polar regions suggests that the benefit of YOPP will extend beyond the polar regions. 
+Extra observations will be crucial to YOPP in order to (i) optimize the polar observing system, (ii) generate the knowledge necessary to improve the representation of key polar processes in models, and (iii) provide ground-truthing that it is so important to exploit the full potential of the space-borne satellite network. YOPP will provide an opportunity for testing new observational activities, and will encourage research, development and employment of innovative systems.
+Another important aspect of YOPP will be a strong virtual component through involvement of the numerical modelling community, encompassing models of the atmosphere, ocean, sea ice, and land. Operational model runs will cover time scales from hours to seasons. A particular focus will be on sea ice, since for polar regions this medium is both a critically important environmental variable to be predicted, and a strong modulator of other weather-related phenomena.
+Striving to improve polar predictions, the additional observations collected during YOPP will be utilized in several ways. The observations will be used (i) in data assimilation systems to improve forecast initialization, assess the relative merits of different observation types, locations, and frequencies, and further develop coupled data assimilation techniques, (ii) as basis for forecast verification, and (iii) to study processes that are key to improved polar predictions, for example processes related to the stable boundary layer, sea ice, mixed-phase clouds, and polar lows. YOPP-related data from observations and models will be shared using standardised interfaces and documentation standards, also enabling long-term data preservation. A dedicated YOPP Data Portal will provide a unified framework of the data hosted by the data centres contributing to YOPP.
+YOPP will also: explore largely uncharted territory in the area of polar forecast verification; contribute to our understanding of the value of improved polar prediction capabilities; and help to educate the next generation of scientists. YOPP will be carried out in three phases: a Preparation Phase from 2013 to mid-2017, a Core Phase from mid-2017 to mid-2019, and a Consolidation Phase from mid-2019 to 2022 (Figure 2). Each of these phases is discussed in the following sections.
+
+To create favourable conditions for a successful YOPP, strategic aspects are to:
+    A. Strengthen linkages between academia, research institutions and operational forecasting centres;
+    B. Establish and exploit special research data sets that can be used by the wider research community and forecast product users;
+    C. Establish a common virtual data archive through integration of contributing archives;
+    D. Link with space agencies;
+    E. Promote YOPP with funding agencies;
+    F. Develop strong linkages with other initiatives;
+    G. Promote interactions and communication between research and stakeholders;
+    H. Foster education and outreach.
+
+
+Figure 2: The phases of YOPP and key activities therein
+
+2. YOPP Preparation Phase (to mid-2017)
+YOPP was devised following the first meeting of the PPP Steering Group in Switzerland in December 2011. The initial concept for YOPP is outlined in the PPP Implementation Plan (WWRP/PPP No. 2 – 2013). The PPP International Coordination Office, hosted at the Alfred Wegener Institute in Germany and responsible for the overall management of PPP, is also in charge of the overall management of YOPP.
+The current Preparation Phase is crucial for the success of YOPP. It involves a number of aspects – overall planning, engagement with stakeholders, coordination of observations and related field programmes, promotion of modelling activities, establishment of a data portal, preparatory research, involvement of funding agencies, and the (co-)organisation of numerous science workshops.
+Following annual YOPP Planning Meetings since 2013, the YOPP Summit in 2015 assembled about 120 scientists, stakeholders, and representatives from operational forecasting centers, international bodies, and funding agencies to make major progress in the planning of the approaching YOPP Core Phase. The outcomes of the YOPP Summit are the basis for a final revision of the YOPP Implementation Plan, which will be published in early 2016.
+The identification of, and engagement with, key partners for YOPP is an important element of the Preparation Phase. Another crucial element is the excitation of, support for, and coordination of individual projects and initiatives that fill YOPP with life. To this end a YOPP endorsement process has been established after the YOPP Summit. Since October 2015, 15 projects and initiatives have been granted YOPP endorsement after successful review by the PPP Steering Group (as of February 2016; see http://www.polarprediction.net/yopp/yopp-endorsement.html for updates).
+Another important outcome of the YOPP Summit was the establishment of additional sub-committees that take the lead in fostering key aspects of YOPP. The existing sub-committees on (i) Sea-Ice Prediction, (ii) Societal and Environmental Research and Applications (SERA), and (iii) Education have been complemented with committees on (iv) Southern Hemisphere aspects, (v) Coordinated Model Experiments, (vi) the YOPP Data Component, and (vii) Arctic Observations and Intensive Observing Periods. A substantial part of the further YOPP planning will take place within these sub-committees and on pre-YOPP workshops they are organizing, focussed on their respective themes.
+
+
+3. YOPP Core Phase (mid-2017 to mid-2019)
+The main YOPP activities are planned to take place during the its Core Phase, encompassing four major elements: an intensive observing period, a complementary intensive modelling and forecasting period, a period of enhanced monitoring of forecast use in decision making including verification, and a special educational effort. In this information paper we focus on observational aspects.
+YOPP will take advantage of the existing operational data gathered under WMO auspices for the globe, including polar regions. Additional observations promoted during the YOPP Preparation Phase will fall into the following categories: (i) comprehensive reference stations, (ii) field campaigns, (iii) aircraft campaigns,  (iv) shipping, (v) free troposphere, (vi) sea ice and upper ocean, (vii) open ocean, (viii) deeper ocean, (ix) autonomous sensor systems, (x) snow, (xi) land, (xii) boundary layers and clouds, and also (xiii) stakeholders. All of these categories are discussed in detail in the YOPP Implementation Plan.
+Maintaining certain types of Polar observations (e.g., four radiosonde launches daily) over two full years is not feasible. Therefore, extra observations will concentrate on Intensive Observing Periods (IOPs) within the YOPP Core Phase. Ongoing discussions on the timing of IOPs in both polar regions take into account operational feasibility, physical processes, benefit for data assimilation systems, and socio-economic relevance; the timings will be finalised and announced by autumn 2016.
+The temporal focus on IOPs does not imply that observations taken outside IOPs but within the YOPP Core Phase, or even in the late Preparation Phase or early Consolidation Phase, would not be useful for YOPP. For example, some observation types will be more continuous in nature (e.g., extra automatic weather stations and floats), and some relevant observational campaigns will not be able to comply with IOPs for practical reasons.
+Given the strong involvement of operational forecasting centers, YOPP will not only benefit from additional observations per se, but also from additional efforts to provide observational data in (near-) real-time via the WMO Information System / Global Telecommunication System (WIS/GTS3). The (revised) YOPP Implementation Plan includes a “How-To” chapter to facilitate real-time data provision for the research community.
+
+4. YOPP Consolidation Phase (mid-2019 to 2022)
+The Consolidation Phase will be as important as the earlier phases in that it will ensure to provide a legacy of YOPP. Beside the holding of synthesis workshops and conferences, implementation of YOPP findings into operational forecasting systems, and evaluation of forecast improvements and their use by stakeholders, it will be crucial to ensure proper archiving, availability, and traceability (Digital Object Identifiers) of the additional observational data generated during YOPP. To this end, a YOPP Data Portal, building on the experience of the Global Cryosphere Watch (GCW) Portal, will be implemented to enable an efficient exploitation of YOPP data.
+The additional data collected during YOPP will be used during the Consolidation Phase to evaluate the benefit of extra observations for polar predictions. This includes data denial experiments, which will provide guidance for optimizing the polar observing system. Furthermore, the extra observations along with the high-resolution numerical experiments will benefit model development and the enhancement of value of satellite data in a prediction context.
+In order to synthesize the available YOPP data and to exploit them in models, special high-resolution reanalyses for the Polar regions are planned. Such reanalyses along with the availability of reforecast data sets will provide the basis for probabilistic forecast calibration and for diagnostic and verification studies that are expected to advance polar prediction across a wide range of time scales. Finally, in particular the strong involvement of observational centers will enable a seamless legacy of YOPP by utilizing an optimized polar observing network and improved forecasting systems for better polar predictions beyond 2022.
+
+5. Final Remarks
+This Information Paper has barely touched on some aspects that are important ingredients for a successful YOPP, including coordinated model experiments, education and outreach efforts, funding aspects, verification, data assimilation, satellite data, and more. If you want to learn more, and want to stay informed, about YOPP, the website of the International Coordination Office for Polar Prediction at <http://www.polarprediction.net> hosts all relevant information, including workshop and meeting reports, the PPP and YOPP Implementation Plans, a frequently updated news section, and information on upcoming events. The contact for the YOPP is Helge F. Goessling, Alfred Wegener Institute, Bremerhaven, Germany; helge.goessling@awi.de.
+The remaining one and a half years of the Preparation Phase are crucially important to making YOPP a fruitful endeavor. Ultimately, the success of YOPP depends on the enthusiasm and willingness of scientists to contribute with their projects and initiatives. We invite requests for YOPP endorsement not only for already funded projects to maximize coordination and mutual benefits, but also to support planned projects in their efforts to obtain funding.
+
+6. Selected Publications
+    • PPP Steering Group, International Coordination Office, and Coauthors: Implementation Plan for the Year of Polar Prediction, WWRP/PPP No. 3, 2014 (newer version available by the time of the Antarctic Treaty Consultative Meeting 2016).
+    • Goessling, H. and Coauthors: Paving the Way for the Year of Polar Prediction, Bull. Am. Met. Soc., 2015.
+    • Jung, T. and Coauthors: Advancing polar prediction capabilities on daily to seasonal time scales, Bull. Am. Met. Soc., 2016.
+

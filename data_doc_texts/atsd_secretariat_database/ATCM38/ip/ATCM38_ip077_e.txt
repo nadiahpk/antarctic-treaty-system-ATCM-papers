@@ -1,0 +1,84 @@
+﻿
+
+
+
+
+
+UAV remote sensing of environmental changes on King George Island (South Shetland Islands): preliminary information on the results of the first  field season 2014/2015
+
+
+
+
+
+
+
+
+
+UAV remote sensing of environmental changes on King George Island (South Shetland Islands): preliminary information on the results of the first  field season 2014/2015
+Information Paper submitted by Poland
+
+Summary
+This paper presents preliminary information on the first season of a new monitoring program using fixed-wing Unmanned Aerial Vehicles (UAVs) to collect geospatial environmental data.  Different UAV models were tested for suitability in the King George Island weather conditions, maps of penguin (indicator species) breeding colonies in Admiralty Bay and King George Bay were made and verified with ground counts, observations on the potential overflight impact on breeding penguins were made. 
+Background
+Data collecting by UAVs is increasingly applied in different research disciplines, including wildlife censuses. First efforts to use them in environmental remote sensing were also done in the Antarctic. During the XXVII ATCM/XVII. CEP meeting (Brasilia, 2014) both potential advantages of using UAVs for research and monitoring, as well as potential safety, environmental and operational risks were discussed. UAVs were included in CEP Five-year Work Plan, and in preparation for further discussions, CEP requested papers relating Members’ experience in that matter.
+During the Antarctic summer 2014/2015 the new project MONICA (A novel approach to MONitoring the Impact of Climate change on Antarctic ecosystems) was began at the Arctowski Station. Two Polish scientific institutes (Institute of Biochemistry and Biophysics, Warsaw University of Technology) and one Norwegian institute (Northern Research Institute) cooperated in the project.
+First field season’s objectives were:
+    • Testing UAV performance in the weather conditions of King George Island,
+    • Testing safety protocols,
+    • Collecting digital aerial photographs with application of geo-information tools of penguins’ breeding colonies on King George Island,
+    • Collecting reference data from ground level (penguin nest census in accessible breeding colonies) for comparison with aerial surveys, 
+    • Observing wildlife response to UAV overflights.
+Study site
+Field studies were conducted on King George Island (South Shetland Islands, West Antarctic Peninsula) in November and December 2015. Penguin breeding colonies situated in ASPA No 128 Western Shore of Admiralty Bay, ASPA No 151 Lions Rump, and Chabrier Rock and Shag Islands (Admiralty Bay) were selected for aerial censuses. 
+Long-term monitoring programs of breeding and non-breeding birds, and pinniped species in ASPA No 128 has been conducted by US (Antarctic Marine Living Resources AMLR) and Poland (Dept. Antarctic Biology IBB PAS) over the past 34 years. Thirteen bird species regularly breed within the Area, the most numerous of which are penguins (Jabłoński 1984a, b). In 2012-13 there were 6017 breeding pairs of Adélie penguin (Pygoscelis adeliae), 984 breeding pairs of chinstrap penguin (Pygoscelis antarcticus) and 5396 breeding pairs of gentoo penguin (Pygoscelis papua) (unpublished data US AMLR program).
+Since 2007 monitoring program in ASPA No 151 Lions Rump, King George Island, South Shetland Islands was established by Poland and has been conducted during each Antarctic summer season. Observations are conducted in accordance with the CCAMLR Ecosystem Monitoring Program (CEMP) standards. Ten bird species breed in the Area, the most numerous of which are penguins (Korczak-Abshire et al. 2012). In 2013/14 there were 5,340 occupied nests of Adèlie penguins (P. adeliae), 3,548 occupied nests of gentoo penguins (P. papua), and 37 occupied nests of chinstrap penguins (P. antarcticus) (Korczak-Abshire, unpublished data).
+Chabrier Rock and Shag Island – within Admiralty Bay. Both islets have breeding colonies of chinstrap penguins (P. antarcticus) which together, in 2004, represented one-third of the total number of breeding pairs within the Admiralty Bay, with 1079 occupied nests record (Sander et al. 2007) .  This site is monitored occasionally due to difficulties in access.
+Time of experiment was determined by breeding chronology of Pygoscelis species. Nests censuses were recorded from middle of November to early December (depending on species), in a period which is approximately 1 week after peak clutch initiation. 
+Aerial surveys
+Information on UAV models used on King George Island:
+CryoWing Mk1/ (MTOW 35 kg, wingspan 3.8 m, max flight distance 400km, max flight time 360min, fuel – 95 octane gasoline),
+Skywalker X-8 (MTOW 4 kg, wingspan 2.1 m, max flight distance 40 km, max flight time 30 min, fuel – Li-Pol Battery),
+PW-Zoom1 (MTOW 16.8 kg, wingspan 3.0 m, max flight distance 200 km, max flight time 120 min, fuel –  95 octane gasoline).
+Take-offs and landings were done at Arctowski Station.
+Images were taken with digital cameras: SLR Canon 700D, Nikon D5300, Nikon D5100 with a 35mm objective lens. Flights’ altitude of 350 – 400 AGL allowed images to be taken with a resolution GSD (ground sample distance) less than 5 cm.
+Safety protocols
+All personnel engaged in UAV operations (RC pilot, GCS pilot etc.)  were experienced professionals. UAVs were designed and/or equipped for operations in severe climate conditions, and strong, gusty winds.
+Safety and operating procedures were prepared for UAV personnel (briefing, pre-flight checklists, take-off procedures, flight control, landing procedures, emergency procedures, UAV maintenance, flight log with risk assessment etc.). All other persons at Arctowski Station were briefed on the rules of behavior needed for their personal safety.
+All Parties conducting operations on King George Island, as well as IAATO, were informed about UAV Program. Chain of communication was pre-agreed with Base Frei (Chile), which controls  flight operations on King George Island, and adhered to during each flight. Detailed information about each flight were also announced on channel 16 and 12 VHF 30 minutes before each flight. Information exchange and coordination were additionally arranged with Comandante Ferraz Station (Brazil).
+Broadcast statements contained the following information:
+Date of flight
+Start point (Arctowski base)
+Range of flight (in radius from Start Point)
+Time of flight session’s start (in local time)
+Time of flight session’s end (in local time)
+Flight’s altitude (in meters, altitude above ground level)
+All flight plans were safely and properly executed, and no technical malfunctions were noticed. Flights were executed only after a thorough analysis of weather conditions. Information on wind speed and direction, cloud ceiling, visibility, precipitation, humidity and temperature was crucial for flight plan preparation and execution. Weather forecasts and day-of-flight observations were used to find windows of opportunity needed to conduct safe aerial operations. 
+Depending on the actual size of the target area, the image-taking operations were realized using a single flight or were divided into a number of related flights due to the target's shape and the UAV abilities (e.g. maximum flight length) and the safety rules.
+Preliminary results
+Most of data collected this Antarctic season is still in the process of analysis, so only very preliminary results are presented.
+Eight successful photogrammetry missions (total distance 1500 km; in 6,5 hours) were performed from 11th November to 6th December 2014, covering coastal zones of ASPA No 128, ASPA No 151, as well as Chabrier Rock and Shag Islands 
+High resolution images of penguin populations distribution, as well as populations size maps from the breeding areas on King George Island were developed. Obtained photogrametric material covered 100% of penguin breeding colonies in Admiralty Bay and ca 98% in King George Bay. Image resolution was consistently good, allowing separation of breeding groups, and nests were easily distinguished. Determination of three Pygoscelis penguin species nests was possible due to existing differences in breeding chronology (time of data collection), different terrain preferences and differences within distances between constructed nests. From the images taken during the UAV flights more than 25 thousand Pygoscelis penguin nests in seven breeding colonies located in study area were counted according to CCAMLR standard method. Analysis included a comparison of digital data with the data acquired from ground-based measurements, obtaining high compliance, with less than 10% difference. 
+Disturbance observations
+Pilot study on the potential effects of disturbance by UAV overflights was conducted in November 2015, during the incubation period.  The study area was the Adelié penguin colony at Pt. Thomas (ASPA No 128 Western Shore of Admiralty Bay). Pt. Thomas colony covers an area of ca 43 400 m2, and is the breeding site of ca 5700 pairs. 
+The colony was overflown by UAVs with different propulsion systems (electric engine powered by Li-Pol battery versus internal combustion engine run on gasoline). The overflights were done at the altitude of 300 – 350 m AGL.
+The reaction of breeding Adelié penguins to overflights was recorded on video camera. By now, six recordings of overflights were analyzed, as well as one control recording of undisturbed colony. Two instances of predatory birds (skua Stercorarius sp. ) flying over the breeding penguins were also recorded and analyzed, enabling for comparison with a different type of disturbance. Penguin behavior was divided into: resting behavior, comfort behavior, vigilance/anxiety and aggression. Percentages of birds exhibiting different types of behavior, proportion of time spent on each type of behavior and number of different types of behavior displayed by one bird during the 3-minutes periods were compared. No statistically significant differences were found between control and overflights by UAVs powered by electric engine. During one of overflights by UAV powered by combustion engine, symptoms  of vigilance were noticed with penguins looking up and around for a few seconds. Similar symptoms of vigilance were observed when skua flew (aprox. 5 m AGL) over penguin colony without  trying to attack one of the penguins. No increase in aggressive behavior was observed during the overflights.
+Observers present at the penguin colony during UAV overflights did not noticed any signs of fright or panic, both in breeding birds and the accompanying ones. No penguin left its nest.
+Noise data were measured using a DT-8852 Precision Data Logging Sound Level Meter (Frequency range 31.5Hz - 8kHz, Measurement range (A) 30dB - 130dB) with an  microphone. The microphone was placed on a tripod  20 cm above the ground at the edge of the colony. Noise levels were logged at 1 s intervals. Recordings done during the overflights will be analyzed. 
+Conclusions and next steps
+    • All UAVs used during the first Antarctic season of MONICA project proved to be suitable tools for ecological monitoring,
+    • They performed well in the weather conditions of King George Island, and images acquired during flying missions were of good quality,
+    • No signs of wildlife disturbance were observed in the colonies of Adelié penguins during the overflights,
+    • High professional qualifications of pilots and other members of an UAV team, as well as careful analysis of weather forecasts are  needed to keep the flight operations safe and efficient.
+After a thorough analysis of the performance of different UAV models and the collected photographic photogrammetric material, the next season flights will be planned. Some modifications of the telemetric communication system and take-off techniques are being considered. New UAV model will be tested during 2015/2016.
+Results of the pilot study on wildlife disturbance will be used in designing a more comprehensive and systematic monitoring plan. Preliminary guidelines will be prepared.
+The scope of research will be widened. Aerial data on plant communities in the forefields of retreating glaciers and on moraines of different ages will be acquired. The collection of data on penguins’ colonies in ASPA No 128, ASPA No 151 and on Chabrier Rock will be repeated.  Extension of aerial surveys to the northern shores of King George Island, as well as to Penguin Island and Turret Point (King George Bay) is also being considered. 
+
+Poland would like to thank Chile, and specially dr José Retamales (Director Instituto Antártico Chileno) for help in UAV flight coordination by Base Frei. 
+
+Supporting references:
+Jabłoński B. 1984a. Distribution, number and breeding preferences of penguins in the region of the Admiralty Bay (King George Island, South Shetland Islands) in the season 1979/80. Polish Polar Research 5:5-16.
+Jabłoński B. 1984b. Distribution and number of penguins in the region of King George Island (South Shetland Islands) in the breeding season 1980/81. Polish Polar Research 5:5-16. Korczak-Abshire M., 
+Korczak-Abshire M., Węgrzyn M., Angiel P.J., Lisowska M. 2012 Penguin population changes during the five decades at Lions Rump rookery, Western Antarctic. Polish Polar Research 34(1): 87–99
+Sander, M.; Balbao, T. C.; Polito, M. J.; Costa, E. S.; Carneiro, A. P. B. 2007. Recent decrease in Chinstrap Penguin (Pygoscelis antarctica) populations at two of Admiralty Bay"s islets on King George Island, South Shetland Islands, Antarctica. Polar Biology 30: 659-661.
+Węgrzyn M., Angiel P.J., Lisowska M. 2012 Penguin population changes during the five decades at Lions Rump rookery, Western Antarctic. Polish Polar Research 34(1): 87–99
+

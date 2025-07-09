@@ -1,0 +1,43 @@
+﻿
+
+
+
+
+
+COMNAP Antarctic Station Catalogue Project 
+
+
+
+
+
+
+
+
+COMNAP Antarctic Station Catalogue Project
+Background
+The COMNAP Antarctic Station Catalogue project was agreed to by COMNAP Members at COMNAP AGM XXVII (2015) and began as a collaboration with the EU-PolarNet (http://www.eu-polarnet.eu/) on their European Polar Infrastructures Project. COMNAP contributed to the set-up of the database form fields, and committed to collecting the data on infrastructures in the Antarctic, not only from its Europe-based COMNAP Member national Antarctic programs, but from all 30 COMNAP Members. The data collected on the Antarctic facilities operated by European countries were then delivered on time to EU-PolarNet for inclusion in its own catalogue of European Polar infrastructures. Also collaborating was the European INTERACT project (http://www.eu-interact.org/), which first developed a station catalogue for the Arctic and gave COMNAP the idea to extend the work at the global level in order to have a clear and updated overview of the research infrastructures in the Polar Regions.
+According to the timeframe for the project, the catalogue has been drafted and proof pages are currently out for review by the COMNAP Member national Antarctic programs (See a selection of example pages in Attachment 1).  Once the review process is complete, the catalogue will be available in hard copy and as a PDF document.  
+
+Summary of content in the catalogue
+For COMNAP Members, the catalogue is seen as a tool which would, by way of text and imagery, improve communications and would collate information that is currently contained in multiple sources. Especially in light of the COMNAP Antarctic Roadmap Challenges (ARC) project outcomes, the catalogue project was seen as a tool which would directly support the key goal of improving international co-operation in Antarctica. A summary of the information is below.
+    • Facility name, location (geographical, Antarctic Environmental Domain and Antarctic Conservation Biogeographic Region), type, status, operator(s).
+    • Setting, including location, biodiversity, history, general research activities, natural features in the area, main science disciplines.
+    • Climate characteristics of the area.
+    • Infrastructure description, including area under roof, labs, physical capacity.
+    • Staff capacity. 
+    • Scientific equipment, services possible, any long-term observations.
+    • Medical facilities, capabilities and staff capacity.
+    • Vehicles (land and sea), transport/access to/from, freight/logistics capabilities, workshop facilities. 
+    • Aircraft landing facilities (if any).
+    • Ship landing facilities (if any).
+    • Communication capabilities.
+Interactive, on-line GIS
+A sub-set of the catalogue data can also be accessed by way of an open, on-line GIS interface (See Figure 1) from the COMNAP website at: https://www.comnap.aq/Members/SitePages/Home.aspx. 
+
+
+
+Figure 1: Screenshots of the COMNAP GIS interface.  On the left, dots represent the locations of facilities in the COMNAP database.  A yellow dot indicates a year-round facility; a red dot indicates a seasonal facility. Zooming in, the names of the facilities will appear.  On the right, once any dot is selected, a data box opens up to provide information, extracted from the database and as found in the COMNAP Facilities List.  It also includes a link to a facility webcam (if one is available) and a photo of the facility that can be enlarged. 
+
+In addition, collecting all the infrastructure data presented an opportunity for COMNAP to advance and review its own database system (see Information Paper), to update any out-dated data in the old products and tools, and to use the new system and data to produce a range of products that will support the Antarctic community in many of their tasks, especially those tasks related to international co-operation in science and science support. The flexibility of the database structure and the set-up of the GIS, means that every time a COMNAP Member national Antarctic program updates a field in the database, that up-to-date information will be pushed out to the GIS, to the e-AFIM and to the relevant other COMNAP products and users of the data. The catalogue will contain information on stations only; while, currently, the GIS and the database contain information on a total of 115 facilities in the Antarctic (8 Airfield camps; 12 Camps; 2 Depots; 2 Laboratories; 4 Refuges and 87 Stations-38 seasonal and 49 year-round).
+
+

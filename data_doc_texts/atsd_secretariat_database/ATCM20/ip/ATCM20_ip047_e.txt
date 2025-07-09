@@ -1,0 +1,177 @@
+ANTARCTIC TREATY                                  TRATADO ANTARTICO
+XX CONSULTATIVE MEETING                          XX REUNION CONSULTIVA
+
+TRAITE SUR L'ANTARCTIQUE                          ДОГОВОР ОБ АНТАРКТИКЕ
+XXe REUNION CONSULTATIVE                          XX КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+
+
+                                  XX ATCM/INF 47
+                                  April, 1996
+                                  Original: English
+
+
+
+OIL/SPILL MODELLING IN THE WEDDELL SEA
+
+(Agenda Item 16)
+
+(Submitted by Belgium)
+XX ATCM/INFO .....
+..... May 1996
+Original: English
+
+
+OIL SPILL MODELLING IN THE WEDDELL SEA
+
+(Agenda item 14)
+16
+
+(Submitted by Belgium)
+Oil Spill Modelling in the Weddell Sea
+
+B. Petit
+Management Unit of the North Sea Mathematical Models (MUMM)
+Gulledelle 100, B-1200 Brussels, Belgium
+Fax: +32 2 770 69 72; e-mail: antarbp@cammme.ac.be
+
+ABSTRACT
+
+T HIS INFORMATION PAPER presents a model of oil behaviour in Southern Ocean ice-infested waters developed at the Management Unit of the North Sea Mathematical Models (MUMM) in the framework of the Belgian Antarctic Research Programme. It describes the interactions between oil and ice and is coupled with a sea ice formation model. The main features of oil spreading and dynamics in an ice pack are taken into account. Informations that can be drawn from the model are exemplified by a simple case study of oil spilling in the Weddell Sea and possible further applications are discussed.
+
+1. INTRODUCTION
+
+E FFECTIVE IMPLEMENTATION of measures for the comprehensive and long-term protection of the Antarctic environment and dependent and associated ecosystems requires an underpinning of science-based information. In-depth knowledge of the functioning of natural systems and their interactions is necessary to enable predicting negative impacts on the environment that might be caused by human activities or undertaking appropriate response actions. One of the main goals of the Belgian research programme on the Antarctic is to contribute towards the international effort aiming at providing such scientific knowledge.
+
+The occurrence of oil spilling is a rather unlikely event in the Southern Ocean. Provisions and measures under the Antarctic Treaty System address safety in Antarctic operations and prevention of marine pollution in such a way as to offer the best guarantee in this respect. It is nevertheless the case that accidents at sea resulting in oil pollution have been recorded in the Southern Ocean†. Growing human presence and activities in the Antarctic would increase the risk. In all
+
+† For instance, in 1989 the supply and tourist vessel Bahia Paraiso ran aground and sank in the vicinity of Anvers Island spilling 800 tons of diesel and jet fuel. The same year, the R/V Humbold grounded on King George Island. Some 35 tons of diesel were consequently lost at sea. Thanks to the spirit of cooperation and mutual assistance prevailing under the Antarctic Treaty, prompt and efficient response actions and remedial measures were taken.
+events, oil spilling remains a non-negligible threat to the Antarctic environment 
+and developing simulation models able to predict the spreading and interactions 
+of oil could help enhancing preparedness to respond adequately to accidents.
+
+Adequate models exist to simulate the behaviour of oil spilled at sea and some 
+of them consider its interactions with the Arctic ice but no reliable model is 
+available for the specific Antarctic conditions. If it can be reasonably assumed 
+that the behaviour of an oil slick is the same in Arctic and Antarctic oceans, the 
+main difference is that the dynamics of the Antarctic ice pack is less constrained 
+by the presence of coasts. It seems thus necessary to develop adequate tools able 
+to predict the evolution of an oil slick in such a severe environment in order to 
+assist in impact assessment studies.
+
+●     The model developed at MUMM simulates interactions between ice and oil and 
+is coupled with a sea ice formation model. The model is applied to a fictive spill 
+in an area covering the Weddell Sea and the Drake Passage, which makes up a 
+potential risk area because of the network of scientific stations on its coasts and 
+the inherent traffic of supply vessels.
+
+2. SEA ICE MODELLING
+
+BECAUSE an oil spill in open water is an extremely complex assembly of 
+interacting processes, the development of evolution models is surely not an 
+easy task. The introduction of ice, as a supplementary constraint on an oil spill, 
+does not make the development of such a model easier. Nevertheless, the 
+consideration of a limited number of phenomena can give good indications of the 
+evolution of an oil spill in these conditions, with a certain degree of accuracy.
+
+●     The sea ice model computes the annual cycle of sea ice thickness and its spatial 
+extent. This model is divided into two major parts dealing with the thermody-
+namical and dynamical processes which control the ice and determine its 
+thickness and movement. Its thermodynamical component computes the 
+thickness and the temperature of the ice deduced from heat exchanged vertically 
+through the ice-air and ice-ocean interfaces and horizontally through the leads. 
+The dynamical component of the sea ice model provides the ice velocity as a 
+linear function of the geostrophic wind and the upper ocean current, ensuring 
+the horizontal redistribution of the amount of ice present at the ocean surface.
+
+The evolution of the oil spill can be computed if the net advecting speed, the 
+horizontal dispersion coefficient representing the combined effects of turbulent 
+dispersion and physical spreading due to surface tension, and the various
+processes of oil degradations are known. The presence of ice completely modifies 
+the behaviour of an oil spill so that each of those parameters become dependent 
+on the ice concentration.
+
+3. A TEST CASE FEATURING THE LONG TERM EVOLUTION
+
+W
+E PRESENT here a scenario designed to simulate the long term evolution 
+of the oil behaviour under the influence of ice. This test studies the oil 
+drift among the ice pack and evaluates the spreading and weathering (i.e. 
+degradation) of an oil slick. In this scenario, 500 cubic metres of Prudhoe Bay 
+crude oil were released at (39°W, 72°S) in mid-February; the initial ice 
+concentration was 54%. This has been chosen in order to make possible the 
+comparison of the results with the observations from Launiainen & Vihma 
+(1994) who studied the drift of buoys deployed on ice floes. They also 
+correspond to the minimum of the ice cover which allows a certain marine traffic 
+with its associated risks of accident, this giving some realism to the scenarios.
+
+Figure 1 compares the trajectories of the buoys and those of the mass centre 
+of the oil spill. This rough comparison is justified because the ice concentration 
+is most of the time higher than 30%, causing ice and oil to move together. The 
+modelled oil trajectories are to some extent compatible with the drift of the 
+buoys. We have to stress that the model runs with averaged meteorological 
+inputs and is not able to reproduce all the details of reality.
+
+The oil is in fact affected by the presence of ice and by the weathering. 
+Figure 2 illustrates the oil distribution among the different phases during the 
+first two weeks after the accident. After this period, the oil present at the sea 
+surface is completely weathered but some fresh oil remains under ice. During the 
+first days, oil thickness increases due to incorporation of sea water by 
+emulsification. When the dissolution becomes predominant, the oil thickness 
+begins to decrease until the complete disappearance of oil at the sea surface. At 
+that time (day 38), all trails of pollution seem to have disappeared but in fact, 
+fresh oil is still entrapped in ice and will stay hidden until the break up, causing a 
+new pollution.
+
+One of the key results of the long term scenario is to show that almost 20% 
+of the initially released oil cause later and further away a second pollution event. 
+Since the evolution of the oil slick strongly depends on the way that oil and ice 
+interact and since each accident has thus its own features, it is evident that, in 
+other circumstances, a greater percentage or even all the oil could be blocked
+under ice provoking this kind of delayed pollution, which cannot be considered 
+any more as "accidental". If one has to admit that logistical difficulties inherent 
+to the Antarctic area hamper appropriate reactions in the very beginning of an 
+accident, that is no more the case when one has in advance clear information on 
+the time of an oil spill, its position, and the involved quantities, which is the case 
+for this second spill. Without prejudice to complementary efforts concerning its 
+validation, a major interest of the present model is to provide a tool able to 
+deliver such information to authorities and intervention teams.
+
+REFERENCES
+
+Launiainen, J. & Vihma, T. 1994. On the Surface Heat Fluxes in the Weddell Sea. 
+The Polar Oceans and Their Role in shaping the Global Environment, 
+Geophysical Monograph 85, AGU.
+
+Figure 1. Comparison between the computed trajectory of the mass centre of the oil slick (dashed 
+line; dates and ice concentrations are indicated in italic type) and the observed trajectory of the 
+buoy (solid line; dates are indicated in roman type, Launiainen & Vihma 1994). The grey 
+rectangles indicate the period during which pollution is visible.
+700
+600
+500
+400
+300
+200
+100
+0
+1  5  10 15 (days)
+
+Volume [m3]
+
+Total volume      Volume on water      Volume under ice
+
+100
+80
+60
+40
+20
+0
+1  5 10 15 (days)
+
+Percentage by volume
+
+Oil under ice     Emulsified oil     Evaporated oil     Dissolved oil     Fresh oil
+
+Figure 2. Evolution of the oil volume (above) and of the weathering (below) during the first two 
+weeks (day 0 is 14 February).

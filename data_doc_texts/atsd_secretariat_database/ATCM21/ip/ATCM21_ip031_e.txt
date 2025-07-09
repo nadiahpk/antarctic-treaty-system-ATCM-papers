@@ -1,0 +1,127 @@
+ANTARCTIC TREATY                TRATADO ANTARTICO
+XXI CONSULTATIVE MEETING       XXI REUNION CONSULTIVA
+
+TRAITE SUR L'ANTARTIQUE        ДОГОВОР ОБ АНТАРКТИКЕ
+XXIeme REUNION CONSULTATIVE    XXI КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+
+
+MANAGEMENT OF ANTARCTIC DATA
+
+ 
+Agenda item 11                  Submitted by SCAR & COMNAP
+
+XXI ATCM/IP31
+May, 1997
+Original: English
+01 MAY '97 17:00 FROM SCAR                  ▲         TO 9006444729596     P. 02
+
+MANAGEMENT OF ANTARCTIC DATA
+
+Information Paper submitted by SCAR and COMNAP to XXI ATCM
+
+Agenda Item 11
+
+The Antarctic Master Directory (AMD) is now established at the International Centre for 
+Antarctic Information and Research (ICAIR) here in Christchurch, New Zealand. Data set 
+descriptions (metadata) about Antarctic scientific data (including historical data, environmental 
+monitoring data and data for which access restrictions may apply), are being entered into the 
+AMD using the Directory Interchange Format (DIF) of the International Directory Network 
+(IDN). The minimum level of information considered adequate to describe a data set has been 
+identified and will include what data compose the data set, where and when the data were 
+collected and whom to contact to obtain access. A search interface to the AMD, based on the 
+World Wide Web (WWW), is being developed by ICAIR and, for those without access to the 
+WWW, alternative information products will be provided.
+
+  Following XXIII SCAR, in 1994, SCAR and COMNAP issued a call to their members to 
+establish National Antarctic Data Centres (NADCs). Together with the AMD, the NADCs 
+form the key component of the SCAR-COMNAP Antarctic Data Directory System (ADDS). 
+Recognizing that the establishment and support of NADCs is critical to the success of the 
+ADDS, at XXIV SCAR, in 1996, SCAR and COMNAP re-iterated their call to their members 
+to establish and resource their NADCs. Currently eight countries have formally designated 
+NADCs and a further six NADCs have been informally identified. Version 1.0 of the AMD 
+DIF Authoring Tool (a Users' Guide and Reference Manual complete with install/set-up 
+diskettes) has been distributed by ICAIR to all NADCs.
+
+  An inaugural NADC Managers workshop will be held during the first week of XXI ATCM for 
+the purpose of training the national data managers in the technical aspects of operating within 
+the AMD framework. The main foci of the workshop will be:
+  • the role of NADCs;
+  • strategies for obtaining data set descriptions from data holders;
+  • completion of data set descriptions;
+  • developing 'best practice' guidelines for Antarctic data and information management.
+
+  The workshop will mark the transition of the AMD and NADC network into an operational 
+system. Recognizing that successful establishment of NADCs and the operation of the AMD 
+will be greatly assisted by the workshop, SCAR and COMNAP have asked that National 
+Operators give the highest priority to ensuring that their NADC managers attend.
+
+  At XXIV SCAR, Working Groups were asked to identify those areas or types of data that 
+should have the highest priority when producing data set descriptions. This guidance from the 
+Antarctic scientific community will allow the NADCs to focus their efforts on seeking out the 
+types of data having the highest priority and utility for science use, and ensuring descriptions 
+are placed in the AMD. It is considered that the future role of the SCAR Working Groups 
+within the Antarctic Data Directory System will be:
+  • to continue providing scientific guidance to the AMD and NADCs;
+  • to review the developing 'best practice' data and information management guidelines;
+  • to promote and support the preparation of data set descriptions (DIFs) within their 
+science discipline.
+
+With the design of the ADDS and the establishment of the AMD, the SCAR-COMNAP ad hoc 
+Planning Group on Antarctic Data Management has completed the tasks for which it was 
+formed. Effective from April 1997, the Planning Group has been replaced by a SCAR-
+COMNAP Joint Committee on Antarctic Data Management (JCADM) to provide on-going 
+support for Antarctic data management and the development of the AMD/ADDS.
+01 MAY '97 17:00 FROM SCAR                  TO 9006444729596   P.03
+
+MANAGEMENT OF ANTARCTIC DATA
+
+The primary role of the JCADM will be:
+·     to establish Antarctic data management policies and priorities;
+·     to promote, coordinate and support National Antarctic Data Centres;
+·     to promote data management within the Antarctic scientific community;
+·     to report to SCAR and COMNAP (hence the Antarctic Treaty) on Antarctic data 
+      management issues;
+·     to provide feedback to ICAIR on the operation of the AMD;
+·     to participate in further development of the International Directory Network (IDN).
+
+The membership of the JCADM will comprise the managers of each National Antarctic Data 
+Centre and one nominee from each of SCAR, COMNAP, and the AMD host (ICAIR).
+
+Figure 1. This diagram shows the planned operational and organizational framework for the 
+Antarctic Master Directory.
+
+
+                                                        Antarctic
+                                                         Treaty
+
+                  COMNAP                                  SCAR
+
+                        Joint Committee
+                        on Antarctic
+                        Data Management
+
+             AMD                                  Influence       IDN
+       Steering
+     Committee                  Guidelines
+                                and Standards
+
+      Actions and
+       Priorities                Antarctic
+                                    Master
+                                  Directory                  NADCs
+
+                                Information          DIFs         DIFs
+
+       SCAR WGs                                  Antarctic
+       and GSs                                   Scientists
+
+                                                         DIFs
+
+                                                Search and
+                                                  Rescue
+
+                                                         Old
+                                                         Data
+
+2

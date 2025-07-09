@@ -1,0 +1,67 @@
+﻿
+
+
+
+
+
+Importance of common geo-referencing of toponymic data in the Electronic Information Exchange System
+
+
+
+
+Importance of common geo-referencing of toponymic data in the Electronic Information Exchange System
+The present document is submitted for the purpose of seeking to agree on a common principle for the designation of geographic features in Antarctica using, as far as practicable, existing tools. Today, as a result of history, many places in Antarctica are given different names. Also, some identical names are sometimes given to different places. This inconsistency may lead to confusion which, in turn, may expose human life, on the one hand; on the other hand, this state of affairs is likely to hamper a systematic and coherent collection of data on the IT tools of the Antarctic Treaty system. 
+1. Background
+
+Exchange of information between the Parties to the Antarctic Treaty is provided for under Article II(a).1 and Article VII.5 of said Treaty. It is also referred to under Article 17 of the Protocol on Environmental Protection and its Annexes, as well as in relevant Resolutions adopted by ATCM, specifically Decision 10 (2005) and Recommendations XVII-1 (1992) and XV-6 (1989), dealing with the coordinated processing of data and their consistent distribution in the framework of the Antarctic Treaty System.
+
+However, the heterogeneous designation of places undermines the quality and operational use of the information thus shared.
+2. Need to homogenize place names in Antarctica
+
+Toponymic homogenization of those places in Antarctica which are referred to by different names or of those single names which refer to more than one place - as well as for the sites which are not given different names - would offer two advantages: 
+    • That would make it easy to compile unambiguous and consistent data for the assessment of cumulative impacts on a given site; recording cumulative impacts on a site which bears more than one name is indeed a difficult and confusing exercise. 
+    • That would also provide coherent and consistent data for search and rescue operations (SAR); ambiguity and uncertainty in locating an incident/accident may have dramatic consequences. As indicated in the conclusions of the two SAR workshops "Towards Improved Search and Rescue Coordination and Response in the Antarctic" (Valparaiso 2008 and Buenos Aires 2009), ambiguity on the geographical location of an accident may have dramatic consequences on the survival of the victims, the security of property and the protection of the environment.
+
+The issue of exchange of information under the Antarctic Treaty system is recurrent. Recommendation XV-16 (1989) recalls the need to set, in the framework of SAR, the requirements for a coordinated processing of data. 
+Recommendation XVII-1 (1992) invites COMNAP representatives to submit a list of data on Antarctica put at the disposal of Parties and SCAR.
+The issue of duplication of databases had also been raised, particularly by COMNAP in its working document WP42 (2007). The document recalled Decision 10 (2005) instructing the Antarctic Treaty Secretariat to develop an Electronic Information Exchange System (EIES).  It suggested that, in implementing this decision, the various information exchange tools (those at ATS, COMNAP and SCAR) should be coordinated to avoid duplication of data entry and to ensure consistency and sustainability of information across systems. 
+3. Situation of the system managed on the Secretariat website (EIES)
+
+The Electronic Information Exchange System (EIES), hosted on the Secretariat website, provides in the scroll-down menus all sorts of different names referring to one and same geographical location (site). This variety of names resulted from the fact that data were entered manually by Parties, hence the duplication in names in all kinds of different formats (geographical coordinates, spelling, etc.) Even if the Secretariat strives to streamline the data entered by the Parties to reduce errors and repetitions, the fact is that there exists no procedure to homogenize such data, even less a compelling requirement to do so.
+
+Whilst this multiplicity in names does not call for any comment in so far as their legitimacy and historical background are concerned, it would appear appropriate to opt for the rationalization of the use of those names. That could be undertaken without it being necessary to depart from the multiple names which result from the specific history of the Antarctic continent and which are also a feature of Antarctica’s historical heritage, even more so by acknowledging their multiplicity and co-existence on the one and same geographical location.
+
+The possibility of referencing different Antarctic places using only geographical coordinates has been examined. Whilst that method is geographically accurate, it is not intuitive and may be prone to errors when entering data, let alone the difficulty in searching for a specific site/location. Also, it would be rather cumbersome to use geographical coordinates to identify a location which extends beyond a mere geographical spot, such as a bay or a mountain range. 
+4. Recommendations 
+
+The development by all the Parties, of a common list of names of place, which should be combined and shared, seems desirable
+In the interest of rationalisation of the use of designations for Antarctic sites and their location, as well as their geographical and anthropogenic features, France recommends that ATCM adopts the draft decision in Annex A, so that it may mandate the Secretariat to: 
+- harmonize geo-referencing on the tools used for the exchange of information between the Parties;
+- rationalize the collection of data so as to avoid any confusion during search and rescue (SAR) operations;
+- inform annually each Party on the list of name of places it has added on the EIES.
+Annex A.
+
+Draft Decision X (2013)
+Common geo-referencing of toponymic data in Antarctica
+
+The Representatives,
+
+Reaffirming their commitment to the diversity of names of Antarctic sites which constitutes one of the elements of the historical legacy of the continent;
+
+Anxious to secure a good assessment of the cumulative impacts and limit the risk of geographical confusion during search and rescue (SAR) operations in Antarctica by ensuring that the toponymic data used in Antarctica are homogeneous and consistent;
+
+Recalling the requirement for exchange of informations between Parties, provided under the Treaty and the Protocol on Environmental Protection;
+
+Recalling the willingness of the Parties to ensure a coordinated processing of the data originating from the exchange of information as contemplated in Recommendation XVII-1 (1992), Recommendation XV-16 (1989) and Decision 10 (2005);
+
+Recognizing the need for harmonized geo-referencing so as to avoid any confusion in the designation of locations in Antarctica;
+
+Decide:
+That the Secretariat of the Antarctic Treaty be mandated to: 
+- harmonize geo-referencing on the tools used for the exchange of information between the Parties;
+- rationalize the collection of data so as to avoid any confusion during search and rescue (SAR) operations;
+-  inform annually each Party on the list of name of places it has added on the EIES.
+
+
+
+

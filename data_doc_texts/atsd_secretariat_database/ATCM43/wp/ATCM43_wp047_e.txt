@@ -1,0 +1,266 @@
+SARS-CoV-2 in Antarctic Species by way of Reverse Zoonosis
+SARS-CoV-2 in Antarctic Species by way of Reverse Zoonosis
+Background
+1.1 The SARS-CoV-2 virus that causes COVID-19 in humans, shows
+the potential for “reverse zoonosis”.
+1.2 Reverse zoonosis is the process by which a human virus is
+spread to other species when particular conditions and other factors
+align for infection and disease to occur.
+1.3 This paper explores, from an operational perspective, the issues
+related to reverse zoonosis of SARS-CoV-19 from humans to
+Antarctic fauna species.
+1.4 Detection of SARS-CoV-2 is the first crucial step for effective
+infection control (Barbosa et al., 2020) and national Antarctic
+programs have put in place rigorous pre-screening, testing and
+isolation criteria for all their expeditioners to ensure pre-
+deployment early detection (COMNAP 2021).
+1.5 Antarctica remained the only continent to be free of a
+COVID-19 case through 10 December 2020, a full nine months into
+the global pandemic and almost a year from the initial report of the
+novel coronavirus.
+1.6 Since that time, no further suspected or confirmed cases of
+COVID-19 in Antarctica have been reported, eliminating a direct
+source for human to Antarctic species spread.
+1.7 Given the evolving global pandemic situation and the current
+limited availability of vaccine, there is recognition that this largely
+COVID-19 free situation may change for Antarctica and, also that
+indirect sources of infection for migratory Antarctic species are
+widespread and substantial (Annex 1 Figure 1).
+Risk Assessment: Binding Propensity
+2.1 A challenging aspect of viral transmission is gaining entry to a
+new host’s cells (Geoghegan, 2020). This involves a virus latching
+on to a molecule that binds the outside of a cell, analogous to a key
+clicking into a lock. The better the fit, the more likely the pathogen
+is to access the cell’s interior.
+2.2 In humans, SARS-CoV-2, fits with the protein ACE2 to enter
+airway cells.
+2.3 How would SARS-CoV-2 “fit” with Antarctic species? Damas et
+al. (2020) looked at 410 vertebrate species to predict SARS-CoV-2
+“fit” or binding propensity in those species, ranking each according
+to their potential to be infected by SARS-CoV-2 via their ACE2
+proteins. The research used in silico analysis (computer modelling)
+and urged caution not to over-interpret the research predictions.
+2.4 Of the 410 species considered by Damas et al. (2020), five
+Antarctic species were included: 1. Antarctic minke whale
+(Balaenoptera bonaerensis); 2. Killer whale (Orcinus orca); 3. Sperm
+whale (Physeter catodon); 4. Emperor penguin (Aptenodytes
+forsteri); and 5. Adelie penguin (Pygoscelis adeliae). Using a five-
+stage scale (very high, high, medium, low, very low), the two
+penguin species showed a “very low” binding propensity. For the
+three cetaceans, the first two showed a “high” binding propensity of
+the ACE2 receptor to SARS-CoV-2, the third a “medium”. None of
+the Antarctic species in the study received the highest designation
+of “very high” binding propensity.
+2.5 Referring to Damas et al. (2020), Barbosa et al. (2020) provided
+“early insight” on the “susceptibility of Antarctic wildlife to
+infection by the SARS-CoV-2”, as follows:
+Antarctic birds (including penguins) – likely to have low
+susceptibility to SARS-CoV-2 infection;
+Antarctic pinnipeds – very low to low susceptibility to SARS-CoV-2
+infection; and
+Cetaceans – appear to have the highest risk of SARS-CoV-2 infection
+amongst Antarctic wildlife.
+2.6 Binding propensity in itself is not enough to predict whether
+reverse zoonosis will occur and other factors must also be
+considered.
+Risk Assessment: Transmission Pathways
+3.1 SARS-CoV-2 is a respiratory virus transmitted between people
+through direct, indirect, or close contact with infected people’s
+saliva and respiratory secretions and droplets, expelled when an
+infected person coughs, sneezes, talks or sings. The US Centers for
+Disease Control (CDC) notes that airborne particles are not
+considered the primary route of transmission, therefore social
+distancing and good hygiene play a key role in preventing human-
+to-human transmission.
+3.1.1 Direct or close contact with infected people
+3.1.2 A small number of studies have shown that SARS-CoV-2 can
+infect other animals (domestic cats, dogs, zoo gorillas and farmed
+mink) that are in direct contact with infected people (CDC 2021).
+3.1.3 National Antarctic programs generally endorse a wildlife “no
+approach” distance of 5 metres. If following this protocol, it is
+highly unlikely people will come into direct contact with wildlife.
+Under usual circumstances, only Antarctic scientists and related
+science support personnel, with national authorization through the
+EIA process, will come in to direct or close contact with wildlife.
+This is always under strict protocols for carrying out proposed
+investigations. Following SCAR and COMNAP recommendations for
+scientific equipment to be cleaned prior to packing greatly reduces
+the likelihood of contaminated equipment surfaces in the field.
+3.1.4 A reduction in personnel numbers for the 2020/21 Antarctic
+research season reduced the risk of contact with wildlife. The
+COMNAP COVID-19 prevention protocols contain recommendations
+for pre-deployment testing, with only those returning negative
+results for SARS-CoV-2 immediately before deployment to
+Antarctica being deployed.
+3.1.5 This means that “contact” with wildlife in the true sense of
+that word (physical touching) by operational and logistical
+personnel within national Antarctic programs is rare and therefore
+does not provide a direct transmission pathway.
+3.1.6 Indirect through virus shedding
+3.1.7 Environmental stability of coronavirus may provide indirect
+transmission pathways by way of human faeces, and sewage-
+derived transmission routes may be of importance to prevent
+unprecedented human-to-human spread of disease. The plausibility
+of this indirect pathway relies upon the assumption that SARS-
+CoV-2 can be shed in the faeces of infected humans (Franklin &
+Bevins, 2020) and that the virus remains infectious in faeces.
+3.1.8 Studies report detection of virus RNA copies in faeces
+specimens and in urban wastewater. However, only a limited
+number of studies detected infectious SARS-CoV-2 in human faeces
+(CDC 2020). Viral load kinetics and duration of viral shedding are
+important determinants for disease transmission. Most studies
+detected the SARS-CoV-2 viral load peak within the first week of
+illness (CDC 2020) and no study to date has detected live virus
+beyond day 9 of illness, despite persistently high viral loads.
+Elsamadony et al. (2020) showed that despite evidence of
+prolonged SARS-CoV-2 RNA shedding in respiratory and stool
+samples, viable virus appeared to be short-lived. Therefore, RNA
+detection alone cannot be used to infer infectiousness. Uncertainty
+remains as to the possibility of this human-to-human transmission
+pathway regardless of sewage treatment employed, viability in
+seawater, and little work has been published on this transmission
+pathway from humans to other species. The role of faecal shedding
+in viral transmission remains unclear (Cevik et al., 2020) and
+further investigation is warranted before this indirect transmission
+route can be proven (Elsamadony et al., 2020).
+3.1.9 Conceptual model studies indicate that this indirect
+transmission pathway would likely require faecal virus shedding
+that is “substantial” in terms of number of infected persons at a
+focal location (Franklin & Bevins, 2020).
+3.1.10 The Antarctic situation, with an extremely low human
+population and COMNAP guidelines which recommend evacuation
+of any programme expeditioner testing positive in Antarctica for
+COVID-19, mean that the “substantial” threshold will likely never
+be met.
+3.1.10 Indirect through migratory Antarctic species
+3.1.11 Globally, over 150 million people are infected. Reverse
+zoonosis to migratory Antarctic species is a possibility via humans
+external to Antarctica.
+3.1.12 Damas et al. (2020) identified the Antarctic minke whale
+and the Killer whale as two Antarctic species that had a “high”
+score for binding propensity. The Antarctic minke whale is the most
+abundant baleen whale in the world and has a habitat range of the
+whole of the southern hemisphere (IWC 2012). The Killer whale is
+found in all oceans, tends to inhabit coastal areas (Annex 1 Figure
+2) and are considered "common" in the eastern Pacific coasts.
+3.1.13 Under most circumstances, no Antarctic staff would come
+into contact with these or any other cetaceans. Scientists, whose
+research specifically focuses on understanding cetaceans, usually
+carry out their data collection by remote sensing or distanced
+biological sampling methodology. Ships may come close to such
+species, this is not a common occurrence and, ship sewage handling
+and discharge is regulated including under MARPOL.
+3.1.14 There is no risk of reverse zoonosis to these whales from the
+people currently present in Antarctica. There may be risk of
+infection when these animals travel outside the Antarctic region,
+into coastal areas near highly-infected human populations.
+Summary
+4.1 At the time of writing, the risk of reverse zoonosis of SARS-
+CoV-2 from direct contact with humans in Antarctica and Antarctic
+wildlife is very low to nil as there are no confirmed or suspected
+cases of COVID-19 in Antarctica. As we continue to employ
+prevention protocols, we prevent reverse zoonosis via three of the
+four principle transmission pathways identified in the Barbosa et al.
+(2020) paper (summarised as: 1. Contact; 2. Faecal and sewage
+transmission pathways; and 3. Human to animal to animal
+transmission).
+4.2 Given that the highest score for binding propensity in the
+Damas et al. (2020) study was for Antarctic minke whales and Killer
+whales, both of which are migratory species, the greatest risk to
+Antarctic species will likely come from external, indirect,
+transmission pathways.
+COMNAP recommended measures
+Based on the information presented above, COMNAP proposes the
+following recommended measures for ATCM consideration:
+Antarctic Treaty Parties to continue to support the proactive
+protocols related to management and outbreak prevention of
+COVID-19, such as those found in the COMNAP COVID-19
+Prevention and Outbreak Management Guidelines.
+Antarctic Treaty Parties to work with their competent authorities
+and national non-Antarctic agencies to educate those agencies on
+the migratory nature of Antarctic marine species and of the risks
+related to reverse zoonosis to Antarctic species, especially to
+cetaceans.
+Through the EIA process, ensure Antarctic researchers and related
+research support personnel with national authorization to come into
+direct or close contact with wildlife for research purposes are doing
+so under the strict protocols for carrying out their proposed
+investigations including following their national Antarctic
+programme procedures, and any applicable SCAR and COMNAP
+guidelines.
+Ensure all Antarctic personnel receive regular training that includes
+education on their programme’s protocols in regards to wildlife “no
+approach” distances.
+Educate all expeditioners on the importance of continuing to
+employ robust cleaning and basic hygiene practices while in all
+Antarctic situations (on station, in the field, on a vessel or aircraft)
+and especially if in close or direct contact with Antarctic wildlife.
+Researchers or research support staff who suspect they have
+COVID-19, should follow their programme protocols which may
+include self-isolation and testing, and should not come into contact
+with Antarctic wildlife even if permitted to do so.
+Support research into reverse zoonosis studies involving Antarctic
+species, and share information and data from these studies.
+Annex 1: Figures
+Figure 1. Map showing total reported cases of COVID-19 by country
+on 8 December 2020. With global total reported as 67.9 million
+cases with more than 500,000 new cases reported each day on
+average. Source: The New York Times Coronavirus World Map,
+Updated December 8, 2020, 2:07 P.M. E.T., https://
+www.nytimes.com/interactive/2020/world/coronavirus-maps.html.
+Figure 2. Graphic showing presence or observation data for Minke
+whales (on left) and Killer whales (on right) giving the overall feel
+for the distribution and migratory patterns of these cetaceans.
+Source: https://mapper.obis.org/?taxonid=137087 and https://
+mapper.obis.org/?taxonid=137102.
+Annex 2: References
+Barbosa, A., Varsani, A., Marandini, V., et al., Risk assessment of
+SARS-CoV-2 in Antarctic wildlife, Science of the Total Environment,
+https://doi.org/10.1016/j.scitotenv.2020.143352.
+Centers for Disease Control and Prevention (CDC), COVID-19 and
+Animals, updated February 10, 2021, https://www.cdc.gov/
+coronavirus/2019-ncov/daily-life-coping/animals.html.
+Centers for Disease Control and Prevention (CDC), COVID-19
+Science Update, edition 20-09-08, September 8, 2020.
+Cevik, M., Tate, M., Lloyd, O., Maraolo, A.E., Schafers, J., and Ho,
+A., SARS-CoV-2, SARS-CoV, and MERS-CoV viral load dynamics,
+duration of viral shedding, and infectiousness: a systematic review
+and meta-analysis, Lancet Microbe, 2021 Jan;2(1):e13-e22. doi:
+10.1016/S2666-5247(20)30172-5. Epub 2020 Nov 19.
+Council of Managers of National Antarctic Programs (COMNAP),
+COVID-19 Prevention and Outbreak Management Guidelines,
+version 6, 13 January 2021.
+Damas, J., Hughes, G.M., Keough, K.C., et al.., Broad host range of
+SARS-CoV-2 predicted by comparative and structural analysis of
+ACE2 in vertebrates, PNAS September 8, 2020, 117 (36)
+22311-22322; first published August 21, 2020; https://
+doi.org/10.1073/pnas.2010146117.
+Elsamadony, M., Fujii, M., Miura, T., and Watanabe, T., Possible
+transmission of viruses from contaminated human feces and
+sewage: Implications for SARS-CoV-2, Science of the Total
+Environment, 2021 Feb 10; 755: 142575; Published online 2020
+Sep 29. doi: 10.1016/j.scitotenv.2020.142575.
+Franklin, A.B. and Bevins, S.N., Spillover of SARS-CoV-2 into novel
+wild hosts in North America: A conceptual model for perpetuation
+of the pathogen, Science of the Total Environment 733 (2020)
+139358.
+Geoghegan, J., as quoted in Wu, K.J., in National Geographic,
+Science, Coronavirus Coverage, “There are more viruses than stars
+in the universe. Why do only some infect us?”, 15 April 2020.
+International Whaling Commission (IWC), Report of the Scientific
+Committee. J Cetacean Res Manag 14 (Suppl):1–468, 2012.
+Quammen, D., “And Then the Gorillas Started Coughing: Humans
+are spreading the coronavirus to other animals. What does that
+mean for all of us?”, The New York Times, February 19, 2021,
+https://www.nytimes.com/2021/02/19/opinion/covid-symptoms-
+gorillas.html?smid=em-share.
+Scientific Committee on Antarctic Research (SCAR) Environmental
+Code of Conduct for Terrestrial Scientific Field Research in
+Antarctica (2018).
+SCAR & COMNAP Inter-continental Checklists For supply chain
+managers of the National Antarctic Programmes for the reduction in
+risk of transfer of non-native species (May 2019).
+Wageningen University & Research News, “COVID-19 detected on
+multiple Dutch mink farms, October 25, 2020, https://www.wur.nl/
+en/Research-Results/Research-Institutes/Bioveterinary-Research/
+show-bvr/COVID-19-detected-on-two-mink-farms.htm.

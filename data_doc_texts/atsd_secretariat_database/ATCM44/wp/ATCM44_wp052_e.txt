@@ -1,0 +1,89 @@
+Proposal for Modifications to the Location Coordinates of Nine
+Historic Sites and Monuments
+Proposal for Modifications to the Location Coordinates of Nine
+Historic Sites and Monuments
+Working Paper submitted by Argentina
+Summary
+A proposal is presented to modify the coordinates of nine HSMs for
+which Argentina is in charge or shares the responsibility of their
+management, so that they are included through the approval of a
+measure, in the Database of Historical Sites and Monuments of the
+Secretariat of the Antarctic Treaty.
+The information presented in this Working Paper is complemented
+by Information Paper XX Analysis of the precision of the location
+coordinates of some Historic Sites and Monuments.
+Background
+Based on the proposals presented by Argentina to ATCM XLII in
+WP 65 (2019) and in ATCM XLIII with WP 60 rev. 1 (2021), the
+Meeting then agreed to add new information fields to the list of
+Historic Sites and Monuments (HSM), as established in Decision 1
+(2019), in order to ensure consistency, improve information and
+harmonise it with recent developments in policies and debates
+between Parties regarding HSMs. For this reason, finally, the new
+HSM listing was adopted through Measure 23 (2021).
+In line with Decision 1 (2019), the fields related to the state of
+conservation and management tools contain information that may
+require relatively frequent updating due to the nature of the
+information they contain. Thus, the list of HSMs is a formal
+mechanism established through the Environment Protocol, and any
+changes to the list have historically required a specific Measure.
+This Decision established that certain fields (including "location")
+remain a formal part of the list and that any changes in those fields
+require adoption through a Measure. Moreover, it established that,
+in the case of other fields considered complementary information to
+the list of HSMs, any change must be agreed by the CEP and
+communicated in its report to the ATCM.
+Revision
+Based on the provisions of paragraph 4(c) and (d) of the appendix
+to Resolution 3 (2009) Guidelines for the designation and
+protection of Historic Sites and Monuments, Argentina undertook a
+comprehensive review of the location of the following HSMs:
+The purpose of the revision is to establish a more precise position
+than that currently recorded in the list of Historic Sites and
+Monuments (Measure 3 (2021)). The general problem detected is
+that when expressing coordinates "by minute", this means taking
+discrete staggered steps approximately 2 km apart (1852 m = 1
+nautical mile) with regards to latitude, with no intermediate
+alternatives (for longitude, this is multiplied by the cosine of the
+latitude). This situation means that the representation of the sites in
+some Geographic Information Systems does not allow the precise
+location of the HSMs.
+Based on their revision, Argentina proposes to amend the
+description of Historic Sites and Monuments for HSM 26, 29, 36,
+38, 39, 40, 41, 42 and 43, who is responsible for its management or
+shares with other parties based on Measure 3 (2003), by changing
+their “location” to establish more precise coordinates. The new
+geographic coordinates of said sites can be found in Appendix A to
+this document.
+Appendix B: DRAFT MEASURE
+Measure XXX (2022)
+Historic Sites and Monuments: New Location Coordinates of HSMs
+No. 26, 29, 36, 38, 39, 40, 41, 42 and 43
+The Representatives,
+Noting the requirements of Article 8 of Annex V to the Protocol on
+Environmental Protection to the Antarctic Treaty to maintain a list
+of existing Historic Sites and Monuments, and noting that these
+sites must not be damaged, removed or destroyed;
+Noting, likewise, the Guidelines for the designation and protection
+of Historic Sites and Monuments adopted by Resolution 3 (2009)
+and the Guidelines for the assessment and management of heritage
+in Antarctica adopted by Resolution 2 (2018); Also taking into
+accountDecision 1 (2019), in which the Parties agreed to add the
+new information fields to the existing fields in the "List of Historic
+Sites and Monuments";
+Taking into account that the Historic Sites and Monuments involved
+have been designated by means of Recommendation VII-9 (HSM 26,
+29, 36, 38, 39, 40, 41 and 42) and Recommendation VII-9 Measure
+5 (1997) (HSM 41); Looking to update the descriptions of Historic
+Sites and Monuments 26, 28, 36, 38, 39, 40, 41, 42 and 43 included
+in Measure 23 (2021), in accordance with the format prescribed by
+Decision 1 (2019); Recommend their Governments the following
+Measure for its approval, in accordance with paragraph 2 of Article
+8 of Annex V to the Protocol on Environmental Protection to the
+Antarctic Treaty:
+That the corrections in the geographic coordinates proposed for
+HMS 26, 29, 36, 38, 39, 40, 41, 42 and 43 be approved, as
+indicated in the Appendix to this Measure, and
+That the new geographical coordinates of these HSMs be included
+in the Database of Historic Sites and Monuments of the Secretariat
+of the Antarctic Treaty.

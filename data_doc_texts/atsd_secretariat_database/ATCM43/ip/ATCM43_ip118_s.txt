@@ -1,0 +1,116 @@
+Implementación de una Turbina Eólica en la Antártica
+Implementación de una Turbina Eólica en la Antártica
+Figura 1. Implementación Turbina Eólica en Base Marambio, Cesar
+Jiménez 2018.
+Introducción
+Este estudio se realizó para apoyar a un equipo expedicionario de
+científicos colombianos que buscan promover y realizar
+investigaciones en diversos campos científicos en la Antártida. El
+trabajo formó parte del Programa Antártico Colombiano (PAC), que
+comprende varios proyectos destinados a llevar al establecimiento
+de una base científica colombiana permanente en la Antártida. El
+primer paso consistió en instalar una turbina eólica de fabricación
+colombiana para producir electricidad de forma permanente. La
+turbina eólica fue diseñada para proporcionar suficiente electricidad
+para iluminar y calentar una pequeña base. La turbina se construyó
+con materiales de fácil acceso, pero teniendo en cuenta la
+normativa medioambiental del Protocolo de Madrid.
+El proyecto se realizó en la estación antártica argentina Marambio
+en la isla Seymour, frente a la península antártica. Un estudio de
+campo inicial realizado en 2015 fue la primera de las tres fases del
+proyecto. En la fase inicial, se recopilaron datos meteorológicos
+locales para respaldar el desarrollo de un prototipo de turbina y
+permitir la selección de un diseño que fuera lo suficientemente
+robusto para las condiciones ambientales extremas. Luego, la
+turbina eólica se construyó en Colombia. La segunda fase consistió
+en transportar la turbina a la Antártida e instalarla en la estación
+Marambio en 2018. Finalmente, las condiciones físicas de los
+componentes estructurales y electrónicos de la turbina se
+inspeccionaron
+cuidadosamente a principios de 2020 (después de que la turbina
+hubiera funcionado continuamente durante 2 años) para permitir la
+realización de reparaciones y cualquier reingeniería necesaria.
+La primera expedición a la Antártida, en 2015, tenía los objetivos
+de recopilar datos, analizar información y desarrollar una
+comprensión de los antecedentes en el campo de estudio para
+respaldar los pasos posteriores del proyecto, en combinación con la
+evaluación de los requisitos eléctricos para el sostenimiento de la
+base antártica.
+Tabla 1 Características técnicas del aerogenerador (Cesar Jiménez
+2015)
+Item
+Tipo
+Material
+Especificación
+Generador
+Alternador
+Hierro colado
+24V a 4000 RPM
+Hélices
+Perfil simple plano
+Nylon 6
+Nylon 6
+Torre
+Cilíndrica
+Hierro
+Tubería estándar
+Cola
+Perfil simple plano
+Nylon 6
+Nylon 6
+Carenaje
+Seccionada
+Fibra de vidrio
+Estándar
+Freno
+Disco
+Acero inoxidable
+Disco de freno de guaya
+Engranajes
+Dientes rectos
+Ultrapol
+Ultrapol
+Note: RPM = r.min^-1
+Luego de recopilar los datos en la fase inicial y realizar el diseño y
+construcción de la turbina eólica de acuerdo con los datos técnicos
+recopilados en la fase de campo se obtuvieron los datos de la tabla
+1., se procedió a la fase dos en el año 2018 referente a la
+implementación, para lo cual se llevó la turbina eólica a la Base
+Marambio de Argentina. Los siguientes objetivos específicos habían
+sido abordados previamente y se habían desarrollado para ayudar a
+evaluar el rendimiento in situ de la turbina eólica:
+(1) Anclajes de amarre en la base del permafrost;
+(2) Recopilación de datos de temperatura interior / exterior;
+(3) Toma de imágenes térmicas para evaluar el aislamiento del
+generador.
+Figura 2. Instalación inicial Turbina Eólica en Base Marambio,
+Cesar Jiménez 2018.
+Después de una operación continua durante dos años en la estación
+de Marambio, se analizó el rendimiento del prototipo de
+aerogenerador para proporcionar retroalimentación y conocimiento
+para futuros desarrollos. Se realizaron pruebas no destructivas en
+las diferentes secciones de la turbina eólica con la finalidad de
+evaluar el desempeño de esta. Para esto se realizaron diferentes
+pruebas como ultrasonido en las tres palas de la hélice después de
+desacoplarlas, inspección visual detallada general, tintas
+penetrantes en la sección de torre, partículas magnéticas en la
+sección intermedia de la torre donde se sujetan los tensores. Todas
+estas pruebas revelaron una corrosión granular severa en las partes
+fabricadas en hierro como la torre, cola y base
+de sujeción desprendiéndose la capa protectora de pintura, así como
+en los tornillos de sujeción de las diferentes partes de la turbina
+eólica.
+Después de una operación continua durante dos años en la estación
+de Marambio, se analizó el rendimiento del prototipo de
+aerogenerador para proporcionar retroalimentación y conocimiento
+para futuros desarrollos.
+Figura 3. Pruebas no destructivas realizadas en la Turbina Eólica,
+Cesar Jiménez 2020.
+Finalmente cabe concluir que fue un hito implementar una turbina
+eólica fabricada en Colombia y que permaneció dos años en
+operación, hasta que falló por razones propias de mantenimiento de
+una máquina. Esta es una gran oportunidad para darnos cuenta de
+que podemos mejorar el prototipo implementado y a su vez
+desarrollar la integración con la base antártica y, claro está,
+agradecer al país anfitrión, Argentina, que permitió seguir
+contribuyendo a la ciencia en la Antártida.

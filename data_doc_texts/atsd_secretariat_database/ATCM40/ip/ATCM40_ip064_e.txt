@@ -1,0 +1,323 @@
+﻿
+
+
+
+
+
+Advances to the COMNAP database
+
+
+
+
+
+
+
+
+Advances to the COMNAP database
+
+COMNAP often requests information from its Member national Antarctic programs and has introduced procedures for exchange of information in order to support the work of COMNAP Member national Antarctic programs in regards to international co-operation in science, science support, operations, logistics and in Search and Rescue (SAR) situations to name only a few examples.
+There are also information exchange requirements which are an obligation on Antarctic Treaty Parties in Articles III and VII (5) of the Antarctic Treaty, in several articles of the Environmental Protocol and in a number of Recommendations, Measures, and Resolutions as adopted by the Parties.
+Providing information in relation to the capabilities of national Antarctic program is a significant responsibility, and one that all programs take very seriously.  It is also an obligation that places a burden on already busy national Antarctic program staff, who must provide the information into multiple databases and systems and must ensure that the provision of data into each is done in a timely manner that addresses the need for currency in the data.
+The task is often complicated and time-consuming, since many of the databases ask for the same data to be input across multiple organisations, and some of the databases require specific expertise in order to contribute to them.  For example, the air operations database in support of the COMNAP Antarctic Flight Information Manual (AFIM) requires that someone with in-depth knowledge of aviation infrastructures and operations be responsible for understanding AFIM data requirements and for providing the relevant data.
+There is potential for duplication of some of the information that is being exchanged in the different databases and systems across the range of Antarctic organisations.  This creates duplication of efforts, ultimately more work for those entering the data into multiple systems and creates a risk that some important information is not being directed to where it will be of most benefit or at a time when it would be of most critical use.  Especially in SAR situations, information should be readily available, reliable and current.
+COMNAP recently underwent a complete redevelopment of its database system in order to advance work on the AFIM and in support of the COMNAP Infrastructure Catalogue project (see COMNAP IP for further information on this project). 
+As a result of this redevelopment, the COMNAP database is now a fairly complete and up-to-date source of information on COMNAP Member national Antarctic program infrastructures and vessels. 
+The COMNAP database was developed as a source of information for use by Member national Antarctic programs.  However, advances in technology coupled with good planning in development mean that information exchange into duplicate fields in separate databases (such as the EIES) is now possible.
+
+Acknowledgements
+COMNAP developed the database via the US Polar Geospatial Center with the support and leadership of the US National Science Foundation Office of Polar Programs, and with input from all COMNAP Member national Antarctic programs.
+
+Tables in the COMNAP database:
+
+
+
+
+
+
+
+
+
+Fields in each table:
+TABLE [COUNTRY]
+Treaty Signatory? (YES/NO)
+Treaty Accession Datefield (year-month-day)
+Consultative Party? (YES/NO)
+COMNAP Member? (YES/NO)
+Last Edited By?
+Last Edited Date?
+
+TABLE [NATIONAL ANTARCTIC PROGRAM] {related to country; facilities; vessels; MNAP/DMNAP}
+Program English Name
+Program Official Name
+	English Abbreviation
+Street Address
+	Primary Telephone Number
+Secondary Telephone Number
+FAX Number
+Email Address
+	Website
+Description
+Last Edited By?
+Last Edited Date?
+
+TABLE [MNAPs includes DMNAPs] {related to country; national Antarctic program}
+	Name
+	Position
+	Title
+	COMNAP Roles
+	Email
+	Telephone Number
+	FAX Number
+
+TABLE [FACILITIES] {related to country; national Antarctic program}
+English Name
+Official Name
+Short Name
+Description
+Facility Website
+Catalogue Code
+UN Locode
+CGA ID
+	Primary Operator
+	Secondary Operator
+Facility Type
+Seasonality
+Season Duration
+Facility Status
+Year Established
+Airfields {if more than 0 then related to Airfields}
+Comments 
+Facility Surface
+Location
+Biodiversity & Natural Environment
+History
+General Research & Databases
+Human Dimension
+Access
+Antarctic Science Disciplines {categories as provided by SCAR}
+Average Summer Population
+Average Winter Population
+Peak Population
+Maximum Capacity
+Number of Tourists (Annual Average)
+Comments
+Location {region}
+Time Zone
+Latitude
+Longitude
+Elevation
+Antarctic Environmental Domain
+Antarctic Environmental Domain Code
+Antarctic Biogeographic Region
+Nearest Town/Settlement
+Distance to Nearest Town/Settlement (km)
+Distance to Nearest Antarctic Facility (km)
+Distance to Nearest Transport Facility (km)
+Communications Center {related to COMMUNICATIONS CENTERS}
+Facility-Specific Comments
+Meteorology Center {related to METEOROLOGY CENTERS}
+Facility-Specific Comments
+Photo {attachments as jpegs or pdfs)
+Photo URL
+Photo & Map Credits
+Webcam URL
+Climate Zone
+Permafrost
+Sea Ice Break-up
+Snow Free Period
+Mean Annual Wind Speed (km/h)
+Maximum Wind Speed (km/h)
+Dominant Wind Direction
+Precipitation Type
+Total Annual Precipitation (mm)
+Period of Temperature Measurements Start Date
+Period of Temperature Measurements End Date
+Annual Mean Temperature (oC)
+Monthly Mean Temperatures (oC; for all months Jan through Dec)
+Minimum Absolute Temperature (oC)
+Maximum Absolute Temperature (oC)
+Area Under Roof (sq m)
+Type of Scientific Laboratories
+Area of Scientific Laboratories (Sq m)
+Logistics Area (sq m)
+Number of beds
+Conference Room Capacity
+Showers (YES/NO)
+Laundry Facilities (YES/NO)
+Hydroponics Facilities (YES/NO)
+Power Supply Types
+Voltage
+Hours per day
+Workshop Facilities
+Access
+Sea Transportation
+Land Transportation
+Transport to facility
+Ship Landing facilities
+Number of Ship Visits Per Year
+Number of Flight Visits Per Year
+Permits Required
+Contact Information Full Name
+Contact Information Email
+Scientific Services
+Specific Scientific Devices and Equipment
+Long-Term Monitoring and Observations
+Waste Management (YES/NO)
+Hazard Management (YES/NO)
+Fuel Spill Capability (YES/NO)
+
+TABLE [AIRFIELD] {related to facility}
+Airfield Name
+Description
+Parent Facility
+Distance from Parent Facility (km)
+ICAO Identifier
+CGA ID
+Number of Runways
+Landing Type
+Surface Type
+Surface Preparation Services
+Comments (Runways)
+Airfield Status (ACTIVE?)
+Season Duration
+Hours of Operation
+Comments (Status)
+(Location) Antarctic Region
+Antarctic Location
+Latitude
+Longitude
+Elevation
+Elevation Datum
+Comments (Location)
+Magnetic Declination, as of (date)
+Magnetic Declination Source
+Reference Temperature
+Transition Altitude (feet)
+Local Flight Restrictions
+Comments (Navigation)
+Meteorology Center {related to METEOROLOGY CENTERS}
+Hanger Space
+Capacity for Overnight
+Transportation Availability
+Cargo Handling
+Fueling Facilities
+Fuel Types/Grades
+Oil Types/Grades
+Fueling Fittings
+Fueling Limitations
+Oxygen Media
+Repair Services
+Rescue and Firefighting Services
+Medical Facilities
+Comments (Services)
+Photo
+Photo URL
+Map
+Map URL
+Instrument Approach Procedures (IAP)
+IAP URL
+
+TABLE [HELIPORTS] {related to facilities}
+Number of Pads
+Surface Type
+Comments (Pads)
+Status (Active?)
+Season Duration
+Hours of Operation
+Comment (Status)
+Antarctic region
+Antarctic Location
+Parent Facility
+Distance from Parent Facility (kms)
+Latitude
+Longitude
+Elevation
+Elevation Datum
+Comments (Location)
+Communications Center {related to Communications Centers}
+Meteorology Center {related to Meteorology Centers}
+Photo
+Photo URL
+Map
+Map URL
+TABLE [COMMUNICATIONS CENTERS] {related to facilities; airfields}
+English Name	
+Official Name	Short Name	
+Description	
+Services Available	
+Language(s) Used	
+Number of Active Facilities Served	
+Number of Active Airfields Served	
+Number of Active Heliports Served
+HF Frequencies & Emission Types	
+VHF Frequencies & Emission Types	 
+Comments (Frequencies)	
+Call Signs	
+Comments (Call Signs)
+Primary Telephone Number	
+Secondary Telephone Number	
+Email	
+IRIDIUM Number	
+INMARSAT Number	
+TELEX Number
+
+
+TABLE [METEOROLOGY CENTERS] {related to facilities; airfields}
+English Name	
+Official Name	
+Short Name	
+Description	
+Language(s) Used	
+Email	
+Number of Active Facilities Served	
+Number of Active Airfields Served	
+Number of Active Heliports Served
+24 hour Service?
+Hours of Operation	
+Briefings Available	
+Documentation Provided	
+Charts Available	
+Supplementary Equipment or Readings	
+Comments (Services)
+Forecast Types	
+Forecast Validity (hours)	
+Comments (Forecast)
+
+TABLE [VESSELS] {related to countries}
+Vessel Name
+Operator
+Call Sign
+MMSI
+Icebreaker Class
+Telephone Number
+Fax Number
+Email
+TELEX
+Radio
+Length
+Beam
+Gross Tonnage
+Max Crew
+Max Passengers
+Additional Information
+Photo
+Photo URL
+
+TABLE [SEARCH AND RESCUE] {related to country} 
+Country
+Name
+Description
+Address
+Telephone
+Mobile
+FAX
+Email
+Other contacts
+
+TABLE [USERS] {related to country}
+
+TABLE [ANTARCTIC ENVIRONMENTAL DOMAIN] {related to facilities}
+
+TABLE [ANTARCTIC BIOGEOGRAPHIC REGIONS] {related to facilities}
+
+

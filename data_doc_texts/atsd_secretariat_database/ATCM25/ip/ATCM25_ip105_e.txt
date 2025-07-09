@@ -1,0 +1,175 @@
+﻿XXV ATCM
+Information Paper IP-105
+Agenda Item: ATCM 5b
+WMO
+Original: English
+
+			
+
+
+
+
+
+
+
+REPORT OF 
+THE WORLD METEOROLOGICAL ORGANIZATION (WMO)
+TO ATCM XXV
+
+
+
+
+IN RELATION TO ARTICLE III (2) OF THE ANTARCTIC TREATY
+
+
+
+
+
+
+
+
+
+
+
+Warsaw, 
+September 10 – 20, 2002
+
+
+
+
+
+
+WORLD METEOROLOGICAL ORGANIZATION (WMO)
+REPORT TO ATCM XXV
+    1. Introduction
+The highly successful International Geophysical Year of 1957/58 gave rise to the formulation of the Antarctic Treaty in 1959 and its ratification in 1961. The Treaty was given considerable impetus for the investigation of major scientific problems in Antarctica and encouraged cooperation between nations. The Antarctic Treaty is unique in the field of international relations in that it guarantees freedom of scientific research and exchange of data. The Treaty promotes the exchange of information on the scientific program plans, of scientific observations and results, and of scientific personnel; encourages collaboration and opens all installations to international inspection. It encourages co-operative working relations with those specialized agencies of the United Nations and other international organizations having a scientific or technical interest in Antarctica.
+Article II of the present Antarctic Treaty promotes international co-operation in scientific investigation in Antarctica. Under Article III(2) Contracting Parties agree that, to the greatest extent feasible and practicable, every encouragement shall be given to the establishment of co-operative working relations with those Specialized Agencies of the United Nations and other international organizations having a scientific or technical interest in Antarctica.
+2.	The importance of Antarctic Meteorology
+Meteorology has acquired an importance over the last two decades that was difficult to imagine before then. In the early 1980’s few believed that climate change would become a major political issue within a decade. It is now a dominant issue. Climate trends are small and require continuous monitoring to separate long-term change from natural climate variability. Annual development of the ozone hole in the Antarctic stratosphere demonstrates the speed with which some damaging environmental changes can occur if the equilibrium is disturbed. Studies of the physics and chemistry of the atmosphere are vital to understanding the global climate system. New areas of research, many of substantial public importance, are opening up all the time. 
+Antarctic meteorology is, in part, concerned with improving the observational coverage over the Antarctic and Southern Ocean region for purposes of climate and climate change analysis, diagnosis and prognosis.  Meteorologists are therefore interested in: (i) improving the analysis of these observations; and (ii) in the use of observations in models of atmospheric processes. However, the disparate nature of observational techniques, observational meta-data information, and the databanks themselves are of concern with respect to quality control and suitable accuracy for climate change research.
+The Antarctic continent and its surrounding Southern Ocean, south of the Antarctic convergence, are probably the least known regions of the world. The effects of increases of radiatively active gases may eventually have profound effects on Antarctica and indeed the rest of the world. Substantial meteorological activity is required to support human operations in the Antarctica and the Southern Ocean.
+3.	The role of WMO in developing Antarctic meteorological networks
+The surface weather observing and upper air sounding networks in Antarctica, organized by WMO, are examples of scientific work of practical and economic importance. The consequential historical data bank is fundamental to the understanding of physical processes of global relevance, such as ozone depletion, atmospheric pollution, climate change, ice sheet mass balance, and sea level rise. All require Antarctic data to ensure true global perspective. Representation of Antarctica in global numerical weather prediction models is improving. Also remote sensing of atmospheric variables and sea ice from polar orbiting satellites has become more sophisticated. The continued contribution of meteorological data into the Global Telecommunications System organized by the World Meteorological Organization, and of ozone data into the World Data Centre, are strong foci for national Antarctic Meteorology programs.
+Despite the hostile conditions and the problem of logistics, the Antarctic Basic Synoptic Network (ABSN) is well implemented and the percentage of reports received at the main centres of WMO’s telecommunication network is close to the global average. This combined with rapidly improving satellite data allows high quality scientific research to be carried out using the data bank as well as the outputs from improving numerical weather prediction models of the atmosphere. It is now possible for WMO to specify a new meteorological standard with respect to the provision of operational meteorological services within Antarctica to operators of National Antarctic Programs. 
+3.1	Recovery and dissemination of meteorological data.
+WMO monitoring of Antarctic data, received at the hubs of the Global Telecommunications System circuits, shows that reliable surface and upper-air stations are running appropriate observational programs. There is coordinated and sustained operational performance of the national Antarctic meteorological observation and telecommunication networks. WMO monitoring statistics indicate that Antarctic data are received in time to be assimilated into global models before the cut-off times at each of the global weather forecasting centres. 
+The WMO Executive Council noted that the present arrangements for reception of data and products from Antarctic stations include various options. WMO EC Council also noted that about 80% of ABSN stations now use satellite systems to transmit observations to their collecting centres. While noting that the overall operation of the Antarctic data collection and distribution systems was satisfactory, the Council agreed with the recommendation of the Expert Meeting to pay specific attention to the possible discontinuation of HF broadcasts and consider alternate means of receiving data and products.
+The availability of SYNOP and TEMP reports from ABSN stations at several Global Telecommunications System centres was about 62 per cent and 70 per cent respectively, during the specific monitoring of the exchange of Antarctic data in February 2001 (Figure 1). The comparison between the numbers of reports received in 2001 and during the previous years shows a decrease for the SYNOP reports (- 3 per cent in comparison with 2000) and an increase for TEMP reports (+5 per cent in comparison with 2000). In 2001 76% of ABSN stations used satellite systems to transmit observations to their collecting centres, continuing the trend to possible discontinuation of HF radio broadcasts for receiving data and products.
+a
+
+
+b
+
+
+Figure 1:
+Percentage of meteorological reports from the Antarctic for the period 1 to 15 February 2001.
+(a) Antarctic Surface  Synoptic Network  (b) Radiosonde data. 
+WMO station numbers are shown.
+Please note:
+For both (a) and (b) the filled–in circles represent stations which reported between 50 and 100% of their observations for these times; the open circles with a central dot represent stations which reported between 1 and 50% of their observations for these times; and the open circles with an enclosed cross represent stations which did not report during the period.
+
+3.2	Recommended improvements to observational networks
+In considering the development of an observational network in the Antarctic, the 2001 WMO EC stressed the need to fully comply with growing requirements in provision of additional measurements, their timeliness and accuracy. It also felt that Member nations should further explore the possibility to increase the number of inland stations as well as coastal data coverage in the Antarctic. In this connection the Council stressed that efforts should be made by Members to deploy more Automatic Weather Stations on the continent and drifting buoys in the seasonal sea ice zone.
+The recent SCAR meeting in July 2002 recommended to France and Italy that 6‑hourly SYNOP and 12‑hourly TEMP messages should be transmitted in real time to the Global Telecommunications System of WMO when the Dome C station is commissioned in 2003-04. 
+The proposed Australia-Antarctic air link is providing the impetus for a significant increase in the number of Automatic Weather Stations (AWS) being installed by the Australian Antarctic Division. Data are being made readily available on the WMO’s Global Telecommunications System (GTS) via System Argos. The AWS installed during the 2001-2002 summer are: at the proposed airstrip site itself near Casey station (UPG); half way between the airstrip and Law Dome summit (“Half”); Law Dome summit itself (DSS); and Cape Poinsett. Extra AWS to go in around Casey are:  Haupt Nunatks (Haup); Snyder Rock; and one east of Law Dome (ELD). AWS for the intra flights (CASA 212) are: Davis area (inland of Platcha); and the Mawson area (near Gwaum, or even maybe Rumdoodle, yet to be confirmed).
+3.3	SCAR Delegates recommendations to National Committees, July 2002.
+The following SCAR recommendations pertain to Antarctic Meteorology: 
+3.3.1	Drifting buoys
+Recognizing the importance of air pressure and temperature data from the sea ice zone to global weather prediction models and climate research. SCAR urges National Committees to support the International Program for Antarctic drifting buoys.
+3.3.2	Meteorological reports from Dome C
+Recognizing the importance of surface and upper air meteorological observations over the plateau of East Antarctica for numerical weather prediction. SCAR encourages the Italian and French operators to institute 6 hourly surface and 12 hourly upper air observing programmes. This is particularly important in the light of the loss of the data from Vostok and the fact that South Pole is the only source of upper air data from the interior.
+3.3.3	Antarctic data monitoring 
+Noting that there is a need to maintain the quality of Antarctic weather data, archive it in a consolidated climate database, and make it readily accessible to researchers of all nations. SCAR endorses the monitoring of Antarctic data received in real time at several hubs of the Global Telecommunications System organized by WMO, to ensure availability of the observations in real time. 
+
+3.3.4	Antarctic aerosols
+Noting the importance of monitoring aerosols over Antarctica for climate change and radiation budget studies SCAR urges National Committees to undertake observing programmes of the vertical distribution of aerosols using LIDAR, which has been proven to be the best tool for aerosol vertical profiling.
+3.4	International Program for Antarctic Buoys
+The meteorological data from drifting buoys over an extended period of time can be used in climate research. Nations have an ongoing commitment (since 1994) to participate in the International Programme for Antarctic Buoys (IPAB) sponsored by World Climate Research Programme. The 13th World Meteorological Congress (Geneva, May 1999) particularly appreciated the value of the data being collected in the IPAB. The data not only support research in the region, but also provide valuable meteorological information in real time, and establish a basis for monitoring atmospheric and oceanic changes in the Antarctic sea-ice zone. The IPAB builds on pre-existing cooperation among agencies and institutions with Antarctic and Southern Ocean interests, to develop and maintain an optimum near-surface observational network. There have been 19 participating institutions from 10 countries, and the programme is intended to be a long-term activity. The Secretary General of WMO Professor Obasi invited National Meteorological Services having interests in Antarctica and the Southern Ocean to participate in IPAB by providing ice-resistant drifting buoys or by other appropriate means. The Chairman of the Executive Committee, WCRP International Programme for Antarctic Buoys is: 
+Dr. Enrico Zambianchi
+Instituto di Meteorologia e Oceangrafia
+Instituto Universitario
+Via Acton 38
+1-80133 Napoli
+
+After the initial phase, subsequent commitments to the Chairman of the IPAB Executive Committee were secured in June 2000 with Letters of Intent proposing further participation in the WCRP-International Program for Antarctic Buoys. However, the number of IPAB buoys is not yet sufficient to meet the requirements of the World Weather Watch (WWW) for the needs of medium-range weather forecasting. Recent research into the effect of drifting buoy data on analyses and forecasts in numerical prediction models has demonstrated strong impact on pressure and wind fields.
+3.5	The importance of the meteorological program on a Peri-Antarctic Island (in this case Macquarie Island) 
+While Macquarie Island lies outside the Antarctic Treaty area, Parties to the Antarctic Treaty may be interested in the status of operations at a significant subantarctic site. The Australian Government established the ANARE research station. The length and value of the unbroken climate data set of 55 years of meteorological data from Macquarie Island (latitude 540 30’ S) is of the highest importance as it provides one of the most complete records of climate from a latitude band (45S-65S) that is very poorly represented. A more recently started weekly ozone sounding program has been met with great acclaim by the international meteorological community.
+The data are used by a large international community of scientists, and their value is internationally recognised.  Conventional meteorological upper air data are gathered by the manual release twice-daily of radio sondes and need to be collected every day of the year.  The data rank very near the top in terms of impacts on analyses within models of the southern hemisphere tropospheric circulation and hence on weather forecasting over Australia beyond a day or two. It is the only “ground-truth” station representing an enormous area of the Southern Ocean for the purpose of calibrating satellite data and verifying model output. 
+The continuous occupation of Macquarie Island has provided an effective means for Australia to fulfil an essential role in the international meteorological community. This important meteorological observatory is a vital part of the Global Climate Observing System, and also it has an impact on the accuracy of operational numerical weather prediction .
+
+3.6	Vertical profiles of the atmosphere.
+The WMO Executive Council noted with interest that the UK Met. Office and the British Antarctic Survey plan to carry out a more extensive radiosonde programme from station Rothera with a view to investigating the impact of these additional measurements on forecast accuracy. It further noted that the UK is attempting to secure European funding for an ozone sonde campaign from Rothera in 2003. The WMO EC also stressed the vital importance of maintaining and, where possible, strengthening ozone monitoring over the Antarctic, carried out by GAW stations co-located within the ABSN and other ozone measuring stations, and urged Members concerned to expand ozone related measurements to meet growing environmental requirements.
+Understanding the process of stratospheric ozone depletion, and the long-term monitoring of ozone concentrations in the Antarctic, Southern Ocean and Australian regions is of international importance. There is a need for the national atmospheric sciences communities to examine ways in which the current programs of ozone monitoring and research can be strengthened and enhanced. This work has been driven by the establishment of the close association between structures in Polar Stratospheric Clouds revealed by the middle atmosphere lidar, and parameters of inertia gravity wave packets extracted from balloon-borne radio sonde observations. It is well established that Polar Stratospheric Clouds provide surfaces for heterogenous reactions that lead to ozone destruction. Because non-orographic inertia gravity waves are ubiquitous to the Antarctic atmosphere (being generated by frontal activity and convection), the detailed investigation of the role played by these waves in the ozone cycle is required. However additional resources for in-situ sampling of atmospheric constituents (specifically NOx and ClO and related species) and modelling studies are still required. Contact: Dr. Andrew Klekociuk, AAD, Andrew.Klekociuk@aad.gov.au
+4.	Current Antarctic Meteorology Projects
+4.1	Reanalyses
+Our understanding of the Southern Hemisphere atmosphere (its structure, variability, and change) is critically dependent on having global analyses of as high quality as is possible. As analysis techniques and data sets improve, it is prudent to re-analyse basic meteorological fields. The outcomes of the First Regional Observing Study of the (Antarctic) Troposphere (FROST) project indicated depth, strength and forward vision in this area. The role that 're-analyses' are playing in our perspectives of the atmosphere at high southern latitudes is now recognized. In particular, Antarctic and Southern Ocean data will continue to be provided to major centres e.g. the European Centre for Medium-range Weather Forecasts (ECMWF) and the US National Center for Environmental Prediction (NCEP) for their next round of re-analysis products. It is intended that these on-going ECMWF and NCEP re-analysis processes, will be re-performed every five years or so, as the techniques and data sources become of higher quality and more numerous.
+4.2	Reference Antarctic Data for Environmental Research
+The SCAR READER Project
+There is great interest in how the climate of the Antarctic has changed over the last few decades, and whether these changes are a result of natural climate variability or human activity. The topic has been hampered because of the scarcity of meteorological observations and the lack of a central database of high quality Antarctic data. The SCAR READER project has the goal of assembling a definitive data set of surface and upper air Antarctic synoptic observations for use within studies of climate variability and change. The observations are being quality controlled. 
+John Turner, British Antarctic Survey jtu@bas.ac.uk has led the SCAR READER project to bring together and analyse as many as possible of the meteorological observations collected over 50 years from the WMO surface and upper air networks. The READER project innovatively aims to produce climate trends for upper levels of the atmosphere, in addition to those near the earth’s surface, from data collected by Antarctic Treaty nations. 
+Phase 1 of the READER Project has now been completed. This involved the collation and interpretation of all the national data sets of routine meteorological reports, application of quality control and derivation of new monthly climate statistics. Metadata have also been added. Tables of the monthly means of surface temperature, pressure and wind speed have also been produced, and are available on a CD and from the READER World Wide Web site.
+It is important to understand how temperatures across the Antarctic have changed in recent decades because of the huge amount of fresh water locked into the ice sheet and the impact that temperature changes may have on the ice volume. Doran et al. (Nature 2002) claim that there has been a net cooling of the entire continent between 1966 and 2000, particularly during summer and autumn. A paper was published in Nature 418, 291-292 in July 2002 “Recent temperature trends in the Antarctic” by Turner, King, Lachlan-Cope (BAS) and Jones (University of East Anglia). Turner et al argue that this result has arisen because of an inappropriate extrapolation of station data across large, data-sparse areas of the Antarctic.
+The next phase of READER will involve producing the upper air data set. Ultimately, analyses of these data will permit the identification of climate trends and changes at upper levels and allow these to be related to change at the surface of the earth. Early in 2002 Thompson and Solomon published ‘Interpretation of recent Southern Hemisphere climate change’ in the international journal Science.
+4.3	Climate and the Cryosphere (CliC) Project
+The 21st meeting of the Joint Scientific Committee (JSC) for the World Climate Research Programme (Tokyo, March 2000) approved the establishment of the Climate and Cryosphere (CliC) Project within WCRP. The JSC endorsed the CliC Science and Coordination Plan that focuses international effort on the role of the cryosphere in climate research initiatives. The JSC is the committee responsible for the conduct of the WCRP. The 23rd meeting of the JSC was held in Hobart in March 2002. This was the first meeting of JSC in Australia. The key aim of the CliC project is to provide a globally integrated approach to the study of the role of the cryosphere (of which ~ 90% is in the Antarctic) in the climate system. This will include enhancing links between existing global and regional cryosphere studies conducted under other organizations such as SCAR. It will also be important to consider mechanisms for interaction with other WCRP projects such as the climate variability study  CLIVAR.  CliC will examine factors determining the extent and variability of the global cryosphere and its role in global climate variability by addressing two issues: (i) collection of cryospheric data and assemblage of appropriate data sets; and (ii) improvement of procedures for the collection of solid precipitation and hence measurements.
+4.4	Catalogue of Antarctic Climate Data
+Nations have been encouraged (since 1995) to produce for WMO an annual Catalogue of Antarctic Climate Data collected by that WMO Member. The catalogue may be distributed to other interested parties in both hard copy and through the web, for example....
+http://www.bom.gov.au/climate/how/antarctic_catalogue.shtml
+4.5	Antarctic Weather Forecasting Handbook
+The WMO EC welcomed The International Antarctic Weather Forecasting Handbook and requested the Secretary-General of WMO to provide assistance in publishing this important reference material.
+5.	Antarctic and Southern Ocean Weather and Climate Modelling
+Atmospheric Sciences provide a means of quantifying and understanding the fundamental processes that are involved in the climate system. Ongoing research by glaciologists, atmospheric scientists, oceanographers, biologists and geologists into the role of Antarctica and the Southern Ocean in the global climate system can lead to a knowledge of climate change. The overall field of atmospheric science provides an umbrella for a central activity of modern climate research - namely, the development of overall atmosphere/ocean/cryosphere numerical models designed to simulate the complete earth-atmosphere climate system and ultimately to predict future natural variability and long term changes in global climate. 
+5.1	Theoretical models and new observations to better represent the exchange between the Antarctic atmosphere and the ice and ocean.
+There is an Australian, and arguably international, need for a routine analysis of sea ice extent and concentration in Antarctica.  A broad scale analysis at 25-km resolution, based largely on microwave data, is particularly useful, when supplemented by fine scale (in space and time) analyses at specific locations to support ship operations as well as ecological studies.  Components of such a system exist within the Australian Bureau of Meteorology and the current Antarctic CRC, University of Tasmania. It is expected that sea ice prediction should be feasible out to a few days (e.g. five days) based on a detailed physical model driven by winds from the Bureau's operational models. The sea ice model would be developed within the framework of the national climate system modelling initiative. Aspects of the real time sea ice prediction system may be useful in climate models for both seasonal and longer-term integrations.
+5.2	The purposes of developing a system for Forecasting (or Nowcasting) Antarctic Sea-Ice Distributions
+There are proposals to develop a near real-time analysis and forecasting/nowcasting system to assimilate Antarctic sea-ice observations mainly remotely sensed from space, but also from ships and derived from atmospheric and oceanographic forecasting systems.  The purpose of this system is:
+    a) to undertake research into the processes that control the formation, development and evolution of Antarctic sea ice,
+    b) to provide improved sea-ice information for vessels navigating Antarctic waters and for scientists studying the impact of sea ice on ecological systems, and
+    c) to provide improved sea ice information for the initialization of atmospheric and oceanographic numerical models.
+
+5.3	Scientific questions answered with a Forecasting/Nowcasting System
+Currently, the answers to many scientific questions are limited by lack of information available from partial data sets at low resolution. High resolution analyses of remotely sensed sea ice, atmospheric and ocean forcing derived from realistic weather prediction models, will enable the scientific community to address and describe far more realistically:
+    • Sea-ice velocities and motion;
+    • Sea-ice formation areas;
+    • Exchanges of heat, and moisture;
+    • Role of Antarctic Circumpolar Wave/ENSO;
+    • Transport of biological matter;
+    • Transport of freshwater;
+    • Formation and distribution of Antarctic Bottom Water and shelf waters along the Antarctic coastline;
+    • Sea-ice variability (on all time scales); and
+    • Impacts of climate change (warm years versus cold years, trends etc.).
+
+5.4	Output of operational products from a forecasting/nowcasting system 
+Australian plans envisage a range of products to be made available, including:
+    • Real-time forecasts of sea-ice motion;
+    • Real-time forecasts of sea-ice thickness, concentration, layer type (snow etc);
+    • Past analysis of sea-ice distributions from 1940-present; and
+    • Background distributions for comparison with observations.
+
+5.5	Useful applications of these outputs 
+Sea ice is of interest to a wide community involved in research and operations in Antarctica.  Quantitative fields of the ice motion, thickness, and concentration at high resolution will allow predictive and informed analysis with significant benefits for:
+    • Ship routing;
+    • Tourism activities.
+    • Biological studies;
+    • Climate variability studies; and
+    • Weather forecasting.
+
+6.	WMO Cooperation with SCAR/COMNAP and ATCM
+Advancement of Antarctic Meteorology requires cooperation at two levels:
+NATIONAL - WMO Permanent Representative and Antarctic Agency.
+INTERNATIONAL – Between WMO and other international agencies, such as:
+ATCM – International cooperation and political/legal/environmental aspects.
+SCAR – Scientific research.
+COMNAP – Practical management, communications and services. 
+IOC – Scientific cooperation with WMO re the capture of oceanographic and meteorological data and planning research programs on air/sea interaction.
+The WMO EC is pleased to note that WMO has continued to maintain close collaboration with other international organizations involved in the Antarctic activities, in particular with Antarctic Treaty Consultative Meeting (ATCM), Scientific Committee on Antarctic Research (SCAR) and the Council of Managers of National Antarctic Programs (COMNAP). The EC requested its Working Group on Antarctic Meteorology, in consultation with other WMO programmes, to strengthen cooperation on Antarctic matters including the organization of workshops on a more regular basis. It also recommended facilitating and promoting the CLIC project for the Antarctic.
+This cooperation will help to ensure a coordinated and cost effective implementation of the scientific and technical programs. For example WMO EC supports The International Antarctic Weather Forecasting Handbook and The Secretary-General of WMO has provided substantial financial assistance to have this important reference material published by Cambridge University Press. Co-sponsors are SCAR and COMNAP.
+The Intergovernmental Oceanographic Commission (IOC) did extend the World Ocean Circulation Experiment (WOCE) in recent years to include atmosphere-ice-ocean interactions in high southern latitudes. WMO Executive Council welcomed the invitation of IOC to establish closer links between WMO and IOC in the development of the coordinated plans for research and monitoring in the Southern Ocean. WMO and IOC are jointly defining the way ahead with respect to the sea ice zone of the Artic and Antarctic.
+6.	Future work plan 
+WMO is involved in setting the direction of international scientific programs and forums relating to Antarctic issues, and contributing to their outcomes. The WMO Executive Council requested its Working Group on Antarctic Meteorology, in consultation with other WMO programmes, to strengthen cooperation on Antarctic matters including the organization of workshops on a more regular basis. The 8th Session of the WMO EC Working Group on Antarctic Meteorology will be held at WMO headquarters in Geneva, 25-27 November 2002, when it will determine on what its future work will focus.
+Some suggestions at this stage are: 
+    • Print and distribute copies of The International Antarctic Weather Forecasting Handbook, edited by John Turner (British Antarctic Survey) and Steve Pendlebury (Australian Bureau of Meteorology).
+    • Implement operational short-term (i.e. weather) forecasting high-resolution Numerical Weather Prediction models to cover. One of the improvements will be better definition of the orography of the Antarctic continent. A horizontal resolution of 5-25 km is possible depending on the model being used. These new models give better predictions, particularly of the wind field over coastal escarpments.
+    • Develop operational sea-ice analysis and forecasting/nowcasting systems. Assimilate Antarctic sea-ice observations mainly remotely sensed by passive microwave imagery from space. 
+    • Deploy sufficient drifting buoys in the seasonal sea ice zone so as to optimise the impact of meteorological data from them, on atmospheric models.
+    • Upgrade NOAA Ground Stations to receive the X-band data rates, now freely available from the new generation of operational environmental satellites.

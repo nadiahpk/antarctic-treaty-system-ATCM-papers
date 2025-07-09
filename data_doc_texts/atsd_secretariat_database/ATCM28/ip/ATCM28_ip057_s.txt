@@ -1,0 +1,53 @@
+﻿Campaña  2005 del Servicio Geográfico Militar en la Antártida
+Campaña  2005 del Servicio Geográfico Militar en la Antártida
+
+Desde el establecimiento de la Base Científica Antártica Artigas (BCAA) en la Isla Rey Jorge, Shetlands del Sur, el Servicio Geográfico Militar (SGM) ha encarado  varios trabajos en su especialidad. 
+Se han publicado a la fecha importante cantidad de cartas  a efectos de permitir y facilitar la navegación y la investigación científica, (geólogos, biólogos, medioambientalistas, etc.). Estas son las siguientes:    
+
+Península Fildes,  Isla Rey Jorge, escala  1/ 10.000,  año 95
+Base Científica Antártica Artigas escala 1/ 1.000, año 1986 al 98 
+Domo menor Glaciar Collins 1/10.000, 1992
+Punta Nebless (raster)  1/ 2.500 , 1987
+Punta Armonía (raster) 1/ 5.000 ,  año 1986
+Caleta Marion (raster) 1/ 4.000,  10m  1988
+Punta Armonía (raster) 1/ 10.000, anomalías gravimétricas a 1 mgal  1993
+Península Fildes  escala 1/ 77.000 anomalías gravimétricas (Aire Libre y Bouguer)  1993
+						
+El avance de los Sistemas de Posicionamiento y en particular el GPS (Sistema de Posicionamiento Global, NAVSTAR) presente desde hace dos décadas, permite instrumentar  proyectos que antes eran simplemente impensables, como por ejemplo el monitoreo y la determinación de la velocidad con que las placas de los continentes se mueven. Estos trabajos exigen la coordinación de la Comunidad de los Países Antárticos en un mismo esfuerzo.
+Dentro de este marco, el SGM ha venido participando, desde 1995 en el desarrollo de Proyecto GIANT (Infraestructura Geodésica en la Antártida), mediante la observación ininterrumpida de señales satelitales cada verano austral, con la finalidad de establecer una red de estaciones global y de llegar a determinar el desplazamiento de las Placas Continentales. Estas campañas patrocinadas por el Comité Científico Antártico (SCAR) se conocen con el nombre de Campañas Epoch y hoy representan un significativo aporte en investigación al grupo de trabajo de Tectónica Antártica, (ANTEC).
+Otra contribución de este Servicio en este verano, es la actualización de parte de la cartografía obtenida en temporadas anteriores. Lo más notable que se observa es la magnitud del alejamiento de la costa de parte del Glaciar Collins en un lugar muy próximo al entorno de la Base Uruguaya (zona de punta Nebless). 
+     	La cartografía a gran escala de Punta Nebless (1/2.500) se realizó en el verano (febrero) del año 1987  a partir del establecimiento de una red de control por métodos clásicos. El punto Datum o Fundamental fue determinado por observaciones solares mediante un teodolito universal Wild T2. El desarrollo de una red y levantamiento de los detalles se obtuvieron por medio de taquímetro autorreductor RDS, lo que insumió varias jornadas de trabajo.
+     	Esta referencia provisoria es mejorada a partir de la obtención y uso de receptores GPS, utilizando como origen los resultados (coordenadas) del Programa GIANT (Infraestructura geodésica en la Antártida), Campañas Epoch.
+     	Durante enero y febrero de este año el SGM ha re-observado mediante el uso de Estación Total, la nueva realidad del borde Sur del Domo menor del Glaciar Collins. Se trató de establecer de esta forma con mayor precisión las diferencias que saltan a la vista.
+     	El procedimiento seguido fue el siguiente: se georeferenció la imagen de la carta primitiva en el sistema mundial (WGS 84), con proyección UTM. Después, se digitalizó  esta información. Por último, se introdujeron los datos de esta última campaña (nuevo levantamiento).
+
+
+Fig. 1 Como se puede apreciar en la carta, el hielo se ha retirado en algunos lugares más de 200 metros lo que representa la pérdida de un gran volumen del mismo. 
+
+    	Se obtiene así, por comparación directa las diferencias entre los bordes de hielo del glaciar  (coloreado en azul para febrero de 1987, en rojo para febrero de 2005).
+Tener en cuenta que la cuadrícula está representada cada 200 m, es decir cada cuadrado mide en el terreno, esa distancia.
+Se observa fácilmente que lo que en principio llegaba casi al mar en la bahía Maxwell, hoy se ha retirado hacia la dirección Norte, descubriendo en principio una extensa explanada para luego presentar una pared de barrancas de una altura promedio de 30 m.
+Más hacia el Norte las pequeñas morrenas que apenas se podían apreciar, hoy son las cumbres de una divisoria formada por material de arrastre, inmediatamente al Sur del actual borde de hielo.
+Del mismo modo, la pared de hielo que se extiende hacia el Oeste (en dirección a la BCAA) se ha retirado hacia el Norte, dejando una playa más ancha y observando una notoria disminución en su altura.
+Se pretende durante el verano de 2006, poder obtener una nueva versión completa de la carta del Domo Menor del Glaciar Collins tarea cumplida durante la campaña del año 1993 para tener un nuevo parámetro de comparación.
+    Este esfuerzo complementa la tarea de ambientalistas y glaciólogos nacionales,  además de integrar información  en el Proyecto KGIS (Sistema de Información Geográfica para la Isla Rey Jorge) surgido en la reunión del antiguo Grupo de Trabajo de Geodesia e Información Geográfica (hoy conocido como grupo de geociencias) en Concepción, Chile en 1998, también dentro del Comité Científico Antártico (SCAR).
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,54 @@
+﻿
+
+
+
+
+
+Wildlife Approach Distances in Antarctica
+
+
+
+
+
+
+
+
+
+Wildlife Approach Distances in Antarctica
+Summary
+Setting appropriate wildlife approach distances for minimizing the impacts of human activities in Antarctica has long been of concern to the ATCPs, reflected by Article 3 of Annex II to the Protocol on Environmental Protection to the Antarctic Treaty. A wide range of guidelines for approach distances now exists. The question of approach distances to minimize wildlife impacts nonetheless remains of concern, especially given increases in activities such as coastal camping and the use of unmanned aerial vehicles (UAVs) for scientific research and other purposes. This paper presents the outcome of a recent meta-analysis of research conducted on human disturbance impacts on Antarctic wildlife. The research demonstrates that current, behaviourally-based pedestrian approach distance guidelines, as set out in Resolution 3 (2011) – ATCM XXXIV, do not reflect cryptic (physiological), negative responses by wildlife, and consideration should be given to their revision. No scientific evidence currently exists for impacts of camping or UAVs on wildlife in Antarctica, because such work has not yet been published in the peer-reviewed literature. Work on UAV impacts is underway both on the continent and elsewhere globally, which means that evidence on impacts and their mitigation will become available within the next few years.
+Introduction
+1. The question of appropriate approach distances to wildlife in Antarctica has long been of concern to the ATCPs. Article 3 of Annex II to the Protocol on Environmental Protection to the Antarctic Treaty prohibits harmful interference, which includes by pedestrian and vehicle disturbance. Discussion of disturbance has been prompted by IP 39 (XXIV ATCM) providing a ‘Review of guidelines for the operation of aircraft near concentrations of birds in Antarctica’; WP 26 (XXV ATCM) on ‘Proposed guidelines for the operation of aircraft near concentrations of birds’; and WP 10 (XXVII ATCM) which provided ‘Guidelines for the operations of aircraft near concentrations of birds in Antarctica’. Discussion of the latter Working Paper culminated in Recommendation 2 (2003) on Guidelines for the Operation of Aircraft near Concentrations of Birds in Antarctica at XXVII ATCM.  Concerns about the potential disturbance of birds, especially nesting penguins, by tourists resulted in the adoption of the IAATO Guidelines for approaching wildlife, with minimum distances specified.
+2. WP 12 (XXXI ATCM), presented by SCAR, provided further information on wildlife approach distances in response to a discussion at XXX ATCM of the 5 m approach distance. WP 12 concluded ‘No “one size fits all” solution can be applied to managing human disturbance effects on wildlife. For example, the setting of a minimum approach distance for pedestrian approaches that applies to all species at all sites is likely to be inappropriate for at least some species and some sites.’
+3. At XXXIV ATCM Resolution 3 on General Guidelines for Visitors to the Antarctic was adopted. The general guidelines include guidance to minimize wildlife disturbance. These contain a pedestrian approach distance of no less than 5 m, and the suggestion that animal behavioural cues should be used to minimize approach distances (‘If wildlife changes its behaviour stop moving, or slowly increase your distance’).
+4. AT ATCM XXXVII SCAR was requested to provide a report on the utility and risks of Unmanned Aerial Vehicle (UAV) operation in Antarctica, and to include consideration of camping in its consideration of appropriate distances from wildlife.
+5. Here, SCAR reports the outcome of a recent, evidence-based assessment of the science underlying wildlife approach distances in the Antarctic (Coetzee & Chown 2015, also provided as a Background Paper), and an assessment of the available evidence on UAV impacts and the impacts of camping disturbance on wildlife.
+
+Approach
+6. Formal systematic review (Pullin & Stewart 2006), incorporating a best-practise meta-analytical approach (Koricheva et al. 2013), was used to synthesise research on human disturbance to wildlife over the last three decades in the Antarctic and sub-Antarctic region. Data from 62 studies, across 21 species, on the behavioural, physiological and population responses of wildlife to pedestrian, vehicle and research disturbances was assessed.
+7. During the formal systematic review, targeted searches were also carried out for peer-reviewed work on the impacts of UAVs and camping on wildlife in Antarctica. Owing to the absence of published studies on UAV and camping impacts in Antarctica, no formal assessment of impacts of these activities were made using the meta-analytical approach, though work from elsewhere on UAV impacts is considered.  
+Outcomes
+8. Human disturbance to Antarctic wildlife across all studies for all responses showed a statistically significant negative effect. No effect for behavioural responses across individual studies was found, but negative effects were found for physiological and population-level responses. Effect sizes for disturbance sub-groups were negative for pedestrian, vehicle and research activity.
+9. No significant effect of human disturbance on behaviours related to vigilance, for blood chemistry and for hormonal physiological responses was found in the meta-analysis. However, there was a negative effect of human disturbance on heart rate physiology, typified by an increase in heart rate under disturbance. Abundance, that is, both actual counts of individuals and proxies for abundance such as fledging/hatching success and rates of egg loss, also had a negative effect, and morphometric responses (e.g. body mass, body condition) were lower for species under disturbance. Together these effects are indicative of population decline effects of human disturbance.
+10. The evidence indicates that cryptic physiological changes such as changes in heart rate may occur in a disturbed animal, but not manifest in a behavioural change, such as enhanced vigilance.
+11. Few studies included assessment of moderator variables, such as the influence of distance to or angle of the disturber, disturber group size, or habituation as potential explanatory variables, thus these important moderators could not be assessed.
+12. Significant and high between-study heterogeneity in effect sizes in all response and disturbance sub-groups was found, indicating much variation associated with the studies or the study subjects, though teasing apart these effects was not possible.
+13. No peer-reviewed published research could be found in the scientific literature, to which SCAR had ready access, on UAV impacts on wildlife in Antarctica or on camping impacts on wildlife. Anecdotal reports exist, and ongoing scientific work on UAV impacts on wildlife was discussed at the SCAR Open Science Conference in Auckland New Zealand (2014).
+14. More generally, work on wildlife disturbance impacts of UAVs elsewhere is now only starting to appear. Work by Vas et al. (2015) has recommended launching UAVs further than 100 m from bird aggregations, and to limit vertical approaches to birds that have elicited the most consistent negative reaction. The study also noted that online videos indicate that some predatory birds may attack UAVs. The study concluded by noting how little is known about UAV impacts on wildlife and how to mitigate them.
+Conclusions
+15. The current work reinforces SCAR’s earlier conclusion (WP 12 XXXI ATCM) that no “one size fits all” solution can be applied to managing human disturbance effects on wildlife. Management guidelines for different sites and species will need to be developed on a case-by-case basis, ideally in conjunction with carefully designed experiments.
+16. The meta-analysis reveals that animal behavioural changes do not necessarily reflect more cryptic (physiological), and more deleterious impacts, such as changes in physiology, or long-term changes in population trends. Thus, pedestrian approach guidelines in the Antarctic region should be re-assessed.
+
+17. The scientific evidence base for limiting human disturbance impacts to Antarctic wildlife is inadequate in almost all respects, and is in urgent need of improvement via a range of dedicated studies on pedestrian, vehicle, UAV, camping and other disturbances across a range of sites and species.
+Recommendations
+Based on the outcomes of this assessment, SCAR recommends that the CEP:
+18. Encourages Members to undertake further research in support of setting evidence-based guidelines to approach distances to wildlife in Antarctica.
+19. Encourages Members using UAVs in areas with wildlife concentrations to support research into UAV impacts, and means to avoid them.
+20. In the absence of evidence for the Antarctic, encourages Members to consider avoiding UAV launches closer than 100 m to wildlife and to consider avoiding vertical approaches to wildlife with UAVs, until Antarctic-specific information becomes available.
+21. Considers the need to re-assess the pedestrian approach guidelines currently available in the General Guidelines for Visitors to the Antarctic (ATCM XXXIV Resolution 3).
+References
+Coetzee, B.W.T. & Chown, S.L. 2015. A meta-analysis of human disturbance impacts on Antarctic Wildlife. Biological Reviews doi: 10.1111/brv.12184
+Koricheva, J. et al. 2013 Handbook of Meta-analysis in Ecology and Evolution. Princeton University Press, Princeton.
+Pullin, A.S. & Stewart, G.B. 2006. Guidelines for systematic review in conservation and environmental management. Conservation Biology 20, 1647-1656.
+Vas, S.L. et al. 2015. Approaching birds with drones: first experiments and ethical guidelines. Biology Letters 11, 20140754.
+

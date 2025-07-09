@@ -1,0 +1,76 @@
+﻿Systematic Environmental Protection in Antarctica:
+A draft Systematic Environmental-Geographic Framework for Antarctica created using Environmental Domains Analysis.
+
+Systematic Environmental Protection in Antarctica:
+A draft Systematic Environmental-Geographic Framework for Antarctica created using Environmental Domains Analysis
+
+Executive Summary
+Following the report at CEP VII, a preliminary draft of an Environmental Domains Analysis (EDA) classification has been created for the whole of Antarctica.  An initial attempt focused on the Dry Valleys-Mt Fleming area failed due to insufficient data and sample size and wide climatic variability.  The types of data layer used in the Antarctic-wide classification were similar to those started on in 2004.
+
+20 Environmental Domains, called Environments, have been described.  They represent various regions of ice sheet, coastal continental margin, ice shelf, mountain ice-free rock, and the Antarctic Peninsula.  More detail can be described in areas of high scientific interest, particularly ice-free areas. The analysis and the Environments constitute a “proof of concept” for using EDA to create a systematic environmental-geographic framework.
+
+Review and further documentation of this classification, and how it might be applied and extended are now required. 
+
+1. Background
+Article 3(2) of Annex V (Protected Areas) to the Environmental Protocol states that “Parties shall seek to identify, within a systematic environmental-geographic framework, and to include in the series of Antarctic Specially Protected Areas…” nine types or categories of area listed in (a) through (i) of that Article.  There is no elaboration of what is meant by a systematic environmental-geographic framework (SEGF).  Despite discussion at various fora, there has been no resolution or identification of a SEGF.  
+
+New Zealand presented a progress report on an Environmental Domains approach to SEGF at the Committee for Environmental Protection (CEP) meeting in Cape Town in 2004 (CEP VII – XXVII ATCM / WP 24). This followed a series of papers at previous meetings of the CEP since 2000, particularly at CEP VI (XXVI ATCM / WP 20, XXVI ATCM / IP 1) describing what a SEGF was and how it could be used.  It was concluded that a SEGF could be very useful to the CEP and New Zealand was encouraged by the CEP to develop the work. 
+
+2. Environmental Domains Analysis
+By the end of CEP VI it was concluded that Environmental Domains Analysis (EDA) was likely to be a suitable method of deriving a SEGF.  EDA input data layers and steps followed were proposed in the papers at CEP VI. These are described briefly below and in more detail in the current companion power point presentation and Information Paper at this meeting.
+
+Initial attempts to fit climate surfaces to data from climate stations in the Dry Valleys area of the Ross Sea Region were frustrated by the relatively small number of stations (14), their relatively limited geographic span, and the extreme and unusual climatic variability recorded for sites in the Dry Valleys. This combination of restricted sample size and wide climatic variability resulted in surfaces with wide predictive errors and inadequate description of the broader-scale geographic variation in climate. The study then investigated the feasibility of fitting continent-wide surfaces for which data were able to be obtained for a much larger set of climate stations (n = 106), although only temperature was consistently recorded at most of these.  This caused a review of the underlying data layers that were to be used to create the classification, so as to ensure that each layer could be applied on an Antarctic-wide scale.  This continental scale is the focus for the work presented here.
+
+Eight underlying data layers differentiating the physical environment were used, namely:
+    • Mean annual air temperature 
+    • Mean annual wind speed
+    • Seasonal temperature range (difference between mean coldest and warmest average months, August and January)  
+    • Average atmospheric solar radiation
+    • Diurnal length (number of days with sunset and sunrise)
+    • Slope (created from the ‘RAMP’ 1 km digital elevation model)
+    • Two layers combined to form one geological/landform layer including ice cover.
+
+These data layers capture the main habitat characteristics in terrestrial Antarctica, including climate surfaces for the fundamental environmental drivers.  The information paper has more information on these, including data sources.  We acknowledge data sources from US institutions and BAS as well as SCAR.  The input data layers were created at a uniform cell size, with over 13 million 1000m pixels available for analysis.  A systematic 25% sample of data points was analysed using C++ programs and multivariate classification software, leading to classification layers of various numbers or “groups” of Environments.
+
+3. Environments
+Landcare Research Ltd in New Zealand has completed a preliminary draft of an EDA classification layer for the whole of Antarctica using the “20 Group” of Environments.  Five main types of environments can be seen within the classification. These environments are: 
+    • Central Antarctic ice sheet (Environments J, M, N and P)
+    • Coastal-continental margin (Environments E, K and L)
+    • Ice Shelf (Environments D, I and Q)
+    • Mountain - ice free rock (i.e. “Geologic”) (Environments F, G, H, O, R, S and T)
+    • Antarctic Peninsula and off shore islands (Environments A, B and C)
+
+Figure 1: Preliminary classification layer of Environments in the “20 Group”.  Most Environments are not distinguishable in the black and white version of this map and a colour version is available in a power point presentation.
+
+
+Most observers with knowledge about Antarctica will find that there are basic themes running through the “20 Group” classification layer that align well with previous subjective classifications (e.g. Keage 1987). Ice sheet, coastal margin, ice shelf and Antarctic Peninsula Environments are identified clearly here as in previous classifications, but with more detail.  Mountains and other relatively extensive areas of exposed rock have been separated out better.  Overall the classification process seems to fit with current notions on how the Antarctic environment should be categorised.  
+
+There are a few unusual classifications based upon the extreme Euclidean distance between similar Environments. This is to be expected with the South Pole being a focal point of the continent.  Consequently areas of similar latitude are more likely to be combined together because of the temperature, wind speed, solar radiation, and diurnal length layers which are, in some cases more strongly than others, aligned with latitude.  The classification process increases the probability that areas having similar environmental character will be grouped together even though they may be physically separated by hundreds or thousands of kilometres.  For example, Environment I includes the ice shelves along the Antarctic Peninsula which have or are starting to collapse, and groups them with ice shelves off Coates Land and the Nansen Ice Shelf in Terra Nova Bay.  It is interesting that the latter at least has also shown signs of extreme fluctuation in recent decades.  This may be an example of the predictive nature of such a classification process. 
+
+4. Conclusion and future work
+The analysis and the Environments described here constitute a “proof of concept” for using EDA to create a systematic environmental-geographic framework.  This stage has been reached after two years work, which was less than anticipated at CEP VI.  However the work outlined in the Preliminary Timeline from Working Paper (ATCM XXVII / WP 24) is not complete.  
+
+The “proof of concept” classification layer and levels of classification need to be reviewed, improved and finalised.  New Zealand agencies will be involved in this but will need and would welcome input from SCAR and others in the international Antarctic community.
+
+More detail can be described in areas of high scientific interest or variability, particularly ice-free areas or the Antarctic Peninsula, where the “20 Group” of Environments may be too few.  It might be possible to incorporate a higher resolution digital elevation model with smaller cell size and other GIS applications and data surfaces (e.g. soil/ regolith, detailed geological maps) in such areas, but the challenge of handling the large amount of data needs to be appreciated.
+
+Biotic and marine layers have not yet been addressed.  It would be useful to (a) add data layers for terrestrial ecosystem types and significant species assemblages and/or (b) determine how well existing descriptions of them match the classification layers referred to here (or vice versa).  We are not currently in a position to do this systematically or to extend the classification to the marine environment (e.g. using sea surface temperature, salinity, ice cover, total currents, ice and wave action, bathymetry and sea bed slope). 
+
+Human activity and intangible values must eventually be addressed to fulfil the requirements of Article 3(2).  Human presence, and management activities including conservation needs, particularly Antarctic Specially Protected and Managed Areas, can be portrayed on further data layers.  Concepts and criteria for data layers for wilderness and aesthetic values need to be developed in stages under the auspices of the CEP, but we currently have no plans for that.  Further direction, reality checks and refinement by the CEP will be required.  
+
+A straightforward early goal that New Zealand will address will be to determine what Environments are covered by the existing protected area network.  This would aim to demonstrate in principle how well the ASPAs represent the Antarctic environment (see also New Zealand’s Working Paper on “A review of the Antarctic Protected Areas system”).  This should enable the “representativeness” of proposed and existing protected areas to be assessed efficiently, transparently and in a repeatable manner.  An aim will be to allow Parties and the CEP to assess overall needs for protected areas on a more systematic basis and give priority to goals or targets for such areas that may be agreed (e.g. inviolate or reference areas).
+
+The evolution of information technology will influence the feasibility and progress of this work.  Funding will remain a constraint, particularly for documentation and development of operational classifications and a website which is seen as an ideal tool for internet delivery to end-users. 
+
+We will continue to report progress and pitfalls to the CEP, specifying what can or cannot be done with existing resources.
+
+5. Recommendations
+    (a) The CEP should take an interest in furthering the development of a systematic environmental-geographical framework as it continues to develop guidelines for implementing the Protocol
+    (b) The “proof of concept” classification layer presented here needs to be reviewed and finalized with input especially welcome from SCAR and others in the international Antarctic community
+    (c) At the present time, it is believed two classification layers should be created for use in an Antarctic SEGF: one based on the “20 Group” or similar would be for application on a continental scale, and one comprised of around 100 Environments would focus on more regional scales or areas of high variability including ice-free land environments
+
+Reference
+
+Keage, P 1987. Environmental zones and planning units - a basis for an Antarctic terrestrial protected area network.  In “Conserving the natural heritage of the Antarctic realm” (PR Dingwall, Editor). IUCN, Gland, pages 135-140.
+
+

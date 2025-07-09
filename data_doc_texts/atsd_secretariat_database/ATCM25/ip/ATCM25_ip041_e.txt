@@ -1,0 +1,109 @@
+Information exchanging--------Chinese Antarctic Scientific Database  
+              
+1. System of data management  
+China acceded to the Antarctic Treaty in 1983. As a member of the Treaty, China has to fulfill the 
+obligation. China has set up the Chinese National Antarctic Data Center (CN-NADC), which 
+manages and issues Antarctic research data directory and data for exchanging information 
+according to the Article III of The Antarctic Treaty 
+To insure the effective management of Antarctic data, Chinese Arctic and Antarctic Administration 
+issued The Management Rules of Chinese Polar Scientific Data in May, 2001. It request that 
+any group or individual engaging in Antarctic scientific research program has the responsibilities 
+of keeping data, copying data and submitting the data copy to CN-NADC in time. CN-NADC will 
+take charge of the data management and issue.  
+The system of Chinese polar scientific data management is: The Expeditions collect the data, 
+submit the brief metadata and data copy to CN-NADC in the prescribed time; CN-NADC 
+manages the data collectively and issues the data on the Internet. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Polar science data processing flow 
+ 
+ 
+ 
+2. Chinese Polar Scientific Database System 
+Chinese Polar Scientific Database System, which is based on the Internet, is the technical 
+support of Chinese polar data management and share. This database mainly deals with and issues 
+Chinese all previous polar research data. According to the data source, the database is going to be 
+composed of 8 sub-database:  “Polar Oceanography Database”, “Polar Solar-terrestrial Physics 
+Database”, “Polar Glaciology Database”, “Polar Meteorology Database”, “Polar Geology 
+Database”, “Polar Earth Physics Database”, “Polar Geodesy Database” and “Polar Ecology and 
+Environment Database”. 
+The first-run project of Chinese Polar Scientific Database System (mainly “Polar Oceanography 
+Original 
+data 
+Primary 
+disposal
+Observation
+instrument 
+Central copy
+registration 
+Discipline dadabase
+Search and obtainment for 
+Cooperative users 
+Dispersed deposit
+Editing metadata
+Integrated 
+arrangement
+International 
+polar metadata
+inquery 
+International 
+polar database 
+online inquery 
+ 
+Share 
+service
+International 
+polar science 
+data users 
+Raw data processing 
+Database”, “Polar Solar-terrestrial Physics Database” and “Polar Glaciology Database”) supported 
+by Ministry of Science and Technology of People’s Republic of China has been completed and the 
+database runs well on the Internet. The database system provides a good technical platform for the 
+aim of polar research data management and share. 
+Up to now, the Database System has included Chinese all previous Antarctic research 
+(1984— 1999, from the first to the 16th expedition) dataset of marine investigation and 
+Solar-terrestrial Physics observation, 1981/1982 Chinese-Australian ecology research dataset and 
+1999 the first Arctic research dataset of marine and atmospheric investigation, amounting to 940 
+datasets. All these datasets have metadata of DIF format and most of them are in the table format, 
+which can be downloaded as text files. Other datasets not in the table format can be downloaded 
+as the compressed format (.ZIP). All metadata are online. Most datasets are online and a few of 
+datasets are offline. 
+This Database System uses the Metadata System as the search engine. The dataset is under the 
+relative metadata. But metadata can be issued separately without the dataset. Unlike some data 
+websites which provide the FTP download service, this System provides text and image form for 
+the browsers. 
+The metadata format: internationally current and extended DIF format (Data Exchange Format)  
+The dataset format: All dataset have been changed into two-dimensional tables as they can. 
+These datasets can be browsed as two-dimensional tables and downloaded with the metadata as 
+text files. The datasets in other formats keep their original formats and can be stored, downloaded 
+as binary-system files. But their metadata is still in text files. 
+ 
+3. The future prospect 
+The initiation and the first fruits of Chinese Polar Scientific Database System conform to the 
+international trend of polar scientific data share. The setup of Oceanography Database, 
+Solar-terrestrial Physics Database and Glaciology Database in the first-run project of our system is 
+an active response to the challenge. Furthermore, it can be expected that more polar scientific data 
+will be saved, protected and issued regularly, such as Polar Meteorology Database, Environment 
+Database, Geology Database, etc.  
+ 
+4.The website of the database (www.chinare.org.cn) 
+When you are accessed to this website, please register at first and then you can enter the database 
+and download freely.  
+ 
+ 
+ 
+ 
+  

@@ -1,0 +1,61 @@
+﻿
+
+
+
+
+
+UAV remote sensing of environmental changes on King George Island (South Shetland Islands): update on the results of the third field season 2016/2017
+
+
+
+
+
+
+
+
+UAV remote sensing of environmental changes on King George Island (South Shetland Islands): update on the results of the third field season 2016/2017
+Information Paper submitted by Poland
+Summary
+The following paper provides an update on the third field season of a monitoring program using fixed-wing Unmanned Aerial Vehicles (UAVs) to collect geospatial environmental data. 
+Piston engine UAV was used for collecting data on penguin and pinniped populations’ size and distribution, as well as mapping of vegetation communities. Observations on overflight impact on elephant seals were made.
+Background
+Details of the first and second field seasons were reported to ATCM XXXVIII/CEP XVIII (IP77 “UAV remote sensing of environmental changes on King George Island (South Shetland Islands): preliminary information on the results of the first  field season 2014/2015”) and ATCM XXXIX/CEP XIX (IP 059 “UAV remote sensing of environmental changes on King George Island (South Shetland Islands): update on the results of the second field season 2015/2016”).  
+During the Antarctic summer 2016/2017 research program MONICA (A novel approach to MONitoring the Impact of Climate change on Antarctic ecosystems) was continued at the Arctowski Station. Two Polish scientific institutes (Institute of Biochemistry and Biophysics, Warsaw University of Technology) and one Norwegian institute (Northern Research Institute) cooperated in the project. 
+Third field season’s objectives were:
+    • UAV-based mapping of selected penguins’ breeding colonies in Admiralty Bay area, King George Bay area and Penguin Island.
+    • UAV-based mapping of selected pinniped breeding colonies and resting sites in Admiralty Bay area, King George Bay area and Penguin Island.
+    • Collecting high-precision reference data from ground level (penguin nest census in accessible breeding colonies, pinniped census in accessible aggregation places, data on species composition of tundra communities and hyper spectral images of individual species) for georeferencing of the UAV images. 
+    • Observing wildlife (elephant seals) response to UAV overflights,
+    • UAV-based mapping, with RGB and Blue-Green-NIR sensors of vegetation of selected areas in Admiralty Bay area. 
+Study site
+Field studies were conducted on King George Island (South Shetland Islands, West Antarctic Peninsula) in November and December 2016.
+Penguin and other bird breeding colonies situated in Admiralty Bay area (ASPA No 128 Western Shore of Admiralty Bay, Chabrier Rock, Shag Islands, Cape Vauréal), King George Bay area (ASPA No 151 Lions Rump, Turret Point, Three Sisters), and Penguin Island were selected for aerial censuses. 
+ASPA No 128 is the site of long-term monitoring programs of breeding and non-breeding birds, and pinniped species, conducted by US (Antarctic Marine Living Resources AMLR) and Poland (Dept. Antarctic Biology IBB PAS) since 1976. In 2007 monitoring program in ASPA No 151 was established by Poland and has been conducted during each Antarctic summer season.
+Aerial and ground nests censuses were recorded in November (for Adélie and gentoo penguin species) and December (for chinstrap penguin species) 2016, in a period which is approximately 1 week after peak clutch initiation. 
+Aerial surveys
+Information on UAV model used on King George Island:
+PW-Zoom1 (MTOW 16.8 kg, wingspan 3.0 m, max flight distance 200 km, max flight time 120 min, fuel –  95 octane gasoline)
+Take-offs and landings were done at Arctowski Station. Flight were conducted at the altitude of 350 – 500 m (Admiralty Bay area, ASPA No 151), or 550 m (Penguin Island)
+Images of penguin colonies and pinniped gathering sites were taken with digital cameras: SLR Canon 700D with a 35mm objective lens. Flights’ altitude of 350 – 550 AGL allowed images to be taken with a resolution GSD (ground sample distance) 4-6 cm. 
+Safety protocols tested during 2014/2015 and 2015/2016 seasons were used (see IP077 - ATCM XXXVIII/CEP XVIII, and IP059 – ATCM XXXIX/CEP XIX). All Parties conducting operations on King George Island, as well as IAATO and ASOC, were informed. Chain of communication was pre-agreed with Base Frei (Chile), detailed information about each flight were also announced on channel 16 and 12 VHF 30 minutes before each flight. Information exchange and coordination were additionally arranged with Comandante Ferraz Station (Brazil). 
+All flights were successfully completed. No emergency situations took place, and no need arose to terminate any of the UAV flights before its completion.
+Following the previous two seasons’ experience flights were executed only after a thorough analysis of weather conditions, with data on wind speed and direction, cloud ceiling, visibility, precipitation, humidity and temperature analysed before flight plan preparation. Weather forecasts and day-of-flight observations were used to find windows of opportunity needed to conduct safe aerial operations. All personnel engaged in UAV operations (RC pilot, GCS pilot etc.)  were experienced professionals. UAV model used was designed and equipped for operations in severe climate conditions. It was successfully used during previous two seasons, and was proved to be a reliable tool for collecting environmental data. 
+Preliminary results
+Data collected during 2016/2017 season is still in the process of analysis, so only very preliminary results are presented.
+Twelve successful flight missions (total distance 2024.143 km, total flight time 19 h 51 min) were performed between 8th November and 1st December 2016, covering coastal zone of ASPA No 128, ASPA No 151, Chabrier Rock, Shag Islands, Cape Vauréal, Turret Point, Three Sisters and Penguin Island).
+Obtained images allowed to locate and estimate the number of nests of Pygoscelis penguins: Adélie (P. adeliae), gentoo (P. papua) and chinstrap (P. antarcticus), in total approx. 30 000 nests in twelve breeding colonies. Analysis included a comparison of digital data with the data acquired from ground-based measurements, obtaining high compliance, with less than 10% difference in selected colonies in ASPA 128 and 151. Additionally, more than 100 nests of Antarctic shag (Phalacrocorax atriceps bransfieldensis) at Chabrier Rock and Turret Point, as well as more than 450 nests of southern giant petrel   (Macronectes giganteus) at Turret Point, Cape Vauréal and ASPA No 128 were mapped.
+Obtained images allowed also to count pinnipeds along the coastal parts of ASPA No 128, ASPA No 151, Turret Point, Three Sisters and Penguin Island. More than 1250 individuals of pinnipeds (mostly elephant seal Mirounga leonina and Weddell seal Leptonychotes weddellii) were distinguished on the collected material.
+Vegetation data were collected for the whole area of ASPA No 128 as well as for the adjacent moss beds of the so called Jasnorzewski Gardens. They will be used to create vegetation maps of the investigated terrain, forming a base for the development of long-term comprehensive monitoring of climate related changes in terrestrial communities.
+Observations on the potential effects of disturbance by UAV overflights by PW-Zoom 1 were continued, with the reactions of elephant seals (M. leonina) noted by qualified observers. No visible behavioural reactions to UAV overflights (altitude >500 m AGL) were noticed.
+Data acquired during 2014/2015, 2015/206 and 2016/2017 seasons made it possible to map penguin populations’ size and distribution. On the basis of photogrammetry data and historical data, an analysis of populations’ changes is being done for Admiralty Bay and King George Bay and Penguin Island areas. 
+Additionally, data collected in December 2015 were used to test possibilities of utilizing UAV-based photography to perform spatial analysis of periglacial landforms (Dabski et al 2017 – see References). Digital elevation models (DEM) and maps of slope and contour lines  of Demay Point peninsula (ASPA No 128) were prepared. The vectorization of periglacial landforms based on interpretation of them allowed for a high-scale spatial description of landforms and quantification using GIS software. Authors conclude UAV used in the study (PW-Zoom) is well suited to gather detailed geomorphological data and can be used in spatial analysis of periglacial landforms in the Western Antarctic Peninsula region. 
+Technical and engineering problems of designing UAVs suitable for work in windy, turbulent environment of South Shetland Islands, and conducting successful photogrammetric flight missions are discussed in Glowacki et al 2015,  Goetzendorf-Grabowski & Rodzewicz 2015, Goraj 2014, Rodzewicz et al 2017 (see References). 
+
+Poland would like to thank Chile, and specially dr José Retamales (Director Instituto Antártico Chileno) for help in UAV flight coordination by Base Frei. 
+References
+Dabski M., Zmarz A., Pabjanek P., Korczak-Abshire M., Karsznia I., Chwedorzewska K.J. 2017. UAV-based detection and spatial analyses of periglacial landforms on Demay Point (King George Island, South Shetland Islands, Antarctica). Geomorphology, doi: 10.1016/j.geomorph.2017.03.033 (Accessible at: http://www.sciencedirect.com/science/article/pii/S0169555X16311059)   
+Glowacki D., Hajduk J. Rodzewicz M. 2015. Methods of flight-path planning for UAV photogrammetry missions with consideration of aircraft dynamic properties. 5th CEAS Air and Space Conference  -"Challenges in European aerospace", Council of European Aerospace Societies, Delft, 7-11 September 2015, Paper CEAS-02 (Accessible at: http://aerospace-europe.eu/media/books/CEAS2015_023.pdf) 
+Goetzendorf-Grabowski T., Rodzewicz M. 2015. Design of UAV for photogrammetric mission in Antarctic area. 5th CEAS Air and Space Conference - "Challenges in European aerospace", Council of European Aerospace Societies, Delft, 7-11 September 2015, Paper CEAS-021 (Accessible at: http://aerospace-europe.eu/media/books/CEAS2015_021.pdf) 
+Goraj Z. 2014. A specialized UAV for surveillance in windy, turbulent environment of the Antarctic coast. 29th Congress of the International Council of the Aeronautical Sciences Location: St. Petersburg, Russia, 7 - 12 September 2014 (Accessible at: http://www.arctowski.pl/arctowski/biblioteka/zba/goraj.pdf) 
+Rodzewicz M., Glowacki D., Hajduk J. 2017. Some dynamic aspects of photogrammetry missions performer by „PW-Zoom” – the UAV of Warsaw University of Technology. Archive of Mechanical Engineering, VOL. LXIV, Number 1, DOI: 10.1515/meceng-2017-0003 (Accessible at: https://www.degruyter.com/downloadpdf/j/meceng.2017.64.issue-1/meceng-2017-0003/meceng-2017-0003.pdf) 
+

@@ -1,0 +1,34 @@
+﻿
+
+
+
+
+
+The Antarctic Observing Network (AntON) to facilitate weather and climate information: an update
+
+
+
+
+
+
+
+
+The Antarctic Observing Network (AntON) to facilitate weather and climate information: An Update
+Background
+Antarctica is a data sparse area of the world and so it is important to maximise use of all of the meteorological and other data that are collected there for weather, climate, cryosphere, and other research and operational activities. However, the density of the current surface and upper-air stations is much less than that desirable to properly characterize Antarctic weather, climate and cryosphere. This paper is a short update to IP34 provided to ATCM39.
+Both WMO and SCAR aim to maximise the dissemination and use of such data through the Antarctic Observing Network (AntON). AntON consists of human-operated and automatic weather stations currently in operation in Antarctica and the sub-Antarctic islands (see figure, below). The current list (as of end Feb. 2017) is provided in Appendix 1 and is also available online (see below). The network distribution is updated on a regular basis when new details about stations are received (e.g. new installations, removals or failures). Details about the monitoring can be found on the monitoring page at http://tinyurl.com/j7f5okr. This site also contains resources for national operators to see the quantity and quality of their observations and also links to online resources.
+
+
+
+Figure: green: AntON stations; blue: AntON associated stations; red: stations no longer reporting in real-time; yellow subantarctic stations
+
+Updates since ATCM 39
+Since ATCM 39 WMO is focussing on (i) making AntON data more visible and accessible via the WMO Information System, (ii) having more AntON stations with cryospheric observations and having such stations included in the core observing network of the Global Cryosphere Watch and CryoNet (see IP 113), and (iii) increasing deployment and maintenance for long term, high quality in situ observing platforms and/or Automated Weather Stations at strategic locations in Antarctica (e.g., coastal), encouraging the release of weather balloons from ships during voyages to Antarctica, and promoting deployment of surface drifters in the Southern Ocean.
+The following stations have opened and will be added as AntON stations:
+89011 Sorensen 71°12’S 10°00’W
+89047 Filchner 80°30’S 42°30’W
+89776 Bharani 69°25’S 76°11’E
+
+Contributing to AntON
+Besides contributing data to Numerical Weather Prediction, climate and other cryospheric applications in a data sparse area, using AntON is also a way of ensuring people know of the sites where data are available. However, it does rely on WMO being made aware of any new installations, or sites that are no longer functioning. 
+We would ask Treaty Parties to notify AntON (AntON@wmo.int) if they are aware of any changes regarding stations/platforms in the Antarctic region where meteorological (and related e.g. snow depth) data are collected.

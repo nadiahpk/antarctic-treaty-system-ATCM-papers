@@ -1,0 +1,158 @@
+Observing the Changing Southern Ocean and its Global Connections
+Observing the Changing Southern Ocean and its Global Connections
+Information paper submitted by the United States
+Summary
+Despite the critical role of the Southern Ocean in the Earth’s climate
+system, observations of its properties have generally been sorely
+lacking due to challenges associated with conducting research in
+this remote and extreme environment. The Southern Ocean Carbon
+and Climate Observations and Modeling (SOCCOM) project was
+launched in 2014 with a vision to enable a transformative shift in
+scientific and public understanding of the role of the Southern
+Ocean in the world’s ocean and climate system. Since its initiation,
+the project, which involves U.S. scientists at eleven institutions and
+a number of international partners, has deployed over 130 robotic
+profiling floats equipped with chemical and biological sensors.
+These floats move up and down the water column collecting data.
+Once the floats resurface, these data are transmitted via satellite to
+the investigators and are publicly available.
+The SOCCOM profiling float array has transformed the Southern
+Ocean from a poorly observed region into, perhaps, the best
+observed ocean for cycles of plankton biomass, carbon, oxygen, and
+nitrate. This work has laid the basis for a multi-decadal assessment
+of natural and anthropogenic climate effects on the Southern Ocean
+environment. Enhancing this system would include the systematic
+addition of bio-optical sensors to SOCCOM floats, as well as
+including regular deployment of floats which would collect long
+term data in Southern Ocean Marine Protected Areas (MPAs)
+established by the Commission for the Conservation of Antarctic
+Marine Living Resources (CCAMLR). Currently, there are two MPAs
+in the CCAMLR area (the South Orkney Islands southern shelf MPA
+and the Ross Sea region MPA) and three additional MPAs are in
+review by CCAMLR (one in East Antarctica, one in the Weddell Sea
+and one in the Western Antarctic Peninsula region).
+Background
+The open waters of the Southern Ocean have a profound influence
+that extends from the marginal seas of Antarctica to the global
+climate system. Near the continent, upwelling of the Circumpolar
+Deep Water (CDW), driven by an increase in winds, is melting ice
+shelves and stratifying the ocean. These processes have impacts on
+nutrient supply, phytoplankton biomass, and, ultimately, on upper
+trophic level organisms such as fish, seabirds and marine mammals.
+The influence of the open waters of the Southern Ocean extends
+globally. The Southern Ocean is the primary gateway through
+which the intermediate, deep, and bottom waters of the ocean
+interact with the sea surface and the atmosphere. As a result, the
+majority of the oceanic uptake of anthropogenic carbon and heat
+occur within its domain. The Southern Ocean also has a profound
+influence on nutrient resupply from the abyss to the surface,
+regulating nutrient availability throughout the world ocean. Waters
+of the Southern Ocean are also particularly susceptible to ocean
+acidification, a phenomenon which is hypothesized have profound
+ecosystem impacts in the near future. Understanding the
+connections between the Southern Ocean and the rest of the globe
+is one of the primary research foci identified by the Scientific
+Committee for Antarctic Research.
+Despite the importance of the Southern Ocean to global systems, it
+has been poorly observed due to its remote location and fierce
+weather conditions. However, two recent advances have
+transformed observation capabilities. The first is the development of
+new biogeochemical sensors mounted onto autonomous profiling
+floats used in the ocean-wide Argo system (https://argo.ucsd.edu).
+These sensors allow sampling of ocean biogeochemistry, including
+the indicators of ocean acidification, in 3-dimensional space with a
+data provided to investigators every five to ten days. Second, the
+climate modeling community now has the computational resources
+and the physical understanding required to develop climate models
+that can represent crucial mesoscale processes in the Southern
+Ocean. Advancements in biogeochemical sampling, combined with
+this
+new generation of models, provides investigators with tools that can
+vastly improve our understanding of Southern Ocean processes.
+The SOCCOM project was designed to utilize both of these
+advancements and it is dramatically altering our understanding of
+Southern Ocean biogeochemistry (https://soccom.princeton.edu).
+Over 130 floats are operating in all three basins of the Southern
+Ocean. This includes routine operations under seasonal ice cover.
+Observations from the floats are uploaded to the Argo data system,
+made freely available in near-real time, and are being assimilated
+into the multi-basin biogeochemical state estimate developed as
+part of the SOCCOM project. These observations have become the
+dominant source of fundamental biogeochemical data, not just in
+the Southern Ocean, but globally (Table 1). These new observations
+and tools have allowed investigators to describe seasonal variability
+and major chemical fluxes throughout the Southern Ocean resulting
+in a fundamentally new understanding of the physical factors that
+underlie biogeochemical processes.
+Profiling float operations extend into waters near the continent that
+are deeper than 2000 m and, in some cases, even shallower. A
+significant number of the profiling floats in the SOCCOM array are
+operating in current, or proposed, Marine Protected Areas (MPAs)
+in the Southern Ocean (Figure 1). These floats provide the only
+real-time biogeochemical observations in the MPAs, which are
+designed to protect and conserve the marine living resources in the
+waters surrounding Antarctica.  Biogeochemical floats operating in,
+or near, MPAs have been used by SOCCOM scientists in a variety of
+studies that are closely related to MPA ecosystem dynamics.
+Specifically, the SOCCOM project supports the recommendation in
+Resolution 5 (2017) which calls for identifying opportunities to
+conduct and support relevant research and monitoring activities
+that support the objectives and the forthcoming Research and
+Monitoring Plan of the Ross Sea Region MPA, in particular through
+international collaborations. The profiling float data are also being
+used widely by scientists from a variety of nations and the
+observations have become a major resource for their study of the
+Southern Ocean. A summary of publications arising from the
+SOCCOM project can be found at https://soccom.princeton.edu/
+content/soccom-publications.
+Recent examples of research projects include:
+Effects of meltwater on long term oxygen, pH and nitrate changes)
+Effects of sea ice variability on blooms in the Weddell Sea
+Formation of super-cooled sea water from sea ice and ice shelves
+Seasonal modulation of phytoplankton biomass
+Effects of variable physics on phytoplankton bloom formation
+Polynya formation in the Weddell Sea
+Assessment of seasonal cycles in carbonate chemistry and
+projections of future acidification
+Net community production in Southern Ocean waters
+Future SOCCOM Program Goals
+Continue operation of the SOCCOM array in the open waters of the
+Southern Ocean.
+Ensure SOCCOM floats are fitted with bio-optical sensors to
+enhance observations of biological processes.
+Assimilate data into operational models to enable predictions of
+future trends in ecosystem properties, including current and
+potential future MPAs.
+Enhance observations in current and projected Southern Ocean
+MPAs with additional floats, including enhanced international
+planning.
+Explore routine operation of floats in MPA waters between 2000
+and 500 m depth
+Table 1. Number of SOCCOM floats profiles and ship-based profiles
+for oxygen, nitrate, and pH per year, which illustrates the greatly
+increased (~10X) sampling available from floats. Source for ship
+data is the US National Oceanographic Data Center. Source for
+SOCCOM data is the Argo Global Data Assembly Center.
+Number of Profiles to >900 m per year
+Property
+SOCCOM floats
+2014-2021
+Ships South of 30S
+2010-2017
+Ships North of 30S 2010-2017
+Oxygen
+18,592
+1,764
+3,032
+Nitrate
+15,185
+1,651
+2,840
+pH
+8,505
+1,054
+1,976
+Figure 1 SOCCOM float trajectories (blue lines) and last position
+(black dots).
+Figure 1 SOCCOM float trajectories (blue lines) and last position
+(black dots).

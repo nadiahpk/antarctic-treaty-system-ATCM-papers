@@ -1,0 +1,71 @@
+First assessment of cumulative impact of scientific stations on the
+ambient air of an Antarctic oasis
+English version provided by the author
+First assessment of cumulative impact of scientific stations on the
+ambient air of an Antarctic oasis
+Information paper submitted by the Republic of Belarus
+Summary
+The performed studies made it possible for the first time to estimate
+the emission of pollutants and surface air pollutant concentrations
+from the operation of diesel generators of the whole set of scientific
+stations in one of Antarctic oases – Larsemann Hills, East
+Antarctica.
+To prevent irreversible changes in the natural environment due to
+the operation of Antarctic stations, it is important to assess the
+levels of their anthropogenic impact. Model calculations make it
+possible to estimate both the level of pollutants entering the
+atmospheric air and their expected concentrations in the
+atmospheric air and deposition on the earth’s surface.
+Currently, about 70 year-round and seasonal Antarctic stations from
+29 countries operate in Antarctica, where about a thousand people
+live in winter and 5–5.5 thousand in summer. Human impact on the
+natural environment of Antarctica may seem insignificant in
+absolute terms compared to levels in other, more inhabited areas of
+the Earth; however, given the extreme sensitivity and vulnerability
+of Antarctic natural systems, its levels may exceed acceptable
+(critical) thresholds (Tin et al., 2009). Among the sources of impact
+in Antarctica, atmospheric emission has the greatest potential of the
+long-range migration.
+The Larsemann Hills is one of the most developed oases in the East
+Antarctica. Currently 3 year-round scientific stations and one
+seasonal base are operated here. The intense activity has been
+started in 1986 with the construction of the Australian Law Station
+in eastern Broknes, later transferred to Romania (Law-Racoviţă-
+Negoiţă). Progress (Russian Federation) and Zhongshan (China)
+stations were opened on the same peninsula in 1988–1989. The
+Bharati station (India) was founded in 2012. The importance of
+quantifying impacts for this area is reinforced by the presence here
+of an Antarctic Specially Protected Area No. 174.
+In the recently published paper (Kakareka and Salivonchyk, 2024)
+application of the previously proposed approaches of air impact
+assessment (Kakareka and Salivonchyk, 2022) are implemented for
+the Larsemann Hills.
+The performed studies made it possible for the first time to estimate
+the emissions of pollutants from the operation of diesel generator
+sets from all scientific stations, located in the Larsemann Hills
+starting from the construction of the first scientific station in 1986.
+Surface air pollution due to the operation of diesel generators has
+been assessed using AERMOD model. Modelling of pollutants
+dispersion allowed to get surface air hourly, daily and annual
+maximum concentrations of SO2, NO2, CO and PM10, as well as
+PM10 and BC dry deposition fluxes. BC deposition level calculations
+made possible to estimate its content in the snow and thus to
+estimate radiative forcing, which accelerates snow melting.
+Performed study may be considered as an assessment of cumulative
+air impacts of a whole set of stations, located in a certain Antarctic
+oasis, and may be useful in elaboration of methodologies of
+cumulative impacts assessment for fulfillment of Environmental
+Protocol obligations in relation to impact assessment of the planned
+and performed activities in Antarctica.
+References
+Tin T., Fleming Z. L., Hughes K. A., Ainley D. G., Convey P., Moreno
+C. A., Pfeiffer S., Scott J., Snape I., Impacts of local human activities
+on the Antarctic environment. 2009.  Antarctic Science, 21, p. 3-33
+doi: 10.1017/S0954102009001722.
+Kakareka S. and Salivonchyk S. 2024. Assessment of the human
+footprint in Antarctica: A case study Larsemann Hills. Polar Science.
+https://doi.org/10.1016/j.polar.2024.101048.
+Kakareka S. V. and Salivonchyk S.V. 2022. Retrospective modelling
+of air pollution due to operation of scientific stations in Antarctica:
+an experience of reanalysis. Antarctic Science, vol. 34 (1), p.45-57.
+Doi: 10.1017/S0954102021000547.

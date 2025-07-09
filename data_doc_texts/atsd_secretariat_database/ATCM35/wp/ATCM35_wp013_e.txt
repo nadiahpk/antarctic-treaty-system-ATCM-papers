@@ -1,0 +1,100 @@
+﻿
+
+
+
+
+
+Understanding Risk to National Antarctic Program Operations and Personnel in Coastal Antarctica from Tsunami Events
+
+
+
+
+
+
+
+
+
+Understanding Risk to National Antarctic Program Operations and Personnel in Coastal Antarctica from Tsunami Events
+
+Summary
+At ATCMXXXIV, Argentina introduced WP002 rev.1 which proposed, inter alia, that “COMNAP could be asked to provide an analysis of the risks to Antarctic bases and operations and to establish an early warning system for the arrival of tsunamis along the coasts of Antarctica”. COMNAP completed a preliminary analysis (see report at Attachment 1) which was presented at the COMNAP AGM (August 2011).  SCAR reviewed the preliminary report and provided feedback and additional information which form part of this joint Working Paper. 
+
+The preliminary analysis shows that risks of a moderate to concerning level to National Antarctic Program operations and personnel in coastal Antarctica from tsunami may arise on occasion. This risk was identified by running models from historic events and examining tide gauge records. 
+
+It is recommended that organisations with expertise in tsunami detection, modeling, research and warning system management should work together with COMNAP and SCAR on the next phase of this project, namely, to develop a simple, cost-effective, practical tsunami warning communications plan and tsunami awareness education materials.
+
+
+Introduction
+Tsunamis are marine waves caused by sudden displacement of the water column. The largest historic tsunamis have been caused by large “mega-thrust” fault ruptures on zones where ocean floor is being overridden by other parts of the Earth’s crust (subduction). Mega-thrust events produce tsunamis that devastate coastal communities (Japan 2011, Indian Ocean 2004) and travel right around the Earth. Tsunamis have been detected by tide gauges in Antarctica.
+
+The severity of a tsunami is estimated by modeling its amplitude (height above sea level) at a location and its run up (the height above sea level that the water reaches where it runs onshore). In the open ocean, tsunami amplitudes are relatively low (~1 m) because their energy is distributed through the entire water column. When they reach shallow water, their amplitude can increase dramatically and their run up can reach tens of meters above sea level. While the basic physics of tsunamis is fairly well known, uncertainties and lack of real world data mean models provide a guide to tsunami behaviour rather than exact prediction. Run up and amplitude can vary substantially, depending on the shape of the coastal sea floor and topography. Even if a tsunami does not produce severe coastal inundation, it can produce unusual and/or strong currents in coastal seaways, causing a hazard for ships, diving programmes and other Antarctic coastal operations. 
+
+
+Understanding the risks  
+For the preliminary project, ten models were run using information from historic earthquake events from subduction zones in the Pacific Ocean (Table 1). Due to time constraints, only two areas of Antarctica were considered for this preliminary analysis: Antarctic Peninsula and Ross Sea Region (models in Appendix 1 to Attachment 1).  The models calculated the wave amplitude at the continental shelf edge. From there, tsunamis may be amplified by local conditions. In all cases, the models showed that there would be some increase in maximum wave height, although in most cases that increase was small. Since stations and various facilities and infrastructure are not at the same altitude (above mean sea level), a qualitative classification approach was used.  
+
+
+
+Model 
+Ross Sea
+Antarctic Peninsula
+Kermadec_ABC
+Minimal
+Minimal
+Kermadec_A
+Slight
+Slight
+Kermadec_B
+Slight
+Slight
+Kermadec_C
+Slight
+Slight
+Tonga1865
+Minimal
+Minimal-Slight
+Puysegur
+Minimal
+None-Minimal 
+Aleutian1946
+Slight
+Concerning
+Chile2010
+Minimal
+Slight-Moderate
+Chile1960
+Moderate
+Concerning
+Peru1868
+Moderate-Concerning
+Concerning
+Table 1: Qualitative risk, based on the tsunami models run. Minimal=less than 0.1m; Slight=0.1m to 0.3m; Moderate=0.3m to 0.5m; Concerning=greater than 0.5m and can be greater than 1m. (Full discussion of results in Appendix 2 of Attachment 1).
+
+No new models were run for the Indian Ocean sector; however, the primary source for a mega-thrust-generated tsunami is the Java Trench, which produced a catastrophic tsunami in 2004. This tsunami was detected by East Antarctic tide gauges where rapid sea level rises and falls were detected and sea ice was pushed onshore. These observations suggest that hazards relating to unusual current activity are possible along this part of the margin even though no major coastal inundation was observed. 
+
+No new models were run for the South Sandwich Trench. However, we note models have been run by Australian researchers who concluded that it was a significant source of hazard for the Indian Ocean, suggesting that it is likely to be a threat to Antarctic coastal stations.
+
+Of the ten models run for this preliminary project, three historic events demonstrated there was moderate to concerning risk to coastal Antarctica, with the greatest concern from events originating from the Eastern Pacific Subduction Zones. Since the Chilean coast has produced many large tsunami events historically and it is, relatively speaking, close to the Antarctic Peninsula it may present the greatest threat examined in this preliminary report. However, the models are based on very specific past events and any real, future conditions might not be included in the range of scenarios considered.
+
+The preliminary project recognized that there are other tsunami sources that require further investigation, but factors such as time and cost mean that these additional sources should be the subject of further research.
+
+Vulnerability
+National Antarctic Programs should consider both the threat of inundation and the threat to field operations posed by tsunami. The most vulnerable coastal Antarctic research stations are those that are located at or below 10m above sea level. The Ross Sea Region’s lowest research stations are at approximately 10m. Thus, they are more protected from impact from tsunami than those in the Peninsula Region. However, large tsunami events could potentially affect the Ross Sea Region stations.  Shelf and coastal bathymetry and coastal geometry can act to greatly increase amplitude and run up of a tsunami. History shows that tsunami that may only have amplitudes of 20-50cm at the shelf edge can still reach amplitudes of 1-2m and run up to 12m above sea level depending on the local situation. To understand potential effects using modeling approaches is possible, but requires a level of detail in bathymetry and topography rarely available for Antarctica. 
+
+An alternative approach would be to examine tide gauge records from Antarctic stations to see if known events were amplified at the station(s). We are aware that such an exercise was carried out for Mawson, and Casey stations in relation to the 2004 Indian Ocean tsunami. 
+
+Field operations can be affected by tsunami even if the amount of coastal inundation is insignificant. The extra, unusual movement of water in and out of coastal environments caused by tsunami can generate strong, unexpected currents. These could push vessels off course, break moorings and fuel lines and potentially carry divers away. How any part of the coast will respond depends on the local bathymetry and the direction from which the tsunami comes. The observations of anomalous changes in sea level of at least 0.6m on tide gauges at Mawson and Casey and the observation of sea ice being pushed meters up the Casey boat ramp caused by the 2004 Indian Ocean tsunami indicates that such effects do occur in Antarctica. 
+Conclusions
+The key conclusion from the preliminary report is that some events may lead to tsunami with moderate to concerning risk to National Antarctic Programs operations and personnel in coastal Antarctica. Although agreement on this point is high, the evidence is limited. Other important considerations include:
+    1) There is an immediate need to establish lines of communication for tsunami warnings.
+    2) There is a need to prepare simple education materials regarding tsunami awareness and risks to National Antarctic Programs. Existing general tsunami awareness tools could be used as models for development of such mechanisms. 
+    3) Understanding the hazards of tsunami requires modeling which requires good bathymetric data.  
+    4) Roughness coefficients around coastal Antarctic infrastructure are needed to run inundation models. Also, the coefficients themselves may need to be re-evaluated as no information was found on a value of propagation over (or under) an ice shelf.
+    5) In the absence of adequate data coverage for detailed modeling, a review of tide gauge records for known tsunami events might be warranted.  This may be limited, however, by the short record for most of Antarctica and by slow sampling rates of some tide gauges (gauges that record every 10 minutes will detect tsunamis; gauges that sample every 30 minutes may not).
+    6) Few monitoring instruments for tsunami early warning have been deployed in the area south of 60oS. However, any new investment in such equipment should take into careful consideration placement options in consultation with existing programs coordinated by the Intergovernmental Oceanographic Commission Tsunami Program to achieve maximum effectiveness. 
+
+
+Recommendation
+Organisations with expertise in tsunami detection, modeling, research and warning system management should work together with COMNAP and SCAR on the next phase of this project, namely, to develop a simple, cost-effective, practical tsunami warning communications plan and tsunami awareness education materials. 
+
+

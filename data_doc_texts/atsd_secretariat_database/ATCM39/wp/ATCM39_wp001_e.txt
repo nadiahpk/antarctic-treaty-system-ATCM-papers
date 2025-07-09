@@ -1,0 +1,34 @@
+﻿
+
+
+
+
+
+UAV and wildlife minimum distances
+
+
+
+
+
+
+
+
+UAV and wildlife minimum distances 
+Submitted by Germany
+
+Summary
+Following the recommendation of CEP XVIII on Unmanned Aerial Vehicles (UAVs), Germany presents some scientific results about the interference of UAVs against wildlife concentrations (c.f. Final Report ATCM XXXVIII, WP027 ATCM XXXVIII and WP 022 ATCM XXXVIII). These findings are originated from a recently published peer-reviewed scientific study (Rümmler et al. 2015) on the use of a micro-UAV in a small Adélie penguin colony on Ardley Island (South Shetland Islands, Antarctic). The study addresses the potential environmental impact of a micro-UAV, and provides proposals for possible minimum distances for UAV use in Antarctica based on concrete disturbance experiments.
+Germany suggests that the CEP consider the outlined results and the stated recommendations within the future discussion about guidelines for the use of UAVs near wildlife concentrations. 
+Background
+Since 2014 there is an ongoing discussion at CEP and ATCM about the use of UAV/UAS (cf. Final Report ATCM XXXVII and Final Report ATCM XXXVIII). Many useful conference papers about UAVs have been submitted so far. Several Treaty Parties expressed the need (for the development) of guidelines for the use of UAVs. Additionally, the relevance of applying the Guidelines for the Operation of Aircraft near Concentrations of Birds in Antarctica (Resolution 2 (2004)) was also stated (cf. Final Report ATCM XXXVIII). 
+The CEP had recognised the benefits of developing guidance on the environmental aspects of UAV use in Antarctica, and had agreed that it would consider at CEP XIX initiating work to develop such guidance. Treaty Parties are encouraged to give further consideration to that issue and to bring forward papers for consideration (cf. Final Report ATCM XXXVIII). 
+Outcomes and discussion
+UAVs have become a more and more popular and useful tool in polar research. While their performance is already proven, little is known about their impact on wildlife. Therefore, German scientists recently studied the potential interference of a micro-UAV (electric powered octocopter) on breeding Adélie penguins (Pygoscelis adeliae) (Rümmler et al. 2015). To assess the disturbance caused by a micro-UAV on these penguins, flights with a micro-UAV were conducted over a small Adélie penguin breeding colony on Ardley Island (South Shetland Islands, Antarctic). Vertical and horizontal flights were performed between 10 and 50 m in altitude above ground. 
+Penguins’ reactions were video-recorded, and the visible behavioural response was used to indicate the level of disturbance. During any flight mode, disturbance increased immediately after take-off and remained elevated at all altitudes between 20 and 50 m (66/164 ft). When the UAV descended below 20 m, the disturbance increased further with almost all individuals being vigilant. At these low altitudes, vertical flights caused an even higher level of disturbance than horizontal ones. Repetitions of horizontal overflights showed no short-term habituation occurring. 
+As the highest flight altitudes of only 50 m already caused detectable behavioural responses, it is recommended to use adequate spatial buffer zones to avoid any visible disturbances of Adélie penguins. In line with the precautionary approach recommended by CEP when operating near wildlife (c.f. Final Report CEP XVIII) and the recommendation “consider avoiding vertical approaches to wildlife with UAVs” by SCAR in WP027 ATCM XXXVIII, it is suggested considering a horizontal and vertical minimum distance for micro-UAVs to Adélie penguin colonies of 100 m (328 ft) and a take-off distance of more than 50 m. Since the results by Rümmler et al. (2015) are only valid for the specific micro-UAV model used, further research using a more extensive approach with different UAV specifications, noise levels and higher altitudes as well as higher take-off distances is recommended. Further results of these disturbance experiments, particularly the response of gentoo penguins (Pygoscelis papua) to the UAV flights will be published soon. 
+Recommendation
+Germany suggests that the CEP consider the outlined results and recommendations during the discussion about guidelines for the use of UAVs near wildlife concentrations. 
+References
+Rümmler, M.-C., Mustafa, O., Maercker, J., Peter H.-U., Esefeld J. 2015. Measuring the influence of unmanned aerial vehicles on Adelie penguins. Polar Biology, dio: 10.1007/s00300-015-1838-1. Accessible at  http://link.springer.com/article/10.1007%2Fs00300-015-1838-1 
+
+

@@ -1,0 +1,1495 @@
+﻿
+
+
+
+
+
+Manual de Primeros Auxilios para Zonas Polares
+
+
+
+
+
+
+                                                          
+
+
+
+
+
+
+
+
+Manual de Primeros Auxilios 
+para Zonas Polares
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MANUAL DE PRIMEROS AUXILIOS 
+PARA ZONAS POLARES
+
+
+
+
+
+
+
+
+
+
+
+
+Preparado por: 
+Dr. David GALARZA Bernita.
+Médico del Instituto Antártico Ecuatoriano. 
+Av.9 de Octubre 416 y Chile, 
+Ed. Citibank, 4º piso. Ofic. 402 
+inae@gye.satnet.net .  www.inae.gov.ec
+
+
+
+
+
+Septiembre, 2007
+
+
+
+
+
+
+
+PRESENTACION 
+
+Es grato para el Instituto Antártico Ecuatoriano (INAE) presentar el Manual de Primeros Auxilios para Zonas Polares (en español), para ser puesto en práctica por quienes realizan actividades de investigación científica y/o logística en dichas zonas de clima extremo y en especial en la Antártida. 
+
+El manual contiene temas como las normas de prevención de riesgos en áreas polares, las maniobras básicas de reanimación cardiopulmonar, el manejo de traumatismos, el tratamiento de las sintomatologías más comunes que podrían presentarse en estas zonas, entre otros de interés para el expedicionario. Se incluye además, una corta bibliografía para el lector que desee conocer la evolución de este tipo de manual.
+
+Este documento es una importante contribución del Ecuador en el ámbito del Consejo de Administradores de Programas Antárticos Nacionales (COMNAP, por sus siglas en inglés) y en particular en el grupo de trabajo MEDINET en relación con el TOR1: Intercambio de información y experiencia sobre apoyo médico en los programas nacionales antárticos.
+
+Así mismo, este Manual atiende al intercambio de información en el contexto de la Reunión de Administradores Antárticos Latinoamericanos (RAPAL), para su empleo en la Comisión de Asuntos Logísticos y en los Programas Nacionales Antárticos Latinoamericanos.
+
+Finalmente, es también, una contribución del Ecuador al Año Polar Internacional 2007-2008.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AGRADECIMIENTOS
+
+El Autor expresa su especial agradecimiento al Máster Hernán Moreano Andrade, Director Ejecutivo del INAE por motivar y facilitar la realización de este manual, cuyo  único fin es de preservar el bien más preciado: LA SALUD DE LAS PERSONAS que realizan actividades en las zonas polares. 
+
+De igual manera reconoce y agradece el trabajo de revisión  hecho por la Ocean. Mónica Riofrío  Briceño, Asistente Científico del  INAE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABREVIATURAS
+
+amp.  =  ampolla					
+cap.   =  cápsula			
+cc.     =  centímetro cúbico		
+comp.=  comprimido		 
+IM     =  intramuscular                   
+IV      =  intravenoso
+mEq   =  miliequivalente
+mg.    =   miligramo
+Sol.    =  solución
+Susp. =   suspensión
+Tab.  =   tableta.
+
+
+
+
+INDICE GENERAL
+	           									                Pág.                                             
+Presentación.
+ii
+Agradecimientos.
+iii
+Abreviaturas
+iv
+Índice
+v-vi
+
+1.
+Introducción
+7
+2.
+Normas de prevención de riesgos: Antes de salir de la Estación; Antes de salir a navegar; Supervivencia en aguas frías.
+
+8-9
+3.
+Primeros auxilios: Concepto; Objetivos; Primeras recomendaciones en caso de accidentes; Prioridades para valorar al paciente
+9-10
+4.
+Asistencia al paciente:
+10
+4.1.
+Estado de conciencia: ¿Cómo valorarlo?
+10-11
+4.2.
+Vía aérea: En caso de obstrucción 
+11-12
+4.3
+Respiración: ¿Si no respira?
+13-14
+4.4
+Actividad cardiaca.
+14-16
+4.5
+Shock: Causas; Síntomas; Tratamiento.
+16-17
+4.6
+Hemorragias: Control de hemorragias externas; Control de hemorragia interna; Recomendaciones.
+17-19
+4.7
+Fracturas: Concepto; En cabeza; En cuello y columna vertebral; En extremidades. 
+Fracturas diversas en: Cara; Nariz; Clavícula; Tórax; Pelvis. Fracturas expuestas o abiertas. 
+
+
+19-28
+5.
+Luxaciones o dislocaciones: Luxaciones mas comunes y su manejo.- Mandíbula; Hombro; Codo; Dedos; Rodilla.
+28-29
+6.
+Esguinces o torceduras.
+29-30
+7
+Traslado de un accidentado.
+30-31
+8
+Manejo de heridas: Recomendaciones.
+31-32
+8.1
+Suturas.- Equipo; Técnica.
+32
+8.2
+Heridas penetrantes en tórax.
+33
+8.3
+Heridas penetrantes en abdomen.
+33
+8.4
+Quemaduras; Electrocución y quemaduras eléctricas.
+34-35
+9
+Hipotermia: Concepto; Situaciones que favorecen la hipotermia; Medidas preventivas.
+36-37
+9.1
+Lesiones por frió: Signos y síntomas; Recomendaciones.
+37-38
+10
+Semiahogado.
+38-39
+11.
+Lesiones en piel y mucosas: Ampollas y excoriaciones; Astillas; Forúnculos y nacidos. Irritación solar; Ceguera por nieve: Signos y síntomas; Lesiones oculares: Cuerpo extraño en el párpado; Cuerpo extraño en la cornea; Heridas oculares penetrantes. Cuerpo extraño en oído: Recomendaciones. Cuerpo extraño en las vías respiratorias: Recomendaciones.
+40-44
+12.
+Tratamiento de síntomas y afecciones varias: Dolor de cabeza; Dolor de garganta; Dolor de muelas; Dolor de estómago; Dolor de espaldas y lumbar. Tos; catarro y bronquitis: Tratamiento. Constipación / Estreñimiento; Hemorroides; Erupciones en la piel. Deshidratación; Crisis convulsivas.
+44-47
+13.
+Dolor Abdominal: Apendicitis; Cólico renal; Pancreatitis.
+47-49
+14.
+Intoxicación por monóxido de carbono: Signos y síntomas; Recomendaciones.
+49
+15.
+Equipo de campo básico de primeros auxilios.
+49-50
+16.
+Aplicación de Inyecciones: Intramuscular; Intravenosa.
+50-52
+17.
+Reacción alérgica: Signos y síntomas; Tratamiento.
+53
+18.
+Bibliografía.
+53
+Anexo1
+Tabla II.- Características de la gravedad de la quemadura en la piel según su  profundidad.
+
+Tabla III.- Cálculo de superficie corporal quemada.
+54
+
+
+
+
+
+
+1.	INTRODUCCION
+
+Ante la conveniencia de condensar en un manual de bolsillo, los conocimientos básicos que deben ser impartidos a todo el personal que participe en expediciones antárticas, el Instituto Antártico Ecuatoriano (INAE) decidió preparar el Manual de Primeros Auxilios  para Zonas Polares, para ser difundido especialmente a la comunidad Antártica.
+
+En este compendio se abordan, de forma sencilla, los aspectos más frecuentes que un expedicionario deberá afrontar, aún sin conocimiento médico. De tal modo que pueda diferenciar entre un paciente con daños leves y otro con daños graves. En el primer caso para darle solución y en el segundo para tomar la decisión de evacuarlo a la brevedad posible a un centro con mayor capacidad de auxilio.
+
+Para el mejor uso de éste manual y dada la complejidad de los temas abordados, esta guía debe estar complementada con charlas y prácticas en técnicas de reanimación y rescate, impartidas por personal médico o paramédico especialmente entrenado para ello.
+
+Recordemos que al prestar primeros auxilios a una persona, es posible encontrarnos con problemas aún difíciles de resolver por médicos expertos. Por lo tanto, uno de los tópicos más importantes en este documento es saber lo que  NO hay que hacer con el fin de no agravar más el estado del paciente.
+
+La gran utilidad de conocer in situ aquellas personas y lugares que pueden prestar atención médica más la disponibilidad de los medios modernos de comunicación como la telemedicina, puede ser la diferencia entre la vida y la muerte.
+
+Este manual deberá ser actualizado periódicamente para integrar métodos y conceptos que se encuentran en permanente renovación.
+
+Se debe recordar que no siempre será fácil aplicar una técnica de primeros auxilios, sin embargo el éxito estará en tratar de hacerlo lo mejor posible. 
+
+
+2.	NORMAS DE PREVENCION DE RIESGOS
+
+Antes de salir de la Estación en una misión usted deberá: 
+    • Planificar y calcular el tiempo que permanecerá fuera de la misma.
+    • Consultar su manual de campo para llevar la ropa adecuada y el equipo completo.
+    • Informarse sobre condiciones meteorológicas en las horas siguientes.
+    • Dejar en la base el planeamiento de la misión con la fecha, hora de regreso y comunicar al Jefe de la expedición, para que esté pendiente de Usted.
+    • Acompañarse con alguna persona que tenga la experiencia de conocer el lugar. Esto resultará fundamental.
+
+Antes de salir a navegar y durante la navegación usted deberá:
+
+    • Realizar prácticas de colocación y uso correcto del chaleco salvavidas con su instructor.
+    • Programar su salida al mar según las condiciones meteorológicas en las próximas horas.
+    • Usar la ropa adecuada de manera permanente.
+    • Antes de subirse al bote o alguna otra embarcación naval o aérea nunca olvidar colocarse el chaleco salvavidas.
+    • En lo posible no realizar maniobras de pie en el bote.
+    • Si se cae un objeto al mar no tratar de rescatarlo. 
+    • Evitar acercarse a los cetáceos
+    • Mantenerse a una distancia prudencial a los icebergs, estos pueden desequilibrarse y  desprender  grandes fragmentos.
+    • Si se encuentra en un barco, salir acompañado, comunicar su salida, y no andar por lugares no permitidos.
+    • No apresurarse en salir a maniobras de rescate si es que hay mal tiempo.
+
+
+Supervivencia al caer con salvavidas en aguas frías: 
+
+    • Si al caerse al agua, usted se encuentra cerca del bote, de restos del naufragio o de algún otro objeto flotante, trate de hacer uso de ellos para salir del agua de inmediato. 
+    • Si está lejos de alguno de estos objetos,  no nade ni patalee, esto aumenta la perdida de calor. Mantenga la cabeza fuera del agua para no perder más calor.
+    • Adopte la posición fetal. Brazos apegados al tórax, piernas dobladas y juntas para proteger la ingle (Fig. 1)
+
+
+Fig. 1
+
+    • Si son dos o más náufragos, tienen que mantenerse abrazados lo más cerca posible (Fig. 2)
+
+Fig. 2
+
+    3. PRIMEROS AUXILIOS
+
+Concepto.- Es proporcionar los cuidados y la ayuda inicial necesaria a una o varias personas enfermas o accidentadas hasta la llegada del médico.
+
+Objetivos.- 
+    • 	Conservar la vida.
+    • Reducir el efecto de las lesiones y evitar complicaciones. 
+    • Estabilizar al paciente y ayudar a su recuperación.
+    • Asegurar el traslado adecuado y oportuno a un centro asistencial.
+
+Primeras recomendaciones en caso de accidentes:
+    • Cuando se acerque al accidentado, procure Usted no colocarse en ninguna situación de peligro.
+    • Mantenga la calma. No se asuste. No exagere sus temores. Dé confianza al accidentado. 
+    • Nunca diga “esta muerto”, persevere en su actuación.
+    • Actué con serenidad y rapidez, de esto depende la recuperación del paciente.
+    • Pida ayuda y póngase en comunicación con el médico de la Estación y mientras él llegue, trate de resolver la situación con la ayuda de su manual de primeros auxilios
+    • Trabaje paso a paso según instrucciones recibidas.
+    • Manténgase usted y la víctima a salvo, esté alerta y evite un nuevo accidente.
+    •  No deje sola a la víctima mientras ésta no esté consciente, abrigada y protegida del viento.
+    • Considere una posible evacuación del paciente si lo amerita.
+
+
+Prioridades para valorar al paciente:
+En toda circunstancia se verificará los siguientes aspectos en orden de prioridad (Tabla- I):
+
+TABLA – I
+ORDEN DE PRIORIDAD PARA VALORAR PACIENTE TRAUMATIZADO.
+
+  ESTADO DE CONCIENCIA
+
+¿Responde o no a órdenes o estímulos?
+       
+VIA AÉREA*
+
+¿Están obstruidas las vías respiratorias?
+
+RESPIRACION
+¿Los movimientos respiratorios de inspiración y expiración, están normales?
+
+ACTIVIDAD CARDIACA
+¿Está presente el pulso en la arteria carótida?
+¿Está presente el latido cardiaco?
+
+SHOCK
+¿Tiene síntomas de Shock (ver pág.16)?
+¿Está el paciente sangrando?
+
+FRACTURAS**
+
+Presenta el paciente dolor en el cuello o columna? 
+¿Puede mover sus extremidades sin dificultad?
+
+HIPOTERMIA
+¿Estuvo expuesto el paciente a bajas temperaturas por tiempo prolongado?
+*Vía aérea: Nariz, boca, faringe, traquea, pulmones.
+**Si el paciente está inconsciente asuma que presenta lesión en columna.
+
+
+4.	ASISTENCIA AL PACIENTE
+
+4.1	ESTADO DE CONCIENCIA
+ 
+Persona conciente.- 
+Es la que se encuentra despierta y responde correctamente a  órdenes verbales. Es de primera importancia saber si la victima se encuentra conciente y recordar que después de un accidente, en cualquier momento puede entrar en estado de inconsciencia.
+
+¿Cómo valorarlo?
+    • Sacuda suavemente a la víctima por el hombro, si está conciente pregúntele como se encuentra, donde le duele y examine esos lugares.
+Si la víctima está inconsciente siga los siguientes pasos:
+
+
+
+4.2	VIA AEREA
+
+La vía aérea superior nariz, boca, faringe y traquea podrían estar obstruidas por sangre, vómito, agua, tierra, carne, dentadura postiza, lengua, etc. 
+
+
+En caso de obstrucción de la vía aérea:
+
+    • Retire materiales extraños de la boca. (Fig. 3)
+
+
+Fig. 3
+    • Si el pecho no se levanta al hacer 1 a 5 respiraciones boca a boca, póngalo en posición de lado. (Fig. 4)
+
+
+Fig. 4
+    • Dar 2 a 4 golpes firmes en la espalda, entre los omóplatos. (Fig. 5)
+
+
+Fig. 5
+    • Sin no resulta la maniobra anterior, comprímale fuertemente el tórax (Fig. 6)
+
+
+Fig. 6
+
+
+4.3	RESPIRACION
+	
+Si no respira:
+    • Colóquelo de espaldas en posición recta con el cuello extendido, la cabeza hacia atrás y empuñe la quijada inferior elevándola hacia arriba. (Fig. 7)
+
+
+Fig. 7
+    • Tápele la nariz con sus dedos índice y pulgar e inicie de inmediato respiración artificial boca a boca (14 respiraciones por minuto), controle tocando con la mano o viendo el pecho de la victima para ver si hay movimiento. (Fig. 8)
+
+
+Fig. 8
+    • Después de cada 5 respiraciones, palpe el pulso carotideo a un lado del cuello (Fig. 9)
+
+
+Fig. 9
+    • Si por cualquier circunstancia no puede utilizar el método boca a boca, realice el método Boca – Nariz, cerrando la boca con el pulgar e insufle (sople) el aire por la nariz. (Fig. 10)
+
+
+Fig. 10
+    • No suspenda la reanimación artificial a la víctima hasta que ésta logre respirar espontáneamente o sea entregada al personal entrenado.
+    • Si respira, deje al paciente de lado, posición de seguridad (Fig. 11).
+ 
+
+Fig. 11
+    • Luego coloque la cabeza de la víctima en posición hacia atrás y con su mano fije la mandíbula hacia delante.
+    • Mientras respire, mantenga la víctima en reposo y abríguelo.
+
+
+4.4	ACTIVIDAD CARDIACA.
+
+El corazón bombea sangre oxigenada  desde el ventrículo izquierdo a través de la arteria aorta hacia todo el organismo, el ventrículo se contrae en situaciones normales a una frecuencia de 80 latidos por minuto, de no haber actividad cardiaca no habrá pulso,  quedando los órganos vitales como el cerebro y los riñones  sin el oxigeno vital para sus funciones. 
+El tejido cerebral puede resistir hasta 4 minutos sin flujo sanguíneo, pero a bajas temperaturas este tiempo se puede prolongar por la disminución del metabolismo.
+La mejor forma de saber rápidamente si existe actividad cardiaca es palpando el latido de una de las arterias carótida a nivel lateral del cuello como podemos ver en la Fig. 9
+Si no hay actividad cardiaca (paro cardiaco) el reanimador tendrá que proporcionar el flujo sanguíneo a los tejidos mediante el masaje cardiaco externo (Fig. 12):
+
+    • 	Ponga al accidentado boca arriba sobre una superficie dura, colóquese a su lado izquierdo como muestra la figura D.
+    • 	Escoja el lugar del masaje: Este se encontrará en el tercio inferior del esternón (A), a dos dedos por arriba del extremo inferior del mismo (B) “zona en amarillo”.
+    • Colocando sus manos una sobre la otra (C), aplique el talón de su mano inferior en la zona antes señalada.
+    • Sin doblar los codos y con los brazos rectos, inclínese hacia delante para transmitir una parte controlada del peso de su cuerpo, hundiendo el tórax entre 3 a 5 cms cada vez (D).
+
+
+Fig. 12
+    • Repita el masaje de 60 a 80 veces por minuto.
+    • Si Usted está solo, interrumpa el masaje cardíaco cada 15 veces para efectuar 2 respiraciones con la técnica boca a boca. (relación 15:2 -Fig. 13).
+
+
+Fig. 13
+    • Si otra persona puede ayudarlo, alterne 5 masajes cardíacos con una respiración boca a boca (relación 5:1-Fig. 14).
+    • En el momento de la insuflación detenga el masaje, para evitar lesión pulmonar de la víctima.
+
+
+Fig. 14
+    • Compruebe cada 2 minutos si han retornado los latidos del corazón.
+    • Recuerde, si hay la necesitad de trasladar al paciente, no suspenda la reanimación, la vida media de la célula nerviosa sin oxígeno es de 4 a 10 minutos.
+    • No hay límite establecido en cuanto al tiempo de duración de la reanimación, se lo puede tener al paciente varias horas con vida mediante una correcta reanimación, por lo tanto ésta deberá continuar hasta que el paciente sea entregado a un personal médico o paramédico experto. 
+
+
+4.5	SHOCK
+
+Concepto: Es el estado en que se encuentra el organismo por falla circulatoria en respuesta a una injuria o estrés, originándose una disminución en la presión  arterial y del flujo de oxígeno a los órganos vitales como el cerebro, hígado y riñones.
+
+Causas:
+Dolor intenso, fracturas, quemadura, hemorragias, traumatismos, infecciones agudas, choque eléctrico, desnutrición, deshidratación, reacción alérgica, inestabilidad del sistema nervioso por temor o miedo, etc.
+
+Síntomas:
+Palidez de piel y mucosas (labios y orejas moradas)
+Frialdad.
+Sudoración fría.
+Sensación de desvanecimiento (debilidad)
+Respiración superficial
+Pulso rápido.
+Pérdida del conocimiento.
+
+Tratamiento del Shock:
+
+    • Coloque a la víctima acostándola en posición oblicua entre 30 a 40 grados con las piernas en alto. Si hay dificultad respiratoria levante el tórax. (Fig. 15)
+
+
+Fig. 15
+    • Si esta inconsciente, colóquelo en posición de lado y verifique la vía 		aérea, respiración y pulso.
+    • Protéjalo de las bajas temperaturas, abríguelo. (Fig. 16)
+
+
+Fig. 16
+    • No le dé a tomar nada.
+    • Controle hemorragias e inmovilice fracturas como se indica en el siguiente capítulo.
+    • Suministre oxígeno de 3 a 4 litros por minuto.
+    • Si el paciente no mejora coloque vía periférica con Cathlon para administrar soluciones endovenosas (Lactato de Ringer, Sol. Salina al 0.9%, Haemaccel, etc.) a una velocidad sobre las 100 gotas por minuto (a chorro).
+    • Fije bien el Cathlon con esparadrapo e Inmovilice el codo o muñeca donde está colocado. 
+    • En caso de dolor intenso puede  administrar una ampolla IM de los siguientes  analgésicos: Ketorolaco, Dipirona, Klosidol, Tramal, Acrogésico, etc, excepto en el caso de trauma grave de cráneo, hemorragia no controlada, frecuencia respiratoria menor a 10 respiraciones por minuto o antecedente alérgico conocido de alguno de estos fármacos. 
+    • No cambie de lugar al herido sin haber valorado antes su estado general.
+    • Si la víctima se encuentra estable, trasládelo suavemente, evite movimientos innecesarios.
+
+
+4.6	HEMORRAGIAS
+
+Concepto.- Una hemorragia es la salida de sangre a través de una lesión o herida que puede ser interna o externa y comprometer órganos internos y vasos sanguíneos como venas y arterias, la gravedad dependerá de la velocidad y el volumen de sangre que se pierda a través de ella.
+
+Control de hemorragias externas:
+
+    • Para controlar una hemorragia externa podría bastar solo con hacer presión con 	la palma de la mano, los dedos o con un apósito y vendaje sobre la herida. (Fig. 	17)
+
+
+Fig. 17
+    • Manténgale elevada la extremidad para disminuir la presión del flujo 	sanguíneo.
+    • Si no se detiene la hemorragia, use los puntos de compresión digital por donde pasan las arterias de grueso calibre. (Fig. 18). 
+
+
+Fig. 18
+
+    • En caso de hemorragias por heridas en las extremidades que no se logren 	controlar con las maniobras anteriores, coloque un torniquete 15 cm. por 	debajo 	de la axila o ingle, aflojarlo cada 15 minutos haciendo presión sobre la herida 	con un material limpio o estéril durante ese tiempo para no lesionar 	nervios, vasos sanguíneos o piel (Fig. 19)
+
+
+Fig. 19
+    • Si necesita examinar la región lesionada, corte la ropa.
+    • No trate de detener la hemorragia con pinzas, puede lesionar arterias y 	nervios.
+
+Control de hemorragia interna:
+Los traumatismos cerrados en cráneo, tórax y abdomen, así como impactos con desaceleración pueden lesionar órganos vitales produciéndose graves hemorragias internas. En este caso la victima tendrá alguno de estos signos:
+
+    • Shock.
+    • Dificultad respiratoria con sangre roja espumosa que sale por la boca acompañada de tos, nos indica hemorragia por lesión pulmonar.
+    • Vomito con sangre roja o negrusca puede ser proveniente de lesiones de esófago o estomago.
+    • La presencia de distensión abdominal y Shock, hará suponer que se trata de una lesión de víscera interna como el hígado, bazo, intestino, páncreas, etc.
+    • En traumatismo de cadera con dolor pélvico acompañado de distensión en el bajo vientre y orina sanguinolenta, sugiere lesión en vías urinarias.
+    • Deformación del muslo. La fractura de fémur puede lesionar la arteria femoral, acumulándose un gran volumen de sangre dentro del muslo.
+
+Recomendaciones:
+    • Controle el Shock (ver capitulo anterior).
+    • Mantenga al paciente en reposo absoluto.
+    • En caso de hemorragias pulmonar o de estómago, colóquelo en posición semisentado.
+	
+4.7	FRACTURAS
+
+Concepto.- Una fractura es la ruptura del tejido óseo originado por un trauma (A) o herida penetrante (B). Las fracturas pueden ser cerradas y expuestas, estas últimas cuando parte del hueso se encuentra en el exterior (C), ver Fig. 20.
+
+
+Fig. 20
+En Cabeza: Las fracturas en cráneo suelen ser graves y pueden comprometer la masa encefálica y los vasos sanguíneos intracraneales produciendo hemorragias internas que ejercen presión sobre el cerebro, alterando el estado de conciencia del paciente. Si el golpe en la cabeza produjo inconciencia, aunque sea momentánea, debe sospecharse complicaciones internas. 
+
+Ante la sospecha de fractura de cráneo siga los siguientes pasos:
+    • Compruebe el nivel de conciencia,  si está orientado en tiempo y espacio responderá a preguntas sencillas. 
+    • Inmovilice la columna cervical como se describe en el capítulo siguiente.
+    • Verifique el tamaño de las pupilas, pueden estar dilatadas en forma desigual.
+    • Ordene que mueva las extremidades para descartar parálisis por lesión neurológica.
+    • Busque signos de fractura de la base del cráneo como: 
+a)	Salida de líquido claro o sangre por la nariz u oídos.
+    b) La presencia más tarde de ojos amoratados “signo de mapache”.
+
+Recomendaciones:
+        ◦ Coloque al paciente en reposo con la cabecera elevada, esto disminuirá la presión intracraneal. 
+        ◦ En caso de haber sangrado o tener heridas en cuero cabelludo, realice una limpieza adecuada, suture, cúbrala con gasas y vendaje firme (Fig. 21).
+
+Fig. 21
+    • No administre analgésicos narcóticos en personas inconscientes con lesiones en la cabeza, estos pueden causar depresión respiratoria y vómito.
+    •    Administre antibióticos y analgésicos no narcóticos (no producen sueño ni    depresión respiratoria) por vía parenteral*
+    •    No le dé nada por vía oral en las primeras horas de observación.
+    •    Si el paciente presenta vómito, cambio de conducta somnolencia o responde las preguntas sencillas de una manera incompleta o inadecuada, prepare su evacuación inmediata para completar estudios tomográgico y tratamiento de especialidad.
+
+*  Intravenosa o intramuscular
+
+En Cuello y columna vertebral: En todo politraumatizado se deberá sospechar posibles lesiones en columna como fracturas o luxaciones, por lo tanto se realizará una correcta inmovilización como se describe a continuación:
+
+    • Si el paciente esta consciente, pregúntele si le duele al mover suavemente su cuello y columna.
+    • Verifique si hay parálisis (sin movimiento) y adormecimiento en brazos o piernas. En lesiones cervicales mas graves puede haber además dificultad respiratoria.
+    • En sospecha de lesión en columna, coloque una pequeña almohadilla debajo del cuello y columna lumbar (Fig. 22-A) y traslade al paciente en una superficie dura o camilla rígida, la cabeza y los hombros deben mantenerse paralelos y perpendiculares a la columna vertebral con la cabeza firme (Fig. 22-B).
+
+
+Fig. 22
+    • Varias personas deben ayudar a fijar e inmovilizar al paciente.
+    • Para la fijación de la cabeza se coloca un collar cervical, si no lo tiene puede utilizar una toalla, ropa, cartones o cualquier otro objeto que este  a la mano, colóquelos alrededor del cuello (Fig. 23).
+
+
+
+Fig. 23
+Recuerde: No traslade al paciente en forma apresurada, sin el debido examen e inmovilización adecuada por que puede provocarle lesiones graves en la médula espinal.
+
+En extremidades: Las fracturas en extremidades producen dolor, deformidad, hinchazón e impotencia funcional del miembro traumatizado.
+
+Para la inmovilización* se puede utilizar cualquier tipo de material como tablillas, cartones, pañuelos, toallas, telas, vendas, etc. Siempre debe abarcar los dos extremos de la parte afectada, colocándola en la posición más cómoda o cercana a lo normal. Recuerde que la inmovilización debe permanecer de manera firme sin producir mayor dolor ni bloqueo de la circulación. Para inmovilizar una fractura se pueden emplear los siguientes procedimientos:
+
+    • Traccione despacio y con cuidado la extremidad fracturada y colóquela lo mas recta posible, para no dañar arterias, venas, nervios o piel.
+    • Verifique el pulso, color, temperatura y movimientos de los dedos del miembro afectado e inmovilice la región.
+    • Si la circulación se pierde después del procedimiento anterior, retire nuevamente todos los vendajes e inmovilizaciones hasta que la circulación se restablezca y luego inmovilice nuevamente.
+
+*Es la mantención provisoria en posición de reposo de una zona traumatizada hasta que  el   accidentado pueda ser trasladado donde el médico.
+
+En brazo.- Este tipo de fracturas puede provocar extensos daños en los vasos sanguíneos y los nervios circundantes, trate de colocar el brazo en la posición correcta lo mas rápido posible.
+
+    • En fracturas de húmero (Fig. 24), este debe quedar colgado y derecho hacia abajo (A) con el brazo apegado al tórax, quedando el codo en ángulo recto (B), luego inmovilice utilizando un cabestrillo a partir de una venda triangular desde el codo a la muñeca anudándolo al cuello (C y D).
+
+
+Fig. 24
+        ◦ Para fijar mejor la región fracturada se puede utilizar un madero o cualquier otro material rígido atándolo al brazo como se observa en la Fig.25.
+
+
+Fig. 25
+    • Luego de la inmovilización, verifique la circulación: Pulso en la muñeca, coloración y movimientos de los dedos.
+
+En antebrazo y muñeca.-  
+    • Inmovilice con tablillas o cartón grueso la cara palmar del antebrazo desde las primeras articulaciones de los dedos hasta el 1/3 inferior del brazo, manteniendo el codo en ángulo recto. 
+    • La punta de los dedos quedaran fuera y semiflexionados para poder controlar el movimiento y circulación. Luego vende la extremidad sobre la tablilla y sosténgala con una venda al cuello (Fig. 26).
+
+
+Fig. 26
+
+En manos y dedos.- Los dedos fracturados generalmente están hinchados y de un color morado por hematoma local.
+
+    • Inmovilice el dedo con una tira adhesiva o esparadrapo fijando el dedo lesionado al próximo que servirá como inmovilizador.
+    • En lesiones de la mano, use abundantes vendas en la palma de la mano y muñeca como si fuera un guante de box, manteniendo los dedos semidoblados, con la punta del índice y el pulgar casi tocándose (Fig. 27-A).
+    • Sostenga la mano afectada mediante un cabestrillo y asegure la extremidad contra el tórax ajustando con una venda ancha (Fig. 27-B)
+    • Administre analgésicos y antibióticos en dosis adecuadas.
+
+
+Fig. 27
+Si existen heridas, estas se manejarán como una fractura expuesta (ver pág. 28) realice una limpieza de la misma y suture si es posible.
+
+En muslo.- La fractura del fémur puede ser grave si hay lesión de arterias o nervios y se la reconoce cuando hay dolor acompañado de impotencia funcional, aumento del volumen y deformidad del muslo. Si hay signos de Shock puede ser por lesión de vasos sanguíneos y acumulación de gran cantidad de sangre. 
+
+    • Tome el pie con una mano y con la otra detrás de la rodilla, traccione (hale) suavemente, pero con firmeza hacia abajo para alargar el muslo, trate de enderezarlo de tal forma que no queden aprisionados los nervios o estructuras vasculares.
+    • Junte ambas piernas e inmovilícelas juntas con una tablilla en medio y asegúrese de que los pies estén bien amarrados para que el muslo no se rote. (Fig. 28).
+
+
+Fig. 28
+    • Administre analgésicos potentes.
+
+En piernas.- Las fracturas dobles de tibia y peroné son muy dolorosas. 
+
+    • Administre analgésicos. 
+    • Traccione, enderece e inmovilice la pierna con tablillas y venda (Fig. 29), si 	no tiene inmovilizador recuerde que tiene la otra pierna.
+    • Si usa inmovilizadores plástico tenga cuidado de no inflarlos con demasiada presión, especialmente en el transporte aéreo.
+    • Controle el movimiento y circulación de los dedos regularmente. 
+
+
+Fig. 29
+En rodilla.- La fractura en la rótula produce dolor e hinchazón en la parte anterior de la rodilla, con pérdida de su movimiento; el accidentado no puede doblarla. Para inmovilizar la rodilla siga las instrucciones (Fig. 30):
+
+    • Sostenga suavemente la extremidad lesionada sobre una tablilla previamente almohadillada, que se extienda desde las nalgas hasta más allá del talón, coloque otro almohadillado necesario para llenar el hueco detrás de la rodilla (A).
+    • Aplique un vendaje en forma de ocho alrededor del tobillo, el pie y la tablilla (B).
+    • Coloque unas vendas anchas alrededor del muslo y pierna, anudándolas  en la parte inferior de la tablilla (C).
+
+
+Fig. 30
+En tobillos.- En las fracturas de tobillo no trate de corregir la deformación, salvo que exista falta de circulación. 
+
+    • Inmovilice el pie en ángulo recto y vende desde los dedos hasta la rodilla, puede realizar una inmovilización con tablillas o sábanas, mantenga la pierna elevada y dé analgésicos (Fig. 31).
+
+
+Fig. 31
+
+Fracturas diversas:
+
+En cara.-Las fracturas en la mandíbula y maxilares pueden ser graves si la sangre obstruye las vías respiratorias.
+
+Recomendaciones:
+    • Si hay hemorragia transporte en posición de lado con la boca hacia abajo para que no se obstruya la vía aérea.
+    • Utilice un vendaje como el descrito en la Fig. 32. Cubra la mandíbula con una almohadilla suave, pida al accidentado que la sostenga con la mano (A), coloque una venda alrededor de la cabeza, anudándola en la parte superior de la misma (B), si hay nausea o vomito retire el vendaje, limpie suavemente la boca antes de volver a colocar la venda, si respira con normalidad póngala de lado con una almohadilla suave debajo de la cabeza (C).
+
+
+Fig. 32
+
+En nariz.- 
+    • Si observa una desviación del tabique nasal después del accidente, enderécela inmediatamente con el dedo índice y pulgar. 
+    • Si hay sangrado, comprima la nariz externamente por la parte inferior de los huesos nasales durante 15 minutos.
+
+En clavícula.- Se percibe deformación y tumefacción en el lugar de la lesión, el accidentado se resiste a mover la extremidad del lado de la clavícula fracturada por presentar dolor.
+
+Trátela con vendaje en “8” (Fig.33) siguiendo los siguientes pasos:
+
+    • Aplique un analgésico IM.
+    • Siente al paciente sobre un banco (A)
+    • Coloque su rodilla sobre la espalda del paciente y estírele lentamente los hombros hacia atrás hasta que usted sienta con sus dedos que se alinea la clavícula fracturada (B).
+    • Fíjelo en esta posición colocando un vendaje alrededor de las axilas y entrecruzado en la parte posterior (C).
+
+
+Fig. 33
+    • El paciente deberá dormir boca arriba y con una almohada en medio de la espalda.
+
+En tórax.- Las fracturas de costillas simplemente duelen al respirar, pero pueden complicarse con hemorragias internas o daño pulmonar los cuales se acompañan de dificultad respiratoria. 
+
+Recomendaciones:
+    • Si sólo hay dolor, administre analgésicos y  mantenga  al paciente en reposo con ejercicios respiratorios.
+    • En caso de dificultad respiratoria o shock, siente al paciente con las piernas elevadas, indíquele que respire regularmente y que se sostenga con las manos la parte lesionada o se recueste sobre ese lado. 
+    • Suministre oxígeno. 
+
+
+En pelvis.- Se producen por caída o aprisionamiento. Estas fracturas se pueden acompañar con sangre en la orina y signos de shock por hemorragia interna. 
+
+Recomendaciones:
+    • 	Inmovilice al paciente en una tabla (Fig. 34) y administre analgésicos.
+
+
+Fig. 34
+Esta inmovilización también puede servir en caso de fracturas en columna y fémur.
+
+Fracturas expuestas o abiertas.- La piel puede ser desgarrada por un trozo de hueso fracturado, estas pueden ser pequeñas heridas en las que se ve poca cantidad de sangre o heridas extensas producidas por el trauma.
+
+Recomendaciones:
+    • Para ambos tipos de heridas se deberá limpiar minuciosamente, como se indica en el capítulo de manejo de heridas (pág.31).
+    • Si observa fragmentos o huesos fuera de la herida, límpielos y guárdelos, no trate de meterlos por que estos se encuentran contaminados. 
+    • Controle la hemorragia
+    • Inmovilice la parte afecta, cúbrala con gasa estéril y vendas.
+    • Administre analgésicos y antibióticos por vía parenteral (intravenosa o intramuscular) hasta que la víctima sea evacuada a un centro especializado.
+
+5.	LUXACIONES O DISLOCACIONES
+
+Los traumatismos directos o indirectos en las articulaciones pueden producir que se desencaje uno de los huesos originando dolor, deformidad, impotencia funcional por estiramiento o desgarro de ligamentos, tejidos blandos y  estructuras que componen la articulación.
+
+Luxaciones más comunes y su manejo:
+
+En mandíbula.- 
+Recomendación:
+    • Sujete el maxilar inferior con las dos manos, luego  traccione hacia abajo (nunca hacia atrás) y póngalo en su posición normal.
+	
+En hombro.- 
+Recomendaciones (Fig. 35):
+    • Administre una ampolla de Diazepan IM.
+    • Coloque al paciente boca abajo sobre una mesa o litera, y deje que el brazo cuelgue libremente con un pequeño peso en su extremo durante una hora. (A). 
+    • Si no resulta lo anterior, se deberá realizar la maniobra de las tres tracciones como se indica en la (B) Posteriormente inmovilice con vendaje (C)
+
+
+Fig. 35
+
+En codo.- 
+Recomendaciones:
+    • Traccione los extremos de la articulación hasta que los huesos regresen a su posición normal e inmovilice (Fig. 36).
+
+
+Fig. 36
+En dedos.- Las luxaciones o zafaduras de los dedos producen deformaciones visibles, dedo en “bayoneta”.
+
+Recomendación:
+    • 	Estire el dedo de inmediato mientras esté adormecido, luego use tiras adhesivas para fijar el dedo lesionado al próximo que servirá de inmovilizador.
+
+En rodilla.- 
+Recomendación:
+    • Cuando la rodilla está deformada por dislocación, se le puede reducir fácilmente con tracción suave de los extremos, se endereza, se venda e inmoviliza según técnica descrita en la pág. 25.
+
+	
+6.		ESGUINCES O TORCEDURAS
+
+Un movimiento exagerado de la articulación puede provocar elongación y desgarro de ligamentos, produciendo dolor, hinchazón y limitación de los movimientos.  Ante un esguince proceda de la siguiente manera:
+
+    • Retire cuidadosamente la ropa que recubre la lesión (zapatos, calcetines, camisa, etc.)
+    • Realice un vendaje firme de la parte afectada, sin ajustar demasiado (Fig.37) 
+
+
+Fig. 37
+    • Mantenga la parte afecta en reposo, en cama o con férula (objeto para inmovilizar la articulación) y coloque la parte traumatizada un poco más alta que el resto del cuerpo.
+    • Si luego de 48 horas nota que no ceden las molestias, se debe trasladar al paciente a un Centro Médico que tenga rayos “X” para descartar fracturas.
+
+
+ 7.	TRASLADO DE UN ACCIDENTADO
+
+El traslado de un herido se puede realizar con una o varias personas, dependiendo de la historia o mecanismo del accidente. Muévalo y trasládelo suavemente, puede hacerlo sólo o con ayuda de otras personas como se indica en la figura (Fig. 38). Si no puede hacerlo correctamente no lo mueva hasta que llegue ayuda.
+
+
+Fig. 38
+
+
+ 8.	MANEJO DE HERIDAS
+
+La prioridad en una herida es detener la hemorragia con las maniobras ya explicadas en la  pág. 13.
+
+Recomendaciones.-
+    • Calme el dolor inyectando anestesia local (Xylocaína), ver capítulo siguiente. Administre analgésicos parenterales si la herida es grande.
+    • Lave la herida con agua y jabón, luego utilice una sustancia antiséptica tipo Zavlon diluido en solución salina para terminar de limpiar la herida. En heridas muy contaminadas puede utilizar además Betadine (Povidona) y agua oxigenada. No use alcohol.
+    • En caso de heridas lineales a nivel de cara se puede utilizar tiras adhesivas para aproximar los bordes previamente secos. (Fig. 39)
+
+
+
+Fig. 39
+    • En heridas con menos de 8 horas de evolución proceda a suturar por planos, ver capítulo siguiente.
+    • Si la herida es muy contaminada o tiene mas de 8 horas de evolución, proceda a limpiarla de manera prolija, cúbrala con gasas, vendas y administre antibióticos hasta que llegue el médico.
+    • En caso de heridas tipo excoriación (raspones) después de limpiarla cúbrala con jelonet (gasa con vaselina) gasas y tela adhesiva (esparadrapo).
+    • Si no ha sido inmunizado contra el tétano en los últimos 5 años, administre una ampolla IM de toxoide tetánico.
+    • Si días después la herida se infecta, presentará dolor, enrojecimiento, hinchazón y fiebre. Proceda a sacar varios puntos, realice una nueva limpieza, déjela abierta para que drene la pus y cúbrala con gasa.
+
+Recuerde: Toda herida por pequeña que sea debe ser curada y cubierta con gasa estéril.
+
+8.1	SUTURAS
+
+Para suturar una herida usted necesitará:
+    • Un par de guantes.
+    • Paquetes de gasa estéril.
+    • Soluciones antisépticas (Zavlon, yodopovidona, agua oxigenada)
+    • Equipo de sutura.
+    • Nylon 4-0 para la cara y los dedos; 3-0 para resto de la piel y 2-0 para cuero cabelludo.
+    • Xylocaina al 2% sin epinefrina
+    • Jeringuilla de 10ml.
+    • Esparadrapo.
+
+Técnica de sutura:
+    • Limpie alrededor de la herida con una solución antiséptica.
+    • Inyecte unos pocos centímetros de Xylocaína en el tejido adiposo por los costados de la herida (Fig. 40 -A)
+    • Comprima la herida con una gasa por 60 segundos para detener el sangrado.
+    • Proceda a suturar sin apretar demasiado los puntos (Fig. 40 -B)
+    • Administre antibióticos por 8 días.
+    • Retire los puntos de la cara y manos en 5 días, los del resto del cuerpo en 8  días.
+
+
+Fig. 40
+
+8.2	HERIDAS PENETRANTES EN TORAX
+
+Recomendaciones:
+    • En las heridas penetrantes con entrada y salida de aire, cubra rápidamente la herida con gasa y tela adhesiva, para impedir que se colapse (se encoja) el pulmón por la entrada de aire (Fig. 41)
+    • Trate el shock y coloque al paciente en posición semisentado.
+
+
+Fig. 41
+
+
+8.3	HERIDAS PENETRANTES EN ABDOMEN
+
+Recomendaciones:
+    • Mantenga al paciente de espaldas.
+    • Controle la hemorragia con apósitos  y vendaje compresivo. (Fig. 42)
+    • No introduzca los intestinos o vísceras, solo cúbralas con compresas estériles.
+    • Trate el Shock.
+    • No le dé nada a beber.
+    • Traslade al paciente con las rodillas dobladas.
+
+
+
+Fig. 42
+
+8.4	QUEMADURAS. 
+
+Es el daño que se produce en la piel y mucosas por el contacto con sustancias como fuego, calor, agua caliente, vapor, exposición excesiva  a la luz solar, frío extremo, electricidad, agentes químicos, radiaciones, energía nuclear, etc. La gravedad dependerá de la profundidad de la quemadura (Anexo1-Tabla II) y del porcentaje del área de cuerpo quemado, que se lo puede calcular en base a los valores que se presentan en la Fig. 43
+
+Recomendaciones:
+    • Si la víctima se encuentra en un cuarto con vapor o llamas, sacarlo del ambiente caliente hacia un sitio donde sea posible reanimarlo. 
+    • Si usted se está quemando, ruede por el suelo y así apagará las llamas de su ropa.
+    • Si hay alguna posibilidad de que hubiera ocurrido inhalación de humo, como lo sugiere la exposición al fuego en un área cerrada, la prioridad será mantenerle una vía aérea permeable (pág.11).
+    • Aplique rápidamente, agua fresca, compresas o sábanas húmedas y limpias sobre la zona quemada. 
+    • Suprima el dolor con analgésicos potentes. 
+    • Controle el Shock.
+    • Si la ropa quemada esta adherida a la piel, no la saque.
+    • Retire rápidamente, anillos, pulseras, relojes etc.
+    • No coloque ningún sustancia o material extraño sobre la quemadura.
+    • Si hay ampollas no las rompa ni elimine la piel desprendida, pues esta servirá de protección.
+    • Lave las zonas quemadas con suero fisiológico (Sol. Salina al 0,9%) o Zavlon diluido en suero fisiológico.
+    • Calcule el porcentaje de superficie corporal quemada (Fig. 43 y Anexo 1-Tabla III). 
+    • En quemaduras sobre el 10% de superficie afectada, instale vía intravenosa con Lactato de Ringer o Solución Salina a goteo rápido o déle a tomar abundante agua.
+    • Controle el volumen y color de la orina cada hora, si esta es concentrada y escasa, aumente la velocidad del goteo.
+    • Aplique en las áreas quemadas cremas antibióticas como Silvadyn o Garamicina, coloque gasa vaselinada (Jelonet), luego  cubra la zona con abundantes gasas  y vendas.
+    • En caso de que los dedos estén comprometidos vendarlos cada uno por separado.
+    • Habiendo previsto que la quemadura está sobre el 10%, la víctima deberá ser evacuada de manera urgente a un centro especializado para quemados.
+    • También se consideran quemaduras graves cuando se afectan ojos, boca, nariz, cuello, cara, genitales, pliegues de las articulaciones, aunque no alcancen el 10%.
+
+Fig. 43
+
+Electrocución y quemaduras eléctricas.- Los efectos de una descarga eléctrica pueden ser muy graves al producir quemaduras,  arritmias cardiacas y paro cardiorrespiratorio.
+
+Recomendaciones:
+    • No intente asistir a la víctima si está aún en contacto con la corriente o próxima a la misma, corte el poder eléctrico o sepárela con un palo seco. (Fig. 44).
+    • Una vez desconectada la corriente eléctrica, controle la vía aérea y pulso, si no están presentes proceda inmediatamente a las medidas de reanimación (pág. 15).
+    • Manejar las quemaduras como se señaló en el capitulo anterior.
+
+
+Fig. 44
+9.	HIPOTERMIA
+
+Concepto.- Es el descenso de la temperatura corporal  por debajo de los 35 ºC  o  95º F.  El daño del mecanismo productor de calor del cuerpo puede ser causado por el viento, inmersión en agua helada, uso de  ropa no adecuada o contacto con sustancias de rápida acción congelante como combustible, alcohol, hielo seco, oxigeno, etc.
+
+Situaciones que favorecen la hipotermia.-
+    • El cansancio, por exceso de actividad física.
+    • Poca actividad muscular.
+    • Falta de ingesta de alimentos calóricos.
+    • La ingesta de alcohol y drogas aumentan la perdida de calor por vasodilatación.
+    • Ropa húmeda.
+    • Personas enfermas debilitadas o ancianas.
+
+Síntomas de hipotermia.-
+Para poder reconocer los síntomas iniciales de hipotermia, establezca el sistema de “VIGILANCIA MUTUA” vale decir que todo expedicionario debe vigilar a su compañero.
+
+    • Fatiga: Es el agotamiento que precede al desarrollo de hipotermia. La tendencia humana de sobre esforzarse “avanzar” en situaciones de adversidad física ha conducido a muchas muertes innecesarias.
+    • Escalofrío: Es la respuesta natural del cuerpo para producir calor.
+    • Lenguaje extraño: Las palabras se tornan apagadas, incoherentes, como si el paciente estuviera borracho.
+    • Conducta extraña: No obedece a órdenes, abandona el equipo, etc.
+    • Caídas frecuentes: Por falta de coordinación en las extremidades.
+    • Desvanecimiento o desmayo: Es la pérdida de la conciencia que puede evolucionar al estado de coma, paro cardio-respiratorio y muerte.
+
+Estos síntomas pueden ser de rápida sucesión si  la persona cae en agua fría permaneciendo en inmersión más de 5 minutos, sin embargo el frío reduce las demandas metabólicas y por ello la víctima podría  mantenerse viva por más tiempo. 
+
+Recomendaciones:
+    • Traslade a la victima a un lugar abrigado con sus brazos apegados al tórax, las piernas dobladas y juntas hacia el tórax para proteger la ingle. Si está inconsciente trasládelo de lado para cuidar la vía respiratoria.
+    • Verifique si se encuentran presentes los signos vitales (pulso y respiración), si no los hay, realice las maniobras de reanimación inmediata como se indica en la pág.15.
+    • Quitar la ropa húmeda, secar y cubrir a la victima con frazadas o con el cuerpo de sus compañeros para producir calor y protegerlo del viento.
+    • Proteja la cabeza del viento colocándole una funda plástica con un agujero para que pueda respirar.
+    • Darle bebidas dulces y calientes como fuentes de calor y energía.
+    • Sumérjale los pies en agua tibia. Use bolsas de agua caliente (menor a  40º C) sobre la cabeza, cuello, axilas e ingles.
+    • Mantenerlo en reposo por 24 horas.
+
+Medidas preventivas para evitar la hipotermia.-
+    • Proteja las zonas descubiertas como nariz y labios con crema protectora, exponga al frío la menor cantidad de piel posible.
+    • No use ropa muy ajustada que dificulte la circulación.
+    • Lleve toalla, guantes, calcetines, polainas y buzo térmico de repuesto.
+    • Evitar caminar en áreas en descongelamiento para impedir el contacto de nuestro cuerpo con agua helada.
+    • Tome las precauciones para evitar caerse al agua mientras esté navegando.
+    • No efectúe ejercicios violentos en bajas temperaturas, el aire helado enfría los pulmones y la sangre.
+    • Si necesita trabajar varias horas en bajas temperaturas, tome un descanso de 15 minutos cada 2 horas e ingiera una bebida caliente.
+    • Sea muy cauteloso al manipular líquidos frigorizantes como el alcohol y combustibles, le pueden congelar la piel en segundos.
+
+Recuerde.- Si su ropa no es adecuada a prueba de viento y agua y está expuesto a temperaturas ambientales de 0o C o menos y vientos de 5 Km/h, usted corre el riesgo de hipotermia en pocos minutos.
+
+9.1	LESIONES POR FRIO
+
+Pueden producirse quemaduras graves por el congelamiento local de los tejidos. Las zonas más vulnerables son: los dedos, manos, pies, nariz, orejas, barbilla y mejillas.
+
+Signos y síntomas: 
+    • Sensación de entumecimiento, adormecimiento o insensibilidad al tacto.
+    • Piel rojiza y luego pálida, de un blanco ceroso.
+    • Pérdida de la sensibilidad al dolor.
+    • Hinchazón de la parte afecta.
+    • Horas después se forma un “sabañón”, es decir, ampollas con área de coloración violácea o gris, y posteriormente presencia de dolor punzante.
+
+Si le entra agua helada a la bota se puede producir el llamado “pie de inmersión” con las características antes descritas.
+
+Recomendaciones:
+    • Cuando se reconozca la presencia de signos iniciales de congelamiento, puede bastar un calentamiento en el cuerpo de la víctima hasta que recobre su color, temperatura y sensibilidad al tacto.
+    • Si el congelamiento es mas grave, cubrir la zona afecta y trasladar al paciente a la base.
+    • No hacer ningún tipo de fricción o masaje.
+    • No recalentar si hay posibilidad de un nuevo enfriamiento, porque esto podría agravar la lesión y provocar gangrena.
+    • El recalentamiento se realiza con inmersión en agua caliente a 40-42ºC durante 30 minutos, seguida de inmovilización de la parte afecta y expuesta a una atmósfera temperada. 
+    • En caso de ampollas no las rompa, separe los dedos y proteja con abundante gasa toda la extremidad para evitar infección.
+    • Administrar analgésicos y antibióticos.
+
+Recuerde: Parte del tejido gangrenado puede  mantener buena circulación profunda, por lo tanto si hay tejido muerto no se recomienda amputar porque parte de él puede recuperarse en el lapso de 20 a 45 días quedando delimitado el tejido muerto que más tarde tendrá que ser removido.
+
+
+10.	SEMIAHOGADO
+
+La entrada de agua en las vías respiratorias produce obstrucción y pérdida del conocimiento por disminución del flujo de oxigeno al cerebro. 
+Antes de iniciar la respiración artificial debe drenarse el agua de los pulmones. El método más eficaz es el de “presión-tracción” de Holger  Nielsen que se describe a continuación:
+
+    • Ponga al accidentado boca abajo sobre una superficie dura.
+    • Colóquele los brazos  con las manos debajo de la cabeza, una encima de otra. 
+    • Vuélvale la cabeza a un lado y apóyela en la mejilla sobre la mano superior. 
+    • Desplace la cabeza hacia atrás y empuje la mandíbula hacia abajo para que quede abierta la vía respiratoria de la victima. (Fig. 45)
+
+Fig. 45
+    • Hinque su rodilla junto a la cabeza del accidentado y coloque el otro pie cerca del codo de él. Apoye las manos obre la espalda, encima de los omóplatos con los pulgares uno a cada lado de la columna vertebral (Fig. 46).
+
+
+Fig. 46
+
+
+    • Mantenga sus codos rectos e inclínese hacia delante hasta que sus brazos estén aproximadamente verticales, ejerciendo una presión durante 2 segundos. Eso permitirá al accidentado expulsar el aire. No aplique demasiada presión, de lo contrario, podría dañar los pulmones y los órganos internos. (Fig. 47)
+
+
+Fig. 47
+    • Deslice sus manos hacia arriba y hacia afuera a lo largo de los brazos del accidentado y agárrelos justo por encima del codo. Levántele  los brazos por unos 3 segundos, hasta que note resistencia y tensión en los hombros, eso da lugar a una inspiración. No estire demasiado. (Fig. 48)
+
+
+Fig. 48
+    • Baje los brazos del accidentado y ponga de nuevo sus manos sobre la espalda para repetir el ciclo. Repita la secuencia rítmicamente doce veces por minuto. Cada ciclo de expansión y compresión deberá durar unos 5 segundos. (Fig. 49)
+
+
+Fig. 49
+
+Al cabo de cuatro ciclos compruebe las pulsaciones cardíacas, si se perciben, continúe con la maniobra, y si no, vuelva al accidentado boca arriba para efectuar el masaje cardiaco externo y respiración artificial. En cuando el accidentado empiece a respirar, colóquelo en la posición de recuperación.
+
+11. 	LESIONES EN PIEL Y MUCOSAS
+
+Ampollas y excoriaciones.-
+
+Recomendaciones:
+    • Para prevenirlas aplíquese talco Mexana en axilas, pies e ingles después del aseo diario.
+    • Use calcetines limpios y zapatos cómodos.
+    • En caso de aparecer ampollas, saque el líquido con aguja estéril y cubra con curitas o gasa.
+
+Astillas.-
+
+Recomendaciones:
+    • Luego de curar con Povidona o alcohol, extráigalas con una aguja estéril o pinza, podría necesitarse anestesia local.
+    • Administre antibióticos por vía oral.
+
+Forúnculos o nacidos.- Es una infección bacteriana en la piel que se presenta con enrojecimiento, dolor e hinchazón de la misma. 
+
+Recomendaciones:
+    • Administre analgésicos y antibióticos por vía oral hasta 24 horas después de su curación o drenaje.
+    • No trate de apretarlos mientras no vea que su centro se haya reblandecido y se vuelva amarillo.
+    • El drenaje lo puede realizar con un a aguja estéril o un bisturí, luego cúrelo como una herida infectada.
+
+Irritación solar.- La radiación ultravioleta UV proveniente del sol que alcanza la superficie terrestre está compuesta principalmente por rayos UVA y un pequeño componente de rayos UVB que son absorbidos por la capa de ozono, estas radiaciones no son inocuas y su exposición prolongada puede causar graves efectos sobre la piel como irritación, envejecimiento prematuro y cánceres cutáneos. 
+
+Es muy importante que antes de salir utilice cremas humectantes con  filtros  solares para UVA y UVB en las zonas expuestas al sol, con las siguientes recomendaciones: 
+    • Tenga en cuenta el número de factor de protección, mientras mayor sea éste le proporcionará más horas de protección.
+    • Aplique una hora antes de la exposición una capa gruesa de crema protectora  en cantidad suficiente para una protección eficaz. Para los labios utilice un protector en barra.
+    • Luego del uso las cremas se guardarán en un lugar frío, para su mejor conservación.
+    • Las cremas que sobren del año anterior deben ser evaluadas, si tiene duda, deséchalas y adquiera nuevas.
+Ceguera por nieve.- Se produce por refracción de los rayos ultravioletas en la nieve o el agua y exposición directa a la luz de soldadura. La manera de prevenirla es usando las gafas protectoras con filtro UV.
+
+Síntomas: Lagrimeo, ojos rojos, dolorosos e intolerancia a la luz.
+
+Recomendaciones:
+    • Colocar sobre los párpados gasas húmedas con agua fresca durante una hora.
+    • En caso de dolor se pueden poner gotas oftálmicas de Tetracaína o Dexametasona solo por una o dos ocasiones.
+    • Tapar ojos con gasas y vendaje suave.
+    • El periodo de recuperación puede durar hasta 3 días.
+
+Lesiones oculares.- Pueden estar provocadas por contacto con sustancias ácidas, cáusticas  o inertes como arena, tierra, pintura, etc.
+
+Recomendaciones:
+    • No permita que el paciente se frote.
+    • Lávese con abundante agua en chorro durante 15 a 20 minutos, también puede utilizarse agua destilada o suero fisiológico (Sol. Salina al 9%) en una jeringuilla grande sin aguja.
+    • Mantenga los ojos abiertos y parpadee rápidamente.
+    • Use ungüentos o colirios oftálmicos a base de Garamicina, Cloranfenicol  o Tetrahidrozolina. 
+    • Cubra el ojo afectado con un apósito (Fig. 50)
+    • Si persiste el dolor sospeche de ulcera corneal, aplique gotas anestésicas de Tetracaína oftálmica, continúe aplicando antibióticos en ungüento y cubra el ojo por 48 a 72 horas.
+
+
+Fig. 50
+Cuerpo extraño en el parpado.-
+
+Recomendaciones:
+    • Doble el párpado hacia arriba con un aplicador de algodón e identifique el cuerpo extraño.
+    • Extráigalo suavemente con la punta de una gasa u otro aplicador de algodón húmedo.
+    • Aplique gotas oftálmicas a base de antibióticos.
+Cuerpo extraño en la cornea.-
+
+Recomendaciones:
+    • Coloque varias gotas de Tetracaína oftálmica o Xylocaina al 2% sin epinefrina y espere unos minutos.
+    • Identifique el cuerpo extraño con una lupa, oftalmoscopio o una buena fuente de luz solar.
+    • Trate de sacarlo con un aplicador de algodón o la punta estéril de una  aguja de insulina.
+    • Si el objeto es metálico, luego de extraerlo, raspe ligeramente la cornea de arriba hacia abajo con el bisel de la aguja en forma lateral (Fig. 51) para eliminar los residuos de óxido.
+    • Coloque ungüento oftálmico antibiótico (Garamicina o Cloranfenicol) dos veces al día y cubra el ojo por 48 horas.
+    • En caso de perforación de cornea con algún objeto, además de lo anterior aplique gotas de Atropina al 1%, cubra el ojo y derívelo al especialista.
+
+
+
+Fig. 51
+
+Heridas oculares penetrantes.- Las heridas cortantes  pueden ser  profundas y comprometer las estructuras internas del globo ocular. 
+
+Recomendaciones:
+    • Coloque varias gotas de Atropina al 1% durante 15 minutos.
+    • Cubra el ojo con vendaje ligeramente compresivo.
+    • Administre analgésicos y antibióticos por vía oral o IM.
+    • Traslade al paciente a un centro de especialidad lo antes posible.
+
+Cuerpo extraño en oído.- Nunca intente sacar un cuerpo extraño con pinzas, horquillas, aplicadores, etc., pues usted corre el riesgo de perforar el tímpano, provocando mas daño, déjelo hasta que lo extraiga un especialista. 
+
+Recomendaciones:
+    • En caso de un insecto vivo dentro del oído, coloque en el oído unas gotas de aceite comestible, vaselina liquida o agua para que el insecto muera o salga flotando. 
+    • Si sale sangre o líquido seroso por el oído puede tratarse de una  perforación de la membrana timpánica, en este caso, no introduzca nada en el oído, solo límpielo por fuera. 
+    • Evite que le entre agua en el oído durante el baño, colocándose un algodón con vaselina líquida o aceite de tocador y retírelo luego de 15 minutos de haber salido de la ducha. 
+    • Si aparece dolor o signos de infección, administre analgésicos y antibióticos por vía oral.
+
+Cuerpo extraño en las vías respiratorias.- Las vías respiratorias pueden ser obstruidas por alimentos, trozos de carne, hueso, monedas,  o cualquier objeto que accidentalmente se desvíe hacia la traquea. 
+
+Recomendaciones:
+    • Inmediatamente trate de sacarle el objeto extraño directamente con los dedos o  pueda que salga posteriormente con el vómito que ha provocado (Fig. 52)
+
+
+Fig. 52
+
+    • Si lo anterior no resulta, realice la maniobra de Heimlich (Fig. 53), que consiste en colocarse por detrás de la víctima presionando su abdomen de una manera fuerte y súbita.
+
+
+Fig. 53
+    • Si el paciente continúa con dificultad respiratoria tendrá que realizar una pequeña incisión horizontal a nivel de la traquea, con una navaja o cuchillo, a un dedo por debajo de la manzana de Adán (Fig. 54-A) de tal manera que la perfore y se pueda colocar un tubo endotraqueal (Fig. 54-B) o cualquier tubo de goma, ó clavar una aguja gruesa Nº 16 con el bisel descansando en la luz de la traquea. (Fig. 54-C).
+
+
+Fig. 54
+
+Recuerde: El objetivo de estas maniobras es proporcionar aire lo más pronto posible. No debe perderse tiempo en preparaciones complicadas.
+
+12.	TRATAMIENTO DE SINTOMAS Y AFECCIONES VARIAS
+
+Mareo.-
+    • Tome una tableta de Bonamina 25mg media hora antes del embarque, una en la noche y otra media hora antes de levantarse en el camarote.
+    • Se pueden utilizar otras drogas como dimenhidrinato (Anautín) 50mg, metoclopramida (6-Copin) administradas horas antes  y cada 8 horas durante la navegación.
+    • Ingiera comida liviana durante el primer día de navegación.
+    • Mantenga la cabeza baja, no realice movimientos bruscos.
+
+Dolor de cabeza.-
+    • Tome 1 gr. de Aspirina o Paracetamol cada seis horas en caso de ser necesario.
+
+Dolor de garganta.- 
+    • Chupe Mebocaína c/4 horas. Si se acompaña de fiebre o malestar general, tome paracetamol 1g c/ 6 horas. Administre antibióticos por vía oral o parenteral como amoxicilina 500mg una cápsula c /8horas o Megacilina Forte 4’000.000 UI c/día siempre por vía intramuscular. Si es alérgico a la penicilina tome claritromicina 500mg c/ 12 horas durante tres días.
+
+Dolor de muelas.-
+    • Si el dolor es por caries, cúrelas con agua oxigenada, aplique aspirina molida y antes de comer cubra la caries con algodón. 
+    • Si a pesar de curar la caries, hay aumento del dolor e hinchazón, no tape la cavidad y administre por vía oral analgésicos y antibióticos  como Amoxicilina 500mg c/6 horas, o Claritromicina 500g c/12h si es alérgico a la penicilina.
+    • Es frecuente la pérdida de calce, si éste está flojo trate de retirarlo luego tape  la cavidad con Calvit-W o algodón con agua oxigenada.
+    • Si un diente se afloja o se ha salido por accidente, colóquelo rápidamente en su cavidad y aplique Calvit-W entre los dientes adyacentes para darle más seguridad.
+
+Dolor de estómago.-
+    • En caso de dolor tipo ardor, por gastritis, ingiera dos cucharadas de Hidroxilo de Aluminio (Ditopax o Mylanta), también puede usar tabletas de 300mg de Ranitidina (Taural) u Omeprazol 20mg por vía oral.
+    • Nunca de antiinflamatorios.
+    • En caso de dolor tipo cólico, tome un antiespasmódico tipo Buscapina, Sistalgian o Propinox (Sertal).
+
+Dolor de espalda y lumbar.- El trabajo pesado puede producir dolor lumbar y contracturas musculares ocasionadas por una posición incorrecta por levantar un peso (Fig. 55-A). Cuando levante un objeto pesado, hágalo de una manera correcta sin doblar la columna y usando los muslos como impulso (Fig. 55-B).
+
+
+Fig. 55
+
+En caso de lumbalgia o contracturas musculares, usted puede tomar: 
+    • Antiinflamatorios tipo: Diclofenaco 50mg, Naproxen sódico 500mg,  Nimesulida 100mg cada 12 horas, o Meloxican 15mg una vez al día, etc. combinados con relajantes musculares como la clorzoxazona (Tensiflex) o Diazepan 10mg. 
+    • Siempre que ingiera antiinflamatorios, no olvide tomarlos con los alimentos para evitar gastritis.
+    • Mantenga el reposo hasta completa recuperación.
+    • Use la faja de protección lumbar para realizar trabajo pesado o de carga.
+
+Tos, catarro y bronquitis.- Si la tos es no productiva (seca -sin flema) se torna persistente tome un jarabe antitusivo a base de Codeína o Dextrometorfano. 
+
+En caso de tos es productiva (con flema), es decir, con esputo amarillento o amarillo verdoso que está acompañado de síntomas generales:
+    • Tome fluidificantes o expectorantes mucolíticos como Ambroxol, Bromehexina o Acetilcisteína por vía oral tres veces al día. 
+    • Administre antibióticos como amoxicilina 500mg 1 cap. c/8horas o Claritromicina 500mg 1 cap. c/12h. 
+    • Inhale vapor de agua durante 10 minutos dos veces al día.
+
+En caso de dificultad respiratoria, administre oxígeno, o dos inhalaciones de un broncodilatador tipo Salbutamol (Ventolín)  o en jarabe 10ml cada 8 horas y consulte al médico. 
+
+Constipación / Estreñimiento.- Ingiera abundantes líquidos con alimentos ricos en residuos (fibra), en caso necesario tome un laxante suave como 30cc de picosulfato de sodio (Agarol) o 12 a 15 gotas de Normolax en un vaso de agua una vez al día, ocasionalmente.
+
+Hemorroides.- Las hemorroides son venas que se encuentran en el recto, las cuales se pueden inflamar, produciendo dolor al defecar o deposiciones sanguinolentas que manchan el papel higiénico.
+
+Recomendaciones:
+    • Use Ultraproct (Fluocortolona) en ungüento o supositorio dos veces al día por 8 días.
+    • Para el aseo no utilice papel higiénico, solo agua y jabón
+    • Trate la constipación (ver información anterior).
+    • Evite ingerir alimentos condimentados y bebidas alcohólicas.
+    • Si las molestias son muy intensas, ponga al paciente en reposo boca abajo y  coloque bolsas con hielo a nivel del recto. 
+    • Administre analgésicos por vía oral o IM.
+
+Erupciones en la piel. La presencia de múltiples puntos o manchas rojas en la piel pueden ser por varias causas:
+
+Si aparecen bruscamente (ronchas) luego de la ingesta de alimentos, medicinas o contacto con ropa, detergentes y otras sustancias, sospeche una alergia, para este caso:
+
+    • Administre antihistamínicos como Clarityne (Loretadina) una tableta de 10mg c/12h, Clemastina (Tavegyl) o Benadryl una cápsula c/8h.
+    • Suspenda la ingesta de proteínas alergénas como lácteos, mariscos, huevo, chocolate y colorantes por varios días.
+
+Si las lesiones aparecen lentamente y tienen un centro pálido, pueden ser por hongos, para este caso:
+    • Aplique Clotrimazol, Ketoconazol o alguna otra crema antimicótica dos veces al día por 2 semanas.
+
+En caso de erupción roja, escamosa y con picazón, sospeche en un eczema, para ello: 
+    • Aplique cremas a base de corticoides como diflucortolona (Scheriderm) o Betametasona (Quadriderm) dos veces al día.
+
+Si la erupción se acompaña de síntomas generales como fiebre o malestar, se puede tratar de una infección tipo viral, para lo cual debe administrarse únicamente Acetaminofen, manténgalo en reposo y bien hidratado
+
+Deshidratación.- Debido a la sequedad extrema del aire en el ambiente Antártico, los expedicionarios pueden regresar deshidratados luego de largas caminatas.
+
+Recomendaciones:
+    • Para prevenirla tome agua regularmente.
+    • Si se presenta diarrea, tome sales de hidratación oral.
+    • En caso de vómitos, administre una ampolla de metoclopramida IM, espere 15 minutos y luego continué con la hidratación oral. 
+    • Si persisten los síntomas instale hidratación intravenosa con Lactato de Ringer o Sol. Salina al 9% a un goteo de no menos de 40 gotas por minuto.
+
+Crisis convulsivas.- Las personas que tengan antecedentes de ataques epilépticos, es mejor que por su seguridad, no sean tomadas en cuenta para expediciones Antárticas. Sin embargo esto puede sucederle a cualquier individuo en algún momento de la vida.
+
+Recomendaciones:
+    • En caso de presenciar una crisis epiléptica usted debe evitar que el paciente se golpee, sujételo con fuerza, protéjale especialmente la cabeza y el cuello.
+    • Eleve la cabeza hacia arriba y a un lado para que pueda respirar mejor.
+    • Coloque un pañuelo doblado entre los dientes para que no se muerda la lengua.
+    • Nunca lo deje solo, controle la vía aérea, si no respira proceda con la respiración artificial.
+    • Si no han cesado las convulsiones inyecte por vía IM una ampolla de 200mg de Fenobarbital o Diazepan 10mg y repita a los 20 minutos si es necesario.
+    • Al terminar la convulsión examine el resto del cuerpo, puede tener lesiones por la caída.
+    • Déjelo descansar hasta que recobre totalmente el conocimiento y prepare su evacuación a un centro especializado para su mejor control.
+
+
+13.	DOLOR ABDOMINAL
+
+El dolor abdominal agudo puede tener muchas causas, y su tratamiento dependerá de su origen.
+
+
+
+
+Apendicitis.- La mejor manera de evitar el riesgo de presentar apendicitis (si no se ha extirpado) es evitando la constipación/estreñimiento. Coma alimentos con abundante fibra y beba líquidos frecuentemente.
+
+La apendicitis comienza con dolor abdominal, cerca o sobre el ombligo, el cual puede ser tipo cólico,  horas después se torna permanente, corriéndose hacia la parte baja derecha del abdomen e irradiándose al muslo, puede haber otros síntomas acompañantes como vómito y fiebre. Si presionamos con la mano entre el ombligo y la cadera derecha se aumentará el dolor.
+
+Recomendaciones: En sospecha de apendicitis, hasta que se realice el traslado a un centro quirúrgico, el paciente deberá:
+
+    • Permanecer en reposo.
+    • No ingerir alimentos, únicamente sorbos de líquidos (agua o suero de hidratación oral).
+    • No administrar analgésicos.
+    • En caso de vómito se continuará con hidratación intravenosa preferible con Dextrosa al 5% en Sol. Salina a 40 gotas por minuto.
+    • En caso de continuar vómito o aparecer distensión abdominal (se infla), no dar nada por vía oral y colocar sonda nasogástrica.
+    • Se puede elegir entre uno de los siguientes esquemas de tratamiento farmacológico:
+    • Si no es alérgico a la penicilina.- Administre Ceftriaxona (Rocephin) 1g diluido en 20cc de S. Salina, pasarlo IV en 10 minutos c/12horas.
+    • Si tiene antecedentes de alergia a la penicilina.- Ciprofloxacina (Ciproxina) 200 mg. diluirlo en 50cc de S. Salina, pasarlo IV en 20 minutos c/12h.
+    • Si no se dispone de los anteriores fármacos se puede administrar por vía oral el Trimetroprin-Sulfa forte (Bactrim forte) 1 comprimido c/12h junto con 2 tabletas de Tinidazol (Fasigin 1g) o Metronidazol (Flagyl 500mg) c/12h. En caso de vómito, se pueden administrar por vía rectal (con vaselina).
+
+Cólico renal.- Es producido por la presencia de cálculos en las vías urinarias. Causa dolor de aparición brusca a un costado de la columna lumbar, irradiado hacia un lado del ombligo, pelvis o testículo, puede estar acompañado con molestias al orinar, vómito, sudoración fría, palidez generalizada y sensación de desvanecimiento por la gran intensidad del dolor.
+
+Recomendaciones:
+    • Para calmar el dolor se pueden utilizar antiespasmódicos o analgésicos fuertes como (Sertal compuesto, Buscapina compuesta, Klosidol, Tramal, Ketorolaco, etc.) solos o combinados por vía intravenosa lenta, procurando siempre diluirlos en agua destilada o Solución Salina al 0,9%, si no se dispone de una administración intravenosa, se puede utilizar la vía intramuscular. 
+    • Al disminuir la intensidad del dolor, el paciente continuará la ingesta de líquidos por vía oral, caminando regularmente para facilitar el descenso del cálculo.
+
+Pancreatitis.- La ingesta de bebidas alcohólicas, abundante comida grasa y condimentos, pueden originar una grave inflamación del páncreas. 
+
+La pancreatitis se manifiesta con dolor intenso, continuo y penetrante por arriba del ombligo que se refleja hacia la espalda y dura más de 6 horas. El paciente se oprime el abdomen con sus manos y se encoge para tratar de calmar el dolor. Si no se trata a tiempo puede comprometer la vida del paciente.
+
+Recomendaciones:
+    • No dar nada por vía oral.
+    • Colocar vía intravenosa con Lactato de Ringer o Sol. Salina al 0,9% a 40 gotas por minuto.
+    • Calmar el dolor con los analgésicos fuertes (antes descritos) por vía intravenosa lenta.
+    • Administrar protectores gástricos como Ranitidina 50mg (Taural) 1 ampolla IV  lenta c/8horas.
+    • En caso de distensión abdominal, colocar sonda nasogástrica.
+    • Trasladar al paciente a un hospital.
+
+
+14.	INTOXICACION CON MONOXIDO DE CARBONO Y GASES
+
+El monóxido de carbono (CO) se produce con cualquier máquina de combustión interna, llamas de cocina, calentadores a gas o cuando se quema cualquier producto que contenga carbón.
+
+Por lo tanto no deben existir estos equipos en lugares de dormir o en carpas, mantenga la vista en ellos durante la oscuridad, no los ignore. Instale un detector de CO.
+
+Síntomas: Dolor de cabeza, nauseas, opresión en el pecho, respiración rápida, palpitaciones, cambios mentales. La víctima se torna de un color rosado o rojo cereza.
+
+Recuerde: Puede no haber signos previos de intoxicación pero la víctima puede entrar rápidamente en inconciencia y morir.
+Si se sueldan metales en espacios cerrados se produce humo de hierro galvanizado con gases de zinc, si se inhalan estos gases producen envenenamiento con síntomas de fiebre, escalofríos, temblores, malestar general, sudoración, calambres musculares y deshidratación.
+
+Recomendaciones:
+    • Protéjase usted primero. Use  una mascarilla o pañuelo húmedo.
+    • Saque la víctima de inmediato hacia otro ambiente.
+    • Déle oxigeno al 100% por cánula nasal o mascarilla.
+    • Si no respira realice las maniobras de reanimación inmediatamente.
+
+
+15.	EQUIPO DE CAMPO BASICO DE PRIMEROS AUXILIOS
+
+    • Vendas elásticas de 8 pulgadas.
+    • Vendas elásticas de 5 pulgadas.
+    • Vendas de gasa.
+    • Telas triangulares grandes.
+    • Paquetes de gasa.
+    • Paquetes de apósito.
+    • Funda de algodón.
+    • Soluciones antisépticas (alcohol, agua oxigenada, zavlón, etc.)
+    • Curitas.
+    • Termómetro bucal.
+    • Rollo de esparadrapo.
+    • Baja lenguas.
+    • Paquete de Jelonet.
+    • Crema de Garamicina.
+    • Tijeras.
+    • Pinza.
+    • Imperdibles.
+    • Analgésicos  tabletas de paracetamol, aspirina o novalgina.
+    • Colirio oftálmico a base de Tetrahidrozolina (Visina).
+    • Protector solar y labial.
+
+Recuerde: La cantidad y tipo de medicinas o insumos puede variar de acuerdo a la misión y su duración.
+
+16.	APLICACIÓN DE INYECCIONES
+
+En primer lugar es importante saber cual es el medicamento y para que se administra, lea nombre, dosificación y fecha de caducidad de la ampolla.
+
+    • Lávese cuidadosamente sus manos.
+    • Rompa la cabeza de la ampolla con cuidado, puede usar un algodón entre sus dedos para evitar cortarse. Si es frasco, solo retire la tapa protectora.
+    • Introduzca la punta de la aguja lentamente para aspirar y sacar el contenido. Maneje el material de manera aséptica (sin permitir que se contamine). Es importante que la punta de la aguja no toque ningún elemento externo, caso contrario se contaminará y tendrá que usar otra jeringuilla descartable.
+    • Luego de aspirar el contenido, tape nuevamente la aguja.
+    • Escoja bien el lugar de la inyección.
+    • Limpie el área con un algodón con alcohol.
+
+Vía intramuscular.-
+    • Para la vía intramuscular introduzca la aguja de manera perpendicular a la piel, penetrando piel, tejido celular subcutáneo (grasa) hasta llegar al músculo, si topa el hueso solo retire unos milímetros (Fig. 56).
+
+
+Fig. 56
+    • Aspire el émbolo hacia arriba sujetando con la otra mano el cuerpo de la jeringa, si sale sangre no inyecte, mueva la aguja unos milímetros y nuevamente aspire, si no sale sangre, podrá inyectar el contenido.
+    • Al terminar retire la aguja y presione levemente con un algodón con alcohol en el lugar de la punción. 
+    • Recuerde que el medicamento inyectado debe entrar en el músculo, si usted no ingresa la aguja lo suficiente, corre el riesgo de inyectarlo en la grasa del tejido celular subcutáneo, produciéndose  intenso dolor, irritación y complicaciones posteriores como quistes y abscesos. El paciente debe de estar siempre boca abajo, nunca de lado o de pie, porque podría introducir de manera incorrecta la aguja hacia el paquete vasculonervioso del glúteo
+        ◦    Cuando se va a inyectar en el glúteo, este se lo divide en cuatro partes, aplicándose la inyección en el cuadrante superior externo (Fig. 57), para no lesionar los nervios o vasos sanguíneos que pasan por en medio del glúteo, como podemos observar en el triangulo central de la (Fig. 58) Los músculos de los glúteos son grandes y permiten aplicar grandes cantidades de líquido.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Fig. 57           		                                     Fig. 58                                                            
+
+
+    • Para inyectar en el muslo se escoge la cara anterolateral del mismo a unos 20cm por arriba de la rodilla, esta zona está libre de vasos sanguíneos. 
+    • Para inyectar en el brazo, se traza una línea imaginaria en el borde posterior del brazo entre el codo y el hombro, dividiéndose el brazo en tres partes iguales, se podrá aplicar en la mitad del tercio medio. Los músculos del brazo son pequeños y no pueden recibir un volumen grande de medicamento. 
+
+Vía intravenosa.-
+    • Con el paciente acostado o sentado, coloque un torniquete suave alrededor del brazo. 
+    • Escoja una vena grande y de fácil acceso como las venas del dorso de la mano, 	venas prominentes del antebrazo o la vena cefálica del brazo (Fig. 59 A), si estas 	no son muy visibles, afloje el torniquete y pídale al paciente que abra y cierre el 	puño, en repetidas ocasiones con el brazo hacia abajo, hasta que se vea o palpe la 	vena con la punta de sus dedos, si late, no puncione porque se trata de una 	arteria, busque en otro sitio.  
+    • Limpie la zona con alcohol, traccione hacia abajo la piel con los dedos de una mano e introduzca la aguja en la vena a través de la piel con la punta del bisel hacia abajo (Fig. 59 B), con la jeringa en un ángulo de 15º aspire el émbolo, si sale sangre es señal que la aguja se encuentra en la vena. 
+    • Suelte el torniquete del brazo e inyecte lentamente el medicamento.
+    • Al terminar retire la aguja y presione con un algodón con alcohol el sitio de la punción por 2 minutos.
+    • Mantenga al paciente acostado y obsérvelo por unos 10 minutos.
+
+
+Fig. 59
+
+
+
+
+17.		REACCION ALERGICA
+
+Cualquier sustancia ingerida o inyectada puede causar graves reacciones alérgicas que se denomina Shock anafiláctico y se caracteriza por:
+    • Hinchazón de la cara y cuello (edema).
+    • Ronchas generalizadas.
+    • Dificultad respiratoria.
+    • Dolor en el pecho y abdomen.
+    • Color azulado o palidez generalizada de la piel y mucosas
+    • Caída de la presión arterial y colapso circulatorio.
+
+Recuerde: El paciente alérgico puede tener uno o varios de los síntomas antes mencionado. Antes de suministrar un medicamento es importante que usted sepa el antecedente alérgico del paciente.
+
+Tratamiento.-El tratamiento es escalonado y de acuerdo a la gravedad de los síntomas.
+    • Inyecte 250mg de Hidrocortisona (Solucortef) endovenoso en caso de edema (hinchazón). 
+    • Clemastina (Tavegyl) 1 mg una ampolla IV lenta si observa ronchas.
+    • En caso de colapso circulatorio aplique las medidas antishock y administre una ampolla de Adrenalina 1mg por vía subcutánea.
+    • Dé oxigeno si presenta dificultad respiratoria.
+
+
+
+18.	BIBLIOGRAFIA
+
+    1. Dirección de Sanidad Naval de la Armada de Chile, Instrucción de Atención de Primeros Auxilios, Valparaíso, Tercera Edición, 1975.
+
+    2. Menini, M. A., Manual Cruz Roja Española, First Aid Manual,  Primera Edición de Dorling Kindersley, Ediciones Grijalbo S.A., Londres, 1986.
+
+    3. New Zeland Antarctic Research Program, First Aid Manual Antarctic, Antarctic Division, Department of Scientific and Industrial Research, 1986.
+
+    4. Morales, L., Manual de Primeros Auxilios, Programa Antártico Ecuatoriano, INOCAR, 1993.
+
+    5. Instituto de Montañismo, Curso de Socorrista para Excursionismo, Cruz Roja Argentina, 1999
+
+    6. Dirección de Sanidad Naval, Manual de Primeros Auxilios, Armada del Ecuador, Segunda Edición, 2005.
+
+
+
+
+
+
+ANEXO 1
+
+TABLA II
+Características de la gravedad de la quemadura en la piel según su  profundidad 
+Grado y profundidad en la piel
+Síntomas y signos
+Pronóstico de la quemadura
+
+I (Solo epidermis)
+
+Dolor y eritema (enrojecimiento)
+Mínimo daño del tejido, se conserva la función protectora de la piel, no queda cicatriz residual, se cura en 5 días.
+II (Toda la epidermis y algo de la dermis)
+Dolor, eritema  y ampollas
+Queda poca cicatriz residual, se cura en 10 días.
+III (Toda la epidermis, dermis y subcutáneo)
+No hay dolor* ,
+la piel se torna blanca - pardusca o negra 
+Daño de las glándulas y vasos de la piel (muerte del tejido), quedan cicatrices retráctiles (encogimiento de la piel)
+* Por daño en los receptores del dolor
+ 
+
+TABLA III
+Cálculo de la superficie corporal quemada
+Región
+Zona quemada
+% de superficie quemada
+% Equivalente
+Cabeza
+Cara, frente y cuello anterior.
+
+Cráneo y cuello posterior 
+4,5
+
+
+
+4,5
+
+
+9
+Miembros superiores
+Derecho
+
+
+Izquierdo
+
+
+Anterior
+Posterior
+
+Anterior
+Posterior
+
+4,5
+4,5
+
+4,5
+4,5
+
+9
+
+
+9
+
+Tórax
+Pecho
+
+Espalda
+9
+
+9
+9
+
+9
+Abdomen
+Anterior
+
+Cintura y nalgas
+9
+
+9
+9
+
+9
+Genitales y periné
+
+1
+1
+Miembros inferiores
+Derecho
+
+
+Izquierdo
+
+Anterior
+Posterior
+
+Anterior
+Posterior
+
+9
+9
+
+9
+9
+
+9
+9
+
+9
+9
+TOTAL
+100%
+100%
+
+
+

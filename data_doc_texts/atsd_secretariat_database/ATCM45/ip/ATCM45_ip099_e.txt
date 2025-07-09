@@ -1,0 +1,144 @@
+Renovation of the Deception Island Volcanic Surveillance Network
+English version provided by the author
+Renovation of the Deception Island volcanic surveillance network
+Summary
+Since the 2021-2022 campaign, Spain has been updating and
+completing the volcanic surveillance network that it has been
+deploying on Deception Island during the Antarctic summer
+operating months of the Gabriel de Castilla Spanish Antarctic
+Station. Recording more data and parameters enables better
+observation and assessment of volcanic activity on the island,
+increasing the safety of operations. We invite the Parties to share
+similar information on their surveillance networks, and to work
+together to forge regional networks.
+Introduction and background
+Deception Island is one of the most active volcanoes in the
+Antarctic, and one of the most interesting areas from a tectonic
+standpoint, owing to its location within a complex geodynamic
+context consisting in the confluence of different tectonic units: the
+South American Plate, Antarctic Plate, and the Scotia, Phoenix and
+South Shetland Microplates.
+Over the past two centuries, 20 volcanic eruptions have been
+recorded that generated lava flows, lahars, ejections of pyroclastic
+material, pyroclastic flows, and phreatic explosions. The first
+eruption on which data is available occurred in 1842, and the most
+recent between 1967 and 1970. The latter events changed and
+expanded the island’s morphology, destroying two Antarctic
+stations: the Pedro Aguirre Cerda Station (Chile) and Station B
+(United Kingdom). Since 1970, no eruptions have been recorded on
+Deception Island, although there have been three seismic crises: in
+1992, 1999, and 2014-2015. It is, therefore, an active volcanic
+island, with major periods of activity.
+Since 1986, the surveillance and study of this seismic activity and
+of the deformation of the island have been conducted mainly as
+part of Spanish campaigns during the Antarctic summer. To carry
+out comprehensive volcanic surveillance, and to open the Gabriel
+de Castilla Station under safe conditions, it is necessary to observe
+and analyse volcanic activity before the summer campaign.
+Therefore, since 2020 the Spanish National Geographic Institute
+(IGN) has monitored, assessed, and generated alerts for volcanic
+activity on Deception Island.
+During the 2021-2022 campaign, IGN (the agency responsible for
+the surveillance in Spain of seismic and volcanic activity, as well as
+other geophysical phenomena) launched a renovation of its volcanic
+surveillance network by installing permanent seismic and geodetic
+stations, which send signals in real time to IGN’s headquarters in
+Madrid. This network will be expanded until it is able to maintain
+sufficient and ongoing monitoring.
+Composition and renovation of the volcanic surveillance network
+The Deception Island volcanic surveillance network comprises a
+seismic network and a geodetic network.
+The seismic network currently has five broadband stations (installed
+during the 2021-2022 and 2022-2023 campaigns) distributed across
+the island, as shown in Figure 1 of the Appendix. Real-time seismic
+data are sent via Wi-Fi to Gabriel de Castilla Station, from which
+they are transmitted via satellite to the data reception centre of the
+Spanish National Seismic Network in Madrid.
+To improve seismic surveillance on the island, a number of actions
+were taken during the 2022-2023 campaign to improve the initial
+configuration of the network following its 2021-2022 installation.
+This renovation work focused on the following:
+Improving sensor sites
+The seismic stations are heavily impacted by meteorological
+conditions on the island. The strong winds there seriously disrupt
+seismic surveys. To mitigate these issues, sensors were sunk
+approximately 180 cm underground. This resulted in a substantial
+improvement to data registration.
+Improving the hypocentral location
+To achieve better hypocentral location for earthquakes in the
+region, a seismic station was installed on Livingston Island (LVN),
+near Juan Carlos I Station (see Figure 2).
+Analysing seismic activity
+The procedure employed to analyse seismicity is similar to that
+used in recent years. First, an automatic picking system, using a
+short-time average over long-time average (STA/LTA) algorithm,
+was installed, which operates for each station independently. Once
+the P and/or S phases have been detected and automatically picked,
+the system looks for a possible association for the formation of a
+seismic event. For this second purpose, the difference in arrival
+times between the S and P phases observed is calculated, and if it is
+lower than a set limit, they are associated with the same event
+(Figure 7). Once the event is declared, it is hypocentrally located
+with the routine automatic and manual processes established for
+24/7 continuous monitoring by the National Seismic Network.
+Geodetic volcanic surveillance network on Deception Island
+Deployment has begun for an IGN geodetic network, which to date
+has comprised the four permanent global navigation satellite system
+(GNSS) stations installed (Figure 3).
+In the immediate surroundings of these four permanent GNSS
+stations, levelling pins have been installed to serve as reference and
+control points in case movements are observed at the stations that
+could be due to the movement of the mounting cases themselves,
+especially the newly installed ones.
+Lastly, survey points have been established to be observed using a
+real-time kinematic (RTK) system, which surrounds the entirety of
+Port Foster Bay. This itinerary comprises 13 points, some of which
+formed part of the pre-existing geodetic network and others of
+which were installed during the present campaign. The addition of
+these survey points to the permanent stations means that the
+network now has observation points of no more than 1 km apart all
+around the inner ring of Deception Island. Their distribution,
+together with that of the permanent stations, can be seen in Figure
+4.
+Analysis of ground deformation
+The analysis of ground deformation is conducted based on data
+obtained from GNSS observations and the use of interferometric
+synthetic aperture radar (InSAR).
+The strategy proposed for analysing the data obtained through
+GNSS observation involves three different processes for the entire
+network: processing daily data to generate daily coordinate
+solutions; processing hourly data to generate sub-daily coordinate
+solutions; and calculating baselines between the different network
+stations.
+In addition to GNSS observation, ground surface deformation
+analysis is conducted for the entire island using InSAR. At present,
+work is being conducted using Sentinel-1 satellite images, as part of
+the Copernicus European Earth Observation Programme. With each
+new satellite acquisition, three outputs are generated: an
+interferometric coherence map, a phase interferogram, and a
+displacement map.
+Conclusions
+Through these IGN efforts, Spain has continued to strengthen the
+volcanic surveillance network on Deception Island, installing new
+stations and improving their locations. A 24/7 year-round seismic
+analysis protocol has been established by the Spanish National
+Seismic Network.
+The deployment of a geodetic network has begun, with the
+installation of GNSS instruments featuring newly built mounting
+cases. The transmission of GNSS data to Spain has begun, and
+different processing flows have been developed for these data, both
+at IGN headquarters and at Gabriel de Castilla Station.
+The more comprehensive the surveillance network, the better the
+observation of seismic activity will be. These local networks should
+be incorporated into regional networks to enable more precise
+interpretation of the data observed. The Parties are urged to share
+information about their surveillance networks, and to work together
+to create regional networks.
+Appendix
+Figure I. Sites of the five real-time broadband seismic stations
+installed by IGN on Deception Island
+Figure 2. Site of the seismic station installed on Livingston Island to
+improve signal discrimination and the location of regional seismic
+activity
+Figure 3. Location of the GNSS stations on Deception Island
+Figure 4. Location of survey points in the RTK system

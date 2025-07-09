@@ -1,0 +1,134 @@
+﻿
+
+
+
+
+
+An Update on Status and Trends Biological Prospecting in Antarctica and Recent Policy Developments at the International Level
+
+
+
+
+
+
+
+
+
+
+An Update on Status and Trends Biological Prospecting in Antarctica and Recent Policy Developments at the International Level
+
+    1. Introduction
+
+The present Working Paper provides an update on the status and trends of biological prospecting in Antarctica, as well as a review of recent relevant policy developments at the international level.Biological prospecting continues to be a topic of interest and concern to the Parties of the Antarctic Treaty System, with discussions having taken place at nearly every meeting of the ATCM in recent years. In addition, Resolution 9 (2009) recommended that Parties keep this matter under active consideration.
+
+The paper demonstrates that there continues to be considerable and growing activity in patenting of uses and applications based on Antarctic genetic and living resources, and thus biological prospecting should be included in the Longterm Strategic Work Plan of the ATCM.
+
+At the same time, discussions in international policy fora, such as the Convention on Biological Diversity and its Nagoya Protocol, as well as the United Nations Ad Hoc Open-ended Informal Working Group to study issues relating to the conservation and sustainable use of marine biological diversity beyond areas of national jurisdiction, continue to make progress in addressing genetic resources, including access and benefit-sharing issues. Thus, keeping biological prospecting on the agenda of future ATCMs ensures that Parties can discuss these developments, and where needed, find solutions that are specific to the situation in Antarctica.
+
+Section 2 of this Working Paper presents a new analysis of trends in the patenting of Antarctic species based on large scale text mining of 11 million patent documents for 6 million species names in the patent collections of the United States, the European Patent Convention and the Patent Cooperation Treaty for the period of 1976-20101. This analysis also demonstrates that it is possible to map the geographic location of species used for patents based on information available in species-related databases. Section 3 provides specific examples of patents related to Antarctic genetic and living resources that have been filed since the last ATCM. Collectively, these sections show that biological prospecting continues in the Antarctic Treaty Area, and the number of patents filed has been steadily increasing. Finally, section 4 provides updates on recent policy developments relevant to genetic resources, biological prospecting, and access and benefit-sharing which have taken place in relevant international fora.
+
+
+    2. Trends in biological prospecting in Antarctica
+
+Antarctic species have become an increasing focus of commercial and policy interest. Patent data provides an important proxy indicator for commercial research and development involving Antarctic species. A comprehensive review of patent information, scientific literature and publicly available material relating to products led to the development, by the Government of Belgium with assistance of United Nations University, of the Antarctic Biological Prospecting Database, and a review of its contents was submitted to ATCM 32 in the form of Working Paper 11 (the Antarctic Biological Prospecting Database), with an update on findings submitted to ATCM 35 as Information Paper 63. While these papers mainly use patents filed as a proxy of commercial intent, it should be noted that not all patents become commercially viable products in the end, and that not all products on the market were patented first. Both of these papers found that there is significant commercial interest in Antarctic genetic resources.
+
+Working paper 2 submitted by SCAR to ATCM 33 found that, based on a survey, a substantial proportion of SCAR members are involved in research in the Antarctic region that could be considered biological prospecting. The paper concluded that based on a conservative assessment of current published literature and from the survey of SCAR members, bioprospecting research in the Antarctic region and/or involving Antarctic organisms is extensive and widespread. As an illustration of this, the SCAR lecture at ATCM 33 addressed the biochemical properties of cold-loving micro-organisms and gave examples of their application in biotechnology.
+
+This paper presents the existing data for Antarctic species within the Access and Benefit-Sharing Patent Index (ABSPAT). The data is based on large scale text mining of 11 million patent documents for 6 million species names in the patent collections of the United States, the European Patent Convention and the Patent Cooperation Treaty. The data covers the period 1976-2010 only. Species identified in patents are then mapped using available distribution data from the Global Biodiversity Information Facility (GBIF). 
+Two types of data are available for Antarctic species. 
+
+    1. Species recorded in Antarctica that are also recorded elsewhere in the world. This data includes species that were identified in Antarctica and subsequently identified elsewhere, some of which could be considered cosmopolitan. It may also include species that have been introduced into the Antarctic environment, such as by humans and companion organisms (i.e. huskies before the entry into force of the Protocol of Madrid).
+
+    2. Species that initial data from GBIF suggests may only have been recorded in Antarctica, and may be potential endemics. That is, only one record exists for the country of distribution of the species in GBIF. This measure depends on the completeness of the GBIF distribution records for a species. As such it is tentative and only provides a clue that a species may be specific to Antarctica. 
+
+A total of 439 species appearing in patents were recorded. These species are known to be distributed in Antarctica from GBIF records. They include both cosmopolitan and potentially endemic species. The top ranking organisms will typically be well known and widely distributed (see figure 1 below).
+
+
+
+Figure 1: Known Antarctic species appearing in patents. Source: Access and Benefit-­Sharing Patent Index (ABSPAT). Oldham, Hall and Forero (under review) Biological Diversity in the Patent System. PLOS ONE. Note that Antarctic krill (Euphausia superba) should likely be higher in the list. However, patent applications generally refer to Antarctic krill by its common name rather than its scientific name, and thus data mining based on scientific names likely misses many krill-related patents.
+
+Figure 2 below shows trends in patent applications and grants, top applicants and areas of technology for the overall data involving species recorded in Antarctica. An increasing trend is observable in patent applications. This is partly, but not wholly, explained by a change in US patent office practice in 2001 when they began to publish both patent applications and patent grants (prior to 2001 the US only published granted patents). However, even taking into account this reporting effect, the upward trend is marked.  
+
+
+
+Figure 2: Trends in applications and grants, top applicants and areas of technology for the overall data involving species recorded in Antarctica. A. Patent Trends All Species Recorded in Antarctica (GBIF records). B. Species Recorded in Antarctica. C. Top Applicants Ranked on Publications. D. Technology Areas. Source: Access and Benefit­Sharing Patent Index (ABSPAT, 2012 edition).
+
+
+Figure 3 below shows the global distribution of species appearing in patent documents that have been recorded in Antarctica. This slide exposes the basic point that these species are typically distributed in more than one country. However, compared with wider global distribution data (not shown), the concentration of Antarctic records in Bacteria, Fungi and Chromista is striking. Animalia will mainly refer to fish and krill. In global ABSPAT data, plants feature much more prominently.
+
+
+Figure 3: The global distribution of species that have been recorded in Antarctica in patents. Note the large proportion of micro-organisms amongst species appearing in patents.
+
+
+The map in figure 4 below focuses on species recorded in patents that to date are only recorded in the GBIF database as being distributed in Antarctica, and are thus potential endemics. It should be emphasised that these data are tentative because GBIF distribution records are not complete. That is, GBIF depends on collections submitting species information and distribution data. We regard these data as simply providing an indication that a species or sample in a patent may have originated from Antarctica. We call this data Distribution 1. A total of 77 species appear in this map for Distribution 1 and are clearly dominated by Bacteria.
+
+
+
+Figure 4: Species only recorded in Antarctica in patents. A total of 77 species appear in this map and are clearly dominated by Bacteria.
+
+
+Figure 5 below shows the trends and main species and actors involved in patent activity involving species only recorded in Antarctica (those shown in figure 4). It should be noted that because of the limitations of GBIF data, it should not be assumed that applicants actually engaged in field collections in Antarctica.
+
+
+
+Figure 5: Trends in species in patents only recorded in Antarctica in GBIF records.
+
+
+One of the remaining research questions concerns the exact geographic locations where species have been recorded. As an experiment in answering this question, a small sample of georeferenced data was downloaded from GBIF for species appearing in patents, and can be seen in figure 6. As such, this figure does not present a full picture for Antarctic species. It merely demonstrates that it is possible to map georeferenced data. This approach should be developed in any future work and cross referenced with data on collection sites that might appear in patent texts.
+
+
+
+Figure 6: GBIF occurrence data for Antarctic species in patents (Test Sample of Georeferenced Data).
+
+Figure 7 below shows that the georeferenced data can include information on the organisation that recorded the sample. This type of information could potentially include links to literature, as well as be linked to the Antarctic Biological Prospecting Database (www.bioprospector.org) as well as existing species databases, such as the SCAR databases.
+
+
+
+Figure 7: GBIF occurrence data for Antarctic species in patents (Test Sample of Georeferenced Data). This figure demonstrates that it is possible to include ancillary data in maps, such as information about the organisation collecting the sample.
+
+In conclusion, the analysis above demonstrates a considerable and increasing patenting trend related to Antarctic organisms. The analysis also highlights the need for more research on this topic, including further development of linked databases and geographically referenced maps, which can serve to improve the informational basis for discussions at the ATCM.
+
+
+    3. Some recent examples of biological prospecting in Antarctica
+
+This section of the paper provides highlights of patents and applications that date from the period between ATCM 35 and ATCM 36, roughly covering the time period from mid-2012 to March 2013. The analysis is not comprehensive, but rather aims to provide examples of developments since Information Paper 63 (ATCM 35). 
+
+Acommon patented application relates to industrial uses and biotechnology, including enzymes. An example of this type of application is a patent granted to the University of Chile (EP2393925) for a method of preparing a cold adapted xylanase, isolated from Antarctic marine origin (preferably Antarctic bacteria Psychrobacter sp.).The xylanase can be used in a variety of industrial contexts, including biofuels, animal feed, baking, and paper industries. Another example relates to a method to improve the properties of a dough and/or a baked product by adding a bread or dough-improving agent containing an enzyme with xylanolytic activity from the Antarctic bacterium Pseudoalteromonas haloplanktis (patent US8309336 granted to Université de Liège, Belgium). A third example relates to nucleic acid and corresponding amino acid sequences of a cold adapted subtilisin-like activity protein, isolated from Antarctic marine bacteria (Polaribacter sp) that can be used in a variety of industrial contexts and for commercial purposes, including laundry detergents, food processing, leather processing and skin care products (US20120264191 filed by University of Chile).
+
+Antarctic plants are also patented for use as skin care product. An example of this type of use is a patent granted to entities in Chile and Spain relating to a compound that will protect the skin from the sun’s UVA and UVB rays (US8357407). The compound is based on an extract obtained from the plant Deschampsia antarctica. 
+
+Several new patents and applications relate to the development of pharmaceuticals. An example includes a patent application involving novel compounds synthesized from extracts of the Antarctic lichen Stereocaulon alpinum,which are proposed for preventing or treating diabetes or obesity. The patent applications (WO2012046945; KR2011/004836) were filed by the Korea Ocean Research and Development Institute. Other pharmaceutical applications can be found in the list of krill-related patents below.
+
+The increasing trend in patents related to krill oil and krill extracts also continues. The patents and applications include preparation of shrimp grease and concentrate from krill (WO/2012/079219; CN2010/079749 filed by Dalian Polytechnic University, China); method for preparing krill oil (WO2012071768; CN2011/000678 filed by an entity in China); for treating lifestyle-related diseases such as obesity, visceral fat accumulation, hyperlipemia, hyperuricemia, diabetes, and liver disease (JP2011116680 filed by Nippon Suisan Kaisha, Japan); krill oils for therapeutic uses (US8383675 and USUS8278351 granted to Neptune Technologies &Bioressources, Inc., Canada, as well as patent application 20120277196); production of krill meal for phospholipid and protein tablets (US8372812 granted to Aker Biomarine, Norway); use of krill oil for alleviating joint pain and symptoms of osteoarthritis and/or rheumatoid arthritis (US20130005828 and 20130004582 filed by U.S. Nutraceuticals and Valensa International); use of krill oil compounds for retarding and ameliorating eye diseases (US20130005692 also filed by U.S. Nutraceuticals andValensa International); and use of krill meal and oil in nutritional supplements (US20120231087 filed by Olympic Seafood, USA). The list of patents highlights the continuing and growing interest in nutraceuticals, pharmaceuticals and other products made from krill, and is of potential environmental concern due to the need to harvest krill resources in order to manufacture the products.
+
+Together, the examples of patents and applications provided here demonstrate a continuing commercial interest in Antarctic genetic and living resources.
+
+
+    4. Recent policy developments at the international level
+
+Recent policy developments relevant to genetic resources, bioprospecting and access and benefit-sharing have taken place in a number of international fora. Of particular note are the developments within the Convention on Biological Diversity (CBD), the UN Ad Hoc Open-ended Informal Working Group on conservation and sustainable use of marine biological diversity in areas beyond national jurisdiction, and the International Treaty on Plant Genetic Resources for Food and Agriculture, which are described below.
+
+        4.1 The Convention on Biological Diversity – Nagoya Protocol
+The tenth meeting of the CBD Conference of the Parties (COP-10), which took place in Nagoya, Japan, in October 2010, adopted the Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization to the Convention on Biological Diversity. The Nagoya Protocol is an international agreement which aims at sharing the benefits arising from the utilization of genetic resources in a fair and equitable way, including by appropriate access to genetic resources and by appropriate transfer of relevant technologies, taking into account all rights over those resources and to technologies, and by appropriate funding, thereby contributing to the conservation of biological diversity and the sustainable use of its components. The Nagoya Protocol is expected to enter into force in time for COP-12 in October 2014.
+The Nagoya Protocol applies to genetic resources that are covered by the CBD, and to the benefits arising from their utilization. The Nagoya Protocol sets out core obligations for its contracting Parties to take measures in relation to access to genetic resources, benefit-sharing and compliance. The Protocol will create greater legal certainty and transparency for both providers and users of genetic resources by establishing more predictable conditions for access to genetic resources, and by helping to ensure benefit-sharing with the provider country of the genetic resources that are accessed based on mutually agreed terms. The Protocol as adopted only applies within national jurisdictions of countries, and provides for bi-lateral transfer of genetic resources between provider countries and users. However, Article 10 of the Protocol leaves open the possibility for developing a global multilateral benefit-sharing mechanism in the future.
+The first meeting of the Intergovernmental Committee for the Nagoya Protocol (ICNP) took place in June 2011. The Committee adopted four recommendations in preparation of the first meeting of the Conference of the Parties serving as the Meeting of the Parties to the Nagoya Protocol (COP/MOP1), namely on the Access and Benefit-sharing clearinghouse, capacity building and development, awareness raising, and compliance procedures, setting in motion a series of intersessional activities to advance the preparations for the Protocol’s entry into force. The Protocol is currently in a process of transitioning from negotiation to implementation mode.
+The second meeting of the ICNP was held from 2-6 July 2012, in New Delhi, India. It was preceded by a capacity-building workshop on ABS, co-organized by the Secretariats of the CBD and the International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGR), held from 30 June - 1 July 2012.
+ICNP 2 adopted eight recommendations in  preparation of the COP/MOP1 of the Nagoya Protocol, namely on: modalities of operation of the ABS clearing-house; measures to assist in capacity building, capacity development and strengthening of human and institutional capacities in developing countries; measures to raise awareness of the importance of genetic resources and associated traditional knowledge; cooperative procedures and institutional mechanisms to promote compliance with the Protocol and address cases of non-compliance; the need for, and modalities of, a global multilateral benefit-sharing mechanism (Article 10); guidance for the financial mechanism; guidance for resource mobilization for the Protocol’s implementation; and future work in preparation for the first meeting of the COP/MOP1.
+ICNP 2 served its objective to prepare for implementation and entry into force by identifying questions that demand clarification at the international level. Although entry into force is expected to take at least another two years, many countries showcased impressive legislative and policy developments, highlighting that the Protocol is already making a difference at the domestic level.
+In October 2012, the 11th meeting of the Convention on Biological Diversity (Hyderabad, India), endorsed the intersessional work towards COP/MOP1 and a third meeting of the ICNP will take place early 2014 to discuss among others the need for, and modalities of, a global multilateral benefit-sharing mechanism (Article 10). A preparatory process for Article 10 has been put in motion through an online discussion forum.
+
+        4.2 The Ad Hoc Open-ended Informal Working Group on conservation and sustainable use of marine biological diversity in areas beyond national jurisdiction (The Working Group)
+The discussion related to marine genetic resources beyond national jurisdiction has been taken up at the highest policy level of the United Nations, i.e. the General Assembly. In 2005, the General Assembly had established an Ad Hoc Open-ended Informal Working Group to study issues relating to the conservation and sustainable use of marine biological diversity beyond areas of national jurisdiction (hereinafter referred to as the Working Group). Since the first meeting of the Working Group, in 2006, issues related to marine genetic resources beyond areas of national jurisdiction, and in particular the applicable legal regime, have been central to the discussions.
+All issues under consideration by the Working Group, including marine genetic resources, marine protected areas (MPAs) and environmental impact assessments (EIAs), were bundled into a package as an outcome of the 2011 meeting of the Working Group (endorsed by General Assembly resolution 66/231), and continue to be considered together. The General Assembly decided to initiate a process, within the Working Group, with a view to ensuring that the legal framework for the conservation and sustainable use of marine biodiversity in areas beyond national jurisdiction effectively addresses those issues by identifying gaps and ways forward, including through the implementation of existing instruments and the possible development of a multilateral agreement under UNCLOS. The process is mandated to consider, together and as a whole, marine genetic resources, including questions on the sharing of benefits, measures such as area-based management tools, including marine protected areas, and environmental impact assessments, capacity-building and the transfer of marine technology.
+The 2012 meeting of the Working Group recommended, and the General Assembly subsequently decided, that some of the aspects discussed at the meeting of the Ad Hoc Open-Ended Informal Working Group will be further addressed in intersessional workshops to be held in 2013 with a view to improving understanding of the issues and clarifying key questions as an input to the work of the Working Group. The intersessional meetings will take place 2 to 3 May 2013 and
+6 to 7 May 2013. The meeting of the Working Group will take place 19 to 23 August 2013.
+The results of the June 2012 Rio+20 meeting also had an important impact on the UN Working Group process. In particular, paragraph 162 of the Rio+20 outcome document states: “We recognize the importance of the conservation and sustainable use of marine biodiversity beyond areas of national jurisdiction. We note the ongoing work under the auspices of the General Assembly of the Ad Hoc Open-ended Informal Working Group to study issues relating to the conservation and sustainable use of marine biological diversity beyond areas of national jurisdiction. Building on the work of the Ad Hoc Open-ended Informal Working Group and before the end of the sixtyninth session of the General Assembly, we commit to address, on an urgent basis, the issue of the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction, including by taking a decision on the development of an international instrument under the Convention on the Law of the Sea.”
+
+        4.3 The International Treaty on Plant Genetic Resources for Food and Agriculture (ITPGRFA)
+The International Treaty on Plant Genetic Resources for Food and Agriculture(ITPGRFA), which entered into force in 2004, is a comprehensive treaty whose objectives are the conservation and sustainable use of plant genetic resources for food and agriculture (PGRFA) and the fair and equitable sharing of benefits derived from their use, in harmony with the CBD, for sustainable agriculture and food security. The centrepiece of the Treaty is a ‘multilateral system (MLS) for access and benefit-sharing’ which for certain categories of PGRFA guarantees facilitated access in return for benefit-sharing.
+The fourth session of the Governing Body (GB 4) took place in March 2011, and decided, inter alia, to form a an Ad Hoc Technical Advisory Committee to review the implementation of the MLS. A report on the implementation will be provided to the fifth session of the Governing Body in September 2013. The Second High-Level Round Table on the ITPGRFA took place in Rio de Janeiro Brazil, in June 2012 during the Rio+20 Summit. The event fostered discussions among ITPGR parties, stakeholders and experts on pressing issues regarding the conservation of biological diversity, the sustainable use of its components, and the fair and equitable sharing of the benefits arising from the use of genetic resources. The discussion in particular focused on: the interaction between economy, biodiversity and food security; the ITPGR innovative mechanisms such as the Multilateral System of Access and Benefit-sharing and its Benefit-sharing Fund; and the potential monetary and non-monetary benefits arising from the utilization of plant genetic resources for food and agriculture. Meeting participants agreed to adopt as recommendations of the Round Table a six-point action plan for the ITPGR.
+
+    5. Conclusions and recommendations
+This paper demonstrates that there continues to be considerable and growing activity in patenting of uses and applications based on Antarctic genetic and living resources, and that discussions related to genetic resources, including access and benefit-sharing, are ongoing in international policy fora. Draft recommendations related to this topic can be found in the corresponding Working Paper submitted by the Governments of Belgium, The Netherlands and Sweden.
+
+

@@ -1,0 +1,322 @@
+CEP/IP 
+May 2001 
+Agenda Item: 8 
+Original: English 
+ 
+ 
+ 
+CCAMLR’s EXPERIENCE WITH DATA MANAGEMENT 
+ 
+ 
+CCAMLR Secretariat 
+ 
+ 
+Commission for the Conservation of Antarctic Marine Living Resources 
+PO Box 213   North Hobart   Tasmania   7002  Australia 
+email: ccamlr@ccamlr.org     website: www.ccamlr.org 
+ 
+ 
+ 
+Table of Contents 
+ 
+Page 
+ 
+ 
+Summary 
+1 
+Introduction 
+2 
+Data Management 
+3 
+Key Issues in Data Management 
+3 
+Discussion 
+4 
+Appendix 1 
+5 
+ 
+ 
+ 
+ 
+ 
+SUMMARY 
+ 
+ 
+This paper addresses CEP’s request to the CCAMLR Secretariat to provide information on its 
+experience with data management including consideration of annual reports.  
+ 
+Under Article IX of the Convention on the Conservation of Antarctic Marine Living 
+Resources, CCAMLR is responsible for the acquisition, compilation, analysis and 
+dissemination of data on all fishery and research activities conducted on exploited, dependent 
+and related species within the Convention Area. These data are submitted to the CCAMLR 
+Secretariat and are managed in line with established rules of access and use, and the 
+increasing needs of the Commission and Scientific Committee. 
+The management of CCAMLR data (including the new Catch Documentation Scheme for 
+toothfish) has grown into a major activity of the Secretariat, and a core group of seven staff 
+are involved with data processing and validation, data correspondence, data analysis, and 
+database administration, development and maintenance. In addition, other staff are involved 
+with data-related activities such as the preparation of standard methods and the dissemination 
+of data on the website. 
+ 
+Key issues of possible interest to CEP are discussed in general terms. 
+ 
+ 
+2
+INTRODUCTION 
+ 
+This paper addresses CEP’s request to the CCAMLR Secretariat to provide information on its 
+experience with data management including consideration of annual reports (CEP-III, 
+paragraph 116). 
+ 
+The CCAMLR Secretariat is responsible for the management, routine analysis and 
+dissemination of large and diverse datasets collected within, and outside, the CCAMLR 
+Convention Area. Many of these data originate from: 
+ 
+• 
+research in support of CCAMLR’s Ecosystem Monitoring Program (CEMP); 
+• 
+fishing operations within the Convention Area; 
+• 
+the Catch Documentation Scheme for toothfish; and 
+• 
+compliance issues. 
+ 
+The types of data managed include: 
+ 
+• 
+biological data on land-based predators; 
+• 
+data on marine debris; 
+• 
+vessel specifications and licences; 
+• 
+fishery catch, effort and biological data; 
+• 
+scientific observations aboard fishing vessels; 
+• 
+acoustic survey data; and 
+• 
+landings and trade data. 
+ 
+ 
+DATA MANAGEMENT 
+ 
+CCAMLR data are held by the Secretariat in databases developed and maintained in line with 
+the increasing uses of data by the Commission, Scientific Committee and Working Groups. 
+About one third of all data held in the CCAMLR databases have been submitted within the 
+past three years, and approximately 15% of all records were processed in the 1999-2000 
+intersessional period (Fig. 1).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1: 
+Amount of data processed by the CCAMLR Secretariat, expressed as a 
+percentage of the total amount of data processed to October 2000. 
+ 
+0
+25
+50
+75
+100
+1985
+1990
+1995
+2000
+Year
+Amount of data processed
+ (% of total)
+ 
+3
+This increase in data reflects increases in the number of activities conducted in the 
+Convention Area, the amount of detail submitted, and the number of issues considered by the 
+Commission. Linked to this, routine analyses conducted by the Secretariat are growing in 
+number and complexity, and there is an increasing amount of correspondence between data 
+originators, data users and the Secretariat. 
+ 
+Today, the management of CCAMLR data is a major activity of the Secretariat, and a core 
+group of seven staff are involved with data processing and validation, data correspondence, 
+data analysis, and database administration, development and maintenance. In addition, other 
+staff are involved with data-related activities such as the preparation of standard methods and 
+the dissemination of data on the website. 
+ 
+Several key issues of possible interest to CEP are highlighted in the following section. 
+ 
+ 
+KEY ISSUES IN DATA MANAGEMENT 
+ 
+Standard Methods for Collecting and Reporting Data 
+ 
+Standardisation of data collection and reporting is essential for consistency and quality of 
+data. CCAMLR makes every effort to ensure that data are collected according to standard 
+methods, and submitted on standard formats using standard codes. CCAMLR publications 
+such as the Scientific Observer Manual and the CEMP Standard Methods provide detailed 
+procedures for collecting and submitting data. Increasingly, CCAMLR Member countries are 
+using the Internet to download data forms and guidelines from the CCAMLR website, and 
+submit data via email. Electronic data forms have been developed using Microsoft Excel 
+format. 
+ 
+Rules for Access and Use of Data 
+ 
+Most of the data submitted to CCAMLR are confidential, and all data are subject to strict 
+rules of access and use. Originators/owners of data retain control over any use of their 
+unpublished data outside of CCAMLR. The rules cover the use of data for analyses in support 
+of the work of CCAMLR as well as analyses conducted outside of CCAMLR’s core business. 
+The rules are listed in Appendix 1. 
+ 
+Data Analysis 
+ 
+CCAMLR data are central to the work of the Scientific Committee and its Working Groups, 
+and the Standing Committee on Observation and Inspection. A major element of this work is 
+the formulation of scientific advice on the management of fisheries and marine living 
+resources within the Convention Area. Analyses are conducted by the Secretariat and 
+Members based on data released under the rules of access and use. Most analyses are reported 
+in meeting documents and the dissemination of these documents is restricted to meeting 
+participants. Following review of these analyses, key findings and summary data may be 
+published in the reports of the meetings. Data originators usually participate in the meetings. 
+ 
+Annual Reports 
+ 
+The Secretariat reports annually on the collection, processing and analysis of CCAMLR data. 
+These reports include: 
+ 
+• 
+CCAMLR Statistical Bulletin; 
+• 
+Updates to CEMP Standard Methods and Scientific Observer Manual; 
+ 
+4
+• 
+Analysis of trends and anomalies in CEMP indices; 
+• 
+Analysis of trends in the abundance of marine debris; 
+• 
+Implementation of Conservation Measures; 
+• 
+Implementation of the Catch Documentation Scheme; 
+• 
+Data Management report; 
+• 
+Summary of notifications for new and exploratory fisheries; 
+• 
+Summary of observations on compliance; and 
+• 
+Summary of scientific observations on fishing vessels. 
+ 
+Meeting Reports  
+ 
+All reports of CCAMLR meetings are reviewed and adopted by participants during the course 
+of the meetings. Some reports are subsequently reviewed by the Scientific Committee and/or 
+the Commission. Members also have a limited opportunity to review reports immediately 
+after meetings. Most reports are published. Reports may reference confidential data submitted 
+in meeting documents, or include a summary of these data (eg catch by area by season).  
+ 
+Website 
+ 
+The CCAMLR website (www.ccamlr.org) provides a framework for organising, presenting 
+and delivering information to Member countries, related organisations and the general public 
+in the four official languages. Information is delivered at two general levels: (1) general 
+information and some published material is available to Members and the general public via 
+open-access web pages; and (2) detailed information, meeting business and selected datasets 
+is restricted to approved users via password-protected web pages. The responsibility for 
+issuing passwords within a Member country is devolved to the representatives of the 
+Commission and Scientific Committee. 
+ 
+ 
+DISCUSSION 
+ 
+Under Article IX of the Convention on the Conservation of Antarctic Marine Living 
+Resources, CCAMLR is responsible for the acquisition, compilation, analysis and 
+dissemination of data on all fishery and research activities conducted on exploited, dependent 
+and related species within the Convention Area. These data are submitted to the CCAMLR 
+Secretariat and are managed in line with established rules of access and use, and the 
+increasing needs of the Commission and Scientific Committee. 
+The integrity of the data are protected by established standard procedures for collecting and 
+submitting data, and routine validation and analysis of the data and maintenance of databases. 
+The contribution of these data towards meeting CCAMLR’s objectives increases as the times 
+series lengthen.  
+ 
+The cost of managing the data represents a significant component of the Secretariat’s annual 
+budget: seven core staff are required, as well as other staff involved in data-related activities. 
+Computer systems need to be maintained and upgraded as the amount of data increases, and 
+technology advances. However, data management costs are an insignificant fraction of the 
+value of the marine resources and associated fisheries managed by CCAMLR. 
+The Secretariat would welcome the opportunity to further discuss its experience with data 
+management. 
+ 
+ 
+ 
+ 
+5
+APPENDIX 1 
+ 
+RULES FOR ACCESS AND USE OF CCAMLR DATA 
+ 
+ 
+ 
+ 
+The following Rules for Access and Use of CCAMLR Data were adopted by the Eleventh 
+Meeting of the Commission (CCAMLR-XI, paragraph 4.35): 
+ 
+(a) 
+All data submitted to the CCAMLR Data Centre should be freely available to 
+Members for analysis and preparation of papers for use within the Commission, the Scientific 
+Committee and their subsidiary bodies. 
+ 
+(b) 
+The originators/owners of the data should retain control over any use of their 
+unpublished data outside of CCAMLR. 
+ 
+(c) 
+Requests to the Secretariat by individual scientists of a Member for access to data in 
+the CCAMLR Data Centre will only be considered if the request has been approved in writing 
+by the Representative to the Scientific Committee (or his nominated deputy) of that Member.  
+The Representative is responsible for informing the individual scientist requesting the data, of 
+the rules governing access to CCAMLR data and for obtaining the requester’s agreement to 
+comply with these rules. 
+ 
+(d) 
+When Members request access to data for the purpose of undertaking analyses or 
+preparing papers to be considered by future meetings of CCAMLR bodies, they should 
+indicate the reason for the request and the nature of envisaged data analysis.  The Secretariat 
+should supply the data and inform the originators/owners of the data of this action, together 
+with the details of the original request.  When data are requested for purposes other than 
+consideration by future meetings of CCAMLR bodies, the Secretariat will, in response to a 
+detailed request, supply the data only after permission has been given by the 
+originators/owners of the data. 
+ 
+(e) 
+Data contained in papers prepared for meetings of the Commission, the Scientific 
+Committee, and their subsidiary bodies should not be cited or used in the preparation of 
+papers to be published outside of CCAMLR without the permission of the originators/owners 
+of the data.  Furthermore, because inclusion of papers in the Selected Scientific Papers series 
+or any other of the Commission’s or Scientific Committee’s publications, constitutes formal 
+publication, written permission to publish papers prepared for meetings of the Commission, 
+Scientific Committee and Working Groups should be obtained from the originators/owners of 
+the data and authors of papers. 
+ 
+(f) 
+The following statements should be placed on the cover page of all unpublished 
+working papers and background documents tabled: 
+ 
+This paper is presented for consideration by CCAMLR and may contain unpublished data, analyses, 
+and/or conclusions subject to change.  Data contained in this paper should not be cited or used for 
+purposes other than the work of the CCAMLR Commission, Scientific Committee, or their subsidiary 
+bodies without the permission of the originators/owners of the data. 
+ 
+ 
+ 

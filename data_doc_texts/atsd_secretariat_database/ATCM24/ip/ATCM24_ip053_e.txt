@@ -1,0 +1,465 @@
+ 
+ 
+CEP IV 
+Information Paper IP-53  
+AGENDA ITEM 4C 
+Japan 
+Original: English 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Initial Environmental Evaluation (IEE) 
+for Deep Ice Core Drilling Activity 
+at Dome Fuji Station, Antarctica 
+(Second Dome Fuji Project) 
+ 
+ 
+Contents & Summary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 2000 
+ 
+ 
+ 
+National Institute of Polar Research (NIPR) 
+1-9-10 Kaga, Itabashi-ku 
+ 
+ 
+Tokyo, Japan 
+ 
+ 
+ 
+ 
+i
+TABLE OF CONTENTS 
+ 
+ 
+1. Introduction .................................................................................................…. 
+ 
+2. Summary .......................................................................................................… 
+ 
+3. Purposes and Content of the Activity Program and Present State of the 
+Environment ..................................................................................................... 
+ 
+3.1  Purposes of the activity program .................................................................... 
+ 
+3.2  Description of the activity program ................................................................ 
+ 
+3.3  Activity sites ................................................................................................... 
+3.3.1 
+General condition of the project sites and present state of the 
+environment ......................................................................................... 
+3.3.1.1 
+Geographical location, meteorological conditions, and snow/ice 
+conditions ..................................................................................… 
+3.3.1.2 
+Biota .............................................................................................. 
+3.3.1.3 
+Site of Special Scientific Interest (SSSI) .........................................… 
+3.3.2 
+Past activities ....................................................................................... 
+3.3.3 
+Reasons for selection of the sites .......................................................… 
+3.3.4 
+Alternatives ......................................................................................… 
+3.3.4.1 
+Scientific losses if the Second Dome Fuji Project is not 
+implemented .................................................................................. 
+3.3.4.2 
+Alternative activity site .................................................................. 
+ 
+3.4  Facilities at drilling station and their operation .............................................. 
+3.4.1 
+Description of existing facilities and new facilities ...............................… 
+3.4.2 
+Fuel ............................................................................................................... 
+3.4.2.1 Types and consumption ....................................................................… 
+3.4.2.2 Fuel consumption ..............................................................................… 
+3.4.2.3 Estimated emissions ..........................................................................… 
+3.4.2.3.1 
+Carbon dioxide emissions ........................................................…. 
+3.4.2.3.2 
+Accumulation of smoke and soot particles ................................. 
+3.4.3 
+Alternatives .................................................................................................. 
+3.4.3.1 No facility expansion ............................................................................ 
+3.4.3.2 Alternative fuel ..................................................................................... 
+ 
+3.5  Removal of drilling station .................................................................................... 
+3.5.1 
+Removal plan ............................................................................................... 
+3.5.2 
+Alternative ................................................................................................... 
+ 
+3.6  Transportation ........................................................................................................ 
+3.6.1 
+Transportation methods and route ............................................................ 
+3.6.1.1 Transportation methods ...................................................................… 
+3.6.1.2 Planned route ........................................................................................ 
+1 
+ 
+2 
+ 
+ 
+5 
+ 
+5 
+ 
+5 
+ 
+9 
+ 
+9 
+ 
+9 
+12 
+12 
+12 
+12 
+16 
+ 
+16 
+16 
+ 
+16 
+16 
+23 
+23 
+23 
+23 
+23 
+23 
+23 
+23 
+24 
+ 
+24 
+24 
+24 
+ 
+24 
+24 
+24 
+24 
+ 
+ 
+ii
+3.6.1.3 Airlifting of personnel .......................................................................... 
+3.6.2 
+Transportation of fuel and borehole liquid ............................................... 
+3.6.3 
+Alternative ................................................................................................... 
+ 
+3.7  Drilling .................................................................................................................… 
+3.7.1 
+Preparation for drilling .............................................................................. 
+3.7.2 
+Deep drilling ................................................................................................ 
+3.7.2.1 Drilling method ..................................................................................... 
+3.7.2.2 Measures to be taken in the event of accident ................................… 
+3.7.3 
+Borehole liquid .........................................................................................… 
+3.7.4 
+High-density liquid ..................................................................................… 
+3.7.5 
+Alternatives .................................................................................................. 
+3.7.5.1 Alternative drilling method ................................................................. 
+3.7.5.2 Alternative borehole liquid .................................................................. 
+3.7.5.3 Alternative high-density liquid ........................................................… 
+ 
+3.8  Waste disposal ......................................................................................................... 
+3.8.1 
+Alternative waste disposal methods .......................................................… 
+ 
+4. Data and Methods Used to Assess Environmental Impacts of Activity 
+Program ............................................................................................................. 
+ 
+4.1  Data .......................................................................................................................... 
+ 
+4.2  Method .................................................................................................................… 
+ 
+5. 
+Assessment of Impacts on the Antarctic Environment ................................. 
+5.1  Prediction of direct impacts ................................................................................... 
+5.1.1 
+Snow/ice environment ................................................................................. 
+5.1.1.1 Direct impacts of activities at Dome Fuji Station .............................. 
+5.1.1.2 Direct impacts during transportation ..........................................…... 
+5.1.1.3 Direct impacts of drilling activities ..................................................... 
+5.1.2 
+Biota ..........................................................................................................… 
+5.1.3 
+The atmosphere ........................................................................................... 
+5.1.3.1 Direct impacts of activities at Dome Fuji Station .............................. 
+5.1.3.2 Direct impacts during transportation .............................................… 
+5.1.3.3 Direct impacts of drilling activity ....................................................… 
+5.1.4 
+Water quality and marine environment ................................................… 
+5.1.4.1 Impacts of fuel leakage .....................................................................… 
+5.1.4.2 Impacts of leftover borehole liquid ..................................................... 
+ 
+5.2  Prediction of indirect impacts ............................................................................… 
+ 
+5.3  Consideration of cumulative impacts ................................................................... 
+5.3.1 
+Environmental factors to be considered ................................................… 
+5.3.2 
+Cumulative impacts of activities ................................................................ 
+ 
+25 
+25 
+25 
+ 
+25 
+25 
+25 
+25 
+26 
+30 
+32 
+32 
+32 
+34 
+34 
+ 
+34 
+34 
+ 
+ 
+36 
+ 
+36 
+ 
+36 
+ 
+38 
+ 
+38 
+38 
+39 
+39 
+40 
+40 
+40 
+40 
+41 
+41 
+41 
+41 
+ 
+42 
+ 
+42 
+42 
+43 
+ 
+ 
+ 
+iii
+6. Measures for Minimizing or Reducing Impacts on the Antarctic 
+Environment ..................................................................................................... 
+ 
+6.1  Transportation and execution ............................................................................… 
+ 
+6.2  Emergency measures .............................................................................................. 
+ 
+7. Identification of Unavoidable Impacts on the Antarctic Environment ....... 
+ 
+8. Gaps in the Knowledge and Uncertainties Affecting the Environmental 
+Impact Assessment ........................................................................................... 
+ 
+9. Measures for Monitoring ................................................................................. 
+ 
+10. Possible Impacts on Future Scientific Research and Other Activities ........ 
+ 
+11. Conclusions ....................................................................................................... 
+ 
+12. References ......................................................................................................... 
+ 
+ 
+47 
+ 
+47 
+ 
+47 
+ 
+49 
+ 
+ 
+50 
+ 
+51 
+ 
+52 
+ 
+53 
+ 
+54 
+ 
+ 
+ 
+ 
+ 
+4
+1. Introduction 
+ 
+In January 1995, the Japanese Antarctic Research Expedition (JARE) established a station (Dome Fuji Station) on 
+the top (latitude of 77° 19’ south, longitude 39° 42’ east, altitude 3,810 m) of Dronning Maud Land, Antarctic ice 
+sheet.  In the next three years, the expedition team overwintered at the station and performed deep ice core drilling 
+to a depth of 2,503 m.  To prepare for the project (hereafter referred to as the “First Dome Fuji Project”), the 
+National Institute of Polar Research (NIPR) conducted an initial environmental evaluation (IEE) to forecast the 
+environmental consequences from the station construction and activities scheduled under the deep drilling and 
+observation plan at Dome Fuji Station.  Once this IEE was approved by the 104th General Meeting of the 
+Headquarters for Japanese Antarctic Research Expeditions in June 1994, the Institute sent it to the secretariat of 
+the Council of Managers of National Antarctic Programs (COMNAP) and the SCAR Group of Specialists on 
+Environmental Affairs and Conservation (GOSEAC), as prescribed by the interim guidelines of COMNAP. 
+ 
+Starting from 2002, the National Institute of Polar Research plans to carry out a deep coring project (hereafter 
+referred to as the “Second Dome Fuji Project”) at Dome Fuji Station.  To prepare for this, the Institute has 
+conducted the IEE described herein, the “Initial Environmental Evaluation (IEE) for Deep Ice Core Drilling 
+Activity at Dome Fuji Station, Antarctica (Second Dome Fuji Project).”  
+ 
+ 
+ 
+ 
+5
+2. Summary 
+ 
+The environmental impacts of the Second Dome Fuji Project on Antarctica are assessed according to the 
+“Guidelines for Environmental Impact Assessment in Antarctica” presented at the 23rd Antarctic Treaty 
+Consultative Meeting (ATCM).  The activities covered herein include facility expansion and drilling activity at 
+Dome Fuji Station, as well as ground transportation between a transportation base on the coast of the ice sheet and 
+Dome Fuji Station. 
+ 
+[Purposes of activity] 
+ 
+The purpose of the Second Dome Fuji Project is to take ice core samples from between the surface of the ice sheet 
+and a depth of 3,000 m to remodel the Antarctic’s consecutive climate and environment changes over the past 
+700,000 years or longer. 
+ 
+The ice coring site is located at Dome Fuji Station on top of the ice sheet in Dronning Maud Land.  The ice sheet 
+lies over a flat bedrock topography and has a flat laminar that has not been affected by a horizontal flow.  The First 
+Dome Fuji Project, carried out between 1995 and 1997, extracted a high-quality core 2,503 m deep, revealing the 
+climate and environment changes of the past 320,000 years, including three glacial cycles.  The ice sheet at the 
+drilling site is 3,030 m thick, and it is expected that the 3,000 m deep ice core obtained during the Second Dome 
+Fuji Project will provide highly reliable, high-quality information for restorative studies on paleoclimates and 
+paleoenvironments dating back more than 700,000 years.  The drilling of a high-quality core pre-dating the oldest 
+core yet extracted from Antarctica (420,000 year old core extracted at Vostok) will contribute immeasurably to the 
+advancement of earth science. 
+ 
+[Description of activity program] 
+ 
+The Second Dome Fuji Project will be carried out between 2002 and 2006.  Shallow coring will be performed and 
+casing pipes for the borehole will be installed in the summer of 2001/2002; the drilling site, a living facility for 
+summer party members, and a new powerhouse will be constructed in the summer of 2002/2003; preparatory 
+work will be conducted during the wintering period of 2003; and deep drilling will be performed in the three 
+consecutive summers starting from the summer of 2003/2004.  Each summer drilling period is expected to last 
+two months or more, starting from mid-November. 
+ 
+(Facilities and activities at the drilling station) 
+ 
+One tent constructed during the First Dome Fuji project and the existing five prefabricated buildings at the Dome 
+Fuji Station will be reused.  In addition, the project team will construct a semisubterranean, tent-shaped drilling 
+site, a prefabricated summer accommodation, and a new powerhouse.  The drilling site to be newly constructed 
+will be semisubterranean facilities of a semicylindrical structure, consisting of pipe frames and covered with 
+insulation sheets. 
+ 
+(Transportation of material and personnel) 
+ 
+The total weight of the material needed for the Second Dome Fuji Project will be 306 tons (238 tons of fuel (142 
+tons for oversnow vehicles and 96 tons for the Station), 48 tons of borehole liquid, and 36 tons of other materials).  
+All the material needed at Dome Fuji Station will be transported with oversnow vehicles and bulldozers from 
+Syowa Station or the transportation base on the coast of the ice sheet. 
+ 
+Fifteen persons are expected to engage in drilling each year.  Approximately half of them will come to Dome Fuji 
+Station by land, and the other half by air. 
+ 
+(Drilling activity) 
+ 
+The drilling will be carried out with an electro-mechanical drill, using a borehole liquid to prevent contraction of 
+ 
+ 
+6
+the borehole.  There is no alternative method for deep coring of an ice sheet.  The borehole will be approximately 
+135 mm in diameter and FRP casing pipes will be inserted to a depth of 100 m.  At a depth of approximately 100 
+m, firn will lose permeability and become ice.  The casing pipes will be installed to reinforce the strength of the 
+firn layer as the drill is lowered and raised, and also to prevent leakage of the borehole liquid poured in. 
+ 
+The n-butyl acetate fluid to be used as borehole liquid has a density extremely close to that of ice and a low 
+viscosity even at temperatures as low as -60 °C.  This fluid was also used for drilling during the First Dome Fuji 
+Project.  The possible alternatives are light oil, silicon oil, etc.  However, these fluids are inferior to n-butyl acetate 
+in that they need to be mixed with large amounts of density-regulating liquids such as CFC substitutes. 
+ 
+(Waste disposal) 
+ 
+Of the waste discharged during the drilling activity and material transportation, human waste and domestic 
+wastewater will be discharged into the snow.  Regarding the facilities newly constructed at Dome Fuji Station, the 
+borehole will be used for observation and various experiments on snow/ice after the completion of the drilling in 
+2006, and then the facilities will be dismantled and brought home, with the exception of the tent-shaped drilling 
+site.  The borehole liquid and casing pipes in the borehole will be left in place.  All the other wastes will be 
+collected, sorted by type, and brought back to Japan. 
+ 
+[Impacts of activities] 
+ 
+Possible direct impacts of the Second Dome Fuji Project include impacts on snow/ice, biota, and the marine 
+environment. 
+The impacts on snow/ice will be related to changes in snow accumulation due to the buildings at Dome Fuji 
+Station, changes in the shape of snow surfaces due to oversnow vehicles traveling around the Station, products of 
+fuel combustion accumulated on the surfaces of snow/ice, human waste and domestic wastewater discharged into 
+snow, facilities left after the completion of the activity, the leftover borehole liquid, and fuel leakage during 
+transportation.  The only permanent, significant impact anticipated is that of the leftover borehole liquid in the 
+borehole.    
+ 
+Regarding the impact on biota, the noise of oversnow vehicles may affect birds and mammals, but this effect will 
+be confined to within the sea ice route from Showa Station to the continental margin.  As the transportation is to be 
+performed for only several hours a few times a year, the impact on fauna will be temporary and insignificant. 
+ 
+ 
+7
+Possible impacts on the atmosphere include those caused by the vapors of the borehole liquid, as well as the gases 
+(carbon dioxide, carbon monoxide, sulfur dioxide, and nitrogen oxides) and particulates released from oversnow 
+vehicles and generators as a result of fuel combustion.  The impact of the combustion products will be negligible 
+because the amount and period of fuel consumption will be limited.  The borehole liquid vapors will be released 
+mainly from the chips pulled out together with the ice core.  The borehole liquid will be separated from the ice 
+chips as thoroughly as possible, and the chips will then be buried in the snow to prevent evaporation of the 
+borehole liquid that cannot be separated.  The impact of the borehole liquid vapors on the atmosphere will be 
+negligible because the range of evaporation will be effectively limited to the drilling site, the period of evaporation 
+will be limited to the times when the drill is raised or lowered, and the borehole liquid will be enclosed in the 
+borehole after drilling, almost completely eliminating evaporation from the borehole. 
+ 
+Possible impacts on the marine environment include those caused by fuel leakage during transportation, the 
+borehole liquid left in the borehole, and the future outflow of borehole liquid into the ocean.  It is likely that the 
+impacts of fuel leakage can be reduced by appropriate mitigation measures.  The outflow of the borehole liquid 
+into the ocean will be a very long-term process and its impacts are difficult to predict.  However, the outflow can 
+be anticipated to have little impact on the marine environment if, as predicted, the leftover borehole liquid 
+descends to the depth of the ice sheet together with the surrounding ice over a period of more than 300,000 years, 
+moves slowly toward the ocean over a succeeding period of more than 200,000 years, and eventually reaches the 
+ocean and flows out into the seawater.  However, this assumption is contingent on the properties of the borehole 
+liquid, which has a lower density than seawater and is thus expected to drift over the ocean surface and evaporate 
+into the atmosphere. 
+ 
+The emission of exhaust gases is also expected to have a minimal impact on the Antarctic environment. 
+ 
+Based on the above discussion, it can be concluded that the activities associated with the Second Dome Fuji 
+Project will have, at most, only a minor or transitory impact on the Antarctic environment. 

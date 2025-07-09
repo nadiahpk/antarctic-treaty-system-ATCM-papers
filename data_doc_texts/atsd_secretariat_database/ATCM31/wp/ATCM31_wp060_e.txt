@@ -1,0 +1,359 @@
+﻿
+
+
+
+
+
+Quantifying Atmospheric Emissions in Antarctic Comprehensive Environmental Evaluations 
+
+
+
+
+
+
+Quantifying Atmospheric Emissions in Antarctic
+Comprehensive Environmental Evaluations 
+Working Paper submitted by the United Kingdom
+
+1. Introduction
+1.1. An analysis was undertaken of the types of atmospheric emissions estimated in Final Comprehensive Environmental Evaluations (CEE), and the methodology used to quantify such emissions. Fifteen Final CEEs produced since 1989 were examined. The Final CEEs were largely made available through the Antarctic Treaty Secretariat website (http://www.ats.aq/index_e.htm). 
+1.2. The Final CEEs examined in this study are listed in Table 1:
+
+Table 1 - Final Comprehensive Environmental Evaluations (1989-2007)
+
+Final CEE 
+Party
+Year
+Proposed Construction and Operation of Halley VI Research Station, and Demolition and Removal of Halley V Research Station, Brunt Ice Shelf, Antarctica
+United Kingdom
+2007
+Construction and Operation of a New Belgian Research Station, Dronning Maud Land, Antarctica
+Belgium
+2006
+ANDRILL: The McMurdo Sound Portfolio
+New Zealand
+2006
+Construction of the Neumayer III Station, Operation of the Neumayer III Station, Dismantling of the Existing Neumayer II station.
+Germany
+2005
+Upgrading of the Norwegian Summer Station Troll
+Norway
+2004
+Project Ice Cube
+United States
+2004
+Development and Implementation of Surface Traverse Capabilities
+United States
+2004
+Czech Scientific Station in Antarctica: Construction and Operation
+Czech Republic
+2003
+European Project on Ice Coring in Antarctica (EPICA) – Dronning Maud Land
+Germany
+2000
+Modernization of the Amundsen-Scott South Pole Station,  Antarctica
+USA
+1998
+Pre – Environmental Protocol Final CEEs
+Party
+Year
+Concordia Project  -  Drilling Activity at Dome C, Antarctica
+France
+1994
+Antarctic Stratigraphic Drilling East of Cape Roberts in Southwest Ross Sea, Antarctica
+New Zealand
+1994
+Proposed New SANAE IV Facility at Vesleskarvet, Queen Maud Land, Antarctica
+South Africa
+1993
+Final Supplemental Environmental Impact Statement for the U.S. Antarctic Program
+USA
+1991
+Proposed Construction of a Crushed Rock Airstrip at Rothera Point, Adelaide Island, Antarctica
+UK
+1989
+
+Source: http://www.ats.aq/index_e.htm
+ 
+2. Summary of Findings
+2.1. All Final CEEs produced since the entry into force of the Environment Protocol in1998 have provided some estimates for emissions whereas no Final CEE prior to 1998 attempted to quantify emissions.  However the Protocol itself has no specific requirement for the reporting of atmospheric emissions.
+2.2. Of the 10 Final CEEs produced since 1998, nine have included estimates for a total of 16 types of emissions (chemical species, or variations of). Typically, Final CEEs estimate four to seven types of emission (see Table 2). 
+2.3. The exception to this is the Final CEE for Project Ice Cube, which reports on a total of 43 constituent air pollutants, listed under four categories (characteristic air pollutants, volatile organics, semi-volatile organics, and metals).
+2.4. No two Final CEEs have reported on the same suite of emissions although the most frequently reported emissions are CO and NOx . 
+2.5. The factors used to calculate emissions vary, and a number of Final CEEs do not cite the source of the emission factors used for the calculation. Sources for emission factors which are cited include: 
+    • US Environmental Protection Agency : Office of Air and Radiation  Compilation of Air Pollutant Emission Factors 
+    • UK National Atmospheric Emissions Inventory, Department for Environment and Rural Affairs
+    • International Maritime Organisation 
+    • Equipment Manufacturers performance data sheets (e.g. generators, vehicles)
+    • Industrial Institutions ( e.g. Institute for Motor Vehicle Research)
+2.6  In view of the above it may be helpful if the CEP were to determine what work has been carried out in this area by other relevant expert bodies and to consider how this might be applied in Antarctica to assist the development of a more standardised approach to calculating emissions in CEEs.  It will, of course, be important not to duplicate ongoing studies or discussions in other international bodies or fora.   For example, as the IMO is actively engaged in considering emissions from shipping the ATCM/CEP should not consider this aspect until IMO concludes its own work in this area.   
+3. Recommendations
+To assist Parties compiling Final CEEs, and to develop a common understanding of emission reporting in CEEs, the CEP is invited to consider whether there is merit in:
+    • identifying an agreed list or types of emissions to be reported on in all CEEs;   
+    • developing and/or adopting a standard approach to calculating emissions related to fossil fuel combustion based on existing agreed international standards.
+
+If the CEP agrees this approach the UK would be willing to prepare, in conjunction with interested Parties, a more detailed paper for consideration at CEP XII or any other relevant intersessional meeting. 
+
+
+Table 2 - Atmospheric Emissions calculated in Final Comprehensive Environmental Evaluations (1989 -2007) 
+
+
+Final CEE 
+CO2
+CO2 as carbon
+CO
+NOx
+NOx  as NO2
+N2O
+SOx
+SO2
+CH4
+C xH y
+
+Exhaust Hydro-carbons
+HC
+VOC
+Aldehydes
+PM
+PM10
+Halley 
+-
+●
+-
+-
+●
+-
+-
+●
+-
+-
+-
+-
+
+-
+●
+Belgian station DML
+●
+-
+●
+●
+-
+●
+●
+-
+●
+-
+-
+●
+-
+-
+-
+ANDRILL 
+●
+-
+●
+●
+-
+-
+-
+-
+-
+-
+●
+-
+-
+-
+-
+Neumayer
+●
+-
+●
+●
+-
+-
+●
+-
+-
+-
+●
+●
+-
+●
+-
+Troll
+-
+-
+●
+●
+-
+-
+-
+-
+-
+-
+●
+-
+-
+●
+-
+Ice Cube1
+●
+-
+●
+●
+-
+●
+●
+-
+●
+-
+●
+-
+●
+●
+-
+Traverse Capabilities 
+-
+-
+●
+●
+-
+-
+●
+-
+-
+-
+●
+-
+-
+●
+-
+Czech Station
+-
+-
+●
+●
+-
+-
+-
+-
+-
+●
+-
+-
+-
+●
+-
+EPICA 
+●
+-
+●
+●
+-
+-
+-
+-
+-
+-
+-
+-
+-
+●
+-
+South Pole 
+-
+-
+●
+●
+-
+-
+●
+-
+-
+-
+●
+●
+●
+●
+-
+Dome C
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Cape Roberts
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+SANAE IV
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+USAP
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Rothera Runway
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+

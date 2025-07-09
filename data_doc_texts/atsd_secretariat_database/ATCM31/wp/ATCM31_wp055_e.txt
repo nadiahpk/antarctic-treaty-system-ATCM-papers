@@ -1,0 +1,508 @@
+﻿
+
+
+
+
+
+The Marine Biodiversity Information Network: 2010 and Beyond
+
+
+
+
+
+
+The Marine Biodiversity Information Network
+2010 and Beyond
+The Antarctic Marine Biodiversity Information Network (MarBIN)
+An operational platform to support Antarctic science, conservation and management.
+
+In the context of topical global issues like climate change, loss of biological diversity, persistent environmental contamination and depletion of marine fisheries, assessing the effects of environmental change on marine biodiversity has become a priority task for the scientific community. Antarctic marine ecosystems are particularly challenged by these changes, with potential dramatic biological and economic effects at a global scale. As an example, changes in seawater chemistry (acidification) may have severe effects on the life cycle of a wide range of benthic organisms, but so far the impact on Southern Ocean populations is totally unknown. Rigourous understanding of the processes involved, and new prediction tools are urgently required, to reduce uncertainty linked to conservation and management of existing biodiversity, and of the services provided by these ecosystems, including food, biological products, carbon sequestration, and cultural benefits.  
+Knowledge about how human societies and biodiversity interact underlies many international environmental instruments or reports (e.g. the Convention on Biological Diversity 1992; Global Biodiversity Assessment UNEP 1995; Millennium Assessment “Biodiversity and human well-being” UNEP 2005), but the need for a comprehensive protection of the Antarctic environment and dependent and associated ecosystems has been specifically addressed in a variety of international fora. In all these instruments, the importance of exchange of information is always identified as a crucial issue, e.g.: 
+- Antarctic Treaty: Art. III.1.c:
+« In order to promote international cooperation in scientiﬁc investigation in Antarctica, as provided for in Article II of the Treaty, the Contracting Parties agree that, to the greatest extent feasible and practicable: […] Scientific observations and results from Antarctica shall be exchanged and made freely available. » 
+- Madrid Protocol: Annex II, Art. 6, “Conservation of Antarctic Fauna and Flora”: calls the Parties to take arrangement for “collecting and exchanging records and statistics concerning the numbers or quantities of each species… taken annually in the Antarctic Treaty area”, “obtaining and exchanging information as to the status of native mammals, birds, plants and invertebrates in the Antarctic Treaty Area, and the extent to which any species or population needs protection”, and above all “establishing a common form in which this information shall be submitted to Parties…”.
+
+Because of the unique ecological, biogeographic and political context of the Southern Ocean, and given the rate and potential impact of global changes on the Antarctic ecosystems, and their potential effect on biodiversity, an efficient mechanism for the exchange of scientific information is needed to enable sound, science-based adaptive management, in a realistic timeframe, of Antarctic marine biodiversity. For research, conservation and management purposes, Antarctic marine biodiversity information has to be widely published, instantly accessible, and thouroughly checked. To answer this need, the Antarctic Marine Biodiversity Information Network (MarBIN) manages since May 2005 a dedicated data portal, www.scarmarbin.be, that provides free and open access to Antarctic marine biodiversity information. MarBIN was initially supported by the Sloan Foundation, New York (through the Census of Marine Life), before becoming funded by the Belgian Science Policy (BELSPO), as a significant, and visionary support to Antarctic research activities. 
+To date, the two main achievements of MarBIN are the development of the Register of Antarctic Marine Species (RAMS) and of a distributed network of interoperable databases holding information on Antarctic marine biodiversity. 
+RAMS is a fully operable, browsable/searchable online species list of Antarctic marine species, dynamically maintained by a strong board of expert taxonomic editors. RAMS offers access to information on 14,000+ taxa, including direct links to taxonomy, multimedia, literature, molecular and distribution data, and webservices. RAMS in turn contributes to the World Register of Marine Species (WoRMS ; www.marinespecies.org), the taxonomic backbone of the Ocean Biogeographic Information System (OBIS) and the marine component of Species2000 and Catalogue of Life. 
+Through a WebGIS, MarBIN also offers the possibility to visualize and download raw baseline data on the occurrence and abundance of marine organisms. The data are standardized, in order to comply with the international data dissemination schemas for efficient publication (OBIS/GBIF), trans-discipline data exchange (WFS/WMS) and avoidance of effort duplication (ISO-compliant metadata systems). The database network currently offers access to over 50 interoperable databases, reaching 500,000 records.
+Since its beginning, MarBIN has strived to build sustainable relationships with relevant international instances, which support the network, under the auspices of SCAR. For example, MarBIN acts as the regional Antarctic node for OBIS and is constructing a thematic node for the Global Biodiversity Information System (GBIF), together with the Australian Antarctic Data Center (AADC).  MarBIN works hand-in-hand with the Census of Antarctic Marine Life (CAML), acting as its information component and data legacy.  MarBIN also interacts since its beginning with the Joint Committee on Antarctic Data Management (JCADM), in order to keep pace with developments regarding universal standards for data and metadata exchange. Finally, MarBIN is an International Polar Year (IPY) core initiative and was adopted by SCAR as an Action Group.  The ICSU/WMO Joint Committee for the IPY has assessed MarBIN as having the potential to make a major contribution to the IPY. 
+MarBIN also has the potential to reinforce advisory capacity of organs such as CEP, including dynamic and transparent policy assessment, and data-driven monitoring and conservation design.  As an example, data access offered by MarBIN played a crucial role during the CCAMLR workshop on bioregionalization of the Southern Ocean, which was held in Brussels in August 2007.
+In its capacity of providing a legacy of the IPY and CAML-generated data, MarBIN needs to be maintained over the long term as a platform dedicated to serve the Antarctic community, not only for research, but also as a key operational instrument in support of decision-making in conservation and management issues, combining traditional and innovative approaches. 
+To date, and until the end of 2009, MarBIN is funded by the Belgian Science Policy, as part of the Belgian contribution to Antarctic research logistics. To secure its long-term sustainability, MarBIN is presently seeking to broaden its support basis.  It plans to do so by establishing a consortium of partners willing to provide funding, on an equitable basis, to sustain and further the services MarBIN offers to the Antarctic community. An overview of possible scenario’s regarding the continuation of MarBIN and related budgets is given in Annex.
+The legacy of IPY science includes concepts, technologies and baseline information stored in databases. Various initiatives under the IPY are presently collaborating in a vast effort to document and characterize biodiversity in the Southern Ocean, the ecosystem services it delivers, and its evolution in the light of global change. If successful, MarBIN will continue acting as the tool to effectively safeguard the legacy of these efforts and to spread this information and knowledge within and beyond the Antarctic community.  As such, it will deliver its ambitious goal to serve as repository for scientific information on Antarctic marine biodiversity, and will become a corner stone to the global effort to preserve Antarctica as “a natural reserve, devoted to peace and science”. 
+
+
+
+ANNEX:  MarBIN continuation scenarios
+
+
+Option 1: Minimum maintenance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* sustainance of existing portal, network and databases, linking of new ready to access databases
+* phasing out of analytic tools (due to natural aging)
+
+
+
+
+* mimimal representation of MarBIN at essential meetings
+
+
+
+
+
+
+
+
+
+
+
+
+* needed resources:
+10% of full-time equivalent coordinator
+
+
+
+
+two international meetings.yr-1
+
+
+
+
+
+equipment, subcontracting
+
+
+
+
+
+
+overhead, consumables
+
+
+
+
+
+
+
+
+
+
+
+
+* estimated budget
+2010
+2011
+2012
+2013
+2014
+TOTAL
+
+
+personnel
+7000
+7210
+7426
+7649
+7879
+37164
+
+
+functioning
+3000
+3090
+3183
+3278
+3377
+15927
+
+
+overheads
+500
+515
+530
+546
+563
+2655
+
+
+equipment
+400
+400
+400
+400
+400
+2000
+
+
+subcontracting
+1000
+1030
+1061
+1093
+1126
+5309
+
+
+(workshop)
+
+
+
+
+
+
+
+total
+11900
+12245
+12600
+12966
+13343
+63055
+
+
+
+
+
+
+
+
+
+
+
+Option 2: Fully functional MarBIN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* expansion of portal, network and databases
+
+
+
+
+* implementation of new, and upgrading of existing analytic tools
+
+
+* representation of MarBIN at selected meetings
+
+
+
+
+* annual MarBIN workshop back to back with other SCAR meeting
+
+
+
+
+
+
+
+
+
+
+
+* needed resources:
+Full-time equivalent coordinator
+
+
+
+
+
+four international meetings.yr-1
+
+
+
+
+
+equipment, subcontracting
+
+
+
+
+
+
+overhead, consumables
+
+
+
+
+
+
+
+
+
+
+
+
+* estimated budget
+2010
+2011
+2012
+2013
+2014
+TOTAL
+
+
+personnel
+70000
+72100
+74263
+76490,89
+78785,62
+371640
+
+
+functioning
+10000
+10300
+10609
+10927
+11255
+53091
+
+
+overheads
+4000
+4120
+4244
+4371
+4502
+21237
+
+
+equipment
+600
+600
+600
+600
+600
+3000
+
+
+subcontracting
+10000
+10300
+10609
+10927
+11255
+53091
+
+
+workshop
+10000
+10300
+10609
+10927
+11255
+53091
+
+
+total
+104600
+107720
+110934
+114244
+117653
+555150
+
+
+
+
+
+
+
+
+
+
+
+
+Option 3: Expansion of MarBIN services
+
+
+
+
+
+
+
+
+
+
+
+
+
+* expansion of portal, network and databases
+
+
+
+
+* implementation of new, and upgrading of existing analytic tools
+
+
+* assistance with development of new databases and new analytic tools
+
+
+* representation of MarBIN, SCAR at all relevant meetings
+
+
+
+* annual MarBIN workshop back to back with other SCAR meeting
+
+
+
+
+
+
+
+
+
+
+
+* needed resources:
+Full-time equivalent coordinator
+
+
+
+
+
+Full-time equivalent ITC specialist
+
+
+
+
+
+six international meetings.yr-1
+
+
+
+
+
+equipment, subcontracting
+
+
+
+
+
+
+overhead, consumables
+
+
+
+
+
+
+
+
+
+
+
+
+* estimated budget
+2010
+2011
+2012
+2013
+2014
+TOTAL
+
+
+personnel
+120000
+123600
+127308
+131127,2
+135061,1
+637096
+
+
+functioning
+15000
+15450
+15913,5
+16391
+16883
+79637
+
+
+overheads
+6750
+6952,5
+7161
+7376
+7597
+35837
+
+
+equipment
+1000
+1000
+1000
+1000
+1000
+5000
+
+
+subcontracting
+5000
+5150
+5305
+5464
+5628
+26546
+
+
+workshop
+10000
+10300
+10609
+10927
+11255
+53091
+
+
+total
+157750
+162452,5
+167296
+172285
+177424
+837207
+
+
+
+
+
+
+
+
+
+Note: all budget estimations in €, based on 2007-2009 MarBIN budget, 3% inflation
+
+
+
+
+
+
+
+

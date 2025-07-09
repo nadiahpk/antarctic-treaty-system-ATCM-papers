@@ -1,0 +1,82 @@
+﻿
+
+
+
+
+
+Toward a Risk-based Assessment of Tourist Activities
+
+
+
+
+
+
+
+
+
+Toward a Risk-based Assessment of Tourist Activities
+
+Summary
+This paper proposes that Parties consider using a risk-based assessment framework when assessing tourist activities in Antarctica.  It offers an example of what a risk-based assessment regime for Antarctic activities might look like, including definitions, guiding principles, and process, and includes a draft resolution.  The paper also includes an appendix, “Assessing Risks and Abating Hazards.”   
+Introduction
+During ATCM XXXVI, Parties agreed to give a particular focus at ATCM XXXVII to issues related to land-based and adventure tourism.  To assist that discussion, the Secretariat helpfully posted the comprehensive Summary of the ATCM discussions and decisions on land-based and adventure tourism (SP9).  As SP9 notes, despite being a regular subject of discussion at meetings, definitions for land-based or adventure tourism have not been agreed by the ATCPs.  In the view of the United States, at this stage, rather than attempt to define tourist activities according to criteria such as the platform and nature of the activity (e.g., “land-based” or “adventure” tourism), it would be more useful to focus on the issue of risk.  
+Based on the United States’ experience related to tourism activities, the principal concerns that arise relate to the safety of participants and potential effects on Parties’ scientific activities, rather than the limited environmental impacts these types of activities may pose.  Therefore, the United States believes authorities should consider assessing activities on the basis of the risk of mishap inherent in the activity, the likely costs attendant with any mishap, and whether that risk can be appropriately mitigated.  For example, a typical cruise with landings conducted in an area and time when many tour ships are nearby is inherently less risky, and less likely to require intervention from a national program, than a cruise conducted in a location or at a time when few tour ships are nearby.  In the same way, a ski traverse across the interior using known routes and an Antarctic experienced commercial SAR provider may entail less risk than a poorly planned and supported traverse.  A risk-based assessment process that includes consideration of risk mitigation measures may help to provide competent authorities with a clearer path to their determinations. 
+This paper focuses on the principal concerns related to safety issues, with the particular aim of helping to reduce potential impacts to national programs resulting from tourist-related incidents. Note: The “Guiding Principles” mentioned in this paper are included only as examples.  Similarly, the criteria used in the appendix to this paper are subjective and included only to serve as examples. 
+Safety Risk Management Overview
+Rationale:  Any tourist activity in Antarctica carries with it some level of risk.  The challenge is to be aware of the character and magnitude of the risks presented by each activity, control (mitigate) those risks as much as practical, balance them against the benefits of performing the activity, and encourage avoidance of those activities where risks outweigh the advantages of accepting them.
+Terminology:
+    •  Risk Management:  This is the process of identifying and controlling risks.  Risk management usually involves identifying hazards; assessing the risks posed by those hazards; analyzing the balance of risks to benefits; and prescribing, implementing and monitoring controls.  Risk management should be done during both the planning and execution phases of an expedition.  When used in real time in the midst of an activity, it is often called operational risk management, or ORM. 
+    • Hazard:  A real or potential condition that can endanger an expedition; cause personal injury, illness or death; or damage property.  
+
+    • Risk:  The characterization of the threat to people, property or expedition, usually defined by the combination of the consequences of an incident involving injury, illness or property damage and the probability that such an incident will occur.  Some schemes include a third factor, exposure.
+    • Severity:  The potential consequences of an incident in terms of degree of injury or illness, cost of damage or remediation, or degradation of ability to complete an activity. 
+
+    • Probability:  The likelihood a specific event will occur.  
+    • Exposure:  Exposure relates to the frequency an activity is carried out; if you do something more often, the probability of an adverse event is usually higher than if the activity is done infrequently.  For those risk assessment schemes that use only severity and probability, exposure is an element of probability.
+
+    • Risk Assessment:  The systematic process of identifying hazards of an operation and evaluating the risks associated with the hazards.
+
+Guiding Principles: (Note: the principles below are subjective, and intended only as examples)
+• Safety is a paramount concern, and is not subordinate to any other concerns.
+• Risk management should be integrated with all activities, both in planning and execution.
+• Every person and organization participating in the activity is responsible for recognizing risks and controlling them.
+The Risk Management Process:
+• Identify Tasks.
+• Identify Hazards.
+• Assess Risks.
+• Identify Options for controlling the risk.
+• Evaluate Residual Risk Versus Benefit.
+• Execute.
+• Monitor.
+Assessing Risks:
+For each hazard, it is important to consider what adverse event might be caused by the hazard.  Then, it is critical to use data or make an informed guess about the probability of the event occurring and the severity of the event (also evaluate the exposure if using a three-factor analysis).  Different scales are used for rating these factors, subject to the organization’s or jurisdiction’s concerns, priorities and expertise.  While different organizations may use slightly different schemes, most are fundamentally similar. Once values for each factor have been decided, it is possible to use a simple matrix to determine risk (see attachment 1).
+It is likely that the often subjective manner in which severity, probability and exposure are determined will bring in to question the efficacy of the process.  If data from a large population over a number of years are available, then one should use that historical data to assign the values for severity, probability and exposure.  However, in the Antarctic setting the population is often too small, or available quantitative data is too limited or non-existent, forcing the use of  one’s best judgment, informed by experience, to assign qualitative values.  This qualitative approach is the norm rather than the exception, and is used by experts in the risk management field when quantitative data are not available.
+Identifying Controls:
+Controls are steps one can take to reduce risks.  Safety managers prefer some types of controls over others, mainly because the preferred control methods are more permanent or reliable.  Here are types of control strategies in order, with the most desirable listed first:
+(1) Elimination.  Eliminate the hazard.  If one has a choice between hiking in crevassed or crevasse-free zones, the choice is clear.
+(2) Substitution.  Replace a high hazard with a lesser one.  For example, one could substitute a safer piece of equipment for another.  
+(3) Engineering Controls.   For example, perform an activity in a heated shelter instead of exposed to the weather.
+(4) Administrative Controls.  Employ rules, procedures and/or training to reduce risks.  This is a common strategy, which requires periodic refresher training or continuing monitoring and enforcement of rules and procedures. 
+(5) Personal Protective Equipment (PPE).  Provide visitors and guides with equipment to protect them from the hazard, e.g., clothing, googles, etc.  PPE is the last line of defense, but sometimes it is the only one that is practical.  
+Sometimes many different controls from more than one of the above strategies can be employed in concert to mitigate a single hazard.  For example, one might check that a wind shelter will be available, that expedition staff is trained in how to avoid and recognize cold injuries, and mandate periodic warming breaks.
+The attached appendix (“Assessing Risks and Abating Hazards”) describes how to utilize a generic risk-assessment process, including the use of a matrix for analysis and a draft risk assessment worksheet.  
+Conclusion
+Due to the principal concerns for the safety of participants and the potential effects a tourism incident may pose to Parties’ scientific activities, a risk-based assessment framework may provide information regarding the risk of mishap inherent in the activity, the likely costs attendant with any mishap, and whether that risk can be appropriately mitigated.  We recommend, through the following resolution, that Parties consider a risk-assessment framework as a tool for competent authorities to utilize in assessing tourist activities.
+
+Resolution XXX (2014)
+Title
+
+The Representatives,
+
+Desiring to promote safety by tour operators,
+Concerned that all tourism activities, no matter the specific platform or nature of the activity, be adequately planned and executed in order to avoid  risks to safety of life;
+Concerned also of the potential effects a tourism incident from a high-risk activity may pose to Parties’ scientific activities;
+Recalling also Measure 4 (2004) and Resolution 4 (2004);
+Desiring to ensure that all such activities are assessed in a consistent and thorough way to address the above concerns;
+
+
+Recommend that:
+
+the Parties, consistent with their national laws and as appropriate, utilize risk-based assessment as a tool to consider as part of the authorization or comparable regulatory process for non-Governmental land-based and adventure tourism activities in Antarctica.
+
+

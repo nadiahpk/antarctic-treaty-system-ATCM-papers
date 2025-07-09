@@ -1,0 +1,441 @@
+ANTARCTIC TREATY                
+XIXth CONSULTATIVE MEETING                
+TRAITÉ SUR L'ANTARCTIQUE                
+XIXème RÉUNION CONSULTATIVE                
+                                  SEOUL                
+                                  May 8-19, 1995                
+TRATADO ANTARTICO                
+XIX REUNION CONSULTIVA                
+ДОГОВОР ОБ АНТАРКТИКЕ                
+XIX КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ                
+
+
+XIX ATCM/INF 90                
+May 12, 1995                
+Original: English                
+
+
+                                   FIRST OBSERVATIONS OF PMSE IN ANTARCTICA                
+                                   Agenda Item 15                
+                                   (Submitted by Peru)                
+
+
+                                   :                
+                                   :                
+First Observations of PMSE in Antarctica1
+
+By Ronald F. Woodman, JRO
+        Ben B. Balsley, CIRES
+        Freddy Aquino, JRO
+        Luis Flores, UDEP
+        Edilberto Vazquez, UDEP
+        Martin Sarango, JRO
+
+Abstract
+
+A 50 Mhz radar, with 25 kW. average power, has been installed at the Peruvian base in
+St. George Island, Antarctic. A search for PMSE echoes were made during its first year of
+operation, with negative results. These results have already been reported in the literature. Here
+we report our results during the summer of the second year of operation. This time the
+observations were made starting earlier, closer to the summer solstice. On this occasion PMSE
+have been observed, albeit much weaker that what one would expect based on the Poker Flat
+radar results at comparable latitudes in the Northern Hemisphere. The asymmetry, therefore,
+remains. It is explained in terms of subtle differences in temperature in the mesopause region
+of both polar regions. The potential of the technique to monitor global changes in temperature
+is discussed.
+
+Introduction
+
+It is unusual to find, today, recent important discoveries of upper atmospheric
+geophysical phenomena. Decades of intense space activities, initiated with the International
+Geophysical year in 1957, has left little to be discovered. One interesting exception is the
+discovery by Ecklund an Balsley (1981) of what, now, are known as the Polar Mesospheric
+Summer Echoes or PMSE's (See Cho and Kelley, 1993, and Rottger, 1994, for a review). The
+phenomenum manifests itself as very strong radar echoes from mesospheric altitudes at VHF
+frequencies, these echoes can not be explained-- as other echoes of similar nature have been-
+on the basis of standard turbulent mixing theories. The existence of related radar echoes at even
+UHF frequencies (Rottger et al., 1990) makes them even more puzzling.
+
+There is still no consensus on the nature of the physical processes responsible for the
+exceptionally strong echoes received. Fluctuations in the dielectric constant of the medium,
+produced by turbulence-induced fluctuations in the ionization densities, have been used as an
+explanation for the relatively much weaker echoes (although still strong when compared to
+Incoherent Scatter levels) received at comparable altitudes and lower latitudes (Woodman and
+Guillen, 1974). But, even this weaker echoes can only marginally be explained using turbulent
+processes, since the inner scale of turbulence is comparable or even larger than the unique
+wavelength to which the radar is sensitive. The "inner scale" is the smallest structural size that
+turbulence can create against the competition of molecular diffusion, an efficient mechanism for
+destroying structure this small. The current thinking is that turbulence must still play an
+important role, but with the requirement of the existence of slowly diffusing heavy and large
+
+1 Presented at the Latin American Conference on Antarctic Space and Atmospheric Science, Serra
+Negra, Brazil, 1994.
+ions or charged particles. The reader is referred to the work of Cho and Kelley (1993) for the 
+current understanding (or lack of) the physical processes that have being put forward, to explain 
+the strength of PMSE.
+
+The interest in the phenomena is heighten by its possible relation to Global Change. 
+There is a relationship of this phenomena with the occurrence of Polar Noctilucent Clouds and 
+the related Polar Mesospheric Clouds (Thomas, 1991). The possible relation of these phenomena 
+with man industrial activity has been postulated by Thomas et al., (1989). They observed that 
+Polar Noctilucent Clouds -- spectacular as they are-- were not reported before the industrial 
+era. According to Thomas et al. [1989], the first observation of this kind was made by R. Leslie 
+in 1885, who attributed the formation of the clouds in this occasion to the eruption of the 
+Krakatoa, two years before. This first observation, and all the later ones since, would be due to 
+the increase in methane in the earth atmosphere. Methane is the main source of water vapor 
+in the mesosphere, necessary for a condensation process responsible for the particles producing 
+the light scattering.
+
+The occurrence of the clouds, and all the mechanisms proposed for the PMSE, also need 
+the existence of very low temperatures (which are the lowest in the region of the earth 
+atmosphere where they occur) capable of producing the necessary condensation. It is therefore 
+interesting to speculate that man industrial activities could also produce temperature changes 
+at these altitudes, and that we have an easily observable phenomena, using radar techniques, 
+sensitive to these changes.
+
+In the summer of 1993 a VHF radar was installed and operated in Machu Picchu, 
+Antarctic (not Cuzco), 620 06' S, 580 28' W, in the Peruvian base at King George Island. The 
+project is an important part of the Peruvian research activities in Antarctica, and was carried 
+with the collaboration of the Polar Programs of NSF. The most interesting result of this first 
+campaign was the discovery that no PMSE were observed (Balsley et al., 1993, 1995). This was 
+indeed surprising, since an equivalent radar, with the same sensitivity, would have observed 
+echoes at least 30 db above the noise level, in an equivalent latitude in the Arctic, and at an 
+equivalent time of the year. The observations in this first campaign were made in the period 
+between the 21 of January and the 15th of February, i.e., on the later part of the Summer months, 
+when echoes would have been observed in the Arctic.
+
+A second campaign has been carried out during the Summer of 1994. This time, echoes 
+have been observed, albeit much weaker than in northern latitudes. The purpose of this paper 
+is to report these observations and discuss their significance in the context of our previous 
+negative results reported by Balsley et al. (1993, 1994).
+
+We also include one particular observation made during the first campaign, lasting about 
+a few hours, were weak echoes can be appreciated. Its detection required a longer integration 
+time than the one used before by Balsley et al. (1995), and a more sophisticated interference 
+rejecting scheme. The existence of this one observation was added as a note in proof in this 
+earlier, and we are here providing the evidence.
+
+Observations
+THE INSTRUMENT USED IN THIS PARTICULAR OCCASION WAS FOR THE EARLIER PART UNTIL JANUARY 15
+much earlier than the previous one. Had it not been for antenna problems, we could had been 
+observing as early as the first days of December. Unfortunately, the antenna did not survived 
+well the harsh winter conditions, and it was not possible to repair it until the ice over its ground 
+structure and foundation had melted. The North pointing antenna was back in operation on 
+December 16, 1993, but we now suspect than the system did not have its designed sensitivity 
+until January 11, 1994, at 19:00 L.T., when the system was switched to the vertical antenna and 
+used a overhauled receiver and front end. Within this period, the system was down for the days 
+between the 22nd and 24th of December.
+
+After January 11, the system was switched to the vertical antenna and was operated in 
+a mode that sampled continuously the mesospheric altitudes. This is a period when mesospheric 
+echoes were observed almost continuously. We will discuss them, in more detail, in the results 
+section. The observations were discontinued again on January 16, 1994, due to equipment failure.
+
+The system was back on operation with a newly developed processing system on January 
+29, 1994. This new system was used until the end of the campaign on February 13, 1994. No 
+mesospheric echoes were observed during this period, except for sporadic meteor echoes. 
+Tropospheric echoes were seen, in occasions up to 11 km, giving us confidence on the good 
+performance of the system.
+
+The newly developed system has three transmitters and three receivers, one for each of 
+the three antennas, one antenna points in the vertical direction and the other two 15 degrees 
+north and west off Zenith. The processing system is capable of processing the spectral 
+characteristics of the three channels in parallel and in real time. Within each channel, two 
+sampling windows can be defined, one in the troposphere-stratosphere region, and the other in 
+the mesosphere. Any of this windows can be selected in a real time display to show the spectral 
+information as a function of altitude and frequency, either as a shade or as a contour plot. The 
+system, except for a later developed 8-mm tape recording media, has been described elsewhere 
+by Sarango et al. (1995). Because of technical problems, only two transmitter-receiver channels 
+were operated with the new system. The parameters that determine the system sensitivity are 
+shown in Table I.
+
+Results
+
+In Figure 1, we show a spectral profile corresponding to mesospheric heights for a 
+particular time. As in all Middle-atmosphere radars, the spectra can be characterized by three 
+parameters: power, Doppler shift and spectral width. In this paper we will discuss only the 
+power of the signal. Its Doppler characteristics will be discussed in a later paper. For our 
+purpose here, it suffices to say that the Doppler shift and the spectral width are typical of what 
+one would expect from PMSE echoes. The vertical velocities are typical of mesospheric heights 
+and the spectral width is what one would expect from beam broadening effects for characteristic 
+mesospheric winds.
+
+Previous to January 11, 19:00 L.T., the north pointing antenna was used. During this 
+period, only in two occasions, weak mesospheric echoes (~ 4db signal-to-noise ratio) were 
+observed: once, on January 9, for a short time around 20:56 L.T., and again on January 11, 
+between 13:00 and 14:53. 
+The signals did not exceed 10-12 db over the detectable level, corresponding to a signal-to-noise 
+ratio of -2 to -4 db. No mesospheric echoes were observed during the rest of the period, even 
+though a time window of around two hour duration, starting after midday, was daily dedicated
+to mesospheric observations, except for the down period between December 22 and 29. The rest 
+of the day was used for tropospheric and lower stratospheric observations. Observational 
+parameters, which influence the system sensitivity, are shown in Table I.
+
+Figure 2 shows a Range-Time-Intensity (RTI) plot corresponding to the period between 
+the 11th and 16th of January. This is the only period when PMSE's were observed almost 
+continuosly. Figure 3 shows a blowup of an interesting sub-period showing the same 
+information, but at full observing temporal resolution. The on line incoherent integration time 
+for both plots is 1.5 minutes, but further integration has been performed in the longer record, 
+to match the pixel resolution of the display. The plots show the signal strength in a logarithmic 
+scale, after having subtracted noise and altitude independent interferences. We had interference 
+problems, with interference power levels comparable to the noise. It was originated mainly in 
+the processing and control electronics. The noise and the interference is estimated from the first 
+ten altitudes, and subtracted from the other. Here we are taking advantage of the fact that these 
+altitudes never had any echoes.
+
+Although it is difficult to separate the noise from the interference, we need to do so, in 
+order to use the noise level as a reference for comparison with other radar results. We have 
+estimated the noise level indirectly. The standard deviation of the noise power estimate was 
+evaluated using the same ten altitudes, assuming that the interference was range independent. 
+From the level of the standard deviation, the noise power level can be obtained assuming a 
+Student distribution for its deviation statistics. The only additional parameter needed is the 
+corresponding number of degrees of freedom in the averaging process, which is equal to twice 
+the number of coherently integrated samples taken. The factor of two comes about because two 
+values, the real and the imaginary part of the phase detected signals, are used for each sample. 
+The assumption of range independence for the interference can be checked post facto, by 
+observing the resultant RTI plot. And indeed, except for the time at around 16:00 and 21:00 on 
+January 12th, we notice that there are no power fluctuations in range which can be attributed 
+to interference. Even at the time of the exception, the range dependent fluctuations are only a 
+few db, 10 db below the noise level.
+
+It is clear from Figures 2 and 3, that the echo observed during the times displayed, 
+correspond to PMSE. They have the same morphology as other similar plots taken at other 
+northern latitude stations. The activity is centered at 87 km, within a km of what has been 
+reported for Poker Flat (Ecklund and Balsley, 1981). Furthermore,if we scale down the Poker 
+Flat results, considering the difference in power and sensitivity, the altitude range of the affected 
+zone is within the same range we observe. In addition, their velocity and spectral width 
+correspond to expected PMSE values. Their velocity correspond to expected vertical mesospheric 
+velocities and their spectral width to antenna beam broadened spectra consistent with expected 
+horizontal mesospheric velocities.
+
+Another conspicuous feature that is evident from the RTI plots is the existence of quasi-
+periodic down-coming structures with periods of about 30 to 60 minutes. See for instance the 
+almost identical features between 17:40 to 19:00 on January 12. The form of these two features 
+is very similar to other isolated features which can be seen at 11:30 and 16:20 on the same day, 
+and at 6:00, 8:30 and 10:00 on January 13. They all progress downward, slowly at the beginning 
+and precipitating at the end. The downward phase progression, and its periodicity, indicate a 
+close relationship with gravity waves. Such a relationship has also been observed at the 
+northern polar latitudes.
+Both days show minimum activity between midnight and 04:00 hours, indicating strong
+solar control. We don't have a long enough series as to derive a climatology, but this behavior
+in time is also similar to its northern latitude counterpart. The only and important difference is
+the echoe strength and the seasonal duration of the phenomena, at least with the sensitivity of
+our instrument. The January 11th to 15th reduce the difference in power from our previously
+reported figure, for the two hemispheres, from three orders of magnitude to two. This is still
+a very large asymmetry which needs to be explained.
+
+Figure 4, show the only event in which the echo strength of the echoes exceeded the
+sensitivity of the system during the previous campaign of 1993. As mentioned in the
+introduction, by changing our processing scheme, we have been able to "pull" this one event
+from the noise. We can no longer claim, as stated in Balsley et al 1993,1995, complete absence
+of echoes for the period of observations in 1993, January 27 to February 15,1993. The event
+shown in figure 4 change our previously reported asymmetry by 3 or 4db for the last days of
+January, but stays the same for the last 15 days of observation, were no echoes are evident, even
+after its improved reprocessing.
+
+Even though we suspect the equipment was not up to specifications during the period
+prior to January 11, it did have sufficient sensitivity to observe tropospheric echoes to about 5
+km altitude. It is not possible for us to discern now, retroactively, with certainty, if the
+maximum altitude was low because of lack in the system sensitivity or if the atmosphere did not
+present turbulent regions above this altitude from which the radar could backscatter some
+echoes. But at least in one occassion, on the afternoon and evening of December 30, we did see
+tropospheric echoes up to 10 km altitude, and yet we did not see any mesospheric echoes during
+the two hours of mesospheric echoes at noon time. An spectral contour plot and a power profile,
+corresponding to tropospheric altitudes, is shown in Figure 5, for this particular date .
+
+As stated in the observations section, we can state with confidence that no mesospheric
+echoes were seen in the period January 29th to February 13th, confirming our previous negative
+results obtained in February 1993.
+
+Discussion
+
+The observations made in the summer of 1994 complement the previous one made one
+year before, in the sense that earlier days, closer to the Austral Summer Equinox, are included.
+Although, the period of the newer observations reported here were not made as early as
+desirable, they seem to cover an important period of transition, from actual PMSE occurrence
+to their absence, at least for radars with sensitivities comparable to ours. If we scale down the
+echo power levels of the Poker Flat radar shown in Figure 6. taking into account the difference
+in sensitivity, we can predict positive results for the period May 15th to August 15th. The season
+of occurrence of PMSE, as observed by the Poker Flat radar, is so sharply defined that one can
+claim only a few days of error for this period of activity. May and August in the North
+Hemisphere map into November and February  in the South.
+
+The picture that emerges from our 1994 observations and the one day in January 27, 1993,
+is that the transition, marking the end of the PMSE season, occurs in the Antarctic during the
+last days of January, instead of February 15th, as one would expect from the Arctic observations.
+More importantly, the expected power levels within the active period are two orders of
+magnitude lower than their northern latitude counterpart. And although, we don't have much
+confidence in the system for the last days of December and first days of January. There is the
+possibility that they disappear for more than one day at a time, even at the center of the season.
+We have at least one day to show, December 30, 1993, a day when the system did see
+tropospheric echoes at high altitudes. In any case, there was sufficient sensitivity, during the
+other questionable days, to claim that the echoes would be at the most 20 db below the strength
+of the Arctic ones at the peak of the season.
+
+It should be mentioned that a shorter Antarctic season is also seen in the observations
+of Polar Mesospheric Clouds. If one looks carefully at the ocurrence frequency reported by
+Thomas [1991], one sees that not only the latitude extend of PMC's are wider at the Arctic, but
+that for a latitude of 64° the season of non-zero ocurrence is larger in the Arctic than in the
+Antarctic (See Fig. 4 in Thomas, 1991).
+
+It is interesting to notice that the PMSE seen in Poker Flat at both extremes of the season,
+are not only weaker, but become more sporadic (Ecklund and Balsley, 1981). This can be
+appreciated in panels b) and c) from Figure 6 (After, Balsley, Personal communication). It
+appears then, that what we see at the Antarctic is only comparable with the weak and sporadic
+echoes at the extremes of the Arctic season.
+
+As discussed in the literature (Balsley et al., 1995, Thomas 1991), PMSE, Noctilucent
+clouds and Polar Mesospheric Clouds must be related, because their confined seasonal and
+latitudinal extend, to the very low temperatures that occur at the polar summer mesosphere.
+There is apparently a temperature threshold, very possibily a condensation temperature threshold
+around 150 K (Thomas, 1991), that the mesosphere must go under for all of these related
+phenomena to take place. If such a temperature threshold exist, all what we need to postulate
+to explain the difference in behavior of the PMSE at the two hemispheres is a difference in
+temperature comparable to the one that exist between the coldest time, near the Summer Solstice,
+to the temperature at the end of the PMSE in the Arctic, i.e. about 80 K.
+
+Considering the large difference in behaviour for such small difference in temperature,
+we can claim that a polar mesospheric VHF radar provides us with a very sensitive tool to
+monitor the changes in temperature that could exist at these altitude due to anthropogenetic or
+natural reasons. If we add to this that mesospheric temperatures are more prone to change than
+tropospheric ones, because their very weak coupling to the earth surface, PMSE radars provides
+us with an additional advantage for monitoring global changes in temperature.
+
+Acknowledgement
+CONAAN, NSF, Concytec, DHN
+Soldi, Villegas, Torres
+
+References
+
+Balsley, B.B., R.F. Woodman, M. Sarango, R. Rodriguez, J. Urbina, E. Ragaini, J. Carey, M.
+Huaman, A. Giraldez. On the Lack of Southern-Hemispheric PMSE, J. Geophys. Res., 1995.
+
+Balsley, B.B., R.F. Woodman, M. Sarango, J. Urbina, R. Rodriguez, E. Ragaini and J. Carey.
+Southern-Hemisphere, PMSE : Were are they?, Geophys. Res. Lett., Vol. 20, No. 18, pp 1983, 1993.
+
+Röttger, J. Polar Mesosphere Summer Echoes: Dynamics and Aeronomy of the Mesosphere, Adv.
+Space Res, Vol. 14, No. 9, pp (9)123-(9)137, 1994.
+Röttger, J., M.T. Rietvel, C. La Hoz, T. Hall, M.C. Kelley, and W.E. Swartz. Polar mesosphere summer echoes observed with the Eiscat 933-MHz radar and the CUPRI 46.9-MHz radar, their similarity to 224-MHz radar echoes and their relation to turbulence and electron density profiles, Radio Sci. Vol. 25, pp 671, 1990.
+
+Thomas, G. E., Mesospheric Clouds and the Physics of the Mesopause Region, Rev. of Geophys., Vol. 29, No. 4, 1991.
+
+Cho, J.Y.N. and M. C. Kelley, Polar mesosphere summer echoes: observations and current theories, Rev. of Geophys., Vol. 31, No. 3, pp 243, 1993.
+
+Ecklund, W.L. and B.B. Balsley. Long term observations of the arctic mesosphere with the MST radar at Poker Flat, Alaska. J. Geophys. Res., Vol. 86, 7775, 1981.
+Figure captions
+
+Figure 1). Typical power profile (left) and spectral contour plot (right) obtained by the radar.
+
+Figure 2). Range-time-intensity plot covering the period between late January 11 to mid day Jan. 
+15, 1994, when continuous observations at mesospheric heights were made and PMSE were observed.
+
+Figure 3). Same as in Fig. 2 but for the shorter period between 7:30 and 14:20, Jan. 12, 1994.
+
+Figure 4). Range-Time-Intensity plot showing the only PMSE seen in the 1993 campaign.
+
+Figure 5). Spectral contour plot corresponding to tropospheric heights, for December 30, 1993, 
+showing good system sensitivity. Despite the sensitivity no PMSE were seen at noon time.
+
+Figure 6). Climatology of important PMSE parameters as observed with the Poker Flat radar in 
+1994. a) spectral width, b) signal to noise and c) occurrence ratio, B. Balsley personal 
+communication.
+CHU-PICCHU STATION, ANTARCTICA, UHF WIND PROFILER             CHAZDS : 1
+EP - IGP - DIHM - PERU                                      UNZDS : 1
+94 Jan 12 Wed       15:58:04 Day 012                     HT_INDEX : 0
+
+                            SIGNAL POWER                                VIND PROFILE
+
+         93.8                                                    93.8
+
+         91.3                                                    91.3
+
+         88.8                                                    88.8
+
+         86.3                                                    86.3
+
+         83.8                                                    83.8
+
+         81.3                                                    81.3
+
+         78.8                                                    78.8
+
+         76.3                                                    76.3
+
+         73.8                                                    73.8
+
+         71.3                                                    71.3
+
+         68.8          0    10   20   30    40   50             -11.7    -5.9     0.0    5.9   11.7
+      SIG. P O V. (dB)                                      VELOCITY (M / S)
+
+Fig. 1
+PMSE - Power Plot
+Mandu Pichu, Antarctica, Jan 11-15, 1994
+
+             95       90       85        80       75       70
+         |        |        |        |        |        |
+       Height (km) 
+
+         12 
+         .
+         .
+         .
+         13
+         .
+         .
+         .
+         14
+         .
+         .
+         .
+         15
+
+Local Solar Day
+
+                  db over s.d. of noise
+                  0        5        10       15       20
+Fig. 2
+PRIMEROS ECOS POLARES MESOSFERICOS DE VERANO - MACHU-PICCHU, ANTARTIDA
+
+
+                                 
+             90 -
+             85 -
+ ALTURA     80 -
+   (KM)     75 -
+             8        10       12       14
+                  HORA SOLAR (ENERO 12, 1994)
+
+Fig. 3
+SIGNAL POINT
+DATE : 8/7/93
+INTERPOLATION: 1.50 KILOMETRES
+PERFIL DE POTENCIA                                          ESPECTRO DE POTENCIA
+
+                                                            rango:(-6, 21) canal-1
+                                                            archivo: a9336403.p02 hora:14:52:44 pos-ant:x
+
+                                                            23.2
+23.2                                                      
+                                                            19.0
+19.0                                                      
+                                                            14.8
+14.8                                                      
+                                                            10.6
+10.6                                                      
+                                                            6.4
+6.4                                                        
+                                                            2.2
+2.2
+
+Fig. 5
+FIG. 8.9
+
+
+                      Height above ground (km)
+
+
+      (Xenon/Kal)                  Recelvo Signal to Nolae                Spectral Width (k?/s?lt)
+
+
+                                                                               POKER FLAT RADAR

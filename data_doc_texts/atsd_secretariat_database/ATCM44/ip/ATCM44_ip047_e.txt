@@ -1,0 +1,134 @@
+Research to inform CEP discussions about further development of
+the Antarctic protected area system
+Research to inform CEP discussions about further development of
+the Antarctic protected area system
+Information Paper submitted by Australia
+Summary
+Australian researchers are undertaking work to inform ongoing
+discussions in the Committee for Environmental Protection (CEP)
+on further developing the Antarctic protected area system. The
+work includes using relevant continent-wide scientific datasets and
+contemporary conservation planning software to develop a suite of
+example scenarios for how a series of terrestrial protected areas
+might address the provisions of Article 3.2 of Annex V. Australia
+will be pleased to keep the Committee updated on this work.
+Background
+Article 3.2 of Annex V to the Environmental Protocol states that
+‘Parties shall seek to identify, within a systematic environmental-
+geographic framework, and to include in the series of Antarctic
+Specially Protected Areas’ (ASPAs), areas with specified
+characteristics and values. In accordance with Article 12(g) of the
+Protocol, the CEP is responsible for providing advice and
+formulating recommendations to Parties on ‘the operation and
+further elaboration of the Antarctic Protected Area system’.
+The CEP has regularly expressed its desire to move towards a more
+systematic and holistic approach to the further development of the
+Antarctic protected areas system. It has recognised the importance
+of drawing on the best available scientific information to inform its
+work, and the important role played by the Scientific Committee on
+Antarctic Research (SCAR) in providing high quality, independent
+scientific advice.
+To support discussion and collaboration on these matters, SCAR and
+the CEP held a joint workshop prior to CEP XXII (2019), on Further
+Developing the Antarctic Protected Area System. A report on the
+workshop outcomes was provided in ATCM XLII/WP70 and ATCM
+XLII/IP165.
+In its discussion of the workshop outcomes, the Committee
+encouraged Members, SCAR and other Observers and Experts to
+‘prioritise and support further research that will build on the
+existing body of scientific evidence to support the further
+development of the protected area system in accordance with
+Article 3.2 of Annex V’ (CEP XXII Final Report, para. 182). The
+workshop report lists datasets and other scientific information
+identified during the workshop that might be drawn on to support
+such work (Attachment B to ATCM XLII/IP165).
+Outline of the research
+Australian researchers are undertaking work intended to inform
+CEP discussions about further developing the Antarctic protected
+area system. This work is being undertaken by teams at the
+Australian Antarctic Division, Monash University, the Queensland
+University of Technology, and through the new Australian Research
+Council Special Research Initiative Securing Antarctica’s
+Environmental Future See https://arcsaef.com/ .
+The research aims to identify a suite of example scenarios for how a
+series of terrestrial ASPAs might address the provisions of Article
+3.2 of Annex V. It involves acquiring and analysing relevant
+scientific datasets, by using conservation planning software The
+conservation planning software being used for this work is open
+source and known as prioritizr. It is designed to help build and
+solve conservation planning problems, by formulating a
+mathematical optimisation problem and then solving it to generate
+a solution. In this case, prioritizr is being used to identify possible
+approaches to developing a series of ASPAs that address the
+provisions of Article 3.2 of Annex V. Further information about
+prioritizr is available at: https://prioritizr.net/. to run optimisation
+processes with a variety of input settings.
+Continent-wide datasets being considered for use in the analyses
+include:
+Antarctic Specially Protected Areas
+Wauchope et al. (2019)
+Antarctic Conservation Biogeographic Regions
+Terauds et al. (2012); Terauds & Lee (2016)
+Important Bird Areas
+Harris et al. (2015)
+Ice-free areas
+Antarctic Digital Database; Lee et al. (2017)
+Lakes and streams
+Antarctic Digital Database
+Human footprint
+Brooks et al. (2019)
+Wilderness and inviolate layers
+Derived from Leihy et al. (2020)
+Type Locality data
+Phillips et al. (2022)
+Geothermal hotspots
+Fraser et al. (2014)
+Biodiversity groups represented by species distribution modelling
+data
+Terauds et al. (in preparation 1)
+Biodiversity groups represented by occurrence records
+Terauds et al. (in preparation 2)
+Ecosystem typologies, representing ‘habitats’ delineated by a suite
+of environmental parameters
+Toth et al. (in preparation)
+The scenarios generated through the analysis will provide insight
+into the influence of specific spatial layers (and the values they
+represent) on the distribution and extent of potential future
+protected areas.
+Australia will be pleased to keep interested Members updated on
+this work and, as appropriate, will bring forward further
+information to future CEP meetings.
+References
+Antarctic Digital Database (https://www.add.scar.org/)
+Brooks, S. T., Jabour, J., Van Den Hoff, J., & Bergstrom, D. M.
+(2019). Our footprint on Antarctica competes with nature for rare
+ice-free land. Nature Sustainability 2, 185-190.
+Fraser, C. I, Terauds, A., Smellie, J., Convey, P., and Chown, S. L.
+(2014) Geothermal activity helps life survive glacial cycles.
+Proceedings of the National Academy of Sciences of the United
+States of America 111, 5634-5639.
+Harris, C. M., Lorenz, K., Fishpool, L. D. C., et al. (2015) Important
+Bird Areas in Antarctica 2015. Birdlife International and
+Environmental Research and Assessment Ltd, Cambridge, UK.
+Lee, J. R., Raymond, B., Bracegirdle, T. J., Chades, I., Fuller, R. A,
+Shaw, J. D. & Terauds, A. (2017) Climate change drives expansion
+of Antarctic ice-free habitat. Nature 547, 49-54.
+Leihy, R. I., Coetzee, B. W. W., Morgan, F., Raymond, B., Shaw, J.
+D., Terauds, A. Bastmeijer, K. & Chown, S. L. (2020) Antarctica’s
+wilderness fails to capture continent’s biodiversity. Nature 583,
+567-571.
+Phillips, L. M., Leihy, R. I., & Chown, S. L. (2022). Improving
+species‐based area protection in Antarctica. Conservation Biology
+e13885, https://doi.org/10.1111/cobi.13885.
+Terauds, A., & Lee, J. R. (2016) Antarctic biogeography revisited:
+updating the Antarctic conservation biogeographic regions.
+Diversity and Distributions 22, 836-840.
+Terauds, A., Chown, S. L., Morgan, F., Peat, H. J., Watts, D. J., Keys,
+H., Convey, P., & Bergstrom, D. M. (2012) Conservation
+biogeography of the Antarctic. Diversity and Distributions 18,
+726-741.
+Terauds et al (in preparation 1) Drivers of biodiversity in Antarctica
+Terauds et al (in preparation 2) Antarctic Biodiversity Database
+Wauchope, H. S., Shaw, J. D., & Terauds, A. (2019). A snapshot of
+biodiversity protection in Antarctica. Nature Communications 10,
+1-6.

@@ -1,0 +1,250 @@
+ANTARCTIC TREATY                   TRATADO ANTARTICO
+XXI CONSULTATIVE MEETING         XXI REUNION CONSULTIVA
+
+TRAITE SUR L'ANTARTIQUE           ДОГОВОР ОБ АНТАРКТИКЕ
+XXIeme REUNION CONSULTATIVE      XXI КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+
+
+REPORTING OF TOURIST AND NON-GOVERNMENTAL
+ACTIVITIES IN ANTARCTICA: ANTARCTIC TOURISM
+DATA: PROTOTYPE POST-VISIT DATA ENTRY TOOL
+
+
+
+Agenda item 9                   Submitted by New Zealand
+
+XXI ATCM/IP7
+April, 1997
+Original: English
+Information Paper
+
+XXI Antarctic Treaty Consultative Meeting
+
+May 19 - May 30 1997
+Christchurch, New Zealand
+
+April 4 1997
+Original: English
+Submitted by New Zealand
+
+Reporting of Tourist and Non-Governmental activities in Antarctica:
+
+● Antarctic tourism data: prototype post-visit data entry tool
+
+●
+2
+
+Antarctic tourism data: prototype post-visit data entry tool
+
+1. Introduction
+
+Agreement was reached at the XX Antarctic Treaty Consultative Meeting (ATCM) in Utrecht (1996) to trial a standard format for reporting data on tourist activities within the Antarctic Treaty Area. This format was based on agreements reached at the XVIII ATCM in Kyoto (1994; Recommendation XVIII-1) on those data that should be provided in advance notice of tourist activities, and at the XIX ATCM in Seoul (1995; Resolution XIX-3) on those data that should be reported following visits by tourists. The standard format for post-visit reporting discussed at Utrecht was trialled by tour operators in the 1996-97 season.
+
+To date, reporting of data on tourist activities in Antarctica has been conducted using paper questionnaires, which, once completed, have been sent to national points of contact and recently also copied to the International Association of Antarctica Tour Operators (IAATO). Once received, data have been entered into a database from the paper forms. This task has largely been undertaken by the National Science Foundation (NSF) in the United States and by the Antarctic Unit of the Tourism Board of Tierra del Fuego (IN.FUE.TUR) in Ushuaia, Argentina.
+
+A number of Antarctic Treaty Parties felt there would be advantage in making available an electronic means of collecting tourism data directly in digital form. This was anticipated both to make entering data by tour operators simpler and quicker, and the task of receiving data submitted much easier by those collating the data. It was felt that the provision of such a data entry tool would assist tour operators with data collection, improve the comparability and accessibility of data collected and assist reporting on the status of the Antarctic tour industry to the Antarctic Treaty Consultative Meeting.
+
+A number of Antarctic Treaty Parties (France, The Netherlands, New Zealand and the United Kingdom) funded the International Centre for Antarctic Information and Research (ICAIR) (an independent centre in Christchurch, New Zealand, that specialises in Antarctic environmental data and data management) to develop a prototype electronic data entry tool that could meet these requirements and conform to the standard post-visit data reporting format agreed at Utrecht for trial.
+3
+
+The prototype is presently undergoing review and beta-testing. When testing is complete the tool 
+can be made freely available to the Antarctic tour industry and those responsible for collating data. 
+This paper describes the prototype developed and identifies steps that could be taken, if there is 
+support from Antarctic Treaty Parties and the Antarctic tour industry, to develop the prototype 
+into an operational tool.
+
+2. Antarctic Tourism Data Entry Tool: prototype version
+
+The prototype data entry tool has been developed using the widely available, standard and 
+relatively low-cost database software Microsoft Access ®. The prototype has been developed for 
+use on a standard personal computer running Microsoft Windows ® software.  An Apple Macintosh 
+® version has not been developed at this stage. The tool conforms to the format for post-visit 
+reporting adopted at Utrecht for trial and consists of an Expedition Record, which holds information 
+relating to the entire expedition, and a Site Visit Record, which holds information on specific sites 
+tourists visited. Of necessity the tool has been designed so that information gathered can be handled 
+and queried efficiently within a computer database.
+
+3. Benefits of the data entry tool
+
+The tourism data entry tool developed offers a number of significant advantages to the tour industry 
+and to those responsible for collating the data. These benefits may be summarised as:
+
+1. Intuitive and graphical user-interface which is easy to use;
+2. Automation of a number of the data entry tasks;
+3. Collection of the data directly in digital form;
+4. Built in error checking systems;
+5. Enabling data entry in the most consistent and comparable way;
+6. Facilitation of more rapid incorporation of data into standard database applications post-season 
+   for collation / analysis;
+7. Compatibility with standard and cheap computer systems;
+8. Implementation of industry - standard and routine database techniques;
+9. Reduction of ambiguity introduced in the past by illegible handwriting;
+10. Reduction in volume of paper circulated in reports.
+4. Development of the prototype into an operational tool
+
+When the tool is approved for use in conformity with agreements reached within the Antarctic Treaty System and has been fully reviewed and tested, a ‘run-time’ version can be developed for free distribution and use that does not require availability of the full Microsoft Access ® software. This ‘run-time’ version would be self-installing and could be distributed free for use on tour vessels next season. A simple and brief user-manual and a built-in help facility could easily be developed to accompany the tool.
+
+5. Data management and access following data collection
+
+Formal data management procedures following data collection are important if a reliable and internationally accessible database on Antarctic tourism is to be established.  Under Antarctic Treaty agreements, data collected by tour operators on their expeditions should be submitted to appropriate national authorities. In order to build a complete database of all tourist activities from a given season it is necessary to integrate data from all of the individual expeditions. The US National Science Foundation has performed this task in previous years from the earlier paper forms, data being held in a database at NSF. Recently IAATO has archived copies of data forms collected.
+
+Modern computer data management involves the technical aspects of establishing the database (data integration, quality assurance, efficient storage and retrieval tools), assuring data confidentiality where appropriate, ensuring timely and easy access to data, provision of data query tools, planning of long-term data preservation (e.g. insuring against technological change as data systems age), and maintaining continuity as data needs may evolve over time. More specifically, there would be benefit in enabling links to other related databases (e.g. environmental monitoring data or data characterizing sites visited). While such tasks are important for the integrity and accessibility of data collected, resources are scarce for such activities, so they must be achieved on a practical and cost-effective basis. Rapid developments in World Wide Web and Internet technologies have now enabled remote access and interrogation of databases from user-friendly ‘Web Browsers’, which offer great potential for rapid and widespread access to a database on Antarctic tourism. These tools, teamed with traditional forms of data distribution, may offer a practical and cost-effective solution to international data access.
+5
+
+The type of data system described above is similar in principle to one already developed by SCAR 
+and COMNAP for the operation of the Antarctic Master Directory (AMD). This system 
+combines records submitted to national points of contact (the National Antarctic Data Centres) into 
+a master database (the AMD) which is operated and maintained by an AMD Host. The AMD 
+Host is responsible for all aspects of data management and for distributing back out to the user 
+community the fully integrated and quality assured database. The AMD is funded by a consortium 
+of countries (France, Italy, New Zealand and the United States). A similar approach could be 
+adopted for access to tourism data, but an alternative approach to funding the operation involving 
+the tour industry could be explored.
+
+6. Special features of the prototype data entry tool
+
+  A number of features in the prototype data entry tool are designed to make the task of entering data 
+on tourist activities easier and more consistent:
+
+  1. Completing the itinerary:
+  Data on expedition itinerary has been organized into fields for date and location of visit (Figure 1), 
+which in future versions could easily be linked to a gazetteer of Antarctic place names. Entering data 
+in this way allows more rapid data entry and more flexible use of itinerary information once in the 
+database. Links to a gazetteer would be able to accommodate the common Antarctic situation where 
+there are several names for one place. While there is an appearance of duplication between this 
+section and the Site Visit Record explained below, this is necessary to allow reporting of the 
+itinerary to locations where site visits per se are not undertaken.
+
+  2. Completing observer affiliation:
+  A simple sub-table is provided to enter or edit the names of official observers and/or national 
+representatives and their affiliation details (Figure 2). A rapid-entry scrolling pick-list is 
+automatically built from the observers entered from this sub-form, which can then be used for 
+multiple expeditions without having to re-type affiliation details.
+
+  3. Completing the manifest - country of origin:
+  A table is provided for entering data on the tour manifest (Figure 1). The International Standards 
+Organization (ISO) standard list of countries is built into the data entry tool so the user can quickly
+6
+
+select the country of origin from a scrolling list. The software moves automatically to a country on 
+the list as the user types the first few letters of the country name, eliminating the need to scroll 
+through the entire list. This country is then highlighted for the user to select.
+
+4. Completing the manifest totals:
+
+The software has built-in a facility for calculating and displaying the totals of passengers, staff, crew 
+and observers (and the grand total) from the country-specific data entered by the user (Figure 1). 
+This facility eliminates the potential for user error in making these calculations, and also serves as an 
+error checking system: if the total calculated does not equal what the user believes is the total 
+number on the tour then it is obvious that an error has been made at data entry which the user can 
+then correct.
+
+5. Completing the Site Visit Record - general features:
+
+Specific data on site visits is added in a sub-table (Figure 3) and then, once completed, displayed in a 
+panel on the main form (Figure 4).
+
+6. Completing the Site Visit Record - places visited:
+
+A gazetteer of landing sites with latitude and longitude coordinates could be built into the tool. This 
+would allow users to select place names and the coordinates would be entered automatically by the 
+software.
+
+7. Completing the Site Visit Record - duration of visit:
+
+The software calculates the duration of a visit automatically from the departure and return times 
+entered for a site visit (Figure 3). This approach makes data entry simpler for the user and reduces 
+error associated with users guessing the amount of time elapsed during a site visit.
+
+8. Signing the completed form:
+
+The computer-based form does not allow those entering data to sign the form with personal 
+signatures. Instead, a facility is provided for the person entering the data to enter their name and the 
+date on which the form was completed (Figure 4).
+Figure 4
+One line should be completed per site wherever Expedition members disembark or journey beyond base or camp
+
+
+Location         Date       # Name?   Lat   Long   Pax   Staff Crew   Obs   Total
+Bellinghausen   # Name?    0     0      110     18       13     123  149
+Penguin Island   # Name?    0     0      120     16       13     149  132
+Arctowski        # Name?    0     0      108     15       16     132  140
+Archo Island     # Name?    0     0      113     15       13     140  132
+Paulet Island    # Name?    0     0      113     15       13     140  132
+                                                             Total   140
+
+Report any actions taken in case of emergency
+
+Any other comments or information (eg impacts observed,
+changes from expedition Advance Notification).
+(Bellinghausen: 
+(Dropped 2 passengers or several day visit to station. Due to be picked up
+by another vessel.
+
+Used 2 landing sites: 1 on Penguin Island, 1 on Turret Point.
+
+Has an Expedition meteorological report been submitted to the World Meteorological organisation: 
+  Yes  ●
+  No   ○
+  Don't know   ○
+
+Date report completed: 
+Records:  1K   Page:  10   of   82   ●   ◇   ▸▸   ▸|   |◁   ◁◁
+Figure  3
+
+Landing                                                                                  -  |X|
+Site Visit Record
+Location  Commonwealth Bay          Latitude          Longitude  0
+Number of people making site visit
+Pax  36  Staff  4  Crew  2  Observers  0  Total  44
+Date  1/01/96 10:00:00  [dd/mm/yy hh:mm]                  Activities at site
+        first people left vessel/aircraft/base/camp         Activity
+Date  5/01/96 15:30:00  [dd/mm/yy hh:mm]                  Small Boat Landing 
+        last people returned to vessel/aircraft/base/camp  Aircraft Flight 
+Time elapsed during site visit:                         Aircraft Landing 
+Days  4  Hours  5  Mins  30                            Camping 
+                                                        Helicopter Flight 
+                                                        Helicopter Landing 
+                                                        Small Boat Cruise 
+                                                        Small Boat Landing 
+                                                        Station Visit 
+Save and create new Site Visit Record  Save and ex
+Record  14  1  1   at 531
+Big Observers 
+Figure 2 
+Observer affiliation 
+Last name        McFee 
+First name       Cathy 
+Affiliation       Department of Conservation 
+Address           P.O. Box 743, Invercargill 
+International phone       +64-3-21 14 589 
+International fax         +64-3-21 14 486 
+E-mail             
+
+* Record of 1 [Filtered]
+Figure 1
+
+Expedition
+
+Antarctic Tourism Data Entry Tool: prototype
+
+This information is requested in compliance with Antarctic Treaty Recommendation XVIII-1 and Resolution XIX-3. Please submit to the appropriate national authority within three months of the activity having taken
+
+Post-visit Report: Expedition Record
+
+Expedition Leader:        Taylor Ricketts         4/01/95 Punta Arenas
+Vessel/aircraft name     World Discoverer       5/01/95 Romanche Glacier
+Captain/commander name: Ralf Zander           6/01/95 Cape Horn
+                                                         7/01/95 Drake Passage
+Vessel type               Ship                  ?    Collins ?[?]C[?]
+
+Official Observers / National Representative              Manifest - record of Expedition numbers by nationality
+
+| Observer         |                                      | Nationality     | Pax | Staff | Crew | Sub_Total |
+|------------------|--------------------------------------|-----------------|-----|-------|------|-----------|
+| Chaplin, Paul    |                                      | UNITED KINGDO   | 9   | 1     | 0    | 10        |
+| Record: 14 | 1 | 1 | ** | of 1                     | PHILIPPINES     | 0   | 0     | 45   | 45        |
+|                  |                                      | GERMANY         | 46  | 4     | 16   | 66        |
+| Add/Edit Observer |                                      | SWITZERLAND     | 6   | 0     | 5    | 11        |
+| Add/Edit Site Visit Record                       | TOTALS          | 126 | 15    | 72   | 213       |

@@ -1,0 +1,199 @@
+﻿
+
+
+
+
+
+Systematic Environmental Protection in Antarctica: Final report on Environmental Domains Analysis for the Antarctic continent as a dynamic model for a systematic environmental geographic framework for Annex V of the Protocol
+
+
+
+
+
+
+Systematic Environmental Protection in Antarctica: Final report on Environmental Domains Analysis for the Antarctic continent as a dynamic model for a systematic environmental geographic framework for Annex V of the Protocol
+Executive Summary 
+After final examination, the classification of Antarctic Environments created using Environmental Domains Analysis at the continental scale is presented to the Committee for Environmental Protection (CEP). The classification presented here is the best that we can achieve using currently available climate, slope, land cover and geological data. Further data including biotic, permafrost/soils and lake databases at the continental scale will continue to improve it. However, the current classification provides a scientifically sound basis for a systematic spatial classification of Antarctica into Environments of quantifiable character and is recommended to the CEP as a dynamic model for a systematic environmental geographic framework, provided for in Article 3(2) of Annex V of the Protocol, for the Antarctic continent.
+Background
+Since 2000 New Zealand has been working on a systematic environmental geographic framework (SEGF) in order to provide substance to this undefined phrase in Article 3(2) of Annex V of the Protocol.  Some potential uses of a SEGF were noted in previous papers (e.g. ATCM XXVI/WP 20). A four to six year programme was set out at CEP VI (2003) to develop and publish an operational classification, with a website for internet delivery to end-users.
+At CEP VIII New Zealand presented Working Paper ATCM XXVIII/WP 2, Information Paper ATCM XVIII/IP 44 and a power point presentation to demonstrate a “proof of concept” classification, Version 1.0, at the scale of the Antarctic continent, of a sub-sample of over 13 million 1000m pixels from eight underlying data layers, into 20 Environments (also known as “Environmental domains”), using Environmental Domains Analysis (EDA).  At CEP IX, New Zealand presented Working Paper ATCM XXIX/WP 32 with an upgraded classification and feedback based on issues identified at CEP VIII and resulting input.  ATCM XXIX/IP 41 was also tabled on a regional scale classification for the region around Larsemann Hills ice-free area showing the application of EDA at finer scales.
+Final version of the Environmental Domains Analysis at the continental scale
+At CEP X, New Zealand presented Working Paper ATCM XXIX/WP 12 as a final progress report with a preliminary version of an upgraded classification (preliminary version 2.0). It incorporated changes made to the underlying data layers used in the original classification (Version 1.0, 2005), an upgrade (Version 1.1, 2006 presented at CEP IX) which included a layer that defined “ice-free” areas, and finally a clipping of all geological information to those areas of ice-free terrain, based on the most up-to-date ice cover data from the Antarctic Digital Database. This has improved the quality of the resulting classification for two reasons. There is now less variability within Environments that have geological information.  This in turn increases the accuracy of “ice-free” Environments because of the strong correlation between ice-free areas and areas with geological data. Secondly, the reduction in spatial extent of geology data within environmental space means less statistical variability and more accurate representation of the non ice-free Environments.  Version 2.0 was reviewed in New Zealand following CEP X and is presented here in its final form (Figure 1 and Annex).
+Within the classification shown in Version 2.0 there are 21 Environments, one more than in the original classification. This is a result of combination of Environments in a hierarchical process to provide the statistically best overall classification at an operationally practical scale. A full description of these Environments, individual maps of them (as well as further details on the project background and the classification process itself) are contained in the technical report (Morgan and others 2007) associated with this Working Paper. Brief descriptions of the 21 Environments are in Table 1 in the Annex to this paper. By location and ice cover broadly similar Environments are:
+    • Ice free parts of the Antarctic Peninsula and off shore islands there plus small low latitude parts of East Antarctica (Environments A-D and G);
+    • Ice shelves and other floating glaciers (Environments F, H-K and P);
+    • Ice caps and glaciers covering most of the Antarctic Peninsula and off shore islands there (Environment E);
+    • Ice sheet of the main continental coast, slope and mid-latitude regions (Environments L-N);
+    • Ice sheet of the West and East Antarctic interiors and southern ice caps (Environments O, Q);
+    • Mountainous areas with generally small amounts of ice cover (Environments R-U).
+
+Ground truthing of version 2.0 using ice cover and ice sheet temperatures was illustrated in ATCM XXX/WP 12. This showed how the classification differentiated between the surface temperature and the upper layers of the Antarctic ice sheet at the lower, warmer coastal zone of the ice sheet including Law Dome (Environment L), the West Antarctic Ice Sheet (WAIS) including the location of the Byrd borehole (Environment O) and the East Antarctic Ice Sheet (EAIS) in particular the highest (mostly above about 2300m), coldest and generally flatter parts, including Vostok Station (Environment Q). 
+Different combinations of Environments are possible, depending on their degree of environmental relatedness.  Figure 2 shows a classification grouped into 17 Environments, rather than the 21 shown in Figure 1. The 17 grouping combines closely related Environments A and B (northern Antarctic Peninsula geologic Environments), J and K (most northern and southern coastal fringe ice shelves and other floating glaciers), M and N (continental slope and mid-latitude ice sheet) and U and T (relatively northern mountainous Environments). Figure 3 shows a classification further grouped into only 14 Environments, combining closely related Environments C and D (southern Antarctic Peninsula and small East Antarctic coastal geologic Environments), E and F (Antarctic Peninsular ice caps and glaciers with Larsen Ice Shelf), plus I with J and K (all coastal fringe ice shelves and other floating glaciers except some low latitude ice tongues in East Antarctica). These combinations represent simplified classifications that some users may prefer, especially as some of the distinctions between types of floating glacier are relatively subtle in the land cover layer sourced from version 4.1 of the Antarctic Digital Database.  However, grouping Larsen Ice Shelf with ice caps and glaciers on the Antarctic Peninsula, or grouping different rock lithologies, means real and potentially useful distinctions are lost with the combinations shown in Figures 2 and 3. As the number of Environments are decreased the role of climate in the classification is reduced which represents a significant weakening of the role of this important driver of the Antarctic environment.  Nevertheless future users of the EDA may want to refer to the dendrogram (Figure 4), which illustrates the hierarchical process and the relationship between Environments. For example, it shows why the pairs of Environments A and B, J and K, L and M, and U and T group together when compressing the classification from 21 to 17 Environments.  In real situations and for further ground truthing, knowledge of such close relationships or groupings of Environments may prove useful in specific parts of Antarctica when applying the EDA.
+At CEP X the Russian Federation noted that Antarctic lakes would be a useful layer in the EDA given their important scientific and environmental value (CEP X Report, paragraph 183). ATCM XXX/IP 41 showed how the classification process can be applied at regional and local operational scales using detailed data to produce a high precision classification. At a local level an Environment comprised of the small fresh water lakes at Larsemann Hills was able to be presented as a separate classification layer. But there are technical challenges to including lakes at a continental scale due to the additional processing required of raw and resampled data (e.g. those presented with different map projections), the reliance of the regional classification on the continental classifications data, and the large amount of data required to be manipulated. Adding lakes at this time would complicate the classification as this distinctive landform is spread across the continent and would need three to four Environments or more to classify. That would limit the effectiveness of the classification in identifying other Environments. To include lakes would need something like 30 Environments, which would mean a complete reclassification. Physical, chemical and biological data would help to differentiate them. A lake layer at a continent scale was not possible to achieve before the completion of the classification project.
+
+Figure 1 –
+Left: Environmental Domains Analysis 21 group classification for the Antarctic continent (V 2.0)
+Right: 21 group classification focused on Victoria Land north of Drygalski Ice Tongue, and Oates Land showing four of the six Environments of floating glacial ice, including the distinction between ice shelves (purple) and ice tongues(orange) between the Drygalski and Tucker Glacier “inherited” from the COAST layer in the Antarctic Digital Database
+
+
+
+                              
+
+
+
+Figure 2 – 
+Left: Environmental Domains Analysis 17 group classification for the Antarctic continent (V 2.0)
+Right: 17 group classification focused on North Victoria and Oates lands showing three different Environments of floating glacial ice there out of the total of five for this grouping with the distinction in Fig 1 Right no longer made. Note that the classification software uses some different colours in these groupings
+
+
+
+
+
+
+
+Figure 3 – 
+Left: Environmental Domains Analysis 14 group classification for the Antarctic continent (V 2.0)
+Right: 14 group classification focused on Antarctic Peninsula showing combination of Antarctic Peninsular ice caps and glaciers Environment with Larsen Ice Shelf Environment
+
+
+
+
+
+
+
+Figure 4 - 21 Group dendrogram for EDA Version 2.0. Letters A, B...U are the Environments referred to in the text
+
+Application of the Environmental Domains Analysis to a systematic environmental-geographic framework
+1. Theoretical basis for the application consistent with Annex V of the Environmental Protocol 
+
+Annex V of the Protocol defines the basic structure or framework for Antarctic Specially Protected Areas (ASPAs) with a list of values that may merit special protection (Article 3(1) and types or examples of area to be protected (Article 3(2)). Article 3(2) of Annex V states that Parties shall seek to identify such areas within a systematic environmental-geographical framework.
+The 21 different Environments in Figure 1 represent 21 different environmental-geographic regions that fit together into a logical, integrated and complete system of regions representing Antarctica as a whole. This provides the fundamental scientific basis for the additional tool for protected areas as envisaged in, and consistent with, Article 3(2).
+Environmental geographic frameworks are methods of classifying or organising subsets of environmental and geographic characteristics such as different types of ecosystem (e.g. SCAR matrix), habitat, geographic area, terrain, geology, and climate into environmental or geographic regions. Each region is distinctive or in some way different from other regions but some might have characteristics in common. These methods are well established around the world.
+Version 2.0 Environmental Domains Analysis seems an appropriate dynamic model for a systematic environmental geographic framework for the continent. This would recognize that the underlying datasets have been taken as far as possible, now the main data quality issues have been solved.  Assessing the potential fit of continental-scale data involving biota (e.g. the UK’s Antarctic Plant Database, SCAR’s RiSCC database), biogeography and soils (e.g. ANTPAS) and lakes (e.g. ADD Lakes database) will likely add depth to the framework when available, as proposed by SCAR (CEP X Report, paragraph 185) or reveal other ways it may be applied. Addressing wilderness and aesthetic values (e.g. CEP VI Report, paragraph 144) will require further work, perhaps in conjunction with databases of human activity prepared by COMNAP. Until then the EDA will address an immediate need. A recommendation to adopt it as a dynamic model for a systematic environmental geographic framework is made in the Annex to this paper.
+2. Application of Environmental Domains Analysis
+
+ATCM XXVI/WP 20 listed several ways in which EDA could assist the CEP with systematic environmental protection in Antarctica.  Some applications of EDA to this list are outlined here with examples either in the list or expanded upon below. An EDA can help:
+    1) enable representativeness of proposed and existing protected areas, ecosystems etc to be assessed efficiently, transparently and repeatedly (see below);
+    2) identify areas with similar environmental and habitat characteristics including places where important aspects of biodiversity and ecosystem processes are likely to be located (for example, an Environment containing specific lakes could be used as a surrogate for classification of the in-situ condition of those lakes or aquatic processes associated with them);
+    3) assist with the assessment of rarity and/or distinctiveness of areas, species and ecosystem processes (EDA was used in this way by the UK in examining a proposed ASPA for Marion Nunatak and Charcot Island presented to CEP X (ATCM XXX/WP21); 
+    4) enable more systematic risk assessments of proposed protected areas by taking account of  environmental and geographic differences in Antarctica (see below);
+    5) allow the CEP to objectively assess goals and achievement of targets for specific types or numbers of areas that may be agreed as especially important (e.g. inviolate or reference areas discussed at CEP I Report paragraph 49 iii) within an overall goal of achieving an agreed comprehensive system of protected areas (see below); 
+    6) provide a scientific basis for classification of Antarctic environments that could underpin and potentially help integrate management of protected areas, cumulative impacts, environmental monitoring and reporting and other measures in the Antarctic Treaty System for managing human impact (see below);
+    7) help predict the potential spread of introduced species and severity of invasion in order to optimise management response. (For example, an invasion of a cold-adapted alien plant species into an ice-free area in Environment G in some offshore islands of the Antarctic Peninsula could be expected to survive elsewhere in Environment G but would be less likely to establish in ice-free parts of Environments A-C. Management action should be prioritised on eradication in areas of Environment G first);
+    8) help identify key gaps in environmental knowledge for understanding human impacts including climate-sensitive processes, other earth system processes, ecosystem sensitivity, disturbance to biota and natural variation (see below).
+
+Representativeness
+The Guidelines for implementation of the Framework for Protected Areas set forth in Article 3, Annex V of the Environmental Protocol (ATCM SXII/Resolution 1, 2000) outline a step-by-step checklist for assessing potential protected areas. Table 3 and Figure 1 in those Guidelines refer to the assessment of “quality aspects” of proposed protected areas, including the representativeness with other comparable parts of Antarctica, for instance in terms of diversity, distinctiveness, ecological importance, degree of human use or impact, and potential of the area for science or monitoring. The 21 different Environments (i.e. environmental-geographic regions) illustrated in Figure 1 and the Annex to this paper provides a basis for assessment of representativeness.
+Analysis of representativeness of Environments in current ASPAs and ASMAs provides statistics that may help guide future work of the Committee. At CEP IX New Zealand presented an analysis of the representativeness of ASPAs and Antarctic Specially Managed Areas in the version 1.0 Environments. That analysis has been repeated for version 2.0 Environments in the technical report associated with this Working Paper (e.g. at the individual Environment descriptions and maps and summarised in Table 26 of Morgan and others 2007). ASPAs 128 (western shore King George Island) and 137 (Northwest White Island) contain examples of three Environments each, while ASMA 2 (McMurdo Dry Valleys) contain six Environments. Environments F, H and J are not represented in any ASPA or ASMA, while Environments C, I, K, M, N, Q R, T and U are represented in only one or no ASPAs. For example Environment Q (East Antarctic high interior ice sheet) is represented only in ASMA 2.
+
+Environmental risk, environmental monitoring and research
+
+Examining environmental risk to the poorly represented Environments listed above would be an essential next step in the assessment process illustrated in the Guidelines (e.g. Table 5). While detailed risk assessment is beyond the scope of this paper, it can be noted that Environments F (Larsen Ice Shelf), J (includes Pine Island Glacier) and K (includes Wordie and Wilkins ice shelves) have proved or are appearing to be vulnerable to warming climate and/or ocean water: these Environments and others with floating glaciers potentially vulnerable due to their latitude (Environments H and I) might be candidates for greater environmental monitoring or State of Environment Reporting, as well as research. 
+Managing direct human impacts in the Antarctic is of ongoing concern to the CEP. Microbiota in the warmer Environments such as A, B and G could be more vulnerable to invasion by alien microbiota and might be suitable for more detailed scientific study. Some ice free areas in Environments C, R, T and U might be vulnerable to slow cumulative effects of human visitation over time, and gradual erosion of wilderness values. Ice sheet Environment Q although vast has several drill-holes containing antifreeze fluids which are non-transient point sources of human impact. Maps in the report ‘Exploration of Antarctic Subglacial Aquatic Environments’ (NRC 2007) show that Environment Q contains most of the subglacial lakes discovered so far, with Environments M and N containing almost all the others.  The risk of contamination of these lakes is well recognized. 
+
+Potential for identifying specific conservation targets and proposing additional ASPAs
+The kinds of analyses above would assist a Party or institution of the Antarctic Treaty System to identify specific areas where additional protection would best be applied to achieve specific goals for protection. For example a specific target might be to protect a slightly larger proportion of the 31581 km2 Environment R by designating another ASPA in addition to the important 57.2 km2 ASPA 119 (Forlidas Pond and Davis Valley ponds at Dufek Massif). This covers only 0.18% of Environment R. The aims and objectives of the Management Plan for ASPA 119 would be a useful guide to such an additional ASPA using the Guide to the Preparation of Management Plans available of the ATS and CEP websites (www.cep.ats.aq). 
+ Availability and dissemination of the EDA classification
+The classification layers of Version 2.0 are available now from the New Zealand agencies involved, and further documentation is provided in the technical document (Morgan and others 2007) available at CEP XI. Discussions with COMNAP and the ATS Secretariat have indicated that shapefiles and pdf maps can be created with statistics and associated data such as stations, airstrips and protected areas added.  Some of the domain files are too large for online use so ways to simplify them or reduce the detail need to be found. Internet transmission tools are becoming more readily available so dissemination of the classification and underlying data layers will be achievable so they will be more widely available. The report by Morgan and others (2007) needs to be widely available also and should be made available as a pdf document on the CEP website.
+Conclusion 
+Environmental Domains Analysis provides an appropriate dynamic model for a systematic environmental geographic framework for the continent.  EDA is consistent with criteria for good systematic planning frameworks established around the world, including being:
+    • science-based yet simple and understandable
+    • comprehensive and spanning the extremes of the environment
+    • finite rather than open-ended.
+Addition of further data over the years indicates that the classification process itself is robust and able to incorporate new data. Until further data, analysis and understanding of this classification process, and related environmental processes in Antarctica, are available and applied, the EDA version 2.0 (2007) presented here seems an ideal candidate for a systematic environmental geographic framework for the continent. Therefore a recommendation is made to the Committee in the attached draft Resolution (Annex I).  
+In addition to the draft Resolution, New Zealand proposes that the final report for CEP XI record agreement that the technical report and classification data referred to as parts of the dynamic model be made available as references on the CEP website.
+References
+
+Morgan F, Barker G, Briggs C, Price R and Keys H. 2007. Environmental Domains of Antarctica, Version 2.0 Final Report, Manaaki Whenua Landcare Research New Zealand Ltd, 89 pages.
+
+National Research Council 2007. Exploration of Antarctic Subglacial Aquatic Environments. Committee on Principles of Environmental Stewardship for the Exploration and Study of Subglacial Environments. National Academies press, Washington DC USA, 162 pages.
+
+Acknowledgements
+Many colleagues and agencies from New Zealand, Australia, Russian Federation, United States of America, United Kingdom, COMNAP, SCAR and the Antarctic Treaty Secretariat have assisted with data and advice over of the years of this project. The New Zealand delegation and agencies involved are very grateful for this support. In New Zealand the work was funded by Antarctica New Zealand, Department of Conservation, Ministry of Foreign Affairs and Trade, Ministry for the Environment, and Landcare Research Ltd. 
+
+
+
+Annex I: Draft Resolution
+
+Resolution X (2008)
+Environmental Domains Analysis for the Antarctic continent as a dynamic model for a systematic environmental geographic framework
+
+The Representatives,
+
+Noting that Article 3 of Annex V to the Protocol on Protection to the Antarctic Treaty provides a framework for the designation of Antarctic Specially Protected Areas;
+Recognising that these Areas must conform to the requirements of Article 3 of Annex V;
+Noting also that Article 3(2) of Annex V requires Parties to seek to identify such areas within a systematic environmental-geographical framework;
+Conscious of the need to give practical meaning to the phrase “systematic environmental-geographical framework”;
+Recalling Resolution 1 (2000) Guidelines for Implementation of the Framework for Protected Areas;
+
+Recommend that the “Environmental Domains Analysis for the Antarctic Continent”, attached to this Resolution, be used as a dynamic model for the identification of Antarctic Specially Protected Areas within the systematic environmental-geographical framework referred to in Article 3(2) of Annex V of the Protocol.
+
+
+Environmental Domains Analysis for the Antarctic continent (Version 2.0, 2007)
+Environmental geographic frameworks are methods of classifying or organising subsets of environmental and geographic characteristics such as different types of ecosystem, habitat, geographic area, terrain, geology, and climate into environmental or geographic regions. Each region is distinctive or in some way different from other regions but some might have characteristics in common. 
+
+Environmental Domains Analysis (EDA) has been used, at the scale of the Antarctic continent, to classify a sub-sample of over 13 million 1000 m pixels from eight underlying data layers, into 21 Environments (also known as “Environmental Domains”). The classification presented here is the best that can be achieved by this process using currently available climate, slope, land cover and geological data.
+
+The 21 different Environments in Table 1 and Figure 1 represent 21 different environmental-geographic regions that fit together into a logical, integrated and complete system of regions representing Antarctica as a whole. This provides the fundamental scientific basis for the systematic environmental-geographic framework for protected areas as envisaged in, and consistent with, Article 3(2).
+
+A full description of these Environments, individual maps of them (as well as further details on the project background, data layers and the classification process itself) are contained in the technical report by Morgan and others (2007).
+
+Table 1 – Descriptions of Environments in Version 2.0 of Environmental Domains Analysis for the Antarctic continent, including type examples
+
+Alphabet label
+EDA Type Environments and extended descriptors
+A
+Antarctic Peninsula northern geologic
+B
+Antarctic Peninsula mid-northern latitudes geologic
+C
+Antarctic Peninsula southern geologic
+D
+East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+E
+Antarctic Peninsula, Alexander and other islands main ice fields and glaciers)
+F
+Larsen Ice Shelf (also includes Prince Gustav and other northern peninsula ice shelf remnants)
+G
+Antarctic Peninsula offshore islands (e.g. most of Deception Island)
+H
+East Antarctic low latitude glacier tongues (e.g. Mertz, Rennick)
+I
+East Antarctic ice shelves (e.g. Fimbulisen, Amery, Shackleton, Cook, Moubray Bay)
+J
+Southern latitude coastal fringe ice shelves and floating glaciers (e.g. Pine Island,Thwaites, Getz, Drygalski)
+K
+Northern latitude ice shelves (e.g. Wordie, George VI, Wilkins, Abbot, Riser-Larsenisen, Nansen)
+L
+Continental coastal-zone ice sheet
+M
+Continental mid-latitude sloping ice (e.g. Ellsworth & Coats lands, upper Lambert Gl, northern Berkner & Thurston islands)  
+N
+East Antarctic inland ice sheet
+O
+West Antarctic Ice Sheet (also includes inland Coats Land, Taylor Dome, Ross Island ice cap)
+P
+Ross and Ronne-Filchner ice shelves
+Q
+East Antarctic high interior ice sheet
+R
+Transantarctic Mountains geologic (Shackleton Range to Cook Mountains)
+S
+McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+T
+Inland continental geologic (Dronning Maud, MacRobertson, Victoria, Oates lands, Ford Range)
+U
+North Victoria Land geologic (also includes Executive Committee Range, Prince Charles & Jones mountains)
+
+The spatial classification of Antarctica into 21 Environmental Domains is presented in the attached figure. 
+
+Reference
+Morgan F, Barker G, Briggs C, Price R and Keys H. 2007. Environmental Domains of Antarctica Version 2.0 Final Report, Manaaki Whenua Landcare Research New Zealand Ltd, 89 pages.
+
+Figure 1 - Map of Antarctica showing the classification layer with its 21 Environments.
+
+
+
+
+
+

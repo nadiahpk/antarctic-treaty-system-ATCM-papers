@@ -1,0 +1,71 @@
+﻿Relevamiento magnético de las inmediaciones de la BCAA
+Segunda etapa, marzo 2005
+Relevamiento magnético de las inmediaciones de la BCAA
+Segunda etapa, marzo 2005
+
+Introducción
+Teniendo en cuenta los resultados obtenidos en la campaña 2003, documentados durante la XXVI ATCM en el IP 006, así como los objetivos fijados, se procedió a efectuar una mejora en el instrumental de relevamiento magnético construido por técnicos uruguayos, y realizar un nuevo mapeo de superficie, con dos propósitos: 
+    • Verificar la operación del nuevo instrumental bajo condiciones que lo prepararan para su empleo en vuelo de una aeronave.
+    • Corroborar, corregir, y/o actualizar el mapeo digital previo del área.
+Los principales inconvenientes en la fase operativa de la campaña 2003 fueron la dificultad para lograr la orientación correcta del sensor en el terreno blando, y la dependencia de una PC vinculada permanentemente al sensor magnético. Ambos factores se superaron mediante actualizaciones en el instrumental.
+	Además de la actividad de monitoreo implícitas, este proyecto se orienta en la posibilidad de que Uruguay pueda contribuir con las investigaciones y observaciones del campo magnético terrestre en el contexto del SCAR, como en el caso ADMAP y MAGMAP, apoyando a su vez los temas científicos y principios generales señalados para la conmemoración en 2007-2008 del Año Polar Internacional. 
+
+Metodología
+Se distinguen tres etapas claramente:
+    • Diseño, construcción y calibración del instrumental
+    • Realización del mapeo de superficie
+    • Análisis de datos
+
+    • Diseño, construcción y calibración del instrumental
+El análisis de la primera fase en el presente informe incluye las premisas de diseño y las características del instrumento logrado.
+Para superar las dificultades prácticas encontradas durante la campaña previa, así como de la necesidad de automatización de las mediciones para poder emplear una aeronave para el relevamiento magnético, se concluyó necesario construir un instrumento que fuera capaz de autoposicionarse y autoorientarse, y al mismo tiempo, permitiera la toma de medidas a mucha mayor frecuencia, con un peso y volumen compatibles con una aeronave tripulada e incluso para un RPV.
+La forma de llevarlo a la práctica fue a través de un conjunto de sensores inerciales (tres giróscopos y dos acelerómetros biaxiales) de construcción MEMS, y un receptor de GPS miniaturizado. También se incluyó una memoria de estado sólido para almacenamiento de datos, y una unidad de procesamiento capaz de fusionar la información de todos los sensores en una sola lectura de posición y orientación, utilizando el algoritmo de Kalman.
+El magnetómetro mantuvo la tecnología magnetorresistiva gigante, pero mejoró el nivel de interferencias a través de una construcción mejorada. La calibración del magnetómetro se realiza a través de bobinas patrón y corrientes conocidas a través de ellas. Todo el conjunto se alimenta con baterías, y puede colocarse en una góndola de 20cm de largo por 6 de ancho y tres de altura, que puede ser llevada en en interior de una aeronave o el exterior de un RPV.
+
+    • Realización del mapeo de superficie
+Contando con un equipo autónomo y automático, el trabajo del mapeo se vió muy facilitado.
+El único requisito consistió en transportar el instrumento por toda la zona a mapear, teniendo las precauciones del caso para evitar interferir en las mediciones automáticas que se estaban realizando.
+Para ello, se colocó el equipo en una mochila, instalando la antena del GPS tanto en el arnés, a la altura del hombro izquierdo, como sosteniéndola en la mano. Por requerimientos técnicos del GPS, la antena debe tener visión directa de suficientes satélites en el cielo para que el instrumento sea capaz de georeferenciarse, y obtener mediciones útiles.
+Los principales aportes de errores sistemáticos pueden separarse en dos grupos: los causados por error en la referenciación, tanto de posición como de orientación, y los causados por campos interfirientes en la medición magnética, además de otros intrínsecos al instrumento, de menor orden.
+Los errores de referenciación, a su vez, pueden estar originados tanto en la posicion geográfica como en la orientación inercial. 
+La precisión de la posición está dada por la precisión del GPS, variable pero dentro de un límite máximo de 12 metros RMS. 
+Los errores inerciales son más complejos, pues presentan deriva en el tiempo. Para ello, el algoritmo de Kalman procesa las mediciones obtenidas, y junto con la posición, entrega una orientación con una precisión de +/- 3 grados, en el peor caso.  El requisito para ello es la sintonización de las matrices empleadas en el filtro, a la cinemática del sistema en cuestión.
+Como fue construído para ser usado en una aeronave, las aceleraciones y giros esperados fueron incluídos en los cálculos. A consecuencia de ello, el filtro no puede procesar con exactitud las aceleraciones angulares o lineales provenientes de impactos bruscos. Por lo tanto, durante la caminata con el sensor operando, se debe tener especial cuidado en evitar los movimientos muy bruscos, saltos u otros que pueden dar lugar a impactos en el conjunto de sensores.
+Los campos interfirientes son aquellos que no están originados por el entorno a medir, es decir, los propios del instrumento, y los originados en vehículos u otros instrumentos en las inmediaciones del sensor. Para mitigarlos, se tomaron varias precauciones:
+
+No portar objetos metálicos o instrumentos electrónicos
+No realizar mediciones cerca de vehículos
+No utilizar equipos de comunicaciones en la vecindad del sensor
+Descartar los datos obtenidos, cuando las anteriores condiciones son imposibles de cumplir
+
+Teniendo en cuenta las anteriores premisas, se realizaron cuatro caminatas, en las que se obtuvieron alrededor de 17000  muestras, que fueron volcadas a una PC al arribo al laboratorio. 
+
+    • Análisis de datos
+Las 17000 muestras consistieron en una tabla con los siguientes valores medidos:
+
+Latitud
+Longitud
+Hora 
+Orientación angular X
+Orientación angular Y
+Orientación angular Z
+Campo magnético X
+Campo magnético Y
+Campo magnético Z
+
+Aplicando algunas pruebas estadísticas y postprocesamientos, se redujeron a 745 muestras válidas, las que fueron mapeadas sobre una hoja de ploteo, y comparadas con el trabajo realizado en la campaña 2003.
+Mediante la comparación con puntos de control conocidos, se obtuvo una medida de la calidad de los datos de posición y orientación, lográndose una correlación mejor que 92%.
+Al igual que en la campaña anterior, se interpolaron los puntos faltantes en la grilla de la BCAA mediante una función polinómica de segundo grado, a fin de completarla y poder efectuar comparaciones con la existente.
+Mediante operadores matriciales, usuales del procesamiento de imágenes, se obtuvo una correlación mejor que 90% globalmente, con áreas de muy alta correlación y otras de menor coincidencia.
+
+Resultados y conclusiones
+    • Se desarrolló un magnetómetro automatizado y portátil, apto para uso remoto y en especial para realizar en el futuro relevamientos magnéticos aéreos.
+    • Se validó su uso en el campo, en superficie.
+    • Se obtuvo un nuevo mapeo de la superficie en las inmediaciones de la BCAA, en el dominio de la intensidad de campo magnético.
+    • Se observó una correlación aceptable entre dicho mapeo y puntos de control prefijados.
+    • Se midieron diferencias entre este mapeo y el anterior. No se logró precisar el origen de las mismas, pudiendo ser tanto un error instrumental o sistemático, o una evolución a través del tiempo de los valores medidos. Se continúa realizando un análisis pormenorizado para profundizar las conclusiones y perfeccionar el magnetómetro.
+
+
+
+
+

@@ -1,0 +1,77 @@
+﻿
+
+
+
+
+
+Separation of Air Operations in Antarctica
+
+
+
+
+
+
+
+
+Separation of Air Operations in Antarctica
+
+Working Paper submitted by the United Kingdom
+
+
+
+Summary
+
+The growth in the use of a variety of aircraft systems in the Antarctic, with further growth anticipated, has meant that improved systems to ensure the separation of air operations is required. This necessitates systems for tracking aircraft, both from the ground and in the air; the use of ADS-B systems presents a potential solution to this problem. The operation of aircraft, particularly RPAS, around runways also presents a potential issue, as it has done for airports around the world. Seeking ways to ensure the airspace around runways is protected with the possibility of some form of exclusion zone should be considered. Meanwhile flight planning plays an important role in safe flight operations, as does the advanced exchange of complete and up-to-date information. COMNAPs development of a position reporting system with the ability to incorporate data from non-governmental operators presents a potential solution to this challenge. 
+
+Background
+
+    1. In 2017, Norway, Australia and the United Kingdom presented ATCM XL/WP46 Non-governmental operators Infrastructure & Operations related to Air operations – Possible impact on National programs in Antarctica. The paper described the growth in non-governmental air operations and the need for the ATCM to take a strategic look at this issue.  Aviation matters were included in the Multi-Year Strategic Workplan, and it was agreed that ATCM XLII would have a specific focus on these issues.
+
+    2. Over the past few decades, growth in aircraft activity in Antarctica has not just been of  personned fixed-wing aircraft, but there has also been a significant increase in the use of other forms of aerial activity, including helicopters, Remotely Piloted Aircraft Systems (RPAS) , Long Duration Balloons (LDBs)  and weather balloons, both by Government and non-governmental operators. Maintaining the safety of aircraft remains the primary concern, and integral to that is separation of all these platforms in either space or time.
+
+    3. The establishment of a common VHF-frequency Traffic Information Broadcast by Aircraft (TIBA) for the broadcast of Antarctic aircraft position reports came about following Antarctic Treaty Meeting of Experts on Air Operations (1989) which recommended establishing TIBA for the Antarctic Treaty Area.  As a result, in August 1990, COMNAP established the TIBA frequency for all Antarctic aircraft as 129.7 MHz and is now included in Appendix 5 of AFIM. This was a huge step forward in managing aircraft separation. However, this has been largely superseded by technology that is both reliable, cheap and mandated in much of the world for ensuring the separation of aircraft.
+
+Automatic Dependent Surveillance – Broadcast
+
+    4. Many countries have, or are in the process of, mandating the use of a system that allows tracking of aircraft by both ground installations and other aircraft. This technology uses GPS to provide a position, which the aircraft then automatically transmits: Automatic Dependent Surveillance – Broadcast, abbreviated to ADS-B. It is not reliant on ground-based systems or radar; consequently, it can be used by other aircraft to provide situational awareness and allow self-separation.
+
+    5. This system would seem to be particularly sensible for use in Antarctica given the limited alternative aircraft tracking options available. ADS-B (“In and Out” systems) are readily available for aircraft and many countries are planning to make the use of these systems mandatory over the next few years.  Smaller ADS-B (“Out” systems) are also now available for a few hundred US Dollars and weighing less than 100 grams. 
+
+    6. Such systems could therefore easily be used on all types of aircraft system, including, for example, RPAS or bigger balloons. The advent of larger fixed-wing RPAS platforms has meant that the possibility of RPAS operating beyond the line of sight of the operator at ranges of hundreds of kilometres is now realistic, while there is a growing use of balloons of considerable size and which stay aloft for weeks. Although the chance of these systems interacting with personned aircraft are very remote, the consequences could be severe and safety must be our priority.
+
+    7. Consideration should therefore be given to mandating the use of these ADS-B systems in any aircraft, whether fixed-wing plane, helicopter, RPAS or balloon.
+
+Runway De-confliction
+
+    8. Aircraft separation is particularly important in relation to the area around runways. Any aircraft, however small, can cause a problem if operated in close proximity to a working runway. This has been seen at airports around the world in recent years. 
+
+    9. Currently there are few restrictions on the operation of aircraft around a runway in Antarctica; this leaves runway operators with limited options for restricting activity even in very close proximity.
+
+    10. A system prohibiting the operation of an aircraft, or any aerial equipment, within a certain distance of a runway without prior notification of the operator of that runway is therefore necessary to further de-conflict air operations. 
+
+    11. An Aerodrome Traffic Zone, which is an established concept under International Civil Aviation Organization Annex 2 “Rules of the Air” could be used as a template and might include an inner exclusion zone which requires the direct authorisation of the runway operator prior to use, and an outer exclusion zone which requires only the notification of the runway operator. A timeframe for such a system would need to be established.
+
+    12. If the ATCM agrees that such exclusion zones are necessary, it may be sensible to seek COMNAP’s advice as to how such a system could best be designed and implemented.
+ 
+Flight Planning & Information Exchange
+
+    13. Planning plays an important role in safe flight operations as does the advanced exchange of complete and up-to-date information that relates to both operations and infrastructure related to air operations. The Notification to Airmen (NOTAM) system is an example of a worldwide system of standardised format allowing promulgation of information relating to safe air operations.  With no central, continent-wide air operations authority for the Treaty area, important aspects of planning and information exchange are not always available.
+
+    14. The Antarctic Flight Information Manual (AFIM) fills the void in relation to air infrastructures and is a tool that can be used for planning purposes.  Parties must ensure the information that informs AFIM is current and comprehensive. 
+
+    15. In regards to real-time air activity position reporting, there is currently no system in place for the Treaty Area that covers all air activity. COMNAP has developed a position tracking system that can include all aircraft that are equipped with technology to automatically report their aircraft position data. National Antarctic Programs have access to the system and it is capable of including all air activity regardless of whether governmental or non-governmental operators. 
+
+    16. All National Antarctic Programmes and aircraft operators in support of those programs should be required to comply with their responsibilities to promulgate information through the COMNAP systems. Given the growth in non-governmental air activity, however, it would also be appropriate if COMNAP could make provision for those non-governmental operators using personned fixed-wing and rotary-wing aircraft to be able to access and input information into this system. National competent authorities should consider mandating operators to use such a system. 
+
+    17. Consideration of how this could then be entered into the formal NOTAM system should be given and then it would automatically appear when any aircraft flight plan was submitted.
+
+Recommendation
+
+    18. The United Kingdom would recommend that the ATCM:
+
+i)	Require the use of ADS-B 'in and out' systems in personned aircraft and helicopters operating in Antarctica. All RPAS capable of operating beyond the visual range of the operator and untethered balloons with a payload greater than 2kg should be ADSB 'out' capable; 
+
+ii)	Request COMNAP to consider how a system of runway de-confliction could be implemented;
+
+iii)	Support the continued development of the COMNAP position reporting system, and request that COMNAP request COMNAP to consider whether it would be possible for the system to be accessed and inputted into by all permitted/authorised non-governmental aircraft operators.
+

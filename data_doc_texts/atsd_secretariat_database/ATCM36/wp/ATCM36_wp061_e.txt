@@ -1,0 +1,67 @@
+﻿
+
+
+
+
+
+SAR-WG. The Commission for the Conservation of Antarctic Marine Living Marine Resources’ Vessel Monitoring System and Its Potential to Contribute to SAR Efforts in the Southern Ocean 
+
+
+
+
+
+
+
+
+
+The Commission for the Conservation of Antarctic Marine Living Marine Resources’ Vessel Monitoring System and Its Potential to Contribute to SAR Efforts in the Southern Ocean 
+
+
+Introduction
+
+    1. Through the Commission’s satellite-linked vessel monitoring system (VMS), the CCAMLR Secretariat is in close to real-time contact with flag State Fisheries Monitoring Centres (FMC) and/or vessels that are authorised by CCAMLR Member’s to fish in the CAMLR Convention Area.  CCAMLR’s VMS, which includes the vessels themselves and shore-based monitoring stations, has some potential to provide supplemental support to SAR efforts in this region.  
+
+Background
+
+    2. In 2004 CCAMLR adopted Conservation Measure (CM) 10-04 to support the operation of a Vessel Monitoring System (VMS) to:
+
+    • promote the objectives of the Convention and further improve compliance with the relevant conservation measures
+    • deter fishing activities that are not consistent with the objective of the Convention
+    • reinforce and promote the effectiveness the conservation measures already adopted by the Commission
+    • allow Contracting Parties to identify the origins of Dissostichus spp. entering their markets and to determine whether Dissostichus spp. harvested in the Convention Area imported into their territories was caught in a manner consistent with CCAMLR conservation measures.
+
+    3. To meet these objectives the VMS provides data for, inter alia:
+    • monitoring the position of fishing vessels operating in the Convention Area
+    • monitoring the entry, exit and movement of fishing vessels operating in the Convention Area
+    • providing vessel position data for active surveillance activities upon request from Members
+    • providing vessel position data for port and at sea inspections upon request from Members.
+
+
+Overview
+
+    4. CM 10-04 requires a licensed vessel operating in the Convention Area to provide position data at least every four hours to a land-based fisheries monitoring centre (FMC) of the Flag State of the vessel. This information must be forwarded to the CCAMLR Secretariat from the FMC (indirect reporting).
+
+    5. A Contracting Party may also authorise a vessel to report VMS data directly to the Secretariat (direct reporting) in parallel to their own FMC. Most vessels operating in the Convention Area report VMS data directly to the Secretariat in addition to reporting to their FMC. 
+
+    6. Vessels operating in new and exploratory toothfish fisheries must submit VMS data every four hours using either the direct or indirect reporting method. For all other fisheries, VMS data is sent to CCAMLR within 10 days of the vessel departing the Convention Area using the indirect method. Although there is delayed VMS reporting for these vessels the Secretariat has the capacity to communicate in real-time with vessels that have provided the Secretariat with their INMARSAT details1. 
+
+    7. Currently the CCAMLR Secretariat receives VMS data from all 41 licenced vessels operating inside the CAMLR Convention Area. The Secretariat also receives VMS data from approximately 250 toothfish fishing vessels operating outside the Convention Area. The VMS database currently holds approximately seven million records for 300 vessels.
+
+    8. CCAMLR’s VMS accepts direct reporting of VMS data in a number of formats from at least two communication service providers. The two service providers currently used are:
+    • INMARSAT
+    • Argos
+
+    9. Manual reporting may be submitted to the Secretariat by a vessel or FMC if an Automatic Location Communicator (ALC) has failed. 
+
+    10. CCAMLR’s VMS is managed by the Fisheries Monitoring and Compliance Manager and its day to day operations are overseen by the Scheme of International Scientific Observation Coordinator. The CCAMLR Secretariat is able to respond to requests for VMS-related information immediately during core working hours, within 6 hours (usually less) if the request is received out of hours or in near-real time in an emergency.
+
+    11. CM 10-04 provides for Members with designated inspectors to request VMS data for active surveillance operations. 
+
+Possible options for strengthening CCAMLR’s capacity to contribute to SAR efforts in the Southern Ocean
+
+    12. Options may include:
+    • CCAMLR Members that are flag States to be required to provide emergency communication contact details to the CCAMLR Secretariat for all their vessels prior to the entry of those vessels to the CCAMLR Convention Area
+    • CCAMLR Members that are flag States and/or vessels provide prior authorisation for the release of VMS data for the purposes of SAR efforts
+    • CCAMLR Members to be required to maintain relevant national SAR contact details with the CCAMLR Secretariat
+    • For the CCAMLR Secretariat to draft a Plan describing processes for CCAMLR’s support to SAR efforts in the Southern Ocean for the consideration of Members.  The Plan may include, inter alia, legal considerations, possible roles and responsibilities, RCC contact details and protocols, in the event that the Secretariat is contacted to provide VMS information available to it to supplement SAR efforts in respect of an emergency in the Southern Ocean.  The Plan could be made available on the CCAMLR website and communicated to all CCAMLR member flag States, RCCs and others involved in SAR in the Southern Ocean. 
+

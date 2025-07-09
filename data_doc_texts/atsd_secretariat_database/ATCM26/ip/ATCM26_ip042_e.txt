@@ -1,0 +1,110 @@
+﻿
+
+ATCM XXVI 
+Information Paper IP-xx
+Agenda Item ATCM 4
+ARGENTINA 
+Original: English
+
+
+
+
+
+
+
+
+Progress on the Antarctic Treaty Information Exchange Web Site
+www.infoantarctica.org.ar
+
+
+
+
+
+
+
+
+
+
+
+Submitted by Argentina 
+
+Progress on the Antarctic Treaty Information Exchange Web Site
+www.infoantarctica.org.ar
+Background
+The XXIV Antarctic Treaty Consultative Meeting decided, in Resolution 6 (2001), to establish a web site to be hosted by Argentina in order to centralize the information exchanged by the Parties. The main purpose of the web site is to make it easier for the Parties to meet the commitments on information exchange provided for in Articles III and VII, and in the recommendations adopted in accordance with Article IX of the Antarctic Treaty, especially Recommendation VIII-6, as well as in respect to annual reports required under Article 17 of the Protocol on Environmental Protection to the Antarctic Treaty.
+Resolution 6 (2001) recommends that the Parties:
+    1. exchange information in accordance with Attachment 4 of the ATCM XXIV Final Report;
+    2. provide this information to a central information exchange web site to be hosted by Argentina or provide that site with relevant links to where this information can be found; and
+    3. as a general principle, make that information publicly available.
+
+On May 17, 2002, Argentina formally announced the establishment of the web site. Since then, Consultative Parties have been contacted via e-mail, inviting them to designate National Contact Points, and to provide either the information in the formats suggested for the three categories (Pre-season, Annual and Permanent reports) or the site with relevant links to where this information can be found, as requested by Resolution 6, 2001 (see appendix).
+Infoantarctica offers the corresponding links to those Parties having a National WEB Site (see example below).
+
+Link
+E
+S
+F
+R
+ (1)
+ (2)
+
+ 
+ 
+
+ (3)
+ 
+ 
+ 
+Searching example for infoantarctica.org.ar. (1) Country button, with links to the National WEB Site nacional. (2) Link button, to access contents hosted at Infoantarctica. (3) ) Link button, to access contents not hosted at Infoantarctica
+Based on our experience so far, the mechanism established through a FTP server revealed a shortcoming: National contents at Infoantarctica in some instances became outdated in comparison with the information hosted at each Party´s National web site, where those web sites had dynamic contents – that is, content was updated as changes occurred.   
+Such a short-coming could turn Infoantarctica into a search tool providing information which is out of date. A practical solution for such situation was found: by forwarding the user, through a link, directly to the National sites where the Pre-season, Annual and Permanent reports are hosted. Such reports are regularly updated by each Party, and therefore there’s no need for up-dating information on the Infoantarctica site. 
+Thus, and in the case that such a methodology be widely adopted, Infoantarctica will become an Information portal, allowing Parties to rapidly locate National contents hosted by each Party, at their WEB sites. 
+However, one shortcoming with this methodology is that it does not allow Infoantarctica to have an search tool for its own contents.  An attempt was made to implement search engines that would extend searching to other sites, but often external servers denied access to such tools. 
+A second shortcoming is that this approach does not allow a database to be established of the information submitted by Parties, although it should be noted that no decision has been made by the ATCM that this is required, or desirable.  Parties views on this issue would be appreciated.
+A database could, however, be useful for the Parties, for instance in consolidating the information provided in annual reports under Article 17 of the Environmental Protocol, so that the information may be readily considered by the ATCM and/or the CEP.  It would also provide a mechanism to archive the information provided by Parties.
+Of the 27 Consultative Parties, just 11 have provided –or are in process to provide- information to Infoantarctica.  This information is available for viewing at Infoantarctica. 
+Infoantarctica has adopted a four-language design. Currently, Infoantarctica provides texts in English, Spanish and French. It is, however, intended to have, as soon as possible, texts in the Russian language as well. 
+Currently, Infoantarctica only offers information in the language submitted by Parties.  The Parties will need to determine if this is appropriate, or if the Secretariat should be tasked with translating this information into the four official languages.  
+Finally, Parties are invited to submit their information to Infoantarctica, to allow the international community and general public to have access to comprehensive information on Treaty Parties’ operations in the Antarctic. 
+
+Bienvenido al Sitio FTP de infoantarctica.org.ar
+
+Usted se encuentra en el directorio de trabajo asignado a su país. Aquí podrá:
+
+    • Subir la información para el Intercambio de Información del Tratado Antártico
+    • Crear, borrar o modificar los subdirectorios que considere necesario
+    • Remitir toda otra información relevante para la administración del Sitio Web de Intercambio de Información del Tratado Antártico.
+
+Los archivos con información Preestacional, Permanente y Anual serán modificados sólo a fin de ser presentados al público en formato HTML a través del sitio www.infoantarctica.org.ar
+
+Por favor  informe cualquier modificación a los contenidos del directorio por email a la siguiente dirección:
+
+remit@infoantarctica.org.ar
+
+De la misma forma, puede comunicarse conmigo por cualquier consulta o sugerencia sobre la mejor utilización de este Sitio, así como requerimientos de cambio de clave. 
+
+Gracias!
+Welcome to the FTP Site of infoantarctica.org.ar 
+
+You are in the working directory assigned to your country. Here you will be able to:
+
+    • Upload the information for the Antarctic Treaty Exchange of information.. 
+    • Create, erase or modify subdirectories, as necessary. 
+    • Submit all other relevant information for the administration of the Web site of the Antarctic Treaty Exchange of information.
+
+Preseasonal, Permanent and Annual information files will only be modified in order to be displayed to the public in HTML format through the Site www.infoantarctica.org.ar.
+ 
+Please inform any modification to the contents of the directory by email to the following address: 
+
+
+remit@infoantarctica.org.ar
+
+Likewise, you can contact me for any consult or suggestion on the best use of this Site, as well as for requiring password change. 
+
+
+Thank you!
+
+José Luis Agraz
+Web Administrator
+Jagraz@infoantarctica.org.ar
+www.infoantarctica.org.ar

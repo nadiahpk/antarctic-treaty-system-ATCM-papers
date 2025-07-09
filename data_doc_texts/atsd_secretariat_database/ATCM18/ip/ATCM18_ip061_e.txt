@@ -1,0 +1,161 @@
+ANTARCTIC TREATY                
+XVIII th CONSULTATIVE MEETING                
+TRAITÉ SUR L'ANTARCTIQUE                
+XVIII ème RÉUNION CONSULTATIVE                                                
+                                                                    KYOTO
+                                                                    11-22 April 1994
+                                                                                
+TRATADO ANTARTICO                
+XVIII REUNION CONSULTIVA                
+ДОГОВОР ОБ АНТАРКТИКЕ                
+XVIII КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ                
+                                                                                
+                                                                 XVIII ATCM/INFO 61
+                                                                  April 14 1994
+                                                                  Original:English
+
+A PIN-POINT EXAMPLE ON THE POSSIBLE EXPLOITATION                
+OF ANTARCTIC RESEARCH PROGRAMME'S RESULTS                
+IN THE FRAMEWORK OF ENVIRONMENTAL IMPACT EVALUATIONS                
+
+(Submitted by South Africa and Belgium)
+A PIN-POINT EXAMPLE ON THE POSSIBLE EXPLOITATION
+OF ANTARCTIC RESEARCH PROGRAMMES RESULTS
+IN THE FRAMEWORK OF ENVIRONMENTAL IMPACT EVALUATIONS
+
+(Information paper presented by South Africa and Belgium)
+
+A draft comprehensive environmental evaluation relating to the proposed new South African
+facility at Vesleskarvet, Queen Maud Land, was circulated in September 1993 to Antarctic
+Treaty Parties for comments in accordance with article 3 of Annexe 1 to the Madrid Protocol.
+
+Among environmental factors assessed in that draft CEE as to potential hazards for aircraft
+operations was wind regime. Owing to the geographical location and morphology of the
+proposed site the occurrence of so-called "katabatic" winds had to be considered. Katabatic
+winds are gravity driven winds which are forced by the cooling of air adjacent to a sloped
+surface. Such winds are stormy and relatively unpredictable.
+
+With a view to contribute additional scientific information on such wind regime, Belgium
+attached to its comments on the draft CEE a modelling experiment aimed at simulating the
+katabatic circulation over the proposed site. The experiment was carried out by Dr H. Gallée
+(Unviversité Catholique de Louvain) upon special request of the department which prepared the
+Belgian technical comments on the CEE.
+
+It consists of a mathematical simulation of the annual spatial evolution of katabatic wind over
+the area of interest by means of a 3D Atmospheric Mesoscale Circulation Model previously
+developed in the framework of the Belgian Scientific Research Programme on the Antarctic. The
+results of the simulation are presented herewith. They feature wind speed predicted values at 18
+vertical levels from 10 m above the surface with a resolution of 10x10 km.
+
+Needless to be said, providing such scientific information is but a very modest effort compared
+to the preparation of any CEE. Nevertheless this is a concrete example on how basic research
+conducted in Antarctic programmes might be exploited here and there with the aim at
+contributing further insights in the scientific knowledge of the functioning of Antarctic natural
+systems, which is the backbone of environmental decision making as envisioned by the Madrid
+Protocol.
+
+*
+
+
+[1]
+Simulation of the Dronning Maud Land Katabatic Wind Regime
+
+Dr. H. Gallée, Université Catholique de Louvain, Belgium
+
+The spatial evolution of antarctic katabatic winds in the area of Dronning Maud Land is examined using a Three-Dimensional Atmospheric Mesoscale Circulation Model (3-D AMCM, referred hereafter as MAR1). This model has been developped in Belgium at the Université Catholique de Louvain and is sponsored in the frame of the belgian “Scientific Research Program on the Antarctic” (Services of the Prime Minister - Science Policy Office). It is described and validated for katabatic winds simulations in Gallée and Schayes [1994]. To summarize, the atmospheric dynamics are represented in the model by the so-called “primitive equations”, which are also used in numerical weather prediction models. Wind speed, and air temperature and humidity are predicted by the model. The atmosphere interacts with the surface through infrared radiative and turbulent heat fluxes (sensible and latent). In the simulation analyzed hereafter, the surface is assumed to be snow, sea-ice or ice-free water. The surface temperature is computed by the model and sea ice is allowed to be removed from the coast by the wind, allowing open water areas (polyn[y]as) to form.
+
+The domain of integration covers 720×670 km of the Dronning Maud Land area. The origin of the horizontal axes in this domain is located at 71°40’S–2°51’W (Vesleskarvet). Topography has been taken from the Bamber [1994] map. This topography is digitized with a 20 km grid size so that local terrain features in the Vesleskarvet area could be crudely represented. This has to be taken into account when analyzing the model results.
+
+  A 5-km horizontal grid size is used in the model. It is smaller than that of the digitized topography but is preferable since numerical diffusion becomes significant for grid sizes larger than 10 km, causing an alteration of the results.
+
+There are 18 levels in the vertical and the lowest level is 10 m above the surface. The initial vertical temperature profile chosen for the simulation is that of July at Vostok (i.e. winter conditions). Polar night conditions are assumed. No geostrophic forcing has been included in the model, so that the simulated winds have to be considered as an underestimation of actual katabatic winds. The simulation is started with a state at rest (zero wind speed).
+
+During the integration the simulated wind increases continously until it reaches a steady state after 48 simulated hours. The results which are shown here are those of that time. On
+
+1MAR: Modèle Atmosphérique Régional
+2
+
+Figures 1 and 2 are represented the wind vector 10 m above the surface respectively over 
+the whole integration domain and over a limited part of this domain. On Figure 3 the wind 
+speed norm 10 m above the surface is represented over the limited domain. Over all Figures, 
+the x-axis (from left to right) is directed Southward while the y-axis is directed Eastward. 
+It is seen that the katabatic winds generated by the model are important in the Vesleskarvet 
+region. More precisely, the simulated wind speed in this area is larger than 15 ms^(-1) at 10 m 
+above the surface and increases with height up to 18 ms^(-1) at 80 m above the surface. This 
+simulated wind maximum is due in fact to the regional topography: the slopes are steep 
+and there is a valley concentrating the katabatic flow. Downwind of Vesleskarvet, at the 
+foot of the ice sheet, katabatic winds weaken suddenly. This is related to the occurence 
+of a katabatic jump (Loewe phenomenon) and may again be explained by the topography 
+just downwind of Vesleskarvet, which exhibits a terrain diffuence. Air divergence in the 
+katabatic layer results, neutralizing the force responsible for the downslope flow. Over the 
+ice shelf the slopes are gentle and the winds are weak.
+
+Concerning the wind field, conclusions of this simulation is that actual katabatic winds 
+may be strong and persistant at Vesleskarvet. On the contrary, the coastal area is less 
+affected by these winds. Nevertheless, it should be noted here that the large scale winds due 
+to the presence of low pressure systems travelling over the ocean have not been included in 
+the simulation. Such wind forcing may increase the katabatic flow significantly, especially 
+over the ice shelf and in the lowest part of the ice sheet. Another important result of the 
+simulation is that the Vesleskarvet topography favours sudden onsets or decays of katabatic 
+winds (katabatic jumps). When the large scale wind forcing is not included, a katabatic jump 
+is simulated downwind of Vesleskarvet, but it is possible that the katabatic jump moves up 
+and down over the slope in response to varying large scale wind. Consequently, this process 
+must be carefully taken into account in weather forecasts for Vesleskarvet.
+Figure 1: Model katabatic wind vectors after 48-hour time integration for the lowest level of 
+the model (10 m above the surface). Ice sheet elevation contours (in meters) are also plotted. 
+Contour interval is 200 m. Vectors which norm is less than 1 m s^(-1) are not plotted. Vectors 
+are plotted every 2 grid points. The arrow length at the right bottom corner of the graph 
+represents wind speed amounting to 30 m s^(-1).
+
+ 
+                                                                 y Distance 
+                                                                [km]
+                                                    
+                                                     -300       -200       -100         0         100       200       300
+                                                 -300
+                                                      x Distance [km]
+                                                                                                  30.0/ 30U
+                                                                                                  MAXIMUM VECTOR
+4
+
+Figure 2: Model katabatic wind vectors after 48-hour time integration for the lowest level of 
+the model (10 m above the surface) and for a limited part of the horizontal domain. Ice sheet 
+elevation contours (in meters) are also plotted. Contour interval is 100 m. Vectors which 
+norm is less than 1 m s^(-1) are not plotted. Vectors are plotted every grid points. The arrow 
+length at the right bottom corner of the graph represents wind speed amounting to 30 m s^(-1).
+
+y Distance [km]
+                                                                                 
+ 
+                                                                                 
+ 
+                                                                                 
+ 
+                                                                                 
+ 
+                                                                                 
+ 
+                                                                                 
+ 
+                                                                                 
+ 
+                                                                                 
+ 
+ 
+                                 -100      -50         0         50        100
+                                                    x Distance [km]
+
+ 
+30.0/ 30.0
+MAXIMUM VECTOR
+5
+
+Figure 3: Model katabatic wind isotachs after 48-hour time integration for the first level of 
+the model (10 m above the surface), and for a limited part of the horizontal domain. Contour 
+interval is 3 m s^(-1). Ice sheet elevation contours in meters (dashed) are also plotted. Contour 
+interval is 100 m.
+
+y Distance [km] 
+      
+-100            -50              0              50             100
+x Distance [km]

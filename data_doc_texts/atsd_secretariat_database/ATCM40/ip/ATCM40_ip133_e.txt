@@ -1,0 +1,154 @@
+﻿
+
+
+
+
+
+Report on the installation of Aids to Navigation on the Antarctic Continent
+
+English version provided by the author
+
+
+
+
+
+
+Report on the installation of Aids to Navigation on the Antarctic Continent
+
+Submitted by Argentina
+
+
+Executive summary: This report provides information on the plan for installing Automatic Identification System Aids to Navigation (AIS AtoN) on the Antarctic Continent for the purpose of enhancing navigation safety and accordingly, the safety of life at sea and the protection of the marine environment.
+
+Introduction 
+
+1	Chapter V, regulation 13, of the International Convention for the Safety of Life at Sea (SOLAS) – Establishment and operation of aids to navigation – states that "Each Contracting Government undertakes to provide, as it deems practical and necessary, either individually or in cooperation with other Contracting Governments, such aids to navigation as the volume of traffic justifies and the degree of risk requires".
+
+2	The International Association of Marine Aids to Navigation and Lighthouse Authorities (IALA) recommends the planning, operation, management and deployment of aids to navigation, in order to enable the responsible authorities to improve the services provided to sailors with a view to improve safety of navigation. These aids include visual aids (lighthouses, beacons, buoys) and radio aids, used to ascertain the position of a vessel, inform the sailors of hazards and determine a safe navigation route.
+
+3	The Automatic Identification System (AIS) made identification between vessels possible, providing them with data to prevent collisions and assisting them in their route, thus contributing to the safety of navigation and enhancing safety of life at sea and the protection of the marine environment. Its application has amply exceeded initial expectations, transforming it into a multiple capability aid to navigation, not only for its use on vessels, but also in coastal stations and maritime signals. In this latter case, such equipment is called Automatic Identification System Aids to Navigation (AIS AtoN).
+
+4	AIS AtoN can indicate the existence of maritime signals, hazards to navigation, areas to temporarily avoid and dynamic areas, transmitting their position to vessels. Further, they have the capability to generate virtual signals, located on conspicuous or hazardous locations. These virtual aids exist only as digital information objects, which are not intended to replace real aids but to complement them in those places where permanent physical aids to navigation cannot be placed.
+
+5	Another benefit is the accuracy of graphical representation of AIS AtoN signals in Electronic Chart Display and Information Systems (ECDIS) and radar equipment. AIS AtoN is also useful in supporting navigation in polar areas, where hazards are increased by the glaciological and meteorological conditions.
+
+6	The Engineering and Environmental Protection (EEP) Committee of the IALA studied the operation of aids to navigation in Arctic regions, where weather conditions can considerably alter the performance of the signals and electronic equipment installed.
+
+7	Accordingly, the Argentine Republic, in response to the exponential increase in navigation in  Antarctica, initiated studies and tests with AIS AtoN systems in a joint project between the Argentine Navy, the Naval Hydrographic Service, the company Hidrovía S.A. (provider of dredging and signaling services in the Rio de la Plata and Rio Parana) and the National Directorate for the Antarctic (Ministry of Foreign Affairs and Worship), planning the installation of such systems in Argentine Antarctic stations. Thus, two sets of AIS AtoN equipment were installed at the Orcadas Station in 2011, each generating one real and four virtual signals.
+
+
+
+
+Orcadas Station
+
+8	Orcadas station is located on Laurie Island (latitude 60°44' S, longitude 44°44' W), one of the South   Orkney Islands. Altitude and surface weather studies are conducted at the Station, in addition to seismological, geomagnetic, geological, glaciological, sea ice and biological studies and studies of marine birds and wildlife. Further, there are ecosystem monitoring activities; and guidance and assistance is offered to the tourist groups that frequently arrive on cruise ship.
+
+9	The coast, which presents a series of bays of different sizes, tends to freeze on account of the influence of the Weddell Sea and allows navigation only during summer. The islands and islets around Laurie Island generally have an elevated topography, providing very good radar echoes. However, the ice blurs its contours, making identification of its conspicuous features difficult. It was chosen as a testing site on account of its extreme conditions, with a temperature range from –44°C to 15.1°C and winds that can reach speeds of 150 knots.
+
+10	Figure N° 1 shows the position of the two AIS AtoN located on Laurie Island and of the eight virtual signals generated.
+
+
+Figure N° 1
+
+No.
+Location
+MMSI
+Type of Signal
+Type of AIS
+A
+Orcadas Station
+997011088
+Fixed structure
+Real
+1
+Isla Montura
+997016104
+Cardinal West
+Virtual
+2
+Islotes Brisbane
+997016103
+Cardinal East
+Virtual
+3
+Islotes Corbeta
+997016102
+Cardinal West
+Virtual
+4
+Cabo Sorle
+997016101
+Cardinal East
+Virtual
+B
+Orcadas Station Isthmus
+997011089
+Fixed structure
+Real
+1
+Islotes Wistrom
+997016105
+Cardinal South
+Virtual
+2
+Cabo Burn Murdoch
+997016106
+Cardinal South
+Virtual
+3
+Islotes Murray
+997016108
+Cardina South
+Virtual
+4
+Rocas Herdman
+997016107
+Cardinal East
+Virtual
+
+Esperanza Station
+
+11	Following the satisfactory result obtained at Orcadas Station and continuing with the same criterion  adopted,  another AIS AtoN  equipment  was  installed  at  Esperanza  Station (latitude 63°23.5' S, longitude 56°59.4' W), generating one real signal and four new virtual signals in its proximity, as shown in Figure N° 2.
+
+
+Figure N° 2
+
+No.
+Location
+MMSI
+Type of Signal
+Type of AIS
+C
+Esperanza Station
+997011091
+Fixed structure
+Real
+1
+Punta Sheppard
+997016109
+Cardinal South
+Virtual
+2
+Cabo Welchness
+997016110
+Cardinal West
+Virtual
+3
+Faro Esperanza
+997016111
+Cardinal East
+Virtual
+4
+Cabo Kinnes
+997016112
+Cardinal North
+Virtual
+
+12	In order to assess the installed system, an opinion survey was conducted among the captains of vessels navigating in the region. The responses were favorable and indicated that the system had an average detection range of 12 nautical miles.
+
+13	Aware of the need to enhance aids to navigation, following five years of testing and having verified the success of the services provided, Argentina installed, during this austral summer,  two new AIS AtoN, one at Carlini Station (formerly Jubany Station) (latitude 62°14.2' S, longitude 58°40.1' W) and the other at Decepción Station (latitude 62°58'34" S, longitude 60° 41' 48" W), each of which will generate four virtual signals, whose positions will in due course be communicated by Notifications to the Mariners of NAVAREA VI.
+
+Argentina thus ratifies its permanent commitment to the survey and installation of equipment and technology that will provide assistance and will enhance safety in navigation in the Antarctic region.
+
+
+

@@ -1,0 +1,122 @@
+Antarctica 2300 (ISMIP6) Projections
+Antarctica 2300 (ISMIP6) projections
+Summary
+The Ice Sheet Model Intercomparison Project (ISMIP6, Nowicki et
+al., 2016) is a crucial part of the World Climate Research
+Programme’s Climate Model Intercomparison Project Phase 6
+(CMIP6), which focuses on ice sheets. The goal of ISMIP6 is to
+provide processed-based projections of ice sheet contribution to sea-
+level rise for the 21st century (Nowicki et al., 2020; Goelzer et al.,
+2020; Seroussi et al., 2020), and to assess the uncertainties
+associated with these projections and their origins. It is also
+essential to consider ice sheet projections beyond the 21st century,
+as instability mechanisms have the potential to rapidly destabilize
+ice sheets, and several regions may reach tipping points, potentially
+leading to much larger sea level contributions. ISMIP6 Antarctica
+2300 Projections is a continuation of the successful ISMIP6 project,
+and extends previous simulations to 2300, using climate forcings
+from both CMIP5 and CMIP6 under different scenarios.
+Protocol and experiments
+Fourteen experiments are forced with evolving climate conditions
+from Global Climate Models (GCMs). These experiments are based
+on 5 different CMIP5 and CMIP6 GCMs and most are based on a
+high carbon emission scenario (RCP 8.5 and SSP5-8.5). The
+majority of experiments are forced with climate conditions
+(atmospheric and oceanic conditions) simulated by GCMs until
+2300, but a few simulations are based on repeated forcings from the
+end of the 21st century. In this case, conditions from 2080 to 2100
+are repeated for the following two century. In order to avoid
+repeating the same interannual patterns, annual conditions are
+selected randomly from the 2080-2100 period to create forcing for
+the entire length of the experiments. The same selection is used by
+all ice flow models to ensure they are forced with similar
+conditions. Additionally, two experiments use a low carbon
+emission scenario (RC P2.6 or SSP1-2.6) and four experiments
+introduce ice shelf collapse that happens when ice shelves
+experience elevated amounts of liquid water at their surface for a
+period of ten years or more (Trusel et al., 2015).
+Similar to the philosophy adopted for initMIP-Antarctica (Seroussi
+et al., 2019) and ISMIP6 Antarctica projections (Seroussi et al.,
+2020), there are no constraints on the method or datasets used to
+initialize ice sheet models. The exact initialization date is also left
+to the discretion of individual modeling groups, so the historical
+experiment length varies among groups (some groups start directly
+at the beginning of 2015 and therefore did not submit a historical
+run). The resulting ensemble includes a variety of model
+resolutions, stress balance approximations, and initialization
+methods, representative of the diversity of the ice sheet modeling
+community for more details on participating models. 16
+international groups submitted experiments using 13 different ice
+flow models, resulting in a total of 45 sets of experiments.
+Antarctic contribution to sea level rise
+ISMIP6 Antarctica 2300 Projections results show a contribution to
+sea level rise by 2100 consistent with previous ISMIP6 efforts
+despite the ensemble of models being slightly different from the one
+in Seroussi et al. (2020). The Antarctic ice loss and its contribution
+to sea level increases rapidly after 2100 to reach up to 4.2 meters of
+global mean sea level rise by 2300 (see Fig.1). However, some
+simulations suggest a mass gain that continues beyond the 21st
+century, leading to an overall sea level fall of up to 0.8 meters by
+2300. Simulations forced by CCSM4 cause the least amount of mass
+loss, due to the increased snow precipitations in East Antarctica,
+while simulations forced with CESM2, HadGEM and UKESM suggest
+relatively similar amounts of sea level change. Additional
+experiments (not shown) performed with repeated forcings from
+the end of the 21st century show significantly less sea level
+contribution, up to 1 meter less sea level rise, while experiments
+including ice shelf collapse show a notable increase in sea level rise
+contribution, up to 1 additional meter sea level rise by 2300 for the
+most extreme cases.
+Figure 1: Change in ice volume above floatation (left y-axis) and sea
+level equivalent (right y-axis) between 2015 and 2300 from all ice
+flow models. Experiments are forced with simulated climate
+conditions from CCSM4 (blue), HadGEM (red), CESM2 (yellow) and
+UKESM (green) until 2300. No ice shelf collapse is included in these
+experiments. Adapted from Seroussi et al. (in prep.)
+Our results demonstrate the large uncertainty coming from both ice
+flow models as well forcings from climate models (Barthel et al.,
+2020). They suggest that continued development and improvements
+are needed to both enhance the reliability of ice flow models, as
+well as to provide accurate projections of climate evolution in polar
+regions in the 21st century and beyond.
+In conclusion it is essential for all Treaty Parties to consider ice
+sheet projections beyond the 21st century, as instability
+mechanisms have the potential to rapidly destabilize ice sheets, and
+several regions may reach tipping points, potentially leading to
+much larger sea level contributions and a commitment to multi-
+meter (intergenerational) sea-level rise.
+Membership
+The ISMIP6 consist of ice flow modelers as well as physical
+oceanographers, atmospheric scientist, climate modelers, and data
+scientist from 11 countries over 4 continents. We welcome new
+members and would be happy to extend the involvement of this
+initiative to other interested groups worldwide.
+Further details
+More information is available on https://www.climate-
+cryosphere.org/wiki/index.php?title=ISMIP6_wiki_page or by
+contacting ISMIP6 at ismip6@gmail.com. ISMIP6 is supported by
+the Climate and Cryosphere (CliC) initiative.
+References
+A. Barthel, C. Agosta, C.M. Little, T. Hattermann, N.C. Jourdain, H.
+Goelzer, S. Nowicki, H. Seroussi, F. Straneo and T.J. Bracegirdle,
+CMIP5 model selection for ISMIP6 ice sheet model forcing:
+Greenland and Antarctica, The Cryosphere 14 (2020), 855-79.
+H. Goelzer, et al., The future sea-level contribution of the Greenland
+ice sheet: a multi-model ensemble study of ISMIP6, The Cryosphere
+14 (2020), 3071-96.
+S. Nowicki, et al., Experimental protocol for sea level projections
+from ISMIP6 stand-alone ice sheet models, The Cryosphere 14
+(2020), 2331-68.
+H. Seroussi, et al., initMIP-Antarctica: an ice sheet model
+initialization experiment of ISMIP6, The Cryosphere 13 (2019),
+1441-1471.
+H. Seroussi, et al., ISMIP6 Antarctica: a multi-model ensemble of
+the Antarctic ice sheet evolution over the 21st century, The
+Cryosphere 14 (2020), 3033-70.
+H. Seroussi, et al., ISMIP6 Antarctica 2300: projections of the
+Antarctic evolution beyond the 21st century from a multi-ensemble,
+in prep.
+L. D. Trusel,K. E. Frey, D. B. Das, K. B. Karnauskas, P.
+Kuipers Munneke, E. van Meijgaard, and M. R. van den Broeke:
+Divergent trajectories of Antarctic surface melt under two twenty-
+first-century climate scenarios, Nat. Geosci., 8 (2015), 927–932.

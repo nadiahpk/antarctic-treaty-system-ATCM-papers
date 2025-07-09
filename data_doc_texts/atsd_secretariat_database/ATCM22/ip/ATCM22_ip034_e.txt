@@ -1,0 +1,189 @@
+Developing an Environmental Monitoring Program -- 
+a Work in Progress 
+Background 
+The United States Antarctic Program (USAP) is developing an environmental 
+monitoring program to measure the impacts from science and operations at it research 
+stations in Antarctica. The monitoring program is being built on the recommendations 
+of the SCAR/COMNAP workshops (Monitoring of Environmental Impacts from 
+Science and Operations in Antarctica, SCAR, 1996) and seeks to implement them in 
+a cost effective, scientifically sound manner. 
+Recognizing that scientific research and related logistic support can have effects on 
+the Antarctic environment, the Antarctic Treaty Consultative Parties adopted 
+Recommendation XV-5 on environmental monitoring in Antarctica. In addition to 
+encouraging national programs to establish monitoring programs to verify predicted 
+effects and detect unforeseen effects, the Parties also recommended that a meeting of 
+experts be convened to provide advice on monitoring programs in the Antarctic. In 
+June, 1992, the first Meeting of Experts on Environmental Monitoring was held in 
+Buenos Aires, Argentina. 
+The meeting participants considered many aspects and issues related to environmental 
+monitoring. Among their conclusions was that: 
+"The first steps in environmental impact monitoring are defining the programme 
+objectives, identifying the variables of concern, determining the natural variations 
+therein, and establishing baselines against which the nature, magnitude, and 
+significance of future changes can be evaluated." 
+They also pointed out that environmental monitoring should be focused on questions 
+of how activities cause or may cause environmental impacts and that the monitoring 
+results should provide the feedback operators need to improve their activities through 
+prevention or mitigation of impacts. Furthermore, the meeting recommended that a 
+group of technical experts on monitoring be convened to address in greater detail 
+issues of: 
+• 
+design of monitoring programs  
+• 
+scientific protocols for monitoring  
+• 
+standardization and quality assurance  
+• 
+applicable technology  
+• 
+data management  
+The scope and complexity of these issues necessitated conducting two workshops. 
+The first, held in October 1995, was tasked with developing options for monitoring 
+human impacts associated with research activities and logistic operations. The second 
+workshop, held in March 1996, considered methodologies, technologies, study 
+designs, and data management needed to implement a successful and meaningful 
+monitoring program. 
+The results and recommendations from these workshops are providing the framework 
+within which the USAP environmental monitoring program is being developed. The 
+approach being taken is to develop a hypothesis driven monitoring program precisely 
+targeted on a few key indicators, carefully selected on the basis of sound scientific 
+criteria. Those indicators must be related to specific activities or operations. 
+Furthermore, the environmental monitoring program must be tied to an environmental 
+management strategy in order to be useful. 
+  
+Development of a Monitoring Program for the United States Antarctic Program 
+The primary purpose for developing a monitoring program is to provide the basis for 
+sound environmental management decisions and improvements in management 
+activities. Data obtained from the monitoring program will be used to document 
+baseline conditions, detect and monitor changes from that baseline, verify operational 
+impact, and monitor recovery from accidental impacts to the environment. At a 
+minimum, the program must provide an early warning of deterioration in key values 
+or resources and identify the activities responsible for such deterioration. The program 
+must be cost effective and be useful for management decision making. 
+In developing the USAP monitoring plan, we are focusing first on McMurdo Station. 
+McMurdo is the largest U.S. station and presumably has the most extensive impact. 
+McMurdo Station is a year round coastal station built on the bare volcanic rock of Hut 
+Point Peninsula on Ross Island. It is the logistics hub of the U.S. Antarctic Program 
+and has a harbor where research and resupply vessels dock, landing strips on sea ice 
+and shelf ice for fixed wing aircraft, and a helicopter pad. Its 85 or so buildings range 
+in size from a small radio shack to large, three-story structures. The buildings include 
+a modern laboratory with state-of-the-art instrumentation to facilitate research, repair 
+facilities, dormitories, administrative buildings, a firehouse, power plant, water plant, 
+wharf, and warehouses. They are linked by above-ground water, sewer, telephone, 
+and power lines. 
+Research is performed at and near McMurdo in marine and terrestrial biology, 
+biomedicine, geology and geophysics, glaciology and glacial geology, meteorology, 
+aeronomy, and upper atmosphere physics. 
+The complexity of the station, with a wide range of station support activities, the on-
+going research in the immediate vicinity of the station, and a substantial data base 
+concerning air, water, benthic and soil sampling are the primary reasons that the 
+USAP decided to use McMurdo as the starting point for developing an environmental 
+monitoring plan. It is anticipated that all potentially affected media and all types of 
+potential sources of impact from station operations will be represented. Lessons 
+learned from development of a site specific monitoring program here will be 
+applicable to other areas in Antarctica where similar operations are occurring.  
+  
+Components of the Monitoring Program 
+The monitoring program being developed will have two components. The first 
+component will be a simple, practical, cost effective plan that will: 
+• 
+define the boundary/extent of the "footprint" of anthropogenic impacts 
+resulting from station operations (e.g. air emissions from the power plant);  
+• 
+document that boundary and develop a baseline assessment of current 
+conditions within the boundary; and  
+• 
+develop a monitoring program that will detect changes in the "footprint" 
+directly related to station operations.  
+Monitoring the footprint of station operations will provide background information 
+for future planning as well as data needed for status and trend analysis. It should also 
+be noted that the definition of "footprint" will be very much related to the media 
+under consideration. For example, air borne particulates might be the indicator of 
+choice for detecting the extent of a station footprint on land while some other 
+constituent might be the indicator of choice for a marine area adjacent to a coastal 
+station. Use of such an indicator might yield a different "footprint" than use of carbon 
+soot from power plant operations. The footprint, then, would be related to what 
+indicator is chosen and how that indicator is transported. 
+The second component will be a similar plan for the more heavily impacted areas at 
+and surrounding the station. This second component will: 
+• 
+define the boundary/extent of heavily impacted areas;  
+• 
+document that boundary and develop a baseline assessment of current 
+conditions within the boundary, and;  
+• 
+develop a monitoring program that will detect changes from baseline 
+conditions that can be directly related to station operations.  
+  
+Specific Approach to Development 
+Following the recommendation that any monitoring program should be hypothesis 
+driven, the following hypotheses form an integral part of the USAP approach to 
+developing a station are monitoring plan: 
+Hypothesis 1. The areal extent the impact from the presence of a station as an 
+operational facility is bounded and the boundary limits can be determined. 
+Hypothesis 2. Changes in operations and activities will be reflected in changes in the 
+selected indicators. 
+A phased approach is being used to develop the monitoring program. The first phase 
+will: 
+1. compile and summarize existing data on station emissions, discharges, and 
+impacts to the local environment;  
+2. identify and evaluate possible models for defining the probable extent of the 
+station’s "footprint";  
+3. develop an approach for defining the boundaries of heavily impacted areas;  
+4. select appropriate indicator parameters to monitor emissions from specific 
+activities in different media such as air, water, and soil (indicators will be 
+justified based on their ability to unambiguously record the impact area of an 
+activity.  
+To accomplish this, existing sampling and analysis data is being gathered and relevant 
+literature is being reviewed. This review will also assist in identifying relevant, 
+meaningful, cost effective parameters that can be monitored to detect change. The 
+literature review will assist in identifying valid predictive models for defining 
+boundaries. An important consideration in developing or using predictive models is 
+that of spatial and temporal scales that are appropriate for various types of 
+disturbance. Once the historical data on heavily impacted areas is summarized, 
+models can be used to estimate a sphere of influence that might be expected. This in 
+turn will be used in designing the spatial distribution of a pilot sampling project. 
+To assist in this process, a Scientific Advisory Board is being created to advise on the 
+development of the environmental monitoring program. The advisory board will 
+consist of three to five well known experts with a combination of experience in 
+developing large, multidisciplinary monitoring programs, and nationally recognized 
+expertise in an appropriate scientific field with an emphasis on polar experience. 
+Based on the model chosen during the first phase, the second phase will include the 
+development and implementation of a statistically valid study plan, including a pilot 
+sampling design, to verify the predicted footprint area and heavily impacted area. 
+Using existing data to the greatest extent possible, any necessary studies and/or 
+sampling will be conducted to verify the prediction. The results will be used to 
+determine if the anticipated sphere of influence is as predicted. The information 
+obtained will be used to refine the sampling design and provide input into the final 
+long term monitoring design. It is anticipated that the pilot phase may require as much 
+as three years to adequately determine temporal issues and effects.  
+  
+Expected results 
+Using the information gathered, a long term environmental monitoring program plan 
+will be designed and implemented. Assessment of the monitoring data will provide an 
+early warning of deterioration of values or resources while identifying those activities 
+most likely to be responsible for any observed deterioration. The program should also 
+be capable of detecting improvements in environmental conditions that can be directly 
+linked to modification of operating procedures.  
+As noted earlier, the initial plan will be developed for McMurdo Station. The 
+conceptual approach to plan development can then be applied at the other two U.S. 
+research stations, Palmer Station, on the Antarctic Peninsula, and the Amundsen-Scott 
+South Pole Station, an inland location. The detailed plan for McMurdo Station will 
+include the indicators (parameters) to be used, the location, frequency and analytical 
+methods to be used in sampling and analysis, and a database with currently available 
+baseline information for comparison purposes. The plan will also include 
+recommendations on more focused investigations of selected areas or media to fill in 
+gaps in the baseline information or to provide answers to questions that may relate to 
+future monitoring needs. The process of developing a monitoring program will then 
+be applied to the other U.S., research stations, with site specific plans being developed 
+for Palmer Station and the Amundsen-Scott South Pole Station. 
+Another anticipated product of this process is a guidebook that will document the 
+process used in developing the monitoring plan for McMurdo Station and provide 
+recommendations for applying the process at any research station. It will also contain 
+lessons learned in developing an implementable, cost effective monitoring program 
+and questions to be considered before starting to develop a monitoring program. The 
+questions could include how to decide whether and when to seek external assistance 
+in developing a program and how to factor in funding considerations in developing a 
+reasonable and effective monitoring program.  
+  
+ 

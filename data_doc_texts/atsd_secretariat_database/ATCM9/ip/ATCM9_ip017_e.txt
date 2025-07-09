@@ -1,0 +1,161 @@
+ANTARCTIC TREATY               
+NINTH CONSULTATIVE MEETING               
+
+ДОГОВОР ОБ АНТАРКТИКЕ               
+ДЕВЯТОЕ КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ               
+
+
+                                  LONDON               
+
+
+TRAITÉ SUR L'ANTARCTIQUE               
+NEUVIÈME RÉUNION CONSULTATIVE               
+
+TRATADO ANTARTICO               
+NOVENA REUNION CONSULTIVA               
+ANT/IX/INF 17               
+Date: 29 September 1977               
+
+
+
+Agenda Item 7               
+
+
+BRITISH ANTARCTIC SURVEY METEOROLOGICAL BULLETINS AND               
+METEOROLOGICAL DATA COLLECTION SCHEDULES               
+
+In common with other Antarctic Treaty nations that have               
+more than one station, the British Antarctic Survey operates               
+a meteorological data collecting centre which then broadcasts               
+regular Meteorological Bulletins containing edited national               
+surface synoptic data and upper air data (Table 1).  These               
+Bulletins are broadcast from Grytviken with the prime intention               
+of securing entry to the GTS via the nearest RTH at Buenos               
+Aires, and are at the same time for general reception in Antarctica               
+
+Prior to the broadcast Bulletins, individual stations have               
+official fixed time limit schedules with Grytviken.  These are               
+listed in Table 2 under individual stations.  The stations also               
+have informal international daily schedules with non-British               
+stations, also listed in Table 2.  These internal Antarctic links               
+must remain informal because they are subject to interruption               
+by official BAS non-meteorological traffic.  The success of these               
+informal links frequently depends on the enthusiasm of an individual               
+operator and thus may vary from one year to the next.  Within               
+this context, BAS is happy to co-operate with other Treaty nations,               
+but for logistic reasons is unlikely to be in the position to               
+expand or add to these schedules.  Because of these same limit-               
+ations BAS is not in the position to use Grytviken, or any other               
+station as a regular collecting and broadcasting station of non-               
+British Antarctic data for input to the GTS, or as a regular relay               
+link within Antarctica.               
+
+
+D.W.S. Limbert               
+
+
+British Antarctic Survey               
+26th September 1977               
+TABLE 1
+
+BRITISH ANTARCTIC SURVEY METEOROLOGICAL BULLETINS
+
+STATION : GRYTVIKEN (ZBH)
+
+TYPE OF BROADCAST : F1 50 baud
+
+MAIN DESTINATION : (CQ) Buenos Aires RTH for GTS
+                  Antarctica
+
+TIME      FREQUENCY      CONTENT
+(GMT)     (KHz)
+
+0030 - 0040  5,400     21, 00Z SYNOPS     88903, 88952, 89022
+                                            89062
+1230 - 1250  12,325    03, 06, 09, 12Z     88903, 88952, 89022,
+                              SYNOPS         89062
+1430 - 1440  12,325    12Z PILOTS/TEMPS   88952, 89022
+             or
+             12,530
+
+1830 - 1845  12,325    15, 18Z SYNOPS     88903, 88952, 89022
+
+CLIMAT and CLIMAT TEMPS are broadcast on
+4th and 5th of each month.
+Radio link         Time      Frequency     Type      Content
+                   (Gmt)     (kHz)                  
+-------------------------------------------------------------
+FARADAY (VHF31)                
+(ARGENTINE ISLANDS)                
+A.   BAS LINKS                       
+To Grytviken (ZRH)   Daily                   
+                     0001-00?5   ?,???       A1/SX     31,00 SYNO?S 889?
+                     1?0-1?05    9,106       A1/SX     03, 06, 09, 12 SYNO?S 889?
+                     1115-1130   13,04?      F1/SX     12 ?ILOT-TE?P 889?
+                     1800-1805   11,255      A1/SX     15, 18 SYNO?S 889?
+                                                    
+                     Monthly                   
+                     (2nd/3rd)               CLIMATS/CLIMAT T?MS
+                                                    
+B.   INTERNATIONAL LINKS (*These are locally arranged informal links and are liable to interruption if official BAS traffic increases)
+                                                    
+B.1 To Pdte. Frei                   
+(90% efficient)      Daily                   
+                     1530        5,8?0; 5, 33? F1/SX     06, 12 SYNO?S 88933, 8???, 889
+                                                       89062
+                                 5,800; 5,302   A1/SX     15 SYNO? 88952. RECEIVE 15 SYN
+                                                       85984, 85986, 85988
+                                                    
+B.2  To Palmer (relys on the keen interest Daily                   
+of the Palmer Operator) except Sundays                   
+                     Monthly     4,067       A1/SX?    EXCHANGE OF BRITISH. AMERICAN.
+                                                       AUSTRALIAN, NZ, FRENCH CLIMATS,
+                                                    
+HALLEY (VSD)                       
+A.   BAS LINKS                       
+To Grytviken         Daily                   
+                     0005-0010   11,255      A1/SX     21,00 SYNO? 89022
+                     1205-1210   11,255      A1/SX     03, 06, 09, 12 SYNO? 89022
+                     1430-1440   - 13,042    F1/SX     12 ?ILOT/TE?P 89022
+                     1805-1810   11,255      A1/SX     15, 18 SYNO?
+                                                    
+                     Monthly                   
+                     (2nd/3rd)               CLIMAT/CLIMAT TE?P
+                                                    
+B.   INTERNATIONAL LINKS (* As for Faraday station)
+                                                    
+B.1 To Bellingshausen (reliable)   Daily                   
+                     1530-1545   11,255      F1/SX     12 SYNO?, TEM?S, CLIMATS ICE RE?
+                                 Receive on                   
+                                 9,215                 RECEIVE SOVIET 12 SYNO?S, TEM?S
+                                                       CLIMATS, SATELLITE ANALYSIS FRO?
+                                                       MOLODEZHNAYA.
+                                                    
+B.2 To Druzh?naya (summer only)    Daily                   
+                     0015        4,067; 7623  A1/SX     EXCHANGE OF SYNO?S
+                     1215        ?           A1/SX     
+                     1815        ?           A1/SX     
+                                                    
+B.3 To Soviet ships in Weddell Sea (on request)                       SYNO?S 89022
+                                                    
+B.4 To Sanae (difficult radio path, Mon.-Fri.    3 mHz winter  A1/SX     EXCHANGE OF SYNO?S AND CLIMATS
+unreliable)                      2 mHz summer  A1/SX     
+                                                    
+B.5 To Palmer (generally reliable; 1600, Tue.   8,265; 7,900 F1/SX     ICE REPORTS TO AND FROM FLEWEAF,
+only US station with compatible Thur.                   
+teletypewriter equipment)        Summer      (Subject to                   
+                                 change)               
+                     "on demand" 11,552; 7,995             
+                                 available for             
+                                 contacting               
+                                 US stations               
+                                                       VARIOUS
+                                                    
+B.6  Other stations                
+                                                    
+ROTHERA (ZHF45)                    
+A.   BAS LINKS                       
+A.1 To Grytviken (ZBH)   2350-2359   4,067                   
+                                 (winter)    A1/SX     00, SYNO? 89062
+SHIPS    To Grytviken                   
+(ZDLB; ZDLG

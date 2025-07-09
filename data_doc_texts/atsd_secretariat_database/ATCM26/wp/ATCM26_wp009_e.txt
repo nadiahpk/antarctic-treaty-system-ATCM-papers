@@ -1,0 +1,793 @@
+﻿
+
+___________________________________________________________________________
+XXVI ATCM
+Working Paper WPxxnn
+Agenda Item:xx CEP VIn, ATCM XXVIm
+COMNAP
+Original English
+
+
+
+
+ “Worst Case” & “Less than Worst Case” Environmental scenarios
+
+
+INTRODUCTION
+
+1.	1.	During discussions on the “Liability Annex” at ATCM XXIV in St Petersburg, the meeting requested::
+.
+“COMNAP, in consultation with SCAR, to provide the following information in respect of national program operations, for the purpose of establishing limits on financial liability, compensation, and insurability.
+
+        (a) “Worst case scenarios” for land-based and sea-based environmental emergencies in the Antarctic Treaty Area including the probability of occurrence and estimated cost for responses action;
+        (b) For the purposes of illustration, a range of scenarios less than worst case that might result in environmental impacts, including probability of occurrence and estimated cost of response actions;
+        (c) Scenarios similar to those in (a) and (b) for which response action would not be possible.”
+
+    2. In response to these questions, COMNAP provided an interim response (Working Paper WP25 r1) at ATCM XXV, on the understanding that a comprehensive response would be prepared for ATCM XXVI.  The present document gives that comprehensive view, based upon the experience of COPMNAP members.
+    3. .
+
+DEFINITIONS
+
+3.	
+
+In reviewing the questions posed by Treaty parties, and referring to SCAR/COMNAP paper ATCM XXIV/WP 14, COMNAP has revised the basic definitions as follows (note that these definitions are presented were developed for the purposes of this paper only):
+
+Incident:	A time limited, unplanned event that results from human activity that becomes apparent at a specific point in time.
+Environmental Harm:	An adverse impact to the natural environment, which is significant and lasting more than minor or transitory.
+Immediate Harm:	Environmental harm that commences instantly and/or inevitably from an incident.
+Gradual / Cumulative Harm:	Environmental harm that results from continuous or repetitive impact of an incident(s).
+
+4.	In the work that follows, COMNAP equates the term “incident” with “environmental emergency.”.   This paper does not consider activities that contribute to gradual or cumulative harm.  
+
+5.	COMNAP has previously defined the terms containment, mitigation, clean-up, and restoration.  This was done to aid in responding to the question “Whether, and under what circumstances, would it be possible and/or practicable to take containment, mitigation or clean up action, and whether, and under what circumstances, would it be possible to restore the environment?”  These definitions (again, developed only presented for this paper only) are repeated here:  
+
+Containment:			To prevent additional risk of harm to the environment by preventing the spread of harmful materials as a result of an incident.
+Mitigation:			To decrease the potential of environmental harm through the use of practice, procedure or technology in the recovery of, or protection of the environment from, harmful materials associated with the incident.
+Clean up:			Removal from the environment, to the extent practicable, of released materials resulting from an incident.
+Restore the Environment:	Return the environment to the condition it was in prior to an incident.
+
+6.	From the operators’ perspective, COMNAP draws a clear distinction between primary actions (containment; mitigation), and follow-up actions (clean-up; restoration). Primary actions (containment; mitigation) would be comparable to immediate response actions which focus on “assessments first of risk to safety and life, and second to the practicality of any intervention under existing conditions of weather, and environment”.  Follow-upSecondary actions (clean-up; restoration) would result after “an assessment of whether such actions are feasible, cost effective, appreciably affect the natural rate of recovery, or will cause more harm than the impact of the incident.”
+
+7.	COMNAP also found it useful to devise a simple ranking of “environmental significance”.  This is calculated as shown below.  
+
+A = Likelihood of the incident occurring  (occurring (ranked from 1–5)
+B = Likelihood of an occurring incident resulting in harm (ranked from 1-5)
+
+Where 1= negligible; 2 = unlikely; 3 = likely 4 = very likely; and 5 = certain
+
+C = Severity of environmental harm (ranked from 1 – 5)
+
+Where 1 = negligible; 2 = minor; 3 = moderate; 4 = major; and 5 = catastrophic
+
+D = capacity to take response action
+
+Where 1 = primary and secondary response is possible; 2 = only secondary response is possible; and 3 = no response is possible or likely to be viable.
+
+Determination of environmental significance (S) is as follows:
+
+S = A x B x C x D
+
+8.	Calculation of S for the various scenarios presented below allows the comparison between them in a way that combines occurrence of incidents, environmental harm, severity of the harm and ability to take response action.  
+
+
+“WORST CASE SCENARIOS” FOR LAND BASED AND SEA BASED ENVIRONMENTAL EMERGENCIES IN THE ANTARCTIC TREATY AREA 
+
+Sea based environmental emergencies
+
+9.	The worst case scenario for a sea-based environmental emergency, based on current and foreseeable practices, would be:
+
+a vessel that founderssinks, and breaks up, releasing it’s bunkers (ship’s fuel) or cargo fuel being carried for the resupply of a station(s), that impacts on an environmentally sensitive area, where response is not possible.
+
+10.	In the Antarctic, the ship’s bunkers or fuel being carried to resupply a station is considered to be the most likely material that can result in “worst case” environmental damage harm - particularly if this fuel is heavy fuel bunker oil. Other hazardous materials are normally carried in much lower quantities and an incident involving only those materials would be classed as less than worst case.  
+
+11.	Three points are relevant to the consideration of this scenario:
+
+    • A vessel that sinks and breaks up at sea well away from environmentally sensitive areas, where its bunkers or cargo fuel will evaporate or be dispersed due to winds and sea conditions, is considered to be less than worst case.
+    • Ship size and amount of fuel carried, while an important factor, is considered secondary to the area that is impacted; i.e. a relatively small amount of fuel that impacts a sensitive area can result in harm that would exceed a larger volume of fuel dispersed over a less sensitive area.
+    • Most vessels used in Antarctic waters by national operators use or deliver diesel/marine gas oil which tends to disperse and evaporate more quickly than heavy fuel, thus reducing the severity and duration of environmental impact.  COMNAP is aware, however, that some larger tour vessels and a few nationally operated vessels use heavy fuel bunker oil that does not disperse or evaporate as readily.
+
+12.	For information, in the last twenty years two national program vessels (the Gotland II and Bahaia Paraiso) and one private expedition vessel (Southern Quest) are known to have sunk within the Treaty area.  The worst case to date is the foundering of the Bahia Paraiso in 1989 off Anvers Island, Antarctic Peninsula, which spilled 600, 000 liters of diesel fuel from the hull. Shortly after the incident an interdisciplinary team of scientists began assessing the long term impact of the spill on the local ecosystem.  According to those studies the affected area consisted of islands that were breeding sites for species of sea birds and the important habitats of seals. It took 7 seven years of marine ecosystem studies to distinguish between the environmental impact arising from the spill and the natural variability in species population dynamics.  Seven years after the spill, during which time the majority of the species had recovered to pre-spill levels1. 
+
+13.	The Gotland II was crushed and sunk by ice action on the high seas.  As far as is known, there has been no recorded environmental impact was crushed and sunk after ice pressure when mooring at the fast ice off Yule Bay in December 1981. There has been no recorded environmental impact although the Yule Bay area has been revisited several times since 1981..
+
+Land based environmental emergencies
+
+14.	COMNAP analyszed worst case land based scenarios in terms of events that could conceivably lead to mass mortality in a local colony of some indigenous species (animal, birds, or plants) or a major disruption of a local ecosystem. There are several human activities that could lead to such events.  COMNAP identifies the important examples as:
+
+    • A catastrophic crash by fully fueled large aircraft into an environmentally sensitive area; e.g. Dry Valleys, lakes or active rookeries.  
+    • The rupture/breach of an uncontained fuel storage tank, into an environmentally sensitive area.
+    • The unplanned introduction of contaminants in pristine ecosystems (e.g. drilling intodry valleys or sub-glacial lakes)
+    • The unplanned introduction of non-indigenous species or diseases. 
+
+15.	Although this paper notes potential examples of worst case land based environmental emergencies, experiences through the long history of Antarctic exploration and science activities indicate that the probability of occurrence of a worst case scenario is low.  To illustrate, the following experiences are provided.
+
+16.	Through the history of Antarctic aviation there have been some 100 aviation related incidents or crashes, the largest of which was the catastrophic loss of a tourist DC 10 aircraft on Mt. Erebus.  There has been tragic loss of life as a result of aviation accidents, but none are known to have resulted in a significant environmental emergency, although there have been some where there was environmental impact.
+
+17.	While there are many recorded land based fuel spills, the largest being close to 100,000 litres, none are known to have resulted in significant environmental harm (see COMNAP papers ATCM XXIII/WP16; SATCM XII/WP5; ATCM XXV/WP27).  
+
+18.	It should be noted that COMNAP guidelines (adopted under XXII ATCM Resolution 6 (1998) “Emergency Response Action and Contingency Planning”) recommend containing fuel storage tanks through the construction of catchment basins or the use of double-walled storage tanks.  The volume of the containment area needs to equal the total amount of fuel to be contained.  Since Tthe introduction of the COMNAP guidelines, there have been no known incidents in Antarctica where the containment for storage tanks has been breached., further reducingThis significantly reduces the probability of an environmental emergency.
+
+19.	As the exploration ofpossibility to explore pristine ecosystems, such as the dry valleys and sub-glacial lakes, becomes feasible the potential to introduce contaminants will become a very important matter has to be taken seriously.  It is not yet possible for COMNAP, using past experience, to accurately assess the nature of this hazard.d.
+
+20	There are some documented cases of the introduction of non-indigenous species but there is no conclusive evidence for the introduction of diseases.  In considering the risks attached to the possibility of the introduction of a disease, it is important to recognize that in over 50 years of continuous human activity in many areas associated with bird and seal populations there are no recorded cases of major mortality from disease.  This topic has been examined in detail by the CEP through an international inter-sessional contact group, the conclusion from which was that the risk that human activity in Antarctica might introduce diseases was currently assessed to be very low (para. 41 of CEP IV Rreport).  Prudence and the pragmatic implementation of the precautionary measures have already resulted in the introduction of simple control and sterilization procedures.
+
+21.	There is evidence of small scale introduction of non-indigenous organisms such as plants and insects, but in none of these cases have the species as yet as yet proved invasive.  However, in regard to introduced species, the principal risk is probably the introduction of microbes.  Further study of baselines is needed before COMNAP can provide practical comment.Evaluation of the latter hazard is beyond the competence of COMNAP.
+
+    22. It should be borne in mind that natural variability in Antarctica gives rise to very major changes in local ecosystems.  It can be difficult to distinguish between natural and anthropogenic impacts.
+
+    23. 
+
+    24. The release of other hazardous materials (such as chemicals, solvents, hydraulic fluids, radionuclide tracers, etc.) is not considered by COMNAP to produce worst case scenarios because these substances are typically used in small quantities in field laboratories or within station boundaries.
+
+    25.   
+
+    26. Fluids involved in ice-coring are used in large quantities on the polar plateau. Unplanned release of those quantities during drilling is unlikely, and if it were to occur, would not be in an environmentally sensitive area (except for the special case of drilling over a sub-glacial lake).  There is greater potential of release of the larger quantities during transport and this is covered in the following examples of less than worst case scenarios. COMNAP therefore considers that drilling fluids do not constitute a worst case scenario, except for their penetration into sub-glacial lakes, as mentioned above.
+    27. 
+
+Summary of worst case scenarios
+
+    28. 25.	
+    29. Table 1 shows COMNAP’s evaluation of environmental significance (S) of the worst case scenarios given above.
+	
+Table 1: Calculation of significance – worst case scenarios
+
+Scenario
+
+
+Likelihood of incident
+A
+Likelihood of harm
+B
+Severity of harm
+C
+Response action
+D
+
+Score
+S
+Ship foundering
+2
+5
+5
+2
+100
+Crash of large aircraft
+1
+5
+5
+2
+50
+Rupture of tank
+1
+2
+4
+2
+16
+Introduction of pollutants
+2
+5
+4
+3
+120
+Introduced species
+3
+2
+1
+3
+18
+Introduced diseases
+1
+?
+?
+3
+???
+
+26.	A summary of the worst case scenarios is shown in Table 2.  These are ranked by their significance, as determined in Table 1.
+
+
+Table 2: Summary of Worst Case Scenarios
+
+
+Ranking of significance
+Scenarios
+Location
+Incident
+Consequences
+Response
+1
+120
+Introduction of pollutants into a unique ecosystem 
+Sub-glacial, or dry valley lakes
+Uncontrolled release of pollutants
+Major disruption and or modification of a unique ecosystem
+No known primary or secondary response is likely to be possible
+2
+100
+
+Ship foundering  where no primary action is possible 
+Environmentally  sensitive coastal area
+Sudden ship sinking and breaking up, or grounding and losing all fuel and cargowith massive fuel loss
+Mass mortality or major damage to marine or coastal ecosystem due to fuel contamination
+Initial response is search and rescue.   Primary response is not  possiblenot possible.  Secondary response may be possible depending on the assessment.
+3
+50
+
+Crash of large aircraft where no primary action is possible
+A local concentration of flora or fauna 
+Catastrophic loss of fully fueled large aircraft
+Mass mortality or major disruption to a land based ecosystem through fuel contamination, explosion, and fire
+Initial response is search and rescue.  Primary response is not possible. Secondary response may be possible.
+4
+18
+Human introduction of non-indigenous species
+A concentration of flora or fauna 
+Unknown release
+Permanent  modification of an ecosystem
+No timely primary or secondary response 
+5
+16
+
+Rupture of an uncontained fuel storage tank where no primary action is possible
+A local concentration of flora or fauna
+Sudden and substantial loss of fuel that contaminates a significant area
+Mass mortality or major disruption to a land based ecosystem through fuel contamination
+Primary response is not possible.  Secondary response may be possible
+6
+???
+
+Human introduction of disease
+A concentration of flora or fauna
+Unknown release
+Destruction of fauna or flora
+No timely primary or secondary response
+
+
+
+A RANGE OF SCENARIOS LESS THAN WORST CASE THAT MIGHT RESULT IN ENVIRONMENTAL IMPACTS
+
+
+27.	In ATCM XXIII/WP14, COMNAP identified a suite of functions that which might result in environmental impacts, and the probabilities that those impacts would result in environmental harm.   COMNAP has incorporated an updated version of them into this paper (see Table 3) as examples of scenarios of less than worst case that might result in environmental impacts.   These are ranked in the table according to the estimation of environmental significance.
+
+28.	It is interesting to observe that evaluation of our chosen “worst case” and “less than worst case” scenarios in terms of the Environmental Significance, S, results in the top three scores in Ttable 3 being higher than the bottom two (with numerical S) in Ttable 2.  However, given that the evaluation of S is based on subjective judgement it is not seen as justified or useful to change designations on this basis.Such incidents are therefore on the boundary between “worst case” and “less than worst case” scenarios. The defining difference between the two classes is the likelihood of response action being possible.  But this overlap highlights the fact that our analysis, whilst informative, is not wholly quantitative or precise and should not be over-interpreted..
+
+	
+
+TABLEable 3 3:	Examples of  “less than worst case” incidents that could cause environmental harm, and possible response action
+
+
+Function
+Location
+Incident (examples)
+Response
+
+A
+B
+C
+D
+S
+7
+Abandoned Bases and Facilities
+Varied.  Can be coastal or inland
+Melt water through abandoned tips (landfills), and leaks from abandoned fuel tanks
+Mitigation and clean-up would be possible. Because these facilities are abandoned, assessments will have to be made on potential environmental risks.  
+5
+3
+2
+1
+30
+8
+Aircraft Operations
+Flying over the coastal zone (ice covered or ice free)
+Crash involving spillage of fuel which can approach 20K liters
+Only likely response is clean-up.  Initial action will be search and rescue.  Because of time involved in initial recovery operations, containment and mitigation measures will not be possible. 
+3
+2
+2
+2
+24
+9
+
+Ship Operations
+
+
+Loading or unloading fuel at the base or facility
+Fuel hose ruptures 
+Personnel should be able to apply contingency plans and equipment to contain, mitigate, and clean-up the spill.  
+4
+2
+2
+1
+16
+10
+Fuel Handling
+Fuel tanks and distribution lines at stations and bases
+Spills resulting from overfilling of tanks; failure in pipe connections; punctured storage drums
+At bases and facilities, contingency plans and personnel are available to enable containment, mitigation, and clean-up
+5
+1
+1
+1
+5
+11
+Fuel Handling away from bases and facilities
+Fuel drums and small storage tanks at remote field sites
+Spills resulting from sloppy fuel transfers and leaking drums
+Preventive measures and contingency plans should enable containment, mitigation and clean-up.
+5
+1
+1
+1
+5
+12
+Aircraft Operations
+Flying over ice free inland locations
+Crash of small aircraft or helicopters with spill <1000 liters
+Only likely response is clean-up.  Initial action will be search and rescue.  Because of time involved in initial recovery operations, containment and mitigation measures will not be possible.
+3
+1
+1
+2
+6
+13
+Fuel storage
+Fuel caches located away from bases or facilities
+Leakage of unattended drums or storage containers
+The only likely response is clean-up.  Fuel caches are typically unattended and in 200 litreer. drums.  Leaks are not likely to be noted until the cache is visited and therefore the remedy for leakage is clean-up.  
+3
+1
+1
+2
+6
+14
+Sewage/waste water
+Waste utility lines at bases and facilities
+Failed lines resulting in leaks or dumping from the sewage system onto ice or ice free land
+Circumstances are likely to be such that mitigation and clean-up are all that is possible.
+3
+1
+1
+1
+3
+15
+Waste Disposal
+Trash and debris at bases and facilities
+Improper handling of waste resulting in material being dispersed by the wind
+Mitigation and clean-up would be possible, depending on the extent of dispersal.
+3
+1
+1
+1
+3
+16
+Transport
+In the coastal zone on the sea-ice
+Vehicles working on or transiting across the sea ice and falls through
+Fuel and chemicals that may be aboard the vehicle pose the risk to the environment.  If significant, efforts could be made to recover the vehicle and cargo to mitigate and clean-up the spill.
+3
+1
+1
+1
+3
+17
+Ship Operations
+Ship in coastal waters but not near a base
+Ship going aground or impacting ice 
+The ship should have some response capability that would enable containment of the spill in a limited fashion, but mitigation and clean-up would likely have to be done with outside assistance.
+2
+1
+1
+1
+2
+18
+Fuel Storage
+Fuel storage tanks located on bases or facilities
+Rupture of a storage tank and minor breaching of containment
+Application of contingency plans and equipment should enable containment, mitigation, and clean-up.  
+1
+1
+2
+1
+2
+19
+Scientific Activities
+Laboratories and field sites in ice free inland locations
+Chemical and other hazardous material spills, including drilling fluids
+Preventive measures and contingency plans should enable containment, mitigation and clean-up.
+2
+1
+1
+1
+2
+20
+Vehicle Operations
+
+
+Operating in an ice-free inland area
+Vehicle overturns or otherwise spills fuel or other hazardous material
+The only likely response is clean-up, although some mitigation may be possible if the spill is small (<10 litresliters).  Other response capability is not likely to be available.
+1
+1
+1
+1
+1
+
+
+SCENARIOS FOR WHICH RESPONSE ACTION WOULD NOT BE POSSIBLE
+
+29.	In examining Tables 2 and 3 it is possible to identify those scenarios for which response action is not possible or is severely limited.  
+
+For all of the worst case scenarios, no primary response action (containment and mitigation) is judged to be possible.  In addition, for three cases (scenarios 1, 5 and 6), secondary response (clean-up and restoration) is also judged not to be possible.
+
+30.	For the less than worst case scenarios in Table 3, of the fourteen given, three are identified for which primary actions would not be possible because of several factors including search and rescue, time, whether or not preventive measures or contingency plans have been put in place.  These are scenarios (8), (12) and (13).  For several others only limited response action is judged possible.
+
+PROBABILITY OF OCCURRENCE
+
+31.	The first step in assessing the probability of an environmental incident occurring is to determine the overall volume of the activity which gives rise to the risk of such an incident.  This can then be compared with the number of incidents that have occurred to give a historical estimate of incident rates. 
+
+32.	COMNAP has concentrated on determining the volume of shipping and air activity amongst its membership so that an estimate of the probability of occurrence of worst case marine and aircraft incidents can be made.  
+
+Estimate of Volume of Shipping Activity
+
+    33. COMNAP has carried out a survey of its membership to determine how many ships have been operated in Antarctic waters by National national Antarctic oOperators over the past twenty-five years, and the number of days per Antarctic sSeason that each was in operation.  This has 
+This has allowed the estimation of the total number of “ship days” per season, the number of “ship seasons” and the grand total number of these for the twenty-five year period.  Altogether 17 national Antarctic programs responded which represented over half the total membership and most of the major ship operators. As a result, the numbers given here, whilst being an underestimate of  total activity, do provide a useful first order estimate upon which to base calculations of incident rates.
+
+allowed the estimation of the total number of “ship days” per season, the number of “ship-seasons” and the grand total number of these for the twenty-five year period. All together 17 NAPs responded which represents over half of the total membership and most of the major ship operators.  As a result, the numbers given here, whilst being an under-estimate of total activity, do provide a useful first order estimate upon which to base calculations of incident rates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34.	Figure 1 shows the total number of ships operated per season by National national Programmes programmes that responded for the sample period.  It showshows that there was a growth of activity through the 1980s followed by a sustained period of relative stability at around 25 vessels per season,  which has persisted to the present day.
+
+35	Figure 2 shows the total number of ship-days per season, which again indicates a period of steady growth during the early part of the sample period, followed by a leveling off at around 2500 ship-days per season. The grand totals for numbers of ship voyages that have taken place in the Antarctic and number of ship-days for the twenty-five year period are 527 and approximately 50,000 respectively.  The average length of a ship-season is 96 days.
+
+Consideration of Marine Incident Rates
+
+36	During the twenty-five year interval surveyed there have been two recorded losses of vessels operated by nNational Pprogrammes (as indicated above).  Thus, to to a first order of estimation the historical loss rate for the Nnational Pprogrammes as a group is one vessel per 25,000 ship-days, or one per 260 voyages into Antarctic waters.  These historical rates must be viewed with considerable caution however, not only because the volume data are incomplete, but also because of the (thankfully) very low absolute numbers of ship losses.  These figures should not be interpreted as representing the probability of occurrence of the “worst case marine” event (table 1 and 2 above).  However, they do give an indication of the upper bound to that probability.
+
+Estimate of Volume of Aviation Activity
+
+37.	COMNAP has carried out a survey of its members to determine the volume of air activity and also the number of incidents that have occurred involving aircraft, both fixed wing and rotary.  It was judged sufficient to limit this survey to the past five years, up to and including the 02/03 Antarctic Season.  About half the membership responded, but as with the shipping survey, this covered most of the nations with a significant aviation element in their programme, so the figures do give a fair representation of current trends.
+
+38.	Air activity has been split into two general classes: “Intercontinental”, and “Intra–cContinenental”t”, with the latter further separated out into fixed wing and rotary wing aircraft.  Broadly speaking, intercontinental involves larger multi-engine aircraft carrying personnel and high value freight into and out of major centers such as McMurdo Station and Rothera.  Intra-continentalt involves a much broader mix of aircraft types covering personnel & and cargo plus field deployments, aerial scientific survey, SAR, ice reconnaissance etc.
+
+
+
+Table 4:4  Summary of NAP Air Activity for five Antarctic Seasons from 980/99 to 02/03
+
+Air Activity
+Total
+Flight hours
+No. of
+incident
+No. with
+Environmental
+impact
+Incident rate 
+(per hr)
+Environmental incident rate
+(per hr)
+Intercontinental
+flights
+13976
+3
+0
+2.1 x 10-4
+zero
+Intra-continental-continent - fixed
+26910
+13
+2
+4.8 x 10-4
+7.4 x 10-5
+Intra-continental-continent - rotary
+17861
+4
+2
+2.2 x 10-4
+1.1 x 10-4
+Total air
+activity
+58747
+19
+4
+3.2 x 10-4
+6.8 x 10-5
+
+
+    39. Table 4 gives a summary for the past five years.  The total number of flight hours over the past five  years intercontinental operations is approximately 14,000.  In that period there have been three events that were serious enough to be classed as incidents or accidents resulting in an historical accident rate of  around one event per 5000 hrs  (2 x 10-4 accidents per hour).  However, none of these resulted in any environmental damage.  
+
+    40. For fixed wing intra-continental-continent operations, total  flight hours areis approximately 27,000, during which there have been thirteen recorded accidents or incidents, or approximately one event every 2000 hrs (giving a rate of approximately 5 x 10-4 accidents per hr)). Of these, two are known to have resulted in some environmental impact.  There has been a total of around 18,000 hrs of helicopter activity with four recorded incidents, two of which caused environmental impact.  Overall, in the past five years there has been around 60,000 hr of activity with roughly one event per 3000 hrsan (overall incident rate of 3.2 x 10-4 accidents per flying hour), but with environmental impact occurring only once every 15000 hrsat (a rate of around 7 x 10-5 events per flying hour).
+
+
+
+
+Probability of Environmental Impacts
+
+41.	COMNAP has estimated the volume of activity and the rates of accidents for marine and aircraft operations amongst its members as given above.  This analysis does not however, answer the question of the probability of such events occurring in the future.  Rather is it provides the baseline data upon which actuarial experts could base realistic estimates of probability.  COMNAP does not have the competence to carry out the additional analysis required.
+
+42.	It is also to be noted that for several of the other potential worse case scenarios listed in Ttable 2 (e.g. 1,5 and 6) there is not no experience to draw upon and hence no data available from which to determine an historic accident rate. For these cases an expert risk analysis would be required to determine a theoretical probability of occurrence. 
+
+COSTS  INVOLVED IN CLEAN UP ACTIVITIES IN ANTARCTICA
+
+43.	Establishing the costs of clean up activities after an environmental incident in Antarctica is a very difficult task given the fortunate lack of experience in major environmental emergencies.  Accordingly, the information COMNAP is providing here is to give an order of magnitude of costs that might be incurred.
+
+44.	Three approaches have been used to identify the costs involved: 
+
+A. 	the costs involved in actual incidents that have occurred; 
+
+B. 	the costs involved in the clean up and remediation of a waste disposal site; and 
+
+C. 	the known costs of a range of services that might be called upon to respond to an environmental incident.
+
+These are discussed in more detail below.
+
+
+A.	Costs incurred during actual incidents in Antarctica
+
+The 1989 Bahia Paraiso incident
+
+45.	There has been one substantial case of a foundering ship which led to clean up of spilled fuels and lubricants — this involved the Argentine vessel Bahia Paraiso which grounded in January 1989.  Although not recent, the response actions applied to that incident provide an indication of the possible costs.
+
+46.	After running aground near Palmer Station in 1989, approximately 600, 000 litres of diesel and lubricants spilled out of the vessel into surrounding waters and onto nearby shores.  The US National Science Foundation (NSF) sent a response team to the site to assist Argentina with assessment of damage and the clean up. The clean up involved containment and mitigation of the spill using floating barriers, divers, floatable bladders, a tug boat, skimmers, absorption chemicals and associated support. Scientific studies of the initial impacts and effects of the spill were conducted, and long term scientific monitoring of the affected areas commenced. The initial clean up was able to remove approximately 65, 000 litres of fuel, while an unspecified amount of fuel dissipated through natural processes prior to the initial response.
+
+47.	The clean up operation and associated science undertaken by the NSF was estimated to have cost $US2.5 million2 (equivalent to approximately $US3.3 million3 in 2003). In addition, a US Air Force C-5B was used to position 52 tonnes of equipment to be used at the site. 
+
+48.	In 1992 a Memorandum of Understanding was drawn up between Argentina and The Netherlands to undertake further study of the Bahia Paraiso and remove any remaining contaminants. 
+49.	
+The subsequent clean up work was contracted to a Dutch company with operational assistance from the Argentine navy.  This operation recovered a further148,500 litres from the ship’s tanks. The total cost of the clean up, including an EIA, contracted diving operations, use of the Canal Beagle and assistance from the Francisco de Gurruchaga was approximately NLG8 million, which would have been approximately equivalent to $US 4 million (or approximately $USD 5 million today2). 
+
+50.	Adding the cost of the initial clean up (US$$US 3.3 million), the approximate cost of hiring an equivalent air craft ($US 0.5 million),  and the upper estimate of conducting the secondary clean up of the site (just over US$$US 5 million), the total cost of a clean up of the Bahia Paraiso accident, if it occurred today, would be approximately $US 9 million. Note that these figures are not precise, given the calculations made regarding inflation rates and conversions — the final figure provides only an indication of magnitude.  To put this in relation to other major spills, the Exxon Valdez disaster, released over 41,000, 000 000 litres of crude oil in near-shore waters.  The cost of that response, clean-up, and restoration exceeded $US 2.1 billion
+	
+Removal of a damaged aircraft
+
+51.	A Basler 67 operated by Adventure Network International was damaged in a severe storm in Ellsworth Land in October 2002. The aircraft was insured by the Lloyds of London and has been assessed as a “total loss”.  The cost of removing the aircraft from Patriot Hills to Punta Arenas has been assessed at approximately $US 250 0004.
+
+
+
+B.	Costs involved in clean up and remediation
+
+Clean up and remediation at Thala Valley
+
+52.	This case study does not relate to an environmental incident, but does reflect clean up costs.  
+
+Thala Valley was used as a dump for solid wastes from Australia’s Casey station between 1969 and 1985. A wide range of domestic and industrial wastes were deposited at the site and remain there today. Clean up of the site, which is currently under way, involves removal and storage of materials and subsequent shipping to Australia for disposal of up to 2 000 cubic metres of material. Monitoring of the site is also required to detect the mobilisation of contaminants and the effectiveness of clean up. 
+
+53.	The estimated costs of the clean up are of order $US 3M at 2003 values. These costs include equipment, material and personnel for the monitoring of the activity, site remediation, removal of material, creation of barriers around the site, transportation and storage of material and disposal in Australia. These figures reflect actual costs being incurred during the clean up and predictions for future operational costs.  A detailed breakdown of the costs is given in Table 5. 
+Table 5:   Costs associated with Thala Valley clean up
+
+
+Costs are shown in US dollars in 2003 values, based on February 2003 exchange rates.
+
+
+C.	Costs for response equipment and personnel
+
+54.	COMNAP has sought indicative costs for equipment and personnel required for response action in Antarctica from Australia and Chile, Southern Hemisphere countries on opposite sides of the Antarctic continent.  
+
+Costs are shown in US dollars in 2003 values, based on February 2003 exchange rates.
+
+Costs indicated by Australia
+
+55.	Australia has provided the following indicative costs:
+
+TableABLE 6:    Generic operational costs (provided by Australia)
+
+
+
+# Total cost includes all incidental costs 
+* Delivery fee is each way from the Northern hemisphere to Southern Hemisphere “gateway” port.
+~Rates for aircraft are estimates, and the cost may vary depending on operator and aircraft availability. 
+^ These figures are a representation of magnitude only and will vary depending on situation.  
+
+Costs indicated by Chile
+
+56.	The costs indicated by Chile relate to the worst case scenario — that is, a vessel that sinks and breaks up, releasing bunker and fuel.  The mobilisation costs might include:
+
+    a) Sea transport of clean up materials from a port in the Northern Hemisphere to Antarctica
+    b) Air transport of clean up materials to a port in the Southern Hemisphere and then transport by sea to Antarctica
+    c) Transport clean up materials from a port near Antarctica
+    d) Use clean up materials already on a station or ship operated in Antarctica
+    e) Removal by sea or air materials from Antarctica
+
+57.	On this basis, a clean up operation, including mobilisation of a ship to Antarctica (40 to 60 days outward journey and return) and 20 to 30 days in the Antarctic Treaty area would cost $US 3 to 5  million (assuming $US 30 000 per ship per day).  Some savings will be made if the clean up materials used are already in Antarctica.
+
+58.	The Chilean maritime organisation has provided the following itemised assessment of the “on the ground” costs for a more limited clean up operation of 10 days duration, excluding the costs of transport to and from Antarctica.
+
+
+TABLE 7:   Indicative costs for a 10 day clean up (provided by Chile) 
+
+
+
+Cost*
+$US
+Quantity
+Total cost
+$US
+PERSONNEL
+Supervisor
+$US 53 per hour
+10 hour x 10 days
+5 300
+Foreman
+$US 36 per hour
+10 hour x 10 days
+3 600
+6 Equipment operators
+$US 26 per hour per person
+10hour x 10 days
+15 600
+2 Divers
+$US 36 per hour per person
+3 hour x 10 days
+2 160
+1 Dive supervisor
+$US 41 per hour
+10 hour x 10 days
+4 100
+
+
+
+30 760
+FUEL RECOVERY
+Siri Alfa disc
+$US 256 per day
+10 days
+2 560
+Lori LSC disk
+$US 256 per day
+10 days
+2 560
+Rope MOP band
+$US 256 per day
+10 days
+2 560
+Mantis 12 T
+$US 51 per day
+10 days
+5 100
+Skim Pak
+$US 41 per day
+10 days
+4 100
+Desmi Termite
+$US 256 per day
+10 days
+2 560
+
+
+
+19 400
+FUEL BARRIER
+Rigid Bay Barrier 15"
+$US 2 per  metre per day
+1000  metres x 10 days
+20 000
+Inflate Open Sea Barrier 24"
+$US 3 per  metre per day
+1000  metres x 10 days
+30 000
+
+
+
+50 000
+PUMPS
+300m³/hour
+$US 123 per day
+3 x 10 days
+3 690
+90m³/hour 
+$US 92 per day
+3 x 10 days
+2 760
+30m³/hour
+$US 51 per day
+3 x 10 days
+1 530
+Power pack 25 hp
+$US 77 per day
+9 x 10 days
+6 930
+
+
+
+14 910
+TANKS
+Floating tank 15 m³
+$US 202 per day
+10 x 10
+20 200
+10 m³
+$US 135 per day
+10 x 10
+13 500
+
+
+
+33 700
+CHEMICAL PRODUCTS
+Dispersants
+$US 4 per litre
+10 000 litres
+40 000
+BALAREP 25kgr/can
+$US 671 per can
+100 can
+67 100
+BALAREP
+$US 27 per kg
+1.000 kg
+27 000
+Opturep
+$US 160 u.
+100 u
+16 000
+
+
+
+150 100
+OTHERS
+Hercules C 130
+$US 32 275 per trip
+2 trips
+64.550
+Cargo vessel
+$US 10 000 per day
+10 days
+100 000
+Container ISO 20'
+$US 41 per day
+10 x 10
+4 100
+Zodiac
+$US 11 per day
+5 x 10
+550
+Hydro washer machine
+$US 256 per day
+3 x 10
+7 680
+
+
+
+176 880
+GRAND TOTAL
+
+
+475 750
+
+*Chilean Maritime Organisation (DIRECTEMAR) 
+
+
+
+
+
+CONCLUSIONS 
+
+59.	This report provides the consensus view of COMNAP members of what is likely to constitute the worst-case environmental emergencies that could foreseeably occur in Antarctica as a result of National national Programme programme activities. COMNAP has assessed the environmental significance of these hypothetical emergencies in a semi-quantitative way taking account of the likelihood of occurrence, the likelihood of consequent environmental harm, the severity of the harm and the capacity to take response action.  This has allowed a ranking of the scenarios which indicates that the worst case land based emergency would be the unplanned pollution of ana hitherto pristine environment such as lake Vostoka sub-glacial lake, whilst the worst case marine emergency would be the foundering of a ship in an environmentally sensitive coastal area.
+
+60.	
+COMNAP has also provided examples of what it considers to be less-than-worst-case scenarios where environmental damage would result.  These have also been ranked according to their estimated environmental significance.  This has demonstrated that some of these examples actually score higher than formay be more environmentally significant than some of the chosen worst-case scenarios.
+
+61.	COMNAP does not have the expert competence to address the issue of probability of occurrence in a manner suitable of actuarial calculations.  However, it has been possible to provide historical data on volume of National national Antarctic Programme programme activity for ship and air operations, and to compare this with the number of reported incidents.  This provides historical incident rates that should provide the basis for more expert analyses.
+
+62.	The issue of the likely cost of clean-up has also been addressed based on several approaches: the known costs of the one significant marine pollution event, the known costs for cleaning up and restoring a major waste site, and an estimate of the likely costs of mobilizing for a marine event.  The likely costs are in theof order of 10 million US dollars.  However, for several of the scenarios listed it is assessed that neither clean-up or restoration would be possible.  COMNAP is not competent to put a value on the environmental damage in such cases.
+
+
+

@@ -1,0 +1,35 @@
+﻿
+
+
+
+
+
+The International Bathymetric Chart of the Southern Ocean (IBCSO): First Release
+
+
+
+
+
+
+
+
+The International Bathymetric Chart of the Southern Ocean (IBCSO): First Release
+Information Paper submitted by SCAR
+
+
+Summary
+The International Bathymetric Chart of the Southern Ocean (IBCSO) project was initiated in 2006 with the objective to design and implement an enhanced digital database that contains bathymetric data available south of 60°S latitude. IBCSO is endorsed by international organizations such as the Intergovernmental Oceanographic Commission (IOC) of UNESCO, the International Hydrographic Organization (IHO), and the Scientific Committee on Antarctic Research (SCAR).
+
+Access to high quality Southern Ocean bathymetry information is key to understanding a range of ocean and cryospheric processes. Sea floor topography controls ocean circulation and ocean mixing - and has strong influence on global climate. For example, it is critical for understanding and modelling oceanic gateways and barriers, the nature of the thermohaline circulation and the flow of Antarctic bottom water and the stability of the Antarctic ice sheets.
+
+In April 2013 IBCSO Version 1.0 was released by the Alfred-Wegener-Institute (AWI), in Germany. AWI hosts the data repository and the IBCSO web site and over the years has been responsible for populating the database and quality control to rigorous standards.  A final map was also generated at AWI and further details can be found in Arndt (2013) 
+
+The map and data are now available for download and a printed version will also be available. More details can be found at: http://www.ibcso.org
+
+The IBCSO database currently consists of more than 4200 million data points contributed by more than 30 institutions from 15 countries. It is foreseen that this database forms the nucleus upon which to build and to include future bathymetric data in order to further enhance the knowledge of Southern Ocean topography.
+SCAR urges all Treaty Nations to continue to contribute data to this important database. Please contact Jan.Erik.Arndt@awi.de for further details.
+
+Reference
+Arndt, J.E., H. W. Schenke, M. Jakobsson, F. Nitsche, G. Buys, B. Goleby, M. Rebesco, F. Bohoyo, J.K. Hong, J. Black, R. Greku, G. Udintsev, F. Barrios, W. Reynoso-Peralta, T. Morishita, R. Wigley. 2013. The International Bathymetric Chart of the Southern Ocean (IBCSO) Version 1.0 - A new bathymetric compilation covering circum-Antarctic waters, Geophysical Research Letters, doi: 10.1002/grl.50413. 
+
+

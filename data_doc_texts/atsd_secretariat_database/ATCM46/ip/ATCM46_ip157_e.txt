@@ -1,0 +1,190 @@
+Identification and characterization of dangerous meteorological
+phenomena for air navigation in Antarctica
+Identification and characterization of dangerous meteorological
+phenomena for air navigation on Antarctica
+Summary
+Colombia's contributions, through the Colombian Air Force, to the
+Antarctic Treaty have been fundamental to advancing our
+understanding of the atmospheric dynamics of the Antarctic
+Peninsula. Throughout four Antarctic Expeditions, meteorological
+data has been collected at both surface and altitude levels, with the
+support of the Desert Research Institute (DRI) of the University of
+Nevada for analysis and modeling. The study area was carried out
+on King George Island or 25 de Mayo and at the Marambio Base.
+Likewise, as a result, invaluable knowledge has been obtained about
+the behavior of the atmosphere in the Antarctic region, which has
+facilitated the development of accurate simulations.
+The primary objective of the activities carried out is to mitigate the
+risks associated with air operations in Antarctica and understand
+the most frequent meteorological phenomena to improve predictive
+capabilities.
+Project context
+During the VII International Congress of Geography in 1899, the
+need to strengthen international expeditionary cooperation for
+academic purposes was raised (Ludecke C, 2009), determining the
+dangers to face on the white continent became one of the main
+objectives in Antarctica.
+Since the first Colombian Antarctic Expedition, the Air Force has
+supported the development of these operations with C-130 aircraft
+to transport scientific personnel and logistical material from
+Colombia and other countries to contribute to the principles of the
+Antarctic Treaty around the international cooperation.
+Likewise, with the purpose of contributing to the knowledge of the
+atmospheric conditions of Antarctica, and thereby favoring the
+protection of air missions, the investigations carried out by the
+Colombian Air Force will allow establishing a better knowledge of
+the meteorological dangers for aviation and its impact on air and
+navigation services. In this way, it is intended to generate
+identification criteria for these phenomena for the international
+community, which allow the safe and efficient development of Air
+Operations.
+The Antarctic Peninsula and the Drake Channel are frequently
+affected by low-level clouds and fog impacting normal execution of
+research activities and ship and aircraft operations in the area. The
+high density of research stations in the Antarctic Peninsula requires
+accurate forecasts to improve safety and reduce operation costs due
+to flight turnarounds and cancellations. According
+to the World Meteorological Organization (WMO, 2022), fog
+episodes constitute a risk to aviation due to the reduced visibility
+(< 1000 m) often preventing the landing of the aircraft. Aircraft
+operations often rely on the forecasters experience and limited
+numerical forecasts products; albeit some available operational
+forecasting products tend to underestimate low clouds over
+Antarctica (Pon 2015; Wille et al., 2017). Hence, understanding the
+observable and predictable characteristics conducive to fog episodes
+in the area is a primary concern of these studies.
+The research has culminated in two studies aimed at
+comprehending the generation of fog in the Antarctic Peninsula.
+The first study delves into the phenomena primarily occurring in
+the western region, focusing on King George Island or 25 de Mayo.
+In the second study, phenomena in the eastern region, particularly
+around the Marambio Antarctic Base, are examined. The findings of
+these investigations were presented at two of the most influential
+scientific events in Earth and Space Sciences: the AGU Fall Meeting
+2022 and the EGU General Assembly 2024.
+The results of these investigations have been incorporated into
+meteorological products that are published on the Colombian Air
+Force Meteorological Service's website, SIMFAC (https://
+simfac.fac.mil.co). These products will be accessible through the
+Antarctic meteorology module for the entire international
+community engaged in aerial operations in Antarctica. The
+published meteorological products provide a tool for obtaining
+high-quality forecasts for the Antarctic Peninsula, enabling the
+identification of meteorological phenomena that may impact
+operational activities.
+Abstracts of the projects carried out
+Understanding Sea Fog Variability in King George Island or 25 de
+Mayo, Antarctica using Special Observations and Cloud-Resolving
+Simulations
+In this study, the occurrence of austral summer sea fog events at
+King George Island 25 de Mayo off the Antarctic Peninsula was
+investigated using surface observations, special upper-air soundings,
+reanalysis data, and WRF model cloud-resolving simulations.
+Observations were gathered based on two Colombian Antarctic
+Program research campaigns that were designed to observe fog
+vertical and temporal variability as well as their synoptic drivers,
+the first in January 20-23, 2020 and the second in February 14-
+March 6, 2022; field campaigns developed within the Antarctic.
+During the austral summer, ship track-based climatology shows that
+the region is a hotspot of high frequency of marine fog with mean
+occurrences of 20% of the time. Long term in-situ observations at
+King Island 25 de Mayo agree with the climatological frequencies in
+the 15-20% range. During our field campaigns, sea fog episodes
+were present 10 out of 24 days. Northwesterly low-level flow
+prevails during fog days as rather extratropical short wave low-
+pressure propagated over the Drake Channel. The warm quadrant of
+the cyclonic system promoted warm air advection over colder sea
+waters, leading to the fog formation. WRF simulations confirm the
+advective nature of the fog episodes with the model performing
+relatively well by adequately capturing the fog day-to- day
+variability and overall vertical structure characteristics. This
+presentation aims to highlight our field campaign experience, while
+showcasing observable and predictable marine fog characteristics,
+further leading to confident and operational explicit fog forecasting
+capabilities for the region.
+Visibility and Fog Synoptic and Mesoscale Variability over
+Marambio Base, Antarctic Peninsula
+Summertime aviation, research, and field campaigns in Marambio
+Base, Antarctic Peninsula (AP), and surrounding areas, are
+frequently affected by low visibility and fog. Additionally,
+upper-air soundings in the area are launched weekly, limiting the
+study of the synoptic time scale variability of these hazards. A
+special field campaign was designed to fill this observational gap,
+and to examine the drivers of fog events. A three week-long
+intensive observation campaign during February 2023 successfully
+captured the evolution and vertical structure of two multiday fog
+episodes that were later interrupted by westerly Foehn winds,
+favoring sudden warming, drying, and clear skies over eastern flank
+of the AP. This dataset is also used to evaluate and assess the skill of
+regional climate simulations using the Global Forecasting Systems
+data and the Polar-WRF model. We carried out the later modeling
+activities to examine the mesoscale characteristics of the interplay
+between the fog episodes and the Foehn winds. This study shows
+the analyses of the special upper-air observations and modeling
+simulations, with emphasis in the description of the observable and
+predictable mesoscale ingredients and their relationship with
+synoptic forcings. We found a cycle that modulates visibility and
+fog:
+low visibility ahead of the synoptic trough bringing a deep
+northerly moistening and warming dominating warm advection fog
+on the northeastern side of the AP;
+an enhanced mid-level inversion is formed by adiabatic warming
+due to westerly winds on the lee side of the AP limiting mixing;
+visibility increases as Foehn winds warm up and dry out the low-
+level atmosphere west of the AP;
+a meso-low (heat-low) developed on the lee side of the AP that later
+moved eastward with the synoptic trough, bringing cooler southerly
+air masses that lower visibility and favoring cold advection fog;
+cooling is maintained ahead of the synoptic ridge sustaining cold
+advection fog.
+Polar-WRF helped to diagnose the mechanistic nature of the fog
+events, while providing intricate multiscale connections modulating
+visibility in the region.
+References
+Dorman, CE, Mejia, J, Koračin, D, McEvoy, D. (2020) World marine
+fog analysis based on 58-years of ship observations. Int J Climatol.
+2020; 40: 145–168. https://doi.org/10.1002/joc.6200.
+Moffat C. and Meredith M. (2018). Shelf–ocean exchange and
+hydrography west of the Antarctic Peninsula: a review, Phil. Trans.
+R. Soc. A.3762017016420170164.
+Wallace, Margaret I.; Meredith, Michael P.; Brandon, Mark A.;
+Sherwin, Toby J.; Dale, Andrew and Clarke, Andrew (2008). On the
+characteristics of internal tides and coastal upwelling behaviour in
+Marguerite Bay, west Antarctic Peninsula. Deep-Sea Research Part
+II: Topical Studies in Oceanography, 55(18-19) pp. 2023–2040.
+Van der Velde, I. R., G. J. Steeneveld, B. G. J. Wichers Schreur, and
+A. A. M. Holtslag, 2010: Modeling and Forecasting the Onset and
+Duration of Severe Radiation Fog under Frost Conditions. Mon.
+Wea. Rev., 138, 4237–4253.
+Pon, K.: The representation of low cloud in the Antarctic Mesoscale
+Prediction System, MS thesis, Atmospheric Sciences Program, Dept.
+of Geography, The Ohio State University, 80 pp., 2015.
+Koracin, D. (2017). Modeling and Forecasting Marine Fog. In:
+Koracin, D. and Dorman, C. (Eds.) Marine Fog: Challenges and
+Advancements in Observations, Modeling, and Forecasting. Springer
+Atmospheric Sciences. Cham: Springer. https://
+doi.org/10.1007/978- 3-319- 45229-6_2.
+Park S-Y, Yoo J-W, Song S-K, Kim C-H, Lee S-H (2022) Numerical
+study on advective fog formation and its characteristic associated
+with cold water upwelling. PLoS ONE 17(8): e0267895. https://
+doi.org/10.1371/journal.pone.0267895
+Bromwich, D. H., A. J. Monaghan, J. G. Powers, J. J. Cassano, H.
+Wei, Y. Kuo, and A. Pellegrini, 2003: Antarctic Mesoscale Prediction
+System (AMPS): A Case Study from the 2000–01 Field Season. Mon.
+Wea. Rev., 131, 412–434, https://doi.org/10.1175/1520-
+0493(2003)131<0412:AMPSAA>2.0.CO;2.
+Hines, K. M., D. H. Bromwich, L. Bai, C. M. Bitz, J. G. Powers, and
+K. W. Manning, 2015: Sea Ice Enhancements to Polar WRF. Mon.
+Wea. Rev., 143, 2363–2385, https://doi.org/10.1175/MWR-
+D-14-00344.1.
+Hines, K. M., Bromwich, D. H., Wang, S.-H., Silber, I., Verlinde, J.,
+and Lubin, D.: Microphysics of summer clouds in central West
+Antarctica simulated by the Polar Weather Research and
+Forecasting Model (WRF) and the Antarctic Mesoscale Prediction
+System (AMPS), Atmos. Chem. Phys., 19, 12431–12454, https://
+doi.org/10.5194/acp-19-12431- 2019, 2019.
+Skamarock, W. C., and Coauthors (2008). A description of the
+Advanced Research WRF version 3. NCAR Tech. Note NCAR/
+TN-475+STR, 113 pp., doi:10.5065/D68S4MVH.
+Bromwich, D. H., et al. (2012), Tropospheric clouds in Antarctica,
+Rev. Geophys., 50, RG1004, doi:10.1029/2011RG000363.

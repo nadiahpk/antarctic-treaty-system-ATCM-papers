@@ -1,0 +1,40 @@
+﻿
+
+
+
+
+
+Remote sensing: emperor penguins breeding on ice shelves
+
+
+
+
+
+
+
+
+Remote sensing: emperor penguins breeding on ice shelves
+
+Information Paper submitted by the United Kingdom and the United States
+Summary
+The United Kingdom and the United States present a report of a new breeding behaviour discovered in emperor penguins whereby colonies may form on ice shelves rather than on sea-ice as is more normally the case.  The potential benefit of breeding on ice shelves should be taken into consideration when predicting the population trajectory for this species.
+Background
+The potential benefits of remote sensing for detecting and counting emperor penguins has been highlighted at CEP previously (ATCM XXXVI WP10).  Emperor penguins were considered as a largely sea-ice obligate species, with 44 of the 46 known colonies located on sea-ice (the other two small colonies are on land). Utilizing satellite and aerial-survey observations, four emperor penguin breeding colonies have been recorded as existing on ice-shelves (Barrier Bay colony, West Ice Shelf, 67.22°S, 81.93°E; Shackleton Ice Shelf colony, 64.86°S, 96.02°E; Jason Peninsula colony, northern Larsen C Ice Shelf, 66.08°S, 60.65°W; Ruppert Coast colony, Nickerson Ice Shelf, 75.38°S, 143.35°W) (Figure 1). 
+
+
+Figure 1. Emperor penguins on the edge of the Larsen Ice Shelf near the Jason Peninsula late in the breeding season. The larger group is on the ice-shelf, the smaller group has moved onto the fast-ice. Earlier in the season data from QuickBird1 satellite imagery shows that the whole colony was located on the ice-shelf. Note the ice cliff which is probably an insurmountable barrier to the adult emperor penguins. No evident route to the colony was determined from the images.
+
+
+
+Of the emperor penguin colonies found on ice shelves, two are newly discovered, having been recorded on ice shelves during every season in which they were observed (Barrier Bay colony and Jason Peninsula colony).  The other two colonies were recorded both on ice shelves and sea-ice in different breeding seasons (Shackleton Ice Shelf colony and Ruppert Coast colony). 
+
+Two types of analysis were undertaken. The first used synthetic aperture radar data to assess why the largest of the four colonies (for which most data were available) is found sometimes on the shelf and sometimes on the sea-ice.  Results showed that in years where the sea-ice formed late in the season, the colony relocated onto the ice-shelf. 
+
+The second analysis used a number of environmental variables to test the ‘habitat marginality’ of all emperor penguin breeding sites (i.e. how vulnerable was their sea-ice habitat to environmental variability). Three of the four colonies reported in this study were found in the most northerly locations, which experienced the warmest conditions, relative to other colonies, and where sea-ice formation is often sub-optimal. 
+Conclusions
+The reliance of emperor penguins on sea-ice as a breeding platform, coupled with recent concerns over changed sea-ice patterns linked with regional warming, has led to their designation as “near threatened” in the IUCN red list. Current climate models predict that future loss of sea-ice around the Antarctic coastline will impact negatively upon emperor penguin numbers, with recent estimates suggesting a halving of the population by 2052. The discovery of this new breeding behaviour at marginal sites could mitigate some of the consequences of sea-ice loss.  The potential benefit of breeding on ice shelves, and whether this behaviour is permanent or temporary, should be taken into consideration when predicting the population trajectory for this species.
+Reference
+Fretwell, P. T., Trathan, P. N., Wienecke, B., and Kooyman, G. L.  (2014).  Emperor penguins breeding on iceshelves.  PLOSone: DOI: 10.1371/journal.pone.0085285.  Available at: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0085285
+
+
+

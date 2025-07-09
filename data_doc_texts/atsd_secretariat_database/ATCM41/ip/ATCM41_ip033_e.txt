@@ -1,0 +1,74 @@
+﻿
+
+
+
+
+
+Update on activities of the Southern Ocean Observing System (SOOS)
+
+
+
+
+
+
+
+
+Update on Activities on the Southern Ocean Observing System (SOOS)
+An Information Paper submitted by SCAR
+Summary
+This paper summarises key activities of the Southern Ocean Observing System (SOOS - website soos.aq), highlights future efforts, and identifies challenges facing SOOS in the coming year.
+Introduction
+SOOS is a joint initiative of the Scientific Committee on Antarctic Research (SCAR) and the Scientific Committee on Oceanic Research (SCOR), and endorsed by the Partnership for Observations of the Global Ocean (POGO), and the Climate Variability and Predictability (CLIVAR) and Climate and Cryosphere (CliC) projects of the World Climate Research Programme (WCRP).
+Update on key activities
+SOOS was launched in 2011 with the mission to facilitate the collection and delivery of essential observations on dynamics and change of Southern Ocean systems to all international stakeholders, through design, advocacy, and implementation of cost-effective observing and data delivery systems.  Towards this mission, SOOS has developed several networks and products, many of which will be important to the work of the Antarctic Treaty System. 
+1.  Working Groups
+SOOS has established several regional networks to better coordinate national and international collection of observations in different sectors of the Southern Ocean and has provided a framework for development of community-led Working Groups that enhance observational capabilities.  In 2017, four of the five working groups held their inaugural meetings and have made progress on:
+    • identification of key scientific drivers for the region,
+    • assessments of observational coverage, gaps and priorities for the region,
+    • identification of priority regions for sustained observations and enhanced collaborative efforts.
+
+2.  Key Products
+DueSouth:
+In collaboration with several international communities, SOOS has developed a Database of Upcoming Expeditions to the Southern Ocean (DueSouth), to better support collaboration in field planning. 
+Southern Ocean Community annual calendar:
+In order to facilitate planning and communication of meetings and workshops relevant to SOOS in an increasingly busy year, SOOS has developed an annual calendar view of upcoming meetings of direct relevance to SOOS and the ocean observational community.
+SOOSMap:
+SOOSMap is an integrated web map that allows users to discover, and where possible download well-curated datasets, filtered by time, space and data type.  It enables a visualization of the state of the observing system elements (platforms, variables) through time.  SOOSmap is delivered by EMODnet (European Marine Observation and Data Network), in collaboration with JCOMMOPS (WMO- Joint Technical Commission for Oceanography and Marine Meteorology in-situ Observing Programmes Support Centre).
+Southern Ocean Mooring Network:
+SOOS continues to add moorings that have been deployed in the Southern Ocean, with the number now well-exceeding 500 moorings.  In addition to identifying the location, deployment status and link to metadata for these moorings, SOOS received US NOAA BEDI funding to rescue and make available, orphan mooring data.  So far, this work has rescued data from 63 mooring deployments and has made the data available for the first time, in the US NCEI repository.  An interactive map is available on the SOOS website at Mooring Network.
+Federated Data Search Tool:
+The objective of the SOOS Federated Data Search tool is to provide a single search window for all published observational data collected in the Southern Ocean, regardless of the data repository within which it is curated.  This tool will allow users to simultaneously search all the major data repositories that host Southern Ocean observing data, including both large, well-curated datasets (such as those available through SOOSmap), and new data types or data from small regional/national projects.
+Catalogue of Data Repositories:
+Whilst working to deliver aggregated and user-friendly data discovery tools, SOOS has provided an up-to-date catalogue with links to all the major data providers from the Antarctic and oceanographic communities.
+
+3.  Activities in 2018
+Marine Ecosystem Assessment of the Southern Ocean:
+Along with several others, SOOS sponsored and participated in the Marine Ecosystem Assessment for the Southern Ocean Conference held in Hobart in April 2018 (MEASO 2018). 
+The aim of MEASO 2018 was to facilitate contributions from the Antarctic and Southern Ocean marine science community to the 6th Assessment Review (AR6) of the Intergovernmental Panel on Climate Change (IPCC), the IPCC Special Report on the Ocean and Cryosphere in a Changing Climate (SROCC), and recent initiatives to assess status and trends in global ocean ecosystems.  It also aims to make a significant contribution to the development of SOOS’ Theme 6 Biology, and to updating the SCAR Report on Antarctic Climate Change and the Environment (ACCE). 
+These aims were progressed in four themes:
+    • Assessments of status and trends in habitats, species and ecosystems, and the causes of change; 
+    • Responses of species to changing habitats, including ocean acidification, sea ice and temperature; 
+    • Modelling and analytical methods to assess status, trends, impacts, future states; and 
+    • Implementation of observing systems to estimate dynamics and change.
+An additional policy forum also brought together scientists, fishers, conservationists, policy-makers and managers to advise on what science is needed on ecosystem change and how it should be most usefully delivered to stakeholders and policy-makers.
+The outcomes of the Conference and Policy Forum will be made available to the Antarctic Treaty’s Committee on Environmental Protection, the Scientific Committee for the Conservation of Antarctic Marine Living Resources, the International Whaling Commission’s Scientific Committee and other organisations interested in the management and conservation of Southern Ocean ecosystems.
+The following workshops/meetings are also planned for 2018:
+SOOS Scientific Steering Committee Meeting (China, May 2018)
+SOOS Executive Committee Meeting (China, May 2018)
+SOOS Data Management Sub-Committee Meeting (China, May 2018)
+Polar Data Planning Summit (USA, May 2018)
+SOOS Regional Working Group Consortium (Switzerland, June 2018)
+SOOS Gathering (Switzerland, June 2018)
+SOOS 2nd EXCOM Meeting (Switzerland, June 2018)
+SOOS @ COMNAP AGM (Germany, June 2018)
+Southern Ocean Data Hack (Switzerland, June 2018)
+Polar Federated Search Working Group Meeting (Switzerland, June 2018)
+Data Sharing Townhall (Switzerland, June 2018)
+Challenges
+The SOOS International Project Office (IPO) is funded in the following manner:
+    1) Salaries of the 2 staff (at 1.8 % FTE) are funded by the Australian Research Council’s Antarctic Gateway Partnership, with contributions from the University of Gothenburg, Sweden and overheads covered by the University of Tasmania, Australia.  New support has been agreed with the State Oceanic Administration of China who are fully supporting the salary of one staff member to work at the IPO in Hobart for the initial period of 1 year (starting April 2017).
+    2) Direct funding of the IPO by the Australian Research Council’s Antarctic Gateway Partnership, Australian Antarctic Division, and Antarctica New Zealand.
+    3) In-kind sponsorship of IPO through delivery of services and expertise: University of Gothenburg (Sweden), Rutgers University (USA), Australian Antarctic Division (AAD), Australia’s Integrated Marine Observing System (IMOS), Tasmanian Partnership for Advanced Computing (TPAC), NASA GCMD (Global Change Master Directory) and Bioflex Nutrition (Australia).
+Funding of staff through Australian Research Council’s Antarctic Gateway Partnership program currently ends in December 2018.  Discussion are underway with Hobart-based organisations (University of Tasmania, AAD, CSIRO and IMOS) regarding the future support of a partnership agreement on hosting of the International Project Office (IPO) and the continuation of the SOOS IPO in Hobart.  The exact scale, timing and pathway for this support has yet to be determined.
+Of note, SOOS is at a point of significant growth and activity, and existing IPO staff and resources are insufficient to support this growth.  Nearly all SOOS products and activities are under resourced, and rely on volunteer and in-kind efforts.  SOOS has developed a 5-Year Business Plan (draft available on request) that articulates the resources required to deliver the 5-Year Implementation Plan (http://soos.aq/activities/implementation) and invites discussion with any parties interested in contributing to this international initiative.
+

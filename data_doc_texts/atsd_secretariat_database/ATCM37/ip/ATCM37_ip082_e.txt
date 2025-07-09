@@ -1,0 +1,65 @@
+﻿
+
+
+
+
+
+Site Sensitivity Analysis approach utilized in the Svalbard context
+
+
+
+
+
+
+
+
+Site Sensitivity Analysis approach utilized in the
+ Svalbard context
+Information Paper
+Submitted by Norway
+
+Background
+This Information Paper provides a short summary of a Svalbard focused project, aiming to develop a tool to assess the sensitivity of tourist visited sites. It is considered relevant in the context of ongoing discussions in ATCM/CEP following up on the recommendation from the CEP tourism study which inter alia identified the need for the development of an appropriate method of assessing site sensitivity. 
+This Information Paper does not aim to provide all details related to the project, neither the details pertaining to the methodology and the results, but rather to point to relevant experience and work from other (polar) areas, which could provide insights and ideas in the ongoing work in the Antarctic context. Further information can be gained by consulting the reports from the work1 or the lead institutes/PIs of the project2. 
+The project
+The Arctic archipelago of Svalbard constitutes the northernmost part of Norway. The islands are located between 74° to 81° north latitude, and 10° to 35° east longitude. 
+The Government’s aim for Svalbard is to preserve its wilderness and natural and cultural values, while at the same time maintaining a healthy settlement and economic activity. A solid understanding of the interaction between human activity and its impact and effects on the environment is therefore important in order to achieve the overarching policy objectives that to a certain degree conflict with each other.
+Cruise tourism is one activity that has a significant commercial potential in Svalbard, but which may also greatly affect the environment and cultural heritage sites. Cruise tourism in Svalbard has been ongoing more than 100 years, increasing considerably over the last 10-15 years (Figure 1). 
+
+
+Figure 1: Number of sites visited and passengers who goes ashore in Svalbard
+
+In the context of local management, the sites having the highest risk of incurring negative or unacceptable impact from visitation must be given the highest priority. A system that helps identify and quantify the level of vulnerability both within and between sites is required in order to determine which sites should receive priority.
+In order to move this complexity a bit forward the Svalbard Environmental Protection Fund3 financed the project "Environmental effects of traffic? Registration and assessment of deterioration and disturbance to vegetation, wildlife and cultural heritage". The project was a collaborative effort between the Norwegian Institute for Nature Research and the Norwegian Institute for Cultural Heritage Research. The goal of the project was to provide local management authorities with a greater understanding and tools to assess vulnerability in single visitor sites, and to develop an evidence-based fundament on which to evaluate the need for management actions at that particular site. The project considered four themes: the use itself (the activity and the visitors), vegetation, wildlife and cultural remains. The development of a model for the assessment of vulnerability (incorporating all four themes) was a key part of the project. 
+
+Vulnerability
+The term vulnerability has somewhat different meanings in different disciplines and is not clearly defined or does not necessarily have a clear application in the context of management. In the project described in this Information Paper, vulnerability to visitation was defined as the likelihood of a specific exposure causing a negative effect. 
+
+Visitation
+The number of visitors and how they behave on the site was considered essential data in order to predict possible local environmental effects. Available statistics for site visits on Svalbard include number of visitors landing on each site and number of landing sites (as recorded in e.g. MOSJ: Environmental Monitoring of Svalbard and Jan Mayen4).
+In assessing a site’s vulnerability to visitation it is also important to have a clear understanding of the temporal and spatial scale relevant to use as basis for the assessment. The presence of vulnerable elements in light of the use pattern of the site is what in principle determines whether a site or larger area is vulnerable to disturbance (Figure 2).
+
+ 
+
+Figure 2. A conceptual model illustrating how different intensities of use (human traffic) could have different impact depending on where vulnerable elements are located at the visited site. Here exemplified with short visits lasting typically 2-4 hours (to the left) and longer visits e.g. a camp site from which you do several day trips (to the right). Such visits represent two very different, but typical movement patterns. The impact is very much dependent on where potential vulnerable elements occur (fauna, vegetation and cultural remains) and their vulnerability. In this example  both cultural heritage and vulnerable vegetation is found close to the centre of the landing sites, while fauna hotspots occur at distances not reachable during a short visit.  
+
+Developing a model for classifying vulnerability for vegetation, wildlife and cultural heritage
+Vulnerability varies widely both between and within localities. In practice this means that most sites can be divided into smaller areas that may have different management requirements. Thus, the importance of identifying the level of detail and accuracy necessary for sufficient and good management was underlined. Finding parameters for vulnerability assessment that both 1) was scientifically correct and captures the elements that are essential for good management and 2) is simple and easy to record for specialists as well as non-specialists was considered essential in the project.
+Separate vulnerability models for vegetation, animal life and cultural remains were developed as part of the project. 
+The vegetation model was developed based on the assumption that vulnerable vegetation can be characterized by two key concepts: tolerance and recovery/regrowth. Some areas have poor tolerance to trampling, but relatively good ability for recovery. Other areas may have better tolerance, but very poor regeneration. Areas with a combination of poor durability and poor regrowth are very vulnerable, such as wet vegetation on sloping terrain and dry ridge vegetation on rough substrate. For the vegetation model, nine vulnerability categories were identified, in addition to the incorporation of red-list status (ie. likelihood to die out (population decline, rarity) or destroyed). The units are given a numerical value (weighting), based on their area and distribution within the site, which is used for further calculations in the vulnerability model. 
+The model for wildlife was developed based on knowledge about presence of species at the site. In the model the species are weighted related to management priority (red-list status) and their vulnerability to disturbance. In addition, the presence of important habitats is included and weighted. Vulnerability assessment for wildlife provides additional challenges in that all the species in question use space differently and are in different functional (life) stages depending on the time of the year, and thereby respond differently to disturbance at different times of the year. Generally, most species are most vulnerable to disturbance during the breeding period. In the project (which focused on summer season activities) species are categorized into three categories that define the likelihood of adverse effects on reproduction: "probably no reduced reproduction," "possible reduced reproduction" and "very likely reduced reproduction". Each category is given a numerical value (weighting), which is used in further calculations in the vulnerability model. By using an exponential weighting species are given relatively higher focus as vulnerability to disturbance increases.
+The model for cultural heritage was developed on basis of 14 vulnerability units, defined based on  types of historic remains at Svalbard. These are assessed with respect to their accessibility, understanding, level of degradation and the presence of small objects. The presence of the units in the site is recorded, and given a numerical value (weighting) based on these four characteristics and used for further calculations in the vulnerability model. 
+The models for each theme provide the basis for calculating a numerical vulnerability score for the site for each of the themes (Figure 3). For all themes the lowest score is zero, while the theoretical maximum score varies between disciplines. For each discipline the scale is such that sites with higher scores are more vulnerable than sites with lower scores. The score is not comparable between themes. In order to make an assessment between the themes, vulnerability is for each theme grouped into three categories based on the score. Such a categorization allows for the prioritization between sites. The categories are as follows:
+    • Robust site: a site that can support the current level of visitation and that is robust to visitation in general. There are few sensitive values and also difficult to envisage a need for visitation measures should the number of visitors increase.
+    • Medium vulnerable site: a site with some vulnerable elements in a larger or smaller area of ​​the site. Location of the vulnerable elements in light of how the site is used will affect the need for management measures. A closer examination of the site's vulnerable elements along with knowledge of current use will provide a better basis for assessing the need for any action.
+    • Vulnerable site: a site where there is clear negative effects of visitation if one or more forms of management is not implemented. Records of vulnerable elements and knowledge of current use will be relevant as basis for making management decisions.
+
+
+
+Figure 3. Calculating vulnerability values
+
+
+
+
+
+

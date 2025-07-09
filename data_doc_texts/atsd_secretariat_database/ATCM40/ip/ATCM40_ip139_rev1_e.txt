@@ -1,0 +1,315 @@
+﻿
+
+
+
+
+
+An overview of the International Code for Ships Operating in Polar Waters
+
+
+
+
+
+
+
+
+An overview of the International Code for Ships Operating in Polar Waters 1
+ 
+
+
+
+
+Heike Deggim
+Maritime Safety Division
+International Maritime Organization (IMO)
+4 Albert Embankment, London SE1 7SR, United Kingdom
+
+
+
+
+
+
+
+Summary
+
+This paper gives an overview of the requirements of the International Code for Ships Operating in Polar Waters, better known by its short name “Polar Code”, with regard to maritime safety and marine environment protection, also addressing its place in the existing global framework regulating international shipping.  Associated training and certification requirements for officers and crew serving on ships operating in polar waters, as have been included in the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW), are also described.  The paper finally examines what more can be done to ensure the safety of polar shipping, taking into account on-going discussions at IMO.
+
+TABLE OF CONTENTS
+
+
+Section
+Paragraphs
+
+
+Introduction
+1 to 6
+
+
+International regulatory framework for shipping in polar waters
+
+7 to 10
+International Code for Ships Operating in Polar Waters (Polar Code)
+11 to 39
+	Background
+11 to 13
+	Status and structure of the Code
+14 to 16
+	Objectives
+            General requirements
+17 and 18
+19 to 21
+	Maritime safety related requirements
+22 to 24
+	Marine environment related requirements
+25 to 27
+	Related IMO guidelines and recommendations
+28 to 32
+	Further work related to the Polar Code
+33 to 39 
+
+Associated SOLAS and MARPOL amendments making the Polar Code 	mandatory
+
+40 to 46
+
+Training and certification requirements for officers and crews on ships operating in polar areas
+
+Conclusion
+
+
+
+47 to 51
+
+ 52 and 53
+INTRODUCTION
+
+1	Ships operating in the Arctic and Antarctic environments are exposed to a number of unique risks.  Poor weather conditions and the relative lack of good charts, communication systems and other navigational aids pose challenges for mariners.  The remoteness of the areas makes rescue or clean‑up operations difficult and costly.  Cold temperatures may reduce the effectiveness of numerous components of the ship, ranging from deck machinery and emergency equipment to sea suctions.  When ice is present, it can impose additional loads on the hull, propulsion system and appendages.
+
+2	Whilst Arctic and Antarctic waters have a number of similarities, there are also significant differences.  The Arctic is an ocean surrounded by continents while the Antarctic is a continent surrounded by an ocean.  The Antarctic sea ice retreats significantly during the summer season or is dispersed by permanent gyres in the two major seas of the Antarctic: the Weddell and the Ross.  Thus there is relatively little multi-year ice in the Antarctic.  Conversely, Arctic sea ice survives many summer seasons and there is a significant amount of multi-year ice.  Whilst the marine environments of both Polar seas are similarly vulnerable, response to such challenge should duly take into account specific features of the legal and political regimes applicable to their respective marine spaces.
+
+3	The safety of ships operating in the harsh, remote and vulnerable polar areas and the protection of the pristine environments around the two poles has always been a matter of concern for IMO and measures that specifically address shipping operations in those regions have been in place for several years. 
+
+4	However, with more and more ships navigating in polar waters, IMO has moved to address international concern about the protection of the polar environment and the safety of seafarers and passengers with the introduction of the mandatory Polar Code, for ships operating in Arctic and Antarctic waters. It entered into force on 1 January 2017 and it is the single most important initiative to establish an appropriate international regulatory framework for polar shipping.  It is particularly important to remember that the Polar Code requirements, which were specifically tailored for the polar environments, go above and beyond those of existing IMO conventions such as MARPOL and SOLAS. All the extensive safety and environmental regulations included in these and other IMO conventions are applicable globally and will still apply to shipping in polar waters. However, the Polar Code adds an additional layer on top, specifically for ships operating in these areas. 
+
+5	Operating ships in polar waters presents unique challenges. Poor weather conditions and the relative lack of good charts, communication systems and other navigational aids can pose serious problems. If accidents do occur, the remoteness of the areas makes rescue or clean-up operations difficult and costly.  Extreme cold may reduce the effectiveness of numerous components of the ship, including deck machinery and emergency equipment. Ice can impose additional loads on the hull and propulsion system. To address these issues, the Polar Code sets out mandatory standards that cover the full range of design, construction, equipment, operational, training and environmental protection matters that apply to ships operating in the waters surrounding the two poles. 
+
+6	The Polar Code represents a major achievement in IMO’s work to promote safe and sustainable shipping in all regions of the world, including the most challenging and difficult, and provides a strong regime to minimise the negative impact of shipping operations on the pristine polar regions. The development and adoption of the Code has been achieved with the full participation, in the relevant IMO technical bodies, of not just the IMO Member States but also international organizations in consultative status, representing the shipping and shipbuilding industries, environmental interests, equipment manufacturers, seafarers’ training providers and those which make up the maritime infrastructure, such as port and harbour authorities, pilots and hydrographers.
+
+
+INTERNATIONAL REGULATORY FRAMEWORK FOR SHIPPING IN POLAR WATERS
+
+7	The United Nations Convention on the Law of the Sea (UNCLOS), which sets out the legal framework governing the rights and responsibilities of States in their use of ocean space, contains special provisions for ice-covered areas in Article 234.  It confirms that coastal States have the right to adopt and enforce non-discriminatory laws and regulations for the prevention, reduction and control of marine pollution from vessels in ice-covered areas within the limit of the exclusive economic zone.
+
+8	IMO, as a specialized agency of the United Nations, is the global standard-setting authority for the safety, security and environmental performance of international shipping. Its main role is to create a regulatory framework for the shipping industry that is fair and effective, universally adopted and universally implemented.
+
+9	Polar shipping always had a place in the work of IMO.  The SOLAS Convention includes special requirements relating to shipping in polar waters in chapter V (Safety of navigation), concerning the collection of meteorological data, the Ice Patrol Service in the North Atlantic, ice information and danger messages.  The 2008 Intact Stability Code, mandatory under SOLAS, contains a chapter dedicated to icing considerations.  Under MARPOL Annexes I and V, the Antarctic is designated as a special area, prohibiting any discharge into the sea of oil or oily mixtures from any ship and principally the disposal into the sea of all plastics and all other garbage.
+
+10	While specially developed guidelines addressing international polar shipping had been in place since 2002, the IMO membership agreed in 2010 that the time had come to develop a legally binding instrument in order to provide a more comprehensive set of requirements to deal with the increased interests and traffic in the polar regions as well as the unique safety, operational, environmental and search and rescue concerns peculiar to these areas.
+
+INTERNATIONAL CODE FOR SHIPS OPERATING IN POLAR WATERS (POLAR CODE)
+
+Background
+
+11	IMO’s work to address the challenges posed by the increase in commercial shipping and tourism in polar waters goes back to the early 2000s. Guidelines for ships operating in Arctic ice-covered waters (MSC/Circ.1056) were first issued in 2002. IMO then received a request from the Antarctic Treaty Consultative Meeting (ATCM) to extend the Guidelines to also cover ships operating in the Antarctic.  The need for this extension was particularly emphasized by a much-published accident happening in November 2007: the sinking of the cruise ship MV Explorer off King George Island, Antarctica, resulting in her crew and passengers drifting for five hours in open-top lifeboats in sub-zero temperatures before being rescued, luckily with no casualties other than the ship itself.  The outcome could easily have been very different.  
+
+12	Further work on a revision of the Guidelines followed and in 2009 the IMO Assembly adopted the Guidelines for ships operating in polar waters (resolution A.1024(26)) which covered both Antarctic and Arctic waters. These non-mandatory Guidelines set out additional provisions, beyond existing requirements of the SOLAS and MARPOL Conventions, deemed necessary to ensure appropriate standards of maritime safety and marine pollution prevention for ships operating in polar waters.
+
+13	Calls for the development of a mandatory Polar Code followed shortly after the adoption of the Guidelines and in 2010 IMO agreed to proposals from several Member States to develop an internationally binding instrument specifically for polar shipping.
+
+Status and structure of the Code
+
+14	The International Code for ships operating in polar waters (Polar Code) was adopted during the 94th session of IMO’s Maritime Safety Committee (MSC) in November 2014 (Introduction and Parts I-A and II-B concerning safety measures) and the 68th session of the Marine Environment Protection Committee (MEPC) in May 2015 (Introduction and Parts II-A and II B concerning pollution prevention measures), together with associated amendments to SOLAS and MARPOL to make the new Code mandatory under the two conventions.  The Code became effective on 1 January 2017, upon entry into force of the aforementioned SOLAS and MARPOL amendments.
+
+15	When adopting the Code, MSC and MEPC agreed that amendments to the Introduction of the Code, mandatory and applicable to both Parts, shall be adopted by both Committees in consultation with each other, whereas amendments to Parts I A and I-B will be adopted by the MSC only and amendments to Parts II-A and II-B by the MEPC only.  While parts I-A (Safety measures) and II-A (Pollution prevention measures) are mandatory under SOLAS and MARPOL, respectively, parts I-B (Additional guidance regarding the provisions of the Introduction and Part I-A) and II-B (Additional guidance regarding the provisions of the Introduction and Part II-A) are of a recommendatory nature.  A consolidated text of the Code has been prepared and will be maintained by the IMO Secretariat .
+
+16	The chapters in the Code principally set out goals, functional requirements and regulations and cover the Polar Water Operational Manual (PWOM); ship structure; stability and subdivision; watertight and weathertight integrity; machinery installations; fire safety/protection; life-saving appliances and arrangements; safety of navigation; communication; voyage planning; manning and training; prevention of pollution by oil; control of pollution by noxious liquid substances; prevention of pollution by sewage from ships; and prevention of pollution by discharge of garbage from ships.  Appended to the Code are the Form of Certificate for ships operating in polar waters (Polar Ship Certificate), the Record of Equipment for the Polar Ship Certificate and a Model table for the PWOM.
+
+Objectives
+
+17	The Polar Code supplements existing IMO instruments in order to increase the safety of ships’ operations and mitigate the impact on the people and environment in the remote, vulnerable and potentially harsh polar waters.  The goal of the Code is to provide for safe ship operation and the protection of the polar environment by addressing risks present in polar waters and not adequately mitigated by other IMO instruments. Consequently, the Code takes a risk-based approach in determining scope and adopts a holistic approach in reducing identified risks. It applies as a whole to both Arctic and Antarctic, taking into account the legal and geographical differences between the two areas.
+
+18	The Code will guarantee that ships operating in the Arctic and Antarctic regions comply with a globally agreed set of standards, which aim to ensure high levels of safety and environmental protection, both in the event of an incident and during routine operations.
+
+General requirements
+
+19	General requirements of the Polar Code applicable to both parts I and II are contained in the Introduction to the Code.  It contains the sections Goal; Definitions; Sources of hazards; and Structure of the Code.  
+
+20	Of particular importance, since requirements applicable to them differ, are the definitions of Category A, B and C ships (Introduction, paragraphs 2.1 to 2.3) as follows:
+
+Category A ship means a ship designed for operation in polar waters in at least medium first-year ice, which may include old ice inclusions.
+
+Category B ship means a ship not included in category A, designed for operation in polar waters in at least thin first-year ice, which may include old ice inclusions.
+
+Category C ship means a ship designed to operate in open water or in ice conditions less severe than those included in categories A and B.
+
+21	Ice strengthening is required, in accordance with the polar class assigned, for ships of categories A and B, but not for category C.
+
+
+
+
+
+Maritime safety related requirements
+
+22	The safety measures in Part I-A of the Polar Code apply to new ships constructed after 1 January 2017. Ships constructed before 1 January 2017 will be required to meet the relevant requirements of the Code by their first intermediate or renewal survey, whichever occurs first, after 1 January 2018. 
+
+23	Part I-A includes 12 chapters the goals of which are briefly described in the following:
+
+	Chapter 1 – General
+Includes definitions and requirements concerning survey and certification (every ship to which the Code applies shall carry a valid Polar Ship Certificate), performance standards (Polar Service Temperature (PST) shall be specified) and operational assessment (procedures or operational limitations are to be established).
+
+Chapter 2 – Polar Water Operational Manual (PWOM)
+Requirements to provide the owner, operator, master and crew with sufficient information regarding the ship's operational capabilities and limitations in order to support their decision making process.
+
+Chapter 3 – Ship structure
+Requirements to provide that the material and scantlings of the structure retain their structural integrity based on global and local response due to environmental loads and conditions. 
+
+Chapter 4 - Subdivision and stability
+Requirements to ensure adequate subdivision and stability in both intact and damaged conditions. 
+
+Chapter 5 – Watertight and weathertight integrity
+Requirements to provide measures to maintain watertight and weathertight integrity. 
+
+Chapter 6 – Machinery installations
+Requirements to ensure that machinery installations are capable of delivering the required functionality necessary for safe operation of ships.
+
+Chapter 7 – Fire safety/protection
+Requirements to ensure that fire safety systems and appliances are effective and operable, and that means of escape remain available so that persons on board can safely and swiftly escape to the lifeboat and liferaft embarkation deck under the expected environmental conditions.
+
+Chapter 8 – Life-saving appliances and arrangements
+Requirements to provide for safe escape, evacuation and survival.
+
+Chapter 9 – Safety of navigation
+Requirements to provide for safe navigation.
+
+Chapter 10 – Communication
+Requirements to provide for effective communication for ships and survival craft during normal operation and in emergency situations.
+
+Chapter 11 – Voyage planning
+Requirements to ensure that the Company, master and crew are provided with sufficient information to enable operations to be conducted with due consideration to safety of ship and persons on board and, as appropriate, environmental protection.
+
+Chapter 12 –Manning and training
+Requirements to ensure that ships operating in polar waters are appropriately manned by adequately qualified, trained and experienced personnel.
+
+24	Additionally, non-mandatory guidance is contained in Part I-B and concerns the determination of the Mean Daily Low Temperature (MDLT); limitations for operation in ice; the assessment required in part I-A, section 1.5, for operational limitations and procedures for the Polar Ship Certificate; performance standards; content of the PWOM; navigation with icebreaker assistance; development of contingency plans; equivalent ice class; personal and group survival equipment; radars and charts; limitations of communication systems in high latitude; operation of multiple alerting and communication devices in the event of an incident; location and communication equipment to be carried by rescue boats and survival craft; and operations in areas with marine mammals or of cultural heritage and significance.
+
+Marine environment related requirements
+
+25	The pollution prevention measures in Part II-A of the Polar Code are largely operational, relating mainly to discharge requirements, and apply to all ships, both new and existing, in line with the application requirements of MARPOL.  While the requirements in the Code address MARPOL Annexes I, II, IV and V, it was felt that there was no need to introduce additional requirements with regard to Annexes III (Regulations for the prevention of pollution by harmful substances carried by sea in packaged form) and VI (Regulations for the prevention of air pollution from ships) which were considered to be sufficiently stringent also for polar shipping.
+
+26	Part II-A includes 5 chapters which are briefly described in the following:
+
+	Chapter 1 – Prevention of pollution by oil
+Prohibits any discharge into the sea of oil or oily mixtures from any ship in Arctic waters (already prohibited in Antarctic waters by regulation 15.4 of MARPOL Annex I) and all cargo tanks constructed and utilized to carry oil and all oil residue (sludge) tanks and oily bilge water holding tanks shall be separated from the outer shell by a distance of not less than 0.76 m.
+
+Chapter 2 – Control of pollution by noxious liquid substances in bulk
+Prohibits any discharge into the sea of noxious liquid substances (NLS), or mixtures containing such substances, in Arctic waters (already prohibited in Antarctic waters by regulation 14.8.2 of MARPOL Annex II).
+
+Chapter 3 – Prevention of pollution by harmful substances carried by sea in packaged form
+Intentionally left blank in the Code.  Requirements of MARPOL Annex III apply.
+
+Chapter 4 –Prevention of pollution by sewage from ships
+Prohibits discharges of sewage within polar waters except when performed in accordance with MARPOL Annex IV and additional requirements set out in the chapter.
+
+Chapter 5 – Prevention of pollution by garbage from ships
+Permits discharge of garbage into the sea in Arctic and Antarctic waters in accordance with regulations 4 and 6 of MARPOL Annex V, respectively, subject to additional requirements as set out in the chapter.  
+
+27	Additional, non-mandatory guidance is contained in Part II-B concerning the requirements set out in chapters 1, 2 and 3; ballast water management; bio-fouling; and anti-fouling systems. In particular, ships are encouraged to apply regulation 43 of MARPOL Annex I which prohibits the use or carriage of heavy fuel oils in the Antarctic area when operating in Arctic waters.
+
+Related IMO guidelines and recommendations
+
+28	To support the risk-based specific procedures (Part I-A, section 2.2) to be included in the PWOM required under the Code to be carried on board (Part I-A, paragraph 2.3.1), MSC 96 in May 2016 issued Guidance on methodologies for assessing operational capabilities and limitations in ice (MSC.1/Circ.1519). The Guidance is of an interim nature and intended to be reviewed four years after the entry into force of the Code, i.e. in 2021, based on experience gained with its application. It provides an example of an acceptable methodology for assessing limitations for ships operating in ice, the Polar Operational Limit Assessment Risk Indexing System (POLARIS), which has been developed incorporating experience and best practices from Canada's Arctic Ice Regime Shipping System, the Russian Ice Certificate supplemented by pilot ice assistance as prescribed in the Rules of Navigation on the water area of the Northern Sea Route and other methodologies.
+
+29	MEPC 70 in October 2016 and MSC 97 in November 2016 considered draft Polar Code-related amendments to the Survey Guidelines under the Harmonized System of Survey and Certification (HSSC), 2015 (resolution A.1104(29)) and approved Amendments to the Survey Guidelines under the Harmonized System of Survey and Certification, 2015, for ships operating in polar waters (MSC-MEPC.5/Circ.12) which will be incorporated in the next update of the HSSC Survey Guidelines. The purpose of the Guidelines is the harmonization of survey and certification requirements of various IMO instruments, in particular the time periods for surveys so as to alleviate problems caused by survey dates, and intervals between surveys, which do not coincide.
+
+30	MSC 97 also considered a request for clarifications on the application of the initial survey, maintenance surveys and certification, as required by paragraph 1.3 of chapter 1 of part I-A of the Code and consequently issued Unified interpretations of SOLAS regulation XIV/2.2 and paragraphs 1.3.2 and 1.3.6, part I-A, of the Polar Code (MSC.1/Circ.1562).
+
+31	Over the years, IMO has also approved a number of other measures addressing or relating to polar shipping which include:
+
+•	Pocket Guide for cold water survival
+Regularly updated. Intended primarily for seafarers.  Briefly examines the hazards of exposure to the cold that may endanger life and provides advice based on the latest medical and scientific opinion on how to prevent or minimize those dangers.  
+
+•	Enhanced contingency planning guidance for passenger ships operating in areas remote from SAR facilities
+Approved in 2006.  Requires that contingency plans for passenger ships for operating in areas considered to be remote from search and rescue (SAR) facilities should be prepared and that SAR co-operation planning arrangements should be enhanced for ships operating in areas remote from SAR facilities; and that the risks of remote area operation should be assessed and planned for.  
+
+•	Guidelines on voyage planning for passenger ships operating in remote areas
+Adopted in 2007 in response to the growing popularity of ocean travel for passengers and the desire for exotic destinations, which led to increasing numbers of passenger ships operating in remote areas. Detailed voyage and passage plans should include: safe areas and no-go areas; surveyed marine corridors, if available; and contingency plans for emergencies in the event of limited support being available for assistance in areas remote from SAR facilities; and in addition, for ships operating in polar waters: conditions when it is not safe to enter areas containing ice or icebergs because of darkness, swell, fog and pressure ice; safe distance to icebergs; and presence of ice and icebergs and safe speed in such areas.
+
+•	Guidance document for minimizing the risk of ship strikes with cetaceans 
+Approved in 2009.  Provides guidance to Member Governments in reducing and minimizing the risk of ship strikes of cetaceans and sets out important general principles that should be taken into account and possible actions that may be taken to reduce such risk. Encourages reporting of strikes to the global ship strikes database of the International Whaling Commission (IWC). 
+
+•	Five new Arctic NAVAREAs/METAREAs
+The combination of expanding business activity with less predictable, more extreme weather in the Arctic area has also led to the expansion of the World-Wide Navigational Warning Service into Arctic waters. Five new Arctic NAVAREAs/ METAREAs were established and are on “Full Operational Capability” (FOC) since 1 June 2011. 
+
+•	Mandatory ship reporting system "In the Barents Area (Barents SRS)"
+Adopted in 2012.  The new mandatory ship reporting system entered into force on 1 June 2013, requiring the following categories of ships to report to either Vardø VTS centre or Murmansk VTS centre: all ships of 5,000 GT and above; the tow exceeds 200 m; and any ship not under command, restricted in their ability to manoeuvre or having defective navigational aids.
+
+•	Guidelines for the reduction of underwater noise from commercial shipping to address adverse impacts on marine life
+Approved in 2014.  Provide guidance on reduction of underwater noise from the perspective of ship design (propellers, hull design, onboard machinery, technologies for noise reduction) and operation and maintenance (propeller cleaning, effective hull coatings, selection of ship speed, re-routeing and operational decisions to reduce adverse impacts on marine life).
+
+•	Guide to oil spill response in ice and snow conditions
+Approved in October 2016. The Guide identifies and describes those aspects of planning and operations directly associated with a response to a marine oil spill in ice and snow conditions anywhere in the world and assists managers and decision makers in recognizing and addressing key issues and potential response options on the strategic planning level. 
+
+32	Additionally, a large number of agreements, guidelines and recommendations for the Antarctic and Arctic have been developed by the Antarctic Treaty Consultative Meeting (ATCM) and the Arctic Council.
+
+Further work related to the Polar Code
+
+33	The forthcoming 98th session of the Maritime Safety Committee in June 2017 will discuss a second phase of work on the Code which would address its application to non-convention ships operating in polar waters. This could include ships of a size below the application (tonnage) limits of the SOLAS Convention, fishing vessels and pleasure yachts. 
+
+34	In the meantime, following proposals from Member States, MSC 97 also instructed its Sub Committees on Ship Systems and Equipment (SSE) and Navigation, Communications and Search and Rescue (NCSR) to review test and performance requirements for equipment on board ships certified to operate in polar waters, including, but not limited to, life-saving appliances, fire extinguishing media and navigation and radiocommunication equipment.
+
+35	NCSR 4 in March 2017, noting the general support for the reconsideration of performance standards for navigation and communication equipment in support of the implementation of the Polar Code, established a Correspondence Group and instructed it to develop a work plan listing all performance and test standards and requirements in need of revision in this respect; include the evaluation of specific additional conditions when approving navigation and communication equipment to be used for navigation in polar waters; consider interim solutions to address important matters at short notice; and consider alternative ways to address the work, such as the development of a separate consolidated performance standard, development of add-ons to existing performance standards, or a resolution.  The group will report to NSCR 5, scheduled for February 2018.
+
+36	SSE 4 in March 2017, having agreed to a plan that foresees the work to address additional testing and performance standards related to life-saving and fire-protection appliances and arrangements on board ships operating in polar waters to be completed at SSE 6 in 2019, also established a correspondence group to progress this work between meetings.  The group was instructed to consider the evaluation of specific conditions when approving life-saving and fire protection equipment for use in polar waters and develop relevant performance standards or add-ons to existing standards and will report to SSE 5, scheduled for March 2018.
+
+37	MEPC’s Sub-Committee on Pollution Prevention and Response (PPR) is currently considering the impact on the Arctic of emissions of Black Carbon from international shipping.   PPR 2 in January 2015 agreed, and MEPC approved, a measurement method neutral definition for Black Carbon for international shipping, which is widely supported by the scientific community.  Work continued at PPR 3 in February 2016 with the development of a draft measurement reporting protocol for Black Carbon, providing recommendations for the voluntary collection of Black Carbon data, including parameters for multiple measurement instrument technologies and a broad cross-section of current engine technologies, fuel types, and engine operating conditions.  
+
+38	PPR 4 in January 2017 considered a number of submitted results of Black Carbon measurements and again invited Member Governments and international organizations to use the protocol and submit further data and information derived from its application to its next session, in 2018, with a view to identifying the most appropriate measurement method(s), focusing on fuel oils with a maximum sulphur content of 0.50% m/m, in light of the decision of MEPC 70 to confirm 1 January 2020 as the effective date of implementation of the global sulphur cap for ships’ fuel oil, and giving appropriate attention to low-speed engines, which drive much of the global fleet.  PPR 4 also agreed on a timeline for the completion of the work on Black Carbon emissions in the Arctic, envisaging that following finalization of the reporting protocol and identification of the most appropriate method for measurement of Black Carbon at PPR 5 (2018), appropriate control measures to reduce the impact of Black Carbon emissions from international shipping would be considered at PPR 6 (2019).
+
+39	MEPC 60 in March 2010 adopted a new regulation 43 (Special requirements for the use or carriage of oils in the Antarctic area) of MARPOL Annex I which prohibits the carriage in bulk as cargo, or carriage and use as fuel, of HFO in the Antarctic. The regulation entered into force on 1 August 2011. The 2014 amendments to regulation 43 which entered into force on 1 March 2016 further ban the use of HFO as ballast. There is currently no similar prohibition in place for the Arctic.  The Polar Code only contains a recommendation in non-mandatory Part II-B which encourages ships to also apply regulation 43 when operating in Arctic waters. MEPC 71 scheduled for July 2017 will considered a proposal for a new output on measures to reduce risks of use and carriage of heavy fuel oil as fuel by ships in Arctic waters.
+ 
+ASSOCIATED SOLAS AND MARPOL AMENDMENTS MAKING THE POLAR CODE MANDATORY
+
+40	The Polar Code is mandatory under both the SOLAS and MARPOL Conventions.  SOLAS and MARPOL currently have 163 and 155 Contracting States, respectively, who between them cover 99.14% of the world’s merchant shipping tonnage. The Polar Code applies to all ships operating in polar waters which have to comply with the requirements of SOLAS and MARPOL, typically ships over 500 gross tonnage and passenger ships carrying more than 12 passengers, trading internationally. This means that the Code applies, generally speaking, to all cargo ships, oil tankers, bulk carriers, container ships and cruise ships.  
+
+41	The two conventions have historically developed in a very different way and in a very different time frame, with the earliest predecessor of SOLAS stemming from the year 1914 whereas the need for environmental shipping regulations only emerged much later, in the 1950s, with the increasing awareness of environmental issues in society. Consequently, the legal vehicles used to make the Code mandatory under the two conventions differ considerably.
+
+42	SOLAS is generally regarded as the most important of all international treaties concerning the safety of merchant ships. It is a single instrument, currently comprising 14 chapters, addressing a wide variety of ship specific issues, from construction, design and stability over safety of navigation and carriage of cargoes to maritime security measures, to name just a few.
+
+43	The Polar Code, i.e. its Introduction and Part I-A, was made mandatory under SOLAS by introducing a new chapter XIV entitled “Safety measures for ships operating in polar waters” in the Convention, which was adopted on 21 November 2014 by means of resolution MSC.386(94) and entered into force on 1 January 2017.  The Code itself, which had been adopted by means of resolution MSC.385(94), became effective on the date the new SOLAS chapter entered into force.  Chapter XIV contains definitions (the introduction of a definition of “Polar Code” makes the Code mandatory); application provisions; requirements for ships to which the chapter applies; and provisions for alternative design and arrangements.
+
+44	MARPOL is the main international convention covering prevention of pollution of the marine environment by ships from operational or accidental causes. The Convention consists of 6 annexes, each of which deals with the regulation of a particular group of pollutants. The structure of the Convention necessitated separate amendments to each of its Annexes, as appropriate. The Code was therefore made mandatory by way of amendments to Annexes I, II, IV and V, while Annexes III and VI were considered to be sufficiently stringent to also cover polar shipping, with no need for additional requirements.  Chapter 3 of Part II-A of the Code was left blank intentionally in order to keep the numbering of the chapters in this Part of the Code aligned with the numbering of the MARPOL Annexes.
+
+45	The Polar Code, i.e. its Introduction and Part II-A, was made mandatory under MARPOL by amendments to Annexes  I, II, IV and V which were adopted on 21 November 2014 by means of resolution MEPC.265(68) and entered into force on 1 January 2017.  The Code itself, which had been adopted by means of resolution MEPC.264(68), became effective on the date the new MARPOL amendments entered into force.  The amendments are structured along the lines of the corresponding SOLAS amendments and contain provisions for exemptions, waivers and exceptions; definitions; and special requirements in line with the subject of the respective MARPOL Annexes.
+
+46	The geographical area definitions for the purposes of the Code are identical under SOLAS and MARPOL. “Polar waters” are defined as Arctic waters and/or the Antarctic area, with the latter being defined as the sea area south of latitude 60°S. “Arctic waters” are defined by a rather complicated description of geographical positions between Cap Kanin Nos (Russian Federation) and a point west of Greenland, completed by the circle formed at latitude 60°N and relevant coast lines. The figures below illustrate the area definitions which were developed specifically to define the application areas of the Code; other definitions are in use globally for different purposes.
+
+
+
+Fig.1 - Antarctic area as defined for the purposes of the Polar Code
+
+
+
+
+Fig. 2 - Arctic waters as defined for the purposes of the Polar Code
+
+	
+TRAINING AND CERTIFICATION REQUIREMENTS FOR OFFICERS AND CREWS ON SHIPS OPERATING IN POLAR AREAS
+
+47	Mandatory minimum requirements for the training and qualifications of masters, deck officers on ships operating in polar waters were adopted by MSC 97 in November 2016 and will become mandatory under the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW) and its related STCW Code from 1 July 2018.
+
+48	The requirements were developed by the Sub-Committee on Human Element, Training and Watchkeeping (HTW), at its third session in February 2015, and include the insertion of a new Regulation V/4 (Mandatory minimum requirements for the training and qualifications of masters and deck officers on ships operating in polar waters) in the STCW Convention; as well as associated amendments to the STCW Code, including its Chapter V (Special training requirements for personnel on certain types of ships) concerning passenger management and a new section A-V/4 (Mandatory minimum requirements for the training and qualifications of masters and deck officers on ships operating in polar waters).
+
+49	The new regulation V/4 of the STCW Convention requires that Masters, chief mates and officers in charge of a navigational watch on ships operating in polar waters shall hold a certificate in basic training for ships operating in polar waters and meet the standard of competence specified in section A-V/4, paragraph 1 of the STCW Code.  In addition, Masters and chief mates shall also hold a certificate in advanced training for ships operating in polar waters, have at least two months of approved seagoing service in the deck department, at management level or while performing watchkeeping duties in an operational level, within polar waters or other equivalent approved seagoing service; and meet the standard of competence specified in section A-V/4, paragraph 2 of the STCW Code.  
+
+50	Section A-V/4 of the STCW Code sets out the detailed requirements for the required basic and advanced training in Tables A-V/4-1 (Specification of minimum standard of competence in basic training for ships operating in polar waters) and A-V/4-2 (Specification of minimum standard of competence in advanced training for ships operating in polar waters).
+
+51	To assist Member States in complying with the training requirements, HTW has developed two model training courses: Basic training for ships operating in polar waters; and Advanced training for ships operating in polar waters, which will be published after the final editing by the IMO Secretariat.  
+
+CONCLUSION
+
+52	There can be no doubt that the environmentally sensitive areas around the poles, two of the last remaining wildernesses on earth, need to be protected and preserved.  While guidelines to regulate international shipping in the Arctic and Antarctic have been in place for many years, with more and more ships navigating in polar waters IMO has moved to address international concern about the protection of the polar environment and the safety of seafarers and passengers in these areas with an internationally binding instrument, the mandatory Polar Code, which became effective on 1 January 2017 under the SOLAS and MARPOL Conventions.  Its requirements, which were specifically tailored for the polar environments, go above and beyond those of existing IMO conventions which are applicable globally, including Arctic and Antarctic waters.  The adoption of the Code is a major achievement in IMO’s work to promote safe and sustainable shipping in all regions of the world, including the most challenging and difficult.
+
+53	But this is not the end of the road. The Polar Code is a living instrument and will be under continuous review following experience gained with its implementation. Such reviews may result in amendments to its existing regulations and to the guidance in its non-mandatory parts; may look at the introduction of completely new requirements, taking into account ongoing work at IMO as described in paragraphs 34 to 39 above; and may consider extending the applicability of the Code to all ships operating in polar waters. 
+
+____________
+
+

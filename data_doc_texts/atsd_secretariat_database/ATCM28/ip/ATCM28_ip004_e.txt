@@ -1,0 +1,75 @@
+﻿Renewable Energy Use
+at Field Camps in Antarctica
+
+Renewable Energy Use at Field Camps in Antarctica
+
+Introduction
+
+The United States Antarctic Program (USAP) is dedicated to minimizing our impact on the Antarctic Environment.  One of the methods employed is use of renewable energy sources in field research camps.  In the past, 5 to 60 kW generators powered with diesel fuel have supported the USAP’s numerous field camps.  In recent years USAP has been experimenting successfully with solar and wind generators of various sizes and with passive solar design for heating research huts.  
+
+The USAP continues to explore new avenues for integration of renewable energy sources into the program.  Field camps are just one aspect of the USAP’s focus on reducing our impact.  Energy reduction programs are implemented at all USAP facilities, utilizing technologies such as waste heat recovery and energy efficient design of new facilities.  In field camps, solar and wind systems have been sufficient to operate lighting, computers, communications equipment, microwave ovens, kitchen appliances, power tools, and laboratory equipment throughout the summer season. Laboratory equipment in use has included pumps, centrifuges, laboratory hoods, fans, incubators, live video feed to a television, and hot/cold water baths.  Research equipment deployed in the field has also been successfully operated using renewable energy, sometimes with solar and wind combinations providing power continuously through the year.  Several research huts have been reconfigured for passive solar heat gain, which generally has worked from late November through the summer season.  Success has been achieved for operating in most field camp situations
+
+Various combinations of solar, wind and passive solar have been used at different types of camps, with size of the system based on the needs of the researchers.  The smallest system is a fully portable 400W solar and wind combination, often used by mobile research camps on the polar plateau that expect to move camp every few days.  Semi-permanent camps in the dry valleys and sea-ice camps on the Ross Sea have 400W to 1kW wind generators, with varying size solar panels.   A contractor hired to implement renewable energy systems customizes off-the shelf products to meet the needs of each field camp.
+
+Examples of Renewable Energy Use in Field Camps
+
+The USAP has implemented renewable energy at almost all field camps (see Figure 1).  Some examples are given below of the systems installed at USAP’s major types of field camps, sea-ice, Dry Valleys, and polar plateau, and the system installed at a camp at one of the most unique and challenging sites in Antarctica, Mount Erebus. 
+
+One of the initial steps in converting field camps to renewable energy was an audit of energy use at the camps to evaluate wasted energy and required system size.  In one instance, energy consumption was reduced by 80% by replacing light bulbs with windows and switching from standard desktop computers and monitors to laptop computers and flat panel monitors.  This brought the energy consumption at the field camp from 5kW to less than 1kW, a level that could be served by a moderate solar power system.
+
+Sea Ice – Penguin Ranch
+Each year, the USAP supports several camps on the sea-ice over the Ross Sea.  One of these camps is the base for researchers studying diving physiology in emperor penguins.  In the 2004-2005 season, the camp supported nine people doing active field and laboratory research.  The research equipment used in the camp was powered by a hybrid power sled, developed for sea ice camps, with a capability of providing 4kW electricity using a combination of sun, wind, and a gasoline generator (see Figure 2).  This sled was connected to a 700W solar array and a 400W wind generator on a 9 m tower.  The system has a large battery bank (ten 12 V 100 amp hour batteries) to store power.  If it becomes necessary, the system is capable of charging the batteries with a backup 4kW gasoline generator while supporting AC loads. During this season, the gasoline generator was only used for two 3-4 hour charges; solar and wind supplied electricity for the remainder of the field season.  In addition to using wind and solar as electricity sources, the Penguin Ranch laboratory hut was constructed using passive solar design, reducing the fuel used to heat the hut.
+
+McMurdo Dry Valleys – Lake Hoare
+The USAP maintains several semi-permanent field camps in the McMurdo Dry Valleys, a unique and sensitive environment.  The largest camp, Lake Hoare, is the base for many research activities, and houses up to 16 people at a time.  Before installation of a solar array at the camp in 1992, diesel generators were used to provide electricity, operating for hundreds of hours a season.  The camp is now powered by a 1.5kW manually tracked solar array connected to a 4kW inverter with ten 12 V 100 amp hour batteries.  In cases where enough solar energy is not available and batteries get depleted, a backup diesel generator can power the camp as it recharges the batteries.  Usually a three-hour generator run time is sufficient to recharge the batteries, and the switch can be made back to the solar array. The diesel generator is now run for less than 30 hours each season. The camp has a supervisor who manually tracks the solar panels to follow the sun. 
+
+Polar Plateau – La Paz Glacier
+Each year the USAP operates several remote field camps on the polar plateau.  An example of this type of camp is on the La Paz glacier (Figure 3).  In the 2004-2005 field season, there were eight people in the group, operating computers, GPS, and radar equipment using a portable Field Power System (FPS).   The FPS weighs approximately 110 kg and separates into two pieces that can be transported inside a helicopter or Twin Otter aircraft, or on a sled pulled by a snow mobile. The larger piece is the power center and contains a 600W inverter for 120V AC power, two 100-amp hour batteries and charge control equipment. A separate A-frame structure holds two 64W non-glass solar panels that plug into the power center. The FPS can be charged using the solar panels or an "Air X" wind generator. 
+
+Mount Erebus
+The USAP supports an annual summer research camp and year-round data collection from the active Mount Erebus volcano (Figure 4).  Working near the crater of the volcano the researchers and their equipment are subject to unusually extreme conditions.  Low temperatures (as low as -60ºC), high wind speeds, corrosive gasses, and rime ice (coating all equipment) characterize the site conditions.  The camp supports 6-8 researchers at a time, operating computers, communications systems, and research equipment.  A small solar array on the roof of the camp building and two solar panels on a north facing rack collect solar energy, while a 400W wind generator charges the 16 absorbed glass mat lead-acid batteries (120 amp hour) in windy weather.  If additional power is needed, a 5kW generator is used to recharge batteries and power the camp.  In the 2004-2005 season the camp only used the generator twice, when it was cloudy and windless and all researchers were using their computers.  In the winter, data are gathered with equipment operating on wind generators and are retrieved the following summer.
+ 
+Benefits of Renewable Energy
+
+Renewable energy systems have several benefits over diesel generators.  The impact on the environment is greatly reduced.  The quantity of fuel being transferred from the station to the field camp is far less than required when running a field camp on a diesel generator, minimizing the possibility of fuel spills during transit to the camp and during transfer from storage drums to generators.  In addition, emissions of air pollutants are greatly reduced when diesel is not being burned at the camps.  Solar and wind systems also have the benefit of reduced noise.  Scientists working in camps with solar and wind systems find work at the camp much more pleasant without the constant hum of the diesel generator.  Some seal researchers have found that seals are more comfortable using breathing holes at their research camps on the sea ice without the noise of the generator running.  For remote field camps, airlift requirements may also be reduced without the requirement for large quantities of diesel fuel to operate the camps.  
+
+Remarkable differences in fuel use at field camps have been realized.  At one of the sea-ice camps, use of solar and wind power successfully reduced the amount of fuel used by the generators to less than 2% of the fuel used the previous year.  Other sea-ice camps and camps in the McMurdo Dry Valleys have been operating on wind and solar, with no need to run the camp generators at all during the summer.  While the specific cost analyses have not been conducted, fuel transported to field camps is very expensive (more than $US 16.00/gallon, or $4.22/liter), and so it is reasonable to expect a cost-savings from installation of the renewable energy systems at remote camps.
+
+Repair and maintenance of the field camp renewable energy systems has been minimal.  Renewable energy systems installed at field camps have required very little maintenance and repair compared to diesel generators, with only 1 to 2 service calls made yearly for the whole set of systems deployed in the field.  Researchers or camp supervisors operating the systems in the field often only need to turn the system on and off, monitor energy use (in case the backup generator is needed), and rotate solar panels (at some camps).  Solar panels mounted flat on the roof of research huts on the sea-ice have been very effective, providing a constant supply of energy, alleviating the need to manually rotate the panels, and making the panels less susceptible to wind damage.  The renewable energy contractor working for USAP has developed an operating guide that is provided to people using the equipment in the field.
+
+Future Direction of the USAP Renewable Energy Initiative
+
+USAP continues to consider the smaller changes that can reduce energy consumption as the first step in successful implementation of a renewable energy program.  Simple changes, such as using laptop computers rather than desktop computers and using light emitting diode (LED) and fluorescent light bulbs instead of incandescent light bulbs can greatly reduce energy demand.  Challenges still facing the USAP in the conversion to renewable energy are varied.  Heating energy is still most easily generated from fuel-based generators, cooking and refrigeration use propane.  Vehicles used at field camps still require fuel.  Much of the laboratory equipment was not designed with energy conservation in mind, though there is currently some pressure on the manufacturers to improve energy efficiency.  Conversion from solar/wind to the backup generator in cases of low energy can be automated, but this system is not yet reliable in the cold, so energy consumption must be monitored and manually switched to the backup generator.  In some cases, the battery array required to support a large system weighs too much to justify airlift to the field site.  While survival of wind generators over the Antarctic winter is improving (4 of 8 on Mount Erebus failed in 2002, 1 of 8 failed in 2003), the harsh environment takes its toll on the equipment.  A massive conversion to reliance on renewable energy also requires capital investment; even if outcome is a cost savings it can be a challenge to make the conversion rapidly.  Converting existing research huts to passive solar is time and labor intensive, and new research huts are built infrequently.  Converting stations to renewable energy presents a suite of challenges; feasibility of this type of large-scale use of renewable energy is being assessed.  All of these challenges are important to address, as the benefits of renewable energy to the environment and to the scientists are great.  
+
+Additional Information:  Yarkin, Joseph.  2005.  Polar solar: Renewable energy in the remote camps of Antarctica.  Renewable Energy World, January-February 2005:87-95.  
+
+Figure 1. Field camps operated by the US Antarctic Program in the 2004-2005 field season using renewable energy sources.
+
+
+Figure 2. The “Penguin Ranch” sea-ice camp, showing solar panel and arched passive solar hut (with “2” on the end).
+
+
+
+
+
+
+
+Figure 3. La Paz glacier camp, with a portable Field Power System.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 4. Mount Erebus, lower hut.
+
+
+
+

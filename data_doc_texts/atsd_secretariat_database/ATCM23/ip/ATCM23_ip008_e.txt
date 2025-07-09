@@ -1,0 +1,116 @@
+ 
+SCAR-COMNAP Joint Committee on Antarctic Data Management 
+ 
+Report to XXIII ATCM 
+ 
+Information Paper submitted by SCAR and COMNAP  
+under Agenda Item 15 
+ 
+ 
+Twelve countries participated in the second meeting of the Joint Committee on 
+Antarctic Data Management (JCADM-2: 20-24 July, 1998, Concepción, Chile); Australia, 
+Chile, China, Germany, Italy, Japan, Netherlands, New Zealand, Spain, United Kingdom, 
+United States of America and Uruguay.  
+ 
+Representatives of the Antarctic Master Directory (AMD) Host and the Committee 
+on Earth Observation Satellites International Directory Network (CEOS IDN) - Global 
+Change Master Directory (GCMD) were also present. 
+ 
+The key issue at JCADM-2 centered around the implementation of XXII ATCM 
+Resolution 4 (1998).  This resolution provides a strong framework within which to place 
+the activities and recommendations of JCADM.  The resolution can be summarised: 
+ 
+* 
+Recruitment of National Antarctic Data Centres (NADCs); 
+* 
+Encourage scientists to supply metadata to their NADCs; 
+* 
+National approaches to addressing freedom of access to scientific 
+information. 
+ 
+JCADM endorses a comprehensive response of Treaty Parties to XXII Resolution 4 
+(1998) at XXIII ATCM in Lima. 
+ 
+Operational National Antarctic Data Centres are defined as those that that have been 
+designated to either SCAR, COMNAP and that have facilities to support the generation of 
+metadata records.  Operational NADCs as at March 1999 are Australia, Canada, Chile, 
+China, Germany, the Netherlands, New 
+Zealand, the United Kingdom, and the United States of America.  Spain nominated its 
+NADC on 10 March 1999 and expects to be operational this year. 
+ 
+JCADM is addressing NADC recruitment by developing a communications network 
+and the running of regional 'capacity-building' workshops.  A European workshop was held 
+in Bremerhaven with representatives from Germany, the Netherlands, Spain and the 
+Ukraine.  A second>workshop is scheduled for Santiago in April 1999 for South American 
+NADCs.  JCADM re-iterates the recommendation from JCADM-1 (1997) that its members 
+should be NADC managers, or where a Data Centre had not been established, a person 
+instrumental in establishing such a centre. 
+ 
+ 
+ 
+1 
+2 
+ 
+A key issue has been the development of a set of tools to support the generation, 
+indexing and distribution of metadata.  JCADM-2 supported the use of the tools developed 
+by the Global Change Master Directory, the supporters of the Directory Interchange Format 
+(DIF) metadata standard. Input from the Antarctic community to the DIF metadata standard 
+and associated tools would be by way of JCADM through the International Centre for 
+Antarctic Information and Research (ICAIR). ICAIR would support the tools on NADC 
+systems. 
+ 
+A formal JCADM web site has been established at 
+ 
+ 
+http://www.jcadm.scar.org 
+ 
+and contains meeting reports, work plans, NADC status and contacts, guidelines for 
+NADCs, national data management strategies and a suite of other associated papers and 
+links. 
+ 
+In the light of Article (III)(1)(c) of the Antarctic Treaty, JCADM-2 concluded: 
+ 
+• 
+That countries include the generation of metadata records as key 
+components of their science programmes, and that metadata records are 
+created as soon as is feasible after the collection of data. 
+ 
+• 
+That SCAR and COMNAP recognise that the creation of metadatarecords 
+requires encouragement and support for science projects as  well as NADCs. 
+ 
+To minimise duplication and maximise the value of resources, a joint meeting of 
+JCADM and the Arctic counterpart, the Arctic Data Directory has been planned for June 
+1999 in Ottawa. 
+ 
+Lee Belbin 
+Chief Officer 
+SCAR / COMNAP Joint Committee on Antarctic Data Management 
+ 
+ 
+List of Acronyms 
+ 
+AMD  
+Antarctic Master Directory 
+ATCM 
+ 
+Antarctic Treaty Consultative Meeting 
+CEOS IDN 
+Committee on Earth Observation Satellites International Directory Network 
+COMNAP 
+Council of Managers of National Antarctic Programmes 
+DIF 
+ 
+Directory Interchange Format 
+GCMD 
+ 
+Global Change Master Directory 
+ICAIR  
+International Centre for Antarctic Information and Research 
+JCADM 
+ 
+Joint Committee on Antarctic Data Management 
+NADC  
+National Antarctic Data Centre 
+SCAR  
+Scientific Committee on Antarctic Research 

@@ -1,0 +1,101 @@
+Time-lapse camera monitoring of species in the Antarctic Treaty
+area
+Time-lapse camera monitoring of species in the Antarctic Treaty
+area
+Information Paper submitted by the United Kingdom
+Summary
+The United Kingdom presents a summary of remote camera
+monitoring in the Antarctic Treaty Area and workflows for raw data
+processing into policy-ready summaries.
+Background
+Many of the species in decline around the world are subject to
+different environmental stressors across their range, so large-scale
+monitoring programmes, with replication of sites, are necessary to
+disentangle the relative impacts of these stressors. This is certainly
+true of the Antarctic Treaty area, where threats overlap, particularly
+on the Antarctic Peninsula.
+For those sites where a single vantage point can be used to observe
+individuals or ecological processes, time-lapse cameras can provide
+a cost-effective way of collecting time series data. This can be
+replicated at variable spatial scales that would otherwise be
+impossible with conventional monitoring approaches. Such targets
+include penguin and shag colonies, seal breeding beaches, fine scale
+sea-ice monitoring and glacial monitoring sites.
+Networks of time-lapse cameras covering such a range of species or
+processes creates a problem in that the scale of data collection
+generates a significant overhead for processing the raw imagery.
+Citizen science and machine learning provide solutions to scaling
+data extraction and analysis (such as locating all animals in an
+image). Within Antarctica, several such citizen science projects now
+exist including Penguin Watch, Happy Whale, Weddell Seal Count,
+and Seal Watch (launching soon).
+Camera Networks
+Camera networks are now employed (for example) by the
+Australian Antarctic Division, Antarctica New Zealand and by
+members of the CEMP camera network.
+A UK camera network, currently running out of Oxford University,
+operates and maintains 95 cameras located on terrestrial sites
+around the coastline of the Southern Ocean, with 60 sites in the
+Antarctic Treaty area. Each camera captures images once per hour
+during daylight hours year-round. Data collection from such
+networks is now routine, with the network’s ability to collect data
+far outstripping its ability to process all the useful information from
+it.
+Steps for effective camera monitoring
+Data collection: A number of camera networks have now been
+established following the pioneering work of the Australian
+Antarctic Division1,2, meaning that the data collection step is now
+routinely used, although opportunities exist to increase data
+collection. However, no standard repository for such high volume
+data exists and may be necessary for continent-wide studies.
+Processing: Three possibilities exist; researcher-extraction3, citizen
+science4, computer vision5 – or a combination of all three6. The
+ability of existing computer vision tools to identify penguins should
+in turn encourage researchers to be much bolder in their data
+collection.
+Analysis: Methods of analysis are highly dependent upon individual
+research questions, from mark recapture to movement analysis7.
+Many parameter estimates, such as first arrival, will not be
+consistent between studies and will require standard definitions to
+allow consistent long-term monitoring between sites, some of which
+have already been proposed3. Open access data are available4,6
+that will enable the further development of such standard measures
+and cross-validation of studies.
+Interpretation: To be useful at the continental scale, there is a need
+for a general repository of sites, metadata and summary data.
+Conclusion
+The processes to enable mass processing of image data are well-
+developed, at least for most Antarctic penguin species, and there is
+substantial progress in the development of equivalent processes for
+seals and other seabirds. There is also scope for much more data to
+be collected on traditionally sensitive and hard to monitor species
+such as shags. Additionally, the frequency of monitoring could be
+increased so that environmentally sensitive behaviour could be
+monitored.
+Cited Literature
+1 Newbery, K. & Southwell, C. An automated camera system for
+remote monitoring in polar environments. Cold Regions Science and
+Technology 55, 47-51, doi:10.1016/j.coldregions.2008.06.001
+(2009).
+2 Southwell, C. & Emmerson, L. Remotely-operating camera
+network expands Antarctic seabird observations of key breeding
+parameters for ecosystem monitoring and management. J Nat
+Conserv 23, 1-8, doi:10.1016/j.jnc.2014.11.002 (2015).
+3 Hinke, J. T. et al. Estimating nest-level phenology and
+reproductive success of colonial seabirds using time-lapse cameras.
+Methods Ecol Evol 9, 1853-1863, doi:10.1111/2041-210x.13015
+(2018).
+4 Jones, F. M. et al. Time-lapse imagery and volunteer
+classifications from the Zooniverse Penguin Watch project. Sci Data
+5, doi:10.1038/sdata.2018.124 (2018).
+5 Arteta, C., Lempitsky, V. & Zisserman, A. in European conference
+on computer vision. 483-498 (Springer).
+6 Jones, F. et al. Processing citizen science- and machine –
+annotated time-lapse imagery for biologically meaningful metrics.
+Sci Data, doi:10.1038/s41597-020-0442-6 (2020).
+7 Zitterbart, D. P., Wienecke, B., Butler, J. P. & Fabry, B.
+Coordinated movements prevent jamming in an emperor penguin
+huddle. PLoS one 6 (2011).
+8 Humphries, G. et al. Mapping Application for Penguin Populations
+and Projected Dynamics (MAPPPD): Data and tools for dynamic
+management and decision support. 53, 160-166 (2017).

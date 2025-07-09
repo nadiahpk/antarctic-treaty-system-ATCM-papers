@@ -1,0 +1,73 @@
+﻿
+
+
+
+
+
+SAR-WG The Mandatory Code for Ships Operating in Polar Waters (Polar Code) – Update from the Perspective of Search and Rescue 
+
+
+
+
+
+
+
+
+
+The mandatory code for ships operating in polar waters 
+(Polar Code) – update from the perspective of 
+search and rescue 
+Summary 
+
+The Ship Design and Equipment (DE) Subcommittee is leading the International Maritime Organization (IMO) initiative to develop a mandatory code for ships operating in polar waters (Polar Code).  The Polar Code is intended to supplement provisions of the Safety of Life at Sea (SOLAS) and other relevant conventions.  The DE Subcommittee requested the Radiocommunications and SAR (COMSAR) Subcommittee to provide advice on Section 8.3 of Chapter 8 Life-saving appliances and arrangements and all of Chapter 10 Communications. COMSAR 17 met in January 2013 but its advice on the draft Polar Code text could not be forwarded in time for the DE subcommittee meeting held in March 2013.  The COMSAR Subcommittee has completed its current work on the Polar Code and the DE Subcommittee will consider that advice sometime in 2014.  Antarctic Treaty Consultative Parties may want to monitor the DE Subcommittee Correspondence Group coordinating the Polar Code effort as well as make their views known as the DE Subcommittee reviews the SAR advice from the COMSAR Subcommittee in 2014. 
+
+Background  
+
+This paper will focus on SAR aspects of the draft Polar Code.  In recognition of Parties’ interest in other aspects of the Polar Code, the following points of interest are provided: 
+
+    • DE Subcommittee completed a draft environment chapter for the IMO Marine Environment Protection Committee (MEPC) to consider at the MEPC meeting in May 2013. 
+    • As previously decided by the IMO Maritime Safety Committee, ships not under the SOLAS Convention (e.g., fishing vessels, yachts) will be considered in the next round after the initial Polar Code is in place. 
+    • Chapter 12 Operational Requirements was not discussed at DE (however, COMSAR 17 advice on “tracking” can affect discussion on ship reporting systems).
+    • A Polar Water Operation Manual is still a requirement. The DE Subcommittee continues to gather input for the framework of this guidance document intended to be carried on board the ship. 
+
+Comments on SAR issues other than in Section 8.3 of Chapter 8 and Chapter 10
+
+The IMO Secretariat provided three notes for consideration by the COMSAR 17 working groups that developed the recommended advice sent back to the DE Subcommittee.  The IMO Secretariat suggested that the three notes be kept in the final document but the notes were overlooked when the working group report was created. The three notes provide useful background for future consideration and are as follows: 
+
+    1. With regard to chapter 1, concerning the Polar Water Operational Manual, the ICAO/IMO Joint Working Group on SAR agreed that an Operational Manual should be developed and that an extra chapter on emergencies, including guidance on abandoning ship and SAR related issues should be included. Consideration should be given to also include guidance on SAR related issues in Volume III of the IAMSAR Manual, including the development of an Action Card (COMSAR 17/6) 
+    2. Regarding section 12.4 on Requirements for voyage planning, the view was supported that guidance in line with resolution A.999(25) on voyage planning for passenger ships operating in remote areas should apply to all ships. (COMASAR 17/6) 
+    3. With regard to section 12.5 on Reporting, the view endorsed by the MSC that the implementation of a vessel traffic monitoring and information system was premature, the view was supported that the text as given in square brackets in section 12.5 should be retained. Communication with the RCC (or the maritime information centre) was considered to be of utmost importance when sailing into a certain Search and Rescue Region. (COMSAR 17/6)  
+
+COMSAR 17 also provided advice on the topics of ‘Time to rescue’ and ‘Minimum design temperature’: 
+
+Time to rescue:  With regard to "expected maximum time to rescue" and taking into account the existing guidance in MSC.1/Circ.1184 Enhanced Contingency Planning Guidance for Passenger Ships Operating in Areas Remote from SAR Facilities and whether there might be a need to make distinctions on certain matters between requirements applicable for voyages in the Arctic and Antarctic, respectively, COMSAR 17 noted that this is a complex issue where a simple number of days solution may not be appropriate.  Recognizing that the operating environment within the polar areas can vary significantly due to many factors, the following comments and recommendations were made:
+
+.1  the ISM Code already employs a risk assessment-based approach, not a prescriptive approach, it was considered that in any event there should always be a minimum five-day requirement for the "time to rescue" in all polar areas;
+
+.2 there are significant differences between the Arctic and Antarctic polar regions, in particular, the distances involved during SAR operations;
+
+.3 there are differences (e.g. distance, weather, proximity of available SAR response facilities etc.) within each polar region that may affect SAR operations;
+
+.4 operators of ships in polar areas should use a risk-based approach to consider the particular circumstances of their operation and the likelihood that those circumstances may increase the time to rescue beyond the five-day minimum period; and
+
+.5 where the risk assessment indicated a time to rescue of greater than five days, then any measures to be taken based on time to rescue should meet the increased figure.
+
+Minimum design temperature:  On the minimum design temperatures for all communication equipment intended to be used, taking into account that -30º C ambient temperature could be surpassed (more extreme), it was considered that the minimum design temperatures for all communication equipment must be appropriate for the minimum temperatures anticipated during operation. 
+
+Section 8.3 Requirements/Regulations (including Search and Rescue): 
+
+COMSAR 17 discussed several topics in Section 8.3. Specific text to insert into the draft Polar Code was not developed.  It did produce advice and background on the following SAR-related issues: 
+
+    1. Section 8.3 should be included in chapter 10 (Communications).
+    2. The terms "tracking" and "locating" are different functions; both are important to SAR. 
+    3. Tracking systems that produce and transmit information as described in SOLAS regulation V/19-1.5 (ship's identity, location – latitude and longitude and date/time of position) support efficient and effective SAR responses as they allow authorities to identify ships already in or near to the area where the distress event has occurred.  The existing LRIT system can be used in polar waters. Consequently, no additional requirements for tracking of ships are considered necessary. 
+    4. Locating systems allow objects of interest such as survival craft to be located during the SAR response.  COMSAR 17 agreed that survival craft do not require tracking systems.  However, it was considered that all survival craft require locating systems that will allow the responding SAR assets to find them during a distress situation.  It is recommended that the Polar Water Operation Manual should be used to provide practical operational guidance on how to operate locating devices.  For example, if survival craft are in close proximity/joined together, the appropriate number of locating devices should be activated both to reduce burst collisions (reduce interference with each other) and to preserve some devices for activation when batteries of previously activated devices expire.  If survival craft are widely dispersed then each dispersed craft should use its locating device. 
+
+Chapter 10 Communications
+
+COMSAR 17 developed specific text to replace the current draft version.  Chapter 10 text as recommended by COMSAR 17 is provided in the attachment. 
+
+Way forward
+
+At this stage, the IMO COMSAR Subcommittee has completed its work and provided advice on Polar Code Chapter 8 and Chapter 10 to the IMO DE Subcommittee.  The advice focused on enhancement of existing requirements for survival craft (lifeboats and liferafts) and ships.  Acceptance of this advice is not assured.  The final outcome will be based on decisions made by the experts considering this matter in the IMO DE subcommittee.  The DE subcommittee is to be merged with two other IMO subcommittees.  The current IMO proposal is for the Polar Code matter to be considered under both of the two new subcommittees with the following titles and meeting dates:  Ship Systems and Equipment (SSE) Subcommittee meeting 3-7 February 2014 and the Ship Design and Construction (SDC) Subcommittee meeting 17-21 March 2014.  Antarctic Treaty Consultative Parties may wish to monitor the DE Subcommittee Correspondence Group coordinating the Polar Code effort as well as make their views known as the new subcommittees in 2014 handle the SAR advice from the COMSAR Subcommittee.  
+

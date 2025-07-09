@@ -1,0 +1,56 @@
+﻿
+
+
+
+
+
+Advances in creating digital elevation models for Antarctic Specially Managed and Protected Areas
+
+
+
+
+
+
+
+
+Advances in creating digital elevation models for Antarctic Specially Managed and Protected Areas
+Working Paper submitted by the United States
+Summary
+This paper describes the development of digital elevation models for all of the Antarctic Specially Managed and Protected Areas.  The CEP is invited to consider these digital elevation models as a powerful tool for research and monitoring of these sensitive regions of Antarctica and to encourage an active role for the National Antarctic Programs and Treaty Parties in helping to increase the accuracy and utility of these models.
+Introduction
+The Polar Geospatial Center (PGC), at the University of Minnesota, with support from the U.S. National Science Foundation (NSF), has undertaken a project with the goal of producing digital elevation models (DEMs) for all Antarctic Specially Managed and Protected Areas (AMSAs, ASPAs).  Land information products, such as contour and shade-relief maps, that could be useful for a number of mapping and management purposes, can be derived from DEMs.
+DEMs are three-dimensional representations of terrain created using elevation data that is generally acquired from analysis of photographic imagery, radar, or Light Detection and Ranging (LiDAR).  The DEMs of Antarctica produced by PGC are of high resolution (2-4 m post spacing, or the horizontal separation between elevation points) allowing for detection and monitoring of fine-scale geomorphic and topographic features. 
+ The DEMs will be publically available in a format appropriate for use in Geographic Information Systems (GIS).  We anticipate that the DEMs will be useful for a wide array of research, monitoring, and operational purposes such as calculating watersheds and insolation (solar irradiation) characteristics, as well as land surface slope and aspect analysis.  
+Founded in 2007, PGC is funded by the NSF to support polar science and operations.  PGC solves geospatial problems at both poles by working with researchers on mapping and remote sensing projects in the most remote locations on Earth.
+Methods
+In order to acquire the elevation data needed to produce the DEMs, PGC is using sub-meter, panchromatic (visible spectrum) satellite imagery collected in stereo over ASMAs and ASPAs.  The stereo images, two images of the same area acquired from two different angles, are collected during a single orbit of an Earth observation satellite (Worldview-1 or 2; contracted to the United States Government (USG) by Digitalglobe, Inc.).  PGC has specifically requested that imagery be collected with a maximum of 20% cloud cover and approximately every month, so that there is sufficient imagery throughout the austral season to assemble a complete elevation model both with and without snow-cover.  
+The high-resolution optical image pairs are processed using one of two open source software packages – Ames Stereo Pipeline (ASP), developed by the U.S. National Aeronautics and Space Administration (NASA) (http://ti.arc.nasa.gov/tech/asr/intelligent-robotics/ngt/stereo/), or Surface Extraction with Triangular Irregular Network (TIN)-based Search-space Minimization (SETSM), developed by Ohio State University (OSU) (http://www.pgc.umn.edu/elevation/stereo).  Both programs use stereophotogrammetry, in which common features are identified in each image and are used to model the relative three-dimensional position of the terrain, to process the imagery, without human intervention, into DEMs with 2-4 m post spacing (high resolution).
+DEM quality is also measured by the accuracies of the elevation and the morphology presented.  The accuracy of DEMs produced by PGC, without ground control, expressed as elevation uncertainty, is ~+/-6 m.  The incorporation of even one ground control point, a location of precisely measured geographic location and elevation, can improve the accuracy of elevations in the DEM to less than +/-1 m.  Ground control data can be collected by using differential Global Positioning System (dGPS) on a large, flat surface (typically larger than several DEM pixels wide) within the target region for the DEM.
+Standard approaches to DEM production in developed parts of the world typically use airborne LiDAR.  This is a laser-based instrument mounted in an aircraft that produces a dense array of spot elevations in a swath as the aircraft flies over terrain.  Airborne LiDAR-based DEMs are typically much higher resolution (25 cm post spacing) and accuracy.  The satellite photogrammetry approach used here, however, is compatible with areas of open terrain with little erect vegetation and can be used in areas, like Antarctica, where airborne LiDAR can require extensive logistical support and much higher financial investment.
+The satellite imagery (raw and orthorectified data) is licensed for use by the USG, including federal grantees, through DigitalGlobe Inc. and thus cannot be shared.  However, the data are available to other interested parties through independent licensing arrangements at the expense of the user.  The DEMs are specially-derived products and not subject to copyright.  Hence, NSF will make these available via PGC according to NSF data policies.
+Initial project – McMurdo Dry Valleys ASMA
+The initial test for this project was the collection and processing of stereo imagery into DEMs for the McMurdo Dry Valleys ASMA. This region is of considerable scientific interest because of the range of environments and ecosystems that exist and because it has been studied for more than half a century. In addition, given that the McMurdo Dry Valleys is one of the largest areas of rock exposure on the continent, it has considerable existing topographic and surface information that can be used to verify the usefulness of the DEMs.  For example, there is substantial GPS ground control throughout the region and airborne LiDAR data (collected in 2000) exist for a subset of the region.
+PGC processed over 350,000 square kilometers or 1200 images using the NASA ASP software into overlapping DEMs that cover over 75% of the officially managed area.  These DEMs were mosaicked (stitched together) into a single DEM with 2 m post spacings.  Figures 1 shows a highly-detailed, shade-relief image from the McMurdo Dry Valleys DEM of the Taylor Valley. 
+Lessons learned from the McMurdo Dry Valleys ASMA DEM project
+    • Images of the same areas must be collected several times so that “holes” in the data resulting from shadows and ground fog can be filled with images taken on alternative days at various times of the season.
+    • Ground control is very useful for increasing the vertical accuracy from +/-6m to less than +/-1m.
+    • Lake level can be determined from the DEM if the water is frozen.  Open water causes errors in the final DEM and must be masked out. 
+    • Final mosaicking into a high quality DEM is the most labor-intensive part of the project.
+    • Production of the DEMs is very computer intensive.  Areas of great interest will need to be prioritized.
+Next steps
+Data collection is underway for all ASMAs and ASPAs.  PGC proposes to process imagery into DEMs on a prioritized basis as determined by the U.S. Antarctic Program with input from the international scientific community.  Efforts will be made to incorporate ground control points, when available, into the DEMs, as this significantly increases the elevation accuracy.  PGC will continue to work with the software development teams at NASA’s Ames Research Center and OSU’s Byrd Polar Research Center to increase the accuracy and quality of the DEM software.  PGC will establish a web site to distribute the DEMs and will make them available to the ATS for inclusion with the ASMA and ASPA GIS data.  
+Recommendations
+Digital elevation models produced by PGC, with support from NSF, will be unique and powerful tools for research and monitoring conducted in ASMAs and ASPAs.  As derived products from otherwise copyrighted satellite imagery, the DEMs will be freely available to scientists and managers for use in GIS and for the creation of products such as contour and shade-relief maps of these sensitive areas of Antarctica.  The CEP is recommended to:
+    1) note and acknowledge the usefulness of DEMs as a new technique for research and monitoring in ASMAs and ASPAs; 
+    2) encourage National Antarctic Programs that have existing ground control information or that can acquire new ground control in ASMAs or ASPAs to offer those data to PGC for use in DEM production; and
+    3) invite Parties to provide comments to PGC through the U.S. CEP Representative about which ASMAs and ASPAs should be given higher priority for DEM production.
+References
+Moratto, Z. M., M. J. Broxton, R. A. Beyer, M. Lundy, and K. Husmann. 2010. Ames Stereo Pipeline, NASA's Open Source Automated Stereogrammetry Software. Lunar and Planetary Science Conference 41, abstract #2364. [ADS Abstract].
+Broxton, M. J. and L. J. Edwards. 2008. The Ames Stereo Pipeline: Automated 3D Surface Reconstruction from Orbital Imagery. Lunar and Planetary Science Conference 39, abstract #2419. [ADS Abstract].
+Noh, Myoung-Jong, Howat, Ian M., “High-quality Glaciated-Surface Information Extracted by Stereo-Photogrammetric Technique from RPC-based Stereo Imagery”, in prep.
+Annex – Supporting Figure
+
+
+
+Figure 1. Shade-relief image of Taylor Valley, cropped from the McMurdo Dry Valleys ASMA DEM.  Note how the photogrammetric technique captures the crevasses in the glaciers and the moraines.  Also note data “holes” in the DEM resulting, in part, from very dark shadows.
+

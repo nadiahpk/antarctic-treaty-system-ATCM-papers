@@ -1,0 +1,53 @@
+﻿
+
+
+
+
+
+Surprising findings from the Southern Ocean Carbon and Climate Observations and (SOCCOM) Project
+
+
+
+
+
+
+
+
+Surprising findings from the Southern Ocean Carbon and Climate Observations and Modeling (SOCCOM) Project
+An Information Paper submitted by the United States
+Summary
+Researchers from the Southern Ocean Carbon and Climate Observations and Modeling (SOCCOM) Project have deployed 150 autonomous profiling robotic floats in the Southern Ocean. These floats carry an innovative sensor suite that produces a climate-quality dataset needed to understand carbon cycling in the Southern Ocean. Time series measurements from SOCCOM floats have enabled, for the first-time, direct measurements of carbon dioxide (CO2) fluxes into, and out of, the Southern Ocean during the stormy austral winter. Wintertime measurements have revealed a surprising new result: in the austral winter, upwelled seawater near the sea ice edge releases significantly more CO2 to the atmosphere than previously thought. These new data allowed scientists to calculate that, over the course of a year, the Southern Ocean removes and releases a similar amount of CO2. This result is contrary to previous understanding, which suggested that, annually, the Southern Ocean was a sink for removing significant amounts atmospheric CO2. This new finding indicates that the Southern Ocean may not have the potential to alleviate increasing global atmospheric CO2 concentrations as was once hypothesized. 
+Introduction and Program Description
+Processes operating in the Southern Ocean significantly influence Earth’s climate. Scientists have long hypothesized that the Southern Ocean both absorbs and helps store large amounts of atmospheric carbon dioxide (CO2) because high levels of surface-water biological productivity work to “pump” CO2 into long-term storage in the deep ocean. The Southern Ocean is one of the few places where centuries-old deep water, rich in nutrients, resurfaces and fuels blooms of biological activity. This biological activity takes up carbon as CO2 and stores it in biological tissue of living organisms. When these organisms die and fall to the deep ocean, they effectively “pump” CO2 back into long-term deep storage (several hundred years). 
+To increase the amount of observational data available from the austral winter in the Southern Ocean, the U.S. National Science Foundation funded the Southern Ocean Carbon and Climate Observations and Modeling (SOCCOM) Program. The primary goal of SOCCOM (https://soccom.princeton.edu) is to measure and model the role of the Southern Ocean in climate variability. SOCCOM is led by researchers from Princeton University with ten partner institutions including: University of Washington, Monterey Bay Aquarium Research Institute, and University of San Diego Scripps Institute of Oceanography. In addition, as part of its advisory structure, SOCCOM has an International Collaborations Committee to encourage and aid in establishing partnerships among nations with members representing Argentina, Australia, Chile, France, Germany, New Zealand, South Africa, Switzerland, and the United Kingdom. 
+The SOCCOM Program relies on an array of drifting, vertically profiling, robotic floats that collect year-round oceanographic measurements of temperature, salinity, dissolved oxygen, dissolved nitrate, and pH (Fig. 1). These data allow researchers to quantify important aspects of environmental change such as variations in the ocean carbon cycle and ocean acidification. SOCCOM floats also incorporate bio-optical sensors that collect information on chlorophyll concentrations and light transmission to identify the extent of plankton blooms. 
+On each SOCCOM float mission, the float dives down the water column to a depth of one kilometer where the float then drifts with the prevailing current for up to nine days. At that time, the float dives again to two kilometers depth and slowly adjusts buoyancy to ascend in the water column while measuring water properties on its trip to the ocean surface. Upon surfacing, the floats transfer the observational data they have collected to data servers via satellite. The data transmitted is typically available on public servers within 24 hours. The number of measurements collected by SOCCOM floats is far greater than what could reasonably be collected from research vessels and these measurements are collected at an overall lower cost. SOCCOM’s robotic floats use novel navigation algorithms to avoid ice floes that could damage them. The floats are powered by long-life lithium batteries, which are anticipated to enable continuous data collection for approximately six years. The floats can spend long stretches operating under sea ice and surface when conditions allow.
+New Research Findings
+From previous data, scientists theorized that the Southern Ocean had the capacity to store nearly half of the CO2 emitted by human activities, thereby curbing the effects of human-influenced CO2 emissions1. However, this conclusion was based on a limited number of shipboard observations that were, for the most part, collected in the austral summer. The few austral winter measurements available were collected mainly from vessels traveling across Drake Passage to resupply Antarctic research stations. 
+In new research results, SOCCOM researchers describe their use of float data to estimate how much CO2 the Southern Ocean is absorbing or emitting to the atmosphere. Their recent study analyzed data collected by 35 floats between 2014 and 2017 (Fig. 2). These observations revealed that the Southern Ocean may not be the net sink for CO2 previously estimated2. Austral winter measurements show that upwelled water near the sea ice edge has much more dissolved CO2 than previously presumed. Once this upwelled water surfaces from depth, the dissolved CO2 it holds outgasses to atmosphere. Using these new measurements quantifying the amount of outgassing CO2, researchers calculate that the Southern Ocean is annually near neutral with respect to removal/addition of carbon from the atmosphere. Therefore, the Southern Ocean may not have the curbing effect on rising atmospheric CO2 levels that scientists once thought. The research team's next step is to analyze additional data from more floats to replicate this finding and to further identify seasonal or multiyear trends. 
+
+Summary
+The SOCCOM robotic float project is providing critical year-round observations of the Southern Ocean. Because SOCCOM floats are gathering data at times and places that are generally inaccessible for shipboard data collection, they serve to fill in critical observational data gaps. These data will provide researchers with the ability to model the exchange of CO2, nutrients, salt and heat between the Southern Ocean, the rest of the world’s oceans, and the atmosphere.
+Since 2014 the SOCCOM Project has been supported primarily through a grant from the U.S. National Science Foundation with additional funding from the National Aeronautics and Space Administration and National Oceanic and Atmospheric Administration. 
+
+
+Annex – Supporting Figure
+Figure 1: Chanelle Cadot holds an “adopted” SOCCOM float, used in cited studies. SOCCOM floats measure ocean temperature and salinity, as well as dissolved oxygen, nitrogen species, and pH. They drift with the current and can control their buoyancy to collect observations at different depths, diving up to 2 kilometers below the surface measuring water properties along their glide path. The floats telemeter their observations via satellite after surfacing. The SOCCOM project has partnered with teachers and classrooms across the country to inspire and educate students about the Southern Ocean and climate change through its “Adopt-A-Float” initiative (https://soccom.princeton.edu/content/adopt-float-program). (Copyright SOCCOM 2018)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2: Path of autonomous floats around Antarctica (dark gray) and its sea ice (light gray). The current study showing higher-than-expected outgassing of carbon dioxide was based on data from the instruments in Antarctic Southern Zone (ASZ) indicated by the dark orange paths. (Credit: Alison Gray, University of Washington)
+
+
+

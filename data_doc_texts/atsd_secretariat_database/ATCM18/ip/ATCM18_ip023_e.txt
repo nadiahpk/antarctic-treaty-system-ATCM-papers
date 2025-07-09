@@ -1,0 +1,1562 @@
+ANTARCTIC TREATY              
+XVIII th CONSULTATIVE MEETING  
+
+TRAITÉ SUR L'ANTARCTIQUE       
+XVIII éme RÉUNION CONSULTATIVE           
+
+                                  KYOTO        
+                                  11-22 April 1994
+
+TRATADO ANTARTICO              
+XVIII REUNION CONSULTIVA       
+
+ДОГОВОР ОБ АНТАРКТИКЕ         
+XVIII КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ  
+
+XVIII ATCM/INFO 23  
+10 April 1994  
+Original:English  
+
+DRAFT INITIAL ENVIRONMENTAL EVALUATION  
+
+(Submitted by IAATO)
+Draft Initial Environmental Evaluation
+Adventure Network International: 
+Antarctic Airborne Operations
+Draft Initial Environmental Evaluation
+
+ 
+Adventure Network International: 
+Antarctic Airborne Operations
+
+ 
+© 
+Adventure 
+Network
+I N T E R N A T I O N A L
+Draft Initial Environmental Evaluation
+
+Adventure Network International:
+Antarctic Airborne Operations
+
+Prepared for
+Adventure Network International
+201-960 Richards Street, Vancouver, British Columbia, V6B 3C1 Canada
+
+Prepared by
+Poles Apart
+P.O. Box 170, Sandy Bay, Tasmania, 7005 Australia
+P.O. Box 89, Bourn, Cambridge, CB3 7TF United Kingdom
+
+The cover photograph shows the icefield at Patriot Hills (foreground). Oblique aerial photograph taken from an altitude of 7000 m on 4 November 1961, facing northwest. Vinson Massif is in the distance (right) 225 km from the camera. Photo: US Navy for US Geological Suvey.
+⦁                                                
+⦁                                                
+⦁                                                
+Note: This is a Draft Initial Environmental 
+Evaluation at December 1993. Comments and 
+suggestions are encouraged.
+
+Please forward these to:
+
+Adventure Network International
+201-960 Richards Street, Vancouver, British Columbia, 
+Canada V6B 3C1
+
+or 
+
+Poles Apart
+P.O. Box 170, Sandy Bay, Tasmania, 7005 Australia
+P.O. Box 89, Bourn, Cambridge, CB3 7TF United 
+Kingdom
+
+⦁                                                
+⦁                                                
+⦁                                                
+P  OLES
+A  R T 
+  
+
+
+
+The response is already in the required format with exact fidelity to the original text, maintaining spacing, line breaks, and structure.
+Table of Contents
+
+1.0 Executive Summary                                  Page
+  1.1 Guidelines                                          1
+  1.2 Objectives                                         1
+  1.3 Existing Activity                                  1
+  1.4 Environmental Issues                               1
+  1.5 IEE Preparation and Distribution                   2
+  1.6 Conclusion                                         2
+  1.7 Recommendations                                    2
+
+2.0 Description of Existing Activity                    4
+  2.1 Background                                         4
+  2.2 Scope of Commercial Activity                       4
+  2.3 Operational Objectives                             5
+      2.3.1 Safety Policy                                5
+      2.3.2 Environment Policy                           6
+      2.3.3 License Approval and Insurance                6
+  2.4 Description of Operations                          7
+      2.4.1 Patriot Hills Camp                           8
+      2.4.2 Vinson Massif Base Camp                     11
+      2.4.3 South Pole                                  11
+      2.4.4 Dawson-Lambton Glacier                      13
+  2.5 Fuel Use and Emissions                            13
+
+3.0 Visitor Management                                 14
+  3.1 ANI Staff                                          14
+  3.2 Visitor Education                                  15
+  3.3 Visitor Numbers                                    15
+      3.3.1 Patriot Hills Camp                          15
+      3.3.2 Vinson Massif Base Camp                     16
+      3.3.3 South Pole                                  16
+      3.3.4 Dawson-Lambton Glacier                      16
+      3.3.5 Expeditions                                 17
+4.0 Description of Existing Environment              17
+  4.1 Regional Setting                              17
+  4.2 Physical Characteristics                      17
+    4.2.1 Geology                                   17
+    4.2.2 Glaciology                                18
+    4.2.3 Climate                                   18
+  4.3 Flora and Fauna                               18
+  4.4 Wilderness and Aesthetic Values               20
+  4.5 Recreation and Tourism Values                 20
+  4.6 Protected Areas                               20
+
+5.0 Description of Methods and Data Used to Assess the
+Impacts of Existing Activity                        21
+  5.1 Prediction, Data and Information              21
+  5.2 Methods                                       21
+
+6.0 Nature, Intensity, Extent and Duration of the Likely
+Direct Environmental Impacts of the Existing Activity 22
+  6.1 Patriot Hills Camp                            22
+  6.2 Vinson Massif Base Camp                       24
+  6.3 South Pole                                    26
+  6.4 Dawson-Lambton Glacier Emperor Penguin Colony 26
+  6.5 Peninsula Fuel Caches                         26
+
+7.0 Alternatives                                    28
+
+8.0 Mitigation Measures                             29
+
+9.0 Monitoring                                      29
+
+10.0 Audit Arrangements                             29
+
+11.0 Conclusion                                     30
+
+12.0 Recommendations                               30
+
+13.0 References                                     32
+
+Appendix I                                          32
+List of Figures
+Figure 1:  ANI's Operational Area in the Antarctic              3
+Figure 2:  Weatherhaven Tent at the Patriot Hills Camp          9
+Figure 3:  Patriot Hills Camp Snow Hangar                      10
+Figure 4:  DC6 at the Patriot Hills Blue-Ice Runway            12
+
+List of Tables
+Table 1:  Fuel Used for all ANI Operations in 1990/91, 1991/92 
+          and 1992/93 Seasons                                14
+Table 2:  Patriot Hills Camp Visitation                        15
+Table 3:  Vinson Massif Base Camp Visitation                   16
+Table 4:  South Pole Visitation                                16
+Table 5:  Dawson-Lambton Glacier Emperor Penguin Colony 
+          Visitation                                          16
+Table 6:  Expedition Numbers for the 1990/91, 1991/92 
+          and 1992/93 Seasons                                17
+Table 7:  Weather summary for Patriot Hills October 1992 to 
+          February 1993                                      19
+Table 8:  Predicted Impacts of the Patriot Hills Camp         23
+Table 9:  Predicted Impacts of the Vinson Massif Camp         25
+Table 10: Predicted Impacts of Visits to the South Pole       27
+Table 11: Predicted Impacts of Visits to the Dawson-Lambton 
+          Glacier Emperor Penguin Colony                     27
+1.0 Executive Summary
+1.1 Guidelines
+This Initial Environmental Evaluation (IEE) is an environmental assessment of 
+Adventure Network International's (ANI) airborne operations to and within 
+Antarctica. The IEE has been prepared in accordance with the requirements of the 
+Protocol on Environmental Protection to the Antarctic Treaty 1991 (Madrid Protocol; 
+ATCP 1992), particularly Annex I on Environmental Impact Assessment. The format 
+of the IEE is based on the Practical Guidelines for Environmental Impact Assessment 
+developed by the Committee of Managers of National Antarctic Programs 
+(COMNAP,1992).
+
+The COMNAP guidelines were intended for documents to be exchanged between 
+national Antarctic operators and non-government organizations. The guidelines have 
+some similarities with like guidelines for some domestic (non-Antarctic) operations, 
+but are unique in other respects. Modifications have been made in this IEE to satisfy 
+specific concerns unique to ANI's operations. For instance, the IEE includes reference 
+to visitor management and makes recommendations to reduce ANI's operational 
+environmental impact. The COMNAP guidelines have been used to compile the IEE.
+
+1.2 Objectives
+The objective of this IEE is to provide an environmental assessment of ANI's 
+Antarctic operations in accordance with the requirements of the Madrid Protocol 
+(Article 8), particularly Annex I on Environmental Impact Assessment. Current 
+Antarctic legislation does not require environmental assessment of non-government 
+activities, however, ANI commissioned this IEE in the full knowledge of the Madrid 
+Protocol, which has yet to come into force.
+
+1.3 Existing Activity
+ANI is a commercial air operator providing logistic support services in the Antarctic 
+region (Figure 1). The company maintains a summer-only camp at Patriot Hills, 
+Ellsworth Mountains where there is a natural ice runway suitable for fixed wing 
+aircraft landing on wheels. Secondary areas of operation include Vinson Massif in the 
+Ellsworth Mountains, the South Pole and an emperor penguin colony at the Dawson-
+Lambton Glacier.
+
+1.4 Environmental Issues
+Significant environmental issues that arise from the IEE are:
+    1.4.1 Effects on wilderness and aesthetic values.
+    1.4.2 Cumulative impact from operations.
+    1.4.3 Likelihood and persistence of fuel spills.
+    1.4.4 Disturbance of ice and snow at the Patriot Hills camp.
+    1.4.5 Kitchen and bathroom sullage.
+    1.4.6 Potential introduction of exotic organisms.
+
+1     Draft Initial Environmental Evaluation
+      Adventure Network International
+1.4.7 Impact on terrestrial fauna and flora.
+1.4.8 Waste management procedures.
+
+1.5 IEE Preparation and Distribution
+Poles Apart, an independent international polar consulting company, prepared this
+IEE. Field work was conducted in January and February 1993 at which time a
+representative of Poles Apart visited ANI's operations in Punta Arenas, Chile, and
+Patriot Hills, Antarctica. Poles Apart was given full access to all files and planning
+documents and acknowledges the cooperation of ANI. To keep the IEE to a
+reasonable length some documents have not been attached. A list is given in Appendix
+I of what is available from ANI.
+
+This IEE is the first environmental assessment of a commercial operator in the
+Antarctic. To obtain a wide range of feedback the IEE will be distributed to Antarctic
+Treaty Consultative Parties and the Scientific Committee on Antarctic Research
+through its Group of Specialists on Environmental Affairs and Conservation. Other
+interested parties can obtain copies by contacting ANI. Comments and suggestions are
+encouraged.
+
+1.6 Conclusion
+The assessed environmental impacts of ANI's commercial operations are summarized
+in Tables 8-11. Operational planning, execution and monitoring activities are
+considered consistent with the principles of the Madrid Protocol. Waste management
+procedures conform to the waste disposal regulations in Annex III of the Madrid
+Protocol. ANI's operations are considered to have a minor or transitory
+environmental impact.
+
+1.7 Recommendations
+Recommendations are made in the following areas:
+    1.7.1 Modifications to ANI's Emergency Procedures Manual.
+    1.7.2 Decommissioning of the Patriot Hills camp.
+    1.7.3 Environmental monitoring.
+    1.7.4 Waste management.
+    1.7.5 Fuel handing.
+    1.7.6 Staff training and information to clients.
+    1.7.7 Accounting and information exchange.
+    1.7.8 Restrictions on poultry products.
+    1.7.9 Increased landing distance at penguin colonies.
+    1.7.10 Scientific surveys.
+
+2     Draft Initial Environmental Evaluation
+      Adventure Network International
+80° W                                          
+             70° W                                 60° W                                 50° W
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                                                  
+                                                                
+2.0 Description of Existing Activity
+2.1 Background
+In 1985 two Canadian mountaineers, Patrick Morrow and Martyn Williams, joined
+with a British pilot, Giles Kershaw, to plan and organize an ascent of Vinson Massif,
+Antarctica's highest peak (4897 m) and one of the coveted Seven Summits (the highest
+mountain on each of the seven continents). Vinson Massif was subsequently climbed in
+November 1985, although the first ascent was in 1966 by a group from the American
+Alpine Club with the assistance of the National Science Foundation. Morrow,
+Williams, and Kershaw formed ANI and gradually expanded its operational
+capability. In the 1987/88 season a temporary base camp was established at Patriot
+Hills in the Ellsworth Mountains (80° 18'S, 81° 21'W) to take advantage of a natural
+runway on glacial ice. It was 1000 m above sea level, 1083 km from the South Pole, and
+220 km from Vinson Massif. The site was selected in 1988 following a review of
+potential runway sites in the area. That same season ANI offered flights to the South
+Pole.
+
+ANI is a founding member of the International Association of Antarctica Tour
+Operators (IAATO). IAATO members have endorsed a set of guidelines for aircraft
+and sea-based tourism to Antarctica (Appendix D).
+
+2.2 Scope of Activity
+ANI offers summer logistic support services for scientific and other expeditions, film
+crews, and tourists to the Antarctic. It provides aircraft support, cache-positioning,
+camp and field support, resupply, search and rescue, medivac and medical support.
+ANI is the first commercial operator to organize the following Antarctic activities:
+camp-based tours; flights for tour and private groups to the South Pole; ski tours; and
+transport for mountaineers. ANI has also supported scientific and logistic projects for
+various national Antarctic programmes. It is the only company providing regular
+inter-continental flights between South America and Antarctica. It advertises details of
+pre-arranged tours to a variety of Antarctic destinations. Expeditions are groups or
+individuals on a journey other than those advertised.
+
+The registered office of ANI is in Vancouver, British Columbia, Canada with a sales
+office in Darien, Connecticut, USA. During the Antarctic season (October to March)
+ANI operates from Punta Arenas, Chile and maintains a tented camp at Patriot Hills
+in the Ellsworth Mountains. The camp can accommodate 50 people and is adjacent to
+a 100 m x 2000 m blue-ice runway. The blue-ice runway is a natural feature that
+requires a limited amount of preparation and upkeep for aircraft use. Punta Arenas,
+Chile is 3074 km from Patriot Hills, an 8-hour DC6 flight, half of which is over the sea.
+
+Ordinarily ANI use four aircraft: a wheeled Douglas DC6; two ski-equipped De
+Havilland DHC-6 Twin Otter; and one ski/wheel Cessna C-A185F. The DC6 and the
+Twin Otter aircraft are chartered from North American operators. The DC6 carries up
+4    Draft Initial Environmental Evaluation
+     Adventure Network International
+to 26 passengers and has a useful load of 1.8 tonnes for the 6148 km return trip. ANI 
+has expressed an intention to replace the DC6 with a Lockheed L-382G Hercules for 
+the 1993/94 season. The Cessna is used primarily for expedition support, the placement 
+of expedition food caches, and the movement of small groups of visitors to further 
+destinations within Antarctica. It stays in Antarctica throughout the year.
+
+ANI's season commences in early October when two Twin Otters and 4-6 staff depart 
+Punta Arenas for Patriot Hills camp. Using fuel caches on the Antarctic Peninsula, the 
+aircraft reach Patriot Hills about five days later, depending on weather conditions. 
+Both aircraft arrive on wheel/skis then change to board skis for the summer season. 
+This group excavates the Cessna aircraft that has wintered in a 400 m3 snow hangar, 
+establishes the base camp and prepares the blue-ice runway for the arrival of the DC6. 
+The first DC6 flight is in late October, bringing ANI clients and more staff. The 
+number of DC6 flights in a season varies according to demand, but on average, twelve 
+round trips are made from Punta Arenas and Patriot Hills with staff, clients and supplies for the camp. All personnel 
+disembark at Patriot Hills for orientation and briefing before continuing onward.
+
+The final DC6 flight of the season returns clients and some staff to Punta Arenas. The 
+remaining ANI staff dismantle the Patriot Hills camp for winter storage in the snow 
+hangar. The Twin Otters and staff then return to Punta Arenas via the Antarctic 
+Peninsula using fuel caches on the journey north.
+
+2.3 Operational Objectives
+2.3.1 Safety Policy
+ANI has formulated an Emergency Procedures Manual for each of its operational 
+components: predeparture, air operations, and ground activities. The first section on 
+Preventive Infrastructure concerns the inherent risks of working in Antarctica and 
+includes a set of minimum standards for equipment and working conditions. It 
+includes sections on: (1) aircraft; (2) weather reporting; (3) radio protocol; (4) aircraft 
+survival equipment; (5) fuel requirements; (6) field party protocol; (7) medical 
+assistance; and (8) fire. The second section on Emergency Scenarios is a series of 
+checks and guidelines on how to respond should there be an emergency. The manual 
+delegates areas of responsibility for: (1) DC6 operation; (2) ski/wheel aircraft; and (3) 
+medical considerations
+
+The following safety measures are drawn from the ANI Emergency Procedures 
+Manual:
+• There must be a back-up aircraft for all operations.
+• A qualified medical doctor, experienced in polar conditions is stationed at 
+the Patriot Hills camp for the season.
+• All participants are required to complete medical information forms and 
+are screened by their own physician as well as being monitored by the ANI
+
+5     Draft Initial Environmental Evaluation
+      Adventure Network International
+field doctor prior to their acceptance.
+-   All guides are fully qualified and are experienced in Antarctic conditions.
+-   All guided programs and expeditions are insured for emergency evacuation.
+-   Radio contact is made at least twice daily between Patriot Hills camp and the ANI office in Punta Arenas, Chile.
+-   Continous radio contact with all ANI aircraft during while flying.
+-   All ANI aircraft are equipped with survival equipment and emergency supplies.
+-   Crews have training in cold weather survival techniques.
+-   close working collaboration is established with the Chilean aeronautical authorities, civil and military for air traffic control and weather reporting.
+
+ANI is the only commercial operator to contribute to the Antarctic Flight Information Manual issued by COMNAP/SCALOP. The company provides annual updates of relevant information for the manual.
+
+2.3.2 Environment Policy
+ANI has a formal environmental policy and the following measures apply to the Patriot Hills camp, Vinson Massif, satellite camps and for expeditions:
+(1) Remove from Antarctica as far as is posible
+-   All human waste (i.e., solid and liquid sewage).
+-   All putrescible organic waste (i.e., domestic solid kitchen waste).
+-   All solid waste (i.e., cans, bottles, aluminium, plastic).
+-   All paper and paper products.
+-   All hazardous domestic waste (i.e., aerosol cans, paints and solvents).
+-   Other hazardous waste (i.e., fuel, gas bottles, batteries, oil, photographic developers).
+-   Fuel drums.
+
+(2) Disposed of in Antarctica
+-   Sullage (i.e., grey water from the kitchen, laundry and bathroom).
+
+(3) Prohibited activities
+-   Incineration.
+-   Products prohibited in the waste disposal Annex.
+-   Use of toxic chemicals (i.e., PPBs, PCBs).
+
+2.3.3 License Approval and Insurance
+Flight approval from Punta Arenas is given by the Dirección de Aeronautica with the agreement of Instituto Antártico Chileno (INACH) and Fuerza Aérea de Chile (FACH). Approval is sought annually, 3 months before the start of each season, and includes the provision of the following documentation: aircraft registration, crew
+      6    Draft Initial Environmental Evaluation
+      Adventure Network International
+documentation, and search and rescue and liability insurance. ANI is required to 
+submit monthly reports of all operations within Antarctica to Dirección de 
+Aeronautica in Punta Arenas and Santiago, Chile. The insurance policy covering 
+ANI's operations includes environmental cleanup measures should an accident or fuel 
+spill occur.
+
+In addition to the above approval, individual aircraft chartered by ANI must satisfy 
+their respective countries' aviation regulations. For 1992/93, the DC6 complied with 
+United States Federal Aviation Authority (FAA) regulations. The Twin Otters and 
+Cessna conform to Canadian Department of Transport (DOT) regulations. Typically, 
+aviation regulations contain license, insurance, search and rescue, age and 
+airworthiness, engine type and maximum number of passengers. A suitably qualified 
+engineer maintains the Cessna at Patriot Hills camp during the summer and issues a 
+Certificate of Airworthiness.
+
+To accord with Antarctic Treaty Recommendations (VIII-6; XV-20), the Canadian 
+government is sent advance notice of intended operations. Courtesy letters are also 
+sent to Fuerza Aérea de Chile; British Antarctic Survey; the Foreign and 
+Commonwealth Office, United Kingdom; and the National Science Foundation, 
+USA. Notification includes the number of intended expeditions, client numbers, dates 
+and proposed flight arrangements.
+
+The Chilean authorities request 48 hours notice of a flight plan to Teniente Rodolfo 
+Marsh Martin Station on King George Island in the South Shetland Islands. The 
+United States Antarctic Program (USAP) requires 72 hours advance notice for visits to 
+Amundsen-Scott South Pole station. This aims to prevent interference with flights 
+supporting government operations within Antarctica. Air traffic control and existing 
+runways are used when visiting these stations. ANI does not rely on technical services 
+or fuel from Amundsen-Scott station.
+
+Meteorological data are passed daily from Patriot Hills camp to Punta Arenas 
+headquarters. These data are passed to the Chilean meteorological authority (Centro 
+de Metereología, Región Austral). For its operations ANI utilizes all available 
+meteorological data.
+
+2.4 Description of Operations
+For the purposes of this IEE the following spatial terms are defined. Local is 
+considered to mean the immediate camp area (within a radius of 500 m from the main 
+kitchen tent) at Patriot Hills, the base camp at Vinson Massif and field sites that may 
+be visited in the course of ANI's operations. Regional signifies the Ellsworth 
+Mountains, made up of the Sentinel and Heritage ranges, and includes Patriot Hills 
+and Vinson Massif. Continental refers to the Antarctic continent.
+
+                  7    Draft Initial Environmental Evaluation
+                           Adventure Network International
+2.4.1 Patriot Hills Camp
+
+The Patriot Hills camp provides basic shelter and accommodation in the Ellsworth Mountains (Figure 2). It offers the natural advantage of a blue-ice runway and is within the operational capacity of existing fixed wing aircraft. The main tented camp, including the runway, aircraft and fuel storage area, occupies a ‘footprint’ of about 5 ha.
+
+The camp consists of Weatherhaven tents (5 m long x 4 m wide) for kitchen/dining and workshop/store. Sections can be joined to extend the length of a tent when necessary. Weatherhaven tents are specially manufactured for cold weather conditions, with insulated floors and covers. Food is cooked on a propane gas stove and two kerosine cookers are used for heating and melting snow. A small fenced off area behind the kitchen tent is used to gather snow for water. Smaller tents (North Face and Kelty) are used for staff, expeditioners and mountaineers. To minimize the risk of losing communications in the event of a fire a small tent is set apart to house back-up radio equipment.
+
+Two toilets are located downwind of the cook tent in small snow caves. Each has cut-down plastic 2001 drums with a plywood seat and lined with a plastic bag. Urine is collected in a 2001 drum located behind a snow wall. Solid human waste is stored in sealed bags and, with urine in 2001 drums, is returned for disposal in Chile.
+
+All putrescible organic waste (i.e. domestic solid kitchen waste) is bagged and returned to Chile. Bagged waste is stored in a wooden crate/sled outside the kitchen tent. The crate/sled is pulled by snowmobile to the runway. The sink has a small mesh covering the outlet pipe to catch organic waste. Sullage (i.e. grey water from the kitchen, laundry and bathroom) is drained into a snow pit via a hose buried in the snow and only biodegradable cleaners are used. There is no oil and grease trap. All solid waste (i.e. cans, bottles, aluminium, plastics) is returned to Chile for disposal. Waste is returned at Punta Arenas airport (Aeropuerto Carlos Ibanez del Campo) and transferred to a land-fill site 20 km to the west of the city.
+
+The Cessna aircraft was flown to Patriot Hills in November 1989 from Punta Arenas. During the 1992/93 season a snow hangar was dug out to store the Cessna over winter, provide a protected area for clients during extreme weather, and a safe and secure place for equipment and food. It was hollowed out with a chainsaw, ice-saws and shovels. The 400 m3 snow hangar uses two wooden beams and two aircraft wings for the structure, and has a plywood roof covered with tarpaulins and snow (Figure 3). The hangar is not lined and has a compacted snow floor. Two small wooden rooms (3 m x 3 m) in the hangar are used for food and equipment storage. The Twin Otters are parked about 200 m from the main kitchen tent. Fuel drums are stored adjacent to these aircraft. The ski-equipped Twin Otters land on a 800 m snow runway south of the camp. The runway is levelled with a beam dragged behind a snowmobile.
+
+8        Draft Initial Environmental Evaluation
+         Adventure Network International
+Figure 2: Weatherhaven Tent at the Patriot Hills Camp
+
+
+                                 Draft Initial Environmental Evaluation
+                                 Adventure Network International
+                                 
+6
+Figure 3: Patriot Hills Camp Snow Hangar
+10     Draft Initial Environmental Evaluation
+       Adventure Network International
+The 2 km long marked blue-ice runway is about 1.5 km from the camp (Figure 4). 
+Swithinbank (1993:109) raised concerns about the surface of the blue ice and the way 
+in which artifacts may change the albedo thus rendering it unsafe. Minor oil spills 
+could cause small depressions in the ice. ANI avoids this by fitting the DC6 with trays 
+and aviation diaper liners to catch all oil drips and inspecting the runway on a regular 
+basis for any foreign objects. The runway is marked with urine drums. These drums 
+are removed at the end of the season and there is no damage to the runway.
+
+A damaged DHC-3T Otter aircraft was partially removed in the 1992/93 season from 
+the Patriot Hills runway. At ANI's expense, the aircraft was cut into pieces to be 
+backloaded over two seasons.
+
+Solar panels power 12 V DC batteries for radio communications, and recharge camera 
+and video batteries. A small gasoline-powered generator is used infrequently to 
+operate aircraft tools. No wind generators are used at the camp due to strong and 
+irregular wind speeds.
+
+2.4.2 Vinson Massif Base Camp
+
+Vinson Massif base camp was established in 1985. It lies 227 km north of the Patriot 
+Hills camp at an elevation 2137 m (78°28' S, 86°05' W,). This camp provides support 
+and communications for climbers and related groups on Antarctica's highest peak. 
+The location of the camp was chosen because of its proximity to the climb and its 
+relatively sheltered location.The camp consists of a Weatherhaven tent (kitchen/
+dining), a personal tent for the camp manager, and toilet facilities. A small cache of 
+fuel, food and a tent remains at the site during the winter. The same waste 
+management procedures used at the Patriot Hills camp have been adopted at the 
+Vinson Massif base camp. Clients must sign an agreement with ANI that, as far as 
+possible, all human and kitchen waste must be removed from the mountain. ANI 
+monitors incoming and outgoing expedition weights where practicable to ensure all 
+waste is removed. To localize environmental impact of visiting groups, ANI prescribes 
+a common access route up Vinson Massif. By the end of the 1992/93 season ANI had 
+supported 181 climbers in reaching the summit of Vinson Massif.
+
+In 1989 ANI organized a clean-up climb on Vinson Massif as part of a general 
+improvement of the route. The accumulated waste from previous visits, some of which 
+pre-dated ANI activities, was removed.
+
+While the majority of mountaineering parties focus on Vinson Massif, nearby peaks 
+have also been climbed.
+
+2.4.3 South Pole
+
+The flight from Patriot Hills camp to the Geographic South Pole (90° S) takes just over 
+five hours in a ski-equipped Twin Otter. Aircraft land at 2,900 m above sea level for
+
+11    Draft Initial Environmental Evaluation
+      Adventure Network International
+Figure 4: DC6 at the Patriot Hills Blue-Ice Runway
+
+12       Draft Initial Environmental Evaluation
+         Adventure Network International
+visits to Amundsen-Scott station. There are no permanent ANI facilities at the South 
+Pole, although a small cache of food, fuel and a tent is maintained for emergency use.
+
+2.4.4 Dawson-Lambton Glacier
+Since November 1991 ANI has flown passengers from Patriot Hills camp to an 
+emperor penguin (Aptenodytes forsteri) colony located adjacent to the Dawson-
+Lambton Glacier (76º 07’S, 26º 50’W). Hempel and Stonehouse (1987:229) counted 
+11,700 chicks at the colony in 1986. This site was chosen because it is about 1170 km 
+from the Patriot Hills camp within the range of a Twin Otter. Visits are arranged in 
+early to late November when the chicks are in crèches. There are no permanent ANI 
+facilities at the site but a small cache of fuel, food and a tent is left near the Argentine 
+station, General Belgrano II, for emergency use.
+
+On average, visitors spend 2-4 nights at the colony. The duration may be extended if 
+poor weather conditions delay a return flight. The aircraft remains at the colony 
+throughout the visit. Twin Otters land away from the colony and well back from the 
+ice edge. Visitors walk with an ornithologist/guide to view the penguins. Clients are 
+advised not to walk within 20 m of the penguins and are monitored by staff. No human 
+or other waste is left at the colony.
+
+2.5 Fuel Use and Emissions
+Five types of fuel are used: Jet A1 fuel (Twin Otters); aviation gasoline (DC6 and 
+Cessna); 93% octane gasoline (snowmobiles); unleaded gasoline (naphtha petroleum) 
+(Coleman camp stoves); and bottled propane (main cooking stove at Patriot Hills 
+camp).
+
+Fuel caches are used to support Twin Otters flying from Punta Arenas to Patriot Hills 
+and return. They are located on permanent snow/ice areas on the Antarctic Peninsula. 
+One is at 67° S and another at 72° S. The position of the fuel caches is known from 
+Global Positioning System (GPS) coordinates and marker stakes. Fuel is used or 
+replaced within three years. Empty fuel drums and waste are collected by ship when 
+the caches are restocked.
+
+Spill containers or absorbent mats are not used when aircraft are being refuelled. The 
+amounts of spills, however, are likely to be small and will evaporate quickly. Oil spills 
+by DC6 aircraft are minimized by inserting aviation diapers in the oil trays. The 
+volume and type of fuel consumed for all ANI operations for the last three seasons is 
+shown in Table 1. The DC6 figures assume the aircraft burns about 21,600 l per return 
+trip, averages 16 hours round trip flying time for an average of 12 trips per season. 
+Total emissions for ANI’s operations are discussed in Section 6.1.
+
+13        Draft Initial Environmental Evaluation
+          Adventure Network International
+The figures show that the greatest fuel consumption is from inter-continental flying.
+The DC6 expends five to six times more fuel, half of which is used over sea, than the
+rest of the operations combined. The amount of fuel used by the Twin Otters and
+Cessna varies according to operational and expedition requirements.
+
+Table 1: Fuel Used for all ANI Operations during the
+1990/91, 1991/92 and 1992/93 Seasons
+
+                                 1990/91 Season
+Aviation kerosene               260,000 l
+Jet A1                           45,117 l
+Aviation kerosene                 3,142 l
+93% octane gasoline               299 l
+Unleaded gasoline                 155 l
+Propane (30 kg capacity)         15 bottles
+
+                                 1991/92 Season
+Aviation kerosene               260,000 l
+Jet A1                           39,970 l
+Aviation kerosene                 2,914 l
+93% octane gasoline               511 l
+Unleaded gasoline                 238 l
+Propane (30 kg capacity)         14 bottles
+
+                                 1992/93 Season
+Aviation kerosene               260,000 l
+Jet A1                           51,798 l
+Aviation kerosene                 1,665 l
+93% octane gasoline               348 l
+Unleaded gasoline                 394 l
+Propane (30 kg capacity)         22 bottles
+
+3.0 Visitor Management
+3.1 ANI Staff
+Company policy is to provide a high staff/visitor ratio due to the remoteness of the
+operation and safety requirements. At the Patriot Hills camp there is normally a
+manager of field operations, radio operator, cook, medical doctor, pilots, engineers
+and mechanics for the aircraft, a client relations person, and field guides as required.
+
+14    Draft Initial Environmental Evaluation
+      Adventure Network International
+The Vinson Massif base camp has a base manager responsible for radio communications and safety. All camps on Vinson Massif are provided with medical, rescue and radio kits. The experience and training of staff is considered highly important to ANI. Prior to the commencement of each season all staff receive client information packages, a briefing in Punta Arenas, and orientation at the Patriot Hills camp. The briefing includes safety, communications, environmental requirements and staff-client relations. Many staff are qualified in first aid procedures and are required to have relevant polar experience; and the majority have mountaineering expertise.
+
+3.2 Visitor Education
+Each visitor is provided with the following information (Appendix I): ANI Policy Statement; ANI/IAATO one page statement; IAATO Guidelines of Conduct for Antarctica Visitors; US Antarctic Conservation Act of 1978; and COMNAP Visitors Guide to the Antarctic.
+
+In addition to the above information, visitors are instructed twice on their environmental responsibilities in Antarctica. In Punta Arenas visitors are given an initial briefing with a slide demonstration, then upon arrival at Patriot Hills camp they are further informed on human and kitchen waste management.
+
+3.3 Visitor Numbers
+Visitor numbers are divided into the five areas of ANI's operation: Patriot Hills camp; Vinson Massif base camp; South Pole; Dawson-Lambton Glacier; and expeditions. All visitors spend time (between 2 and 10 days) at the Patriot Hills camp en route to other destinations. Time spent at each location varies according to weather, logistical and expedition requirements. The fluctuation in staff numbers is caused by variation in the number of accompanying guides. Climbers often come with their own guide, who has been counted as staff. ANI has recorded person/days at the Dawson-Lambton Glacier emperor penguin colony for 1991/92 and 1992/93, and for expeditions from 1990 to 1993.
+
+3.3.1 Patriot Hills Camp
+Table 2: Patriot Hills Camp Visitation
+
+Season          Passenger Numbers     Staff Numbers
+1987/88                  33                   12
+1988/89                  36                   17
+1989/90                  40                   12
+1990/91                  42                   12
+1991/92                  55                   23
+1992/93                 110                   14
+
+15    Draft Initial Environmental Evaluation
+      Adventure Network International
+3.3.2 Vinson Massif Base Camp
+
+Table 3: Vinson Massif Base Camp Visitation
+
+Season          Passenger Numbers  Staff Numbers
+1985/86                    7               4
+1986/87                   14               3
+1987/88                   20               4
+1988/89                   18               5
+1989/90                   14               5
+1990/91                   32               7
+1991/92                   28               8
+1992/93                   48               5
+
+3.3.3 South Pole
+
+Table 4: South Pole Visitation
+
+Season          Passenger Numbers  Staff Numbers
+1987/88                   13               2
+1988/89                   18               8
+1989/90                   20               3
+1990/91                    8               1
+1991/92                   22               8
+1992/93                   17               9
+
+3.3.4 Dawson-Lambton Glacier
+
+Table 5: Dawson-Lambton Glacier Emperor Penguin Colony
+Visitation
+
+Season          Passenger Numbers  Staff Numbers
+1991/92                    9               4
+1992/93           15 (52 Person Days)  8 (26 Person Days)
+
+16      Draft Initial Environmental Evaluation
+        Adventure Network International
+3.3.5 Expeditions
+
+Table 6: Expedition Numbers for the 1990/91, 1991/92 and 1992/93 Seasons
+
+1990/91 Season        
+Norwegian Expedition (to Pole)     5 persons x 51 days     255
+Norwegian Expedition               3 persons x 56 days     168
+                                                         Total 423 Person Days
+
+1991/92 Season        
+Kazama                            4 persons x 56 days     224
+YS Expedition                     3 persons x 82 days     246
+                                                         Total 470 Person Days
+
+1992/93 Season        
+Pentland                          2 persons x 92 days     184
+Kagge                             1 person x 50 days       50
+American Women's Expedition       4 persons x 55 days     220
+AWSPE                            5 persons x 52 days     260
+Staff and Crew                   14 persons x 105 days   1,470
+                                                         Total 2184 Person Days
+
+4.0 Description of Existing Environment
+4.1 Regional Setting
+ANI operates largely in an Antarctic continental polar environment characterized by 
+ice sheets, glaciers, isolated mountain ranges and nunataks. These conditions are 
+found at Patriot Hills camp, Vinson Massif area (Ellsworth Mountain region) and 
+South Pole. The only coastal Antarctic operations are at the Dawson-Lambton 
+Glacier and the fuel caches on the Antarctic Peninsula. For the purposes of this IEE 
+the following description focuses on the Ellsworth Mountain region and the Patriot 
+Hills camp (except for the emperor penguin colony). Patriot Hills camp is extremely 
+remote with the closest permanent facilities being Amundsen-Scott station (USA) at 
+the South Pole and General Belgrano II station (Argentina) on Bertrab Nunatak.
+
+4.2 Physical Characteristics
+4.2.1 Geology
+The Ellsworth Mountains lie south of the Bellingshausen Sea, west of the Ronne Ice 
+Shelf and on the margin of the Antarctic continent in Ellsworth Land. This high inland 
+mountain range of Lesser, or West Antarctica, extends over 400 km. Geologically, the 
+range is mainly composed of metamarphic rocks similar to those found in the 
+Transantarctic Mountains, though the structural trend is different. The Ellsworth 
+Mountains have been gradually uplifted during the late Mesozoic and Cenozoic, owing 
+to tectonic activity between Greater and Lesser Antarctica (Doake 1987:174-178).
+
+17    Draft Initial Environmental Evaluation
+      Adventure Network International
+Patriot Hills is an isolated ridge in the Heritage Range of the Ellsworth Mountains. 
+The highest point on the ridge is 1250 m, trending WNW-ESE (Mellor and 
+Swithinbank 1989:37). Vinson Massif (4897 m), the highest peak in Antarctica, is 
+located in the Sentinel Range of the Ellsworth Mountains. The range is characterized 
+by mountain peaks projecting from ice and snow. No figure is available for the amount 
+of exposed rock in the Ellsworth Mountains.
+
+4.2.2 Glaciology
+The Ellsworth Mountains are bounded to the west by an ice sheet rising to 2000 m, and 
+to the east by Rutford Ice Stream and Ronne Ice Shelf. At its grounding line, Rutford 
+Ice Stream is up to 2000 m thick — the thickest floating ice in the world (Swithinbank 
+1988:119).
+
+The Patriot Hills runway is a natural blue-ice (glacial) ablation feature resulting from 
+wind erosion. Blue ice is solid glacier ice, typically hundreds of metres thick, resting on 
+bedrock in close proximity to mountains that project through the ice sheet (Mellor and 
+Swithinbank 1989:4-5). Patriot Hills, exposed above the surrounding ice, penetrate the 
+turbulent boundary layer for surface winds and are much higher than the top of the 
+turbulent diffusion layer which transports most of the wind-blown snow. The hills then 
+block the horizontal flow of blowing snow, inducing most of the deposition on the 
+upwind side and forming a turbulent wake on the downstream side. The wind strips 
+away any snow that might fall during calm weather. Snow accumulation is minimal 
+and the feature remains intact (Mellor and Swithinbank 1989).
+
+4.2.3 Climate
+Meteorological data for the summer was collected at the Patriot Hills camp from the 
+1992/93 (Table 7). There are no winter meteorological data. Summer temperatures 
+range from −14°C to −28°C, with the extreme maximum near 0°C. The prevailing wind 
+is 206° True (Mellor and Swithinbank 1989:37). Katabatic winds, caused by cold 
+(heavy) air flowing from the inland plateau towards lower-lying regions, are common 
+at the Patriot Hills camp. The mean summer wind speed is about 13 knots, which is 
+moderate compared with some coastal locations.
+
+4.3 Flora and Fauna
+The flora and fauna of the Ellsworth Mountains has not been surveyed, however, from 
+the published literature on continental biota it is possible to develop a generalized 
+description of the region. Typically, most continental biota are restricted to the coastal 
+region; inland nunataks and mountain ranges, such as Patriot Hills, have a limited 
+biota.
+
+It is likely that the region is representative of inland mountainous and glacially 
+landscaped areas. Continental biota of Antarctica contain a mixture of taxonomic 
+groups. There are no vascular plants, one species of hepatic, 30 species of moss and 125
+18    Draft Initial Environmental Evaluation
+      Adventure Network International
+Table 7: Weather Summary for Patriot Hills October 1992 to February 1993
+
+Parameter         October  November  December  January  February
+Temperature °C                                                                                      
+Average              -14.5      -15.5       -8.5       -6.0      -12.0
+Maximum (date)     -5.0 (17)   -6.0 (28)   -3.0 (18)   -1.0 (7)  -10.0 (2)
+Minimum (date)    -27.0 (17)  -23.0 (25)  -12.0 (6)  -15.0 (17)  -12.0 (8)
+Pressure mb                                                                                         
+Average               989.2       985.4       992.8     1002.8      994.0
+Maximum (date)     994.0 (31)  995.0 (28)  999.0 (16)  1017.0 (20)  996.0 (1)
+Minimum (date)     980.7 (17)  972.0 (13)  982.0 (11)   994.0 (16)  993.0 (8)
+Snowfall mm              -           -          20          10          -
+Wind                                                                                                
+Prevailing direction true  182°        205°        206°       183°       200°
+Average speed knots     14         18.5        14.8        10         10
+Maximum speed (date)  60 (21)      65 (6)     35 (11)     60 (25)    20 (7)
+Cloud cover                                                                                         
+Average                    4           4           3           5           1
+No. clear days            1           6           1           -           1
+No. partly cloudy days   6          15          11          15           1
+No. cloudy days           4           4           2           6           -
+No. days of visibility                                                             
+less than 0.4 km           1           4           3           4           -
+
+species of lichens (IUCN 1991:14). Certain crystalline rocks can contain endolithic
+bacteria, algae and fungi. The Ellsworth Mountains could contain some (or all) of
+these biota. It is not possible to conclude if unique or endangered flora or fauna exist
+as no baseline information exists.
+
+Bacteria and yeasts have been found on the polar ice sheet to 80° S (Kerry 1993:56).
+These organisms can reproduce slowly during brief periods of summer surface melt
+when sufficient nutrients are available. The microbial count is very low and away from
+camps and traverse routes the ice is virtually sterile. Snow algae can be found and often
+consist of red, green/yellow or grey patches of snow. Red patches are dominated by
+Chloromonas rubroleosa, the green by three new genera and the grey by Mesotaenium
+berggrenii (Kerry 1993:56).
+
+19    Draft Initial Environmental Evaluation
+      Adventure Network International
+Land and land-breeding fauna of continental Antarctica number 107 invertebrates 
+(except protozoa) including: 10 Nematoda; 78 Arthropoda; 49 Insecta; and 29 
+Arachnida. Mites (mostly Alaskozetes spp.) have been recorded to 85° S. It is likely 
+that some (or all) of these fauna are found in the region.
+
+Birds have not been reported at the Patriot Hills camp.
+
+The Dawson-Lambton Glacier emperor penguin colony is located on fast ice. This 
+coastal location does not have ice-free land near the area of operation, the nearest 
+exposure being the Theron Mountains 300 km to the south. The emperor penguin 
+colony was first recorded in 1986 (Hempel and Stonehouse 1987:227-30). Emperor 
+penguins breed on stable fast ice close to the coast where islands, icebergs, cliffs or 
+other features give some protection from the wind; eggs are laid in May-June and 
+hatch about 65 days later during July-August. The chicks are guarded throughout the 
+cold winter months, forming crèches in October. The chicks fledge during December.
+
+4.4 Wilderness and Aesthetic Values
+
+The Ellsworth Mountains are one of the most remote areas in the world and have seen 
+remarkably little human activity. In 1976 the region was considered as "being perhaps 
+the last extensive unexplored area on earth ..." (Swithinbank et al. 1976:295). Up until 
+1985 human activity has been infrequent, irregular and normally of short duration.
+
+Although the region has been mapped at a reconnaissance scale, there remain many 
+areas that have not yet had human visitors. Aesthetically, the region is characterized 
+by glaciated landscapes, isolated mountain ranges and extreme weather conditions. Its 
+wilderness and aesthetic value is comparable with other areas such as the 
+Transantarctic Mountains.
+
+4.5 Recreation and Tourism Values
+
+The Ellsworth Mountains provide unique Antarctic recreational and tourism 
+opportunities. The focus of mountaineering is Vinson Massif, the highest peak in 
+Antarctica. Many neighbouring peaks are unclimbed and new mountaineering routes 
+have been identified. The area provides opportunities for adventure travel by special 
+interest groups concerned with photography, bird observation, skiing and snowmobil-
+ing.
+
+4.6 Protected Areas
+
+ANI does not operate in any protected areas (Specially Protected Areas [SPA], Sites of 
+Special Scientific Interest [SSSI] and Historic Sites and Monuments [HSM], or 
+proposed Antarctic Specially Protected Areas or Antarctic Specially Managed Areas). 
+SPA 23 in the Pensacola Mountains is about 500 km from Patriot Hills. SPA 8, 19 and 
+21 and SSSI 9 and 29 are not affected by the Peninsula fuel caches. The Geographic 
+South Pole is listed as HSM 1 but this does not include the station or surrounding area.
+
+20    Draft Initial Environmental Evaluation
+      Adventure Network International
+5.0 Description of Methods and Data Used to Forecast the Impacts of Existing Activity
+5.1 Prediction, Data and Information
+
+Environmental impact assessment (in this case an IEE) involves impact prediction 
+(Beanlands and Duinker 1983). Prediction refers to changes from baseline conditions 
+as demonstrated by monitoring. Baseline activities should be directed to establishing 
+quantitative descriptions of selected environmental attributes prior to project 
+implementation. This baseline description has not been possible with this IEE as ANI 
+has operated at the Patriot Hills camp for eight years. The predictive effort of this 
+IEE is therefore directed to the extent to which attributes are likely to change from an 
+existing impacted environment. Predictions are made in Section 6.0 on the likely direct 
+environmental impact of ANI's operations.
+
+Previous research on past and existing environmental impact assessments provide 
+much useful data and information on assessment methods. Benninghoff and Bonner 
+(1985:42-51) have assessed activities that might be expected to have a significant 
+impact on the Antarctic environment. The Environmental Impact Statement for the 
+United States Antarctic Program (NSF 1981), the EIA for the oil salvage operation on 
+the Bahia Paraiso (Acero et al. 1992) and the Comprehensive Environmental 
+Evaluation (CEE) for stratigraphic drilling east of Cape Roberts, Southwest Ross 
+Sea (Keys 1992) all provide useful information on direct, indirect and cumulative 
+effects specific to the Antarctic environment. Section 6.0 utilizes and builds on this 
+information when assessing and forecasting environmental impacts for ANI's 
+operations.
+
+5.2 Methods
+
+The matrix methodology used by Keys (1992) cannot be used to assess ANI's impact 
+because of the paucity of baseline data for the region. An assessment was made in 
+January and February 1993 and the results are presented in Tables 8-11 for clarity. 
+Three impact categories are specified in Article 3 of Annex I of the Madrid Protocol. 
+The COMNAP (1992) definition of each category is adopted for this IEE.
+
+(1) Direct Effects Any first order effect, impact or consequence that may 
+be associated with an activity. For example, acute toxicity effects 
+(mortality) in marine birds, or in intertidal limpets, or in pelagic krill 
+caused by exposure to toxic constituents of petroleum products spilt at 
+sea.
+
+(2) Indirect and Second Order Effects Any second order effect, impact or 
+consequence that may be causally associated with an activity. For 
+example, particulate emissions from combustion leading to melting of 
+ice or snow that subsequently causes loss of ice or snow algae habitat.
+
+21    Draft Initial Environmental Evaluation
+      Adventure Network International
+(3) Cumulative Impacts Effects, impact, or consequences that may come from similar or varied sources, but that are additive, antagonistic or synergistic in their effect, impact or consequence. For example, disturbance to nesting skuas caused by existing scientific use and by a proposed use.
+
+Predicted effects from existing activities presented in Tables 8-11 consist of individual actions or components (impact activities or elements) of the proposal which are cross related to environmental components and factors. Each impact activity is subdivided into five categories: Extent (for extent or scale, based on an estimated percentage of environmental component or area affected); Duration (for duration or persistence of impacts); Intensity (for intensity, magnitude, severity or degree of impact or change); Probability (for likelihood of occurance of impact); and Significance (high, i.e., large or long term; medium, i.e., intermediate medium term; low, i.e., small or short term; and negligible, i.e., no measurable impact). No data is represented by -.
+
+6.0 Nature, Extent, Duration and Intensity of the Likely Direct Environmental Impacts of the Existing Activity
+Tables 8-11 identify the predicted effects of ANI's existing activities. The sections below interpret and summarize these effects with special attention to those greater than low or negligible levels.
+
+6.1 Patriot Hills Camp
+Table 8 documents the environmental impact of the Patriot Hills camp. The main impacts are associated with the snow hangar, fuel spills, camp sullage, wilderness and aesthetic values and impact on terrestrial flora and fauna. These impacts would occur during the medium term and confined to the Patriot Hills camp.
+
+The hangar represents a disturbed volume of about 400 m^(3). At a local scale it is considered to have a medium impact, but a negligible impact at a regional scale. In the event of decommissioning the camp it is likely that some wood and building materials would be permanently frozen in place and extremely difficult to remove. At a local scale this material would have a medium impact, whilst at a regional or continental scale it is negligible. From the surface there is no evidence of the snow hangar.
+
+Fuel spills in the local camp area, specifically from refuelling aircraft, snowmobiles and heaters would have a medium impact. Spills are confined to a very small area and the quantities are likely to be minimal. At a regional or continental scale the impact is considered to be negligible. The cumulative impact of fuel spillage in the camp area is unknown and a record of spillages should be instigated. The same general camp area should be used every season in order to localize the effects of fuel spills.
+
+22    Draft Initial Environmental Evaluation
+      Adventure Network International
+Table 8: Predicted Impacts of the Patriot Hills Camp
+
+ 
+                Activity/Element                   |                                      Impact                                      | Possible Mitigation
+Nature          Duration         Nature           Extent    Duration    Intensity    Probability    Significance    Yes/no    Description       
+                                                                                                                                                                   
+1   Ice hangar    long           disturbance of ice/snow    local    long        medium       definite       medium         yes       removal on de-
+                                                                                                                                                                    commissioning
+2   Fuel pumping  long           fuel spill                 local    short       medium       probable       medium         yes       use spill container
+                                                                                                                                                                    or absorbent mat
+3   Camp sullage  long           change ice/snow            local    long        medium       definite       medium         yes       install baffle-type 
+                           composition                                                                                                                    grease trap
+4   Operation of camp long      reduce wilderness value    local    long        medium       definite       medium         yes       concentrate camp 
+                                                                                                                                                                    area
+5   Access to ice-free long     potential introduction of  local               -           -        probable         -          yes       clean equipment, 
+            areas                      non-indigenous species                                                                                                    limit access
+6   Emissions     long           contamination             local    short       low          definite       low            no        
+7   Aircraft      long           reduce wilderness value    local    short       medium       probable       medium         no        
+    operation                                                                                                                                                   
+8   Snowmobile &  long           snow compaction           local    short       medium       definite       low            yes       concentrate 
+        sled use                                                                                                                                                    activity
+
+
+23    Draft Initial Environmental Evaluation
+      Adventure Network International
+Sullage disposed as grey water adds dissolved nutrients and suspended particles to the snow and ice and the impact is considered to have a medium impact in the local camp area. At a regional and continental scale the impact of the sullage is considered negligible. A baffle-type grease trap for oil and fat is recommended. The cumulative impact of sullage in the camp area cannot be predicted without further scientific study.
+
+Clients and staff have access to the ice-free areas adjacent to the camp. Little is known about the distribution and abundance of flora and fauna therefore this area should be subject to further scientific study. Foot wear, clothing and equipment should be cleaned before entering the area to reduce the likelihood of introducing non-indigenous organisms.
+
+While ANI maintains a minimum of on-ice operations, the remoteness, isolation and the primitive qualities of the region are impacted in the summer season. The presence of humans, associated infrastructure and transportation facilities are assessed to have a medium impact on the wilderness and aesthetics values at a local scale. At a regional and continental scale the impact is negligible.
+
+Atmospheric contamination is a consequence of ANI's operations. However, emissions (particularly CO, organics, NO    x    , particulates, SO    2    ) from the total operation are considered low at local, regional and continental scales. Aviation kerosene consumed in the Antarctic Treaty area during 1987/88 by 17 national operators totalled 20,000 tonnes (SCAR 1989:27). The total fuel consumed by ANI during the 1992/93 season was about 320,0001 (260 tonnes).
+
+ANI's policy of removing human and kitchen waste means that this impact is considered to be negligible. Some litter may be blown downwind and a weekly cleanup is made. The amount of litter lost is considered to have a low/negligible impact. Tracks in the snow left by aircraft, snowmobiles and sleds lead to changes in compaction of snow in the upper surfaces. These tracks are considered have a low impact at a local scale because of the amount of wind-blown snow and the small area compacted. Snow drifting patterns change in the summer as a result of ANI's activities but this is considered to have a negligible impact at a regional and continental scale.
+
+6.2 Vinson Massif Base Camp
+Table 9 documents the environmental impact of the Vinson Massif base camp. The main impacts are associated with kitchen sullage and wilderness and aesthetic values. Kitchen sullage from the base camp changes the composition of the snow and ice. At the local scale the impact is considered to have a low impact. At a regional and continental scale the impact of the sullage is considered negligible. Sullage on the mountaineering routes also has a localized impact and this is considered to be a low impact. As far as possible all solid and liquid human waste and kitchen waste is removed from Vinson Massif base camp and climb. Any human waste left on the climb
+24    Draft Initial Environmental Evaluation
+Adventure Network International
+Table 9: Predicted Impacts of the Vinson Massif Camp
+
+ 
+                 Activity/Element                   |                   Impact                          | Possible Mitigation
+ Nature          Duration         Nature           Extent    Duration   Intensity  Probability  Significance  Yes/no  Description      
+1 Camp sullage   long             change ice/snow   local     medium     low        definite     low           yes     install baffle-type
+                                                   composition                                                        grease trap
+2 Operation of   long             reduce wilderness local     medium     low        definite     medium        yes     concentrate camp 
+                  camp             value                                                              area
+3 Waste generation long           change ice/snow   local     short      low        definite     negligible    yes     remove all waste
+                                                   composition                                                        
+4 Snow cave      long             disturbance of    local     medium     low        definite     low           yes     removal on de-
+                                                   ice/snow                                                           commissioning
+
+25                                                  Draft Initial Environmental Evaluation
+                                                    Adventure Network International
+is considered to have a low impact at a local and regional scale. The cumulative impact 
+of sullage and human waste in the camp area and on the routes cannot be assessed 
+until further scientific study is undertaken.
+
+The summer presence of Vinson Massif camp is seen to have a medium environmental 
+impact on the wilderness and aesthetic values at a local scale. The remoteness, isolation 
+and the primitive qualities of the region are impacted by humans, aircraft, and noise 
+and associated infrastructure. At a regional and continental scale the camp has a 
+negligible impact.
+
+A cache containing equipment and emergency supplies is considered to have a low 
+impact at a local scale. The snow cave has a volume of about 15 m^(3) and is not visible 
+from the surrounding snow and ice landscape.
+
+6.3 South Pole
+Table 10 documents the environmental impact at the South Pole. No interaction 
+points are assessed as having more than a low or negligible impact.
+
+The presence of humans, infrastructure and transportation at the US Amundsen-Scott 
+station has impacted wilderness and aesthetic values at a local and regional scale. 
+ANI's operations are considered to have a low impact. The ANI emergency cache 
+containing fuel, food, tent and cooking utensils is inspected annually and is considered 
+to have a low impact on a local scale.
+
+6.4 Dawson-Lambton Glacier Emperor Penguin Colony
+Table 11 documents the environmental impact of ANI's operations at the Dawson-
+Lambton Glacier emperor penguin colony. The most significant impacts are associated 
+with a reduction of wilderness and aesthetic values, disturbance of breeding and the 
+potential introduction of non-indigenous species.
+
+The presence of humans, aircraft and associated noise is considered to have a medium 
+impact on the wilderness and aesthetic values at a local scale.
+
+The impact on the emperor penguins is considered low. In two summer seasons 36 
+clients and staff have visited the colony. A minimum overflight and landing distance of 
+600 m is applied and clients conform to IAATO Guidelines. The potential introduction 
+of non-indigenous organisms is considered to be a threat. Specific recommendations 
+are included in Section 12.0.
+
+6.5 Fuel Caches
+Incidental fuel spills at the Peninsula fuel caches are considered to represent a low 
+environmental impact at a local scale. At a regional and continental scale this impact is 
+considered to be negligible.
+
+26        Draft Initial Environmental Evaluation
+          Adventure Network International
+Table 10: Predicted Impacts of Visits to the South Pole
+
+Activity/Element                  Impact                                      Possible Mitigation
+Nature              Duration     Nature                  Extent Duration Intensity Probability Significance Yes/no Description
+1 Operation of visit long         reduce wilderness value local   short   low     definite    negligible  yes      concentrate
+                                                                                                                  activity
+2 Waste generation  long         change ice/snow         local   short   low     definite    negligible  yes      remove all waste
+                                                 composition                                                        
+Table 11: Predicted Impacts of Visits to the Dawson-Lambton Emperor Penguin Colony
+
+Activity/Element                  Impact                                      Possible Mitigation
+Nature              Duration     Nature                  Extent Duration Intensity Probability Significance Yes/no Description
+1 Operation of visit long         reduce wilderness value local   short   low     definite    low         yes      concentrate camp
+                                                                                                                  activity
+2 Access to colony  long         potential introduction  local   -       -       probable    low         yes      restrict poultry
+                                                 of non-indigenous species                                              products
+3 Waste generation  long         change ice/snow         local   short   low     definite    negligible  yes      remove all waste
+                                                 composition                                                        
+27    Draft Initial Environmental Evaluation
+      Adventure Network International
+7.0 Alternatives
+
+Reasonable alternatives to ANI's existing operations are presented below in concert 
+with an analysis of the environmental impacts associated with each alternative.
+
+The first option is to discontinue ANI's operation (i.e., the no action alternative). ANI 
+have unique expertise in providing logistic support over eight years. The company 
+brings a measure of monitoring, control and accountability to the commercial sector. 
+In the absence of ANI, expeditions would still visit the Antarctic, in some cases 
+without any form of prior notification or environmental assessment. By focussing 
+expeditions on Patriot Hills, ANI reduces the potential for impacting a far wider range 
+of destinations. For these reasons the option of discontinuing ANI's operations is 
+rejected.
+
+The second option is to concentrate all operations and visitor activity at the Patriot 
+Hills camp. The advantage would be a reduction of associated environmental impact 
+at the South Pole, Vinson Massif, the Dawson-Lambton Glacier emperor penguin 
+colony and from expeditions. Limiting ANI operations to Patriot Hills would have a 
+similar effect as the first option; expeditions would still have access into Antarctica but 
+would not be monitored once they had left the ANI site. The concentration of 
+operational activity at the Patriot Hills camp is not considered a viable option.
+
+The third option is to provide a permanent facility at the Patriot Hills camp. The 
+advantage would be the increased comfort for clients and staff and operational 
+continuity. The disadvantage of this alternative is that operational flexibility is 
+decreased, the cost of such a structure would be large and the construction and 
+maintenance required would increase the environmental impact at the local and 
+regional scale. A permanent facility would significantly reduce the wilderness and 
+aesthetic values of the region. The environmental impacts are considered too high, 
+therefore this alternative has been dismissed.
+
+The fourth option is to shift ANI's operations to a different Antarctic location. A site 
+closer to the coast would have the advantage of reducing aircraft flying time from 
+Chile, possibly working in conjunction with existing seaborne tourism. The major 
+disadvantage would be the relocation of Patriot Hills camp closer to the coast and in 
+an area of greater environmental sensitivity. Building an ice-free airstrip to service 
+ANI's operations is not considered environmentally acceptable.
+
+8.0 Mitigation Measures
+
+ANI undertakes the following:
+
+    8.1 The kitchen tent at the Patriot Hills camp is relocated each season within 
+the 100 m limit of the camp area. While the cumulative impact associated 
+with liquid waste is diffused, all sullage remains within a localized area.
+
+28
+Draft Initial Environmental Evaluation
+Adventure Network International
+8.2  Litter monitoring at Patriot Hills camp and Vinson Massif base camp is 
+     routinely carried out.
+
+8.3  Mountaineers must agree to remove all waste from Vinson Massif.
+
+8.4  Prior to arrival in Antarctica, ANI clients, expeditions and staff are briefed 
+     on ANI environmental policy and receive IAATO Guidelines or Conduct 
+     for Antarctica Visitors; US Antarctic Conservation Act of 1978; and 
+     COMNAP Visitors Guide to the Antarctic.
+
+8.5  Waste management procedures, as detailed in Section 2.3.2, are enforced 
+     for all sites.
+
+8.6  Oil spills are minimised by using aviation diapers.
+
+9.0  Monitoring
+     ANI undertake some monitoring of their activities. Additional procedures should be 
+     included to provide data and information for a safe commercial operation and to 
+     avoid or minimize environmental impacts. Monitoring should include the following:
+
+9.1  Record occurrences and effects of accidental fuel spills of more than 251 
+     from aircraft, snowmobiles and stoves.
+
+9.2  Maintain the existing log for fuel drums.
+
+9.3  Continue inspection of fuel caches for leakage and damage.
+
+9.4  Record the location of kitchen sullage outflow.
+
+9.5  Continue inspection for downwind litter at all sites.
+
+9.6  Monitor access to ice-free areas close to the Patriot Hills camp.
+
+10.0 Audit Arrangements
+     Audit arrangements include post-implementation evaluation of the accuracy of the 
+     assessment and appropriate response to the results of monitoring activities. ANI will 
+     be responsible for both the accuracy of the assessment and the monitoring activities.
+
+29    Draft Initial Environmental Evaluation 
+      Adventure Network International
+11.0 Conclusion
+It is the view of Poles Apart that ANI's operations represent no more than a minor or 
+transitory impact on the Antarctic environment. With attention to Section 12.0 and 
+the establishment of an environmental monitoring program, environmental impact 
+should remain minor or transitory. This IEE refers to activities in the 1992/93 season. 
+Further assessment is recommended if the Patriot Hills camp is expanded to 
+accommodate over 100 persons and if the focus of ANI's operations changes from the 
+Patriot Hills camp.
+
+12.0 Recommendations
+While ANI's operations are assessed as having no more than a minor or transitory 
+impact on the Antarctic environment there are individual considerations that would 
+improve the environmental effect of operations. These are:
+
+12.1 ANI's Emergency Procedures Manual should include a contingency plan 
+for fuel spills. The plan should aim at: preventing the spread of 
+hydrocarbons; containment; cleanup; and reporting arrangements.
+
+12.2 In the event of ANI decommissioning Patriot Hills camp all food, shelter, 
+equipment, transportation and building material, including the internal 
+structure of the snow hangar should be removed.
+
+12.3 A baffle-type grease trap for oil and fat should be installed for kitchen 
+sullage with a redesigned mesh system for removing kitchen solids.
+
+12.4 A formalized system of accounting should be implemented for person days 
+and waste removed (volume and type) in the manifest system. Person days, 
+waste generated and monitoring results should be published.
+
+12.5 A waste management plan should be prepared.
+
+12.6 Overflight of emperor penguin colonies should be avoided wherever 
+possible. Landing distance from the colony should be extended from 600 m 
+to 2 km for landing and from 600 m to 1000 m for taxiing.
+
+12.7 Absorbent mats or spill containers should be used for all refuelling 
+operations wherever practical.
+
+12.8 Staff training to include information on the Antarctic Treaty System and 
+the Madrid Protocol.
+
+12.9 Footwear, clothing and equipment should be cleaned before entering the
+30    Draft Initial Environmental Evaluation
+      Adventure Network International
+ice-free areas adjacent to the Patriot Hills camp where there is a likelihood 
+of introducing non-indigenous organisms.
+
+12.10 All poultry products (chicken, eggs, egg powder) should be prohibited on 
+emperor penguin colony visits.
+
+12.11 A scientific survey of the ice-free area adjacent to the Patriot Hill camp 
+should be instigated.
+
+12.11 a waste management plan should be prepared.
+
+ 
+31     Draft Initial Environmental Evaluation 
+       Adventure Network International
+13.0 References
+    Acero, J.M., Agraz, J.L., Aguirre, C. A., Marschoff, E.R. and Coosen, J. 1992. Environmental Impact Assessment associated with the salvage operation of the remaining oil of the Bahia Paraiso. Instituto Antartico Argentino, Argentina and Rijkswaterstaat - Tidal Waters Division, The Netherlands.
+    Antarctic Treaty Consultative Parties (cited as ATCP) 1992. Protocol on Environmental Protection to the Antarctic Treaty - Final Report of the Eleventh Antarctic Treaty Special Consultative Meeting, Madrid 22-30 April 1991; 17-22 June 1991; 3-4 October 1991. Madrid: Ministerio de Asuntos Exteriores.
+    Beanlands, G.E. and Duinker, P.N. 1983. An Ecological Framework for Environmental Impact Assessment in Canada, Federal Environmental Assessment Review Office, Ottawa, Canada.
+    Benninghoff, W.S. and Bonner, W.N. 1985. Man's Impact on the Antarctic Environment, Scientific Committee on Antarctic Research and International Council of Scientific Unions, Cambridge, 56p.
+    Committee of Managers of National Antarctic Programmes and Scientific Committee on Antarctic Research (cited as COMNAP) 1992. The Antarctic Environmental Process: Practical Guidelines. SCAR, Cambridge, 14p.
+    Doake, C.S.M. 1987. Keystone to Gondwana, Chapter 13, In: Walton, D.W.H. (ed), Antarctic Science, Cambridge University Press, Cambridge, UK.
+    Hemple and Stonehouse, B. 1987. Aerial counts of penguins, seals and whales in the eastern Weddell Sea. In: The winter-expedition of RV "Polarstern" to the Antarctic (ANT V/1-3). Rep. Polar. Res 39:277-30.
+    International Union for Conservation of Nature and Natural Resources (IUCN) 1991. A Strategy for Antarctic Conservation. Gland, Switzerland.
+    Kerry, K. 1993. Antarctic fauna and flora: conservation issues; pp. 53-74, In: Towards a Conservation Strategy for the Australian Antarctic Territory, Handmer, J. and Wilder, M. (eds), Centre for Resource and Environmental Studies, Australian National University, Canberra, Australia.
+    Keys, J.R. 1992. Draft Comprehensive Environmental Evaluation. Antarctic Stratigraphic Drilling East of Cape Roberts in Southwest Ross Sea, Antarctica. Department of Conservation, Turangi, New Zealand, 93p.
+    Mellor, M and Swithinbank, C.W.M. 1989. Airfields on Antarctic Glacier Ice. Cold Regions Research and Engineering Laboratory, US Army Corp of Engineers, Hanover, USA.
+    National Science Foundation (cited as NSF) 1981. US Antarctic Program, Final Environmental Impact Statement, Washington, D.C.
+    Scientific Committee on Antarctic Research (cited as SCAR) 1985. Conservation areas in the Antarctic, Cambridge, UK SCAR.
+    Scientific Committee on Antarctic Research (cited as SCAR) 1989. Waste Disposal in the Antarctic. Report of the SCAR Panel of Experts on Waste Disposal. Australian Antarctic Division, Kingston, Australia.
+    Swithinbank, C.W.M., Doake, C.S.M., Wager, A. and Crabtree, R.D. 1976. Major change in the map of Antarctica. Polar Record, 18 (114): 295-308.
+    Swithinbank, C.W.M. 1988. Satellite image atlas of glaciers of the world: Antarctica. US Geological Survey Professional Paper 1386B.
+    Swithinbank, C.W.M. 1993. Airborne tourism in the Antarctic. Polar Record, 29 (169):103-110.
+    Swithinbank, C.W.M. 1993. personal communication. Punta Arenas, Chile.
+
+Appendix I
+The following documents are available from ANI:
+    •   Adventure Network International, 1993. Information package.
+    •   ANI policy statement.
+    •   ANI/IAATO one page statement.
+    •   IAATO Guidelines for Aircraft and Land-based Private Sector Travel to and within the Antarctic Interior.
+    •   IAATO Guidelines of Conduct for Antarctica Tour Operators.
+    •   IAATO Guideline of Conduct for Antarctica Visitors.
+    •   Vinson Massif contract for mountaineering parties.
+
+32    Draft Initial Environmental Evaluation
+      Adventure Network International
+20th March 1994
+
+Adventure Network International, accepts this draft Initial 
+Environmental Evaluation as an accurate assessment of our land 
+based operations within Antarctica.
+
+Considering the list of recommendations suggested by Poles Apart, 
+consultants, it should be made known that during the 1993/94 
+season, Adventure Network International implemented the following:
+
+12.3     A baffle type grease trap for oil or fat should be 
+installed for kitchen sullage with a redesigned mesh 
+system for removing kitchen solids.
+
+12.4     A formalised system of accounting should be implemented 
+for person days and waste removed(volume and type) in the 
+manifest system. Person days and waste generated 
+should be published.
+
+12.7     Absorbent mats or spill containers should be used for all 
+refuelling operations wherever possible.
+
+12.10   All poultry products (chicken,eggs,egg powder) should be 
+prohibited on emperor penguin colony visits.
+
+The remaining recommendations will be applied over future seasons 
+where practicable.
+
+Adventure Network International • U.S. Sales Agent: Quark Expeditions Inc.
+980 Post Road. Darien, CT. 06820 USA • Telephone: (203) 655-4848. Fax: (203) 656-2423

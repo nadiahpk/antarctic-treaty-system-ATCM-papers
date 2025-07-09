@@ -1,0 +1,127 @@
+﻿
+
+
+
+
+
+Antarctic Conservation Biogeographic Regions
+
+
+
+
+
+
+
+
+Antarctic Conservation Biogeographic Regions
+Working Paper submitted by Australia, New Zealand and SCAR
+Summary
+This paper presents the results of recent analyses of the relationships between the best available Antarctic terrestrial biodiversity data, the Environmental Domains adopted under Resolution 3 (2008), and relevant other spatial frameworks. The analyses identified 15 biologically distinct ice-free regions encompassing the Antarctic continent and close-lying islands within the Antarctic Treaty area. Among other potential applications, Australia, New Zealand and SCAR recommend that the Committee endorses the classification represented by these Antarctic Conservation Biogeographic Regions as a dynamic model for identifying Antarctic Specially Protected Areas within a systematic environmental-geographic framework, and as a basis for managing the risk of transfer of species between locations in Antarctica. A draft Resolution is provided for consideration by the Committee.
+Background
+Article 3.2 of Annex V to the Protocol on Environmental Protection to the Antarctic Treaty states that ‘Parties shall seek to identify, within a systematic environmental-geographic framework, and to include in the series of Antarctic Specially Protected Areas’ (ASPAs), areas with specified characteristics and values.  Following many years of work led by New Zealand1, ATCM XXXI (2008) adopted Resolution 3 (2008), which recommended that:
+‘the “Environmental Domains Analysis for the Antarctic Continent” annexed to this Resolution, be used consistently and in conjunction with other tools agreed within the Antarctic Treaty System as a dynamic model for the identification of areas that could be designated as Antarctic Specially Protected Areas within the systematic environmental-geographical framework referred to in Article 3(2) of Annex V of the Protocol’
+The Environmental Domains Analysis (EDA) is a classification of the Antarctic continent into 21 distinctive regions, based on eight spatially explicit data layers that describe abiotic aspects of the Antarctic environment (e.g. air temperature, wind speed, solar radiation, slope, land cover geology). In ATCM XXXI/WP27 New Zealand indicated that the classification represented the best that could be achieved using currently available abiotic data, and noted that assessing the potential fit of continental-scale biological data, as proposed by SCAR at CEP X (2007)2, would add depth to the framework or reveal other ways it may be applied.
+At CEP XIII (2010) SCAR presented ATCM XXXIII/WP3, which provided a preliminary assessment of the extent to which the EDA corresponds with patterns in spatially explicit biodiversity data available in the SCAR Biodiversity Database3 maintained by the Australian Antarctic Division. SCAR concluded that, at a coarse resolution, the ice-free Environmental Domains identified in the EDA do reflect differences between biotic assemblages, and can be considered a useful first order assessment of likely systematic variation in biodiversity. It also concluded that it would be necessary to supplement the EDA with biodiversity data to enable meaningful analyses at the finer spatial scales typically used for protected area design.
+The CEP five-year work plan promotes action on several issues for which a better understanding of the spatial distribution of Antarctic terrestrial biodiversity will be valuable. These include, but are not limited to: introduction of non-native species; biodiversity knowledge; and overview of the protected areas system.
+Antarctic Conservation Biogeographic Regions
+Since CEP XIII Australia has worked in collaboration with SCAR to build on the assessment presented in ATCM XXXIII/WP3, using the best available data on the distribution of biodiversity to identify biologically distinct regions of Antarctica. A full description of the methods employed is provided in Terauds et al. (2012)4. In summary, the work involved:
+    • reviewing and summarising published biogeographic studies of the Antarctic;
+    • reviewing the most comprehensive source of Antarctic terrestrial biodiversity data (the SCAR Biodiversity Database), correcting the records5 in 12 major data collections for spatial and taxonomic accuracy, and using geographic information system (GIS) software to convert these datasets into separate spatial layers;
+    • using multivariate techniques to combine these 12 spatial layers with three spatial frameworks:
+    • a grid of 200 km x 200 km squares overlaid on those parts of Antarctica containing ice-free areas;
+    • the nine ice-free Environmental Domains (of the total of 21) identified in the classification adopted under Resolution 3 (2008); and
+    • the 22 regions of Antarctica identified as biologically distinct by experts in the SCAR Regional Sensitivity to Climate Change (RiSCC) Program, and which overlap with the nine ice-free Environmental Domains (presented in ATCM XXXIII/WP3).
+These analyses generated a classification of the Antarctic continent and close-lying islands within the Antarctic Treaty area comprising 15 biologically distinct, ice-free regions, or Antarctic Conservation Biogeographic Regions – see the figure presented in the Annex to Attachment A. The spatial data layer representing the regions is publicly available for download from the Australian Antarctic Data Centre: http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3420.
+The Antarctic Conservation Biogeographic Regions represent the best classification based on currently available spatially explicit biodiversity data. Improvements to the classification will depend on the further collection and/or submission to appropriate databases of such data, including in under-studied regions; this type of action was encouraged by CEP XIII, following consideration of SCAR’s ATCM XXXIII/WP3 (CEP XIII Final Report, para 273), and was also encouraged in Recommendation 20 from the Climate Change ATME. 
+Application of the Antarctic Conservation Biogeographic Regions
+The Antarctic Conservation Biogeographic Regions provide a basis for managing large-scale areas of distinct conservation significance, with a wide range of potential applications. 
+Assessment and further development of the Antarctic protected areas system
+The CEP has regularly expressed its desire to move towards a more systematic and holistic approach to the further development of the Antarctic protected areas system. The Antarctic Conservation Biogeographic Regions represent a further dynamic model for the identification of areas that could be designated as ASPAs within the systematic environmental-geographic framework referred to in Article 3.2 of Annex V of the Protocol.
+Preventing the intra-continental transfer of non-native species
+The CEP has agreed that the objective for Parties’ actions to address risks posed by non-native species should include preventing ‘the movement of species within Antarctica from one biogeographic zone to any other’ (see Non-Native Species Manual adopted under Resolution 6 (2011)). Through its work to develop the Non-Native Species Manual, the CEP has also identified the need to improve understanding of biogeographic zones and regions / activities / vectors / pathways of highest risk for the transfer of species. The Antarctic Conservation Biogeographic Regions represent the best available basis for developing measures to prevent the transfer of species between biologically distinct ice-free areas.
+Other applications
+As is the case with the EDA, the Antarctic Conservation Biogeographic Regions can support a wide range of other activities relevant to the interests of the Parties and the CEP, including, but not limited to:
+    • informing the environmental impact assessment of proposed activities (e.g. identifying preferred transport options and mitigation measures to minimise the risk of transfer of species between biogeographic regions);
+    • identifying gaps in knowledge and prioritising research and monitoring activities (e.g. seeking more comprehensive scientific understanding of those parts of Antarctica which are under-represented by records in the Antarctic Biodiversity Database); 
+    • collating information on Antarctic environments (e.g. specific reports on biologically distinct regions of Antarctica); and
+    • informing the development of environmental management tools that take account of regional variation within the Antarctic Treaty area (see Recommendation 19 from the Antarctic Treaty Meeting of Experts (ATME) on Climate Change and Implications for Antarctic Management and Governance).
+Recommendations
+Australia, New Zealand and SCAR recommend that the Committee:
+    1) agrees that the Antarctic Conservation Biogeographic Regions should be used consistently and in conjunction with other tools agreed within the Antarctic Treaty system as a dynamic model for the identification of areas that could be designated as Antarctic Specially Protected Areas within the systematic environmental-geographic framework referred to in Article 3(2) of Annex V of the Protocol. A draft Resolution is presented at Attachment A
+    2) requests the Antarctic Treaty Secretariat to make the spatial data layer representing the Antarctic Conservation Biogeographic Regions available via its website;
+    3) reiterates its agreement that Members should encourage the further collection and timely submission of spatially explicit biological data; and
+    4) recognises the relevance of the Antarctic Conservation Biogeographic Regions to its work to address non-native species risks, particularly the risk of transfer of species between locations in Antarctica;
+    5) agrees to incorporate the attached ‘Map of Antarctica showing the 15 Antarctic Conservation Biogeographic Regions’ into the CEP Non-Native Species Manual, and identifies opportunities to utilise the Antarctic Conservation Biogeographic Regions to manage non-native species risks.
+Attachment A
+Draft Resolution XX
+Antarctic Conservation Biogeographic Regions
+
+The Representatives,
+
+Recalling Article 3 of Annex V to the Protocol on Environmental Protection to the Antarctic Treaty which provides for the designation of Antarctic Specially Protected Areas;
+Recalling further that Article 3.2 of Annex V states that Parties shall seek to identify such areas within a systematic environmental-geographic framework;
+Recalling also that Resolution 3 (2008) recommended that the ‘Environmental Domains Analysis of the Antarctic Continent’ annexed to that Resolution be used consistently and in conjunction with other tools agreed within the Antarctic Treaty system as a dynamic model for the identification of areas that could be designated as Antarctic Specially Protected Areas within the systematic environmental-geographical framework referred to in Article 3(2) of Annex V of the Protocol;
+Welcoming the classification of the ice-free areas of Antarctic continent and close lying islands within the Antarctic Treaty area into 15 biologically distinct Antarctic Conservation Biogeographic Regions, based on analyses of spatially explicit biodiversity data available from Scientific Committee on Antarctic Research (SCAR) Biodiversity Database;  
+
+Recommend that:
+the Antarctic Conservation Biogeographic Regions annexed to this Resolution be used in conjunction with the Environmental Domains Analysis and other tools agreed within the Antarctic Treaty system to support activities relevant to the interests of the Parties, including as a dynamic model for the identification of areas that could be designated as Antarctic Specially Protected Areas within the systematic environmental-geographic framework referred to in Article 3.2 of Annex V to the Environmental Protocol.
+Annex: Antarctic Conservation Biogeographic Regions
+
+The use of quantitative analyses to combine spatially explicit Antarctic terrestrial biodiversity data with other relevant spatial frameworks (a grid of 200 km x 200 km squares, the nine ice-free domains identified in the Environmental Domains Analysis for the Antarctic continent, and 22 bioregions identified by the SCAR SCAR Regional Sensitivity to Climate Change (RiSCC) Program) has identified 15 biologically distinct ice-free regions encompassing the Antarctic continent and close-lying islands within the Antarctic Treaty area (see Table 1). A full description of the methods employed is presented in Terauds et al. (2012). The Antarctic Conservation Biogeographic Regions illustrated in Figure 1 represent the best classification of Antarctic terrestrial biodiversity based on data currently available from the SCAR Biodiversity Database.
+The spatial data layer representing the regions is publicly available for download from the Australian Antarctic Data Centre: http://data.aad.gov.au/aadc/portal/download_file.cfm?file_id=3420.
+Reference
+Terauds, A., Chown, S., Morgan, F., Peat, H., Watts, D., Keys, H., Convey, P. & Bergstrom, D. (2012) Conservation biogeography of the Antarctic. Diversity and Distributions, 22 May 2012, DOI: 10.1111/j.1472-4642.2012.00925.x.
+
+Table 1 – Descriptions of Antarctic Conservation Biogeographic Regions
+Region
+Name
+Area (km2)
+1 
+North-east Antarctic Peninsula
+1142
+2 
+South Orkney Islands
+148
+3 
+North-west Antarctic Peninsula
+5081
+4 
+Central south Antarctic Peninsula
+4959
+5 
+Enderby Land
+2152
+6 
+Dronning Maud Land
+5502
+7 
+East Antarctica
+1360
+8 
+North Victoria Land
+9522
+9 
+South Victoria Land
+10368
+10 
+Transantarctic Mountains
+19347
+11 
+Ellsworth Mountains
+2965
+12 
+Marie Byrd Land
+1158
+13 
+Adelie Land
+178
+14 
+Ellsworth Land
+220
+15 
+South Antarctic Peninsula
+2990
+
+Figure 1 – Map of Antarctica showing the 15 Antarctic Conservation Biogeographic Regions
+
+Source: Terauds et al. (2012)

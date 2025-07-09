@@ -1,0 +1,38 @@
+﻿
+
+
+
+
+
+Operación de UAV/RPAS en la Antártida: Normativa aplicada por España
+
+
+
+
+
+Operación de UAV/RPAS en la Antártida: Normativa aplicada por España
+Documento informativo presentado por España
+Resumen
+Este documento presenta la normativa desarrollada por el Comité Polar Español para regular el uso de vehículos aéreos no tripulados (UAV-Unmanaged Aereal Vehicles) o RPAS (Remotely Piloted Aircraft Systems) en trabajos científicos y técnicos durante la campaña antártica española. La normativa está basada en el marco regulatorio español existente y las primeras consideraciones sobre el uso de UAV recogidas por COMNAP. 
+Antecedentes
+El uso de UAV en la Antártida es un tema de creciente interés en las Reuniones Consultivas del Tratado Antártico (RCTA) y Comité de Protección Ambiental. El CPA ya puso de relevancia los impactos ambientales que podrían ocasionarse debido al uso de UAV, habida cuenta del importante aumento experimentado de su uso en la Antártida (Informe Final XXXVII RCTA, párrafo 114). Por ello, el Comité solicitó a SCAR y COMNAP que trabajasen en informes sobre los beneficios y los riesgos de la operación de UAV en la Antártida; a IAATO sobre su experiencia y actuales prácticas relacionadas con el uso de UAV y a las Partes, documentos adicionales relativos a las experiencias en esta materia. El uso de UAV se incluyó también en el Plan de Trabajo quinquenal del CPA (XXXVII RCTA, párrafo 115).
+En la XXVIII RCTA SCAR, COMNAP e IAATO presentaron respectivamente los documentos WP 27 Distancias de aproximación a la vida silvestre en la Antártida, WP 22 Uso de UAV en la Antártida: riesgos y beneficios, IP 88 Policies on the use of unmanned aerial vehicles (UAVs) in Antartctica. En relación al tema también se presentaron los XXXVIII IP 82 e IP 83. Finalmente, la Reunión expresó su respaldo general al uso de UAV, reconociéndolos como una importante herramienta para el futuro” (Informe Final XXXVIII, párrafo 185).
+Basado en lo anterior y en la legislación nacional existente, el Comité Polar Español decidió elaborar un protocolo para la operación de aeronaves pilotadas por control remoto (RPAS) y automatizadas (UAV) para su uso en la Antártida, el protocolo entró en vigor en la pasada campaña antártica 2015-2016. 
+Normativa para el uso de UAV/RPAS
+Sólo se autorizará la utilización de UAV/RPAS en la Antártida para:
+    • Actividades de investigación y desarrollo
+    • Levantamientos aéreos
+    • Observación y vigilancia en operaciones de emergencia, búsqueda y salvamento
+Para la operación de un UAV/RPAS durante la campaña antártica española se requiere estar habilitado como Operador de UAV/RPAS < 25 Kg para trabajos técnicos o científicos por la Agencia Estatal de Seguridad Aérea, organismo competente en seguridad aérea.
+En las actividades en la zona del Tratado se considera preferible la utilización de RPAS que la de los UAV totalmente automatizados, este tipo de vuelos deben tener la posibilidad de ser pasados a manual o un modo de vuelta a casa en caso de emergencia o fallos en el control.
+La planificación y aprobación de estos vuelos debe hacerse con anterioridad a la llegada del piloto y equipo a la zona del Tratado. 
+Las operaciones con UAV/RPAS se harán de día y en condiciones meteorológicas de vuelo visual (VMC), en espacio aéreo no controlado, dentro del alcance visual del piloto, a una distancia de éste no mayor de 500 m. y a una altura sobre el terreno no mayor de 400 pies (es decir, como máximo 120 m. sobre el terreno).
+Como medida general, se evitará la operación de UAV/RPAS cerca de concentraciones de aves pero en caso de su operación se seguirá en todo momento lo indicado en la Resolución 2 (2004) “Directrices para la operación de aeronaves cerca de concentraciones de aves en la Antártida.
+Antes de iniciar la operación del UAV/RPAS, el piloto contará con la aprobación del responsable de la instalación desde la que se opere (comandante o capitán de buque o jefe de la base), quien tendrá en cuenta el área de operación y su posible interferencia con otras aeronaves, infraestructuras o actividades similares llevadas a cabo por otros operadores de UAV/RPAS. 
+La aprobación por el Comité Polar Español se basara en el estudio de un plan de operaciones que describa la actividad, las capacidades de los UAV/RPAS que vayan a utilizarse, los procedimientos planeados para resolver cualquier emergencia que pudiera presentarse durante la operación, la selección de sitios adecuados para el despegue y aterrizaje, las frecuencias de control durante las operaciones para evitar interferencias, los procedimientos para evitar daños a personas, animales y cosas, daños medioambientales, planes de recuperación y contingencia y cualquier otra previsión que por las circunstancias de la operación fueran exigibles a criterio del responsable de la instalación desde la que se opere.
+Todas las operaciones con UAV/RPAS sólo comenzarán después de haber establecido contacto por radio con las zonas de despegue y aterrizaje de aeronaves locales para informar sobre el vuelo y recibir información sobre otras posibles actividades de UAV/RPAS en la misma área.
+El piloto debe comprobar las condiciones meteorológicas previstas para el momento del vuelo. No se llevarán a cabo operaciones con UAV/RPAS durante periodos de mal tiempo o con previsión de deterioro del mismo. 
+El piloto debe comprobar el estado de las baterías considerando su pérdida de capacidad a bajas temperaturas. Se recomienda el uso de batería nuevas para evitar la introducción de especies no nativas en la Antártida.
+En caso de emergencia se notificara inmediatamente la situación al responsable de la instalación desde la que se está operando para la acción que considere.
+El piloto será el responsable de las operaciones con UAV/RPAS y será capaz de detectar y evitar posibles colisiones y otros peligros.
+

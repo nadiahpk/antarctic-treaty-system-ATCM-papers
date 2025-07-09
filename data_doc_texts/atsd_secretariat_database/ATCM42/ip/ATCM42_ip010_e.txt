@@ -1,0 +1,152 @@
+﻿
+
+
+
+
+
+An update to the state of knowledge of wildlife responses to unmanned aerial vehicles
+
+
+
+
+
+
+
+
+
+An update to the state of knowledge of wildlife responses to unmanned aerial vehicles
+
+Information Paper submitted by Germany, Portugal, Spain, SCAR
+Summary
+Following the SCAR workshop “Drones and Antarctic Biology” held at the SCAR Biology Symposium in Leuven on 09 July 2017, a scientific publication was compiled to provide details on the key outcomes and recommendations (Mustafa et al. 2018). This publication summarizes recent research and the expert opinions of workshop participants, with the aim of supporting Antarctic conservation policy discussions and informing forthcoming research. It encapsulates and updates the current knowledge on the impact of Remotely Piloted Aircraft Systems (RPAS)1 on Antarctic wildlife. In the publication the authors note that, although there was general consensus by the SCAR Action Group (AG) in some discussions, results that could inform minimum recommended flight distances were variable and sometimes contradictory due to a variety of factors (e.g., RPAS size, local site factors, weather, species composition) and limited existing data. Nevertheless, the authors were able to propose a set of minimum vertical operating altitudes for consideration during further development of guidelines for RPAS in the Antarctic, which should be updated regularly with the results of new scientific studies.
+Introduction
+The use of Remotely Piloted Aircraft Systems (RPAS) has grown rapidly, including in Antarctica. RPAS offer new capabilities for deployment of sensors for a wide range of applications, including for science, logistics, education, reportage and recreation. The extreme cold temperatures, the persistent and often strong winds, and rugged and sometimes dangerous terrain encountered in Antarctica present increased risks (e.g. unanticipated events, system failures, unplanned landings and/ or aircraft loss) in the operation of RPAS. Moreover, Antarctica is relatively pristine, and particularly in coastal areas supports large colonies and aggregations of wildlife. These colonies and aggregations are prone to disturbance, especially if individuals or parts of the colony / aggregation become separated. Vegetation and soils, where present, are often fragile and damage can be long-lasting. Sensitive geological features may exist at some sites (e.g. geothermal environments, fragile surface features such as crusts or fossils). RPAS thus have the potential to cause environmental impacts, either directly by the operation of the aircraft itself or by associated activities. On the other hand, deployment of RPAS to gather data can also reduce or avoid environmental impacts that would occur by more invasive methods of data collection. Their use may also be safer and require less logistical support. Thus, in some cases RPAS can be a preferred method to achieve improved data collection and higher environmental performance.
+Guidelines have been developed to address operational and safety aspects of RPAS in Antarctica (COMNAP 2017), and a number of Parties have also prepared practical manuals for RPAS use (e.g. Spain 2015; New Zealand 2017). In addition, IAATO has also developed policies for member use of RPAS (IAATO 2016), which currently prohibit recreational use of RPAS by tourists in coastal areas of Antarctica.
+In 2017, CEP XX (ATCM XL Beijing) “decided to establish an ICG to develop guidelines for the environmental aspects of the use of UAVs/RPAS in Antarctica. It noted that the work of the ICG could draw on ATCM XL/WP20 (SCAR), ATCM XL/IP77 (COMNAP) and other papers submitted on the subject to CEP meetings, as well as the results of ongoing scientific research and experiences of national competent authorities.” Germany convened this ICG, which developed draft environmental guidelines. In this process the results from the workshop “Drones and Antarctic Biology” (organized by the SCAR “Action Group on the Development of Antarctic-wide remote sensing approach to monitor bird and animal populations” and held at the SCAR Biology Symposium in Leuven on 09 July 2017) was also considered. 
+At XLI ATCM, Germany as the ICG-convenor presented WP029 “Report from the CEP Intersessional Contact Group to develop guidelines on the environmental aspects of the use of Unmanned Aerial Vehicles (UAVs)/Remotely Piloted Aircraft Systems (RPAS) in Antarctica”, which led to the adoption of Resolution 4 (2018) ‘Environmental Guidelines for operation of Remotely Piloted Aircraft Systems (RPAS) in Antarctica’ at XLI ATCM (see also Harris et al, accepted). 
+
+Major findings and discussion
+
+	The outcome of the SCAR workshop “Drones and Antarctic Biology” was published by Mustafa et al. (2018).  This publication summarizes the current knowledge on the impact of UAS on Antarctic wildlife and the recommendations of the SCAR Action Group (AG) on ‘Development of a satellite-based, Antarctic-wide, remote sensing approach to monitor bird and animal populations’.
+
+Mustafa et al (2018) noted that results for minimum recommended flight distances were variable in the scientific literature and sometimes contradictory. However, the authors recommend the consideration of minimum vertical operating altitudes (Table 1). These distances should not be considered final, as they are based on limited information, and the table should be updated regularly as new results from scientific studies become available.
+
+The current Environmental Guidelines for operation of RPAS in Antarctica (Resolution 4 (2018)) do not contain any minimum distances. As new, relevant, scientific studies on the impact of RPAS on wildlife become available, consideration could be given to revising these guidelines including the consideration of including minimum distances if appropriate. 
+
+Other recommendations from Mustafa et al. (2018) include:
+
+    • A flight risk assessment process should be developed for all flights within a to-be-defined vertical and horizontal distance from animal aggregations; beyond that distance no assessment would be necessary.
+
+    • In order to promote the accumulation of needed RPAS wildlife interaction data, national environmental authorities are encouraged to hand out a standardized questionnaire to assess the reactions during permitted scientific RPAS operations.
+
+    • When operating within a range known to affect animal aggregations, parallel operation of multiple RPAS should be avoided.
+
+    • Management plans of Antarctic Specially Protected Areas (ASPAs) should be revised individually regarding RPAS operations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 1. Minimal flight distances (vertical operating altitudes) with no proved disturbance according to the existing knowledge (following Mustafa et al. (2018). Legend: a - Well founded knowledge, b - Data poor, c - Extremely data poor, n.a. – not available
+
+Group 
+
+Species
+Multicopter/electric
+Fixed wing/electric
+Fixed wing/gas fueled
+Penguins 
+Gentoo penguin 
+50 ma 
+n.a. 
+n.a.
+
+Chinstrap/Macaroni/Southern rock-hopper penguins 
+
+50 mb 
+n.a. 
+n.a.
+
+Adélie penguin 
+> 50 mb 
+< 350 mb 
+> 350 mb
+
+King penguin 
+> 50 mb 
+n.a. 
+n.a.
+Mammals
+Fur/Weddell/Leopard seals 
+
+50 mc 
+n.a. 
+n.a.
+Other birds
+Kelp gull 
+
+30 mc 
+30 mc 
+n.a.
+
+Antarctic Tern 
+
+n.a. 
+> 100 mc 
+n.a.
+
+Southern giant petrel 
+
+200 mb 
+200 mc 
+n.a.
+
+Northern giant petrel 
+
+≥ 50 mc 
+n.a. 
+n.a.
+
+Brown/South Polar Skuas
+
+100 mb 
+200 mb 
+n.a.
+
+Wandering/Light-mantled sooty albatrosses and Imperial cormorant
+
+> 50 mb 
+n.a. 
+n.a.
+
+Sooty albatross 
+
+50 mb 
+n.a. 
+n.a.
+
+
+
+References
+COMNAP 2017 Antarctic Remotely Piloted Aircraft Systems (RPAS) Operator’s Handbook. IP043 ATCM XLI, CEP XXI
+Harris C, Herata H & Hertel F (accepted): Environmental guidelines for operation of Remotely Piloted Aircraft Systems (RPAS): Experience from Antarctica. Biological Conservation.
+Mustafa O, Barbosa A, Krause DJ, Peter H-U, Vieira G, Rümmler M-C (2018) State of knowledge: Antarctic wildlife response to unmanned aerial systems. Polar Biology 41:2387-2398
+	(available from https://link.springer.com/article/10.1007/s00300-018-2363-9)
+Spain 2016: Operación de UAV/RPAS en la Antártida: Normativa aplicada por España, IP028 ATCM XXXIX, CEP XIX
+New Zealand 2017: Use of UAS for Improved Monitoring and Survey of Antarctic Specially Protected Areas, IP088 ATCM XL, CEP XX
+IAATO 2016: IAATO Policies on the Use of Unmanned Aerial Vehicles (UAVs) in Antarctica: Update for the 2016/17 Season, IP086 ATCM XXXIX, CEP XIX
+
+
+

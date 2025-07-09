@@ -1,0 +1,173 @@
+Preliminary Survey Responses Regarding Implementation of IMO
+Polar Code
+National Antarctic Programme vessels
+Preliminary Survey Responses Regarding Implementation of IMO
+Polar Code National Antarctic Programme vessels
+Summary
+This paper presents preliminary responses from a COMNAP survey
+on National Antarctic Programme vessels and their implementation
+of the IMO International Code for Ships Operating in Polar Waters
+(Polar Code). Completion of the survey was disrupted due to
+challenges related to the global pandemic, so this paper presents
+only preliminary results.
+Background
+COMNAP has been discussing the IMO Polar Code since before its
+adoption in 2014. The Polar Code came into force on 1 January
+2017. Generally, the main requirements are related to safety,
+protection of the environment and seafarer competence.
+In order to inform COMNAP discussions and assist our Members to
+share best practice related to these requirements, and also to inform
+the ATCM session to “share views on the IMO Polar Code”,
+COMNAP prepared a survey of its Member National Antarctic
+Programmes and asked for responses in regards to the 63 vessels
+that were listed as “in service” in the COMNAP Quickbase Database
+as at 1 February 2020.
+The survey was opened on 15 February 2020, suspended through
+February 2023, and is now open for new responses. This paper
+presents preliminary responses received to date for fourteen vessels.
+COMNAP will continue this work through our Marine Platforms
+Expert Group and intends to bring back complete results to a future
+ATCM.
+Preliminary responses
+A COMNAP survey of National Antarctic Programmes that operate,
+manage or use at least one of the vessels listed as “in service” in the
+COMNAP Quickbase Database was developed by the Leader of the
+COMNAP Marine Platforms Expert Group, Miguel A. Ojeda (CPE).
+The survey consisted of 23 questions in total presented in four parts
+(see Attachment 1):
+Survey Respondent Details
+General Vessel Information
+IMO Polar Code Compliance
+Finalise Submission
+Of the 63 vessels in the dropdown list [Q4] of the survey, responses
+relating to 14 (22%) of those vessels were entered and recorded
+before the suspension of the survey.
+Preliminary results from these responses indicate that:
+Fifty percent (50%) of these vessels are considered “Government,
+Military (Navy, Coast Guard, etc.) [Q6].
+The oldest vessel of the fourteen was “Year of build/launch” of
+1981; with the average age of the fourteen vessels being 20.7 years
+[Q8].
+Eight of the eleven vessels (73%) that indicated that the IMO Polar
+Code applied to the vessel [Q13] answered “yes” that the vessel
+held a Polar Code Certificate [Q18].
+Although the results are not complete, preliminary responses show
+the commitment of the National Antarctic Programmes in
+complying with the maritime regulations and, in particular, in the
+application of the IMO Polar Code. This is no small task especially
+in a vessel fleet with an average age of more than 20 years.
+Attachment 1: COMNAP survey questions on IMO Polar Code
+implementation for National Antarctic Programmes’ vessels
+Survey Respondent Details
+Q1 Your full name:
+Textbox
+Q2 Your national Antarctic program (NAP):
+Dropdown list in Qualtrics taken from the COMNAP database
+Q3 Your e-mail address:
+Textbox
+General Vessel Information
+Q4 Name of the vessel:
+If "Other", please specify the name of the vessel
+Dropdown list in Qualtrics taken from the COMNAP database
+Textbox
+Q5 Is this vessel an:
+Choose one of the following options:
+Icebreaker
+Ice-strengthened
+Not ice-strengthened or Icebreaker
+Q6 Is this vessel operated by:
+Choose one of the following options:
+Government, Military (Navy, Coast Guard, etc.)
+Non-Governmental Contractor
+Your own NAP
+Other
+Q7 Year of build/launch:
+Dropdown list including all other years between 1900 and 2030.
+Q8 Tonnage:
+Textbox
+Q9 Length:
+Textbox
+Q10 Beam:
+Textbox
+Q11 Estimate percentage of the operations time used:
+Percentage range slider 0-100%
+Q12 What is this vessel’s usual region of Antarctic operations:
+Choose as many of the following options:
+Antarctic Peninsula
+East Antarctica
+West Antarctica
+Ross Sea region
+Circum-Antarctic
+Q13 Does the IMO Polar Code apply to this vessel?
+If Yes (Continue to Q14)
+If No (End of Survey)
+IMO Polar Code Compliance
+Q14 What Polar Class is this vessel:
+Choose one of the following options:
+PC 1 Year-round operation in all polar waters
+PC 2 Year-round operation in moderate multi-year ice conditions
+PC 3 Year-round operation in second-year ice, which may include
+multi-year ice inclusions
+PC 4 Year-round operation in thick first-year ice, which may
+include old ice inclusions
+PC 5 Year-round operation in medium first-year ice, which may
+include old ice inclusions
+PC 6 Summer/autumn operation in medium first-year ice, which
+may include old ice inclusions
+PC 7 Summer/autumn operation in thin first-year ice, which may
+include old ice inclusions
+No Polar Class
+Q15 What category from the IMO Polar Code have you applied for
+for this vessel?
+Choose one of the following options:
+Category A ship - a ship designed for operation in polar waters in at
+least medium first-year ice, which may include old ice inclusions
+Category B ship - a ship not included in category A, designed for
+operation in polar waters in at least thin first-year ice, which may
+include old ice inclusions
+Category C ship - a ship designed to operate in open water or in ice
+conditions less severe than those included in categories A and B
+Q16 Which Polar Service Temperature (PST) has been determined
+for this vessel’s operations?
+Textbox
+Q17 Has the introduction of the IMO Polar Code involved major
+shipyard works on this ship?
+If yes, please describe major shipyard works.
+Yes
+No
+Textbox
+Q18 Does this vessel hold an IMO Polar Ship Certificate?
+If Yes (Continue to Q19)
+If No (End of Survey)
+IMO Polar Ship Certificate
+Q19 Total approximate budget required to obtain the IMO Polar
+Ship Certificate.  (Please indicate currency, ie US$ or Euro)
+Textbox
+Q20 Approximately, how long did the whole process take to obtain
+the IMO Polar Ship Certificate?
+Textbox
+Q21 Which of these categories were the main impediments (if any)
+to certify this vessel?
+Choose as many of the following options:
+Fire safety and protection
+Life saving gears
+Machinery
+Navigation systems
+Ship structure
+Ship stability
+Training
+Watertight integrity
+Q22 Does your country offer the appropriate training courses/
+resources necessary to obtain the IMO Polar Ship Certificate?
+Yes
+No
+Finalize your submission
+Q23 Finalize your submission 
+Submit this vessel data and end your survey
+Thank you for completing the on-line IMO Polar Code
+implementation for NAPs vessels.
+If you would like to submit another survey for an additional vessel
+operated by/for your NAP, please click here.
+If you have any additional questions and/or comments on IMO
+Polar Code topics not covered by this survey but relevant for your
+NAP, please contact sec@comnap.aq.

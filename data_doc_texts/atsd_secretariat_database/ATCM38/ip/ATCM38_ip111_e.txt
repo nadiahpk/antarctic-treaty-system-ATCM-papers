@@ -1,0 +1,221 @@
+﻿
+
+
+
+
+
+Cumulative Impact Assessment
+
+
+
+
+
+
+
+
+Cumulative Impact Assessment
+Information paper submitted by ASOC1
+Summary 
+This paper briefly reviews some of the discussions on cumulative impact assessment based on relevant documents submitted to the ATCM/CEP, and takes an environmentally-focused approach to cumulative impact assessment to suggest further action by ATCPs and CEP. Recognising the conceptual progress on cumulative impacts made so far, and the ongoing discussions on guidelines for EIA that may include further consideration of cumulative impact assessment, ASOC recommends that Parties: review earlier recommendations on cumulative impact assessment documents listed here; complete the review of EIA guidelines so that it adequately considers cumulative impacts, taking into account early considerations as required; carry out some case studies of cumulative impacts at particular sites; and augment and improve the consideration of cumulative impacts in the implementation of Annex I.
+Introduction
+The ATCM and its CEP have discussed cumulative impact issues a number of times, including through intersessional work and papers addressing specific aspects of cumulative impacts (Table 1). The ATCM and CEP have also agreed on a number of instruments that touch on the issue of cumulative impacts (Table 2), including those related to visitation of particular sites by large numbers of tourists, and the location of research stations.
+Some of the more technical discussions on cumulative impacts have addressed issues of mitigation and management (UNEP 1996, 1997, 1998, 1999), assessment methodologies (New Zealand 2006), and data collection (France 2008, UK 2010). Cumulative impacts have also been examined in particular contexts, such as tourism (IAATO 2001, 2003; Jatko and Hofman 2002; New Zealand 2012), the concentration of facilities (Germany and UK 1999) and Strategic Environmental Assessment (ASOC 2000, 2001, 2002). Cumulative impacts have also been discussed from a range of perspectives in the academic literature (e.g. Bastmeijer and Roura 2004, Tin et al 2008, Lynch et al 2010, Roura and Hemmings 2011). More recently, the issue of cumulative impacts has been discussed in the CEP Forum 2014-2015 in the context of a review of guidelines for EIA, which is ongoing.
+Overall, there has been some progress concerning understanding concepts of cumulative impacts as they apply to Antarctica, but less progress in terms of carrying out environmental impact assessments that adequately consider the cumulative effects of multiple activities that overlap in time and space. This is in part due to methodological issues, and in part due to the availability of relevant data. The ICG on the development of EIA guidelines is addressing these matters, which may eventually lead to progress on how cumulative impacts are actually dealt with in EIAs.
+This paper briefly reviews some of the discussions on cumulative impact assessment based on relevant documents submitted to the ATCM/CEP, and takes an environmentally-focused approach to cumulative impact assessment to suggest further action by ATCPs and CEP.2 
+
+Overview of submissions to ATCM/CEP on cumulative impact assessment
+Since 1996 twelve Working Papers or Information Papers have been submitted to the ATCM/CEP specifically addressing issues of cumulative impacts. These will be briefly discussed here.
+Between 1996 and 1999 IUCN submitted a series of information papers on cumulative impacts mitigation and management, reflecting on a workshop held in Washington DC in September 1996. The workshop produced 21 recommendations on various aspects of cumulative impacts, of which two were relevant to EIA:
+    1. Consideration of cumulative impacts should include all relevant past, present and reasonably foreseeable activities. 
+    2. Wherever obligations regarding environmental impact are identified, it should be taken that this includes cumulative impacts. 
+Some of the possibilities of better assessing cumulative impacts included a greater focus on cumulative impacts by regulatory authorities, and the use of joint EIAs, programmatic EIAs, or environmental audits.
+From June 7-9, 2000 IAATO jointly hosted with the U.S. Environmental Protection Agency and the U.S National Science Foundation a workshop entitled “Assessment of the Possible Cumulative Environmental Impacts of Commercial Ship Based Tourism in the Antarctic Peninsula Area.” With respect to examining potential impacts from tourism, the workshop report highlighted the importance of identifying the kinds of cumulative impacts potentially resulting from multiple visits and, if feasible, listing and ranking the relative importance site characteristics most likely to determine the nature and severity of cumulative effects (Jatko and Hoffman 2002). The workshop report also identified potential cumulative impacts from shipborne tourism on a range of site variables including landscape, terrestrial flora and fauna, and the marine environment.3
+In 2001 IAATO submitted a paper briefly addressing the collection of baseline data, site integrity, tourist numbers, and results of the workshop on cumulative impacts mentioned above.
+Between 2002 and 2003 a two-year ICG moderated by the US discussed these TOR:
+    • Present an annotated summary of past and continuing studies and reports that are examining cumulative environmental impacts pertinent to the Protocol, including, for example, those examining tourism, national programmes, and non-governmental expeditions; and
+    • Consider and advise on how future studies on human impacts could be coordinated
+At the conclusion of the ICG two specific suggestions were put forward:
+    1. Parties should maintain information on visits to areas similar to that maintained in site visit reports for tourist activities to provide a complete data set of visits and activities to areas of concern.
+    2. Development and maintenance of a database or databases with information on site visitation and other relevant data should be encouraged. The information in the databases should be readily accessible.
+In a later paper, IAATO (2003) discussed cumulative impacts in the context of site guidelines. According to IAATO: 
+Tourism to date has no significant environmental impact on any of the sites or the Antarctic ecosystem. Rather the contrary, all landing sites show very little sign of human impact considering the overall numbers of tourists that have visited the Antarctic. 
+The paper did not cover cumulative impact assessment issues, but urged Antarctic Treaty Parties who have responsibility for permitting or assessing tour companies that are not members of IAATO, through Advance Notification and the required environmental impact assessments, to implement the use of the IAATO guidelines and to encourage commercial tour operators to become members of IAATO.
+New Zealand (2006) discussed methodologies for assessing cumulative impacts. Based on a literature review, it identified three broad methods to assess cumulative impacts. These methods describe or model cause and effect relationships; analyse trends in effects and/or environmental change over time; or identify areas of sensitivity, value or past losses. The paper also identified a range of techniques to apply these methods, such as surveys, matrixes, networks and/or systems diagrams, and overlay mapping and/or GIS to incorporate local environmental information with potential impacts. It concluded that no single approach could be regarded as being definitive and that a combination of these techniques would likely to prove more useful. It further noted any methodology would rely on the data available to support it. The availability of data for cumulative impact assessment would often be the most challenging aspect. 
+In order to overcome some of the difficulties of gathering data, France (2008) proposed to establish a mechanism for centralizing tourism and non-governmental activity authorization declarations and requests that will allow the States’ competent authorities to be aware of files submitted and their status, in real time, before October 1st, the deadline for exchanging pre-season information and will, in effect, allow them to take into account the cumulative environmental impacts at a given site. This proposal was not accepted by the ATCM (Final Report XXXI ATCM, paragraphs 204-210). While several Parties welcomed the proposal, objections included concerns about the feasibility of the proposal given different domestic regimes; the need to consider the cumulative impacts of tourism jointly with the total cumulative impacts resulting from all human activities; and the existence of various tools available to the ATCM to reduce the possible cumulative impact associated with tourism, including earlier work addressing cumulative environmental impacts, site guidelines, and monitoring programmes.
+In 2009, the United States examined as a case study of foot-traffic impacts to the McMurdo Dry Valleys. The Dry Valleys are of great scientific interest, on account of their uniqueness.  It was assumed that this cold desert environment would be non-resilient and highly susceptible to changes. The paper concluded that two live nematodes - S. lindsayae and Eudorylaimus sp. - were reduced by 52% and 76%, over 10 years respectively, in areas of high trampling as to compare with areas of low trampling. It was concluded that even the relatively low disturbance on the area (50-80 walks a year) can impact the nematode population (Ayres et al. 2008; United States 2009). 
+In 2010, a working paper by the UK described a method to estimate the spatial extent and chronology of national operator activities in Antarctica using science and mapping databases. The activities of the United Kingdom within the Antarctic Peninsula region are shown as an example. Based on this work, the UK recommended that the CEP: 
+(i) endorses the use of existing systems in the collation of information relating to the location of past science, survey and logistic activities, thus giving a holistic perspective of human impact across Antarctica which could be used to inform future environmental policy and management, and 
+(ii) examines other methods to determine human activity at a regional/continent-wide scale.
+This paper resulted in a lively discussion (Final Report CEP XIII, paragraphs 230-245) concerning issues of human footprint. The CEP agreed that it would consider where the issue of human footprint should sit on its agenda at its next meeting. 
+Overall, previous work on cumulative impact assessment in Antarctica, as discussed in documents submitted to the ATCM/CEP, has focused on particular and sometimes disparate aspects of cumulative impacts. The exception to this was the IUCN work that was more broad-based. Although these documents do not constitute a unified body of work, most of them have identified limitations in assessment methods and data collection as some of the main barriers to assess cumulative impacts. 
+It should be noted that the practice of cumulative impact assessment under Annex I (i.e. EIAs submitted for particular activities that also consider cumulative impacts) has not been reviewed in any detail for the preparation of this document, which focuses mostly on theoretical aspects of impact assessment. However, a broad-brush evaluation based on the examination of many CEEs and IEEs over the years suggest that in many EIAs the assessment of cumulative impacts, when it exists, is rather cursory.
+Consideration of cumulative impacts in the EIA guidelines review
+Issues of assessment methods and data collection were partly discussed in the ongoing review of EIA guidelines. ASOC's contribution there, with respect to cumulative impact assessment, included the following:
+    • In terms of methods, EIAs for individual activities may fail to identify the cumulative impacts that result from other past, present, or foreseeable future overlapping activities occurring in the same area (see example in Figure 1). In practice, cumulative impact assessment would require a repetition of the EIA process (section 3 of the guidelines) for all the past, present and reasonable foreseeable future activities in the area, and an identification of all the possible interactions between the activities, their environmental "aspect" or "element"4, and resulting impacts. This is obviously complex. 
+    • In terms of data collection, one way forward to progress cumulative impact assessment would be to analyze information from the Antarctic Treaty Secretariat EIA database in order to assess what activities have been carried out in a particular area in the past and what the assessment of the impact of those activities has been. Some of those earlier EIA analyses could be incorporated into the EIA. For areas where there are ongoing activities the analysis could include an overall evaluation, plus a more detailed analysis of activities within a reasonable period of time in e.g. the past five years or in the following year or two. It should be noted that this analysis would capture activities that have merited carrying out an IEE or CCE, not those that merited PEEs that are not listed in the ATS EIA database. The EIES might provide additional information about activities in a particular location, including about some activities subject to PEE only.
+As to what activities to consider in cumulative impact assessment:
+    • Activities in Antarctica would typically be related to scientific research and, research-related logistics, and tourism. Activities to be considered would be those that have an overlapping footprint with the proposed activities e.g. if it is a base, the footprint of the base itself, including huts and other infrastructure, and also research locations that might reasonably be accessed from the base.
+    • Some areas may also be affected by fishing in coastal or near-coastal areas, potentially having an impact on features also affected by proposed activities (such as land-based predators). This would be difficult to implement for sensitivities resulting from the relation between the ATCM/CEP and CCAMLR, but for some locations there cannot be a full assessment of cumulative impacts if those activities are not considered too. For instance, assessing the cumulative impact of a new activity at Admiralty Bay should consider events of krill fishing in the area some years ago. 
+    • Some particular events may need to be considered too. In the example of Admiralty Bay above a cumulative impact assessment should also consider the fire that destroyed Brazil's Ferraz station in 2012, even though this was not an "activity" in the sense that it was planned.
+Overall, the assessment of cumulative impacts would need to address, among others, some of these questions:
+    • What activities have taken, take or are likely to take place at the area of the proposed activity?
+    • What are the likely pathways or processes of accumulation for the assessed impacts of the proposed activity?
+    • What effects may result from the proposed activity that may contribute to cumulative impacts? Is there a temporal or spatial overlap (or a combination) with other activities in the area that might result in particular impacts? What are the likely cumulative impacts that could occur in this area?
+Concluding remarks
+Cumulative impacts are a cross cutting issue that affects a range of ATCM and CEP agenda items, including shipborne and land based tourism, the establishment and operation of research stations, concepts of footprint and wilderness, and multi-year strategic planning. It could be argued that cumulative impacts affect directly or indirectly much of the agenda of the CEP and also, to a certain extent, the ATCM agenda. Consequently,  cumulative impacts have been the subject of several ATCM instruments as well as discussions of the ATCM and CEP.
+In terms of the content of ATCM/CEP discussions, the work of IUCN and some ICGs have taken a broader view of cumulative impacts, while other contributions, while relevant in their own right, have jumped thematically, focusing on a broad range of aspects of cumulative impacts. There are has been apparently contradicting conclusions such as e.g. IAATO (2001) suggesting that tourism has resulted in no cumulative environmental impact, and a study in the Dry Valleys (Ayres 2008) indicating that about 50-80 passes have a negative effect on nematodes. This suggests further theoretical work complemented with some real-life, less abstract examples could help bridge this knowledge gap.
+Recognising the conceptual progress on cumulative impacts made so far, and the ongoing discussions on guidelines for EIA that may include further consideration of cumulative impact assessment, ASOC recommends that Parties:
+    • Review earlier recommendations on cumulative impact assessment as outlined in the various documents listed here; 
+    • Complete the review of EIA guidelines so that it adequately considers cumulative impacts, taking into account early considerations as required;
+    • Carry out some case studies of cumulative impacts at particular sites; and
+    • Augment and improve the consideration of cumulative impacts in the implementation of Annex I.
+
+References
+(See Table 1 for ATCM/CEP documents focused on cumulative impacts).
+ASOC (2000): Antarctic Strategic Environmental Assessment: Application to the Growing Antarctic Tourism Industry SATCM XII/IP010.							
+ASOC (2001): Strategic needs and decision-making in Antarctica ATCM XXIV/IP054	
+ASOC (2002): Strategic Environmental Assessment in Antarctica: a 'stepping stone' to Madrid Protocol objectives ATCM XXV/IP082.			
+Ayres, E., Nkem, J.N., Wall, D.H., Adams, B.J., Barrett, J.E., Broos, E.J., Parsons, A.N., Powers, L.E., Simmons, B.L., & Virginia, R.A. (2008). Effects of Human Trampling on Populations of Soil Fauna in the McMurdo Dry Valleys, Antarctica. Conservation Biology, 22(6). 1544-1551. 
+Bastmeijer K and Roura, RM (2004): Regulating Antarctic tourism and the precautionary principle. The American Journal of International Law 98:4, 763-781.
+Germany and United Kingdom (1999): Report of a joint inspection under Article VII of the Antarctic Treaty Inspection Programme: January, 1999. ATCM XXIII/WP023.		
+Hofman R and Jatko J (2000): Assessment of the possible cumulative environmental impacts of commercial ship-based tourism in the Antarctic Peninsula area. Proceedings of a Workshop Held in La Jolla, California, 7-9 June 2000. Arlington, Virginia, USA: National Science Foundation.
+Lynch, H.J. K. Crosbie, W.F. Fagan and R. Naveen (2010): Spatial patterns of tour ship traffic in the Antarctic Peninsula region. Antarctic Science / Volume 22 / Issue 02 / April 2010, pp 123-130 DOI: http://dx.doi.org/10.1017/S0954102009990654. 
+New Zealand (2012a): Environmental Aspects and Impacts of Tourism and Non-governmental Activities in Antarctica. XXXV ATCM WP022
+New Zealand (2012b): Environmental Aspects and Impacts of Tourism and Non-governmental Activities in Antarctica. XXXV ATCM IP033 and attachments.
+Roura, RM and Hemmings AD (2011): “Realising Strategic Environmental Assessment in Antarctica.”  Journal of Environmental Policy Management and Policy. 13(3) 483-514. DOI No: 10.1142/S1464333211003973.
+Tin T, Z.L. Fleming, K.A. Hughes, D.G. Ainley, P. Convey, C.A. Moreno, S. Pfeiffer, J. Scotta and I. Snapea (2008): Impacts of local human activities on the Antarctic environment. Antarctic Science / Volume 21 / Issue 01 / February 2009, pp 3-33 DOI: http://dx.doi.org/10.1017/S0954102009001722 
+
+
+Table 1 - Key documents submitted to the ATCM/CEP addressing aspects of cumulative impacts
+
+Year
+ATCM
+Paper
+Title
+Author
+Activity
+Cumulative impact topic
+1996
+ATCM XX
+IP085
+IUCN International workshop on cumulative environmental impacts in Antarctica: minimisation and management
+IUCN
+All
+Minimisation and management
+1997
+ATCM XXI
+IP061
+Cumulative environmental impacts in Antarctica: minimisation and management
+IUCN
+All
+Minimisation and management
+1998
+ATCM XXI
+IP093
+Cumulative environmental impacts in Antarctica: minimisation and management full report
+IUCN
+All
+Minimisation and management
+1999
+ATCM XXII
+IP030
+Cumulative Environmental Impacts in Antarctica: Minimisation and Management
+IUCN
+All
+Minimisation and management
+2001
+ATCM XXIV
+IP052
+Issues Relating to Cumulative Environmental Impacts Of Tourist Activities
+IAATO
+Tourism
+Data collection, management
+2002
+ATCM XXV
+IP048
+Progress Report from the Intersessional Contact Group on Cumulative Impacts
+United States
+All (ICG)
+Various
+2003
+ATCM XXVI
+WP006
+Final Report from the Intersessional Contact Group on Cumulative Environmental Impacts
+United States
+All (ICG)
+Various
+2003
+ATCM XXVI
+IP072
+IAATO Site Specific Guidelines 2003 in the Antarctic Peninsula Further Addressing Potential Cumulative Impacts
+IAATO
+Tourism
+Guidelines
+2006
+ATCM XXIX
+IP080
+Methodologies for Assessing Cumulative Impacts: A Progress Report
+New Zealand
+All
+CIA methods
+2008
+ATCM XXXI
+WP034
+A Mechanism for Centralizing Tourism and Non-governmental Activity Declarations and Authorization Requests Suitable for Taking Cumulative Impacts into Account
+France
+Tourism
+Data collection - activity declarations
+2009
+ATCM XXXII
+IP015
+Cumulative impacts from walking in the Dry Valleys
+United States
+NAPs
+Scientific monitoring of impacts
+2010
+ATCM XXXIII
+WP023
+Assessing cumulative environmental impacts: identifying the distribution and concentration of national operator activities in Antarctica
+United Kingdom
+NAPs
+Data collection - mapping databases
+
+
+
+ Table 2 - Instruments adopted by the ATCM referring to cumulative impacts
+
+ATCM / CEP
+Year
+No.
+Subject
+ATCM XIII Brussels
+1985
+6
+Consultation between program operators on siting of stations
+ATCM XXIII - CEP II Lima
+1999
+R5
+Liability Annex deliberations
+ATCM XXIII - CEP II Lima
+1999
+R6
+Non-consultative parties and the Environmental Protocol
+ATCM XXVI - CEP VI Madrid
+2003
+D5
+Expert Meeting on tourism
+ATCM XXVIII - CEP VIII Stockholm
+2005
+R4
+Revised EIA guidelines
+ATCM XXX - CEP X New Delhi
+2007
+R5
+Long-term effects of tourism
+
+
+
+
+
+Fig. 1 - An example of cumulative impacts resulting from multiple activities and single activity EIAs
+

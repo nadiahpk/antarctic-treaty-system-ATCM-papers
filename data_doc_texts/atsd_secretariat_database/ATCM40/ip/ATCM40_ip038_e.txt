@@ -1,0 +1,52 @@
+﻿
+
+
+
+
+
+Use of UAVs in Antarctica
+
+A competent authority’s perspective and lessons learned
+
+
+
+
+
+
+
+
+
+Use of UAVs in Antarctica
+A competent authority’s perspective and lessons learned
+
+Information Paper submitted by Germany
+Introduction
+The increasing use of Unmanned Aerial Vehicles (UAV)/Unmanned Aerial Systems (UAS) – commonly known as “drones” – in Antarctica has put the Parties under stress to act proactively and develop recommendations and guidelines on the execution of UAV operations. Such action and development are necessary due to the quick technical improvements and an increasing use of UAVs in Antarctica. The variety of UAV use ranges from scientific, logistic, commercial and educational to more and more leisure and private purposes.
+
+It has become apparent that drones – if applied appropriately – may have many benefits in supporting science or logistical operations, helping to reduce environmental impacts as well as creating benefits in terms of safety and security aspects. However, in order to avoid a multitude of different regulations, there is a clear need for complementary guidelines on which National Antarctic Programs (NAPs) as well as national competent authorities or commercial tour operators and media representatives can rely.
+Background
+For several years, the different aspects of the use of UAVs in Antarctica have been discussed at CEP as well as ATCM. Numerous panels made great efforts to reach a considered and comprehensive approach on regulating the use of UAVs. COMNAP, for example, presented an Operators' Handbook (ATCM XXXIX, WP 14, The COMNAP Unmanned Aerial Systems-Working Group (UAS-WG) – Antarctic Unmanned Aerial Systems (UAS) Operators’ Handbook). The environmental impacts of UAV use and the influence drones could possibly have on the Antarctic wildlife have become subject-matter of various research projects (e.g. ATCM XXXIX, WP 01, UAV and wildlife minimum distances). Some Parties (e.g. Spain) already have adopted national regulations concerning the use of UAVs within their own scientific and logistic projects. In addition, IAATO has its own policy regarding the use of UAVs for their members' activities, which are updated every year (ATCM XXXIX, IP 120, IAATO Policies on the Use of Unmanned Aerial Vehicles (UAVs) in Antarctica: Update for the 2016/2017 Season). Bearing in mind that during the 2015/2016 season, IAATO operators alone recorded 96 UAV flights for non-recreational purposes (ATCM XXXIX – CEP XIX, Final Report, Volume I, CEP XIX Report, (96), p. 125) those guidelines are, without doubt, extremely necessary. With the help of this paper, Germany wants to present the perspective of the German national competent authority and share its experiences on the permission and use of drones in Antarctica by different stakeholders.
+Experiences of the German Competent Authority 
+In the last few years, the German Environment Agency as Germany’s National Competent Authority has issued several permits for the operation of drones in Antarctica. The range of devices used covers nearly the whole spectrum of available UAV models and contains fixed wing UAVs and several multicopters. They had been deployed in a scientific or logistic context as well as for leisure/private, commercial or educational purposes. 
+
+The spectrum of scientific applications of UAVs ranges from crevasses surveys on glaciers to oceanographic studies or penguin population surveys. So far, drones did not cause any damage, neither was a drone lost. Wildlife disturbance by UAVs could be widely excluded by respective permit conditions (minimum flight distances) and only occurred within the frame of planned and carefully executed scientific disturbance experiments. In reference to the recommendation of CEP XVIII on Unmanned Aerial Vehicles (UAVs), Germany already presented some research results about the interference of UAVs against wildlife concentrations (ATCM XXXIX, WP01, UAV and wildlife minimum distances) which are based on Rümmler et al. (2015). Further results from disturbance experiments will be published soon.
+
+The use of different multicopters was permitted for commercial purposes like shootings for movies or promotional videos for touristic operators and additionally for media activities. Since most drone pilots visit Antarctica aboard an IAATO ship, the association’s strict policy applies and as competent authority, we refer to these regulations. In one case, one applicant had to withdraw his application to use a drone for private purposes because the tour organizer prohibited the activity. Sometimes journalists accompany scientists and use drones for producing educational videos or for journalistic coverage of scientific activities. In this case, COMNAP’s operators' handbook can be used for guidance.
+
+However, under German national law, UAV operations for non-scientific purpose may not be prohibited, as long as the activity is not posing a significant impact to the Antarctic environment. Therefore, the German Competent Authority has to issue permits for individual tourists visiting Antarctica without assistance of an IAATO tour operator, when they apply for using an UAV. Every year, the grant of such a permit is associated with a learning process. For instance, the crash of a floatable multicopter in the season 2015/2016 resulted in stipulating that drones, used above water expanses have to possess lifting bodies or other suitable safety features to enable the recovery after emergencies over water.
+
+During the application process, activities related to the use of UAVs for non-scientific purpose come under scrutiny. The applicant has to submit operating procedures, a contingency plan and proof of insurance for the activity. Furthermore, the experiences of the drone pilot and the equipment’s suitability for the use in polar regions have to be verified. Thus, guidelines for the use of drones adopted as resolution by the ATCM/CEP could be a helpful standard for consideration within the national permit procedure. 
+
+The permits issued by the German National Competent Authority for operating a UAV for non-scientific purpose contain the following conditions:
+    • When operating the UAV, at least one observer has to assist the pilot.
+    • During the flight, the UAV has always to be in direct sight.
+    • The UAV must not be used over or next to concentrations of animals (birds, seals).
+    • The UAV must not be used in or over Antarctic specially protected areas (ASPA) or Historic sites and monuments (HSM).
+
+Conditions for UAV operations for scientific purposes are specially adapted to the framework requirements of the relevant scientific issues and research needs.
+
+Additionally, all UAV related permits are issued under the general condition that a post-activity-report has to be submitted to the German Environment Agency. Concerning the use of the UAV the report has to contain the following information: complete documentation of all flights including location (GPS-data), duration of the particular flight, weather conditions and observations (e.g. encounter of animals) during the particular flight, accidents or unexpected landings. The report should particularly show whether all permit provisos as well as all permit conditions had been fully adhered to. 
+Conclusion
+Germany sees the need for complementary guidelines for the use of UAVs in Antarctica considering its different purposes and would be happy to contribute to the overall discussion as well as to the elaboration of such guidelines. We would like to encourage other National Competent Authorities to share their experiences with their own authorization or permitting procedures for UAV operations.
+References
+Rümmler, M.-C., Mustafa, O., Maercker, J., Peter H.-U., Esefeld J. 2015. Measuring the influence of unmanned aerial vehicles on Adelie penguins. Polar Biology, dio: 10.1007/s00300-015-1838-1. Accessible at http://link.springer.com/article/10.1007%2Fs00300-015-1838-1.

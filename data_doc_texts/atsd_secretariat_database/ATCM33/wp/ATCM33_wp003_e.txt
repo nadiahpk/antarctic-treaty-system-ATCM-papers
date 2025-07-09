@@ -1,0 +1,96 @@
+﻿
+
+
+
+
+
+Biodiversity-based Evaluation of the Environmental Domains Analysis
+
+
+
+
+Biodiversity-based Evaluation of the 
+Environmental Domains Analysis
+Introduction
+Responding to a need to give substance to the phrase ‘systematic environmental geographic framework’ in Article 3(2) of Annex V to the Protocol on Environmental Protection, New Zealand used an Environmental Domains Analysis to provide such a framework.
+The development of the Environmental Domains Analysis was presented to the CEP through a series of working papers (e.g. ATCM XXVIII WP 2, ATCM XXIX WP32, ATCM XXX WP12) culminating in the final product reported in ATCM XXXI WP27.
+The Environmental Domains Analysis, based on a wide variety of spatially explicit, abiotic environmental data layers, resulted in the identification of 21 environments for Antarctica (for full details see the technical report by Morgan et al. 2007 appended to ATCM XXXI WP27).
+Various applications were suggested for the Environmental Domains Analysis (hereafter EDA), including assistance with the development of a comprehensive system of protected areas for the region, management of protected areas, and a systematic assessment of the representativeness and/or distinctiveness of protected areas, including species and ecosystem processes.
+The use of abiotic environmental variables as surrogate measures of diversity and representativeness of protected areas is a well-established approach used for other continental regions, acknowledging that typically they do not capture historical signals unless explicitly designed to do so.  Evaluation of the effectiveness of such an approach is usually based on how well the network of suggested areas, based on feature or abiotic diversity, captures biological diversity.
+To this end, SCAR agreed at ATCM XXX to undertake an assessment of the extent to which the outcome of the EDA corresponds with patterns found in spatially explicit biodiversity data for the region.
+This paper reports on that assessment, based on data from the SCAR Biodiversity Database hosted by the Australian Antarctic Division (http://data.aad.gov.au/aadc/biodiversity/) 
+The Biodiversity Database
+The SCAR Biodiversity Database consists of 345 000 records from field observations or collections. Of these, some 39 000 records of 1 823 different taxa representing 12 major data collections were in a form that were spatially explicit and considered reliable for use in the present analysis. Tax included algae, lichens, mosses, nematodes, tardigrades, springtails, and mites.
+The records were scaled up into 200 by 200 km grid cells (hereafter grid cells) for the analysis. This grid square approach at the current resolution represents the outcome of a trade-off between realistic record numbers per area and too coarse a resolution for meaningful analysis.
+Of the 406 grid cells covering the region, 142 included ice-free areas and only these were used for subsequent analysis because the biodiversity data are concentrated in grid cells representing ice-free areas. Thus, only nine of the EDA’s 21 domains could be assessed using the biodiversity data (Figure 1).
+
+Figure 1 – Environmental Domains that are largely ice free (extracted from Morgan et al. 2007).
+
+Of these 142 grid cells, 45 (33%) contained no records of biodiversity, despite reports in the literature suggesting that biota are likely to be found in these sites. The remaining cells had between 1 and 4491 records, with most cells (78%) having fewer than 500 records. Simple regression analyses showed that the number of taxa is strongly related to the number of records below about 3,500 records (Figure 2).
+
+
+Figure 2 – The relationship between number of records and number of taxa in the biodiversity database. 
+
+Key finding 1.  A spatially explicit understanding of biodiversity in Antarctica is far from being realized. Thus, systematic conservation planning for protected areas based on spatially explicit biodiversity data, as is widely recommended and implemented elsewhere, cannot yet be adopted for Antarctica. An urgent need exists to address this gap in modern understanding, both through existing data input and biodiversity surveys. Without this information, modern conservation planning for the region will remain problematic, at least if the desire is to adopt a systematic, spatially explicit approach based on biodiversity data.
+Assessment of the Environmental Domains
+Bearing in mind the influence of inadequate survey effort, the grid cell data for all of the taxa were then used to assess the extent to which the nine Environmental Domains (see Figure 1) show biotic similarities, and the extent to which the environmental domains capture differences in biodiversity, using simple measures of similarity (Jaccard’s Index) and multivariate analyses (cluster analysis and non-metric multidimensional scaling).
+Most of the ice-free domains show little similarity in their biotas, assessed either by shared species or Jaccard’s similarity (Table 1). Large species similarity in domain R is a consequence of low species richness.
+Table 1 – Environmental domain similarity (mean % for each domain relative to all others) based either on shared species or Jaccard’s similarity index (shared species number/total species number).
+Domains
+A
+B
+C
+D
+G
+R
+S
+T
+U
+Shared species
+36
+25
+37
+14
+16
+61
+23
+39
+35
+Jaccard
+16
+19
+17
+19
+15
+6
+15
+17
+16
+Cluster analysis indicated distinct and biologically meaningful groups of taxa corresponding to biogeographic regions identified previously by experts in a Delphi-based biogeographic domains analysis undertaken as part of the SCAR Evolution and Biodiversity in Antarctica Programme (Figure 3). These areas also correspond largely with previous quantitative (Peat et al. 2007) and qualitative (see discussion in Chown & Convey 2007) analyses of the Antarctic biota. However, idiosyncratic patterns remain owing to poor sampling.
+
+Figure 3 – Spatial representation of biologically similar grid cells derived from a cluster analysis of the biodiversity data from the SCAR biodiversity database. 
+
+Further analysis revealed that the similarities among sites based on biodiversity data were captured, at least at a coarse-resolution, by the Environmental Domains (Figure 4), although at a finer resolution the relationships were much weaker (Figure 5).
+
+
+Figure 4 – Non-metric multi-dimensional scaling ordination showing the grouping of the ice-free environmental domains (see Figure 1) based on the biodiversity data.
+
+Key finding 2.  At a coarse resolution, the ice-free Environmental Domains do reflect differences among biotic assemblages. Thus the extent to which each of the Environmental Domains is represented in the protected area network in Antarctica could be used as a first order, albeit coarse, measure of the efficacy of protected areas in representing biodiversity in the region. However, the domains provide no measure of evolutionary history, which has a significant influence on biodiversity patterns in the region (Convey et al. 2008). Moreover, at a fine scale, this being the scale at which Antarctic Specially Protected Areas are normally designated, the Environmental Domains Analysis cannot indicate the extent to which biodiversity will be appropriately represented in a protected area network.
+Key finding 3.  The spatially explicit biodiversity data do generally reflect expert views concerning the delimitation of biogeographic regions in Antarctica, including, to a limited degree, discontinuities such as the Gressitt Line (Chown & Convey 2007). Therefore, these data are starting to provide an additional useful platform for explicit conservation assessments in the region. However, the data do not reflect some of the biological nuances important in the context of conservation. These include, for example, real absences of nematodes and microarthropods: an unusual situation, but true of inland nunataks of Ellsworth Land (see Convey & McInnes 2007), and variation among areas in some of the more isolated parts of the continent (for example the Trans-Antarctic Mountains, the area just to the north of the Gressitt line and the coastline around Dronning Maud Land).
+
+
+Figure 5 - Cluster Analyses (group average) of all taxa, 28 outliers removed (67, 200 x 200 km grid cells). Red boxes indicate major groupings. Letters under cells correspond to the Environmental Domains that the cells cover. Letter in the boxes (groups) show the domains that are consistently represented in each group, multiple letters within boxes show sub-groups at higher similarity levels. Numbers under boxes represent groups used in the mapping.
+Conclusions
+The Environmental Domains Analysis provides a useful, important measure of environmental variation across Antarctica that, in terms of its ice-free domains, can be considered essential as a first order assessment of likely systematic variation in biodiversity.
+For meaningful analysis at the finer spatial scales typically used in protected area designation, the EDA must be supplemented with biodiversity data, which not only reflect current conditions, but, importantly, historical processes that cannot in many instances be captured by modern environmental data.
+The current data available in the SCAR biodiversity database are useful for preliminary assessments of biogeographic variation, but considerably greater data input and survey effort will be required before these data will be sufficiently comprehensive for systematic conservation planning to assess the representativeness of the Antarctic protect area network. A good way to address the data deficiency would be to start with comprehensive surveys of currently designated ASPAs.
+At present, modern systematic conservation planning in Antarctica is constrained by an absence of appropriate, spatially explicit and readily available biodiversity data.
+Despite the problems associated with a paucity of spatially explicit data, it appears that the distribution of protected areas does not comprehensively represent the documented variation in Antarctic terrestrial biodiversity. A survey of current diversity of selected taxa within the ASPAs coupled with an explicit review of significant aspects of variation not captured by the network may provide a means to improve representivity of the protected area network.
+
+References
+Chown, S.L. & Convey, P. (2007). Phil. Trans. R. Soc. Lond B. 362, 2307-2331.
+Convey, P. et al. (2008). Biol. Rev. 83, 103-117. 
+Convey, P. & McInnes, S.J. (2007). Ecology 8, 519-527.
+Morgan, F. et al. (2007). Environmental Domains of Antarctica Version 2.0 Final Report. Landcare Research Contract Report LC0708/055.
+Peat, H.J. et al. (2007). J. Biogeog. 34, 132-146
+

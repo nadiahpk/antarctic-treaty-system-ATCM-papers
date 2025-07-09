@@ -1,0 +1,97 @@
+﻿
+
+
+
+
+
+Belgian Antarctic Research Expedition BELARE 2009-2010
+
+
+
+
+
+
+Belgian Antarctic Research Expedition
+ BELARE 2009-2010
+Activities carried out at the Princess Elisabeth Antarctic Research Station during the 2009-2010 season to complete the technical facilities and dependencies
+
+a) Installation of communication devices (VHF & HF)
+
+New HF antennae (vertical and dipole) were erected on the roof of the station as well as to the East, allowing for easy contact with Novo Airbase and other stations in Antarctica.
+
+A repeater station was erected on the top of the Utsteinen Nunatak I, to permit a greater range for VHF communications in the field around the station.  The repeater is powered by solar panels connected to a battery unit housed in a special casing, along with the electronics for reception and transmission of signals.
+
+A VHF Airband antenna was also installed on the roof of the station to allow for a greater range in the communications with flights servicing the station.  Contact with flights was possible while they were at least an hour away from the station, boosting security of operations.
+
+b) Wind Park
+
+Four new wind turbines were erected to replace three damaged by heavy wind activity during the previous winter. Five wind turbines were retrofitted with special reinforcing plates for the rotor assembly.  This completes the total wind park foreseen for the electrical micro-grid, as per design.
+
+c) Complete mechanical integration of the solar systems
+
+The free standing photovoltaic panels installed last season were integrated into the electrical power grid, by cabling and connection to the SMA convertors (Windy Boys).  The total installed power of the free standing solar photovoltaic panels is a nominal output of approx 50 KW.  Additional solar thermal systems were installed to feed heat into the snow melter.  Repairs were carried out to the solar thermal system (STS I) which had been damaged during the winter.
+
+d) Installation of the Snow Melter
+
+The snow melter installation was completed via connections to the water distribution system (WSD) and the secondary solar thermal system (STS2). The unit was then integrated into the SCADA for control by the PLC (programmable logic controller).  The unit is capable of producing about 500 litres per day.
+
+e) Mechanical and electrical integration of the HVAC systems.
+
+The HVAC assembly was finalized including the special ventilation of the battery room which was shown to be prone to over-heating.  New carbon-dioxide sensors were installed, and the system was connected to the SCADA.  Ventilation in the station is primarily driven by the levels of CO2, as the need for heating is virtually absent.  Heat gains from the operation of the active systems and human activity lead to a need to cool the building rather than heat it.
+
+f) Generator integration into the grid
+
+The automatic launch of the generators in case of failure of the energy supply-side systems is a pre-requisite of stable unmanned operation, and despite technical obstacles, this was also successfully completed.
+
+g) Construction of extensions for garages and hangars to house wood-working atelier and skidoos.
+
+The request from the JARE to house skidoos and other materials led to the need to construct additional housing for the vehicle park of the PEA.  The woodwork atelier and the skidoo extension were constructed in wood panels and beams, and were integrated into the Garage North, and thereby into the electrical demand side of the station.
+
+h) Complete mechanical, electrical and smart integration, and activation of the water treatment units.
+
+The Water Treatment Unit (WTU) had the final elements installed (ceramic and polymer filters and ozone treatment unit) and was tested for water-tightness, and activated in January.  Tests are still needed to see if any modifications to the assembly are still required.  Recycled water production was successful.
+
+i) Installation of meteorological and seismological instrumentation.
+
+Several meteorological instruments were installed on the roof of the station (ceilometer, rain radar, infra-red pyrometer).  The automatic weather station’s Argos antenna was repaired, and the AWS connected by Wi-Fi to the station to allow for weather data to be available to the station in near real time.
+An aethaelometer was installed in the southern science platform during the season.
+A seismometer was installed at 13 m inside the granite of the Utsteinen Ridge, next to the Northern science platform, and connected by fibre optic cable to the station servers.  It is still operational at the present time.
+An absolute gravimeter is foreseen for the next season.
+
+Scientific data is now accessible via a satellite link from the station, even when it is in unmanned mode.
+
+j) Installation of a satellite antenna
+
+A four and a half metre satellite antenna was installed to the North side of the station.  Anchoring and mechanical integration were carried out by the IPF, the antenna was brought into service by Vertex Anntennentechniek, and the link (modem, servers, accelerators, monitors etc) was established by a technical team from SES Astra.
+
+This antenna permits the station to be monitored during the winter months when it is unmanned.  All the electronics of the satellite link are fully redundant to guard against the failure of the link due to malfunction in any of the parts.  The link is channelled through a ground station in the United Kingdom, from where an access to the internet is possible. 
+
+Several levels of security have been installed to prevent any unauthorized access to the station.
+
+All the systems of the station are linked to a central server which is connected to the outside World via satellite.  24 hour monitoring of the station is foreseen during the winter (by a service company under contract to the IPF) and technicians can intervene if a problem is detected.  
+
+All scientific equipment is linked to the servers in a separate network and can be accessed during the winter months, allowing scientific observations to continue even when the station is unmanned.
+
+A broadband uplink and downlink have been provided free of charge by the sponsors of the IPF, for a limited number of years.
+
+k) Installation of computer network and interface with SATCOM.
+
+A local area network equips the entire station, allowing for all occupants to have access to high speed internet connections.  A telephone (VOIP) installation is foreseen for the coming season.  The LAN also connects the SCADA and the PLC to the satellite link via a fully redundant switch system, to ensure against any loss of connection due to component failure.
+
+An Inmarsat antenna and modem are available for telephone connection, and also during unmanned mode to allow the station to be accessed if, for whatever reason, the satellite link should go down.
+
+An iridum installation inside the station is also furnished with an external antenna, and is connected to the Inmarsat modem via the central servers.  The iridium unit also allows phone communications from inside the station.
+
+l) Construction of mobile science lab facilities to extend future fieldwork possibilities.
+
+Several mobile units were constructed out of empty 20’ containers, to facilitate future traverse activity.  A glaciological lab was built and equipped, as well as a sleeping module, a kitchen module, and a living module, to add to the two labs already on site for use of the researchers.  The modules can be equipped with internet connection for e-mail and telephone.
+
+A future scientific (e.g. glaciological) traverse can therefore be carried out with all facilities.
+
+m) Construction of fuel platform.
+
+A fuel platform 60m in length was constructed, in steel, to hold the fuel drums.  The drums if left on the surface of the snow, risk becoming completely covered after the winter.  Digging out fuel drums from compacted snow exposes them to a greater risk of rupture and consequent contamination of the surrounding areas.  
+
+The platform is placed along the ridge and is anchored into the granite.  It is raised about a metre or two above the ridge to allow snow to circulate freely underneath.  By the end of the season it appeared that the strategy was working, and the fuel drums remained easily accessible.
+
+

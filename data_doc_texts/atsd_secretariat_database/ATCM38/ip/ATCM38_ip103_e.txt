@@ -1,0 +1,414 @@
+﻿
+
+
+
+
+
+A Methodology to Assess Site Sensitivity at Visitor Sites: Progress Report 
+
+
+
+
+
+
+
+
+
+A Methodology to Assess Site Sensitivity at Visitor Sites: Progress Report
+Information Paper submitted by Australia, New Zealand, Norway, 
+the United Kingdom and the United States
+Summary
+Australia, New Zealand, Norway, the United Kingdom and the United States have been working with Oceanites1 to identify opportunities to use the long-term dataset of the Antarctic Site Inventory (see IP 102), as well as the scientific resources of Oceanites’ partner academic institution, Stony Brook University (Stony Brook, New York), to advance the recommendations from the 2012 CEP Tourism Study and to develop a methodology for assessing site sensitivities at extant or future visitor sites. This Information Paper provides a progress report and outcomes to field work undertaken during the 2014/15 season and sets out further work to be undertaken ahead of CEP XIX.
+Background
+In 2012 the CEP prepared a report on Tourism and Non-governmental Activities in the Antarctic: Environmental Aspects and Impacts (the CEP Tourism Study), which was endorsed by CEP XV and referred to ATCM XXXV. Four of the Report’s recommendations were referred back to the CEP by the ATCM.  Two recommendations were urged to be addressed "as a matter of priority".  Notably, Recommendation 3, states:
+“An appropriate method of assessing site sensitivity should be developed and a relative sensitivity analysis undertaken for at least the most heavily visited sites in Antarctica, including, for example, consideration of the vulnerability of tourist sites to non-native species establishment, for the purpose of more rigorously assessing appropriate management needs.  Site sensitivity considerations should also be included in the Environmental Impact Assessment process for tourism activities.”
+By means of WP 17 submitted to CEP XVII, New Zealand, Australia, Norway, the United Kingdom and the United States reported on progress made to address this recommendation and their intent to:
+
+    1) Describe the suite of characteristics that may be found to be associated with “high sensitivity” sites;
+    2) Describe a methodology for assessing site sensitivity that may be applied to less frequently visited sites or new sites that may be visited by Antarctic tourists;
+    3) Demonstrate the methodology’s application to (at least) the top ten most heavily visited sites in Antarctica; and
+    4) Recommend further analyses that might be required.
+
+This information paper reports on the progress made towards these outcomes and provides information on: 
+
+    1) Outcomes to a survey of regional experts on site sensitivities;
+    2) Development of a tool to quantify floral sensitivity;
+    3) Development of a tool for tracking seabird abundance and distribution, and 
+    4) Next steps and work planned for the 2015/16 intersessional period 
+
+Outcomes to a survey of expert opinion on site sensitivities
+Oceanites has previously considered methodologies to evaluate the potential sensitivity of visitor sites on the Antarctic Peninsula.
+The 1st edition of the Oceanites Compendium, using the best available data and information at the time (1997), identified nine potential site sensitivities and evaluated which visitor sites were most sensitive to potential environmental disruptions. Eleven sites were identified as presenting at least two site sensitivities, and three of these were identified as presenting 3-6 site sensitivities. In a second iteration of this approach in 2003, using as a baseline ASI presence/absence data regarding 16 penguin and seabird species, elephant seal wallows, and floral communities, Oceanites evaluated and ranked sites according to species diversity and, secondly, in regard to the ease of visitor access at each site to penguin/seabird nests, elephant seal wallows, and large patches/beds of moss and lichens.  The resulting comparative index identified four highly sensitive sites that received 2.37% of the total visitors in the 2012-2013 season. An additional twelve sites were identified as moderately sensitive, receiving 19.62% of the total landings in the 2012-2013 season.
+Recent research has identified additional aspects of environmental sensitivity that can be incorporated into this model to provide a more comprehensive analysis.2,3 These frameworks highlight the need to identify conservation priorities and goals. Once these are identified, the most important aspects of site sensitivity may be evaluated. The definition of site sensitivity is highly dependent upon the conservation goal, can range from a global to a local scale, and can include biological, social, and policy goals.
+To this end, the research team commenced a survey of expert opinion, recognizing the vast knowledge possessed by the scientists and professionals working in the Antarctic region, and in the operational adjustments already being made to ensure that landing operations are tailored to avoid such sensitivities.
+The goal was to elicit information on what specific features (biological, topographical, etc.) practitioners feel require the most experience or careful attention, and which sites might present new challenges due to changing snow/ice cover or shifting occupation by plants or animals. In this context, ‘sensitive’ is operationally defined by the practitioner in whatever way captures their experience with the unique challenges of environmentally-sensitive travel at and around Antarctic visitor sites. Using these surveys as data, a multivariate statistical analysis would theoretically identify traits, or combinations of traits, that distinguish ‘highly-sensitive’ sites from less sensitive sites. 
+A survey was developed to assess the potential risks facing individual tourist sites and the overall sensitivity of each site (see sample questionnaire page in Appendix 1). Surveys responses were collected using the Survey Monkey website application and were distributed to all IAATO field staff members. The questionnaire included basic demographic questions, free response questions regarding the meaning of “site sensitivity”, questions utilizing a ranked scale to assess the importance of risks to site sensitivity, and questions requiring respondents to scale the rate the sensitivity of the twenty visitor sites with Site Guidelines. Additionally, respondents were asked to answer a series of questions specific to four individual sites. These individual sites were randomly assigned to respondents, and were drawn from the list of sites currently possessing Site Guidelines. To develop the list of potential risks affecting sensitivity, a literature review was conducted to determine the primary causes of concern within the region. Additional input from regional experts was used to compile a comprehensive list of the risks visitor sites may face. 
+
+Because the survey is still ongoing and the data obtained to date are only preliminary, the results are restricted to a basic description of findings.  In the present analysis, the indices of risk and sensitivity derived from the expert survey were calculated as the mean sensitivity score for each site, ranked on a Likert scale of 1 to 5. Additionally, a preliminary principal component analysis was performed to determine dimensions of sensitivity and risk affecting sites. 
+
+This survey will remain open for an additional nine months to maximize the potential data. Consideration will be given to adding other experts (e.g. station personnel or researchers) with broad knowledge of these various visitor sites. Following the closure of the survey, a comprehensive principal component analysis will be conducted to determine the dimensions of sensitivity described through their potential risks and site landscape features. These dimensions of sensitivity will then be used to develop a rapid assessment tool to assess the potential sensitivity of new visitor sites in the region and provide an immediate site assessment triage system that can be used at sites that are less frequently visited and are thus less well-known by the Antarctic tour operators. 
+
+Survey Results. 
+
+At the time of the preliminary analysis, a total of 74 surveys had been conducted. The majority of respondents were males (77%) and between the ages of 40 and 59 (64%) and represented 16 nationalities. Eighteen respondents self-identified as expedition leaders, while 47 identified as expedition team members. The majority of respondents reported a primary interest in vertebrate biology (n=24) (Figure 1). Thirty-two respondents reported more than forty trips to the Antarctic Peninsula, with an additional 12 individuals reporting between 20 and 40 trips.
+
+
+Figure 1. Self-reported expertise and primary interest of survey respondents.
+
+
+Analysis of the risks identified as playing an important role in site sensitivity yielded relatively low variability, with all identified risks having an average ranking of between 3.63 and 4.73 (Figure 2). Overall, however, disturbance of seabirds was identified as the greatest risk contributing to site sensitivity, with a risk index value of 4.73±0.51. Vegetation trampling, fuel leaks, and litter were also identified as significant risks (risk index values of 4.72±0.52, 4.62±0.76, and 4.53±0.92, respectively). The least important risks identified included noise pollution and ground compaction (risk index values of 3.63±1.23, and 3.92±0.95, respectively).
+
+
+Figure 2. Environmental sensitivity scores according to expert survey results for sites with Site Guidelines.
+
+Initial results indicate that of the twenty visitor sites assessed, Hannah Point is considered the most environmentally sensitive among survey respondents (Sensitivity Index = 4.66±0.67), closely followed by the Aitcho Islands (specifically, Barrientos Island) and Paulet Island (Sensitivity Index of 4.33±0.88 and 4.31±0.86 respectively) (Figure 3). 
+
+
+
+Figure 3. Environmental sensitivity scores according to expert survey results for sites with Site Guidelines
+
+Interestingly, when evaluating the site-specific risks associated with Hannah Point and the Aitcho Islands, there was very high congruence between the risks identified as “very important” for both sites. These risks included non-native species introduction, trampling of vegetation, disturbance to seabirds, penguin, and seals, and inappropriate trail formation. The sites considered the least environmentally sensitive included Damoy Point, Whalers Bay, and Danco Island (2.89±1.05, 2.96±1.36, 3.00±1.04, respectively). 
+
+When compared with the previous Oceanites sensitivity analysis, it is apparent the most sensitive and least sensitive sites remain consistent between analyses (Figure 4). Additionally, it is worth noting that there is a considerable amount of variation in the rankings of sites with moderate scores on the sensitivity indices. Devil Island was ranked as being more sensitive (relative to other site rankings) than in 1997, which likely reflects the fact that the growing Adélie penguin population has narrowed the passageway that visitors must cross to go from the landing site to the open area behind the colony. 
+
+
+Figure 4. Comparison of the Oceanites site sensitivity analysis results and the expert survey results
+
+One possible method of applying these sensitivity scores to determine the dimensions of sensitivity may be through the use of a principal component analysis. A preliminary analysis was completed focused on only four characteristics of sites that might contribute to high site sensitivity scores: Adèlie, chinstrap, and gentoo penguin occupancy of a site, and the shortest distance from the landing site to wildlife at each site. These characteristics were combined into a single variable representing the first Principal Component (which describes the greatest amount of variation in site sensitivity).  Results suggest that there is a relationship between this dimension of sensitivity, encompassing penguin presence and proximity to wildlife, and the reported sensitivity scores (Figure 5). The success of this method in describing a latent dimension of sensitivity suggests that this method will likely be useful in future, more comprehensive analyses.
+
+Figure 5. Relationship between site sensitivity scores and principal component 1, describing Adelie, gentoo, and chinstrap penguin occupancy and shortest distance from landing to wildlife of a site.
+
+Additional analyses are ongoing to identify other characteristics of sensitivity to include in a comprehensive model, including vegetation cover, landscape features, and visitor area characteristics of each site. In particular, the research team noted the importance of a site’s “geometry”; in particular the distance from a site’s landing beach to the sensitive elements ashore such as breeding penguins, wallowing seals, or easily trampled mosses. As noted above in regard to the “geometry” of Devil Island, it appears that the growing Adélie penguin population has narrowed the passageway that visitors must cross to go from the landing site to the open area behind the colony. 
+Developing a new assessment of floral sensitivity
+In recognition of the sensitivity of Antarctic vegetation to disturbance, the long time-scales required for growth and recovery from disturbance, the potential for widespread endemism, and the relative paucity of information about their evolutionary uniqueness, Antarctic vegetation must be accounted for in a sensitivity assessment of Antarctic visitor sites. Over the last decade, some progress has been made to understand the biogeography of Antarctic moss and lichen;4,5 these studies have found that while some large-scale patterns in diversity exist, the moss and lichen biodiversity of individual sites can be strongly influenced by highly-local factors that make it difficult to evaluate diversity in the absence of detailed surveys. 
+
+In the 2014-15 field season, the ASI completed a joint survey of Antarctic Visitor Sites in collaboration with Arctic specialists from the Norwegian Institute for Nature Study (NINA). The survey tested whether methods that use landscape features as a proxy for the presence or absence of vulnerable moss and lichen species developed for the Arctic can be adapted for use in the Antarctic. By the close of the 2014-15 field season, a rapid assessment methodology was drafted to assess the potential presence of evolutionary unique vegetation (Appendix 3). The methodology identifies vulnerable vegetation units according to the soil type, slope, and primary vegetative cover. These vulnerable units can then be scored for their sensitivity to disturbance and their recovery potential. Each visitor site can then be assessed to determine if any vulnerable units are present, and if so, the extent to which the visitor site is covered by vulnerable units. The vegetation assessment tool will be tested in the field during the 2015/16 season and, if successful, will be incorporated into immediate site assessment triage system described previously.
+
+Regardless of the methods used to survey the presence of moss and lichen species at each Antarctic Visitor Site, the environmental sensitivity of a site should also include whether species present at a site and vulnerable to disturbance are rare and/or taxonomically unique. To further develop this aspect of the methodology and supplement the rapid vegetation assessment techniques described above, a survey of species occupying visited sites is proposed, with a focus on moss and lichen species which are known to be incompletely surveyed and are not being monitored regularly.6 Once a biological survey has been completed, species can be placed in the context of their evolutionary relationships to identify those species that are most critical to protect. Sites possessing endemic species that are highly unique from an evolutionary perspective will be weighted as more sensitive than those possessing species that are closely related to other, more common, species. In this way, it is hoped to be able to protect cryptic species whose biological uniqueness may be unappreciated and not currently included in assessments of site sensitivity. 
+Tracking seabird abundance and distribution 
+Nesting seabirds are only one component of site sensitivity, but because they represent an attraction for visiting tourists, it is important to develop methods to track their occupancy and abundance. Changes in the abundance and distribution of nesting seabirds may reflect changes in the environment, and may actually drive a shift in the spatial pattern of tourism as sites with declining populations get replaced over time by newly established colonies or sites with growing seabird populations.
+While data on the abundance and distribution of seabirds in the Antarctic Peninsula region have been provided by the ASI to Antarctic stakeholders for two decades, significant advances have been made over the last several years in the use of remote sensing satellite imagery to map penguins and, increasingly, other colonially-nesting seabirds. The use of remote sensing technology radically transforms Antarctic ecology and management from a data-limited situation to a data rich situation. At the same time, traditional streams of data from remote cameras and the ASI’s direct field surveys continue to provide important information on the occupancy and abundance of penguins and other seabirds. 
+To meet the needs of Antarctic stakeholders with regards to real-time, accurate, and easily accessed information on Antarctic seabird distributions, the US’s National Aeronautics and Space Administration is now funding the development of a browser-based application that creates estimates of penguin abundance in any user-defined area, identifies those sites driving the uncertainty of aggregated abundance estimates, and predicts future abundance based on the dynamics of each breeding population in the area of interest. This application, called ‘MAPPPD’ (Mapping Application for Penguin Population and Projected Dynamics, is being developed at Oceanites’ partner institution, Stony Brook University, with Oceanites’ full cooperation, and will assist ongoing monitoring by the Antarctic Site Inventory of the western Antarctic Peninsula. The new application will automatically download all available satellite imagery for the region, use recently developed interpretation methods to extract abundance estimates, and integrate those estimates with field counts (including, but not limited to, those from the ASI), as well as verified records of presence and absence of species from tourists and other visitors to the region. The current design of the MAPPPD system, which encompasses the entire geographic area under control of the Antarctic Treaty System, allows users to access all available information on penguin populations and their projected dynamics at any user-defined scale. At the end of its final development, MAPPPD will represent an automated pipeline for remote sensing and ground-based observations that can be searched and analyzed using a user-friendly browser-based application. MAPPPD will initially focus on presenting population information for the four penguin species with substantial Antarctic breeding populations (Adélie penguins, emperor penguins, gentoo penguins, and chinstrap penguins) but can be later expanded to other species depending on feedback received by the ATPs. MAPPPD is being developed at Stony Brook University for long-term operation and maintenance by Oceanites. The MAPPPD system represents the next generation model for distribution and use of ASI data and its integration with other data sources, and will facilitate more direct access by ATPs to data on the abundance and distribution of wildlife at Antarctic Visitor Sites.
+This application, which will be completed within two years and introduced at future CEP meeting, will represent a key tool for spatial-management of Antarctic resources, including the designation of specially-protected areas and the continued monitoring of the human footprint as it relates to penguin breeding areas. Importantly, this decision-support tool will facilitate the real-time updating of site sensitivity metrics related to penguin occupancy, and may be further adapted to include other seabirds and vegetation as the technology for monitoring these other groups of species becomes more mature.
+Next steps and work planned for the 2015/16 intersessional period 
+The development of the new site sensitivities methodology to date indicates that: (1) the expedition staff survey of site sensitivities largely match expert opinion described in previous Oceanites/ASI analyses and, moreover, effectively highlight changes in site sensitivity due to changing conditions at the site; (2) drivers of site sensitivity are highly idiosyncratic and linked to the terrain and geography of the site (where the landing is situated relative to breeding birds and how much room there is to walk around the site without encroaching on wildlife or vegetation) more than the diversity, abundance, or type of biological features occupying the site; and (3) regular surveying of expedition staff every five years will greatly assist both the CEP’s and the ATCM’s review of site sensitivities.
+Necessary to developing the new components suggested above will be ongoing, Peninsula-wide, monitoring and data collection by the Antarctic Site Inventory. Additionally, upon the closure of the expert survey in approximately nine months, a comprehensive analysis of site sensitivities and dimensions of sensitivity will be conducted. During the forthcoming 2015-16 field season, the vegetation assessment tool will be tested and, if successful, incorporated into the rapid assessment tool. As noted, at ATCM XXXIX in Chile, the research team plans a demonstration of the new site sensitivities methodology and how it applies to four key sites.
+
+Appendix 1 Survey Form, Sample Site Questionnaire
+Antarctic Peninsula Site Sensitivity
+Expert Survey
+
+The purpose of this survey is to determine what local experts believe is the most important aspect of Antarctic Peninsula site sensitivity to disturbances. For each question, choose the answer you most closely agree with.  
+
+    1. With what sex do you identify?
+        ◦ Male
+        ◦ Female
+        ◦ Prefer not to specify
+    2. What is your age?
+        ◦ Under 21
+        ◦ 20-40
+        ◦ 40-50
+        ◦ 50-60
+        ◦ Over 60
+    3. What do you consider your primary nationality?
+
+
+
+    4. What is your affiliation with the Antarctic Peninsula?
+        ◦ Naturalist
+        ◦ Researcher
+        ◦ Expedition Leader
+        ◦ Expedition Staff
+        ◦ Captain/Crew Member
+        ◦ Other: ___________________________
+    5. If you are a researcher/naturalist, in what field is your primary research?
+        ◦ Vertebrate Biology
+        ◦ Plant Biology
+        ◦ Oceanography
+        ◦ Geology
+        ◦ History
+        ◦ Other: ___________________________
+    6. How many trips have you made to the Antarctic Peninsula? If you are currently on a trip, include this trip in the total.
+        ◦ 1
+        ◦ 2
+        ◦ 3-5
+        ◦ 6-10
+        ◦ >10
+    7. What is the highest level of education you have completed?
+        ◦ No Schooling
+        ◦ High School or equivalent
+        ◦ Some College
+        ◦ Bachelor’s Degree
+        ◦ Master’s Degree
+        ◦ Doctoral Degree
+    8. How often do you visit the Antarctic Peninsula?
+        ◦ Multiple times per year
+        ◦ Annually
+        ◦ Every 1-2 years
+        ◦ Every 2-5 years
+        ◦ Every 10+ years
+        ◦ I do not anticipate repeated visits.
+        ◦ Other: ___________________________
+    9. When was your last visit to the Antarctic Peninsula?
+        ◦ Within the last 12 months
+        ◦ Within the last 2 years
+        ◦ Within the last 5 years
+        ◦ Within the last 10 years
+        ◦ More than 10 years ago
+        ◦ I have never been to the Antarctic
+    10. In your own words, what does the phrase "site sensitivity" (as applied to current or potential Antarctic visitor sites) mean? 
+
+    11. What are the most factors important in determining site sensitivity? 
+
+
+    12. Grade the following sites in regards to their sensitivity (1 = low sensitivity, 5 = highly sensitive)
+
+Penguin Island
+
+
+Brown Bluff
+
+Barrientos Island – Aitcho Islands
+
+
+Shingle Cove
+
+Cuverville Island
+
+
+Devil Island
+
+Jougla Point
+
+
+Whalers Bay
+
+Hannah Point
+
+
+Half Moon Island
+
+Neko Harbor
+
+
+Baily Head
+
+Paulet Island
+
+
+Detaille Island
+
+Petermann Island
+
+
+Danco Island
+
+Pleneau Island
+
+
+Damoy Point
+
+Yankee Harbor
+
+
+Port Charcot
+
+
+    13. Why is the site (or sites) you selected the most sensitive?
+
+
+    14. Why is the site (or sites) you selected the lease sensitive?
+
+
+    15. Do you have any other comments in regards to Antarctic Peninsula site sensitivity?
+
+
+The following pages contain sites information about individual sites. For each site, comment on your familiarity with the site, potential risks to the site, and its sensitivity to disturbance.
+
+Penguin Island
+Key Features
+
+Dormant volcanic cone
+Southern giant petrels
+Chinstrap penguins
+Vegetation
+Whale bones
+
+
+Are you familiar with this site? 		□    Yes			□    No			□    Unsure
+For this site, what do you believe are the potential risks? Check all that apply.
+    • Importation of non-native species
+    • Trampling of vegetation
+    • Erosion
+    • Ground compaction
+    • Disturbance of penguins
+    • Disturbance of other seabirds
+    • Disturbance of seals
+    • Noise pollution
+    • Difficult approach by ship/zodiac
+    • Fuel Leaks
+    • Fire
+    • Damage to / removal of historic sites & artefacts
+    • Litter
+    • Inappropriate trail formation
+    • Damage due to ship operations
+    • Unsafe trail conditions
+    • Not Applicable / Not familiar with this site
+    • Other (specify):
+
+For this site, which of these risks is has the greatest likelihood of occurring? 
+
+For this site, which of these risks is of greatest concern?
+
+For this site, when do these risks occur? Check all that apply.
+    • During ship travel
+    • During zodiac travel
+    • During zodiac landings
+    • While on land
+    • Not Applicable / Not familiar with this site
+    • Other (specify): 
+
+For this site, when do you anticipate these risks being a major issue? 
+    • Currently an issue
+    • Will be an issue within 1 year
+    • Will be an issue within 5 years
+    • Will be an issue within 10 years
+How sensitive is this site?
+    • Not Sensitive
+    • Low Sensitivity
+    • Moderate Sensitivity
+    • Moderately High Sensitivity
+    • High Sensitivity
+
+Appendix 2    Site Names and Abbreviations
+
+Abbreviation
+Site Name
+AITC
+Aitcho Islands (Barrientos Island)
+BAIL
+Baily Head
+BOOT
+Booth Island (Port Charcot)
+BROW
+Brown Bluff
+CUVE
+Cuverville Island
+DAMO
+Damoy Island
+DANC
+Danco Island
+DETA
+Detaille Island
+DEVI
+Devil Island
+HALF
+Half Moon Island
+HANN
+Hannah Point
+JOUG
+Jougla Point
+NEKO
+Neko Harbor
+PAUL
+Paulet Island
+PENG
+Penguin Island
+PETE
+Petermann Island
+PLEN
+Pleneau Island
+SHIN
+Shingle Cove
+WHAL
+Whalers Bay
+YANK
+Yankee Harbor
+
+
+
+Appendix 3 Preliminary assessment tool for vegetation sensitivity 
+
+
+Vulnerable Unit
+Tolerance
+Recovery Potential
+Percent Coverage of Site
+Placement of Vegetation within Site
+Total Score
+Inaccessible steep cliffs with lichen
+High (1)
+Weak (3)
+(1) One or a few areas; <10% of site
+(2) Many small areas; 10-20% of site
+(3) One large area; 10-20% of site
+(4) Several large areas; 20-50% of site
+(5) Large part of site; >50% of site
+(1) Periphery
+(2) On part of hiking trail
+(3) In primary visitor area
+(Total Score = Tolerance + Recovery + Cover + Placement)
+Moderately steep or flat areas with lichen
+Moderate (2)
+Weak (3)
+(1) One or a few areas; <10% of site
+(2) Many small areas; 10-20% of site
+(3) One large area; 10-20% of site
+(4) Several large areas; 20-50% of site
+(5) Large part of site; >50% of site
+(1) Periphery
+(2) On part of hiking trail
+(3) In primary visitor area
+
+Continuous moss beds in steep cliffs (in cracks with soil)
+Weak (3)
+Weak (3)
+(1) One or a few areas; <10% of site
+(2) Many small areas; 10-20% of site
+(3) One large area; 10-20% of site
+(4) Several large areas; 20-50% of site
+(5) Large part of site; >50% of site
+(1) Periphery
+(2) On part of hiking trail
+(3) In primary visitor area
+
+Continuous moss beds in moderately steep or flat soil or gravel
+Weak (3)
+Weak (3)
+(1) One or a few areas; <10% of site
+(2) Many small areas; 10-20% of site
+(3) One large area; 10-20% of site
+(4) Several large areas; 20-50% of site
+(5) Large part of site; >50% of site
+(1) Periphery
+(2) On part of hiking trail
+(3) In primary visitor area
+
+Sparse moss vegetation in moderately steep or flat areas
+Weak (3)
+Weak (3)
+(1) One or a few areas; <10% of site
+(2) Many small areas; 10-20% of site
+(3) One large area; 10-20% of site
+(4) Several large areas; 20-50% of site
+(5) Large part of site; >50% of site
+(1) Periphery
+(2) On part of hiking trail
+(3) In primary visitor area
+
+Vascular plants in rich soil
+Weak (3)
+Weak (3)
+(1) One or a few areas; <10% of site
+(2) Many small areas; 10-20% of site
+(3) One large area; 10-20% of site
+(4) Several large areas; 20-50% of site
+(5) Large part of site; >50% of site
+(1) Periphery
+(2) On part of hiking trail
+(3) In primary visitor area
+
+
+
+
+

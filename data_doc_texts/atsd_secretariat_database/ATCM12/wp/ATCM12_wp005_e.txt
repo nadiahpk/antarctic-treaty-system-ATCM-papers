@@ -1,0 +1,216 @@
+TRATADO ANTARTICO
+XII REUNION CONSULTIVA                                         ANTARCTIC TREATY
+                                                                XII CONSULTATIVE MEETING
+TRAITE SUR L'ANTARCTIQUE
+XII REUNION CONSULTATIVE                                       ДОГОВОР ОБ АНТАРКТИКЕ
+                                                                XII КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+                        CANBERRA
+                        13-27 SEPTEMBER
+                        1983
+
+ANT/XII/5
+12 September 1983
+Original: English
+
+ITEM FIVE - TELECOMMUNICATIONS AND METEOROLOGY
+(Draft recommendation submitted by Australia)
+The Representatives;
+
+Recalling Recommendation X-3;
+
+Taking account of the importance of Antarctic meteorological data to the World Weather Watch and the diminished value of such data if it is not available to users within and outside the Antarctic in accordance with the World Meteorological Organisation (WMO) schedules for the receipt of raw and processed data;
+
+Being aware of the problems leading to the non-arrival of meteorological data on the GTS from time to time;
+
+Noting, with appreciation, the efforts of the WMO Executive Committee Working Group on Antarctic Meteorology and the WMO Meeting on Antarctic Data Telecommunication Arrangements toward improving the availability of Antarctic meteorological data;
+
+Recommend to their Governments that they:
+
+1.      note the updated diagrams of meteorological data flow within and from the Antarctic prepared by the WMO Meeting on Antarctic Data Telecommunication Arrangements (see Annexes 1 and 2);
+
+2.      note the following conclusions of the WMO Meeting on Antarctic Data Telecommunication Arrangements:
+
+         the entry point (centre) on the GTS should be responsible for the proper compiling and formatting of the relevant Antarctic Bulletins, in accordance with established WMO telecommunication procedures;
+
+1
+.       nations inject on the GTS only data from those 
+stations they are collecting, and submit the names of the 
+stations for inclusion in the WMO Catalogue of 
+Meteorological Bulletins;
+
+.       in applying the relevant WMO telecommunication 
+procedures WMO members should be urged to adhere strictly 
+to the procedures for the use of "NIL" and "RTD" as 
+prescribed in the Manual on the GTS, Volume I, Part II, 
+paragraphs 2.3.2.2 and 2.3.3.7;
+
+.       WMO members should carry out careful checking of the 
+contents of their switching directories to ensure that 
+Antarctic data bulletins are correctly handled;
+
+.       all WMO members concerned with the collection and 
+dissemination of Antarctic observational data are 
+requested to implement real-time monitoring of their 
+respective centres, in conformity with the provisions 
+included in the Manual on the GTS, Volume I, Attachment 
+I-5, Table C.
+
+2
+ANNEX 1.
+
+PRINCIPAL ROUTES BY WHICH ANTARCTIC METEOROLOGICAL
+DATA ENTERS THE GTS
+
+
+                                  1   
+                  WASHINGTON       BUENOS AIRES         SANTIAGO
+                        |                 |                 |
+                        |                 |                 |
+                        |-----------------|-----------------|-------------------
+                                  GOES 4                                  80* S
+                        |-----------------|-----------------|-------------------
+                        |                 |                 |
+                  MC MURDO             PALMER           FARADAY
+                  (ARG)               (US)             (UK)
+                        |                 |                 |
+                        |                 |                 |
+                        |-----------------|-----------------|-------------------
+                                  Summer    Winter                        80* S
+                        |-----------------|-----------------|-------------------
+                        |                 |                 |
+                  MARAMBIO           BELLINGSHAUSEN      ARCTOWARD       SHEET
+                  (ARG)           (RUSSIA)           (STAF)           (US)
+                        |                 |                 | 
+                        |                 |                 |
+                        |-----------------|-----------------|-------------------
+                                                        Longitude 180* to 100* W
+                        |-----------------|-----------------|-------------------
+                        |                 |                 |
+                  PRETORIA           MOLODEZHNAYA       MAWSON
+                  (S. AFRICA)       (RUSSIA)           (AUS)
+                        |                 |                 |
+                        |                 |                 |
+                        |-----------------|-----------------|-------------------
+                                                        Longitude 60* E to 180* E
+                        |-----------------|-----------------|-------------------
+                        |                 |                 |
+                  OFFENBACH       MOSCOW             SYOWA
+                                    |                 |(JAPAN)
+                                    |                 |
+                                    |-----------------|-------------------
+                                  GTS                               40* S
+                                    |-----------------|-------------------
+                                    |                 |
+                              WETTERZENT           SYOWA
+                                    |               (JAPAN)
+                                    |
+                                    |-------------------
+                                    |                  
+                              TOKYO               CHRISTCHURCH
+                                    |                 | 
+                                    |                 |
+                                    |-----------------|-------------------
+                                                        Longitude 60* E to 180* E
+                                    |-----------------|-------------------
+                                    |                 |
+                              MELBOURNE          CASEY
+                                    |               (AUS)
+                                    |
+                                    |-------------------
+                                    |                  
+                              WELLINGTON          DUMONT D'URVILLE
+                                    |                 (FR)
+                                    |
+                                    |-------------------
+                                    |                  
+                                  Mc MURDO
+                                  (US)
+
+
+
+                      LEGEND
+
+    PRIMARY ROUTE TO AND FROM GTS
+    PRIMARY ROUTE TO GTS
+    M.C. OF STATION WITH SIMILAR FUNCTIONS
+    ANTARCTICA COLLECTING AND TRANSMITTING STATION
+    PATH WITH WMC
+
+
+                      KEY TO STATIONS
+
+    1.  HALLEY (U.K.)
+    2.  NEUMAYER (F.R.G.)
+    3.  SANAE (S. AFRICA)
+    4.  MOLODEZHNAYA (RUSSIA)
+    5.  MAWSON (AUS)
+    6.  CASEY (AUS)
+    7.  Mc MURDO (US)
+    8.  DUMONT D'URVILLE (FR)
+    9.  SYOWA (JAPAN)
+    10. PRET (CHILE)
+    11. MARAMBIO (ARG)
+    12. BELLINGSHAUSEN (RUSSIA)
+    13. ARCTOWARD (STAF)
+    14. SHEET (US)
+    15. FARADAY (UK)
+ANNEX 2.
+
+EXISTING LINKS FOR THE DAILY INTERNATIONAL EXCHANGE OF METEOROLOGICAL DATA WITHIN 
+THE ANTARCTIC (June 1983)
+
+LATITUDE 60° SOUTH.
+
+                                 TELECOMMUNICATION MEANS
+
+                                 POINT TO POINT LINK
+                                 OMNIDIRECTIONAL RADIO BROADCAST
+                                 irf  IRREGULAR
+
+                                 RADIO BROADCASTS
+                                 MARAMBIO        F1: H + 00 (SYNOP)
+                                                 AI, F1, H + 30 (SYNOP), H + 60 (TEMP)
+                                 MOLODEZHNAYA    F4, F1, H + 45 (SYNOP), H + 180 (TEMP)
+
+                                 Antarctic Collecting Station 
+                                 with the number of stations 
+                                 from which data are collected
+                                 S:summer 
+                                 W:winter 
+
+                                  GREATER ANTARCTICA 
+                                  (Main Auroral Zone)  2019 
+
+                                  SYOWA/MIZUHO       
+                                  NOVOLAZAREVSKAYA   
+                                  SANAE           
+                                  NEUMAYER        
+                                  Halley          
+                                  BELINGSHAUSEN   
+                                  ARCTOWSKI       
+                                  MARAMBIO 68/7W   
+                                  FREI            
+                                  FARADAY         
+                                  PALMER          
+                                  ROTHERRA        
+                                  SIPLE           
+                                  McMURDO         
+                                  CASEY           
+                                  MAWSON          
+                                  DUMONT D'URVILLE 
+
+                                  F1, F4          
+                                  B               
+                                  F1, At          
+                                  3               
+                                  F1              
+                                  4               
+                                  8               
+                                  8               
+                                  irf (on call)   
+                                  B               
+                                  irf (on call)   
+                                  9               
+                                  2               
+                                  11              

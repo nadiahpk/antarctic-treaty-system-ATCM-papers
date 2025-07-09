@@ -1,0 +1,109 @@
+﻿
+
+
+
+
+
+Overview of 
+IAATO Operators’ Flight Activity
+
+
+
+
+
+
+
+
+Overview of IAATO Operators’ Flight Activity
+An Information Paper by IAATO
+Summary
+The International Association of Antarctica Tour Operators (IAATO) was requested by ATCM XL in Beijing (2017) to provide an overview of its Operators’ air activities. IAATO Operators have been providing intercontinental flights since 1985 landing, in the main, on blue-ice runways. Ski-equipped aircraft operate within Antarctica for station visits, expedition and science support. The lack of air traffic services in Antarctica is a concern for flight safety but is mitigated in part by the use of Traffic Information Broadcast by Aircraft (TIBA). Flight safety could be further enhanced by procedural improvements and technical advances, e.g. TCAS. 
+Introduction
+ATCM XL WP046 (Beijing 2017) set out the issues surrounding the expansion of air operations both by National Antarctic Programs (NAP) and non-governmental operators, which are largely tour operators, who are members of the International Association of Antarctica Tour Operators (IAATO). It was noted that there is no single database covering air operations in Antarctica. Even basic data such as aircraft types, number of flights, passengers flown, hours flown, etc. are not easily accessible in any central location. Similarly, there is no centralized record of air incidents and accidents. This is key: the extreme nature of the environment gives unique challenges to managing aviation in Antarctica and presents unique risks. However, with no central repository for the recording, collation and analysis of incidents and accidents it is difficult to judge empirically what are the greatest risks to aviation.
+ATCM XL WP046 recognized that if the current trend continues without careful management the increase in air traffic could compromise air safety in the region. Norway, Australia and the United Kingdom proposed that the ACTM:
+    • Looks into the challenges that might occur in relation to increased air operations in Antarctica. It is important to look into different perspectives, and discuss possible outcomes in order to face challenges related to possible development of air operations in Antarctica. 
+    • Agree to place the topic of air operations on the ATCM Multi-Year Strategic Plan for further consideration and discussion at ATCM XLI in 2018.
+The shortened ATCM XLI meeting resulted in the discussion of air safety being delayed until ATCM XLII. This IP outlines the main flight activities by IAATO Operators, seeks to review the perceived main challenges and suggests possible ways ahead for this work.
+IAATO Operators’ Flight Activity
+IAATO Operators have been conducting flights into Antarctica since 1985. Initially, Adventure Network International (later rebranded Antarctic Logistics & Expeditions, ALE) flew to Patriot Hills to support climbers on Mt Vinson and other expeditions. Aerovías DAP has operated into Teniente Rodolfo Marsh, King George Island, since 1989. The Antarctic Company (TAC), a sister company to Antarctic Logistics Centre International (ALCI, established 2001) was established in 2009, and White Desert (WD), was established in 2006. Non-IAATO operator, Polar Logistics Ltd, operated into Blue-1 runway, Dronning Maud Land during the period 1995–2002 that was reopened by White Desert as Wolf’s Fang runway in 2016.
+Table 1 shows the intercontinental runways used by IAATO Operators, and the types of aircraft used in recent seasons. 
+
+Table 1 Intercontinental pathways used by IAATO Operators
+IAATO Operator
+Flight origin
+Intercontinental Runway
+Aircraft types
+Rotations 2018–19
+Antarctic Logistics & Expeditions
+Punta Arenas, Chile; Ushuaia, Argentina
+Patriot Hills (SCPZ)
+Union Glacier (SCGC)
+Ilyushin IL76-TD
+Dassault Falcon 7X
+Boeing 757
+25
+DAP
+Punta Arenas, Chile
+Teniente Rodolfo Marsh Martin (SCRM)1
+British Aerospace 146-200
+Beechcraft King Air 300
+67
+White Desert
+Cape Town, South Africa
+Wolf’s Fang (WFR)
+Gulf 550
+Gulf 650ER
+22
+The Antarctic Company
+Cape Town, South Africa
+Novolazarevskaya (AN17)
+Perseus
+Ilyushin IL76-TD90
+Boeing 757
+5
+In addition, IAATO Operators’ ski aircraft utilise a number of NAP skiways for mobilisation or demobilisation flights, station visits, expedition and science support (Table 2). NAP skiways most commonly used are Novolazarevskaya (Russian Federation), Amundsen–Scott South Pole Station (USA) and Rothera (UK). In addition, IAATO Operators maintain a variable number of seasonal skiways for their own use at fuel caches, expedition start or end points, and for seasonal field camps. 
+Table 2 Ski Aircraft used by IAATO Operators
+IAATO Operator
+Ski Aircraft Type
+Hours flown 2018–19
+Antarctic Logistics & Expeditions
+De Havilland Twin Otter DHC-6
+Douglas Turbine DC3-TP67
+507
+White Desert
+De Havilland Twin Otter DHC-6
+Douglas Turbine DC3-TP67
+600
+The Antarctic Company
+De Havilland Twin Otter DHC-6
+Douglas Turbine DC3-TP67
+62
+Air Traffic Management
+As noted in ATCM XL WP046, air traffic in Antarctica is managed by National Antarctic Programs (NAP) through the Council of National Antarctic Programs (COMNAP). COMNAP maintains an electronic Antarctic Flight Information Manual (e-AFIM) but it was also noted in ATCM XL WP46 that there is no compulsion for NGO operators to comply with it. Potentially, COMNAP’s oversight of the overall air activity is reducing with increasing NGO air operations. 
+The lack of air traffic services (ICAO Annex 11) in Antarctica, including flight information, air traffic advisory and air traffic control services, other than limited local systems around high activity areas such as McMurdo, Rothera, Novolazarevskaya, etc., means that there is an elevated aircraft proximity risk, currently only mitigated by the use of Traffic Information Broadcast by Aircraft (TIBA). Much flight activity by ski aircraft occurs away from the above high activity areas and the likelihood of ski aircraft meeting is remote, however, this may have the effect of reduced concentration by pilots, who do not expect to see another aircraft. 
+ATCM Recommendation XV-20 (1989) (later replaced by Resolution 1 ATCM XXXVI Brussels, 2013) introduced TIBA procedure laid down in Annex 11 to the Convention on International Civil Aviation. De-confliction at high activity areas should be a priority but it is also necessary over all of Antarctica and could be further mitigated if all aircraft were fitted with a Traffic Collision Avoidance System (TCAS). 
+Another option would be the introduction of Automatic Dependent Surveillance-Broadcast (ADS-B) which uses GPS information to track aircraft in real time to improve situational awareness. Like TCAS it requires all aircraft to be fitted with the necessary equipment if it is to be effective. However, ADS-B requires the allocation of aircraft identification codes to individual aircraft or, failing that, transmitting the aircraft registration. Outside Antarctica, allocation and monitoring is by air traffic services but there is no system, currently, within Antarctic air space for the allocation of ADS-B aircraft identification codes or monitoring that the correct aircraft identification has been set. 
+Navigation
+Navigation errors have led to Controlled Flight Into Terrain (CFIT) events. The most serious was the fatal crash into Mt Erebus of Air New Zealand Flight TE-901 on 28 November 1979. On 23 January 2013 a Kenn Borek DHC6-300 impacted Mount Elizabeth at 13,000ft killing all on board.
+With no overall air traffic service organization or systems requirements, navigation becomes solely the responsibility of the flight operators. This is fundamentally no different from other parts of the world but in this harsh environment where the consequences of errors may be catastrophic the setting of continent wide standards in terms of equipment fit, training requirements, operation standards and ground based systems may be advisable.
+Flight Tracking
+Traditionally, flights within Antarctica were tracked by voice communications over HF radio. Latterly, satellite communication has become the normal method. As technology has developed, the need for direct and frequent voice communication with the home base has diminished. Most aircraft, inter- and intra-continental, are fitted with satellite tracking systems. Development of the COMNAP Asset Tracking System (CATS) has enabled a central system for following flight (and ship) activity. While CATS was under development for flight tracking, many NAPs and IAATO Operators used Automated Flight Following (AFF, www.aff.gov), a US based on-line system giving aircraft tracking, location and velocity in near-real-time. IAATO believes that CATS will help to improve air SAR coordination and response, and improve aviation safety but to achieve these goals, it will need to track all flight activity in Antarctica, whether NAP, NGO or military. 
+IAATO Operators, at the recent IAATO Annual Meeting (Cape Town, 30 April–3 May 2019), committed to tracking all their intercontinental and intra-continental ski aircraft  on CATS for the 2019–20 season. 
+IAATO Operators’ flight activities during the 2018–19 season were followed using VHF, HF and Iridium satellite communication voice calls. The messaging service on InReach (a satellite communication device) was trialled in 2018 by some IAATO Operators. This made flight following a lot easier and allowed quick and reliable transfer of TAF and METAR weather information. Each aircraft had their own dedicated device. The trial showed there was a marked increase in information flow between pilots and Flight Operations Centres but administration of logging every message was somewhat tedious. 
+Weather Forecasting
+Weather is an obvious hazard in this region and forecasting is difficult. A lack of a coordinated system serves to exacerbate the issue. All IAATO Operators have forecasters, who use a variety of tools, including Automatic Weather Stations (AWS), satellite imagery, local observation, and data from climate modelling (e.g. Antarctic Mesoscale Prediction System). IAATO Operators both feed into and receive current and forecast meteorological (TAFs and METARs) information from other NGOs and NAPs.
+Search and Rescue (SAR)
+IAATO Operators comply fully with ATCM Measure 4 (2004) Insurance and Contingency Planning for Tourism and Non-Governmental activities in the Antarctic Treaty Area (updated by Resolution 6, 2017), and each Operators’ air activities are planned to have the appropriate contingency in place to effect search and rescue and medical evacuation. IAATO has strong connection with the five Rescue Coordination Centres (RCCs) and has opened its ship tracking system to them to allow tracking of IAATO marine assets. 
+IAATO’s Emergency and Medical Evacuation Response Plan (EMER) provides guidance and a checklist for Operators in cases of emergency. It is, however, largely predicated on responses to emergencies or medical evacuations by passenger vessels. IAATO’s Deep Field and Air Operators Working Group agreed at IAATO 2019 to develop an Air-EMER, recognizing that their air assets are widely distributed over Antarctica.
+In the event of an accident IAATO Operators are always ready to offer their assets to assist in SAR events. Currently, there is limited or no means of assessing all available SAR assets, making the task for the relevant RCC harder in managing any recovery effort. Each NAP assumes responsibility for its own activity, as do IAATO Operators. 
+IAATO has been invited and taken an active role at COMNAP SAR Workshops and has, independently, held a number of Joint IAATO–RCC SAR Scenarios. The majority of these have been marine based and IAATO sees a need to work with RCCs to develop their understanding of Operators’ Deep Field and fight activities. 
+Incident and Near-Miss Reporting and Investigation
+Incidents and near-misses are reported to and managed by each NAP and IAATO Operator individually. There is, currently, no central database where this information is collated or analysed. Therefore there is no real understanding of the state of air safety in the Antarctic. IAATO Operators are committed to conducting their activities with a strong emphasis on preventive mitigation and sharing of lessons learnt.
+The Way Ahead
+There has been an increase in the number of intercontinental flights by IAATO Operators in recent years, most noticeably on the Punta Arenas­–King George Island route in support of air-cruise activities. One known blue-ice runway has been reopened (Wolf’s Fang) and a second (Perseus) in under development. 
+The spread of activities by IAATO Deep Field Operators has increased over the years but the number of passengers flown to Deep Field sites has not increased significantly (c.f. IAATO Annual Reports to ATCM)
+The general increase in air activity and associated safety issues are as much a concern to IAATO as to others. A key issue highlighted in ATCM XL WP46 was the paucity of flight data and incident reporting, and this remains a concern. Analysis of such data, should it become available, may show what are the current risks to air activity and what might be done to mitigate them on a practical level.
+The development by COMNAP of e-AFIM and CATS, and the recent publication of new Air Navigation Charts are welcome and IAATO Operators are committed to sharing information where this will be of value.
+
+
+

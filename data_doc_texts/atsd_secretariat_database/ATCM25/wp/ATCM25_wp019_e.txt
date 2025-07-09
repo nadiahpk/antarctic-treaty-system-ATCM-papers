@@ -1,0 +1,2357 @@
+XXV ATCM
+Working Paper WP-019
+Agenda Item: CEP 4c
+RUSSIA
+Original : Russian
+
+WATER SAMPLING OF THE SUBGLACIAL LAKE VOSTOK
+DRAFT COMPREHENSIVE ENVIRONMENTAL EVALUATION
+2
+
+1. INTRODUCTION ............................................................................................................................ 1
+
+2. DESCRIPTION OF PROPOSED ACTIVITY ................................................................................ 2
+
+2.1. BACKGROUND OF ICE SHEET DRILLING AT VOSTOK STATION. GENERAL INFORMATION ...... 2
+
+2.2. TECHNOLOGY OF DIRECT PENETRATION TO LAKE VOSTOK ............................................... 3
+
+2.3. STAGES AND PLANNING OF THE PROPOSED ACTIVITY ........................................................ 3
+
+2.3.1.Preliminary stage. Obtaining of necessary additional information to initiate the 
+proposed activity: Continuation of drilling additional 50 m (season of 2002/2003) ............... 3
+
+2.3.2. First stage. Continuation of drilling to a depth of 3723 m................................................ 6
+
+(seasons of 2003/2004 and 2004/2005)....................................................................................... 6
+
+2.3.3. Second stage. Continuation of drilling until contact with the lake surface....................... 7
+
+(season of 2005/2006) ................................................................................................................ 7
+
+2.4. JUSTIFICATION OF THE NEED AND ADVISABILITY OF THE PROPOSED ACTIVITY ................ 8
+
+2.5. MAJOR EXPECTED RESULTS ................................................................................................ 9
+
+2.6. AREA OF THE PROPOSED ACTIVITY AND FACILITIES .......................................................... 9
+
+2.7. TYPES OF THE EXPECTED PRODUCTION AND DOMESTIC WASTE AND METHODS OF THEIR 
+UTILIZATION AND REMOVAL.................................................................................................... 10
+
+2.7.1. Oil and oil-containing mixtures........................................................................................ 10
+
+2.7.2. Sewage water................................................................................................................... 10
+
+2.7.3. Garbage (including solid kitchen waste).......................................................................... 10
+
+3. DESCRIPTION OF THE ENVIRONMENT IN THE OPERATION AREA ............................... 11
+
+3.1. PHYSICAL-GEOGRAPHICAL DESCRIPTION OF THE AREA OF ACTIVITY ................................ 11
+
+3.2. GLACIAL COVER IN THE LAKE AREA ................................................................................... 11
+
+3.3. CLIMATE................................................................................................................................ 12
+
+3.4. SUBGLACIAL LAKE VOSTOK................................................................................................. 14
+
+3.4.1. Geophysical studies in Lake Vostok area........................................................................ 15
+
+3.4.2. Geophysical data on the area of Lake Vostok and the adjoining territories.................... 16
+
+3.4.3. Characteristics of the gaseous and chemical composition of water of Lake Vostok 
+based on the study of ice core from the borehole 5G-1............................................................. 18
+
+3.4.4. Water salinity of Lake Vostok.......................................................................................... 18
+
+3.4.5. Microbiological studies of deep horizons of the ice sheet............................................... 19
+
+3.4.6. Viability of bacterial cells............................................................................................... 20
+
+3.4.7. Molecular-biological studies of microbial diversity of the ice sheet deep horizons 
+formed of water of Lake Vostok................................................................................................ 21
+
+3.5. BIOTA IN THE ACTIVITY AREA.............................................................................................. 22
+
+3.6. ANTHROPOGENIC LOAD ON THE ENVIRONMENT OF THE AREA......................................... 22
+
+4. ANALYSIS OF THE ENVIRONMENTAL IMPACT ................................................................ 24
+
+4.1. IDENTIFICATION OF IMPACT SOURCES ................................................................................ 24
+
+4.1.1. Impact agents.................................................................................................................. 24
+
+4.1.2. Types of activity ............................................................................................................. 25
+
+4.1.3. Areas of the activity (impact).......................................................................................... 25
+
+4.2. ANALYSIS OF SIGNIFICANCE OF THE ANTICIPATED ENVIRONMENTAL IMPACT .................... 29
+
+4.3. ANTICIPATED IMPACT ON ENVIRONMENTAL COMPARTMENTS ......................................... 33
+
+4.3.1. Direct impact and contamination risks ........................................................................... 33
+
+4.3.2. Possible indirect impact ................................................................................................. 35
+
+4.3.3. Cumulative impact.......................................................................................................... 36
+3
+
+4.4. ANTICIPATED IMPACT ON THE AESTHETIC AND WILDERNESS VALUES OF THE ENVIRONMENT ............................................................................................................................... 37
+
+4.5. ANTICIPATED IMPACT ON THE AREAS OF SCIENTIFIC, HISTORIC AND CULTURAL 
+SIGNIFICANCE ............................................................................................................................... 37
+
+4.6. UNAVOIDABLE IMPACT AT CONTINUATION OF DRILLING THE BOREHOLE 5G-1 AND 
+PENETRATION TO LAKE VOSTOK ................................................................................................ 37
+
+4.7. RISK OF THE IMPACT OF LAKE MICROORGANISMS ON THE HUMAN HEALTH AND THE 
+ENVIRONMENT ............................................................................................................................... 37
+
+4.9. PROPOSALS FOR MITIGATING THE ENVIRONMENTAL IMPACT ........................................ 38
+
+4.10. GAPS IN KNOWLEDGE ............................................................................................................. 39
+
+4.11. ALTERNATIVE TYPES OF ACTIVITY (COMPARISON WITH THE DECLARED ACTIVITY ON 
+ENVIRONMENTAL IMPACT)........................................................................................................... 39
+
+    4.11.1. Alternative methods for penetration to the subglacial Lake Vostok............................... 39
+
+    4.11.2. No action alternative ........................................................................................................... 40
+
+5. CONCLUSIONS ............................................................................................................................... 41
+
+6. PREPARERS AND ADVISORS ...................................................................................................... 42
+
+7. ATCM DOCUMENTS ....................................................................................................................... 43
+
+8. REFERENCES .................................................................................................................................. 43
+
+9. ANNEXES .............................................................................................................................. ERROR! BOOKMARK NOT DEFINED.
+1. INTRODUCTION
+
+In compliance with the Antarctic Treaty, any activity on the continent (including conduct of scientific research) shall be planned and conducted so as to limit adverse impacts on the environment. The main formal document containing regulatory instructions in this respect is the Protocol on Environmental Protection to the Antarctic Treaty signed on October 4, 1991 in Madrid by the countries - participants of the Antarctic Community and ratified by Russia on May 24, 1997 (No. 79-FZ). In particular, in compliance with the Protocol, it is necessary to avoid:
+
+- significant changes in the atmospheric, terrestrial (including aquatic), glacial or marine environments;
+- degradation of, or substantial risk to, areas of biological, scientific, historic, aesthetic or wilderness significance.
+
+Given the wilderness and uniqueness of the natural system "ice sheet-Lake Vostok" including at once several media (glacial, aquatic and precipitation), it can be stated that the possibility itself of conducting lake studies (in particular, a correct water sampling) depends on meeting these requirements.
+
+In compliance with the Protocol, observance of the indicated requirements means evaluation and conclusion about a possible impact of proposed activity on the Antarctic environment. Depending on the character and time of impact, such evaluation has three levels: Preliminary Stage, Initial Environmental Evaluation and Comprehensive Environmental Evaluation. Due to the fact that water sampling of the subglacial lake is a complicated objective with respect to technology and logistics (for whose solution several years will be necessary) and is connected with danger of impacting a unique natural body, accomplishment of this activity requires preparation of a Comprehensive Environmental Evaluation.
+
+Such evaluation shall include a complex of measures with the following key components among them:
+- a description of the proposed activity, including its purpose, location, duration and intensity;
+- estimation of the nature, extent, duration, and intensity of the likely direct impacts of the proposed activity;
+- consideration of possible indirect or second order impacts of the proposed activity;
+- identification of measures, including monitoring programs, that could be taken to minimize or mitigate impacts of the proposed activity;
+- identification of unavoidable impacts of the proposed activity;
+- an identification of gaps in knowledge and uncertainties encountered in preparation the conclusion.
+
+In July 2001, the Russian Party has already submitted for discussion at XXIV ATCM a positive conclusion of the Expert Commission of the State Ecological Expert Examination (Russia) a project of penetration to the subglacial Lake Vostok obtained in compliance with the existing national procedures.
+
+The document proposed for consideration presents Draft Comprehensive Environmental Evaluation for water sampling of the subglacial Lake Vostok (Antarctica) using the exiting borehole 5G-1 and a specially developed technology.
+2. DESCRIPTION OF PROPOSED ACTIVITY
+
+Given the great scientific significance of the study of the subglacial Lake Vostok in this country and in the international Antarctic community, the Russian Federation plans to continue super-deep drilling of the ice sheet with the aim of direct penetration to Lake Vostok. Based on practical and economic considerations with respect to organization and logistics of drilling a new borehole, the Arctic and Antarctic Research Institute (AARI) and the St. Petersburg State Mining Institute (SPSMI) (TU) propose to use for accessing Lake Vostok the already existing borehole 5G-1, special technical equipment and technology of environmental safe water sampling.
+
+2.1. Background of ice sheet drilling at Vostok station. General information
+
+Drilling of a deep hole at Vostok station was initiated in the 35th SAE (1990) by a thermal method using TELGA and TB3S types of drills. During the 38th RAE (1993), the borehole 5G-1 reached a depth of 2755 m. Due to insufficient funding of the 39th RAE and some technical and organizational problems, the Vostok station was temporarily decommissioned and no drilling activities were hence carried out. During the 40th RAE (1995), drilling of borehole 5G-1 was resumed from a depth of 2755 by the electrical mechanical drill and without any complications the depth of the borehole 5G-1 has increased from 2755 m to 3109 m. After suspension of Vostok station during the 41st RAE (1997), no drilling operations were undertaken in the borehole 5G-1 in the wintering periods. In the seasons of the 41st, 42nd and 43rd RAE (1995-1996, 1996-1997 and 1997-1998), the borehole 5G-1 was run from a depth of 3109 to 3623 m, which is almost 600 m as deep as the maximum depths achieved by specialists of EC countries (3032 m and 2953 m) and the USA (3057 m) in drilling the boreholes under more favorable conditions of Greenland. Drilling of boreholes by the EC specialists was stopped due to accidents in these depths. To compensate the overburden pressure, the EC specialists use a drilling fluid similar to that used by Russia. Its composition includes aviation fuel of JP-8 type as the main component and Freon F-141b as heaver. Same fluid is applied for drilling a deep hole at Dome C in Antarctica under the European Program EPICA, which has achieved a depth of 1450 m by February 1, 2001.
+
+Drilling of the borehole was performed in the framework of the Russian-French-US Program of Deep Drilling and Ice Core Study at Vostok station.
+
+At present, the borehole 5G presents a complex multistage structure (Fig. Annex 1). In the upper portion of the hole, a casing to a depth of 120 m is installed with an internal diameter of 165 mm. To a depth of 2200 m (the hole was run by a TB3S-152 thermal drill with an external diameter of 152 mm), the minimum borehole diameter is equal to 153 mm. The minimum diameter by depth intervals comprises: 2200÷3095 m – 139 mm; 3095÷3321 m – 138.4 mm; 3321÷3500 m – 137.9 mm; 3500÷3570 m – 136.2 mm; 3570÷3623 m – 135 mm.
+
+Using a thermal TB3S-152 drill, the borehole was drilled to a depth of 2250 m. During the recovery of the drill at a depth of 2250 m, it was stuck in the hole. The cable was cut at the place of its seal in the drill. After that using a thermal TB3S-132 drill with the external diameter of the bore bit of 132 mm, a new borehole 5G-1 was drilled from a depth of 2200. Initially, the hole drilled from a depth of 2200 m to a depth of 2755 m by the thermal TB3S-132 drill had a minimum diameter of 133 mm.
+
+Before the beginning of drilling using a mechanical method, this borehole segment was enlarged to a diameter of 139 mm. In the process of drilling by a mechanical method (the maximum external diameter by bore bits of 135 mm), the drilled segments of the hole were periodically reamed resulting in a stepwise shape of the hole. The total volume of the drilling fluid (mixture of the aviation fuel ?S-1 and freon F-141b) in the borehole comprises around 60
+m3. The drilling fluid level as of January 21, 1999 was at a depth of 95 m, its average density 
+equaling 928 kg/m3. To a depth of 2200 m, the hole is practically vertical, then the deviation 
+angle of the borehole axis from the vertical changes within 6 to 8 ??.
+
+Before passing to a mechanical method of drilling, a casing for shutting off the 
+permeable firn zone was installed in the borehole 5G-1. All equipment for installation of the 
+casing (directly the casing, mechanical reamer and TV instrumentation for observations in the 
+borehole) was prepared at the Laboratoire de Glaciologie et Geophysique de L’Environnement 
+(LGGE, CNRS, France). The difference of this casing from those used before /5/ is in the design 
+of the lower section. It consists of (Fig. Annex 2) a standard inner pipe 1, external pipe (housing) 
+2 with a bottom 3, aluminum shoe 4 and nichrome wire 5, stacked in a ring space between the 
+housing and the inner pipe. Near the lower housing end, several holes are made.
+
+2.2. Technology of direct penetration to Lake Vostok
+
+In order to meet all ecological requirements for penetrating water of the lake, the authors 
+of the Project propose to introduce some changes in the usual drilling methodology.
+
+Significant experience of the team of drilling specialists gained in drilling the borehole 
+5G-1 has allowed developing and testing an environmentally clean drilling technology (both in 
+terms of eliminating the adverse impacts on the ozone layer of the atmosphere and from the 
+viewpoint of ice microbiology). The proposed method to access Lake Vostok envisages using 
+primarily the physical peculiarities of the state of the “ice sheet-subglacial Lake Vostok” system. 
+The basic fact is that the ice sheet is in the floating state with the “ice-water” 
+boundary corresponding to the ice column weight (overburden pressure). During ice drilling, the 
+hydrostatic drilling fluid pressure in the borehole compensates the overburden pressure. 
+Decreasing the drilling fluid quantity, it is possible to ensure undercompensation of overburden 
+pressure, i.e. create such conditions when the water pressure in the lake at a given point will be 
+greater than that of the drilling fluid column.
+
+The authors of the Project consider that under such conditions, at the contact of the hole 
+bottom and the lake surface, the drilling fluid will be forced out by lake water upward the 
+borehole to a height corresponding to undercompensation of the overburden pressure. It is 
+believed that penetration of the drilling fluid to the lake can be excluded as it is hydrophobic and 
+is much lighter than water. The drill will be extracted from the hole immediately after reaching 
+the surface. It is obvious that lake water rising up the hole should freeze along the entire 
+penetration height. After it freezes, the ice portion formed of the subsurface water layers of Lake 
+Vostok is drilled again. Ice remaining below, which is formed of lake water, separates the 
+bottom of the hole and the lake, i.e. prevents their possible connection. Thus, the proposed 
+method will allow sampling of lake water without the direct incorporation of the drill and the 
+measurement and sampling instruments to the lake.
+
+It is planned to realize this method of Lake Vostok access and study in several stages 
+applying two types of the drill and two types of the drilling fluids.
+
+2.3. Stages and planning of the proposed activity
+
+2.3.1.Preliminary stage. Obtaining of necessary additional information to initiate the 
+proposed activity: Continuation of drilling additional 50 m (season of 2002/2003)
+
+This stage of work is not formally part of the activity under consideration since it 
+presents continuation of the Project of drilling a deep borehole 5G-1 with the aim of extracting 
+ice cores for further analysis and filling gaps in the knowledge necessary for a successful 
+implementation of the Project of lake penetration and water sampling.
+
+Due to the discovery of a subglacial lake, SCAR (Cambridge, 1994) recommended to the
+participants of a joint Russian-US-French Project to suspend drilling of borehole 5G-1 upon reaching an ice thickness above the lake of 30-40 m ensuring a sufficient safety of the lake from penetration of the drilling fluid. Drilling was actually terminated at a depth of 3623 m with ice 130 m thick separating the lake water surface from the borehole bottom (determined from independent data of radio-echo and seismic soundings).
+
+   Due to a significant interest of biologists and glaciologists to the accretion ice at the bottom ice sheet portion beneath Vostok station, they have proposed to continue drilling of additional 50 m of ice applying the technology tested and used at Vostok station.
+
+   However, drilling of additional 50 m will be a preliminary stage of ice structure evaluation necessary for specifying the access technology and a necessary stage for penetration itself, which is planned after the analysis of the collected data.
+
+   In the opinion of independent experts, continuation of ice drilling in the borehole 5G at the Russian Vostok station with the aim to obtain new ice cores to a depth of 3673 m for possible new scientific studies of physical-chemical characteristics of the frozen water layer of the subglacial lake will not cause a serious load on the Antarctic environment in addition to that imposed in the past years. The main problems of possible penetration of the drilling fluid from borehole 5G to the Antarctic environment on which we should focus include:
+
+   1) Drilling-induced hydrofracturing. This can occur if the pressure of the drilling fluid exceeds that of ice. This phenomenon is well known to Russian drillers who have also learned it by experience at Vostok. At present, the fluid pressure in the Vostok hole is monitored by two independent methods: (i) calculation of pressure from the precise fluid density profile measured in the hole, and (ii) direct pressure measurements with an accuracy of ±1 bar. The pressure at the bottom of the hole is maintained to be slightly less than the ice load. The problem of the hole closure (which is also monitored at Vostok) caused by a negative fluid-ice pressure difference is solved by enlarging the hole with a special device used between the routine drilling runs.
+
+   2) Hydrofracturing which occurs due to deviatoric stresses of the ice flow and develops due to high pressure of subglacial water. It is believed that “the 220 m of accretion ice at Vostok forms an ice massif blocked against the eastern edge of the lake and overridden by the moving glacier. A shear layer (likely active) is found above the interface (around 3540 m depth) between the glacier and accretion ice”. This suggests that the deepest section of the accretion ice (to be drilled) experiences very low (if any) deviatoric stresses. The latter conclusion is fully supported by the high crystalline quality of the ice crystals, as revealed by X-ray diffraction measurements (Montagnat et al, 2001), which is only possible if the lake ice is not plastically deforming under in-situ conditions. Hence, the formation of open crevasses often observed in grounded ice can hardly be expected in the case of basal ice at Vostok.
+
+   3) Permeability of ice for the drilling fluid. Low lattice distortion (low dislocation density) of accretion ice crystals rules out a significant diffusion of the drilling fluid through ice lattice (Montagnat and others, 2001). However, the presence of liquid water along the grain boundaries provides a route for diffusive transport. The veins form a continuous network of microscopic channels that remains liquid at subfreezing temperatures. Hence, the contamination from the drilling fluid may be associated with both the downward advection of intercrystalline water and the diffusion of the drilling fluid through the vein system. A theory of this is given by Rempel et al. (2001). Using this theory and the field data (ice temperature, grain size) from Vostok, one can estimate that the total advection of the drilling fluid from the borehole towards the ice-water interface will have an order of 1 meter over millennial timescales. Moreover, the recent re-interpretation of the helium data from Jean-Baptiste et al. (2001) suggests the presence of an upward component of velocity in the accretion ice layer of about 6 mm per year, which can be the result of hydrostatic compensation in this region (Souche? et al., in press). Obviously, such an upward movement of ice, if present, would overcompensate expectedly a very slow
+downward advection of the fluid.
+
+4) Expected changes in mechanical properties of ice with depth. The properties of ice may be different in the deeper (younger) section of the ice sheet soon after ice accretion. Changes towards poorer quality of ice are expected.
+
+    The accretion ice below 3609-m depth (accretion ice II) is characterized by the extremely low gas and soluble impurity content, absence of mineral inclusions, exceptionally large ice crystals (from 10 to 100 cm and larger) and perfect crystalline quality of ice. The data available at present have been interpreted in terms of abnormal grain growth, which occurs under annealing temperature during the long time span after the ice accretion (Montagnat et al., 2001).
+
+    The age of accretion ice at 3675 m (temperature is about 1.5º below melting point), at which depth the drilling will be stopped after completing coring of an additional 50 m of ice, is estimated to be of an order of 10 kyr. Thus, we can safely assume that the ice at this depth will have mechanical properties similar to those already studied at a depth of 3623m. However, monitoring of grain size and other properties, which can be easily measured in the field during drilling operations should be recommended.
+
+5) Damage of the borehole due to ice flow. As the ice above the 3540-m depth moves with a maximum velocity of 2-5 m/yr at about 130º relative to the north (Bell et al., 2002), there is a potential risk that the hole filled with the drilling fluid will at some time collide with the elevated eastern edge of the lake located about 5 km downstream of Vostok (see Fig. 4 in Bell et al., 2002). Although this can not happen in the near future (but only in 1000 years or so from now), this point should also be taken into account and the drilling fluid should be removed from the Vostok borehole in due time.
+
+    That is why the Russian Antarctic Program recommends to the international community the following measures to ensure monitoring of the state of ice conditions at the borehole bottom with drilling new 50 m of the ice core at Vostok station that will minimize the risk of these operations:
+
+    Geophysical survey in the deep borehole which should include the borehole closure (deformation), ice temperature, fluid density and pressure controls;
+
+    Field observations and measurements of the ice texture and fabric on the fresh ice core, which would allow a timely detection of possible changes in the mechanical properties of ice related to ice permeability;
+
+    Developed emergency plan, which should be employed immediately in case the monitoring means indicate dangerous conditions (the conditions should be specified).
+
+    In the opinion of the Expert Commission, at accessing the lake using the proposed method, there are two ways of contaminants penetrating lake waters:
+
+    Introduction of alien substances at the water contact with the thermal drill surface (1),
+    Introduction of such substances to the lake by their diffusion from the borehole through the ice strata (2).
+
+    Both ways are considered below.
+
+    First way
+
+    If the drill is submerged to the hole only through a layer of mixed kerosene and heaver, the molecules of hydrocarbons comprising kerosene and fluorochloromethane will be sorbed at its surface. At heating of the operating part of the drill, the sorbed particles will be partly desorbed and transferred to melt water and then to ice. The remaining quantities of sorbed hydrocarbons can get to water from the drill surface. If the drill after a kerosene layer passes through a 100 m of PMS, it will be practically cleaned of kerosene, which is soluble in polyorganosiloxanes and will be covered by polydimethylsiloxane. In this case, the presence of polydimethylsiloxane molecules at the bottom (contact) pilot-chisel surface at its contact with water is quite likely. However, the edge angle of wetting the surface covered with polydimethylsiloxane is practically equal to 90º and due to its hydrophobic property, this
+substance is insoluble in water. When in water, it tends to form droplets at its surface or films at
+very small quantities. If this film forms at lake access, which is unlikely, its main portion will go
+to the borehole at lake water incorporation. A possible remainder of PMS in water will be
+extremely small by mass at a level of milligrams or even fractions of milligram. It should be also
+taken into account that polydimethylsiloxane is known as a non-toxic substance inert to
+biological objects. PMS does not react with water and dissolved salts of natural origin. This
+substance destroys in the water medium under the action of alkali and in the atmosphere at
+heating to temperatures higher than 250°C. In the former case, a silicate anion and methanol and
+in the latter, silica, carbonic acid and water are formed as destruction products.
+
+Second way
+
+    It is known that oil and oil products are quite well absorbed by sea ice
+spreading in it. The oil migration rate in the ice strata was determined by the Canadian-US
+Expedition to the Beaufort Sea (1974) as 40 mm a day. During the experiments in Lake Ladoga
+(1978) undertaken by AARI, the rate comprised 50 mm a day. It was experimentally determined
+at the “North Pole-22” drifting station that oil and oil products move in the arctic ice both
+vertically and horizontally with the oil spreading rate in ice depending on the ice structure,
+composition and density of oil and oil products and on the solar radiation temperature and
+intensity. In the summertime, the rate increased to 80 mm a day and decreased to 20 mm in the
+wintertime. In multiyear ice, permeated with a large number of pores and capillaries, a rate of
+490 mm a day was noted.
+
+    Obviously, such migration can also occur under the conditions of Antarctica at the
+contact of the drilling fluid with the ice sides of the borehole. The specific conditions of
+Antarctica should also influence this process, however, migration of hydrocarbons comprising
+kerosene to ice should also occur here. In addition, at low Antarctic temperatures, the
+evaporation of hydrocarbons that have reached the ice surface in the course of migration is slow
+and self-purification of the ice massif will occur many decades or probably centuries later.
+However, contamination of the Antarctic ice with kerosene from the existing borehole has
+already occurred and this is a real fact.
+
+    Migration of polydimethylsiloxane oil in ice has not been studied up to now. It can be
+assumed that it occurs much slower compared to hydrocarbons, as the molecules of organic-
+silicon oligomer are much larger and less mobile than of hydrocarbons contained in kerosene.
+The situation is however, complicated by the fact that organosiloxanes are well soluble in
+hydrocarbons and hence both layers - kerosene with heaver and organosiloxane will early or
+later solve in each other and become one phase.
+
+    If the ice isthmus between the lake and the drilling fluid in the borehole is not thick
+enough and the drilling fluid is preserved for a long time in the borehole, there will be a threat of
+contamination of the lake complex by hydrocarbons or polydimethylsiloxane through the ice
+sides of the borehole.
+
+2.3.2. First stage. Continuation of drilling to a depth of 3723 m
+(seasons of 2003/2004 and 2004/2005)
+
+The first stage envisages additional drilling of the next 50 m in the borehole 5G-1 by
+means of a coring electrical mechanical drill KEMS-132 and a complex of drilling equipment
+used here before. Considering the reliability and high efficiency of this equipment, its use
+appears to be completely safe in terms of ecology. In addition, it will allow extraction of
+approximately 100 m of the ice core from the ice sheet basal layers containing unique
+information on the lake evolution.First, it is necessary to ensure the ecological purity of the lake-
+drill contact.
+7
+
+For this, prior to the second stage, it is proposed to introduce to the bottom section of the 
+hole a new ecologically clean drilling fluid (neutral with respect to water and microorganisms). It 
+can serve as a peculiar liquid plug about 100 m thick between the top and clean bottom sections 
+of the borehole. The density of this buffer layer separating the bottom and the earlier used 
+drilling fluid (a mixture of aviation kerosene TC-1 and freon 141b) should be higher than that of 
+the drilling fluid of the main borehole but lower compared to lake water.
+
+2.3.3. Second stage. Continuation of drilling until contact with the lake surface
+(season of 2005/2006)
+
+At the second stage (drilling of about 30 m of ice until the contact with the lake), it is 
+planned to use a thermal drill with a stepped working body (TBPO-132) due to which a pilot-
+hole with a diameter 3-4 times as small as that of the main hole forms under the drill. During 
+drilling, the overburden pressure undercompensation is maintained in the hole.
+
+A thermal drill TBPO-132 consists of a pilot-chisel and a ring bit connected with the 
+electrical power source, which heats them. The drill is also equipped with a pump and the 
+feedback system sensors. The thermal drill similar to the electrical-mechanical drill is suspended 
+in the borehole at a carrying cable. The rate of running the last 30 m of ice until the contact with 
+the lake is to be up to 3 m/hour.
+
+Upon reaching the lake surface, the solid ice support under the bottom surface of the 
+pilot-chisel will disappear causing a response of the contact sensor. The sensor signal will switch 
+the packer that serves for isolating the near-bottom section of the hole from the rest of its 
+volume. Drilling will be stopped simultaneously while the readings of sensors will allow us to 
+evaluate the hydrostatic pressure difference in the hole and in the lake. When the pilot-hole 
+bottom reaches the lake surface, three variants of the ratio of fluid column pressure near bottom 
+Pf and water pressure in the lake Pl are possible: 1) Pf < Pl; 2) Pf = Pl; 3) Pf > Pl, with the first 
+variant being the most likely and the second and third variants unlikely. At Pf < Pl, lake water 
+will rise in the hole to a height h, corresponding to the pressure difference in the lake and the 
+hole ∆ρ = Pf - Pl. At thermal drilling, the working body should be in a constant contact with the 
+bottom surface under the action of the force equal to some part of the drill weight. Thus, the 
+direct water penetration from the lake to the hole is impossible. It can rise in the hole if the drill 
+is raised above the bottom by a carrying cable or by the force that can occur at the moment of 
+contact with the lake surface due to a pressure difference if it is greater than the force pressing 
+the drill to the bottom (the drill weight with deduction of the Archimedean buoyancy force).
+
+At Pf = Pl, the lake water will rise in the hole at the drill raise with decreasing hydrostatic 
+pressure of the drilling fluid, that is, the cable volume retrieved from the hole will be substituted 
+by lake water.
+
+At Pf > Pl, which is practically unlikely, at the pilot thermal chisel contacting the lake 
+surface, the force Po will act on the drill pressing it to the ring bottom of the hole. At 
+disconnecting the power supply, the ring bit will be pressed against the bottom shoulder of the 
+hole isolating it from the lake.
+
+It will be further necessary to pump part of the fluid from the hole decreasing its level to 
+such a value as to ensure inequality Pf < Pl. The situation will be reduced to the first variant and 
+the retrieval of the drill from the hole will begin.
+
+Thus, the thermal drill will perform a valve function ensuring the ecological safety of 
+penetrating the lake disconnecting it and the hole at the moment of contact between the pilot 
+thermal chisel and the lake surface.
+
+To drill the last 30 m of ice until its contact with the lake, a thermal drill will be used 
+without its detachment from the borehole bottom. At ice melting by the drill, the drill and the 
+cable will be naturally cleaned from the drilling fluid by melt water whose column forms one 
+more buffer layer below the organic-silicon fluid (polydimethylsiloxane- PMS).
+8
+
+After reaching the Lake Vostok surface (end of the second stage), the operation in borehole 5G-1 will be stopped for the period of freezing of lake water introduced to the hole. Then, a portion of ice formed of lake water will be sampled by a coring electrical drill KEMS-132. The core will be retrieved observing all precautions to preserve the biological purity of its inner part by means of the method that has already been developed, repeatedly used and that has proved its reliability. The remaining ice will not be drilled ensuring complete isolation of the borehole 5G-1 from the lake surface.
+
+Obviously, the most valuable material for future microbiological and other studies will be the lower section of the accreted ice column, which is the most free from alien admixtures entrapped by the water flow rushing to the hole from the lake.
+
+2.4. Justification of the need and advisability of the proposed activity
+
+The importance of study of Lake Vostok, which is the largest subglacial water body of Antarctica, is primarily related to the fact that it presents potentially a unique water ecosystem isolated from the Earth's atmosphere and the surface biosphere for at least 1 million of years. The extreme conditions that are characterized by high pressure, absence of light, the gaseous and chemical composition of water and prolonged isolation of Lake Vostok suggest a possibility for the occurrence and evolution here of the life forms significantly different from the forms known to modern science, preservation of relict forms and manifestation of other unknown evolution ways whose study will contribute to better understanding of the processes of life development both on our and other planets of the solar system. Significant lake dimensions (300 x 50 km with a water layer thickness comprising 1200 m) allow us to consider it as an Earth's analogue of the oceans that as is believed, exist under the thick ice shells of Europe and Callisto - satellites of Jupiter. Thus, the area of Lake Vostok presents an interest as testing grounds for the methods of detection and study of life under the extreme (extraterrestrial) conditions. Along with this, the reconstruction of the occurrence and development of the subglacial Lake Vostok, establishment of its current parameters and the regime as well as the study of the composition of lake water and bottom sediments are considered at present as integral components of the study of geological history, glaciation and climate of Antarctica. The aforesaid explains an exclusive interest of the international scientific community to the study of Lake Vostok and predetermines the central place of this Project among the most significant scientific programs, which will be implemented in Antarctica during the next decades.
+
+Current understanding of Lake Vostok is based on the information obtained using the remote sensing methods of studies (airborne and ground-based radio-echo sounding, seismic sounding and satellite radar altimetry), and on the calculations using full-scale data and the available models. Continuation of such studies for the next few years will obviously yield new data on the lake contours and depths and the thickness and structure of its bottom sediments and also allow additional model constructions relating to the thermodynamic features of the state of the "ice sheet-subglacial lake" system. However, these studies will not be able to provide unambiguous information concerning the lake water chemistry, which will diminish their correctness. In addition, the studies will not be able to deny or confirm the hypothesis about the presence of some life forms. Thus, the objective of sampling lake water is one of the major issues ensuring progress in the study of nature of this unique body. To achieve this objective characterizes the essence of using further the borehole 5G-1 - to continue drilling and sampling of lake water. At present, the borehole 5G-1 has already penetrated that part of the glacial strata that was most likely formed at freezing of lake water. Hence, further drilling, sampling and study of ice cores will provide new information on the origin and chemistry in the past of lake water and a possible existence of life in it. A short-term access to Lake Vostok and sampling of water
+9
+
+from its subsurface layer will allow us to obtain correct data on its modern state. In addition to 
+their own value, these data will be invaluable for the development of subsequent technologies of 
+direct studies of lake and its sediments and for updating the results of modeling and remote 
+sensing studies.
+
+At the preliminary stage it is planned to drill ice in the borehole 5G below the 3623 m 
+horizon in order to obtain new ice core samples with a total length of 50 m.
+
+As is known, drilling was suspended when about 130 m of ice was left to the water layer 
+of the subglacial Lake Vostok (data of radio-echo and seismic soundings). According to the 
+recommendations of SCAR in 1994, drilling in the borehole 5G had to be stopped at a safe depth 
+due to a possible penetration of the drilling fluid to the water layer of the subglacial lake. 
+Specialists estimated this safe depth as several tens of meters.
+
+Drilling will be continued by means of standard Russian technologies that were 
+successfully used at Vostok station. According to the estimates of experts, this continuation of 
+drilling will be quite safe in terms of a non-controlled penetration of the drilling fluid to the lake 
+water layer, as it will be accompanied with independent control method of the ice temperature at 
+the borehole bottom and the dimensions of ice crystals in the extracted ice core samples.
+
+2.5. Major expected results
+
+Studies of deep boreholes at Vostok station and of the continuous ice core extracted from 
+the borehole 5G-1, whose age is greater than 500 kyr have already allowed us to obtain 
+significant scientific results /6/:
+
+    based on the ice core isotopic and glaciological studies, scientists of Russia (AARI, 
+Institute of Geography of RAS), France (LGGE of the CNRS) and the USA (University of 
+Miami) have established for the first time the cyclicity of climate change on Earth and identified 
+four glacial and interglacial periods;
+
+    methodology for aseptic microbiological sampling from the ice core was developed and 
+tested at the level of scientific discovery of anabiosis duration of microorganisms of more than 
+200 kyr (SPSMI jointly with the Institute of Microbiology of RAS and AARI);
+
+    data on the temperature regime of the glacial cover were obtained for the first time in 
+central Antarctica and were used as a basis of mathematical modeling of the heat-mass transfer 
+processes in the glacier.
+
+Studies in the area of geophysics, glaciology, paleoclimatology and microbiology will 
+permit us to collect numerous materials of unique significance for world science.
+
+2.6. Area of the proposed activity and facilities
+
+The activity will be undertaken at the Russian inland Vostok station located on the plain 
+snow surface of the ice sheet in East Antarctica (78°28’ S, 106°48’ E) at an elevation of 3488 m 
+above sea level. At the present time, the station occupies an area of around 25600 m^(2). The main 
+structures include: office-living house, mess-room, DES-garage-bath-house, new and old drilling 
+complexes, balok^(1) of emergency DES and three baloks for storage of food products. The 
+buildings and baloks are interconnected. Their location corresponds to the wind rose. In the dark 
+time, the station is illuminated by searchlights. The main station buildings have a compact
+
+1
+Balok is kind of a wooden shed or hut, which can be mounted on vehicles including sledge and easily transported 
+to the required locality.
+arrangement (at the site 130 ? 130 m in size), which saves the strength of people at moving over 
+the station but at the same time, contributes to snow drifts. Many buildings are now under the 
+snow: magnetic pavilions, "Dumand" balok", the US ice core storage complex, house No. 1 (old 
+Vostok) that existed from the time of establishing the station, Astronomic Geodetic Point (AGP) 
+center and several balok structures /7/. 
+    To undertake studies under this Project, the Vostok station has the following facilities: 
+    drilling complex including a drilling house with a rig and a set of ground equipment; 
+    glaciological laboratory equipped with necessary facilities and instrumentation for the 
+studies of the extracted ice core; 
+    specially equipped ice core storage space providing its long-term preservation at a 
+constant below zero temperature; 
+    - living and auxiliary premises 
+    To undertake a complex of studies, 14 to 25 people can be accommodated at the base 
+depending on the season. There are 5 diesel-generators 100 kW each. From 1970, 5 holes 15-18 
+cm in diameter and a depth between 500 to 3623 m were drilled. In accordance with the Project, 
+it is proposed to continue drilling by a 4-people team. 
+
+2.7. Types of the expected production and domestic waste and methods of their utilization 
+and removal 
+
+It is noted that operations connected with this Project will not cause a significant increase 
+in waste generation, since they will be carried out in the planned regime of station activity 
+without increasing the facilities and logistics activity. 
+
+During drilling operations, a two-component fluid consisting of aviation kerosene TS-1 
+with addition of heaver -Freon F-141b for additional borehole plugging-back and at the final 
+stage, inert polydimethylsiloxane oil to prevent penetration of hydrocarbons to the sampling zone 
+will be used. 
+
+There will be no extraction of the drilling fluid and formation of its waste during the 
+operation period. Insignificant by quantity waste from servicing he equipment (rags, plastic and 
+paper) will be removed in accordance with the existing instructions. 
+
+2.7.1. Oil and oil-containing mixtures 
+
+The formation of these wastes due to the proposed activity is not envisaged by the 
+technology. 
+
+The station waste hydrocarbon materials and fuel remains unsuitable for further use will 
+be transported to Mirny station. 
+
+2.7.2. Sewage water 
+
+The proposed activity will not influence the increase of sewage water production. 
+The main sources of sewage water are the bathhouse (together with a laundry), the mess-
+house including the galley and the office-living premises. Sewage is pumped out via the heated 
+pipes to deep pits that are melted in snow. Upon their fill up, new pits are melted in snow. Their 
+depth is about 20 m and the diameter is 3 m. 
+
+2.7.3. Garbage (including solid kitchen waste) 
+
+The combustible wastes produced will be burned in the incinerator.
+11
+
+3. DESCRIPTION OF THE ENVIRONMENT IN THE OPERATION AREA
+
+3.1. Physical-geographical description of the area of activity
+
+Vostok station is located on the plain snow surface of the glacial plateau in East Antarctica (78°28' S, 106°48' E) at a height of 3488 m above sea level. The least distance from the coast is 1260 km, from Mirny station - 1420 km and from the South Pole - 1253 km. The ice sheet thickness in this area is 3750 m and the thickness of the snow-firn strata is about 120 m. The glacier bed beneath the station is at a mark of about 200 m below sea level.
+
+The natural water bodies are absent in the station area. There are no bedrock outcrops. The east Antarctic ice sheet presents an extensive, high and thick whole massif, which contains more than 4/5 of the entire Antarctic ice volume. The landscapes of this area are distinguished by a significant monotony while natural components are characterized by uniformity /7/.
+
+3.2. Glacial cover in the lake area
+
+As follows from the data of geophysical and glaciological studies, the upper portion of the ice sheet at the drilling site of borehole 5G-1 is comprised of a 100-m snow-firn layer overlying the monolithic ice strata. It is composed of the "interglacial" and "glacial" ice seams differing in the grain size and orientation of their crystallographic axes. In the upper portion of the section, these differences are quite insignificant, however at depths greater than 2700 m, the "interglacial" and "glacial" ice seams differ significantly by their structure and mechanical properties /8/. In addition, at the 3310–3370 m depth range, some indications of tectonic inconsistency in the bedding of strata were observed. At the 3460–3538 m range, there is layered ice, which is characterized by alternating layers of fine- and coarse-grained ice. Finally, the basal ice layer detected below the 3538 m mark and traced to the borehole bottom (3623 m) is formed by giant-grained ice (ice crystals greater than 1 m in diameter). This ice contains rare scattered small inclusions (1–6 mm in diameter) presenting concentrations of clayey particles of morainic origin. According to /8/, the structure of basal ice indicates its stationary state and a congelation origin, i.e. the ice forming during the process of water (lake?) freezing.
+
+The ice flow above the lake in the Vostok station area is directed southeastward. The presence of a basal layer of stationary ice in the lower ice section suggests that the ice sheet here beds predominantly on the underlying mountain rocks, whereas the dissected subglacial bed relief presents a hindrance to the lower layers of the glacial strata. The maximum shear deformations occur within the higher layer (3460–3540 m). Beginning from these depths and higher, the ice strata are involved into motion whose rate at the ice sheet surface comprises about 3 m/year /9/.
+
+Large dimensions and depths of the lake are direct evidence that the total transport of melt water entrapped in the basin by the ice cover can be zero or close to constant. At the bottom ice sheet surface at the ice-water phase divide, the ice melting/accretion rate can differ in different parts of the lake both in value and sign. This rate at the divide is determined by the local vertical heat flux that consists of geothermal and climatic components.
+
+Calculations showed a decrease of 100–150 m in the ice sheet thickness in the lake area during the global cooling events in the past due to a significantly reduced atmospheric precipitation /10/.
+
+At the present time at an average pressure at the ice-water divide estimated as 340 bars the freshwater freezing temperature is assumed to be −2.6° ?, while the corresponding optimal value of the current ice sheet thickness was determined to be 3776±3 m. Based on seismic
+sounding data, the ice thickness at this location is 3750 m. The difference of 26 m is equivalent 
+to the offset of the lake water freezing point from −2.6? ? to −3.1? ?, which is less likely.
+
+According to studies of the ice core from the deep borehole at Vostok station, it is known 
+that the upper 3540-m of the ice sheet overlying the stationary basal ice layer is subjected to 
+intense displacement and deformation heating in the contact zone. Based on the vertical 
+temperature distribution measurements in the ice sheet (in the borehole) and climatic 
+reconstructions from isotopic ice composition data, the heat flux, ice sheet thickness and bottom 
+ice melting/accretion rate were estimated. They have revealed that the best coincidence of the 
+calculated and measured temperatures for the present conditions can be obtained at the bottom 
+heat flux of 0.036±0.006 W/m^(2) that produces the average water rate freezing of 1.1±0.6 mm/year 
+/11/. This is in agreement with the results of structural ice core studies according to which the 
+220-m basal layer is represented by congelation ice that was formed from water freezing to the 
+bottom ice surface.
+
+3.3. Climate
+
+The mountain part of the ice sheet with marks of more than 2000–3000 m belongs to the 
+climatic area of Central Antarctica. The ice sheet is covered with snow, which never melts the 
+year-round. The atmospheric mass above the ice sheet compared to the coastal areas of 
+Antarctica is distinguished by high transparency and dryness of air. The total solar radiation is 
+very large. It equals 1.26 GJ/m^(2)  in December and is 80% comprised by direct radiation. The 
+annual surface radiation balance at the station is equal to 0.08 GJ/m^(2). Intense cooling of air 
+occurs above the Antarctic Plateau with strong surface temperature inversion developed during 
+the entire year. Winter lasts for 6 months (April–September) and summer for two months 
+(December–January) with duration of transient seasons also for two months (spring – October 
+and November and autumn – February and March). The geographical location of the station, 
+features of the underlying surface, solar radiation regime and atmospheric circulation govern the 
+general climate severity. Here, throughout the winter, the air temperature is extremely low. The 
+mean annual air temperature at the station is −55.4°C. A typical feature of annual air temperature 
+variations is the absence of a pronounced minimum during one of the winter months. The 
+development of active meridional atmospheric circulation in Antarctica leads to advective 
+warming and appearance of "warm centers" above the continent in the middle of winter. 
+Advection of warm air masses to the continent in winter can account for the fact that according 
+to multiyear data, the temperature of four winter months (April–June, September) is the same and 
+of two colder months (July, August) differs only by 1–2°C. This characterizes the phenomenon 
+of "the winter without pronounced centers". In spite of steady air temperature variations in 
+winter, the coldest month is August (with an average multiyear temperature of August close to -
+70°? ), when the atmospheric cooling above the continent lasting the entire polar night achieves 
+its peak at the end of it. However, the absolute temperature minimum at the stations in the center 
+of the ice sheet is always recorded in July. On July 21, 1983, the absolute minimum of surface 
+air temperature on Earth equal to −89.2°C was recorded.  In spring, especially with the onset of 
+polar day, there is a steady and large air temperature increase by absolute values. From 
+September to December, the mean monthly air temperature increases two-fold. However, in 
+spring, the temperature is quite low, its average value comprising −50°?. The temperature is 
+naturally the highest in the middle of the polar day in summer (December–January), never 
+dropping below −36°?, on average, for a month, but although not exceeding −30°?. The highest 
+temperature is observed in the third 10-day period of December and in the first 10-days of 
+January indicating a direct relation to the Sun's height above the horizon. The absolute 
+maximum recorded at Vostok station is equal to −13.6° C. The air temperature in summer is 
+twice as high as in winter. From summer to autumn, a rather sharp cooling occurs and during the
+autumn months (February, March), a constant and significant temperature decrease continues.
+The average temperature of the autumn months is low (?50.8?) being equal to the temperature
+of the spring months. The average annual air temperature from year-to-year varies compared to
+multiyear temperature within 3.5°C. The annual amplitude at the time of observations is equal to
+35.7°, with the absolute amplitude comprising 75.6°0. The diurnal temperature variations are
+usual on average for a year with the maximum in the daytime and minimum at night. In winter,
+the diurnal variations are practically absent as the difference between the temperature at the
+observation hours is not greater than the accuracy of its measurements. Mean quadratic
+deviations of mean monthly temperatures in some years from their multiyear averages are small
+comprising plus-minus 1° C in the summer months and plus-minus 4° C in winter. The fact that
+the greatest air temperature fluctuations occur during the colder period of the year and the
+smallest are recorded in summer emphasizes once again the significance of the interlatitudinal air
+mass exchange in winter and the dependence of summer temperatures on the solar radiation
+regime. A large number of observations clearly show a regular feature, namely, the decrease of
+temperature with decreasing pressure whereas its increase is accompanied with increasing
+atmospheric pressure.
+
+At Vostok station, due to its location at a large height (3488 m above sea level), the pressure
+is very low and comprises 624.2 mb, on average, for a year. The annual variations have
+their maximum in the summer and the minimum in late winter (September). Climate is also
+distinguished by extremely low air humidity. The water vapor pressure in summer comprises
+only 0.29 hPa, and on average for a year it equals 0.07 hPa.
+
+An insignificant amount of moisture in the atmosphere is attributed to negligible
+evaporation from the glacial cover due to the absence of free moisture supply at the surface and
+low air temperature. In the annual variations of absolute humidity, the maximum is observed in
+summer and the minimum in winter. The average annual relative humidity at the station is 71%.
+It is maximum in summer (73%) and minimum (69%) in winter.
+
+There are pronounced variations of the frequency of occurrence of clear and overcast sky
+at Vostok station. The frequency of occurrence of clear sky is the highest in winter (60%) and
+the lowest in summer (30–40%). The cloudiness is weak with cirri (Ci) and cirrostratus (Cs)
+clouds prevailing. The total cloudiness is small (3.4 points for a year). If cloudiness is considered
+by seasons, then the largest cloudiness (3.8 points) is observed in spring and the least (3.2 points)
+in winter.
+
+The wind regime is characterized by weak catabatic west-southwesterly winds with the
+mean annual speed of 5.4 m/s. The annual speed variations have two maximums – in September-
+October and in March. There is a direct relation between the direction of catabatic wind and that
+of the ice sheet slope at Vostok station. The inland Vostok and Sovetskaya stations are situated at
+the opposite slopes of the meridional rise. The air sinks from the glacial ridge along its slopes
+towards he Vostok station in the west-southwest direction and towards the Sovetskaya station in
+the east-southeast direction. As can be seen, the wind directions at these stations differ
+approximately by 140°, i.e. they are almost opposite. The frequency of occurrence of catabatic
+winds during a year comprises 60–80%. Cyclones (obviously very weak) sometimes penetrate
+the station area both from the Indian and the Pacific Ocean sectors of the Antarctic. In the event
+of a cyclone arriving from the Ross Sea, the cyclonic winds coincide with the westerly winds
+prevailing at the station while at the south-southwesterly winds, the cyclonic weather features are
+clearly pronounced. The cyclones of the Indian Ocean sector of the Antarctic also bring the
+cyclonic weather to the station but with the easterly winds. Their speeds are attenuated by the
+opposite catabatic winds and are hence small. The probability of storm winds (with a speed > 15
+m/s) at Vostok station is small. The maximum speeds recorded at gusts comprise 23 m/s in
+summer, 23 m/s in autumn, 27 m/s in winter and 32 m/s in spring. The frequency of occurrence
+of calms is less than 1%.
+14
+
+The frontal cloudiness carrying precipitation penetrates very rarely to the area of Vostok 
+station. Clouds are depleted in moisture in these cases and snowfalls are of little intensity. The 
+annual sum of atmospheric precipitation falling out only in the solid form is about 25-50 mm. Up 
+to 98% of the entire mass of precipitation fallout here is comprised of columnar skeletal ice 
+crystals of prismatic shape. The inland area is characterized throughout the year by the fallout of 
+small ice crystals at clear sky (“ice needles”). The deposition of such ice crystals was recorded at 
+Vostok station for 247 days, on average, for a year. The occurrence of ice crystals at clear sky is 
+due to sea air flowing to the inner areas of the cold continent in heights of about 500-100 m 
+above the ice cover in its central parts, supersaturation of air by several tens of percent relative to 
+ice and its sinking due to downward motions. Supersaturation of air results from radiation 
+cooling with its advance inland. The ice crystals originate above the central areas of the ice sheet 
+in a relatively warm isothermal layer above the surface inversion. At Vostok station, the 
+isothermal layer in July was located approximately between the levels of 650 and 550 hPa. The 
+ice crystals also form fog and haze typical of the central areas of Antarctica. The transparent ice 
+fog occurs at a weak wind and quite often simultaneously with the fallout of ice needles from the 
+atmosphere. There are about 35 days with ice fog, on average for a year, such days in summer 
+being few. The ice haze is also observed with the intense fallout of ice needles being observed 
+more frequently than fog up to 150 days a year. The snowstorms in the station area are rare due 
+to weak winds, their frequency of occurrence with drifting snow comprising not more than 15% 
+for a year. In summer when the snow surface is covered with the radiation crust, even the wind 
+with a speed of 10 m/s does not cause the snow transport. Practically the entire annual amount of 
+deposited snow presents a winter layer. This is a thin layer several centimeters thick comprised 
+of small crystals and their fragments, which is much less dense than in the other areas due to 
+weak local winds. Since in summer the snowfalls are rare, predominantly the finest sublimation 
+ice crystals falling out from the atmosphere at clear sky are deposited at the surface. They 
+deposit in a thin loose layer easily moving with weak winds, evaporate and melt under the action 
+of intense solar radiation. At noted above, radiation crusts, single and multiple are common at 
+the surface marking the summer season in the annual core of layers. The main amount of snow is 
+accumulated during the cold time of the year from May to October. The accumulation of 
+atmospheric precipitation is within 2–3 g/cm^(2) a year. The area adjoining the station presents a 
+level snow plateau with small soft piles of blown snow with a height up to 20 cm. At the surface 
+of the snow cover, space micro-particles deposit with different intensity and periodicity. 
+Airflows bring micro-particles of Earth’s origin (volcanic dust, spores and pollen of plants, 
+microorganisms, chemical compounds and microelements) as well as anthropogenic particles 
+(compounds of sulfur, nitrogen, carbon, decay products of thermonuclear explosions, etc.) from 
+the other continents and the oceans.
+
+Different optical phenomena such as halos, crowns and columns and optical illusions are 
+typical of the atmosphere in the Vostok station area. The halos are observed both in summer 
+(around the Sun) and in winter (around the Moon) on average 60 days a year. The crown forms 
+as a rule only around the Moon in winter. There are 7 such days on average for a year. The 
+columns around the Sun are very rare (one day on average for a year). The polar night lasts 
+almost four months from April 24 to August 20 /7/.
+
+3.4. Subglacial Lake Vostok
+
+First instrumental evidence on the existence of the subglacial lake beneath the Vostok 
+station was obtained in 1964 by Russian researchers conducting seismic sounding in this region. 
+In the 1970s, these data were confirmed by the results of radio-echo sounding that was 
+performed over a series of routes by the US, British and Russian scientists. In 1993, processing 
+of the results of satellite radar altimetry has allowed for the first time an assessment of
+tremendous dimensions of the subglacial body that was called Lake Vostok.
+
+In the summer seasons of 1995-2001, seismic sounding of the Lake Vostok area was undertaken jointly by RAE and PMGRE (Polar Marine Geological Research Expedition). Beginning from the 1998/1999 summer season, radio-echo sounding of ice in the lake area was initiated along with continued seismic studies. As a result of these large-scale field operations, mapping of the southern lake area was made, the position of its western shore was defined and the thickness of ice, water layer and sedimentary mantle at the lake bottom within the study territory were established.
+
+3.4.1. Geophysical studies in Lake Vostok area
+
+In the course of the 46^(th) RAE, seismic studies were continued on AB profiles (12 soundings), CD profiles (10 soundings) and ?? profiles (3 soundings) with two new S1 and S2 lines (14 soundings) made in the middle part of the lake. Radio-echo sounding was also continued allowing us to complete mapping of the southern lake boundary and define the location of the western shore of Lake Vostok /4/. A total of 11 profiles in the southern part of the lake with a total length of 100 km and 43 profiles along the western lake shore (at a distance of 200 km to the north of Vostok station) with a total length of 607 km (Fig. Annex 3) were made. The results of interpretation are represented by geophysical sections along the ?? profile, summary 1-1^(1) line and also along the S1 and S2 lines where the main reflecting boundaries are traced both continuously and as individual reflecting surfaces (Fig. Annex 4). For constructing the sections, both seismic data and information of radio-echo soundings made along with seismic studies were used. As a datum of the depth of horizons, the daytime surface is assumed whose altitudinal position is set up from data of satellite altimetry survey of the Antarctic ice sheet surface. Based on these data, the Vostok station is located at a height of 3477 m above sea level. The heights of the daytime surface at the sounding points along the S1 and S2 lines are not greater than 3500 m in their northern area. Thus, the glacial surface within the operation site is practically horizontal.
+
+The first reflecting boundary – the ice sheet base – was defined everywhere. In the vicinity of Vostok station, it is located in depths of 3750 - 3800 m. To the north of the station, its depth gradually increases to 3950 m at 67 km of the S1 line and to 4010 m at 72 km of the S2 line. The maximum thickness of the glacial cover of 4260 m is observed in the area of 250 km of the 1-1^(1) line (Fig. Annex 5).
+
+The second reflecting boundary is the lake bottom. A typical feature of the boundary is its complicated relief where a deepwater trough and shallow zones are defined in the investigated part of the water area.
+
+The deepwater trough elongates in the northern direction (1-1^(1) line, control point - 110 km) and is characterized by the depths of the lake bottom between 4310 to 5040 m. In the Vostok station area, the bottom along the A? profile presents a step-like bend. The eastern step is at a depth of 4310 m being elevated relative to the western one by 140 m.
+
+In the northern direction from Vostok station, one observes a local rise of the lake bottom up to 4340 m after which its depths gradually increase to 5040 m. The largest thickness of the water layer of 1100 m is recorded on the S1 line in the vicinity of control point of 49.5 km.
+
+The shallow part of the lake on the ?? profile is characterized by the depths of horizon D between 3910 to 4070 m (150 - 300 m of water) on the western segment of the profile and 3880 to 3980 m on its eastern segment (100 - 200 m of water).
+
+The bottom surface appears to be represented by modern sedimentary features bedding on the acoustic basement. The thickness of sediments is 40 - 110 m. In the flank areas of the lake, the bottom is represented by acoustic basement rocks. The acoustic basement itself is probably represented by the Precambrian craton rocks or sedimentary features of the Upper Paleozoic age? /12/.
+The water layer surface of Lake Vostok is by 270-750 m below the sea level and correlates in the subglacial relief morphology with the subglacial Schmidt plain located between Pionerskaya station and the South Geographical Pole /13/.
+
+Coastline of the surveyed lake area
+
+During the three field seasons, 58 intersection points of radio-echo sounding lines with the coastline of the subglacial Lake Vostok were recorded. According to radio-echo sounding data, the eastern shore of the subglacial Lake Vostok is located in the sub-meridional direction along 1070E over a distance of more than 70 km. The southern shore is complicated by two small bays and a cape protruding to the lake over a distance of about 6 km. The western coast of the lake is strongly dissected being gentler than the eastern one. In 40 km from Vostok station in the northwestern direction, there is a round-shaped bay entrenched to the “land” approximately over 10 km, while at a distance of about 140 km from the station, there is a system of bays and capes. The southernmost of them elongates sub-meridionally approximately along 104020’E protruding to the lake over a distance of about 15 km at a width of about 7 km. North of it, a round-shaped bay is located intruding to the land approximately over 20 km. Farther north, there is an L-shaped peninsula with a size of about 30x15 km.
+
+Ice sheet thickness
+
+The ice sheet thickness in the study area varies between 2806 to 4348 m (see Fig. Annex 6) with the maximum values observed in the area of the bays located in the northwest. As noted in /14, 15/, the ice sheet thickness increases near the eastern lake shore by 80 – 100 m, which is probably caused by the general direction of movement of the glacial mass from Dome B eastward. The western shore of the lake is a natural obstacle on its way, which is a likely reason for the glacier thickening in the bays of the western shore of the lake.
+
+Water layer thickness
+
+The map of the water layer thickness was constructed on the basis of data obtained by the method of reflected waves (reflection seismic soundings (RSS) taking into account the coastline position based on radio-echo soundings (Fig. Annex 7). The shortage of seismic RSS data in the southwestern territory does not allow an adequate characterization of the distribution of water layer thickness. It is known at present that the maximum values comprise more than 1000 m (western lake area at latitude around 780S). In the vicinity of Vostok station, the water column thickness is 680 m.
+
+Bottom ice edge and bedrock relief
+
+Based on the results of the studies, the maps of the lower ice edge heights were plotted (Fig. Annex 8), according to which, the location of the lake table relative to sea level changes from -200 m in the southern area to -700 m in the northwestern area. On the bedrock relief map (Fig. Annex 9), one observes an extremely weak correlation between the location of the grounding line and contour lines of the ice sheet base.
+
+3.4.2. Geophysical data on the area of Lake Vostok and the adjoining territories
+
+Lake Vostok is located at the margin of the ancient (Pre-Cambrian) Antarctic shield developed under the glacial ice of East Antarctica in the sector between 00 to 900 - 1100 E. The currently available structural and geophysical data on this region suggest that Lake Vostok is confined to the inland rift zone comparable by its crust structure and tectonic location with the rift structures of other continents (for example, such as the rifts of East Africa, Lake Baikal and St. Lawrence Lakes). Typical characteristics that serve as a basis for such suggestion include the length and width of the depression of Lake Vostok comprising more than 300 km and 50 - 80
+km, respectively, according to geophysical and satellite altimetry data; morphology of the coastal 
+slopes presenting steep bedrock cliffs (escarps) with an amplitude of up 1000 m; /16/; strong 
+negative gravity anomalies in the free air reduction from -60 to -105 mGl /17/, on whose basis 
+the model of the upper Earth’s crust section is constructed where the basement is submerged by 
+3- 5 km (Fig. Annex 11) and the vault structure of the surrounding regional relief with average 
+heights of 500-1000 m.
+
+The accurate spatial location and the length of the rift zone remain uncertain due to 
+insufficient morphological and geophysical data, however, by analogy with similar structures, it 
+can be assumed that the depression of Lake Vostok presents only a fragment of a more extensive 
+rift zone. Gravimetric data /17/ (Vostok-Komsomol’skaya-Sovetskaya line) indicate a possible 
+continuation of the rift troughs to the west-northwest of Lake Vostok (at least to 95° E) with the 
+change of its strike approximately at 60°.
+
+In the regional respect, the lineament identified is in good agreement with the general 
+morphological and tectonic structure of the eastern margin of the Antarctic shield displaying a 
+spatial and genetic unity with the extensive rift zone of Prydz Bay-Lambert glacier and its 
+supposed extension in the eastern foot of the Gamburtsev Mountains. The existence of linear 
+depressions (Grabens) at the foot of the Gamburtsev Mountains is confirmed by calculations of 
+the magnetic active basement depths that show in some places (the survey covered only some 
+foot fragments of the Gamburtsev Mountains) its submergence to 3 − 8 km (see Fig. 18), 
+whereas the bedrock relief is located here approximately at sea level /19/. A lengthy valley 
+where the basement is 2-5 km high was also revealed in the central part of Gamburtsev 
+Mountains (approximately along 77° E), probably defining one more branch of the general rift 
+system (Fig. Annex 10). Thus, all this system can in total present the largest inland rift belt 
+similar by the scale of manifestation of destructive processes with the rift belt of East Africa 
+(Fig. Annex 13). If this is so, then one can expect the existence within the supposed belt of a 
+range of subglacial (freshwater) lakes located in the depressions of the rift structures.
+
+The assumption of the age of origin and the history of development of the rift zone of 
+Lake Vostok and its possible continuation are based on the general knowledge of tectonic 
+evolution of East Antarctica and other Gondwana continents. If from the beginning of glaciation 
+in East Antarctica in the Late Eocene (ca. 40 millions of years BP) most of the crystalline shield 
+was overlapped by a thick glacial cover, as is assumed by many investigators, then sedimentation 
+in Lake Vostok was very slow and hence the main strata of sediments had accumulated at the 
+earlier time. The main phase of the Earth’s crustal extension resulting in the development 
+(reactivation) of the rift zone of Lambert glacier and East Gondwana break-up is dated by the 
+age of 145 - 130 million years. This event probably accounts for the formation of the entire 
+assumed rift belt of the Antarctic shield including the depression of Lake Vostok with the 
+dominance of sediments of the corresponding age within it. The morphology of Lake Vostok 
+(Fig. Annex 12) and the vault character of the adjoining generalized relief indicate a likely 
+development of modern (neotectonic) processes in the lithosphere of the entire region. This is 
+indirectly confirmed by the presence of the Gaussberg volcano of the Pleistocene age on the 
+Davis Sea coast located within the supposed rifting belt.
+
+Geophysical data both within the lake itself and in the surrounding territories are 
+important for understanding the tectonic nature of Lake Vostok. In 1989, the Polar Marine 
+Geological Expedition (PMGRE) onboard IL-18D aircraft carried out a complex of 
+aerogeophysical studies in Central Antarctica. The data obtained were processed again in 2000 
+within the framework of the present Project and served as a basis for constructing a map of the 
+magnetic active basement surface of Central Antarctica.
+
+During the period 1961 to 1964, gravimetric observations were performed along some 
+sledge-tractor traverses in the area of Lake Vostok that have revealed the presence f high 
+amplitude negative anomalies of the gravity field /17/, however, no efforts to process these
+18
+
+materials in the context of the Earth's structure modeling were undertaken until now as the lake 
+morphology, which makes a significant contribution to the anomalous field was unknown /4/. 
+New data of PMGRE on the bedrock relief depth within Lake Vostok allow us to perform 
+necessary calculations and make (most general so far) conclusions on the deep structure of this 
+region.
+
+Materials of aeromagnetic surveys are usually a source of information on the distribution 
+of magnetic active sources in the section of the Earth's upper portion. Mass calculations of 
+depths to the anomaly forming objects-sources allow obtaining some understanding about the 
+morphology of the magnetic active basement in the absence of seismic data, which can be in the 
+first approximation identified with the crystalline basement (for Central Antarctica with the 
+basement of the East Antarctic craton). Calculation of parameters of the magnetic sources for 
+Central Antarctic areas is the only information not only about the possible location of the 
+crystalline basement surface, but also about the presence or absence of sediments.
+
+Analysis of the data obtained and their correlation with the subglacial relief of this region 
+have allowed us to reveal the segments of basement submergence and large faults in the Earth's 
+crust. Linear basement submergence zones (with a bedding depth of more than 2 - 3 km) can be 
+interpreted as rift graben probably forming one system with the Lake Vostok Graben.
+
+3.4.3. Characteristics of the gaseous and chemical composition of water of Lake Vostok 
+       based on the study of ice core from the borehole 5G-1
+
+Studies of the ice core from the borehole 5G-1 have revealed bedding of congelation ice 
+at the base of the Antarctic ice sheet formed as a result of subglacial lake water freezing to the 
+bottom glacial surface.The contact between the glacial ice of atmospheric origin and frozen 
+water of Lake Vostok was detected at a depth of approximately 3538 m. In the course of the 
+laboratory analyses of ice core samples retrieved from depths greater than 3538 m, unique data 
+were obtained characterizing the electrical conductivity, petrographic structure, isotopic (δD and 
+δ^(18)O) and helium (^3He/^4He) composition as well as the total gas content of lake ice /15, 19-24/.
+
+3.4.4. Water salinity of Lake Vostok
+
+The estimates of subglacial water electrical conductivity based on radio-echo sounding 
+data /25/ indicate that the subglacial lakes of Antarctica including the largest of them Lake 
+Vostok, present fresh water bodies. On the other hand, an intense water turnover in the ice sheet 
+- Lake Vostok system /33, 26/, including melting of glacial ice in the north of the lake, water 
+circulation in the lake itself, ice accretion in the south an finally, export of lake ice outside the 
+bounds of the lake depression due to ice sheet movement (Fig. Annex 12), suggest a gradual 
+saturation of the subglacial ice with admixtures that are contained even in very small quantities 
+in the melting glacial ice. This occurs as a result of admixtures being replaced by ice crystalline 
+lattice at water refreezing. Even a minimum difference in the salinity of melt water and resident 
+water of the lake can have serious consequences for circulation in the subglacial water body /27, 
+28/. Thus, the difference in salinity, which is equal only to 0.03 ‰ will cause the same water 
+density gradient, which occurs due to the existing difference of 0.3 °? between the water 
+crystallization temperatures at the typical points of subglacial melting and accretion. The 
+chemical analysis of ice core samples from the borehole 5G-1 revealed that the concentration of 
+main ions (SO_(4)^(2-), Cl^-, Na^+, Mg^(2+) and Ca^(2+)) in the upper layer of lake ice (3538 - 3609 m) is on 
+average two orders of magnitude as high as in the lower layer (bedding deeper than 3609 m), 
+and one order as high as the maximum concentration of these admixtures in the atmospheric 
+layers formed during the glacial periods. Such distribution of admixtures is obviously caused by 
+the presence of frozen water pockets in the 3538 - 3609 m layers and related mineral inclusions 
+of subglacial rocks.
+
+Calculations have showed that the total concentration of soluble admixtures in water of
+the subglacial Lake Vostok is within 0.1 to 1 ‰, which corresponds to the level of mineralizing 
+of fresh natural water. However, the concentration of soluble admixtures in melt glacial water 
+discharged to the lake in its northern part is only 0.001 ‰. As indicated above, even such an 
+insignificant difference in water salinity generates a density gradient sufficient for the ascending 
+motion of lighter melt water along the ice roof of the lake rising from north to south. Another 
+important result of the melt water rise along the bottom ice sheet surface is that admixtures 
+coming to the lake through the ice sheet including the microbial material are transported directly 
+to the place of lake ice accretion under the conditions of restricted mixing with resident water of 
+the lake. Due to this, the composition of lake ice accreting in the area of borehole 5G-1 at Vostok 
+station reflects to a greater extent the composition of this subsurface "conveyor" (melt water) 
+than the properties of deeper lake layers.
+
+3.4.5. Microbiological studies of deep horizons of the ice sheet
+
+Study of microorganisms of the basal zone of the Antarctic ice sheet at Vostok station is 
+of great interest since relict forms of microorganisms could be preserved in these layers formed 
+of subglacial lake water. Such studies can also serve as an important stage in developing the 
+methodological approaches for future studies of glacial features encountered in space - ice 
+covered seas on Jupiter's satellites, polar caps on Mars, etc.
+
+First microbiological studies of glacial basal layers adjoining the subglacial Lake Vostok 
+were carried out in 1999-2000. They revealed that microorganisms of mixed origin area present 
+in the congelation ice zone /29, 30/.
+
+The bacterial cells in the studied horizons of the glacial cover numbered hundreds in 1 ml 
+of melt water (Table 3.4.5.1.).
+
+Table 3.4.5.1.
+Number of bacterial cells in the studied horizons of the glacial cover
+
+|                | Horizon, m | Number of cells in 1 ml of melt water |
+|---------------|------------|--------------------------------------|
+|               | 3002       |                                  170 |
+|               | 3025       |                                  190 |
+|               | 3049       |                                  170 |
+|               | 3078       |                                  100 |
+|               | 3099       |                                  190 |
+|               | 3139       |                                  430 |
+|               | 3151       |                                 1740 |
+|               | 3178       |                                  480 |
+|               | 3201       |                                  270 |
+|               | 3225       |                                  530 |
+|               | 3252       |                                  120 |
+|               | 3274       |                                  380 |
+|               | 3299       |                                  860 |
+|               | 3325       |                                   90 |
+|               | 3344       |                                  620 |
+
+However, within these values, there were variations between 90 to 1740 cells in 1 ml of 
+melt water. Analyzing data in Table 1, it is noted primarily that within the depth interval of 3002 
+m to 3099 m corresponding to the coarse-grained ice formed in the interglacial epoch, the 
+numbers of microbial cells were the lowest between 90 - 190 ml-1. In deep horizons -from 3139 
+m to 3225 m corresponding to a fine-grained ice zone formed in the glacial period, the numbers 
+of microorganisms varied to a greater extent between 270 to 530 ml-1, and even to 1740 ml-1,
+being on average 2-3 times as high as in the previous layer. These conclusions confirm that the 
+numbers of the cells of microorganisms and the quantity of admixtures brought from the surface 
+of continents and oceans to different glacial strata horizons depend on climatic conditions that 
+existed on Earth at the time of the Antarctic ice sheet formation. An increase in the numbers of 
+cells with depth from 20 ml^(-1) to 860 ml^(-1) was noted in the samples from a relatively thin layer 
+(32-3299 m) formed during the preceding glacial epoch. And finally in depths of 3325 and 3344 
+m located at a comparatively close distance from each other, a rather sharp difference in the 
+concentration of cells (between 90 to 620 ml^(-1)) was observed. This is probably related to the fact 
+that these horizons are in the zone (3310 – 3370 m), where the tectonic disconformity indications 
+in the bedding of ice layers were noted, which in the opinion of V.Ya. Lipenkov and N.I. Barkov 
+reflect the shear displacement of ice that probably disturbs the initial distribution of microbial 
+cells.
+
+At direct microscopy of preparations in the luminescent and scanning electronic 
+microscopes, microorganisms morphologically similar to modern forms and belonging to 
+different taxonomic groups both prokaryotes and eukaryotes were detected. In all 15 samples 
+studied from horizons between 3002 m to 3344 m, similar to the overlying layers of the ice sheet, 
+cocci and small rods of different shape. In some horizons, filaments of Actinomycetes, yeast 
+cells and hyphae and conidia of fungi were observed. There is a special group of large rods of 
+different shape that judging by morphology, can belong to different species of soil bacteria. 
+These rods were detected predominantly in the 3274 m and 3299 m horizons, i.e. in the zone of 
+shear displacement of ice and could get to it from bedrock. In all samples along with the cells of 
+bacteria, cyanobacteria and unicellular algae were detected (Fig. Annex 15). The most 
+widespread were the so-called Coccolithophoridae. Similar to the overlying horizons, diatoms 
+predominated among the remains of unicellular organisms found in the ice samples.
+
+The numbers and the morphological diversity of microbial cells matched to a great extent 
+the quantity of admixtures, predominantly of organic nature indicating that the ingress of 
+particles and microorganisms to different horizons of lake ice was regulated by the same 
+processes. However, the correlation between the microbial cells and suspended matter in this 
+zone was less pronounced compared to the main glacial strata.
+
+In some horizons, microorganisms that were quite rarely encountered in the main ice 
+sheet strata were observed. These were primarily large bacteria morphologically similar to caulo-
+bacteria and budding forms (Fig. Annex 14).
+
+In all horizons unicellular micro-algae predominantly diatoms were observed in large or 
+smaller numbers. Most of micro-algae encountered in basal horizons were similar to those 
+revealed in the main ice sheet strata. In addition, in the upper part of the zone, fragments of 
+silicic skeletons of diatom algae were found (Fig. Annex 15).
+
+3.4.6. Viability of bacterial cells
+
+Studies of viability of bacterial cells that were in the frozen state for tens of thousands of 
+years were carried out using the material obtained from different horizons of the ice strata of 
+Antarctica between 708 m to 2974 m. The analysis of the results has revealed that the 
+temperature factor has a great influence on the breeding activity of bacterial cells that have 
+preserved viability at their further incubation; it was found that a greater increase in the numbers 
+of bacteria activated after anabiosis occurs at a temperature of 20°, 25° and 28° ? compared to a 
+temperature of 15°?. The results indicate that mesophyllous forms prevail among the bacteria 
+that have preserved viability.
+
+Microorganisms introduced to the glacial strata horizons both with atmospheric 
+precipitation and freezing of lake water were conserved for tens and hundreds of thousand years. 
+Part of them has preserved not only the integrity of cells but also viability due to transition to the 
+dormant state. Penetration of microorganisms from the lower layers of the ice sheet to the zone
+21
+
+of accreted ice with melt water was not favorable for all microbes. The processes of watering of 
+living cells contributed to their awakening from anabiosis and set the problem of choosing the 
+strategy for further existence. Far from all were capable to survive under the new specific 
+conditions that were often accompanied with a periodic change of the liquid and solid water 
+state. This is indicated by the presence of a much greater number of cells with a weak or almost 
+absent fluorescence after their staining with fluorescamine. The loss of brightness of 
+fluorescence is predominantly related to the decrease of the quantity of proteinaceous substance 
+in them. While in the main glacial strata horizons bacteria with a weak fluorescence comprised 
+approximately 40 − 50 %, in the zone of accreted ice, their quantity increased to 70 − 80 % and 
+even more in some horizons. Among the prokaryote forms with a weak fluorescence in the zone 
+of lake ice, there were some cocci and rods, some cells of cyanobacteria and representatives of 
+the Genus Cytophag?, among the eukaryote forms - yeast cells and hyphae of fungi. In most 
+cells morphologically similar to cyanobacteria, their own red fluorescence typical of them was 
+absent. To check the assumption about the preservation of viability by bacteria, the samples in 
+the ice sheet zone under study from horizons of 3541 m, 3544 m and 3576 m in the form of melt 
+water were placed to a thermostat. Periodical determination of the numbers of bacterial cells has 
+revealed that in two days after cultivating at 28 °?, the concentration of cells in the sample from 
+a horizon of 3541 m increases two-fold compared to the initial one and in 5 days four-fold, 
+which is shown in Table 3.4.6.1.
+
+Table 3.4.6.1.
+
+The increase of the numbers of cells of microorganisms after incubation of melt 
+water samples
+
+| Horizon, 
+m    | Temperature, 
+°?   | \multicolumn{4}{|l|}{Number of cells in 1 ml of melt water} \\
+     |         | Initial | 1 day   | 3 days  | 5 days  \\
+3541 | 28      | 200     | 450     | 740     | 900     \\
+3544 | 20      | 300     | 5000    | 2900    | -       \\
+3576 | 20      | 280     | 3200    | 5200    | -       \\
+
+At the incubation of samples from horizons of 3544 m and 3576 m at lower temperature 
+(20 °? ), the numbers of microbial cells grow more actively increasing by the third day of 
+cultivating 10-20-fold. The data obtained indicate that viable cells of microorganisms are present 
+in this zone.
+
+3.4.7. Molecular-biological studies of microbial diversity of the ice sheet deep horizons 
+formed of water of Lake Vostok
+
+Throughout 2001, the following samples of deep lake ice were investigated: 3591 m, 
+3603 m and 3607 m. By the present time, only sample 3607 m was investigated in terms of 
+molecular biology. Data of analysis by the PCR method with bacteria-specific primers on rDNA 
+(20 clones per sample) are presented in Table 3.4.7.1.
+
+Similar to the case of atmospheric ice in spite of a very careful treatment of ice cores, 
+along with the unique representatives, commensals and pathogens of man were outsrtripped in 
+the sample analyzed. Of the latter, Ralstonia pickettii was found at processing of both 
+atmospheric and lake ice while bacteria related to Clostridium leptum (division Firmicutes) was 
+detected only in sample 3607 m.
+
+The finding of two other bacteria was so unexpected that it can change the understanding 
+about the hydrothermal regime, gaseous composition and microbiota of Lake Vostok. Both 
+bacteria (different species) were thermophilic and at least capable to autotrophic way of life.
+
+Thus, Bacteria ? (population) was detected. According to literature data, it inhabits hot 
+springs at temperatures more than 40-50’? and can live only in the atmosphere of hydrogen and
+carbon dioxide in the complete absence of any organic compounds, i.e. this bacteria presents a 
+thermophilic "primitive" chemolithoautotroph. The second bacteria (in fact unknown - with a 
+DNA homology percent of 96; population) was related to Bacteria ?, isolated from 
+hydrothermal springs/vents in the ocean bottom in the area of Galapagos Islands on the medium 
+with thiosulfate /31, 32/. According to its description, this strain also presents a thermophilic 
+chemolithoautotroph, except for the fact that it oxidizes not hydrogen but thiosulfate /31/.
+
+                                                      Table 3.4.7.1
+
+| Clones        |                             World databases (Genbank)                            | Habitat                                  |
+|               | % DNA homology | Bacteria identified                                              |                                          |
+| S13-25%       | 99             | Bacteria ?    (beta-proteobacteria)                             | Hot vents                                |
+|               |                |                                                                  | Oxidation of H2                          |
+| R25-38%       | 96             | Unknown bacteria - related to Bacteria ?  (alpha-proteobacteria) | Hot vents at the ocean bottom            |
+|               |                |                                                                  | Oxidation of thiosulfate                 |
+| F19-25%       | 100            | Ralstonia pickettii   (beta-proteobacteria)                      | Commensals and pathogens of man          |
+|               |                |                                                                  | Production of ultra-pure water           |
+| Q25-31%       | 96             | Unknown bacteria - related to Clostridium leptum   (Firmicutes)  | Commensals and pathogens of man          |
+
+Note. A, B, etc. - identified bacterias (species/Genus); B30% - number of clones of 
+bacteria "B" (%); shading - statistically reliable data.
+
+To confirm this finding, which is of special interest, it is further planned to develop the 
+specific PCR diagnostics for the discovered bacteria and conduct a more detailed (sectioning 
+with an analysis for gas content) study of sample 3607 m and undertake an additional study of 
+both processed cores 3591 m and 3603 m including a deeper and "younger" lake ice, which will 
+be delivered from Vostok station in 2002.
+
+3.5. Biota in the activity area
+
+Due to the absence of conditions necessary for existence and significant remoteness from 
+the shore, there are no native animals or plants.
+
+3.6. Anthropogenic load on the environment of the area
+
+A long-term existence and operation of the station has obviously introduced some 
+changes to the wilderness of the environment of this Antarctic area. The greatest changes were 
+introduced to the relief and structure of the glacial surface over an area of around 0.4 km2 within 
+which the station structures are located. Appearance of these structures and the support of life 
+activity of the expeditions have resulted in the natural redistribution of snow (formation of 
+snowdrifts) and snow withdrawal to obtain water. As a result of the annual clearing of snowdrifts 
+using bulldozers, the Vostok station is located now in a trough of artificial origin with a depth of 
+about 3 m.
+
+Due to DES operation, galley, use of transport vehicles, residence of investigators, 
+appearance of waste, etc., the station obviously has its own microclimate and microbiota. 
+However, due to severity of natural conditions, their spreading is restricted to living, auxiliary
+and research structures and the sites of waste disposal.
+
+Beginning from 1970, drilling and ice core sampling from deep boreholes is made at Vostok station. During this time, 5 main boreholes with a diameter of 15-18 m and a depth of 500 to 3623 m were drilled. The presence of the boreholes changes the ice sheet structure at the drilling points. In order to prevent closure of the boreholes under the action of overburden ice pressure, they were filled with a non-freezing drilling fluid comprised of a stable mixture of aviation kerosene TS-1 and Freon in the 1:5 proportion (from 1995, less dangerous and permitted Freon 141b is used). After the end of drilling operations, the boreholes were decommissioned, but the drilling fluid was not extracted from them. In general, the total volume of the drilling fluid conserved in the boreholes comprises about 140 m<sup>3</sup>.
+24
+
+4. ANALYSIS OF THE ENVIRONMENTAL IMPACT
+
+4.1. Identification of impact sources
+
+In order to analyze the environmental impact of the Project for penetrating the subglacial Lake Vostok, it is necessary to identify the impact sources among the types of activity used by the impact agents characterizing them and assess the significance of impact on the environment of the areas of activity (impact).
+
+4.1.1. Impact agents
+
+An impact agent presents an object, product or result intrinsic to man activity, which interacts with the environmental objects (components, values).
+
+The main agents of anthropogenic impact are typically subdivided into physical (causing visual, thermal, electromagnetic, mechanical and other physical change of different media); chemical (connected with pollution of different media by fuel, chemical substances, domestic and production waste and life activity products); and biological (connected with incorporation of alien flora and fauna and microbes by man resulting in the increased mortality in the local populations and the disturbance of the existing natural structure and webs in the ecosystems).
+
+The environmental impact agents include:
+
+Atmospheric emissions (gases emitted to the atmosphere, including exhaust gases, aerosols, dust, etc.);
+
+Waste (introduced to the environment – waste water, technological and food wastes, garbage);
+
+Fuel (including other liquid hydrocarbons used for non-scientific purpose – result of refueling of transport vehicles, etc.);
+
+Chemicals (chemical substances including drilling fluids introduced ton the environment);
+
+Representatives of nonnative flora and fauna (introduced to the environment as a result of activity)* if such are present;
+
+Microorganisms (introduced to the environment as a result of activity);
+
+Noise (noise from activity – running engines, equipment, human voices, etc. propagating to the environment);
+
+Type (making a visual impact on animals and the aesthetic values of landscape, etc.)*;
+
+Mechanical disturbance (physical interaction with the environment inherent to the activity – as a result of movement of transportation vehicles, equipment and man in the environment);
+
+Heat (heat from power plant generators, transport, heaters, etc. dissipated to the environment as a result of activity);
+
+Electromagnetic emission (electromagnetic emission from powerful generators, antennas, etc. dissipated to the environment as a result of activity)*;
+
+Light (light emission from powerful searchlights, lighters dissipated to the environment as a result of activity)*.
+
+*) Note. Environmental impact agents marked by * are not taken into account in further EIA analysis as they do not interact with the environmental compartments under consideration (components and values).
+4.1.2. Types of activity
+
+All types of activity used in the Project can be subdivided into two groups.
+
+? . Project support operations (on the ice sheet surface)
+        Airborne transport operations
+        Ground-based transport operations
+        Activity at the station
+        Drilling unit operation maintenance
+
+B. Penetration to the lake (inside the glacial strata)
+        Drilling of glacial strata
+        Contact with the lake surface
+
+4.1.3. Areas of the activity (impact)
+
+Identification of the areas of activity (impact) as NRA, RA or CIA is performed on the basis of the current environmental state descriptions presented in sections 2, 3
+
+It is noted that for a subsequent determination of the impact significance, it is necessary to take into account the current environmental state of the area of activity (impact), i.e., to determine whether the activity is undertaken in the station area - non-recoverable area (NRA), or in a remote area of field studies or logistics operations - recoverable (partly) areas (RA) or in the intact territories (in this case, inside the ice sheet) of Antarctica - conventionally intact areas (CIA).
+
+It is obvious that a similar impact of one and the same activity cannot inflict significant damage to the environment in the NRA (for example, in the station territory where the environmental components have been already irreversibly changed) and irreparable damage in the intact virgin area.
+
+A specific feature of this Project is conduct of work on the glacial surface in the NRA (Vostok station) with penetration to the intact environment of the subglacial lake (CIA) that has a different ecosystem and a special environment. That is why the main aim of the Project of penetration is to ensure a minimum risk of producing an impact on the lake and its ecosystem.
+
+Thus, the areas of activity (impact) can be unambiguously divided into the:
+        surface areas of logistics operations - NRA: Vostok station, "Mirny-Vostok" route (no deviations of the traffic from the route and any operations related to this Project are planned; and
+        site of the proposed borehole run from the existing bottom to the "ice-water" divide inside the virgin glacial massif - CIA.
+
+For the analysis of the environmental impact of activities, methods employed earlier for the EIA both in the Antarctic and the Arctic were used, in particular, a matrix evaluation method. The matrices are presented below in the form of Tables 4.1.1-2 on two groups of the types of activity     used     in     the     Project     of     penetration.
+Logistics operations (operations at the surface)                                                                                  Table 4.1.1.
+
+                                                                                                                
+                                                                                                                
+                   IMPACT AGENT                                                                 ACTIVITY (IMPACT) AREA
+ACTIVITY TYPE      ATMOSPHERI                                                                         
+                   C EMISSIONS          WASTES     FUEL   CHEMIC  MICROB   NOISE   MECHANICA  HEAT                    
+                                                          ALS     ES        L         
+                                                                                  DISTURBAN        
+                                                                                  CE         
+                                                                                                                
+Airborne operations        ?              -         -       -       -        ?         -        ?   Vostok station area (NRA)                                                                                                  
+Ground-based  vehicle                                                                                                    Vostok station area (NRA) and 
+operations                 ?              ?         -       -       ?        ?         ?        ?   "Mirny-Vostok" route area ( RA)                                                                                          
+Activity at the station    ?              ?         ?       -       ?        ?         ?        ?   Vostok station area (NRA)                                                                                                  
+Drilling unit operation                                                                                                  
+maintenance                ?              -         -       ?       -        ?         -        ?   Vostok station area (NRA)                                                                                                  
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                
+Penetration to the lake (operations inside the glacial strata)                                          Table 4.1.2.
+
+                                                                                
+                        IMPACT AGENT                                                      
+ACTIVITY TYPE           DRILLING FLUID     MICROBES     NOISE     MECHANICAL     HEAT     ACTIVITY (IMPACT) AREA  
+                                                DISTURBANCE                                                                     
+Glacial strata drilling     ?                  ?          -          ?           ?     Borehole 5G-1 and a restricted ice massif  
+                                                                                                          surrounding it
+Contact with the lake       ?                  ?          -          ?           ?     A restricted lake surface area at the “ice –  
+surface                                                                                                   water” boundary
+
+The cross in the table cell (X) denotes that the type of activity under consideration is identified as an impact source, i.e. it has an 
+inherent corresponding impact agent on the environment of the area of activity (impact). It is important to note that one type of activity may 
+have several impact agents. Thus, one and the same impact agent can be inherent to different types of activity, which is necessary to take into 
+account during the subsequent determination of the impact significance in case of coincidence of one and the same area of activity (impact).
+29
+
+As can be seen from the tables, most types of activity do not produce the presented 
+impact agents, i.e. they are not the impact sources and do not participate in further analysis.
+
+As can be seen from the Tables, all types of activity have the impact agents under the 
+consideration, which identifies tem as the environmental impact of the corresponding areas 
+of activity (impact).
+
+4.2. Analysis of significance of the anticipated environmental impact
+
+The analysis of determining the impact significance from performing the types of 
+activity identified as the impact sources was also performed using a matrix method.
+
+The cross in the cells of matrices presented below in the form of Tables 4.2.1-5 
+denotes those impact objects (environmental components, environmental and scientific 
+values) that are subjected to the corresponding (impact) agent from the corresponding 
+impact source (type of activity). The cross absence indicates that the impact agent under 
+consideration does not have any influence on the impact object.
+
+The impact significance is determined given the environmental state of the area of 
+activity, which is mainly defined as a non-recoverable area (NRA). The assessment criterion 
+is "a minor or transitory impact".
+Airborne operations (NRA, RA)
+
+Table 4.2.1.
+
+||      IMPACT AGENT      | ATMOSPHERIC EMISSIONS | NOISE | HEAT |             IMPACT SIGNIFICANCE            |
+|| IMPACTED OBJECT      |                       |       |      |                                             |
+||----------------------|-----------------------|-------|------|---------------------------------------------|
+|| Air                  |           ?          |   -   |  ?   | Less than a minor or transitory             |
+|| Snow                 |           ?          |   -   |  -   | Less than a minor or transitory             |
+|| Ice                  |           -          |   -   |  -   | NO Impacts                                  |
+
+Table 4.2.2.
+
+Ground-based vehicle operations (NRA)
+
+||      IMPACT      | ATMOSPHERIC EMISSIONS | FUEL | NOISE | MECHANICAL DISTURBANCE | HEAT |             IMPACT SIGNIFICANCE            |
+|| IMPACTED OBJECT  |                       |      |       |                        |      |                                             |
+||------------------|-----------------------|------|-------|------------------------|------|---------------------------------------------|
+|| Air              |           ?          |  -   |   -   |           -            |  ?   | Less than a minor or transitory             |
+|| Snow             |           ?          |  ?   |   -   |           ?            |  ?   | Less than a minor or transitory             |
+|| Ice              |           -          |  -   |   -   |           -            |  -   | NO Impacts                                  |
+31
+
+Activity at the station (NRA)
+
+Table 4.2.3.
+
+IMPACT 
+AGENT 
+IMPACTED OBJECT 
+      ATMOSPHERIC EMISSIONS 
+      WASTE 
+      FUEL 
+      MICROBES 
+      NOISE 
+      MECHANICAL DISTURBANCE 
+      HEAT 
+      IMPACT SIGNIFICANCE 
+
+Air 
+      ? 
+      - 
+      - 
+      ? 
+      - 
+      - 
+      ? 
+      Impact from the activity at the station is within the existing impact scale and is not beyond the limits of the present changes of environmental parameters of NRA
+
+Snow 
+      ? 
+      ? 
+      ? 
+      ? 
+      - 
+      ? 
+      ? 
+
+Ice 
+      - 
+      - 
+      ? 
+      - 
+      - 
+      ? 
+      - 
+
+Table 4.2.4.
+
+Drilling unit operation maintenance (NRA)
+
+IMPACT 
+AGENT 
+IMPACTED OBJECT 
+      ATMOSPHERIC EMISSIONS 
+      WASTE 
+      FUEL 
+      MICROBES 
+      NOISE 
+      MECHANICAL DISTURBANCE 
+      HEAT 
+      IMPACT SIGNIFICANCE 
+
+Air 
+      ? 
+      - 
+      - 
+      - 
+      - 
+      - 
+      ? 
+      Less than a minor or transitory
+
+Snow 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      NO Impacts
+
+Ice 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      NO Impacts
+Glacial strata drilling (CIA)
+
+Table 4.2.5.
+
+                                                                 IMPACT 
+IMPACTED         AGENT         DRILLING FLUID      MICROBES    MECHANICAL DISTURBANCE      HEAT         IMPACT SIGNIFICANCE
+OBJECT                                                                                                          
+Ice microbiota                  -           ? (-)              -              -           Less than a minor or transitory
+Ice chemistry                  -              -                -              -              NO Impacts
+Ice structure                  -              -                ?              -              Less than a minor or transitory
+Lake water                    -              -                -              -              NO Impacts
+
+Contact with the lake surface (CIA)
+
+Table 4.2.6.
+
+                                                                 IMPACT 
+IMPACTED         AGENT         DRILLING FLUID      MICROBES    MECHANICAL DISTURBANCE      HEAT         IMPACT SIGNIFICANCE
+OBJECT                                                                                                          
+Water and ice microbiota 
+in the contact zone              -              -                -              -              NO Impacts
+Water and ice chemistry 
+the contact zone              ? (-)             -                -              -              Less than a minor or transitory
+Lake ice surface                -              -                -              -              NO Impacts
+Lake water                      -              -                -              -              NO Impacts
+Lake bottom                     -              -                -              -              NO Impacts
+4.3. Anticipated impact on environmental compartments
+
+4.3.1. Direct impact and contamination risks
+
+The direct impact of the proposed drilling operations will be as follows: 1) impact of 
+the drilling fluid used on the environment: 2) deepening of the borehole 5G-1 and 
+introduction of an additional quantity of the drilling fluid (ice sheet structure change along the 
+borehole); 3) exposure (disturbance) of the natural "ice base-lake surface" boundary at the 
+borehole drilling point.
+
+In addition, the following risks appear during drilling operations: 1) loss of the drilling 
+equipment in the borehole; 2) unplanned exit of the drilling equipment to the lake; 3) 
+penetration of the drilling fluid to the lake.
+
+Impact: influence of the drilling fluid on the environment. The drilling technology 
+of a deep borehole 5G-1 envisages application of the drilling fluid consisting of the aviation 
+fuel TS-1 and Freon 141b as heaver. The greatest danger for the environment is related to 
+Freon losses as a more volatile and active substance.
+
+Freon 141b is delivered to the station in sealed drums and its losses during 
+transportation and storage are practically excluded. The technological losses in the process of 
+drilling can be divided into two portions: evaporation of the drilling fluid from the surface in 
+the borehole and fluid, which is carried to the surface in the process of round-trip operations.
+
+The technological process and the design of the borehole 5G-1 ensure a minimum loss 
+of the drilling fluid including Freon). The upper part of the borehole passing through the 
+snow-firn zone is overlapped by the plastic casing excluding any losses of the drilling fluid in 
+it. The lower (200-300 m above the bottom) and the upper (200 m) segments of the borehole 
+are filled with the drilling fluid with a relatively low level of Freon. The fluid density on these 
+segments is not greater than 900 kg/m³. Freon and kerosene are added separately to the 
+borehole. Pure Freon is delivered to the borehole to the chosen horizons by a special device 
+while kerosene is poured from the surface contributing to a decreased Freon concentration at 
+the drilling fluid surface. At the beginning of the drill run, the drill is filed at the surface by a 
+practically pure kerosene, which is delivered to the bottom as the design of the drill does not 
+allow the fluid circulate over it in the process of round trip operations.
+
+At the drill recovery, the carrying cable extracts about 40 liters of the drilling fluid 
+from the hole, whose density corresponds to an average density of the drilling fluid in the 
+upper 100 m in the borehole. Together with cuttings, around 35 liters of fluid is extracted 
+from the near-bottom zone in the sludge trap. The fluid flowing from the cable and the drill is 
+collected to trays from which it is again poured to the borehole.
+
+To assess the losses of the drilling fluid during the season of the 43d RAE, the drilling 
+group has carried out a complex of geophysical observations including regular measurements 
+of he density of the fluid extracted from the borehole and fluid depth, fluid sampling from 
+different horizons and temperature measurements along the entire borehole drilled.
+
+A comparison of the fluid density during the 1998 season with the measurements 
+made in January 1997 before the borehole was suspended has not revealed any changes 
+during the preceding year thus indicating a high stability of the kerosene/Freon mixture and 
+the absence of Freon losses during the borehole standby.
+
+The fluid extracted from the borehole with the carrying cable and in the drill remains 
+in the open containers at the drilling site for about an hour. After that at the beginning of the 
+next run it is poured to the hole with the descent of the drill. At first, the fluid has a 
+temperature of about −40 [?] and then at pouring to the hole about −20 [?]. Over 10 hours the 
+fluid density decreased by around 10 kg/m³. It is obvious that with increasing temperature 
+Freon will evaporate more quickly from the fluid. Assuming that Freon evaporates uniformly 
+with time, we obtain that approximately 0.2 kg can evaporate from 80 liters of the drilling
+fluid.
+
+Some portion of the fluid extracted from the hole is lost with cuttings. After each run the cuttings extracted from the drill are melt to determine the volume. The fluid is heated up to the above freezing temperature and Freon evaporates from it practically completely. According to measurements made after each run, approximately three liters of the drilling fluid remains.
+
+In spite of the fact that special trays are set up under the deflecting rollers and the cable over its entire length from the borehole to the winch to collect the flowing fluid, some portion is irrevocably lost due to splashing. These losses can be estimated as about two liters a run.
+
+Then the total irrevocable losses of the drilling fluid during a run (round trip operations) will be about five liters, or 1 kg of Freon 141b. Given the losses due to evaporation from the extracted drilling fluid, we have 1.2 kg of Freon per run.
+
+To drill 130 m of ice before the contact with the lake surface, the maximum number of the drilling runs to the borehole can be around 100. Thus, the total quantity of Freon that can be retrieved to the surface and produce an environmental impact can be 120 kg.
+
+Impact: change of the glacial structure along the borehole 5G-1 below a depth of 3623 m. At continued drilling from the bottom of borehole 5G-1 to the lake surface in the basal glacial horizons, the drill will run additional 130 m. The total volume of the extracted ice cores for investigation (at their diameter of 105 mm) will be around 1.5 m^(3). At the end of drilling in newly formed ice of lake water (see section 2.2), it is possible to apply two methods for prevention of lake contamination: 1) penetrate the lake again and make lake water rise in the borehole by 20–30 m: 2) stop re-drilling in several meters from the “ice-lake water” boundary. In the former case, upon terminating all work in the borehole the drilling fluid will be in depths between 3623 to about 3720 m, while the borehole length remaining to he boundary with the lake surface will be obstructed by ice formed of the frozen lake water. In the second case, there will be several meters of newly formed between the drilling fluid column and the lake surface.
+
+Impact: disturbance of the natural “glacial base-lake surface” boundary at the borehole drilling point. At penetrating the lake, water will rush upward the borehole 5G-1 (see section 2.2). The height and the volume of water introduced to the borehole will depend on the given undercompensation pressure of the drilling fluid (for example, 20 m at undercompensation of 2 bars). It is obvious that extraction of about 1.5 m^(3) of water from the subglacial lake with a depth of hundreds of meters and an area of more than 10000 km^(2) will not influence the change of thermodynamic conditions of the equilibrium state of the “ice sheet–subglacial lake” system, i.e., it will not change the depth of the “ice-water” boundary and the course of the accretion processes at this boundary.
+
+At the moment of penetrating the lake and water rushing upward in the borehole, an increased water flow in the subsurface lake layer will also occur. Given small water volumes extracted from the lake, this impact will be very short (probably, minutes) and of a local character (real influence over a distance of about 10–20 m) and should not change the pattern of natural circulation of lake water.
+
+Contamination risk: loss of the drilling equipment in the borehole. In the process of borehole drilling by a mechanical or thermal methods, emergency situations are possible. Their causes can be divided into two main types: technological and technical. The main technological causes include the disturbance of the borehole sides and of the drilling process. The technical causes include equipment failures (both on the surface and in the borehole).
+
+The most dangerous among emergencies is when the drill is stuck in the borehole. During thermal drilling, the drill can be frozen at the bottom in case of some failure in the system of melt water removal from the bottom. In addition, during thermal drilling, the
+35
+clearance between the bore bit and the borehole sides is small and can be comparable with deformations of the hole sides due to overburden pressure and displacement of glacial layers. At the drill recovery from the hole, some drags in the deformed zone are possible In case of the bore bit failure, he drill will be stuck and it will be impossible to extract it to the surface. For the electrical-mechanical method used for drilling of borehole 5G-1, the probability of such situation is much less, however, it cannot be fully excluded.
+
+In case the drill is stuck, the minimum loss is to leave the drill in the borehole. Then the borehole is deflected from the drill that has failed and drilling is continued. This can be, however, achieved if the possibility of cutting the carrying cable directly at the place of its fixation in the drill is envisaged or if there is a safety element in the upper part of the drill, which is destroyed at a specific cable tension force. Otherwise, there is a large probability of the cable tearing off near the surface at deflecting roller or the winch drum. At such tearing off of the carrying cable, the hole is lost completely.
+
+4.3.2. Possible indirect impact
+
+Environmental impact during the logistics supply of the proposed activity. To implement the proposed activity will require logistics support, i.e. it will cause some increase of anthropogenic impact on the Vostok station area. This impact will be produced for several Antarctic summer seasons when a 4-6 people glaciological-drilling team will stay and work at the station. Since it is planned to use the Vostok station during these years as a logistics base for conducting other research studies (see section 1.3), this activity will produce only an additional and in general insignificant environmental impact. The impact components will be addressing the life support issues of the glaciological-drilling team: supply with the food products, extraction and melting of snow for water supply, supply and consumption of additional diesel fuel, running diesels for power supply of the living premises and the drilling installation and appearance o additional life activity waste. It is noted that all aforementioned environmental impact factors are within the usual level of operations for life support at Vostok station.
+
+Directly for drilling the borehole 5G-1, about 3 t of aviation kerosene TS-1 and about 400 kg of Freon 141b (that are already at Vostok) as well as some units and components to improve the drilling equipment at the station will be required.
+
+Impact on the environment of the results of the proposed activity after its termination. After completing all planned operations (borehole 5G-1 drilling, lake penetration, repeated drilling of ice formed of lake water), the borehole 5G-1 will be suspended. The extraction of the drilling fluid from the borehole does not appear advisable in terms of ecology due to the following considerations: 1) This is about 60 t of stable mixture (containing Freon) that is difficult to divide into components for re-use; 2) Transportation of this mixture from the station will require shipment and subsequent consumption of a large quantity of fuel being in itself quite long and complicated; 3) Environmentally safe storage of such quantity on the surface in the station area is now practically impossible.
+
+Thus, if the borehole is suspended, it is planned to leave the drilling fluid in the hole. In this case, the hole 5G-1 will be filled with a mixture of aviation kerosene and Freon to a depth of 3700-3730 m. Beneath it, towards the surface of Lake Vostok, the hole will be filled with ice formed of Lake Vostok water.
+
+It is obvious that the borehole (filled with the drilling fluid) left in the glacial body will influence the wilderness of the glacial strata. A direct impact will be made on the borehole ice sides, i.e. it will be localized at one point by the vertical ice sheet profile. Due to the flow of the largest portion of the ice sheet (to depths of 3500 m – see sections 1.1, 1.3), this point will move with a rate of about 3 m a year to the southeast and thus exit the lake boundaries in about 2000 years.
+Part of the borehole and the drilling fluid located within an immobile basal ice layer (in depths of more than 3500 m) will be probably obstructed by the flowing ice in the next years. Given the existing tendency for accretion of lake water ice at the bottom glacier surface, one can assume the increasing hindrance of the borehole from the contact with the lake from beneath as well, during a period of time comparable by duration with a climatic cycle (about 100,000 years).
+
+4.3.3. Cumulative impact
+
+Continuation of drilling of the borehole 5G-1 and penetration to Lake Vostok with sampling will impact all environmental compartments at Vostok station: the atmosphere, microclimate and surface relief of the area, glacial strata and, probably, the subglacial lake surface (see sections 3.1 and 3.2). However, this impact will be insignificant and if compared with other options for achieving the proposed scientific objective -minimum.
+
+In particular, the proposed drilling of only about 130 m (to the boundary with the lake) will require only a small additional quantity of the drilling fluid resulting in disturbing the ice sheet structure and exposing the lake at a point where upward the section these irreversible changes already exist. If the objective of penetrating the lake is achieved by using a preliminary drilling of the new borehole, the ice structure at the point of drilling and entry to the lake will be changed throughout the entire ice strata. Depending on the drilling method, this will require delivering to this Antarctic area many tons of kerosene and Freon (mechanical method) and ethanol (thermal drilling), as well as a large quantity of diesel fuel for energy supply of long-term drilling activities.
+
+The aforementioned contamination risks of continued drilling of borehole 5G-1 (a brief exit to the lake of equipment or penetration of the drilling fluid) will accompany by all means any other variant of accessing the lake by drilling. To exclude the risk of the drilling fluid leak to Lake Vostok is possible only by using the robotic technology (cryobot and hydrobot) [12]. On the other hand, this technology of penetrating the lake envisages leaving the cryobot and the hydrobot in the lake, i.e. there is not even a risk, but a direct non-exclusive and long-term impact on the lake ecology.
+
+The activity at Vostok station will be carried out in the area, which belongs to the category of non-recoverable area (NRA). The logistics operations related to continuation of activity in the borehole 5G-1 will be only part of the anthropogenic load on the Vostok station area during the periods of seasonal activity. It is obvious that in case of using the borehole 5G-1, drilling equipment of the station and the existing life support conditions here, the total environmental impact of the proposed activity will be much less compared to drilling of a new borehole in the station area and the subglacial Lake Vostok.
+
+The scales and general duration of the total environmental impact of the proposed activity are determined not only by the specific measures planned but also by the peculiarities of natural conditions of the Vostok station area. As can be seen from section 1.1, the distinguishing features of these conditions are the absence of water in the liquid phase at the surface and in the glacial strata, which reduces significantly the intensity and the extent of the area of man influence on the territories adjoining the station. In fact given the severe conditions and the ice flow rates (see section 1.1) the impact made will be restricted to the station area at the surface and to the borehole in the glacial strata for the nearest hundreds of years. In addition, considering the ice flow features and a tendency for ice accretion at the bottom glacial surface, it can be assumed that the results of the proposed activity (borehole, drilling fluid) will not impact the ecology of Lake Vostok. Moreover, the main part of the borehole with the drilling fluid will be offset beyond the lake boundaries.
+37
+
+4.4. Anticipated impact on the aesthetic and wilderness values of the environment
+
+Drilling and ice core recovery from the borehole 5G-1 has changed the vertical ice 
+sheet structure at the borehole location. At suspending the borehole, its impact will be 
+restricted to the drilling fluid influence on the ice sides of the hole. During a long period of 
+time, the location of the area of this impact will change. Part of the borehole with the drilling 
+fluid (up to a depth of about 3500 m) will be offset in the southeastern direction exiting the 
+boundaries of the subglacial Lake Vostok in 2000 years. Part of the borehole with the drilling 
+fluid (3500-3623 m depths) will probably remain above the lake for several tens of thousands 
+of years.
+
+4.5. Anticipated impact on the areas of scientific, historic and cultural significance
+
+The presence of the borehole 5G in the glacial strata disturbing the natural ice 
+structure will not allow the repeated drilling of the ice strata in order to obtain ice cores or 
+enter Lake Vostok at a distance of 100 m from the borehole head.
+
+The ice core extracted from the borehole is of unique value for paleoclimatic 
+reconstructions both for the given Antarctic region and on a global scale. In accordance with 
+the existing rules, this ice core after sampling is subdivided into several segments that are 
+studied in many laboratories of the world. It is important that some part of the ice core 
+remains as a reference collection in the core storage at Vostok station. Thus, future studies of 
+the ice sheet characteristics in the Vostok station area will not require drilling a new borehole 
+with core sampling, i.e., the influence of the existing borehole 5G-1 on future glaciological 
+activities in the vicinity of the Vostok station will be practically zero.
+
+4.6. Unavoidable impact at continuation of drilling the borehole 5G-1 and penetration to 
+Lake Vostok
+
+Conduct of the proposed activity will inevitably have the following environmental 
+impacts:
+- change of the ice sheet structure at the drilling point of the existing borehole 5G-1 
+from a depth of 3623 m and to the lake surface (a total of about 130 m);
+- short-term exposure of the natural “ice base-lake surface” boundary with its 
+subsequent formation at lake water freezing in the borehole 5G-1;
+- extraction from the surface lake layer beneath the borehole 5G-1 of about 1.5 m^(3) of 
+water for its sampling in the form of ice cores;
+- retrieval to the surface and evaporation to the atmosphere of about 60 kg of Freon 
+141b during drilling operations;
+- total impact on the Vostok station area due to the delivery here, living and work of 4-
+6 specialists for several summer Antarctic seasons as well as to the delivery to the station of 
+an insignificant quantity of drilling equipment components.
+
+4.7. Risk of the impact of lake microorganisms on the human health and the 
+environment
+
+Referring to the problem of a possible ecological danger of exposing the relict Lake 
+Vostok to present-day life on Earth, it is noted that:
+38
+
+First, the lake water sample collected in the form of an ice core will be in the hands 
+and under control of competent investigators.
+
+    Second, according to the calculation data of the Project authors, a prolonged contact 
+of the lake surface with the borehole is excluded due to the ice plug at the borehole bottom.
+
+4.9. Proposals for mitigating the environmental impact
+
+In the framework of the Project of penetrating to the subglacial lake, two components 
+of one complex of measures to ensure the ecological safety of drilling operations should be 
+subjected to a careful analysis:
+
+    technological component determined by application of different drilling fluids and use 
+of mechanical and thermal drilling methods;
+    engineering components determined by design parameters of the drilling equipment 
+applied.
+
+Technological measures. Before the direct access to the lake, an intermediate buffer 
+fluid layer is created that should mitigate a possible risk of lake contamination. The main 
+measure of a technological character excluding the possibility of the drilling fluid penetrating 
+the lake is to create the drilling fluid pressure in the near-bottom zone of the borehole smaller 
+than the water pressure in the lake. This is possible only by providing a sufficiently high 
+accuracy of measurement of the drilling fluid pressure in the borehole. As estimated by the 
+Project authors, the accuracy of pressure measurements at present is not less than ±0.9 bars. 
+To increase the accuracy of measurement of the drilling fluid is the most important reserve in 
+ensuring ecological safety of operations.
+
+Engineering measures. The design parameters of the thermal drill to be used at the 
+second stage of lake access allow us to exclude the drill exit to lake water and penetration of 
+the drilling fluid from the borehole to the lake.
+
+Upon reaching the lake surface, it is proposed to create the conditions for lake water 
+incorporation to the hole after which the drilling operations are stopped until the complete 
+lake water freezing in the borehole. Then, ice sampling from lake water by the 
+electromechanical drill KEMS-132 will be carried out.
+
+Part of ice near the boundary with the lake will not be drilled in order to ensure the 
+isolation of the borehole from the borehole and to prevent possible adverse environmental 
+consequences. This fact is a very important aspect in the studies planned and this variant is 
+the most preferable.
+
+To ensure a guaranteed ecological purity of Project implementation, it is desirable to 
+make a preliminary check of the developed technologies and drilling equipment before 
+penetrating Lake Vostok under the field conditions to exclude possible failures.
+
+The main source of Freon losses in the process of drilling and lowering-recovery 
+operations is the drilling fluid remaining in the sludge or flowing from the cable, the drill and 
+the measurement instruments. To reduce these losses it is planned to use a centrifuge for 
+further drilling activities that will separate the sludge and the drilling fluid. At present such 
+device is used for drilling a deep borehole at Dome C in Antarctica under the EPICA Project. 
+In this manner more than 90% of the fluid can be separated from the sludge. The remaining 
+kerosene is easily separated at melting the sludge, but Freon will go to the atmosphere. Thus, 
+the Freon losses will be decreased to 0.6 kg a run during subsequent measurements and 
+monitoring observations in the borehole.
+4.10. Gaps in knowledge
+
+The main gaps in our knowledge revealed in the process of preparation of the present
+EIA are as follows: data obtained by direct instrumental measurements on the thermodynamic
+conditions of the glacial strata in the direct proximity to the "bottom ice surface-lake Vostok
+surface" divide; instrumental determinations of the composition of the subsurface water layer
+of Lake Vostok; evidence on the organic life forms in the subsurface water layer of Lake
+Vostok
+
+However, to fill the aforementioned gaps is possible only by the direct studies of the
+lower ice strata layers at the contact with the Lake Vostok surface, penetration to the lake and
+sampling its water, this being the scientific goal of the proposed activity.
+
+4.11. Alternative types of activity (comparison with the declared activity on
+environmental impact)
+
+4.11.1. Alternative methods for penetration to the subglacial Lake Vostok
+
+Comparison with other methods and technologies. At the thermal method of drilling,
+the borehole bottom forms due to ice melting at the contact with a bore bit-heater. The power
+is fed to the bore-bit heater by the carrying cable from the surface. When using the drilling
+fluids on the basis of kerosene or other fuels, melt water is collected to a drill container. In
+case of using ethanol or other antifreeze liquids, melt water mingles with ethanol and remains
+in the near-bottom zone. The process of drilling stops when the core lifter is filled with a core
+or if the container for water collection is filled.
+
+The variant of penetration to the lake by drilling a new borehole is based on
+application a water solution of ethanol as a drilling fluid [10]. This technology has been
+successfully used for drilling boreholes up to 1000 m deep in warm (up to −30° C) glaciers.
+The use of this technology for drilling in thick cold glaciers where the temperature changes by
+depth from -57 to −5° C will inevitably lead to freezing of the drilling fluid in the upper part
+of the borehole. Alcohol mixes with water in any concentrations and will be dissolving the
+borehole sides until the solution is crystallized. During round trips, a less concentrated
+solution will be discharged from warm lower to cold upper horizons. This will result in partial
+crystallization of the drilling fluid (shuga fallout), which is dangerous due to a possibility of
+the drill being stuck in the borehole in the process of round trip operations.
+
+This technology envisages drilling by a thermal drill. The average mechanical rate of
+drilling is unlikely to be higher than 3 m/hour. To drill a borehole using this method will take
+approximately two years of continuous work for 24 h a day by an experienced drilling team in
+the absence of any complications in the process of drilling, which is unlikely. Past experience
+shows that using this method in cold glaciers, no one and nowhere was able to drill the
+boreholes with a depth of more than 1000 m.
+
+There is also a method of thermal drilling of boreholes of a large diameter developed
+in the USA [11]. Drilling is made due to hot water, which is pumped from the surface by
+hose-cable to the bore bit. The hole diameter is about 0.5 m. In the process of drilling the
+borehole remains filled with water formed at ice melting. Drilling consumes an enormous
+quantity of power to maintain the borehole in the unfrozen state and to melt the ice. After the
+end of drilling, special sensors are lowered to the borehole. As heating of the water column
+stops, it freezes. Using this method of drilling, to collect the ice core, conduct long-term
+studies and use the borehole is impossible. The maximum depth of the boreholes drilled by
+this method comprises 2400 m.
+
+Thus, there are several methods for accessing the lake proposed by different countries.
+40
+
+They are based, however, on conducting preliminary drilling of more than three thousand 
+meters of the glacial strata. Since the bottom of the borehole 5G-1 is now in direct proximity 
+to the water surface of Lake Vostok, it appears to be quite reasonable to use for lake 
+penetration exactly this hole with a depth of 3623 m filled with the drilling fluid. The results 
+of drilling the hole 5G-1 have finally proved the decisive advantages of the technique and 
+technology of deep ice drilling developed at the SPSMI (TU). As compared with other 
+existing coring electrical mechanical drills at a carrying cable (US CRREL, Danish-Swedish 
+ISTUK and Japanese drills), the Russian drill KEMS-112 is distinguished by simplicity of 
+design and reliability of operation. The proposed drilling of only 130 m (to the boundary with 
+the lake) will require a small additional quantity of the drilling fluid resulting in disturbing the 
+ice sheet structure and penetrating the lake at a point where upward the section these 
+irreversible changes already exist. If the objective of penetrating the lake is achieved by using 
+a preliminary drilling of the new borehole, the ice structure at the point of drilling and entry to 
+the lake will be changed throughout the entire ice strata. Depending on the drilling method, 
+this will require delivering to this Antarctic area many tons of kerosene and Freon 
+(mechanical method) and ethanol (thermal drilling), as well as a large quantity of diesel fuel 
+for energy supply of long-term drilling activities.
+
+The aforementioned contamination risks of continued drilling of borehole 5G-1 (a 
+brief exit to the lake of equipment or penetration of the drilling fluid) will accompany by all 
+means any other variant of accessing the lake by drilling. To exclude the risk of the drilling 
+fluid leak to Lake Vostok is possible only by using the robotic technology (cryobot and 
+hydrobot) /33/. On the other hand, this technology of penetrating the lake envisages leaving 
+the cryobot and the hydrobot in the lake, i.e. there is not even a risk, but a direct non-
+exclusive and long-term impact on the lake ecology.
+
+4.11.2. No action alternative
+
+Refusal from the conduct of activity does not mean closing the Vostok station where 
+other research studies are carried out and planned. This signifies that during the next few 
+years, the station will operate as a logistics base with all implications of the anthropogenic 
+impact. The major impact on the natural conditions in the station area will be related as before 
+to the issues of life support: accommodation of the expedition participants, supply of fuel, 
+equipment and food products, operation of DES, galley and transport, snow withdrawal, 
+accumulation of wastes, etc. That is why a refusal from drilling will only partly diminish the 
+anthropogenic load and will not be able to drastically influence the changes in the current 
+environmental state of natural conditions at the glacial surface in the Vostok station area.
+
+At the present time, the bottom of the borehole 5G-1 is located at a depth of 3623 m, 
+i.e. approximately in 130 m from the boundary of the bottom glacial surface and water of 
+Lake Vostok. At the refusal from further drilling, the borehole will be finally decommissioned 
+and probably lost for scientific research.
+5. CONCLUSIONS
+
+The proposed continuation of drilling in the borehole 5G-1 (Vostok station, Antarctica) and penetration to Lake Vostok with water sampling (in the form of ice) is planned for the summer Antarctic seasons from 2003 to 2006. This activity aims to achieve a scientific objective of obtaining data on the origin, evolution and current state of the lake.
+
+The method and technology proposed for this are based on current knowledge about the state of the "ice sheet-subglacial lake "system, physical laws and long-term practical experience of drilling deep boreholes at Vostok station.
+
+Like any other practical activity in Antarctica, continuation of drilling the borehole 5G-1 and penetration to the subglacial lake imply an environmental impact. An evaluation performed indicates that it will inevitably include an insignificant influence by scale and duration on the atmosphere (evaporation of Freon 141b), on the glacial structure in the borehole 5G-1 in depths of more than 3623 m (about 130 m of additional drilling) and on the natural "lower ice surface-Lake Vostok surface" boundary.
+
+The risks of contamination accompanying this activity that are primarily related to the presence of the drilling fluid in the borehole can be practically excluded during preparation and conduct of work.
+
+Conduct of the proposed activity will require additional logistics support, which will insignificantly increase the current impact of the station activity on the glacial surface environment.
+
+As follows from a comparison with other methods of accessing Lake Vostok, the proposed activity of lake water sampling will be of a shorter term and at a smaller scale and will have the least total (cumulative) impact on the environment in the Vostok station area, including the subglacial lake.
+
+Based on the CEE performed, it is concluded that the significance of the impact of the proposed activity on the environment of the station area, ice sheet and the lake is no more than a minor. The activity under consideration can be conducted on condition of undertaking all measures envisaged to mitigate the environmental impact.
+6. PREPARERS AND ADVISORS
+
+Osokin Nikolaj I., Institute of Geoecology, Moscow
+
+Pomelov Victor N., Russian Antarctic Expedition, Arctic and Antarctic Research Institute, Saint-Petegsburg
+
+Lukin Valery V., Russian Antarctic Expedition, Arctic and Antarctic Research Institute, Saint-Petegsburg
+
+Verkulich Sergej R., Arctic and Antarctic Research Institute, Saint-Petegsburg
+
+Lipenkov Vladimir Ya., Arctic and Antarctic Research Institute, Saint-Petegsburg
+
+ADDRESS for communications and comments:
+Pomelov Victor,
+RAE AARI, Bering str.38, St-Petersburg 199397 RUSSIA
+
+Phone/fax +7(812) 352 2930
+
+E-mail: pom@raexp.spb.su
+43
+
+7. ATCM DOCUMENTS
+
+- Protocol on Environmental Protection to the Antarctic Treaty 
+(signed on October 4, 1991 in Madrid, Spain)
+- Guidelines for Environmental Impact Assessment in Antarctica (June 1999, 
+COMNAP)
+- XXII ATCM/IP 66, Application of the "minor or transitory impacts" criterion 
+of EIA in different regions of Antarctica , submitted by Russia
+- XXIV ATCM/WP 29, Expert conclusion for Project "Justification and 
+development of ecologically clean technology for penetrating the subglacial 
+Lake Vostok (Antarctica)"
+
+8. REFERENCES
+
+1. Kapitsa A.P., Ridley J.R., Robin G. de Q., Siegert M.J., Zotikov I.A. A large deep 
+freshwater lake beneath the ice of central East Antarctica.- Nature, v.381, 1996, p. 684-686.
+
+2. Popkov A.M., Kudryavtsev G.A., Verkulich S.R., Masolov V.N., Lukin V.V. 
+Seismic studies in the vicinity of Vostok Station (Antarctica) .- Lake Vostok study: scientific 
+objectives and technological requirements. Abstracts of the International Workshop (March 
+24-26, 1998, Arctic and Antarctic Research Institute, St. Petersburg, Russia), 1998, p. 26-27.
+
+3. Popkov A.M., Verkulich S.R., Masolov V.N., Lukin V.V. Seismic section in the 
+vicinity of Vostok Station (Antarctica) - the results of investigations in 1997. - Materialy 
+glyatsiologicheskikh issledovanii [Data of glaciological studies]. Publ. 86 (in press).
+
+4. NIR "Conduct study of the subglacial Lake Vostok". SI AARI. St. Petersburg. 
+2001.
+
+5. Johnsen S.J., Gundestrup N.S., Hansen S.B., Schwander J., Rufli H. The new 
+improved version of the ISTUK ice core drill // Ice Drilling Technology: Proceedings of a 
+Fourth International Workshop. -Tokyo 1994. -Spec. Issue ?  49. -P.9-23.
+
+6. "Results of Russian studies of the subglacial Lake Vostok". Information document 
+IP-29. XXIV Antarctic Treaty Consultative Meeting. 9-20 July 2001.
+
+7. Savatyugin L.? . et al. "Scientific-technical description of natural conditions and 
+logistics structures of the stations of the Russian Antarctic Expedition with an assessment of 
+their environmental impact. Vostok station". Volume 4, St. Petersburg. 1994.
+
+8. Lipenkov V.Ya., Barkov N.I. Internal structure of the Antarctic ice sheet as 
+revealed by deep core drilling at Vostok Station. - Lake Vostok study: scientific objectives 
+and technological requirements. Abstracts of the International Workshop (March 24-26, 1998, 
+Arctic and Antarctic Research Institute, St. Petersburg, Russia), 1998, 31-35.
+
+9. Libert L., Leonhardt G. Astronomical observations on purpose to determine glacier 
+cover movement in the Vostok station area. - Informats. byull. Sovetskoy Antarct. Expedits. 
+[Inform. bull. of the Soviet Antarctic Expedition], Vol. 88, 1974, p. 68-70.
+
+10. Salamatin A.N., Lipenkov V.Ya., Barkov N.I., Jouzel J., Petit J.R., Raynaud D. 
+Ice-core age dating and palaeothermometer calibration based on isotope and temperature 
+profiles from deep boreholes at Vostok Station (East Antarctica) // Journal of Geophysical 
+Research.- 1998.- Vol. 103, No. D8.- P.8963-8977.
+
+11. Salamatin A.N., Vostretsov R.N., Peti Zh.R., Lipenkov V.Ya., Barkov N.I. 
+Geophysical and paleoclimatic supplement of a constituent temperature profile from a deep
+44
+
+borehole on the Vostok station (Antarctica).- Materialy glyatsiologicheskikh issledovanii
+[Data of glaciological studies]. Publ. 85, p. 233-240.
+
+12. Ravich ? .G., Soloviev D.S., Fedorov L.V. Geological structure of the Mac
+Robertson Land. East Antarctica. -L.: Gidrometeoizdat, 1978. -230 p.
+
+13. Kapitsa ? .P. New data on the ice sheet strata of the central areas of Antarctica //
+Information Bulletin of the Soviet Antarctic Expedition. -1960. - Iss. 19. - P.10-15.
+
+14. Popov S.V., Mironov ? .V., Sheremetiev A.N. results of ground-based radio-echo
+soundings of the subglacial Lake Vostok in 1998-2000. // Materialy glyatsiologicheskikh
+issledovanii [Data of glaciological studies]. -? ., 2001. - Iss. 89. - P.129-133.
+
+15. Conduct study of the subglacial Lake Vostok. - AARI Report on Project 7 of NIR.
+-2000. -84 p.
+
+16. Masolov V.N., Kudryavtzev G.A., Sheremetiev A.N., Popkov A.M., Popov S.V.,
+Lukin V.V., Grikurov G.E., Leitchenkov G.L. Earth Science Studies in the Lake Vostok
+Region: Existing Data and the Proposals for Future Research // SCAR International
+Workshop on Subglacial Lake Exploration. -Cambridge, 2000. -P.1-18.
+
+17. Grushinsky N.P., Koryakin Ye.D., Stroyev P.? ., Lazarev G.Ye., Sidorov D.V.,
+Virskaya N.F. Catalogue of gravimetric points of Antarctica // Proc. Of Shternberg State
+Astronomic Institute, MGU. -1972. -V. XLII. - P.115-311.
+
+18. Popov S.V., Mironov ? .V., Sheremetiev A.N. et al. Measurement of the average
+velocity of propagation of electromagnetic waves in the ice sheet in the vicinity of Vostok
+station // Materialy glyatsiologicheskikh issledovanii [Data of glaciological studies]. -? .,
+2001. - Iss. 90. - P. 206-208.
+
+19. Conduct study of the subglacial Lake Vostok. - AARI Report on Project 7 of NIR.
+-1999. -61 p.
+
+20. Lipenkov V.Ya., Barkov N.I. Internal structure of the Antarctic Ice Sheet as
+revealed by deep core drilling at Vostok Station. - Lake Vostok Study // Scientific Objectives
+and Technological Requirements: Abstracts of the Intern. Workshop. -St. Petersburg, 1998. -
+P.31-35.
+
+21. Jouzel, J., J.R. Petit, R. Souchez., N.I. Barkov, V.Ya. Lipenkov, D. Raynaud,
+M. Stievenard, N.I. Vassiliev, V. Verbeke, F. Vimeux. More than 200 meters of lake ice
+above subglacial lake Vostok, Antarctica // Science. -Vol. 286. -1999. -P.2138-2141.
+
+22. Lipenkov V.Ya., Barkov N.I., Salamatin A.N. History of climate and glaciation of
+Antarctica from the results of study of the ice core from Vostok station // Problemy Arktiki I
+Antarktiki [Problems of the Arctic and the Antarctic]. -Iss. 72. -2000. - P. 197-236.
+
+23. Jean-Baptiste P., Petit J.R., Lipenkov V.Ya., Raynaud D., Barkov N.I. Constraints
+on hydrothermal processes and water exchange in Lake Vostok from helium isotopes //
+Nature. Vol. 411. -2001. -P.460-462.
+
+24. Montagnat M., Duval P., Bastie P., Hamelin B., Brissaud O., Angelis M.,
+Petit J.R., Lipenkov Ya. High crystalline quality of large single crystals of subglacial ice
+above Lake Vostok (Antarctica) revealed by hard X-ray diffraction // C.R. Acad. Sc. -Paris,
+2001. (in press).
+
+25. Gorman M.R., Siegert M.J. Penetration of Antarctic subglacial water masses by
+VHF electromagnetic pulses: estimates of minimum water depth and conductivity //
+J. Geophys. Res. -Vol. 104, No. B12. -1999. -
+bore hole at Vostok Station (Antarctica) // Mater. Glyatsiol. Issled. 1998. -? 85. -P.233-240.
+
+29. Mitskevich I.N., Poglazova M.N., Abyzov S.S., Barkov N.I, Bobin N.Ye.,Ivanov 
+M.V. Microorganisms in basal horizons of the Antarctic ice sheet above Lake Vostok 
+//Doklady RAN, 2001 (in press).
+
+30. Poglazova M.N., Mitskevich I.N., Abyzov S.S., Ivanov M.V. Microbiological 
+characteristics of congelation ice above Lake Vostok (Antarctica) // Mikrobiologiya 
+[Microbiology], 2001 (in press).
+
+31. Ruby E.G., Wirsen C.O., Jannasch H.W. Chemolithotrophic sulfur-oxidizing 
+bacteria from the Galapagos Rift hydrothermal vents // Appl. Environ. Microbiol. -1981. 
+-Vol. 42-P.317-324.
+
+32. Teske A., Brinkhoff T., Muyzer G., Moser D.P., Rethmeier J., Jannasch H.W. 
+Diversity of thiosulfate-oxidizing bacteria from marine sediments and hydrothermal vents // 
+Appl. Environ. Microbiol. -2000. -Vol. 66. -P.3125-3133.
+
+33. Leary W.E. Hardier Breed of Antarctic and Lunar Explorers: Robots.- The New 
+York Times Science, May 13, 1997.
+ANNEX 1
+
+Borehole 5G (5G-1) at Vostok station (scheme)
+
+?
+b
+
+firn
+ice
+500 ?    23'000 years
+1000 ?    66'000 years
+1500 ?   114'000 years
+2000 ?   137'000 years
+2500 ?   199'000 years
+3000 ?   323'000 years
+3500 ?   440'000 years
+3623 ?
+
+? - borehole profile with indication of depth and age
+b - borehole design with indication of the types of corers used (electrical thermal- TELGA,
+TB?S; electrical-mechanical - KEMS). 
+              TELGA-14?
+              164 ??
+              154 ??
+              TB3S-152
+              139 ??
+              137 ??
+              KEMS-132
+ANNEX 2
+
+Lower casing section
+
+
+
+
+
+1- Inner tube, 2- external tube, 3- bottom, 4-aluminum shoe, 5-nichrome spiral, 6-holes,
+7 - heating element, 8-wires.
+ANNEX 3
+
+Diagram of geophysical studies in the Lake Vostok area
+
+      
+                102°в.д.         104°           106°           108°
+   
+                ┌─────┬─────┬─────┬─────┐
+                │     │     │     │     │
+      76°ю.ш.   │     │  1  │     │     │
+                │     │     │     │     │
+                ├─────┼─────┼─────┼─────┤
+                │     │     │     │     │
+                │     │     │     │     │
+                │     │     │     │     │
+                │     │     │ озepo│     │
+                │     │     │ Bocto│     │
+                │     │     │     │     │
+                │     │     │     │     │
+                │     │     │     │     │
+                │     │     │     │     │
+                ├─────┼─────┼─────┼─────┤
+                │     │     │     │     │
+                │     │     │     │     │
+                │     │K    │     │M    │
+                │     │     │     │     │
+                │     │     │     │     │
+                │     │     │     │     │
+      78°ю.ш.   │     │     │     │     │
+                │     │     │     │     │
+                └─────┴─────┴─────┴─────┘
+              100°         102°         104°         106°         108°         110°
+
+УСЛОВНЫЕ ОБОЗНАЧЕНИЯ:
+- 3500 -изогипсы поверхности ледового
+покрова;
+- А -радиолокационные маршруты
+    Б. А 44 - 45 РАЭ Б. 46 РАЭ
+- пункты взрыва зондирований MOB
+46 РАЭ;
+- границы водного слоя:
+    -а) по радиолокационным данным;
+    -б) по сейсмическим данным;
+- - сейсмические профили
+
+               станция Восток
+ANNEX 4
+
+Geophysical sections along S1 and S2 lines
+
+              0                  20                40                60
+              |                   |                 |                 |
+    станция Восток              расстояние, км              высота, м.ур. моря
+    Маршрут S1
+  0                                                                                 3
+  1                                                                                 2
+  2                                                                                 1
+  3
+  4
+  5
+  6                                                     глубина, км               -2
+                                                                                 -3
+
+              0                  20                40                60
+              |                   |                 |                 |
+    станция Восток              расстояние, км              высота, м.ур. моря
+    Маршрут S2
+  0                                                                                 3
+ -1                                                                                 2
+ -2                                                                                 1
+ -3
+ -4
+ -5
+ -6                                                     глубина, км               -2
+                                                                                 -3
+
+УСЛОВНЫЕ ОБОЗНАЧЕНИЯ:
+
+  - Ледовый покров, Vпл=3,8км/сек;                  - Отражающие границы по 
+                                                      радиолокационным данным;
+  - Водный слой, Vпл=1,49км/сек;                    - Отражающие границы по 
+  - Осадки, Vпл=2,5км/сек;                            сейсмическим данным:
+  + + + +                                             a) уверенные; б) предполагаемые.
+- Фундамент;                                         a)          б)
+
+Ice cover,                                            Reflecting boundaries from radio-echo 
+Water layer,                                          sounding data
+Sediments,                                            Reflecting boundaries from seismic data
+Basement                                              a) assured;      b) assumed
+ANNEX 5
+
+Complex geophysical sections
+
+Профиль AB, мс 1.55 км           Профиль KM, пк 32.90 км
+          0         50        100       150       200       250       300
+         |         |         |         |         |         |         |
+         1         1         1         1         1         1         1
+         -         -         -         -         -         -         -
+         0         0         0         0         0         0         0
+         глубина, км                  расстояние, км                  глубина, км
+         -         -         -         -         -         -         -
+         6         6         6         6         6         6         6
+?.
+         -15        -10       -5         0         5         10        15        20
+                   расстояние, км                  скв.5G                  расстояние, км
+         A                                                                 B
+         -         -         -         -         -         -         -         -
+         0         0         0         0         0         0         0         0
+         глубина, км                                          высота, м.абс
+         -         -         -         -         -         -         -         -
+         6         6         6         6         6         6         6         6
+?.
+         K         0         20        40        60        79.78 км40
+                   Профиль 1-1', пк 79.78 км40                  расстояние, км
+         -         -         -         -         -         -         -
+         0         0         0         0         0         0         0
+         глубина, км                                          высота, м.абс
+         -         -         -         -         -         -         -
+         6         6         6         6         6         6         6
+?.
+?. - 1-1' profile, ?.- AB profile, ?.- KM profile
+ANNEX 6
+
+Ice sheet thickness based on RES and RSS data
+
+77°                                 
+104°       106°       108°       77°
+                                 Условные обозначения
+                                 
+                                 изопахиты ледяного покрова, м
+                                 положение береговой черты по данным РЛС
+                                 линия монолисти и межиих
+                                 
+                                 2800 3000 3200 3400 3600 3800 4000 4200 4400
+78°                                                                      
+78°
+                                 
+0        10       20       30       40       50       60 км
+102°       104°       106°       108°
+ANNEX 7
+
+Water layer thickness based on RSS data
+
+102°       104°       106°       108°
+77°                                                                                 77°
+
+ Условные обозначения
+изолинии водного слоя, м
+положение отражающих площадок 
+сейсмических наблюдений МОВ 42-46 РЭ
+положение береговой черты по данным РЛН
+шкала мощности в метрах
+0   100  200  300  400  500  600  700  800  900 1000 1100
+
+78°                                                                                 78°
+
+0        10       20       30       40       50       60 км
+102°       104°       106°       108°
+ANNEX 8
+
+Bottom ice edge location based on RES and RSS data
+
+                                     104°                  106°                  108°                  77°
+                                 
+                                 Условные обозначения
+                                 
+                                 изобазы нижней кромки ледника, м:
+                                 - выше уровня моря
+                                 - уровень моря
+                                 - ниже уровня моря
+                                 положение береговой черты по данным РЛП
+                                 шкала высот в метрах
+                                 -700  -600  -500  -400  -300  -200  -100    0    100  200  300  400  500  600  700
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 Восток
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 0        10      20       30       40       50       60 км
+                                 102°                 104°                 106°                 108°
+ANNEX 9
+Bedrock relief from RES and RSS data
+
+ 
+                                 Условные обозначения
+         изолинии коренного рельефа, м:
+         - выше уровня моря
+         - уровень моря
+         - ниже уровня моря
+         положение береговой черты по данным РЛП
+         шкала высот в метрах
+-1600      -1200     -800     -400       0       400      800
+
+ 
+       0      10     20      30      40      50      60 KM
+102°                                 104°                                 106°                                 108°
+77°                                 77°
+78°                                 78°
+
+
+                                 Восток
+ANNEX 10
+
+Map of magnetic active basement surface
+
+                Восточная   Антарктида
+ANNEX 11
+
+Models of the upper Earth's crust structure in the area of Lake Vostok and Lambert-Amery ice 
+shelves (1) and diagram of the anomalous gravity field (reduction in free air) of Lake Vostok area 
+based on 1961-1964 studies (2)
+ANNEX 12
+
+Schematic section of the Antarctic ice sheet
+along the long axis of Lake Vostok
+
+M and F - typical points in the northern (melting zone) and southern (accretion zone) lake areas.
+/29, 30, 20, 31, 32/.
+ANNEX 13
+
+Rift zones of East Africa and East Antarctica
+
+А Ф Р И К А                                              А Н Т А Р К Т И Д А
+ANNEX 14
+
+Bacteria observed predominantly in the accretion ice zone
+(luminescent microscopy)
+
+5 MKM
+ANNEX 15
+Fragments of diatom skeletons detected for the first time in the accretion ice zone
+(luminescent microscopy)
+
+
+
+
+
+
+                                                     5 MKM

@@ -1,0 +1,516 @@
+﻿
+
+
+Drilling of Additional 75 m in deep Borehole 5G-1 at Vostok Station. Initial Environmental Evaluation
+
+
+
+
+
+ARCTIC AND ANTARCTIC RESEARCH INSTITUTE
+RUSSIAN ANTARCTIC EXPEDITION
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drilling of Additional 75 m
+in Deep Borehole 5G-1 at Vostok Station
+
+Initial Environmental Evaluation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ST. PETERSBURG
+
+2006
+
+
+
+
+CONTENTS
+INTRODUCTION	0
+1. DESCRIPTION OF THE AIM AND THE NEED OF ACTIVITY	0
+Continuation of drilling of additional 75 m to a depth of 3725 m	0
+2. DESCRIPTION OF PROPOSED ACTIVITY	0
+3. ALTERNATIVES AND REFUSAL FROM THE ACTIVITY	0
+4. DESCRIPTION OF THE ENVIRONMENT IN THE AREA OF ACTIVITY	0
+4.1. Physical-geographical description of the area of activity	0
+4.2. Ice sheet in the borehole area	0
+4.2.1.	Characteristics of the present status of borehole 5G-1	0
+4.2.2.	Assessment of the ice layer thickness separating the borehole 5G-1 bottom from the ice-water contact according to data of ice temperature distribution with depth	0
+4.2.3.	Crystallographic and structural properties of lake ice with respect to its permeability for the drilling fluid	0
+4.2.4.	Probability of the change in physical and structural properties of lake ice (towards its permeability increase) at the 3623 m (current borehole bottom) to 3750 m (estimated depth of ice-water contact) depth interval	0
+5. ENVIRONMENTAL IMPACT ANALYSIS	0
+5.1. Anticipated direct impact and contamination risks	0
+Impact: environmental influence of the drilling fluid	0
+Physical-chemical properties of the drilling fluids that are being used	0
+Impact: change of the glacial structure along the borehole 5G-1 below the depth of 3650 m	0
+Contamination risk: loss of the drilling equipment in the borehole	0
+Contamination risk: penetration of the drilling fluid to the glacial strata	0
+5.2. Possible indirect impact	0
+Environmental impact due to the logistics support of proposed activity	0
+5.3. Cumulative impact	0
+5.4. Anticipated impact on the aesthetic and wilderness values of the environment	0
+5.5. Anticipated impact on the areas of scientific, historic and cultural significance	0
+6. UNAVOIDABLE ENVIRONMENTAL IMPACT AT CONTINUATION OF DRILLING OF BOREHOLE 5G-1	0
+7. PROPOSALS FOR MITIGATION OF THE ENVIRONMENTAL IMPACT	0
+8. GAPS IN KNOWLEDGE	0
+CONCLUSION	0
+LIST OF ATCM DOCUMENTS USED	0
+REFERENCES	0
+
+INTRODUCTION
+ The discovery of the subglacial Lake Vostok located directly beneath the Russian Antarctic station of the same name has attracted a great deal of attention of scientific community. In 1994 in Cambridge (Great Britain) a meeting of experts of the Scientific Committee on Antarctic Research (SCAR) was held. Its participants proposed to the leaders of the Joint Russian-French-US Drilling Project at Vostok station to stop drilling at a safe depth (30-40 m) providing for impossibility of the drilling fluid penetration to relict waters of the lake.    
+The drilling was actually interrupted in January 1998 at a depth of 3623 m at the 130-m thickness of ice separating the lake surface from the borehole bottom. This ice thickness was determined by three independent methods (radio-echo sounding, seismic sounding and seismic logging of the borehole). 
+An insignificant ice thickness separating the borehole from the lake water column attracted investigators by the possibility of a sufficiently rapid and inexpensive method of penetrating the water layer with the aim of sampling and subsequent microbiological and hydrochemical analyses. At the same time, the penetration method had to guarantee the impossibility of contamination of lake surface water by sampling equipment and especially by the drilling fluid from the borehole. For this purpose in 1998, the Ministry of Science and Technology of the Russian Federation announced an open competition for the development of the environmentally clean technology of water sampling from the subglacial Lake Vostok.  A team of specialists of the St Petersburg Mining Institute (SPMI) and the Arctic and Antarctic Research Institute (AARI) were declared winners of the competition. A mandatory condition in the Task for developing this technology was the need for the penetration technology to undergo the State Ecological Expert Examination of the Russian Federation. In March 2001, the State Ecological Expert Examination Commission of Russia approved the design of this technology. In July 2001, the Delegation of the Russian Federation presented the developed technology of water sampling to participants of the XXIV Antarctic Treaty Consultative Meeting (ATCM) in St. Petersburg (XXIV ATCM WP 29  “Expert conclusion on the Project “Justification and development of the environmentally clean technology for penetration to Lake Vostok (Antarctica)”. 
+The Meeting participants have shown a great deal of interest in the document and proposed to Russia to prepare a Draft Comprehensive Environmental Evaluation (CEE) of this technology for XXV ATCM in 2002. The document (XXV ATCM WP 19 “Water sampling from the sub-glacial Lake Vostok” Draft CEE) was presented by Russia in September 2002 at XXV ATCM in Warsaw. Based on the results of the discussions, the intersession working group was set up, which analyzed the Russian document in detail and made comments and proposals for the necessary correction of the document. The Delegation of Russia presented the revised CEE in full compliance with the regulations of the Protocol on Environmental Protection to the Antarctic Treaty at XXVI ATCM (June 2003, Madrid, Spain) (XXVI ATCM WP 01 “Water sampling from the subglacial Lake Vostok. Draft CEE” (revised). The comments received on this document were included to the text of the Final Report of XXVI ATCM, and the answers to the comments will be given in compliance with Annex 1 of the Protocol on Environmental Protection at least 60 days before the commencement of the proposed activity on penetration to the lake water layer.
+It is quite clear that penetration to the sub-glacial lake is impossible without continuing ice drilling by means of the standard technology with application of the electrical mechanical drill. In addition to approaching the ice-water boundary, continuation of drilling will yield new additional information on the study of gaseous and geochemical composition, and microbiological diversity of accreted ice. For continuing drilling operations in order to obtain 50 m of new ice, the RAE has prepared the EIA which was presented at XXVI ATCM in Madrid (XXVI ATCM ID 23 “Drilling of additional 50 m of the deep borehole at Vostok station”). These studies will not only improve our understanding of the surface structure and composition of the lake water column but they will be extremely important for preparation of the Final CEE for water sampling from Lake Vostok. In 2004 at XXVII ATCM in Cape Town, South Africa, the Delegation of Russia declared about its plans to continue drilling operations in the deep borehole at Vostok station (XXVII ATCM ID 43 “Results of studies and activities under the subprogram “Study and research of the Antarctic” of the Federal Program “World Ocean”). 
+The drilling operations in the season of 2005-06 were planned to start with drilling 50 m at the 3623-3673 m depth range. After that, the ice drilling was to be continued during the next Antarctic season of 2006-07 by means of the electrical-mechanical drill in the 3673-3725 m layer, and finally in the season of 2007-08 it was envisaged using the thermal drill to conduct operations for penetration to the lake water layer. On 20 January 2005, the RAE obtained the official Permit No. 25 from the authorized Russian bodies of the Federal Executive Power for continuing ice drilling in the 3623-3673 m layer.   
+The drilling operations at Vostok station were resumed after the 8-year interruption in December 2005 and as a result, the RAE specialists obtained 27 m of new ice in the season of 2005-06, part of which was transported from Vostok station for microbiological and chemical analyses. Drilling was stopped at 3650 m. In spite of the fact that the RAE has a formal permit for continuing drilling of another 23 m of new ice to a depth of 3673 m, a new preliminary EIA was prepared for continuing drilling of 75 m of ice in the 3650-3725 m layer.   
+
+1. DESCRIPTION OF THE AIM AND THE NEED OF ACTIVITY
+Continuation of drilling of additional 75 m to a depth of 3725 m
+This activity continues the project of deep borehole 5G-1 drilling at Vostok station aiming at ice core sampling for further scientific research and analysis to fill the gaps in our knowledge necessary for the successful implementation of the Project of Lake Vostok studies.
+The achievement of this objective characterizes the purpose of further use of borehole 5G-1 – continuation of its drilling and ice coring. At present the borehole 5G-1 has already entered that part of the glacial strata that was formed from the frozen water of the lake. Hence, further ice drilling, coring and studies will provide new information on the lake origin and water chemistry in the past, and on the possible existence of life in the lake.
+In addition to its importance this information will be invaluable for the development of subsequent technologies of direct study of the lake and its sediments and for specifying the results of modeling its water circulation modeling and of radio-echo sounding.
+Investigations of deep boreholes at Vostok station and the continuous ice core extracted from the borehole 5G -1, the age of which is greater than 500 kyr have already allowed us to obtain significant scientific results:
+• based on the isotopic and glaciological ice core studies, scientists from Russia (AARI, Institute of Geography of RAS), France (Laboratoire de Glaciologie et Geophysique de L’Environnement (LGGE, CNRS) and the USA (University of Miami) determined the cyclicity of climate change on Earth and identified four glacial and interglacial periods;
+• methodology of aseptic microbiological sampling from the ice cores was developed and duration of anabiosis of microorganisms of more than 200 kyr was proved at the level of scientific discovery was proved (SPMI jointly with the Institute of Microbiology of RAS and the AARI);
+• for the first time data on the temperature regime of the glacial cover in central Antarctica were obtained, which served as a basis for mathematical modeling of the heat-mass transfer processes in the ice sheet.
+The studies in the area of geophysics, glaciology, paleo-climatology and microbiology will allow acquisition of numerous materials of unique value for the world science. 
+2. DESCRIPTION OF PROPOSED ACTIVITY
+The Russian Antarctic Program plans to continue deep drilling of the ice cover for the purpose of continuing investigation of lake ice to a depth of 3725 m. The following activities will be undertaken during the summer Antarctic season 2006/2007:
+    1. Geophysical survey of the deep borehole, including control of the borehole closure (deformation), ice temperature,  drilling fluid density and pressure;
+    2. Drilling of borehole 5G-1 with a complete core sampling in the 3650 m - 3725 m depth interval;
+    3. Field observations and measurements of lake ice texture and structure using the ice core, which will allow timely detection of possible changes in the mechanical ice properties connected with ice permeability;
+    4. Development of the Plan of Action in emergency, which should be used immediately in case, the monitoring devices indicate hazardous conditions.
+Based on the practical and economical considerations connected with organization and logistics support for the drilling of a new borehole, the Russian scientists propose to use the already existing borehole 5G-1 for penetration to Lake Vostok.
+Drilling of the deep borehole at Vostok station was initiated in the 35th SAE (1990) by a thermal method using TELGA and TB3S types of drills. During the 38th RAE (1993), the borehole 5G-1 reached a depth of 2755 m. Due to insufficient funding of the 39th RAE and some technical and organizational problems, Vostok station was temporarily decommissioned and no drilling activities were hence carried out. During the 40th RAE (1995), drilling of borehole 5G-1 was resumed from a depth of 2755 by the electrical mechanical drill and without any complications the depth of the borehole 5G-1 has increased from 2755 m to 3109 m. After suspension of Vostok station during the 41st RAE (1997), no drilling operations were undertaken in the borehole 5G-1 in the wintering periods. In the seasons of the 41st, 42nd and 43rd RAE (1995-1996, 1996-1997 and 1997-1998), the borehole 5G-1 was drilled from a depth of 3109 to 3623 m. Then the drilling operations were suspended and the borehole was temporarily closed down. For 8 years, the geophysical observations were performed twice in the borehole including the measurement of diameter, drilling fluid density and its pressure at different depths, temperature and spatial location of the hole. During the season of the 51st RAE (2005-06), drilling of the borehole was resumed after performing a complex of repair-reconstruction work. For the seasonal period, 27 m were drilled and the borehole reached a depth of 3650 m. At present this is almost by 400 m greater than the best results achieved by specialists of EC countries in implementing the EPICA Project in Antarctica (DOME C -3270 m), and also under the more favorable conditions of Greenland: ЕС  (3090 m) and the USA (3057 m). During drilling of all these boreholes serious complications appeared at approaching the depth of 3000 m resulting in interruptions in the drilling process and accidents.  To compensate the overburden pressure, the EC specialists use a drilling fluid similar to that used by Russia. Its composition includes aviation fuel of JP-8 type as the main component and Freon F-141b as the heaver. 
+Drilling of the borehole 5G-1 was performed at Vostok station until 1998 in the framework of the Russian-French-US Project.  At present, the borehole 5G presents a complex multistage structure (Fig. 1). In the upper portion of the hole, a casing to a depth of 120 m is installed with the internal diameter of 165 mm. To a depth of 2200 m (the hole was run by a TB3S-152 thermal drill with the external diameter of 152 mm), the minimum borehole diameter is equal to 153 mm. The minimum diameter by depth intervals comprises: 2200¸3095 m – 139 mm; 3095¸3321 m – 138.4 mm; 3321¸3500 m – 137.9 mm; 3500¸3650 m – 136.2 mm.
+Using a thermal TB3S-152 drill, the borehole was drilled to a depth of 2500 m. During the recovery of the drill at a depth of 2250 m, it was stuck in the hole. The cable was torn at the place of its attachment to the drill. After that using a thermal TB3S-132 drill with the external diameter of the bore bit of 132 mm, a by-pass borehole was drilled rounding the stuck drill. Initially, the hole drilled from a depth of 2200 m to a depth of 2755 m by the thermal TB3S-132 drill had a minimum diameter of 133 mm. 
+Before the beginning of drilling using a mechanical method, this borehole segment was enlarged to a diameter of 139 mm. In the process of drilling by a mechanical method (the maximum external diameter by bore bits of 135 mm), the drilled segments of the hole were periodically reamed resulting in a stepwise shape of the hole. The total volume of the drilling fluid (mixture of the aviation fuel ТS-1 and Freon F-141b) in the borehole comprises around 60 m3. The drilling fluid level as of January 21, 2006 was at a depth of 90 m, its average density equaling 0.928 g/cm3. To a depth of 2200 m, the borehole is practically vertical, and then the deviation angle of the borehole axis from the vertical changes from 6 to 8оС.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Before passing to the mechanical method of drilling, a casing for shutting off the permeable firn zone was installed in the borehole 5G-1. All equipment for installation of the casing (directly the casing, mechanical reamer and TV instrumentation for observations in the borehole) was prepared at the Laboratoire de Glaciologie et Geophysique de L’Environnement   (LGGE, France).
+Drilling of additional 75 m will not require any changes in the activity and will be performed using the tested Russian technology that has already proved its reliability. 
+3. ALTERNATIVES AND REFUSAL FROM THE ACTIVITY
+An alternative to this method could be the use of a different drill type and the coring technology. The Russian technology of deep ice drilling and the drilling fluid applied in this technology is practically adequate to the European technology used in Greenland, and under the EPICA Project at the French-Italian Dome C station and the German Kohnen station. In 2002, the USA developed a fast ice drilling technology FASTDRILL using hot water for drilling. In spite of being environment-friendly, this technology proved unacceptable for the conditions of East Antarctica with low temperature values of the ice cover surface. The US technology envisages ice drilling provided the surface ice temperature is higher than -35°С, whereas at Vostok station this indicator equals -55°С.  The use of hot water at such low surface ice temperature requires enormous electrical power supply, which is impossible to provide for field operations in the central areas of Antarctica.  Thus, application of other technologies is not only unreasonable but at the present time it is practically impossible.   
+The advisability of employing this borehole in terms of environmental protection and the alternative methods for penetrating the lake surface are being considered in detail in the draft CEE “Water sampling from the sub-glacial Lake Vostok”.
+To refuse from activity does not mean to close Vostok station, where other scientific studies are carried out and planned for implementing. This means that the station will continue operation during the next few years as a logistics base with all corresponding anthropogenic impact consequences. The main impact on the natural conditions in the station area will be as before connected with the life support of the expedition participants, supply of fuel, equipment and food products, diesel-electric station, galley and transport operation, snow removal, waste accumulation, etc. Therefore refusal from drilling will only partly reduce the anthropogenic load and will not drastically influence the course of changes of the current state of natural conditions on the ice sheet surface in the vicinity of Vostok station.
+At the present time the borehole 5G-1 bottom is at a depth of 3650 m, i.e., approximately in 100 m from the boundary of the lower glacial surface and water of Lake Vostok. Refusing from further drilling will result in the final suspension of the borehole and its probable loss for scientific studies.
+4. DESCRIPTION OF THE ENVIRONMENT IN THE AREA OF ACTIVITY
+4.1. Physical-geographical description of the area of activity
+The Russian inland Vostok station is located on the plain snow surface of the ice sheet in East Antarctica (78028’ S, 106048’ E) at an elevation of 3488 m above sea level. The least distance from the coast is 1260 km, from Mirny station - 1420 km and from the South Pole - 1253 km.  The ice sheet thickness in this area is 3750 m and the thickness of the snow-firn strata is about 120 m. The glacier bed beneath the station is at a mark of about 200 m below sea level. 
+The natural water bodies and the bedrock outcrops are absent in the station area. The East Antarctic ice sheet presents an extensive, high and thick whole massif, which contains more than 4/5 of the entire Antarctic ice volume. The landscapes of this area are distinguished by a significant monotony while natural components are characterized by uniformity. There are no flora and fauna in the station area. Only microorganisms represent the biological diversity. 
+4.2. Ice sheet in the borehole area
+In accordance with data of geophysical and glaciological studies, the upper portion of the ice sheet at the drilling site of borehole 5G-1 is comprised of a 100-m snow-firn layer overlying the monolithic ice strata. It is composed of ice seams of the “interglacial” and “glacial” origin differing in the grain size and orientation of their crystallographic axes. In the upper portion of the section, these differences are quite insignificant, however at depths greater than 2700 m the “interglacial” and “glacial” ice seams differ significantly by their structure and mechanical properties /8/.  In addition, at the 3310-3370 m depth interval, some indications of tectonic inconsistency in the bedding of strata were observed. At the 3460-3538 m interval, there is layered ice, which is characterized by alternating layers of fine- and coarse-grained ice. Finally, the basal ice layer detected below the 3538 m mark and traced to the borehole bottom (3623 m) is formed by giant-grained ice (ice crystals greater than 1 m in diameter). This ice contains sparsely scattered small inclusions (1-6 mm in diameter) presenting concentrations of clayey particles of morainic origin. In the opinion of specialists /8/, the structure of basal ice indicates its stationary state and the origin from accreted ice, i.e. the formation of ice in the process of water freezing.
+The ice flow above the lake in the Vostok station area is southeastward. The presence of a basal layer of stationary ice in the lower ice section suggests that the ice sheet here beds predominantly on the underlying mountain rocks, whereas the dissected subglacial bed relief hinders the lower layers of glacial strata. The maximum shear deformations occur within the higher layer (3460-3540 m). Beginning from these depths and higher, the ice layer is involved into motion the rate of which at the ice sheet surface comprises about 3 m/year /9/. 
+Large dimensions and depths of the lake are direct evidence that the total discharge of melt water entrapped in the basin by the ice cover could be zero or close to constant. At the bottom surface of the ice sheet at the ice-water phase boundary, the ice melting/accretion rate can differ in different parts of the lake both in value and sign. This rate at the boundary is determined by the local vertical heat flux that consists of geothermal and climatic components.
+At the present time at an average pressure at the ice-water boundary estimated as 340 bars the freshwater freezing temperature is assumed to be –2.6о С, while the corresponding optimal value of the current ice sheet thickness was determined to be 3776±3 m. Based on seismic sounding data, the ice thickness at this location is 3750 m. The difference of 26 m is equivalent to the offset of the lake water freezing point from –2.6о С to –3.1о С, which is less likely.
+According to studies of the ice core from the deep borehole at Vostok station, it is known that the upper 3540-m ice sheet strata overlying the immobile basal ice layer is subjected to intense displacement and deformation heating in the contact zone. Based on the vertical temperature distribution measurements in the ice sheet (in the borehole) and climatic reconstructions from isotopic ice composition data, the heat flux, ice sheet thickness and bottom ice melting/accretion rate were estimated. They have revealed that the best coincidence of the calculated and measured temperatures for the present conditions can be obtained at the bottom heat flux of 0.036±0.006 W/m2 that produces the average ice growth rate of 1.1±0.6 mm/year /11/. This is in agreement with the results of structural ice core studies according to which the 220-m basal layer is represented by accreted ice that was formed from water freezing at the bottom ice surface.
+The snow cover of the ice sheet of central Antarctic areas presents a peculiar trap for atmospheric precipitation and particles of non-atmospheric origin falling out with this precipitation. In this way different microorganisms come to the central Antarctic areas from the atmosphere, which are then transformed to the micro-flora and micro-fauna of the ice cover by means of the mechanism of snow cover compacting. The micro-biological studies carried out on the basis of data of the analyses of ice cores from the boreholes at Vostok station including the borehole 5G-1, allowed detecting not only the presence of viable microorganisms that had been for a long time in the state of anabiosis (more than 300 kyr), but also revealing the regularities of the distribution of different microorganisms in the glacial strata (Abyzov et al., 1998). The microbial bio-diversity of the ice sheet of atmospheric origin in the vicinity of Vostok station is represented by spore- and non-spore-forming bacteria, actinomycetes, mycelium fungi and yeast cells and diatom algae. At comparison of the microbiological and glaciological data in the description of structure of the ice core from Vostok station, a dependence of the quantitative distribution of microorganisms in different glacial layers on the environmental changes on Earth in the past was revealed. 
+The biodiversity of accreted (lake) ice is extremely depleted according to data of microbiological studies. Thus the concentration of the cells of living organisms in this ice comprises 1-101 km/ml.  Studies have shown the absence of viable organisms in the atmospheric ice the age of which is greater than 65 thousand years, testifying in favor of physical isolation of the supposed lake biota from the surface at least for 15 million years. By analyzing the ice samples with the methods of molecular biology it was possible to detect the DNA of thermophilic chemoautotrophic bacteria in the ice cores from the 3561 -3607 m depths (Bulat et al. 2005). The latter indicates the existence of geothermal fluxes at the subglacial Lake Vostok bottom in the past or at the present time.      
+            4.2.1. Characteristics of the present status of borehole 5G-1
+In December 2006, drilling operations were successfully resumed after the 8-year interruption. In the course of drilling operations the experimental data were obtained. Based on these data, one can explain the causes of problems occurring in the process of drilling upon achieving the so-called “warm ice”. Drilling was stable to a depth of 3000 m with an average rate of about 2.8 m a run at the maximum rate of 3 m (Fig. 4.1). After 3000 m, the drilling process was very unstable. Drilling was often stopped due to sludge accumulation (concentration of ice crumb) at the bore bit, leading to the formation of ice growths in front of the cutting edge of chisels at which the drill slid over the bottom without incision. At comparison of the penetration rate dependence on the ice crystal size a clear correlation between these parameters was revealed. With increasing crystal size the run speed decreases and below 3000 m numerous drilling stops are observed in these cases. From a depth of approximately 3480m the ice crystal size begins to exceed 20 mm, and there was a tendency for a full stop of the ice cutting process by bore bit. Changes introduced into the bore bit and the filters of the drill mud collector allowed stabilizing the ice cutting process, however, the tendency for the decreasing bit run rate was preserved.
+An analysis of the drilling results at the 3623 m – 3650 m depth range showed the process of formation of sludge particles to be different at cutting the ice monocrystals and a polycrystalline massif comprised of fine crystals (up to 5 mm in size), which was the main cause for the aforementioned problems. At drilling the polycrystalline ice the sludge mainly consists of the particles the size of which is greater than 1-2 mm even at the mechanical drilling speed of less than 5 m/h. At cutting monocrystals the sludge is comprised of the particles less than 0.5 mm with a large number of finely-dispersed fractions. Getting to the filter, a finely-dispersed sludge forms a layer on the filter net, which creates large resistance values for the drilling fluid flow even at an insignificant thickness. This leads to the decreased fluid consumption, which contributes in turn to the formation of sludge plugs near the chisels. The process of formation of sludge plugs is aggravated by high ice temperature and at a large free surface of sludge particles, on which there should be a water film, it has a large ability for agglutinating.
+This problem can be solved using a purely technical method by increasing the pump output and the pressure difference it creates and the filter net surface through which the drilling fluid circulates.  
+Data of geophysical observations in the borehole showed that its spatial location and diameter have not changed (Fig.4.2). For example, the recorded diameter changes of the borehole segment below 2000 m for 8 years are not greater than + 0.2 mm, which corresponds to the measurement accuracy. Such stability of the borehole sides indicates full compensation of the ice overburden pressure in the most plastic bottom part of the ice sheet. As can be seen from Fig. 4.3, the differential pressure at the borehole sides below 2000 m is close to zero. As indicated above, the total volume of the drilling fluid in the borehole is about 60 m3. The drilling fluid level is at a depth of 90 m, its average density equaling 0.928 g/m3. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            4.2.2. Assessment of the ice layer thickness separating the borehole 5G-1 bottom from the ice-water contact according to data of ice temperature distribution with depth
+Experimental data on the temperature distribution in the ice sheet body and their model extrapolation up to the ice melting point at the lower ice sheet surface allow us to estimate the distance from the borehole bottom to the ice-water contact with a greater accuracy.   
+Due to a slight curvature of borehole 5G-1, its total length (3650 m) is only 3 m greater than the vertical depth from the ice sheet surface to the borehole bottom (3647 m). Due to this, no correction of the results of ice core and borehole studies by depth is required in most cases. The precision temperature measurements in borehole 5G-1 were conducted repeatedly with borehole drilling. The last series of measurements (3 cycles of continuous measurements made during lowering of the geophysical devices from the top to the bottom of the borehole) was undertaken in the summer season 1999-2000, i.e., in 2 years after drilling. As a result of these measurements, a continuous highly precise (the absolute accuracy of ±0.1 ºC) temperature profile of the glacial cover was obtained at the 100 m to 3613 m depth interval [1]. The ice temperature near the borehole bottom at a depth of 3612.6 m comprised -6.06 ºС. 
+The temperature at the ice sheet bottom corresponds to the ice melting point, which depends on pressure, water mineralizing degree and concentration of dissolved gases. An analysis of available data shows the temperature at the ice-water contact in the vicinity of Vostok station to be within -2.85 to -2.62 ºС [2]. To construct the ice strata temperature profile in the depth interval of 3613 m to the bottom ice sheet surface, a mathematical model of the heat-mass transfer in the ice sheet described in [3] was used. As a result of the calculations it was determined that the temperature distribution in the near-bottom strata of the ice sheet is close to linear, the temperature gradient in ice near the bottom equals 0.0208 ºС m-1 (corresponds to a heat flux of 47 MW m-2) and the distance from the borehole bottom to the ice-water contact in 2000 comprised 145±15 м (corresponds to the total ice sheet thickness of 3765±15 m) [4]. 
+The obtained values are in agreement within the indicated range of errors with the results of the vertical seismic profiling in borehole 5G-1 (the distance from the borehole bottom to the lake was 130 m in this case) [5] and data of radio-echo sounding of the ice sheet in the Vostok station area (the total ice sheet thickness according to these measurements is equal to 3775±15 m, which corresponded to the distance of 155±15 m from the borehole bottom to the lake) [6]. Thus, the estimates performed using three independent methods indicate that the distance from the current borehole bottom (3650 m) to the subglacial lake is not less than 100 m. 
+            4.2.3. Crystallographic and structural properties of lake ice with respect to its permeability for the drilling fluid
+Studies of the ice core extracted from borehole 5G-1 have revealed that at a depth of 3538 m in the Vostok station area there is a boundary between glacier ice of atmospheric origin and accretion ice formed as a result of Lake Vostok water freezing to the ice sheet bottom [7, 8]. Lake ice has a coarse-grained crystalline structure with a random orientation of the main crystallographic axes (c-axes). The average crystal size is about 25 cm in diameter whereas in some horizons the crystal diameter is greater than 1 m [7, 8]. 
+As a result of investigating the crystalline structure of the ice core samples from horizons of 3553 and 3610 m by the method of x-ray diffraction measurements, it was established that lake ice is characterized by an almost perfect crystallographic structure and a low density of lattice dislocations (<108 m-2) [9]. These data indicate absence of deformation stresses in ice and also point to a perfect structure of ice crystals excluding a possibility for the drilling fluid (kerosene/Freon F-141b mixture) to diffuse through the ice lattice.
+However, it is known that at high temperatures (beginning from ~6 ºС below the ice melting point), a quasi-liquid film forms at the ice-grain boundaries. The film thickness at the ice grain edges increases to several tens of microns directly near the melting point. Thus, the grain edges in the polycrystalline ice aggregate present a system of connected microscopic veins through which (under the action of pressure and/or concentration gradient) liquid water and soluble impurities including the borehole fluid, can migrate. A theory of diffusion of soluble impurities through a vein system is given by Rempel et al. [10]. Applying theory [10] to the conditions (ice temperature, grain size) typical of the near-bottom ice strata at Vostok, one can calculate that the total penetration depth of the drilling fluid from the borehole to ice (also in the direction towards the ice-sheet bottom) will be less than 1 m over the first millennium. Thus, a possible penetration of the drilling fluid from the borehole through ice to Lake Vostok is practically excluded provided that ice bedding deeper than the current borehole bottom (3650 m) has a structure similar to that observed in the investigated section of the lake ice core (3538-3650 m). 
+            4.2.4. Probability of the change in physical and structural properties of lake ice (towards its permeability increase) at the 3623 m (current borehole bottom) to 3750 m (estimated depth of ice-water contact) depth interval
+The lake ice characteristics determining its permeability for the borehole fluid may change with increasing depth and decreasing ice age near the ice formation zone. An analysis of data on the ice core isotopic composition has revealed that the mechanism of ice accretion at the bottom ice surface in the Vostok station area is related to thermohaline circulation in the lake and hence it is similar to the mechanism of water freezing at the ice shelf base [11, 12]. In particular, it was determined that frazil ice plays a significant role in accretion of lake ice. The crystals of frazil ice form due to super-cooling of melt water, which rises along the inclined ice ceiling of the lake from the subglacial melting zones in the north towards the ice accretion area in the south of the lake. The consolidation of originally loose layer of frazil ice crystals accumulating near the ice-sheet base occurs as a result of slow freezing of water containing them. According to the isotope data, the frazil ice crystals form 42 to 70 % of the newly accreted lake ice. 
+By analogy with sea ice accreting at the ice shelf base, it is reasonable to suggest that young lake ice has a fine-grained structure with a grain size not greater than first millimeters in diameter [13]. In general, such structure increases ice permeability as a rule, especially at the annealing temperatures typical of the accretion zone. Interpretation of data obtained from thin-section, chemical and x-ray diffraction analyses of the lake ice core suggests that after its formation, the lake ice experiences re-crystallizing with an abnormal grain growth under the deep and prolonged annealing conditions [9]. We do not know at present at what distance from the ice-water contact the formation of this secondary lake ice structure characterized by a negligible low permeability for the borehole fluid (see above), is completed. As a reliable estimate, a distance of 25 m from the ice-sheet bottom can be taken. The calculated temperature at this depth is equal to 0.5 ºС below the melting point [4], while the ice age exceeds 2 kyr [4, 14], which is more than sufficient for the secondary structure formation. 
+In summary, within overall uncertainties of the aforementioned estimates, the 3725 m depth should be considered as a lower boundary up to which the environmentally safe conditions of ice core drilling by a conventional electromechanical drill are assured. Continuation of drilling below a 3725 m depth should be considered as the beginning of Lake Vostok entry and thus requires employment of new equipment and technology specifically designed for this operation.   
+5. ENVIRONMENTAL IMPACT ANALYSIS
+The anticipated impact on the environmental compartments and its analysis are considered in detail in the Draft CEE “Water Sampling of the Subglacial Lake Vostok”. In this IEE the impact related to drilling of additional 75 m of the borehole will be considered.
+5.1. Anticipated direct impact and contamination risks 
+The direct environmental impact of the proposed drilling operations will be as follows: 1) environmental impact of the drilling fluid used: 2) deepening of the borehole 5G-1 to a depth of 3725 m and introduction of additional quantity of the drilling fluid (ice sheet structure change along the borehole). 
+In addition, the risks of the loss of drilling equipment and drilling fluid leaks to the ice strata should be considered.
+Impact: environmental influence of the drilling fluid
+The technologies for drilling deep boreholes in ice applied at present by specialists of different countries do not differ in principle. Coring electro-mechanical drills of different design at the carrying cable are being used and for compensating the overburden pressure of the ice massif, the borehole is filled with the drilling fluid. For drilling boreholes at Vostok station the Russian scientists employ the aviation fuel TS-1 mixed with Freon 141b, which is added to the fluid to increase its density. Prior to 1995, Freon 11 was used as a heaver. For the last few years, the borehole was filled with Jet A-1 fuel. Foreign specialists mainly use Jet A-1 fuel to which they also add Freon 141b similar to Russian drillers. Such drilling fluid was used for drilling the boreholes under the EPICA Program, for deep borehole drilling at DOME F by Japanese scientists and in Greenland by Danish specialists. The US specialists are preparing the project of deep borehole drilling using a drill the design of which is similar to that of the Russian drill. The drilling fluid will be also based on Jet A-1 with addition of Freon 141b.  
+At present in spite of a large amount of work conducted by scientists of many countries, it was not possible to find the fluid with a lesser environmental impact. 
+During the last three years, the microbiological analyses of the samples collected from different horizons in the borehole were made (Bulat S. А. et al., 2005). It was shown by the results that the recorded DNA of bacteria inhabiting the kerosene-Freon mixture in borehole 5G-1 were never detected in the ice samples and vice versa, the DNA of bacteria recorded in the ice core were never detected in the drilling fluid samples. 
+Physical-chemical properties of the drilling fluids that are being used
+The aviation fuel ТS-1 presents a fraction of weighted naphtha of sulfurous oils and is used in Russia for jet engines of aircraft with a subsonic speed. The ТS-1 fuel has the best viscous-temperature properties compared to Jet A-1 and JP-8 fuels and can be therefore used at lower temperatures.
+The Jet A-1 aviation fuel is now the most widespread jet fuel abroad being produced in several countries of Europe (England, Germany and Switzerland) and the USA. The JP-8 aviation fuel is produced in the USA and is close by its properties to Jet A-1 fuel.Some properties of commercial grade fuels and heavers applied for drilling of boreholes are presented in Tables 5.1 and 5.2.
+Table 5.1. Properties of the fuels applied for drilling of boreholes in ice
+Indicators
+DF-A
+ТS-1
+Jet A-1
+JP-8
+Technical conditions (country)
+FSVV-F-800 (USA)
+GOST 10227-86 (Russia)
+ASTM D1655 (USA)
+MJL T-83133 (USA)
+Density at temperature (°С), kg/m3
+820.3/(15)
+776-786/(20)
+775-840/(15)
+775-830/(15)
+Kinematic viscosity at temperature (°С), 10-4 m2/s
+1.32/(37.8)
+4.1/(-17.8)
+8.42/(-32.0)
+
+1.27-1.48/(20)
+4.0-5.5/(-40)
+
+< 8/(-20)
+
+-
+Crystallization start temperature, °С
+-46*
+-60
+-47
+-46
+Congelation temperature, °С
+-57
+-
+-51
+-
+Flare temperature (not less), °С
+38
+28
+38
+-
+
+
+
+
+
+Table 5.2. Properties of drilling fluid heavers on the basis of oil fuel
+
+Indicators
+Freon -11
+Freon -141b
+Freon-122
+Chemical formula
+ССl3F
+C2HClF
+С2HCl3F2
+Density at 20°С, kg/m3
+1487
+1247,5
+1569
+Dynamic viscosity at 20 °С, mPa·s
+
+0,444
+
+0,8(0°С)
+
+-
+Temperature of melting, °С
+-111
+-103
+-140
+Temperature of boiling, °С
+23.7
+31.7
+71.8
+Temperature of flare, °С
+Non-flammable
+Non-flammable
+Non-flammable
+MPC, mg/m3
+5000
+500
+700
+
+In toxicology, kerosenes are referred to especially hazardous substances producing a strong poisonous effect on different life forms. The composition of aviation fuels of the kerosene type includes 20-22 % of aromatic hydrocarbons, which belong to the most toxic and fast-acting organic compounds. Even at small concentrations (more than 1 mg/m3) they have a poisonous effect on low life forms in the water bodies and drainages. Less toxic are the organic solvents of the Exxol type, as they contain not more than 0.5 % of aromatic hydrocarbons. Hydrocarbons that are contained in the composition of kerosene are difficult to decompose biologically. 
+Kerosene has an irritating impact on the human skin. The main impact on man occurs through the respiratory apparatus: the smell of kerosene is already felt at a concentration of 0.6 mg/m3. The maximum permissible concentration of kerosene vapors in the air of closed space recommended by the National Institute of Professional Safety and Health of the USA (NIOSH) comprises 100 mg/m3. For solvents of the Exxol type, the maximum permissible concentration is higher: 600 mg/m3. At the excess of the threshold concentration one observes appearance of drowse, nausea, vomit, dizziness and the excited state and hallucinations.
+Fluorocarbons are practically harmless with respect to the human organism: the maximum permissible concentration in the air of working space in compliance with different normative acts comprises 3800-7600 mg/m3 (Table 5.3).
+Table 5.3 Maximum permissible concentrations of heavers 
+
+Fluid
+Norm*
+CFC 11
+PEL = 1000 ррm 
+TLV = 1000 ppm
+MAK = 1000 ppm (5600 mg/m3)
+MPCрз = 5000 mg/m3
+CFC 113
+TLV = 1000 ppm (7600 mg/m3)
+HCFC 141b
+TLV = 500 ppm
+                                *ppm – part per million
+The environmental properties of fluorocarbons are estimated using special indicators: ODP (Ozone Depletion Potential) and GWP (Global Warming Potential). Both indexes for CFC 11 are assumed to be 1 (Table 5.4). As substitutes of the most harmful fluorocarbons CFC 11 and CFC 113, one can use restrictedly ozone-dangerous types such as HCFC 141b, HCFC 123 and HCFC 225ca (their application is permitted until 2030).
+
+
+Table 5.4 Environmental properties of fluorocarbons
+
+Name
+Period of decay, years
+ODP potential
+GWP potential
+CFC 11
+100
+1
+1
+CFC 113
+100
+1.07
+1.4
+HCFC 141b
+9.4
+0.11
+0.09
+HCFC 123
+1.7
+0.02
+0.02
+
+Freon 141b is delivered to the station in hermetically sealed barrels and its losses during transportation and storage are practically excluded. The technological losses in the process of drilling can be divided into two parts: evaporation of the drilling fluid from the surface in the borehole and the fluid, which is brought to the surface during the round-trip operations.
+The technological process and the design of borehole 5G-1 ensure a minimum loss of the drilling fluid (including Freon). The upper part of the borehole passing through the snow-firn zone is overlapped by the plastic casing excluding any drilling fluid losses in the firn glacial layer. The lower (200-300 m above the bottom) and the upper (200 m) segments of the borehole are filled with the drilling fluid with a relatively low level of Freon. The fluid density on these segments is not greater than 900 kg/m3. Freon and kerosene are added separately to the borehole. Pure Freon is delivered to the borehole to the chosen horizons by a special device while kerosene is poured from the surface contributing to a decreased Freon concentration at the drilling fluid surface in the borehole. At the beginning of the drill run, the drill is filled at the surface by practically pure kerosene, which is delivered to the bottom as the design of the drill does not allow the fluid circulating over it in the process of round trip operations. 
+At the drill recovery, the carrying cable extracts about 40 liters of the drilling fluid from the hole, whose density corresponds to an average drilling fluid density in the upper 100 m in the borehole. Together with cuttings, around 35 liters of fluid is extracted from the near-bottom zone in the sludge trap. The fluid flowing from the cable and the drill is collected to trays from which it is again poured to the borehole.
+To assess the drilling fluid losses during the season of the 43d RAE, the drilling group carried out a complex of geophysical observations including regular measurements of the density of the fluid extracted from the borehole and fluid depth, fluid sampling from different horizons and temperature measurements along the entire borehole drilled. 
+A comparison of the diagrams of fluid density distribution by the borehole depth (Fig. 5.1) constructed on the basis of measurements for 8 years has not revealed any changes. There is practically no mixing of fluid in the borehole and there is no evaporation of Freon from the surface as during the period of suspension it was hermetically sealed. This indicates a high stability of the kerosene/Freon mixture and the absence of Freon losses during the borehole standby. 
+The fluid extracted from the borehole with the carrying cable and in the drill remains in the open containers at the drilling site for about an hour. After that at the beginning of the next run it is poured to the hole with the descent of the drill. At first, the fluid has a temperature of about -40 0С and then at pouring to the hole of about –20 0С. Over 10 hours the fluid density was decreasing by around 10 kg/m3. It is obvious that Freon with increasing temperature will evaporate more quickly from the fluid. Assuming that Freon evaporates uniformly with time, we obtain that approximately 0.2 kg can evaporate from 80 liters of the drilling fluid.
+Some portion of the fluid extracted from the hole is lost with cuttings. After each run the cuttings extracted from the drill are melted to determine the volume. The fluid is heated up to the above freezing temperature and Freon evaporates from it practically completely. According to measurements made after each run, approximately three liters of the drilling fluid remains.
+In spite of the fact that special trays are set up under the deflecting rollers and the cable over its entire length from the borehole to the winch to collect the flowing fluid, some portion is irrevocably lost due to splashing. These losses can be estimated as about two liters a run. 
+Then the total irrevocable losses of the drilling fluid during a run will be about five liters, or 1 kg of Freon 141b. Given the losses due to evaporation from the extracted drilling fluid, we have 1.2 kg of Freon per run. 
+To drill 75 m of ice, the maximum number of the drilling runs to the borehole can be around 40. Thus, the total quantity of Freon that can be retrieved to the surface and produce an environmental impact could comprise up to 50 kg.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Impact: change of the glacial structure along the borehole 5G-1 below the depth of 3650 m 
+At continuing drilling from the bottom of borehole 5G-1 to a depth of 3725 m, the drill will drill additional 75 m in the basal glacial layer. The total volume of the extracted ice cores for investigations (at their diameter of 105 mm) will comprise about 0.65 m3.
+The assessment should not exclude the unlikely possibilities of a sudden rise of water, which is under the pressure of 375 atmospheres from the subglacial lake upward the borehole at the depths that should potentially have the “impermeable” ice cover for water. Such examples have been already observed in 2004 in Greenland during drilling under the European Project NGRIP. At a depth of 3084 m, water the presence of which was not indicated in the geophysical survey data before the start of drilling started coming to the lower part of the borehole quite suddenly for the drillers. The drillers were able to recover the drill from the borehole before this water was frozen. As a result of secondary drilling, a core of frozen subglacial water saturated with red-brown mineral inclusions (“red” ice) was retrieved after some time to the surface. German specialists had a similar situation on 18 January 2005 during drilling under the EPICA Project at Kohnen station. The second drilling of refrozen ice was planned by German specialists for the next Antarctic season 2006-07. In both cases, due to the undercompensation of the drilling fluid pressure in the ice boreholes its level has increased by the pressure difference value in the subglacial water bodies and the drilling fluid column. Thus, the penetration to the subglacial hydro-systems in Greenland and at the Queen Maud Land in Antarctica actually occurred according to the scenario, which has been developed by the Russian scientists for the first penetration to the subglacial Lake Vostok. 
+The microbiological analyses of fresh frozen subglacial water from the lower horizons of the Greenland borehole showed that directly in the area of drilling fluid/subglacial water contact “red” ice presents homogenous ice by structure uniformly saturated with mineral inclusions and impregnated with drilling fluid (the specimen from the 3039 m depth.). The second specimen from the 3045 m depth presented relatively clean ice with separate aggregates of mineral inclusions. No traces of kerosene were detected at melting this ice. The water analysis by the fluorescent microscopy method performed at the J. Fourier University (Grenoble, France) showed a relatively high concentration (about 5 ·103 ml-1) of microbial cells from the 3039 m depth, and their practical absence from the 3045 m depth. 
+The results obtained testify convincingly to the correctness of the theoretical approach of Russian specialists who have proposed the environmentally clean technology for penetrating the subglacial Lake Vostok through borehole 5G-1 filled with the drilling fluid.         
+Contamination risk: loss of the drilling equipment in the borehole 
+In the process of borehole drilling by means of the mechanical or thermal methods, emergency situations are possible. Their causes can be divided into two main types: technological and technical. The main technological causes include the disturbance of stability of the borehole sides and of the drilling process. The technical causes include equipment failures both at the surface and in the borehole.
+The most dangerous among emergencies is when the drill is stuck in the borehole. During thermal drilling, the drill can be frozen at the bottom in case of some failure in the system of melt water removal from the bottom. In addition, during thermal drilling, the clearance between the bore bit and the borehole sides is small and can be comparable with deformations of the borehole sides due to overburden pressure and displacement of glacial layers. At the drill recovery from the hole, some drags in the deformed zone are possible. In case of the bore bit failure, the drill will be stuck and it will be impossible to extract it to the surface. For the electrical-mechanical method used for drilling of borehole 5G-1, the probability of such situation is much less, however, it cannot be fully excluded.  
+In case the drill is stuck, the minimum loss is to leave the drill itself in the borehole. Then the borehole is deflected from the drill that has failed and drilling is continued. This can be, however, achieved only in the case where the possibility of cutting the carrying cable directly at the place of its fixation in the drill is envisaged or if there is a safety element in the upper part of the drill, which is destroyed at a specific cable tension force. Otherwise, there is a large probability of the cable tearing off near the surface at the deflecting roller or the winch drum. At such tearing off of the carrying cable, the borehole is lost completely.
+Contamination risk: penetration of the drilling fluid to the glacial strata
+The main problems of possible penetration of the drilling fluid from borehole 5G to the ice sheet on which we should focus include:
+1) Drilling-induced hydrofracturing. This can occur if the borehole is overpressurized, that is when the pressure of the drilling fluid exceeds that of ice. This phenomenon is well known to Russian drillers from experience at Vostok. At present, the fluid pressure in the Vostok hole is monitored by two independent methods: (i) calculation of pressure from the precise fluid density profile measured in the borehole and (ii) direct pressure measurements with an accuracy of ±1 bar. 
+The pressure at the borehole bottom is constantly maintained to be slightly less than the ice load. The problem of the borehole closure (which is also monitored in the drilling process) caused by a negative fluid-ice pressure difference is solved by periodical enlarging of the borehole with a special device used between the routine drilling runs. 
+2) Hydrofracturing which occurs due to deviatoric stresses causing the ice flow and develops due to high pressure of subglacial water. It is believed that the 220 m of accreted (lake) ice at Vostok forms an ice massif blocked against the eastern edge of the lake and overridden by the moving glacier. A shear layer (likely active) is found above the interface (around 3540 m depth) between the glacial and accreted ice. This suggests that the deepest section of the accreted ice (to be drilled) experiences very low (if any) deviatoric stresses. The latter conclusion is fully supported by the high crystallographic structure of the ice crystals, as revealed by X-ray diffraction measurements (Montagnat et al, 2001), which is possible only if the lake ice does not plastically deform under the in-situ conditions. Hence, the formation of open crevasses often observed in grounded ice can hardly be expected in the case of basal ice at Vostok.
+3) Permeability of ice for the drilling fluid. Low lattice distortion of accreted ice crystals rules out a significant diffusion of the drilling fluid through ice lattice (Montagnat et al., 2001). However the presence of liquid water along the grain boundaries provides a route for diffusive transport. The veins form a continuous network of microscopic channels that remain liquid at subfreezing temperatures. Hence, the contamination from the drilling fluid may be associated with both the downward advection of intercrystalline water and the diffusion of the drilling fluid through the vein system. A theory of this process is sufficiently well known (Rempel et al., 2001). Using this theory and the field data (ice temperature, grain size) from Vostok, one can estimate that the total advection of the drilling fluid from the borehole towards the ice-water interface will be about 1 meter over millennial time scales. Moreover, the recent re-interpretation of the helium data from Jean-Baptiste et al. (2001) suggests the presence of an upward component of velocity in the accretion ice layer of about 6 mm per year, which can be the result of hydrostatic compensation in this region (Souchez et al., in press). Obviously, such an upward movement of ice, if present, would overcompensate a very slow downward advection of the fluid. 
+4) Expected changes in mechanical properties of ice with depth. The properties of ice may be different in the deeper (younger) section of the ice sheet soon after ice accretion. Changes towards poorer quality of ice are expected. The accretion ice below 3609-m depth (accretion ice II) is characterized by the extremely low gaseous and soluble impurity content, absence of mineral inclusions, exceptionally large ice crystals (from 10 to 100 cm and larger) and perfect crystalline quality of ice. The data available at present have been interpreted in terms of abnormal grain growth, which occurs under annealing temperatures during the long time span after the ice accretion (Montagnat et al., 2001). 
+The age of accretion ice at 3725 m (temperature is about 1.0º below melting point), at which depth the drilling will be stopped after completing coring of the additional 75 m of ice, is estimated to be of an order of 10 kyr. Thus, we can safely assume that the ice at this depth will have mechanical properties similar to those already studied at a depth of 3623m. However, monitoring of grain size and other properties, which can be easily measured in the field during drilling operations should be recommended.
+5) Damage of the borehole due to ice drift. As the ice above the 3540-m depth moves with a maximum velocity of 2-5 m/yr (azimuth of 130º) (Bell et al., 2002), there is a potential risk that the borehole filled with the drilling fluid will at some time collide with the elevated eastern edge of the lake located about 5 km downstream of Vostok. Although this cannot happen in the near future (only in about 1000 years), this point should also be taken into account, and the drilling fluid should be removed from the Vostok borehole in due time.  
+The technological solutions of the process of drilling fluid removal are currently available, however they require additional improvement. As an example, there were cases of the removal of some drilling fluid volume from borehole 3G to borehole 5G in the late 1990s.   
+5.2. Possible indirect impact
+Environmental impact due to the logistics support of proposed activity 
+To implement the proposed activity will require the logistics support, i.e. it will cause some increase of anthropogenic impact on the Vostok station area. This impact will be produced during the Antarctic summer season 2006/2007 when a 4-6 people glaciological-drilling team will stay and work at the station. Since it is planned to use Vostok station as a logistics base for conducting other research studies, this activity will produce only an additional and in general insignificant environmental impact.  The impact components will be addressing the life support issues of the glaciological-drilling team: supply with food products, removal and melting of snow for water supply, supply and consumption of additional diesel fuel, running diesels for power supply of the living premises and the drilling installation and additional life activity waste. It is noted that all aforementioned environmental impact factors are within the usual level of operations for life support at Vostok station. 
+Directly for drilling the 75 m of borehole 5G-1, about 2 t of aviation kerosene TS-1 and about 200 kg of Freon 141b that are already at Vostok station will be required. 
+5.3. Cumulative impact
+Continuation of drilling of the borehole 5G-1 will impact all environmental compartments at Vostok station: the atmosphere, surface relief of the area and glacial strata. However, this impact will be insignificant and if compared with the other options for achieving the proposed scientific objective –minimum. In particular, the proposed drilling of additional 75 m will require only a small additional quantity of the drilling fluid resulting in disturbing the ice sheet structure where upward the section these irreversible changes already exist. In case of solving the objective of preliminary drilling of the new borehole, the ice structure at the point of drilling will be changed throughout the entire ice strata. Depending on the drilling method, this will require delivering to this Antarctic area many tons of kerosene and Freon (mechanical method) and ethanol (thermal drilling), as well as a large quantity of diesel fuel for energy supply of long-term drilling activities.
+The activity at Vostok station will be carried out in the area, which belongs to the category of non-recoverable area (NRA). The logistics operations related to continuation of activity in the borehole 5G-1 will be only part of the anthropogenic load on the Vostok station area during the periods of seasonal activity. It is obvious that in case of using the borehole 5G-1, drilling equipment of the station and the existing life support conditions here, the total environmental impact of the proposed activity will be much less compared to drilling of a new borehole in the station area and the subglacial Lake Vostok. 
+5.4. Anticipated impact on the aesthetic and wilderness values of the environment
+Drilling and ice core extraction from the borehole 5G-1 has changed the vertical ice sheet structure at the borehole location. Drilling of the additional 75 m will not produce an additional impact on the aesthetic and wilderness values of the environment.
+5.5. Anticipated impact on the areas of scientific, historic and cultural significance
+The presence of the borehole 5G-1 in the glacial strata disturbing the natural ice structure will not allow the second drilling of the ice strata in order to obtain ice cores or enter Lake Vostok at a distance of about 100 m from the borehole head. 
+The ice core extracted from the borehole 5G-1 is of unique value for paleoclimatic reconstructions both for the given Antarctic region and on a global scale. In accordance with the existing rules, this ice core after sampling is subdivided into several segments that are studied in many laboratories of the world. It is important that some part of the ice core remains as a reference collection in the core storage depot at Vostok station. Thus, future studies of the ice sheet characteristics in the Vostok station area will not require drilling a new borehole with core sampling, i.e., the influence of the existing borehole 5G-1 on future glaciological activities in the vicinity of the Vostok station will be practically zero.
+
+6. UNAVOIDABLE ENVIRONMENTAL IMPACT AT CONTINUATION OF DRILLING OF BOREHOLE 5G-1
+The implementation of the proposed activity will inevitably have the following environmental impacts:
+    • change of the ice sheet structure at the drilling point of the existing borehole 5G-1 from the 3650 m depth to the 3725 m depth;
+    • retrieval to the surface and evaporation to the atmosphere of about 50 kg of Freon 141b during drilling operations;
+    • total impact on the Vostok station area due to the delivery here, living and work of 4-6 specialists during the summer Antarctic season.
+7. PROPOSALS FOR MITIGATION OF THE ENVIRONMENTAL IMPACT
+The main source of Freon losses in the process of drilling and round-trip operations is the drilling fluid remaining in the sludge or flowing from the cable, the drill and the measurement instruments. To reduce these losses it is planned to use a centrifuge for further drilling that will separate the sludge and the drilling fluid. At present such device is used for drilling a deep borehole in Antarctica under the EPICA Project. By using this device, more than 90% of the fluid can be separated from the sludge. The remaining kerosene is easily separated at melting the sludge, but Freon will go to the atmosphere. Thus, the Freon losses will be decreased to 0.6 kg a run during subsequent measurements and monitoring observations in the borehole.
+8. GAPS IN KNOWLEDGE
+The main gaps in knowledge revealed in the process of preparation of the present environmental impact assessment are the data obtained by direct instrumental measurements on the thermodynamic conditions of the glacial strata. However, to fill the aforementioned gaps is possible only by the direct studies of the lower ice strata layers, this being one of the scientific goals of the proposed activity
+CONCLUSION
+The proposed continuation of drilling of the additional 75 m in borehole 5G-1 (Vostok station, Antarctica) is planned for the summer Antarctic season 2006/2007. This activity aims to obtain new scientific data on the origin, properties and structure of the glacial ice near (up to 100 m) the “ice cover-subglacial lake” boundary. 
+Like any other practical activity in Antarctica, continuation of drilling of borehole 5G-1 implies an environmental impact. An evaluation performed indicates that it will inevitably include an insignificant and short in time influence on the atmosphere (evaporation of Freon 141b) and on the glacial structure in borehole 5G-1 in depths up to 3725 m.  
+The risks of contamination accompanying this activity that are primarily related to the drilling fluid presence in the borehole can be practically excluded during preparation and implementation of work. 
+The proposed activity will require additional logistics support, which will insignificantly increase the current impact of the station activity on the glacial surface environment. 
+Based on the IEE performed, it is concluded that the proposed activity will have no more than a minor or transitory impact on the environment of the station area.
+The activity under consideration can be conducted without the CEE on condition of undertaking all measures envisaged for mitigating the environmental impact. 
+LIST OF ATCM DOCUMENTS USED
+    • • Protocol on Environmental Protection to the Antarctic Treaty. Madrid, 1991
+    • • Water sampling of the subglacial Lake Vostok. Revised Draft CEE. (XXVI ATCM WD 01)
+    • • XXII ATCM/IP 66, Application of the "minor or transitory impacts" criterion of EIA in different regions of Antarctica, submitted by Russia
+REFERENCES 
+[1] Barkov N.I., R.N. Vostretsov, V.Ya. Lipenkov, А.N. Salamatin. Air temperature and precipitation fluctuations in the Vostok station area throughout four climatic cycles for the last 420 kyr // Аrktika i Аntarktika - М., 2002 - Issue 1(35) - P. 82-89.
+[2] Lipenkov V.Ya., Istomin V.A. On the stability of air clathrate-hydrate crystals in subglacial lake Vostok, Antarctica. - Mater. Glyatsiol. Issled., N91, 2001, p. 138-149.
+[3] Salamatin A.N., Lipenkov V.Ya., Barkov N.I., Jouzel J., Petit J.R., Raynaud D. Ice-core age dating and palaeothermometer calibration based on isotope and temperature profiles from deep boreholes at Vostok Station (East Antarctica).-Journal of Geophysical Research, 1998, vol. 103, N D8, p.8963-8977
+[4] Salamatin A.N. Paleoclimatic reconstructions based on borehole temperature measurements in ice sheets. Possibilities and limitations. In: Physics of Ice Core Records, T. Hondoh (Ed.), Hokkaido University, 2000, 243-282.
+[5] Masolov V.N., Lukin V.V., Sheremetiev A.N., Popov S.V. Geophysical Investigations of the Subglacial Lake Vostok in East Antarctica, Doklady Earth Sciences, 379A, 6, 2001, 734-738.
+[6] Popov S.N., Mironov A.V., Sheremetiev A.N. Results of ground-based radio-echo survey of the subglacial Lake Vostok in 1998-2000. (in Russian). Mater. Glyatsiol. Issled., 89, 2000, 129-133.
+[7] Lipenkov V.Ya., Barkov N.I. Internal structure of the Antarctic Ice Sheet as revealed by deep core drilling at Vostok Station. In: Lake Vostok Study: Scientific Objectives and Technological Requirements,International Worckshop, March 24-26, 1998,AARL St.Petersburg, 1998, p. 31-35.
+[8] Jouzel, J., J.R. Petit, R. Souchez., N.I. Barkov, V.Ya. Lipenkov, D. Raynaud, M. Stievenard, N.I. Vassiliev, V. Verbeke, F. Vimeux. 1999. More than 200 meters of lake ice above subglacial lake Vostok, Antarctica. Science, 10 December, 286, 2138-2141.
+[9] Montagnat M., Duval P., Bastie P., Hamelin В., Brissaud O., de Angelis M., Petit J.R., Lipenkov V.Ya. (2001): High crystalline quality of large single crystals of subglacial ice above Lake Vostok (Antarctica) revealed by hard X-ray diffraction. Sciences de la Terre et des planets / Earth and Planetary Sciences, 333, 419-425. 
+[10] Rempel A.W., Waddington E.D., Wettlaufer J.S., Worster M.G. Possible displacement of the climate signal in ancient ice by premelting and anomalous diffusion. Nature, 2001, vol 411, 568-571. 
+[11] Souchez R., Petit J.R., Tison J.-L., Jouzel J. and Verbeke V. Ice formation in subglacial Lake Vostok, Central Antarctica. Earth and Planetary Science Letters,181, 2000, 529-538. 
+[12] Souchez R., Jean-Baptiste P., Petit J.R., Lipenkov V.Ya., Jouzel J. What is the deepest part of the Vostok ice core telling us? Earth Science Review, 2002, in press. 
+[13] Tison, J.L. et al. Linking landfast sea ice variability to marine ice accretion at Hells Gate ice shelf, Ross sea. Antarctic Research Series, 74, 375-407 (1998). 
+[14] Bell R.E., Studinger M., TikkuA.A., Clarke G.K.S., GutnerM.M., Meertens С. Оrigin and fate of Lake Vostok water frozen to the base of the East Antarctic ice sheet. Nature, 2002, vol. 416, 307-310. 
+
+

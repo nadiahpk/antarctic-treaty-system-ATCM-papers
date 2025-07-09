@@ -1,0 +1,88 @@
+﻿
+
+
+
+
+
+Ross Island Wind Energy Project: Sustainability through collaboration
+
+
+
+
+Ross Island Wind Energy Project: Sustainability through collaboration
+Information Paper submitted by New Zealand and United States
+Introduction:
+Antarctic Treaty Parties have designated Antarctica as a natural reserve devoted to peace and science. The Protocol on Environmental Protection to the Antarctic Treaty provides that activities in Antarctica are to be planned and conducted to limit impacts on the environment.  
+
+In this context, the New Zealand and United States Antarctic programmes (AntNZ and USAP) have recently concluded the establishment of a wind farm on Ross Island.  On Saturday 16th January, 2010, the Ross Island Wind Energy (RIWE) project was officially commissioned by the New Zealand Foreign Affairs Minister, the Honourable Murray McCully, and the United States Ambassador to New Zealand David Heubner.
+
+The RIWE project is the first of its kind in Antarctica, as it links Antarctic stations from two different countries into a common electrical network.  The commissioning of the wind farm represents the culmination of five years of commitment from AntNZ and USAP and the success of the project is a testament to the power of collaboration and cooperation between these two programmes (Figure A.1). 
+The Concept:
+McMurdo Station (USA) and Scott Base (NZ) burn approximately 4.26 million litres (1.125 million gallons) of diesel fuel annually to generate electricity. This equates to approximately 11,500 tonnes of C02 emissions.
+
+The RIWE project represents a serious investment in renewable energy technology and energy management equipment.  The project was designed as a “Proof of Concept” for both the introduction of wind power generators and the tying together of two formerly separate and different power production and consumption systems.
+
+The project initiative had three main purposes:
+
+    1. To reduce diesel fuel consumption on Ross Island and to reduce both programmes’ environmental impact in Antarctica;
+    2. To develop and test a fully integrated wind farm “Proof of Concept” on Ross Island; and
+    3. To increase New Zealand’s contribution to the shared joint logistics pool with the United States.
+
+The project was funded by the New Zealand Government with significant logistical and technical assistance and investment from the USAP. Under the agreement between AntNZ and the National Science Foundation (NSF; operator of the USAP), New Zealand funded and provided project management for the design, procurement and construction of the project. 
+
+One electricity network was developed to supply energy to both Scott Base and McMurdo Station. Previously, both programmes operated independently on stand-alone diesel generators. The creation of the network provided the unique opportunity to pool all generating assets (i.e., McMurdo Station power house, Scott Base power house and the wind turbines) into one online, fully integrated network. This provides significant potential for energy efficiency, not only because the wind turbines are providing renewable energy but because the network is designed to constantly seek out the optimum mix of generating assets, in order to provide the electricity demand from both bases at any one time. 
+The Ross Island Wind Farm:
+A three-turbine wind farm was constructed during the 2008/09 and 2009/10 austral summer seasons. The wind farm is located on Crater Hill which is located between McMurdo Station and Scott Base (Figure A.2). The wind farm is designed to generate a maximum output of 990 kW. On this basis, it may provide up to 70% of the electrical load requirements of both bases at any one time, but is estimated to substitute overall 11% of total fuel burned for electrical requirements on Ross Island. This equates to approximately 450,000 litres (122,000 gallons) of diesel per year or 1,240 tonnes of avoided CO2 emissions.
+Unique Features and Challenges:
+Wind farms are now common throughout the world. Wind energy is generally accepted as a reliable, cost effective and robust form of renewable energy.
+
+The Ross Island Wind Farm is in principle the same as these ‘generic’ wind farms, however, with a few distinct differences.
+Foundations:
+The wind turbine foundations used in the Ross Island Wind Farm are unique. In order to minimize disruption of the local environment and avoid problems associated with on site concrete production and inferior grade aggregates, the foundations were designed so that they could be largely pre-fabricated in New Zealand and shipped to Antarctica. The resultant concrete, steel and rock-anchor ‘spider’ foundation design is a unique engineering solution.  Normally, wind turbine foundations are solid concrete blocks poured in situ.
+Generation:
+The Ross Island Wind Farm demanded a wind turbine design that could withstand extreme cold, high wind speeds and requires minimum maintenance.
+
+On this basis, three Enercon E33 turbines were selected. The turbines are a state-of-the-art, variable-speed, pitch-controlled machine. They are distinctive in that they are ‘direct drive’, meaning they do not have a standard gear box configuration as do other turbines. The advantages created by the direct drive configuration are:
+
+    • less energy loss between rotor and generator;
+    • lower sound emissions; and
+    • most importantly for a remote location, reduced mechanical wear and tear.
+Integration and Energy Management:
+There were unique challenges faced by the integration of a proportionately large, variable energy source (i.e., fluctuating wind load) into a relatively small stand-alone energy network. This was further complicated by the fact that New Zealand electricity is generated at 50 Hz and the United States equivalent standard is 60 Hz. 
+
+Most energy generated by wind farms throughout the world is injected into a large, stable electricity network. This means that a standard wind farm consists of wind turbines, reticulation cable and transformers. In such cases, the large electricity network that the wind farm supplies easily absorbs peaks and troughs caused by the variable nature of wind as an energy resource, without destabilizing the overall electricity network.
+
+The Ross Island Wind Farm required two additional pieces of equipment and associated software to manage the fluctuations of wind energy and the de-stabilising effects of providing a very large percentage of the total electrical demand from wind energy.
+
+The first piece of equipment installed to manage grid stabilization was a 500 kW Powerstore® flywheel – a large spinning mass operating in a helium filled bearing. The Powerstore® flywheel stabilizes the grid by very rapidly absorbing high frequency power surges from the wind turbines (e.g., a wind gust) or from sudden reductions in demand, or alternatively supplying power to make up for sudden drops in wind turbine output, sudden increases in demand or loss of diesel generation.
+
+The second piece of equipment installed was a 415 V, 60/50 Hz static frequency converter to manage the change from 60 Hz (USA) to 50 Hz (NZ). The converter was installed at Scott Base.
+Project Delivery and Cooperation:
+The project was delivered on time over a very tight two season programme (2008/09 and 2009/10). This was not possible without significant collaboration and cooperation between AntNZ and USAP. AntNZ, as the project manager, worked with a New Zealand energy company, Meridian Energy, to plan the project and manage the construction. 
+
+USAP was involved in design consultation and approval as the wind farm controllers fundamentally changed the way the McMurdo Station power house was controlled and operated. Support was also provided by USAP personnel in site preparation, electrical engineering and cargo and logistics activities (Figure A.3).
+
+The positive approach taken by the USAP via NSF (operator and manager of USAP), National Renewable Energy Laboratory (NREL, U.S. Dept. of Energy), Raytheon Polar Services Company (RPSC; NSF’s prime contractor for USAP) and the AntNZ staff is testament to the seriousness with which both programmes are engaging in renewable energy and sustainability challenges in Antarctica.
+Performance to Date:
+The Ross Island Wind Farm has been in operation since early February 2010 (Figure A.4).  Commissioning work is ongoing as the new technology settles in and the staff become familiar with a new way of operating. 
+
+Wind quality has been good and wind generation over the six-week period of initial operations has consistently outperformed modeling expectations. System performance will be monitored and reviewed closely over the next 12 months before any conclusions are drawn.
+
+The newly established network has been very stable and Scott Base generators, which would normally run 24 hours a day, are silent. 
+Appendix A: 
+
+
+
+Figure A.1 –Dr Karl Erb (Director of the Office of Polar Programs) and Mr Rob Fenwick (Chairman of the Board for Antarctica New Zealand) at the dedication of the Ross Island Wind Farm, January 21, 2010. The dedication occurred in Antarctica, after the Ross Island Wind Farm was commissioned by Minister McCully and Ambassador Huebner in Auckland on 16 January, 2010. © Matt Vance, Antarctica New Zealand Pictorial Collection: K200 09/10   
+
+
+
+Figure A.2 – The Ross Island Wind Farm situated on Crater Hill, looking toward Scott Base. © J. Leach, Antarctica New Zealand Pictorial Collection: 09/10
+
+
+
+Figure A.3 – Logistic support provided by the United States Antarctic Programme in transporting the wind turbines to Antarctica. © Scott Bennett, Antarctica New Zealand Pictorial Collection: K427 08/09  
+
+
+
+Figure A.4 – The Ross Island Wind Farm in operation. © Jana Newman, Antarctica New Zealand Pictorial Collection: K501 09/10

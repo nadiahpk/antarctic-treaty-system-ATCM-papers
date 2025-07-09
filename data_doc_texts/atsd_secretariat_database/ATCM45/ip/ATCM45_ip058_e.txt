@@ -1,0 +1,125 @@
+Implementation of the IMO Polar Code: A practical perspective
+Implementation of the IMO Polar Code: A practical Perspective
+Summary
+The IMO Polar Code was the first IMO instrument to use a
+combination of goal based and prescriptive requirements. This
+paper reviews the challenges IAATO members faced when
+implementing the IMO Polar Code, how those challenges were
+resolved and which elements continue to create challenges. While
+some elements of the Code were straightforward and easy to
+implement, particularly in terms of building new vessels, other
+aspects were more challenging – not least because there was a lack
+of experience on how to interpret requirements across Flag States ,
+Classification Societies, ship owners and managers.
+Towards Implementation
+“Starting from scratch”
+In the early days of the Polar Code, the interpretation of how to
+implement the goals and requirements was difficult as there were
+no previous examples or experiences to refer to. Operators, Flag
+States and Classification Societies were faced with developing
+standards with which to review the implementation requirements.
+This “starting from scratch” challenge manifested itself in several
+ways from both the technical and operational basis.
+For example, each vessel Operator must complete an operational
+risk assessment in order to determine the operating envelope for
+their vessel. To try and assist with this, and to ensure some degree
+of harmonization in the data underwriting each Operators’
+mandatory operational risk assessment, IAATO collaborated with
+Polarview (see ATCM XXXIX IP103 Annual Report of the
+International Association of Antarctica Tour Operators) to create a
+baseline database, POLARIS, which operators could access. This
+allowed a generic standard to be used when Operators were
+working through their risk assessments to determine their operating
+envelope and whether their vessel required a Polar Service
+Temperature (PST) – the latter being important as it prescribes
+whether additional measures and equipment would be required.
+Given that regular operation for most cruises to Antarctica during
+the Austral summer take place in air temperatures higher than –
+10°C Mean Daily Low Temperature (MDLT), it was confirmed that
+for most IAATO vessels a PST was not required.
+Another example of the challenge of starting from scratch was that
+there were no precise standards clarified of the scope, amount, and
+characteristics of required equipment, such as Personal Survival
+Equipment (PSK) and Group Survival Equipment (GSK) –. As a
+result, it was left to the interpretation of the Operator. Additionally,
+Classification Societies and Flag States at that time did not have
+binding rules in place.
+Application to existing versus new vessels – technical considerations
+On existing vessels, the minor adjustments, and upgrades to
+required navigation and communication equipment (for example,
+the GNSS Compass, Iridium phone, ice lights) were rarely an issue
+as in most cases, these items were already installed on board.
+Equally, the requirements of Part II-A of the Code regarding
+pollution prevention measures did not, in most cases, require
+changes in procedures and equipment, as it met by either current
+legislation and/or best practice for most ships already.
+In terms of equipment, the most pressing challenge for existing
+vessels was finding suitable storage space for the additional
+equipment required, whether that was Thermal Protective Aids
+(TPA) required for all souls onboard, or additional ration
+requirement in lifeboats and life rafts,
+or PSK and GSK where applicable. Some items (e.g., survival suits,
+tents, sleeping bags) are bulky and needed suitable protection and
+storage space to be readily available in an emergency. Passenger
+and crew cabins do not normally offer ample space and adequate
+space is not usually available next to survival crafts.
+It is perhaps notable, that there was a pause in commissioning of
+vessels during the negotiation of the Polar Code as Operators waited
+to understand the final requirements before investing in new
+vessels. Once finalized, there was a surge in the number of vessels
+were commissioned where compliance with the goals and
+prescriptive requirements of the Polar Code were addressed by
+naval architects and ship builders. There were, however, some
+uncertainties with regards to the interpretation of various elements
+of the Code, in particular around the scope of survival equipment.
+Operational Considerations
+Operationally, the requirements for voyage planning did not cause
+any undue additional procedures or workload for those already
+experienced in operating in these environments. The most notable
+operational implementation challenge that persists to this day is
+around the certification of Bridge Officers, which requires both
+training courses and experience.
+Initially, the opportunities to achieve mandatory basic and
+advanced polar training at certified training centers were very
+restricted, and there was a lack of experience within many of these
+institutions. While this situation seems to have eased, there is still a
+lack of certified training courses. There does seem to be many non-
+certified educational courses, which are helpful in a first instance
+but dos not solve the certification problem.
+Furthermore, trying to ensure 60 days’ experience in polar or polar
+equivalent waters in a 5-year period can be challenging. It can be
+difficult to achieve initially and then to maintain that level of polar
+water time. To gain experience, various solutions are used such as
+doubling up of positions, or higher ranks signing on in lower
+positions in order to meet the time requirements.
+While this can seem like a good solution, it can also create
+problems. For example, there is the potential for a lower rank
+officer, with the relevant time in polar waters and completed the
+advanced ice course to be promoted prematurely simply to fulfill
+the Polar Code requirement. Several Operators are now working
+with cadets onboard, in an effort to build the wider skill set, but
+this is a multi-year process and will take time to spread through the
+system.
+To confuse the issue further, there is variable interpretation
+regarding what is considered as ‘equivalent approved seagoing
+service’. An officer from one country may be able to include a
+certain equivalent time in (non-polar) ice, while another officer –
+serving on the same vessel but from another country – is unable to
+use similar experience as qualifying days.
+Conclusions
+Without a doubt the Polar Code has forced Operators, particularly
+those new to polar water operations to take a close look at their
+operating environment and related risks. As such it has successfully
+strengthened the safety standards for SOLAS vessels operating in
+polar waters.
+Perhaps inevitably, as a new instrument that is a combination of
+goal based and prescriptive, versus purely prescriptive, will have a
+period of challenges during implementation. There remains some
+uncertainty around the interpretation regarding some defined
+aspects (notably around the characteristics of survival equipment
+and Bridge teams’ certificates of competency). Much has been
+learned by Operators, Flag States and Classification Societies
+throughout the past six years and there would be value in sharing
+the experiences in implementation to smooth out some of these
+uncertainties and improve harmonisation in the implementation of
+the Polar Code.

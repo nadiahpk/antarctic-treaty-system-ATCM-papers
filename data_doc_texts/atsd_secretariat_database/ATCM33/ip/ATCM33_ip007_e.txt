@@ -1,0 +1,145 @@
+﻿
+
+
+
+
+
+Marine oil spills in the Antarctic Treaty Area – Environmental considerations regarding oil spill behaviour and potential for impacts
+
+
+
+
+
+
+
+
+Marine oil spills in the Antarctic Treaty Area – Environmental considerations regarding oil spill behaviour and potential 
+for impacts
+
+This paper was considered as Working Paper 5 at the Antarctic Treaty Meeting of Experts on the Management of Ship-borne Tourism in the Antarctic Treaty Area (December 2009). 
+New Zealand is now submitting this paper for the information of the ATCM.
+
+
+Introduction
+
+A number of recent shipping incidents in the Antarctic region have highlighted concerns about the potential for serious environmental harm resulting from a shipping incident in the Treaty area.  This paper discusses the risks and the potential impacts of a marine oil spill in Antarctic waters. 
+Historically, the perception has been that oil tankers present the most serious threat of marine oil spills.  However, over the past few decades, the number and scale of tanker spills has decreased dramatically as a result of improved design and operating procedures.  The great majority of spills now involve oil carried in ships’ bunkers or during oil transfers.  In 1999 there were 11 reported spills greater than 34 tonnes from tankers globally, compared to 25 incidents from other vessel types1.
+The volume of bunker oil carried by vessels may be considerable, for example the bunker capacity of the Kapitan Khlebnikov, a regular visitor to the Antarctic, is reported as 3,500 tonnes.  Although one of the larger cruise vessels visiting Antarctica in recent times, at only 132 metres long the Kapitan Khlebnikov is small by international cruise ship standards.
+Recent amendments to MARPOL 73/78 require that fuel tanks in new vessels be in protected locations within the hull.  Older vessels that predate the MARPOL amendment are not required to meet this change, with many vessels having bunker tanks located very close to the outer hull where they would be easily ruptured in the event of a grounding, collision or structural damage to the ship.  
+The type of bunker fuels carried by vessels varies with respect to viscosity, density and other parameters such as pour point and sulphur content.  Heavy and intermediate bunker fuels consist principally of residual oil products (the remains of the crude oil stock after the refinery process has removed more valuable oil and petroleum products).  Depending on the grade of the fuel, lighter products such as diesel are used to reduce the viscosity of the oil.  Ships may also burn distillate fuels, including marine diesel and marine gas oil.  Although distillate fuels are more expensive than the residual fuels they are generally far cleaner, with less sulphur and producing less particulate carbon when burned. The vast majority of modern ships are capable of converting between fuel types.  Many vessels routinely switch from heavy oils to diesel during single voyages in order to comply with sulphur emission restrictions in some parts of the world. 
+In July 2009 the IMO’s Marine Environmental Protection Committee (MEPC) accepted a proposed amendment to MARPOL Annex I to prohibit the carriage in bulk or use as fuel of all heavy grade oils in the Antarctic sea below 60°S.  This amendment was developed in response to the request from the ATCM to IMO in 2005 to take steps to reduce the risk of heavy oil spills in the Antarctic. This amendment will be submitted to MEPC 60 in March 2010 and, if adopted at that meeting the new regulations will come into force following a period of at least 16 months (September 2011), to allow parties to implement their own enabling legislation or lodge objections.  
+Further action recently taken by the IMO designed to reduce the risk of a spill in the Antarctic include the recent approval of new voluntary guidelines for ships operating in polar waters.  This work is being further advanced with the proposal to develop a mandatory Polar Code.  The Polar Code will likely include design, equipment and operational obligations that are designed to minimise the risks to vessels in these areas and mitigate the impacts of any incidents that do occur. 
+
+The extent of environmental impact from an oil spill is dependent on a number of factors including the characteristics and volume of the oil, the geophysical and ecological features of the receiving environment and the speed and efficacy of pollution response efforts.  The factors relating to the oil and the environment in the Antarctic context are discussed below.  A separate paper submitted by New Zealand discusses the complexities of marine pollution response in the Antarctic. 
+
+Oil Characteristics and Behaviour in Cold Waters 
+The type of oil used by ships as bunker fuel may vary significantly, and there may also be variations within a single fuel grade.  Table 1 below shows the typical characteristics of the three main fuel oil types currently used by shipping.  In addition to bunker fuels, ships also carry significant quantities of other oil types, including lubricating oils, diesel for use in generators and aviation fuel for helicopter operations.  Some diesel fuel used in the Antarctic has been treated to improve performance in cold conditions.  This has the effect of slightly reducing the viscosity and pour point of the oil.
+
+Table 1: Selected Oil Characteristics 2
+CHARACTERISTICS
+MARINE DIESEL
+IFO 180
+HFO 380
+Density at 15°C    (kg/m3)
+0.839 to 0.903
+0.924 – 0.990
+0.95 – 1.03
+Viscosity at 15°C  (cP)
+2.9 - 11
+>2,000
+>9,000 
+may exceed 100,000
+Pour Point            (°C)
+-23 to -5
+-12 to 35
+-9 to 43
+
+The characteristics of the oil, particularly the viscosity and the density of the oil, determine how the oil will behave if spilled in the marine environment.  The viscosity of residual fuels, including intermediate fuel oil (IFO) and heavy fuel oil (HFO), will increase markedly with reduced temperature.  As the oil’s viscosity increases it becomes more resistant to physical, chemical or biological breakdown in the environment.  Sea surface temperatures below 60°S are very stable, remaining below 2°C (37°F) for most of the year, and falling to -2°C (28°F) in the winter months. At these seawater temperatures heavy grades of oil may be essentially solid although evidence from studies of fuel oil leaking from the tanks of the Prestige several months after sinking demonstrate that the behaviour of oil under extreme conditions is far more complex than a simple relationship between pour point and seawater temperature3.  The density of heavy oils may be close to 1 kg/m3 making them neutrally buoyant or even negatively buoyant.  Where a fresh water lens overlies seawater, oil may sink below the surface, making slicks difficult to locate and increasing the risk of oil becoming entrained in ice and sediments.
+Figures 1 and 2 below illustrate the difference in oil behaviour and weathering over five days for different oil types.  All figures are produced using the ADIOS2™ (NOAA 2008) theoretical model and are based on a 10 cubic metre instantaneous release of oil.  Figure 1 illustrates that less than 20% of the volume of HFO would evaporate or disperse into the water column in the presence of waves generated by a 20 knot wind.  In contrast, under the same conditions 100% of diesel would be expected to evaporate or disperse within 24 hours of the spill occurring.   
+
+
+Fig 1: HFO (left) and diesel (right) at 1°C at 20 knots of wind, waves based on wind. 
+
+Figure 2 models the behaviour of IFO 180 and diesel in waters where wave action is dampened, such as by the presence of sea ice.  Even without wave action, 50% of the diesel would be expected to evaporate within 5 days compared to less than 20% of spilled IFO 180.  
+
+
+
+Fig 2: IFO 180 (left) and Diesel (right) at 1°C with 20 knots wind and no waves
+
+When spilled into the sea, oil is subject to a number of physical processes including spreading, evaporation, photo-oxidation, dispersion, and adsorption to particulates that may then sink to the seabed.  Depending on the viscosity of the oil and physical barriers such as ice or land, a light oil product such as diesel may rapidly spread to a thickness of as little as 0.0001 mm, meaning that 1 m3 of oil can produce a sheen covering an area up to 10 square km.  Even where oil only spreads to 0.01mm, at which point it still appears to be brown or yellow on the water surface, 1 m3 of oil can cover an area of 100,000 m2. 
+As oil spreads, the slick becomes more susceptible to breaking up and being dispersed into the water column through wave action as well as the natural breakdown processes of photo-oxidation and biodegradation.  At cold temperatures or where there is little water movement as is the case where sea-ice is present, a far higher proportion of the oil will remain on the sea surface and biological processes will also be much slower.  Figures 3 and 4 illustrate the effects of wave action on a diesel spill and water temperature on heavy fuel oil respectively.
+
+
+Fig 3: Diesel at 1°C, 20 knots of wind with waves (left) and with no waves (right)
+
+
+  
+HFO 380 with 20 knots of wind and waves at 15°C (left) and 1°C (right) 
+
+Larger volumes of oil will obviously cover a larger sea surface area, take longer to be removed from the environment by natural processes, and have the potential to form deeper pools when trapped by ice or shoreline features.  
+Research and experience of oil behaviour in ice environments in the northern hemisphere show that oil may also interact with ice in ways that will further retard the natural processes that would act to reduce residence time of the oil in the environment.  Oil may become trapped between ice floes, meaning that spreading is reduced and a thicker layer of oil remains.  Oil may also become trapped under floating ice or even within layers of ice.  In these cases fresh oil may persist in the environment for months or years until the ice breaks out.  Figure 2 below illustrates the range of oil and sea-ice interactions that may occur.  
+
+
+Figure 2:  Sequence of oil-ice interactions (Source: AMAP 1998)
+
+Shoreline type is also a significant factor in oil behaviour.  Shorelines can be defined as “sticky” or “non-sticky”.  For example, in the absence of mechanical or chemical spill response methods, oil stranded on a coarse grained sedimentary shoreline would penetrate into the sediments and would not be readily removed except by high energy waves.  On the opposite end of the scale, oil would not tend to stick to vertical ice surfaces and would remain mobilised in the marine environment until it broke down naturally.
+The longer the oil remains in the environment the greater the potential for impacts.  At present there is no established capacity for a large scale marine oil spill response in Antarctica.  Even where a response could be mobilised there are likely to be extended timeframes for access to sites depending on weather conditions and distance from a suitably equipped port outside Antarctica.  Many parts of the shoreline are inaccessible, and a large scale shoreline cleanup would not generally be possible.  Even where access could be gained, shoreline cleanups are very labour intensive and in the Antarctic context there would be exceptional requirements for equipping and housing response personnel.  Any cleanup response in Antarctica would require trained personnel able to work safely in the field and in cold environments.  In the absence of oil being removed from the environment, there is extended opportunity for oil to drift over a large area, to become entrained in ice or strand on shorelines and for wildlife and other resources to be exposed to the oil.
+
+Environmental Impacts from an Antarctic Oil Spill
+Oil spills can impact biota in two main ways.  The first type of impact is chemical, through direct toxicity.  The second type of impact is physical, such as smothering or direct damage from the oil.  The following section summarises the potential impacts of oil on different environmental components. 
+As oil weathers it generally decreases in toxicity.  The lighter short hydrocarbon chains that include the most toxic compounds evaporate off more quickly, leaving a more viscous residue.  The remaining products will be less acutely toxic but are far more persistent, and can still result in environmental impacts through smothering and direct contact with wildlife, as well as causing long-term chronic toxicity. 
+The degree of biological impact is a combination of the sensitivity of the individual species, the concentration of hydrocarbons to which the organism is exposed and the period of exposure. The hydrocarbon compounds in oil are toxic to most marine organisms studied, although there are considerable differences in oil sensitivity between species.  
+Tourist vessels often target their activities along zones of high biological productivity, which are also important foraging areas for wildlife.  This increases the likelihood of interactions between wildlife and vessels and thus for an oil spill from a ship affecting wildlife.
+
+Algae  
+Sea-ice algae form on the underside of ice, and would be directly exposed to any oil that becomes trapped under the ice.  Results of testing with microalgae have found that concentrations of oil as low as 40 parts per billion4 stopped photosynthesis, suggesting that there would be significant impacts to sea-ice algae or other micro-algae at the sea surface or in near-surface waters.  
+
+Invertebrates  
+Although there has been limited research into the toxicity of oil to Antarctic invertebrates, the work that has been done also suggests that juveniles are highly sensitive to hydrocarbons in the water column and would appear to be more sensitive than adults. Ecological toxicity studies of a wide range of invertebrates from temperate and tropical regions support these findings 5,6.  
+Results of temperate testing suggest that species such as krill would be susceptible to high levels of mortality if exposed to a surface slick of oil or to the hydrocarbon concentrations that may be found directly under a slick, particularly in areas where oil is concentrated by ice 7, 8.  
+
+Wildlife  
+Wildlife impacts are always one of the major concerns during an oil spill.  Wildlife may be exposed to chemical toxicity through feeding in areas where there are high oil concentrations, ingestion of contaminated food sources, and inhalation of oil vapours from near the water surface such as when whales or seals surface for air.  During December, the Ross Sea region has an estimated population of about 14,000 whales including minke whales and orca.  Along the Victoria Land coast, an estimated 3 million penguins and 57,000 Weddell seals have breeding colonies, the highest concentrations of these species anywhere in the high latitude Antarctic9.  
+Generally the most visible environmental impacts of a spill are oiled birds.  Even a small amount of oil on a bird’s feathers will damage the waterproofing, allowing the bird to rapidly become water-logged and hypothermic even in tropical conditions.  As birds try to preen oil from their feathers they ingest the oil.  Mucous membranes in the mouth, nasal passages and around the eyes may suffer chemical burns.  
+
+Most vulnerable are those species that flock on the water surface to feed, preen or rest.  Birds such as penguins that have geographically fixed colonies during the breeding season also have regular routes they travel to access the colony and will be compelled to return to the nesting sites to care for eggs or chicks even if it means swimming through oil to do so.  Adélie penguins are known to forage an average of 100 km away from the colony, meaning they are vulnerable to spills that are far removed from shore.  
+Oil transferred from the feathers of adult birds onto eggs will generally result in mortality of the developing chick.  On the Antarctic continent, penguin colonies are typified by large accumulations of birds, often representing a large proportion of the global population of that species.  
+The rehabilitation of oiled birds is very labour intensive.  Prior to washing, birds have to be stabilised with hydration/nutrition therapy, and thermal protection.  For a medium sized penguin with a moderate amount of oiling it would take approximately 40 – 80 minutes and 1200 litres of warm, freshwater for experienced personnel to clean the oil from the feathers.  The birds then require up to six weeks of care and rehabilitation to allow the feathers to regain their natural waterproofing. However, some individuals may require an even longer rehabilitation period.  During that time the bird must be housed, fed and given the opportunity to swim and preen in a rehabilitation pool under supervision.  The facilities do not currently exist in Antarctica for even a small scale oiled wildlife response, and it is unlikely that a response could be mobilised rapidly enough to capture affected birds before individuals succumb to hypothermia or drowning.
+
+Non-biological Impacts
+Aside from the biological values of Antarctica, other resources and values may be impacted by an oil spill.  Tourism in the Antarctic is largely based on the perception of the continent and its oceans as being an unpolluted wilderness area.  A significant oil spill in the region would quickly shatter that perception and would reflect negatively on Antarctic shipping activity.  
+There is also the intrinsic value of the Antarctic to society as a whole, again based on the perception of the Antarctic as wilderness.  A large oil spill in Antarctica would attract massive international media attention.  It is usual in oil spills for the media to focus on issues of blame, and of the slowness or ineffectiveness of adequate cleanup measures.  In the Antarctic context where responsibility for responding to marine spills is undefined and an adequate response would be almost impossible, it would be very difficult both publicly and politically to justify a lack on action in the face of media accusations of injured wildlife and environmental damage. 
+The Liability Annex to the Protocol (Annex VI) places the responsibility to respond to an environmental incident firmly on the shoulders of the vessel operators (either governmental or private).  This will provide additional impetus for operators to reassess their spill prevention measures as well as ensuring that they have high quality contingency plans and response equipment in place to minimise the impacts of a spill. 
+
+
+
+
+Summary and Recommendations
+An oil spill in the seas surrounding Antarctica could significantly impact on a range of biota, and depending on the oil type, may result in long-term impacts on shorelines.  The cold temperatures and lack of water movement where sea ice is present will result in even light fuel oil products, such as diesel, being far more persistent in the environment than would be the case in warmer latitudes. There is the potential for very significant impacts on wildlife should a spill occur in the vicinity of a penguin rookery or where there are high concentrations of seabirds on the water surface.  
+Response to a large scale marine oil spill in the Antarctic would be extremely difficult and, if undertaken, would likely be slow to mobilise due to the logistic constraints.  Additionally, effective rescue and rehabilitation of oiled wildlife is unlikely to be achievable, emphasising the need for a precautionary and preventative approach in this region.  Prevention of a significant oil spill in the region is certainly far preferable to trying to respond to one that has occurred. 
+Some regulatory measures to minimise the risk of a marine oil spill in the Antarctic are already being progressed through the IMO, but there is still considerable work to be done in finalising the adoption of the heavy oil ban in the seas around Antarctica and the development and adoption of a mandatory Polar Code. 
+From the above assessment of the environmental risks posed by a marine oil spill in the Antarctic it is proposed that the Meeting agree to recommend to ATCM XXXIII that the Antarctic Treaty Consultative Parties. 
+
+    1) Recall the ATCM’s Decision 8 (2005) and support the early adoption of the amendments to Annex I of MARPOL 73/78 banning the carriage in bulk and use as fuel of heavy grades of oil in the Antarctic sea. 
+    2) Encourage compliance by tourist vessels under their flag, or tourist vessels operating out of their ports, with the Guidelines for ships operating in polar waters. 
+    3) Encourage the active engagement of their governments in the development and early adoption of a mandatory Code for ships operating in polar waters, including measures to reduce the risk of marine oil spills in the Antarctic Treaty area. 
+    4)  Consider incorporating measures under the Code for ships operating in polar     waters to: 
+
+    1. restrict the volume of bunker fuel to be carried in the region in order to minimise the maximum volume of fuel oil that can be spilled from a vessel during an incident, while taking into account the safety of the vessel and crew.  
+    2. encourage tourist vessel operators to divide fuel between available bunker tanks to minimise the volume of oil spilled where there is only localised damage. 
+    3. make mandatory for all tourist vessels operating in the Antarctic Treaty area the MARPOL Annex I requirement for fuel tanks in new vessels to be in protected locations within the hull. 
+
+    5) Consider using the tools of the Antarctic Treaty's Protocol on Environmental Protection, in particular the Antarctic Specially Protected Area (ASPA), to put areas with significant or threatened wildlife populations off limits to direct landings from vessels, including the implementation of vessel routing restrictions in the region. 
+    6) Recall Article 15 of the Protocol on Environmental Protection on Emergency Response Action and in particular Article 12 of Annex IV on the need for ships flagged to the Parties to the Protocol to have contingency plans in place, and for the Parties to establish procedures for co-operative response to pollution emergencies and to take appropriate response actions in accordance with such procedures.
+
+    7) Consider whether tourist vessels should be required to carry on board a minimum amount of oil pollution control equipment to improve their chances of minimising the extent and impacts of a spill.
+    8) Also to consider setting minimum standards for tourist vessel oil spill contingency plans and appropriate training for crew in the event on a marine oil spill. 
+    9) Identify and share information on the shoreline clean-up capabilities of National Antarctic Programmes. 
+
+
+
+
+
+
+
+

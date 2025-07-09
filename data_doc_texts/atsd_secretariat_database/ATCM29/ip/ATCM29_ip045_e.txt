@@ -1,0 +1,85 @@
+﻿
+
+
+Fuel spill management in Antarctica: recent advances in first response and remediation
+
+
+
+
+
+Fuel spill management in Antarctica: recent advances in first response and remediation
+Introduction
+Fuel spills are widely recognized as posing a high risk to the Antarctic environment. Although marine spills are regarded as being the most ecologically damaging because the impact on wildlife can be immediate, many substantial spills also occur on land where the environmental impact is often not so apparent. Many of these spills continue to slowly migrate for decades after the initial incident, often releasing a pulse of contaminants into marine or lake ecosystems each summer with the seasonal thaw (Snape et al., 2006a).  
+Since 2000 the Australian Antarctic program has focussed its efforts on minimising environmental impacts from petroleum contamination by improving three critical aspects of fuel spill management: 
+    • protocols for prevention; 
+    • first response; and 
+    • remediation.
+Spill prevention is the most cost effective environmental protection measure and in the past 5 years a number of improvements have been made to Australian operations, including:
+    • detailed planning of fuel transfer operations;
+    • improved training; 
+    • comprehensive risk assessment; and 
+    • appointment of dedicated fuel transfer personnel.
+From the risk assessment, a number of improvements were identified for inclusion in a revised tactical plan for responding to oil spills, including:
+    • new and improved spill equipment;
+    • clear and easy-to-follow response protocols; and
+    • a web-based reporting procedure instigated as part of an organisation-wide Environment Management System certified to ISO 14001. 
+For terrestrial spills, preventing dispersal through surface and subsurface runoff, and remediating contaminated soil were identified as key technological problems that needed further research and development (Snape et al., 2001b). 
+Preventing spill migration
+The extent and rate of fuel migration or dispersal depends on the type of substrate. Where spills occur on rock, lateral dispersal is fast, evaporation is high, and recovery of ponded fuel is often possible. More typically though fuel migrates at boundaries between snow, ice and soil, or along specific soil horizons (Rayner et al., 2006; Snape et al., 2002). Where soil is frozen, there is commonly a basal ice layer or high ice content in soil pores that results in low infiltration rates. However, as the thaw proceeds infiltration occurs readily because most Antarctic soils are coarse grained. Further dispersal then occurs through a combination of overland and subsurface runoff. For subantarctic soils, subsurface contaminant migration dominates from the onset, and it is important to recognise that there are significant differences in soil substrate properties between locations within Antarctica and between the Antarctic and subantarctic (Delille et al., 2000; Rayner et al., 2006).   
+Traditional fuel spill booms are unable to prevent dispersal once subsurface transport begins. To address this, Australian-led research is evaluating permeable reactive barriers (PRBs) as a possible solution (Snape et al., 2001a). Successful small-scale field experiments have proven the general utility of PRBs in Antarctica (Figure 1). 
+
+
+Figure 1.Contaminated runoff is passively treated by adsorbent media in a PRB. In a small-scale field trial at Casey station, a fuel spill was treated using granular activated carbon. Fuel in subsurface water was measured at 2, 4 and 8 weeks (after Snape et al., 2001a).  
+A full scale pilot trial is currently underway in an attempt to halt the flow of a large plume at Casey station resulting from a spill in 1999. The pilot scheme illustrated in Figure 2 is evaluating several important design considerations aimed at preventing:
+    • frozen water clogging membrane and granular fill media;
+    • unfavourable sorption or precipitation reactions at low temperatures;
+    • granule disintegration or channel development as a consequence of freeze/thaw action; and
+    • media or barrier disturbance resulting from frost heave. 
+
+
+Figure 2. Antarctica’s first full scale PRB was deployed at Casey station in December 2005. Approximately 5000 L of fuel was spilled in September 1999. The permeable reactive barrier (PRB) was installed to prevent further migration of fuel through the catchment and to manage water, fuel and nutrients during proposed bioremediation activities. This barrier is being used to test several different granular media and has a comprehensive array of monitoring ports to monitor performance. 
+This technology is being developed as part of a suite of low-cost on-site remediation tools. With modification it is anticipated that PRBs will not only form an effective first response containment measure, but that they will also provide a long term barrier to fuel migration that will allow remediation using relatively slow but low cost on-site treatment options.
+Remediation options
+Once a spill has been contained, the next step is to remediate the contaminated soil. Recent studies at Casey station have shown that fuel spilled into snow evaporates in the early stages, with volatilisation of up to half the spilt material in the first few months (Snape et al., 2006a). During this time the remaining fuel spreads and penetrates into soil where it is unable to evaporate further. Once in the ground, rates of natural breakdown are very slow under Antarctic and subantarctic conditions (Snape et al., 2006a). Low soil nutrient concentrations (Ferguson et al., 2003a; Walworth et al., 2006), coupled with low temperatures (Ferguson et al., 2003b) and water-holding capacities that are either extremely low in Antarctic soils or extremely high in subantarctic soils mean that environmentally significant natural attenuation would take decades or centuries. 
+A number of remediation treatment options used in temperate regions have been considered for use in Antarctica (Figure 3).      
+
+Figure 3. Options for petroleum remediation. Costs and time are invariably higher in polar regions. Australia has evaluated several technologies and has decided that a combination of techniques (Option 3) is the preferred strategy for remediating terrestrial fuel spills. 
+Of the available options, natural attenuation (option 1) is too slow to avoid environmental impacts because dispersal and migration off-site can occur very quickly. Option 4 is certainly the fastest option, but the experience of removing the Thala Valley waste disposal site indicates that costs are very high. Also, there are a number of environmental impacts and risks associated with dig-and-haul and off-site treatment, including:
+    • enhanced permafrost degradation by removal of soil cover;
+    • loss of soil and associated soil resources;
+    • quarantine risks in the receiving country associated with importing soil from Antarctica; and
+    • transfer of potential environmental problems to the final disposal site.
+For these reasons, we have focused our attention on in situ and on-site treatment alternatives, using the PRBs to prevent migration off-site so that remediation over a 5-10 year time frame becomes feasible and environmentally acceptable.  
+Bioremediation
+Bioremediation is a system that uses indigenous soil micro-organisms to breakdown fuel through the careful management of parameters such as nutrients, water, heat and oxygen. Treatability evaluations on fuel spills at Casey station and subantarctic Macquarie Island indicate that much faster rates of degradation are possible by amending soil with the addition of nutrients and water (Ferguson et al., 2003a; Walworth et al., 2005), heating soil (Ferguson et al., 2003b), and in some instances by improving oxygenation by air sparging (Rayner et al., 2005). 
+For Antarctic spill remediation, there are two outstanding questions: (1) how clean is clean enough? and (2) how low can we reasonably go? There are currently no definitive petroleum clean-up guidelines specifically for Antarctic conditions. Recent research which assessed both the potential for off-site dispersal at different concentrations and the sensitivity of key soil processes to Australia’s Special Antarctic Blend fuel, indicates that concentrations of 150-500 mg fuel kg-1 soil might be desirable as a target for environmental protection (Snape et al., 2006b). This is similar to values used by several Arctic countries.
+Recent results from an in situ remediation field trial using controlled release nutrients provide a useful insight into the question of how low we can go. For highly contaminated soil, with ~16 000-20 000 mg fuel kg-1 soil, passive landfarming using only one application of slow-release fertiliser, yielded a highly degraded residual product with concentrations of approximately 1700 mg fuel kg-1 soil after 5 years (Figure 4). Importantly, the roles of volatilisation, aerobic biodegradation and anaerobic biodegradation were all identified as major contributors to the fuel degradation process (Powell et al., 2006; Snape et al., In preparation). The main conclusion from this study is that passive in situ biodegradation is possible, and that the rates are slow but reasonable. For most spills a relatively low-cost landfarming system should be sufficient to achieve low remediation targets in the 5 year time frame, although periodic tilling will be essential. For highly contaminated soil, techniques such as soil heating and volatile stripping will be required to achieve acceptable levels of ~150-500 mg fuel kg-1 in less than 10 years. 
+
+
+
+
+
+
+
+
+Figure 4. Results of a landfarming field trial at Casey station. A much greater decrease in fuel concentrations was observed over 5 years with nutrient addition. Easily degraded compounds such as n-alkanes (e.g. shown n-C17/pristane) decreased more in 3 weeks with nutrients present than in 5 years without treatment. Stippled bar is pre-treatment (from Snape et al. In preparation). 
+When fully developed, it is expected that this approach will be less costly and less damaging to the environment than traditional dig-and-haul and off-site disposal methods. 
+Conclusions and implications
+Australia’s efforts to improve protocols to prevent spills occurring, and to develop a tactical first response and on-site remediation strategy have reduced the risks associated with terrestrial fuel spills. Perhaps of equal importance has been a managed cultural change in the attitudes of expeditioners and staff. The importance of careful fuel handling, honest and prompt reporting and first response, and an ongoing commitment to clean-up is an organisational change that is now embraced at all levels.   
+Development of in situ and on-site treatment options for fuel spills has resulted in a sustainable low cost alternative to dig-and-haul and off-site disposal. This option values Antarctic soil as a precious resource that can still be safely reused as aggregate on stations or retained as a functioning part of the ecosystem. The scale and extent of existing terrestrial petroleum contamination in Antarctica is such that remediation by any other measure is likely to be prohibitively expensive. Australia’s approach is consistent with the intent of the Protocol on Environmental Protection to the Antarctic Treaty, specifically Annex III (Waste disposal and management), which establishes that past and present work sites should be cleaned-up provided removal by any practical option does not result in greater adverse environmental impact. 
+Australia’s research has shown that full scale on-site soil treatment is possible at a reasonable cost, and that spill response should not be limited to initial containment and recovery of surface fuel on soil and water. Instead, spill response should include the comprehensive restoration of soil such that off-site migration of fuel does not continue and that the local soil ecosystem can return to some semblance of normal function. This goal should be factored in when calculating the full impact of a fuel spill in financial terms, and should be considered when evaluating present and future liabilities arising from fuel spills. For historic spills at Australian Antarctic and subantarctic stations, a 10 year program of works has begun in an effort to remediate several large fuel spills.    
+Acknowledgements
+Australia’s Antarctic remediation research is undertaken through collaboration between the Australian Antarctic Division, University of Melbourne, Macquarie University, and industry partners BP and Veolia Environmental Services.   
+References
+Delille, D., Pelletier, E., Gerday, C., 2000. In situ bioremediation of oil spills in the Antarctic. Proceedings of the ninth SCALOP symposium, Tokyo, July 12, 2000., 177-194.
+Ferguson, S.H., Franzmann, P.D., Revill, A.T., Snape, I., Rayner, J.L., 2003a. The effects of nitrogen and water on mineralisation of diesel-contaminated terrestrial Antarctic soils. Cold Regions Science and Technology 37, 197-212.
+Ferguson, S.H., Franzmann, P.D., Snape, I., Revill, A.T., Trefry, M.G., Zappia, L.R., 2003b. Effects of temperature on mineralisation of petroleum in contaminated Antarctic terrestrial sediments. Chemosphere 52, 975-987.
+Powell, S.M., Snape, I., Siciliano, S., Ferguson, S.H., 2006. Anaerobic degradation in Antarctic soil remediation. Environmental Science and Technology 40, 2011-2017.
+Rayner, J.L., Snape, I., Walworth, J.L., Harvey, P.M., 2006. Petroleum hydrocarbon contamination and remediation by micro-sparging at subAntarctic Macquarie Island. Cold Regions Science and Technology, In review.
+Snape, I., Ferguson, S.H., Harvey, P.M., McIntyre, C., In preparation. Investigation of evaporation and biodegradation of fuel spills in Antarctica: III - results from a 5-year landfarming trial at Casey Station using controlled release nutrients. Chemosphere.
+Snape, I., Ferguson, S.H., Harvey, P.M., Riddle, M.J., 2006a. Investigation of evaporation and biodegradation of fuel spills in Antarctica: II - Extent of natural attenuation at Casey Station. Chemosphere 63, 89-98.
+Snape, I., Gore, D.B., Cole, C.M., Riddle, M.J., 2002. Contaminant dispersal and mitigation at Casey Station: An example of how applied geoscience research can reduce environmental risks in Antarctica. Royal Society of New Zealand Bulletin 35, 641-648.
+Snape, I., Morris, C.E., Cole, C.M., 2001a. The use of permeable reactive barriers to control contaminant dispersal during site remediation in Antarctica. Cold Regions Science and Technology 32, 157-174.
+Snape, I., Riddle, M.J., Stark, J.S., Cole, C.M., King, C.K., Duquesne, S., Gore, D.B., 2001b. Management and remediation of contaminated sites at Casey Station, Antarctica. Polar Record 37, 199-214.
+Snape, I., Siciliano, S., Schafer, A., Rayner, J.L., Riddle, M.J., 2006b. Development of petroleum remediation guidelines for polar regions. In: Gunn-Rike, A. (Ed.). 5th International Conference on Contaminants in Freezing Ground, Oslo, Norway, p. 1 pp.
+Walworth, J., Pond, A., Snape, I., Rayner, J.L., Harvey, P.M., 2006. Nitrogen Requirements for Maximizing Petroleum Bioremediation in a Sub-Antarctic Soil. Cold Regions Science and Technology, In Review.

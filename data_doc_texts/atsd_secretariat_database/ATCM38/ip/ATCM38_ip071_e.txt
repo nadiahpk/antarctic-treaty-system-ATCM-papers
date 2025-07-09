@@ -1,0 +1,94 @@
+﻿
+
+
+
+
+
+Environmental Monitoring at Jang-Bogo Station, Terra Nova Bay
+
+
+
+
+
+
+
+
+Environmental Monitoring at Jang-Bogo Station, Terra Nova Bay
+
+Information Paper presented by the Republic of Korea
+Summary
+Jang-Bogo Station, established by the Republic of Korea in the Northern Victoria Land, East Antarctica, was formally operated on March 17, 2014. Jang-Bogo Station has been designed as a permanent overwintering scientific base in Antarctica. The comprehensive environmental monitoring program was established and carried out by KOPRI to assess the impacts of human activities on the Antarctic environment and to devise effective mitigation measures. The level of the environmental impact of operation of Jang-Bogo Station is generally in compliance with the level expected in the final CEE. The monitoring program for the station will be optimized and improved. The results of the program will be made available to other operators and interested scientists.
+
+Background
+Jang-Bogo Station (74°37.4′ S / 164°13.7′ E), established by the Republic of Korea in the Northern Victoria Land, East Antarctica, was formally operated on March 17, 2014. Jang-Bogo Station has been designed as a permanent overwintering scientific base in Antarctica. The comprehensive environmental evaluation includes the commitment to carry out regular environmental monitoring of the station and surrounding environments to assess any post-construction impacts. Korea Polar Research Institute, the Republic of Korea’s principal agency for the Antarctic Program has established a comprehensive environmental monitoring program for the effectiveness of source control, mitigation measures, environmental management and monitoring throughout the operation of the station. The COMNAP guidelines have been followed by the monitoring program (ATCM XXVIII-CEP VIII Resolution 2). The monitoring program will be maintained as part of the major scientific researches and continuously reviewed and modified in coordination with other research activities.
+
+Objectives of Monitoring
+After several brainstorming sessions and revisions by scientists and operators, the following goals have been set to assess the impact of human activities on the station area:
+    • To demonstrate compliance to the requirements of the Environmental Protocol
+    • To obtain information that may show environmental changes/impacts around the Jang-Bogo Station that may result from station activities and related field activities
+    • To undertake monitoring activities for a period of five years before conducting a major review of the program
+    • To optimize existing equipment, station personnel and scientists
+    • To amend the structure and processes in the organization to ensure monitoring information is used in accordance with management decisions.
+Monitoring program
+The monitoring plan has been established to assess the impacts of human activities on the environment and to devise effective mitigation measures against any adverse impacts.
+The monitoring program includes; 
+    • Monitoring of source management and mitigating facilities
+    • Monitoring of environmental indicators
+    • Monitoring of ecological changes caused by anthropogenic impacts
+    • Long-term monitoring of environmental changes around the station area
+    • Database development and sharing
+Results
+Monitoring of source management and mitigating facilities
+
+Management of contamination sources consisted of monitoring fuel supply and use, energy generation and consumption. The wastewater treatment and waste treatment facilities and hydroponics have been on the lookout regularly by the operational personnel. The wastewater treatment facility of the bioreactor composed of SBR (Sequential Batch Reactor +Membrane Bio Reactor) was installed in the 2013/14 season and has functioned properly to date. The hydroponics manual following the CEP Non-Native Species Manual was provided to operators to guide facility operation and maintenance. The operators were trained to maintain a strictly quarantine environment and materials were handled to prevent invasion of non-native species.
+
+Monitoring of environmental indicators
+
+    • Footprints: The buildings and associated structures indicated in the final CEE of the station occupied the area. The temporary facilities for construction members were removed from the construction site by February 25, 2015. The field expeditions were carried out in three locations of the Northern Victoria Land with field camping during the 2014 summer season. All wastes and temporary facilities including equipment for scientific activities were removed from the camping sites.
+    • Discharge water quality: Total phosphorus, total nitrogen and coliform were analysed every week during 2014. Other parameters (such as BOD, COD, SS) are measured automatically in real-time since December 26, 2014. The average level of the parameters reported during 2014 and early 2015 are shown in Table 1. Most of the parameters showed lower values than suggested in the final CEE except total phosphorus. Aluminium compound (NaAlO2) to remove soluble phosphorus will be put in effect during 2015. and this measure will be applied during 2015.
+
+Table 1. The average level of discharged water quality at Jang-Bogo Station
+
+BOD (mg/ℓ)
+COD (mg/ℓ)
+SS (mg/ℓ)
+T-N (mg/ℓ)
+T-P (mg/ ℓ)
+Coliforms (CFU/ml)
+CEE
+< 5
+< 20
+< 10
+< 20
+< 0.2
+< 1,000
+Discharged water
+2.08
+7.34
+2.18
+11.18
+6.9
+1.56
+
+    • Soil quality: To obtain baseline data of soil quality around the station metals, TPH and PAH were analysed with the soil samples collected during 2011/2012 and 2012/2013 season. The parameters will be compared with those of from the following years. Soil sampling will be carried out every three years.
+    • Snow quality: The stable water isotopes, major ions, mineral dust, trace metals and persistent organic pollutants (POPs) in surface snow were measured. Anthropogenic contaminants in the surface snow were not found.
+    • Air quality: An automatic monitoring system for continuously measuring ozone, nitrogen oxide, sulphur dioxide, carbon monoxide and nitrous oxide in the atmospheric boundary layer was installed at the station. Tropospheric trace gas monitoring system has been operating normally, collecting data in real-time since February 11, 2015. Daily average NO and CO concentration were approximately 0.1 and 0.4 ppb, indicating that air pollutants are rarely generated in the Jang-Bogo Station.
+
+Monitoring of ecological changes caused by anthropogenic impacts
+
+    • Non-native species:  To detect possible introduction/passage of alien species both in terrestrial and maritime areas around the station, we set up the metabarcoding approach with high-throughput sequencing technology that leads fast and large-scale information for diversity and distribution of meiofauna. This approach has been found to be an effective tool for detecting and identifying species and will be performed every year. Based on the biodiversity data accumulated, we will track any introduction of foreign species and anthropogenic impacts on the ecosystem around the station so we can provide a baseline for subsequent management actions such as urgent eradication of invasive species, awareness of biological security and regular inspection. 
+    • Wildlife health: Long-term monitoring of the south polar skua (Stercorarius maccromicki) is carried out near the Jang-Bogo Station. To improve monitoring efficiency we have designed a manual for fieldworkers including measurement methods on nest location, egg size, clutch size and hatching success. In order to estimate the annual change of body condition of adult skuas, we included the bird banding method and have used standard measurement methods for body size and mass in the manual. A preliminary survey on the nest distribution of the south polar skua was conducted during the 2013/2014 austral summer season. Because the monitoring was launched after fledgling (season?) we could not count the number of nests. Accordingly we have estimated the number of breeding pairs with fledglings as the number of skua nests in this survey. A total of 51 breeding pairs of skuas were recorded in the study area and mean number of fledglings (± SD) was 1.3 ± 0.5 chicks per pair. To better understand the fluctuations of nest distribution and breeding success, further monitoring should be carried out based on the standard research manual from mid-November(egg laying season) to mid-January(fledgling season).
+    • Microbial diversity: Background research was conducted through a preliminary study on terrestrial biodiversity around the station for the long-term monitoring by human activities and climate change. The study aimed to characterize terrestrial biological diversity and physiochemical soil properties. The average TN, TC, TOC and TIC contents were 0.08%, 0.71%, 0.12%, 0.02%, respectively, and these values indicate very low content of organic matter. Most soil samples have constant major element compositions, reflecting bedrock compositions. However, significant variations that were found in some elements indicated the influence of different lithology. Thirty seven phyla were recognized, where the phyla of Actinobacteria, Chloroflexi, Proteobactera, Acidobacteria, Cyanobacteria, Bacteroidetes, Verrucomicrobia, Gemmatimonadetes, Planctomycetes, Armatimonadetes, Chlorobi were dominant.
+
+Long-term monitoring of environmental changes around the station area
+
+    • Meteorology and atmospheric physics: Regular meteorological observation and measurement for atmospheric physics studies started on April 11, 2014 based on automatic synoptic observation system (ASOS, WMO meteorological station number: 89859) and flux system, respectively.
+    • Monitoring of pCO2 and relevant parameters in the surface seawater: An automated instrumental system was installed at the station in January and February, 2015. The system can measure pCO2, temperature, salinity, chl-a, CDOM, dissolved oxygen, pH, turbidity in the seawater and atmospheric CO2 concentration, temperature, and pressure. All parameters are recorded every 1 minute except atmospheric CO2 concentration which is monitored every 6 hours. Seawater was supplied from a cove through an insulated pipe ～250 m long. Starting on Feb. 11, 2015, the data has been logged in a computer.
+    • Terrestrial microclimate: The logging system was installed to collect ground temperature, PAR, relative humidity, and soil moisture data at 18 sites around the station in February, 2014. The data was collected during the 2015 summer season and used for ecological studies such as analysing terrestrial microflora and micro-fauna distribution patterns.
+
+Database development and sharing
+
+The results of the environmental monitoring program will be made available to other operators and interestedscientists for data comparison and knowledge sharing purposes according to KOPRI’s data policy. The data will be deposited after necessary procedures at the Korea Polar Data Centre (KPDC) of KOPRI.
+Conclusion
+The monitoring program for the Jang-Bogo Station has been implemented from 2014, and will continuously be optimized and improved according to the guidelines provided by relevant organisations such as COMNAP. The level of the environmental impact of operation of Jang-Bogo Station is generally in compliance with the level expected in the final CEE. The results of the environmental monitoring program will be made available to other operators and interested scientists. The accumulated monitoring information will be used as in management decisions for the station operation. The monitoring activities will aim to provide valuable environmental and technological data that is useful for the development of both national and international projects in Antarctica.
+

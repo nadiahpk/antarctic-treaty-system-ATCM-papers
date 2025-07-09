@@ -1,0 +1,89 @@
+﻿
+
+
+
+
+
+Report on the 2015-2016 activities of the Southern Ocean Observing System (SOOS)
+
+
+
+
+
+
+
+
+Report on the 2015-2016 activities of the Southern Ocean Observing System (SOOS)
+Introduction
+The Southern Ocean Observing System (SOOS) is a joint initiative of the Scientific Committee on Antarctic Research (SCAR) and the Scientific Committee on Oceanic Research (SCOR), and endorsed by the Partnership for Observations of the Global Ocean (POGO), and the Climate Variability and Predictability (CLIVAR) and Climate and Cryosphere (CliC) projects of the World Climate Research Programme (WCRP).
+SOOS was launched in 2011 with the mission to facilitate the collection and delivery of essential observations on dynamics and change of Southern Ocean systems to all international stakeholders, through design, advocacy, and implementation of cost-effective observing and data delivery systems. 
+SOOS Implementation
+In 2015, SOOS finalised its 5-Year Implementation Plan, which is currently under external review by SCAR and SCOR.  All milestones and activities herein are reported against SOOS’ six key objectives as defined in the interim Strategic Plan.
+Milestones 
+Objective 1: Facilitate the design of a comprehensive and multi-disciplinary observing system for the Southern Ocean:
+    • Publication on ecosystem Essential Ocean Variables (eEOVs) for the Southern Ocean (accepted pending revision, Journal of Marine Science).
+    • Outreach with the global ocean observing community on Southern Ocean EOVs.
+    • Coordination of Southern Ocean contribution to the Global Ocean Observing System Biology Panel’s survey of sustained biological monitoring towards identification of global eEOVs.
+    • Review of OOPC-GCOS-GOOS EOV specification sheets for Southern Ocean requirements.
+Objective 2: Advocate and guide the development of new observation technologies:
+    • Implementation of a new Endorsement Category that supports technological research and development of observing techniques, platforms and sensors.
+    • Development of an Observations Under Ice Working Group (WG) with a core focus on use of new advances in ice-capable technologies.
+Objective 3: Compile and encourage use of existing international standards and methodologies, and facilitate the development of new standards where required:
+    • Organisation of a workshop for the SOOS-endorsed NECKLACE project.
+    • Development of Regional and Capability WGs that contribute to Objective 3.
+Objective 4: Unify and enhance current observation efforts and leverage further resources across disciplines, and between nations and programmes:
+Regional Working Groups (RWG):
+    • West Antarctic Peninsula Working Group (WAP WG):  Has preliminary SOOS approval and is building membership.  An information session will be held at the SCAR 2016 OSC, and a proposal has been submitted to the Royal Society (UK) for a focused WAP WG workshop.
+    • Southern Ocean Indian Sector WG (SOIS WG):  This WG has preliminary approval and is currently building membership.  An information session will be held at the SCAR 2016 OSC.
+Capability Working Groups (CWG):
+    • Southern Ocean Air-Sea Fluxes (SO-FLUX):  This WG has preliminary approval and is finalising Terms of Reference.  A meeting was held alongside Ocean Science Meeting to discuss key requirements for the pilot study.
+    • Censusing Animal Populations from Space (CAPS):  CAPS was officially approved by SOOS in October 2015 and is developing a detailed action plan.
+    • Ecosystem Essential Ocean Variables (eEOVs):  This WG has preliminary approval and is currently building membership.  An information session will be held at the SCAR 2016 OSC, a community paper has been accepted pending revision, and a community presentation was given (IMOS Planning, March 2016).
+    • Observations Under Ice WG:  Currently in development.  A proposal has been submitted to POGO for support of this effort.
+Task Teams (TT):
+    • Southern Ocean Satellite Data Task Team:  Submitted the community report and is currently addressing review comments.
+    • Field Projects Database: Currently building database back-end infrastructure, with delivery planned for September 2016.
+Key Products:
+    • Field Projects Database (see above).
+    • Satellite Data Report (see above).
+    • National Capabilities:  Currently available on the SOOS website, and will soon be provided in a more user-friendly format.
+Meetings/Workshops:
+Since May 2015, SOOS has presented or been represented at 21 meetings/workshops.  In addition, SOOS has held the following workshops:
+    • Implementation of a Southern Ocean Observing System (June 2015, Australia)
+    • Assessing the State of the Climate of the Southern Ocean (June 2015, Australia)
+    • Southern Ocean Air-Sea Fluxes (October 2015, Italy)
+Objective 5: Facilitate linking of sustained long-term observations to provide a system of enhanced data discovery and delivery, utilising existing data centres and programmatic efforts combined with, as needed, purpose-built data management and storage systems:
+    • Establishment and initial population of SOOS Metadata portal (NASA GCMD), support for community use of portal, driving national data centre connections to GCMD.
+    • Community consultation on and design of Field Projects Database (see Objective 4).
+    • Initiation of efforts towards a Southern Ocean mooring data repository (with OceanSITES) and NECKLACE data management.
+    • Involvement in SCADM (Canada, October 2015), Polar Data Forum (Canada, October 2015), and Ocean Sciences (USA, February 2016).
+Objective 6: Provide services to communicate, coordinate, advocate and facilitate SOOS objectives and activities:
+    • New SOOS website launched (www.soos.aq).
+    • SOOS network grown from 40 to 46 Affiliated Organisations, 3 successful endorsed projects, and a new national representative from Japan.
+    • 2015 SOOS Scientific Steering Committee meeting (June 2015, Australia - Minutes available at http://soos.aq/about-us/ssc/meeting-minutes)
+    • 2015 SOOS Data Management Sub-Committee meeting (June 2015, Australia - Minutes available at http://soos.aq/data/dmsc/dmsc-minutes)
+    • Inaugural Southern Ocean chapter in BAMS (State of Climate 2014) and, recently submitted, 2015 Southern Ocean chapter for BAMS State of Climate 2015.
+    • 3 Workshop Reports, 2 newsletter issues, 4 publications.
+    • Development of the SOOS Report Series for white papers, position statements, and community reports.  These are published in the SOOS Collection in Zenodo, ensuring they are citable and openly accessible.  Three reports were published in 2015.
+    • Agreement by all existing IPO sponsors for continuation of existing level of sponsorship for 2016 
+    • The Institute for Marine and Antarctic Studies at the University of Tasmania has extended the contract to host the SOOS International Project Office until mid-2018.  This hosting is supported under Australian Research Council’s Special Research Initiative for Antarctic Gateway Partnership (Project ID SR140300001). 
+Planned Activities for April 2016 - Onwards
+Implementation activities in 2016-2017 will focus on achieving the objectives and deliverables outlined in the SOOS 5-year Implementation Plan.  Specific activities already planned for this period include:
+    1) SOOS involvement in or organisation of the following meetings:
+    • Joint SOOS-SOCCOM Workshop (May 2016, Scripps, USA)
+    • 2016 SOOS Scientific Steering Committee meeting (May 2016, Scripps, USA)
+    • 2016 SOOS Data Management Sub-Committee meeting (May 2016, Scripps, USA)
+    • Joint CEP-SC-CCAMLR Workshop (May 2016, Punta Arenas, Chile)
+    • SCAR OSC SOOS Session, Delegates meeting, 2 x topical Town Hall meetings (August 2016, Malaysia)
+    • SCADM Meeting (August 2016, Malaysia)
+    • CLIVAR Open Science Conference (September 2016, Qingdao, China)
+    • CLIVAR-CliC-SCAR Southern Ocean Region Panel (September 2016, Qingdao, China)
+    • SCOR Executive Committee Meeting (September 2016, Sopot, Poland)
+    • International workshop on NECKLACE standards and data (Network for the Collection of Knowledge on Melt of Antarctic Ice Shelves) (October 2016, Sweden)
+    • Implementing an Under Ice Observing System (TBC, AWI Germany)
+    2) Finalisation of the 5-Year Implementation Plan, following international review.
+    3) Delivery of Key Products and Working Group milestones.
+
+SOOS thanks all of its sponsors for their support over the last few years, and for their continued assistance into 2016.
+SCAR will continue to keep the Treaty Parties updated on progress with the SOOS.  For further and more detailed information see www.soos.aq or contact the SOOS Executive Officer Louise Newman newman@soos.aq.
+

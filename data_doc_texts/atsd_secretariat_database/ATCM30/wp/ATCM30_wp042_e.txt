@@ -1,0 +1,214 @@
+﻿
+
+
+
+
+
+Antarctic Information Exchange: Importance of Unambiguous and Consistent Geo-referencing
+
+
+
+
+
+Antarctic Information Exchange: Importance of Unambiguous and Consistent Geo-referencing
+Executive Summary
+COMNAP and the ATCM continue the coordinated development of their respective Electronic Information Exchange Systems (EIESs). An essential objective is that these systems be able to exchange information between each other as appropriate, in particular to avoid duplication of data entry and to ensure consistency of information across systems. 
+This does however require effective, unambiguous and consistent geo-referencing of the information, and we are now at a stage of development where we need to confirm how we will achieve this. 
+This geo-referencing is best achieved through associating information directly with relevant Antarctic geographic and administrative features whenever applicable, and by identifying each feature with a persistent, unique Antarctic identifier (AQ-UID). This is essential for any geographic information system if countries are to share data
+This requires the use of two non-overlapping lists, one master list of administrative features (eg stations, refuges, airfields, visitor sites or ASPAs) and one master list of geographic features (eg islands, capes, coves, mountains or lands).  
+The list of administrative features would be an ATS master list maintained as appropriate by the Antarctic Treaty Secretariat and Parties. 
+The list of geographic features would need to be based on the existing Feature Catalogue and Composite Gazetteer of Antarctica, compiled exclusively from official national gazetteers over the last 15 years by successive SCAR geographic information groups to provide a sound basis for a master list of geographic features.    
+A clear, appropriate process would be put in place to manage the combined lists and allow Parties to view, check and provide corrections for those names assigned by their own national naming authorities. 
+This will provide for a more effective exchange of Antarctic information and better input into management decision processes – with benefits in many areas including safety of life, international collaboration or environmental management.
+It is recommended that the ATCM recognise the need for an unambiguous and consistent geo-referencing of Antarctic Exchange Information and support implementation of the preferred method: identifying each Antarctic administrative or geographic feature by a persistent, unique Antarctic identifier (AQ-UID).  
+
+_______________________________
+Antarctic Exchange of Information
+This paper deals with geographical references in the information exchange between the Antarctic Treaty Parties and their National Antarctic Programs (NAPs).  The information exchange between the Parties is carried out in conformity with Article VII.5 of the Antarctic Treaty, Article 17 and related articles of the Protocol on Environmental Protection and its annexes and relevant measures adopted by the Antarctic Treaty Consultative Meeting.  The NAPs exchange operational, permit or environmental information to address a number of essential management needs and objectives - in particular in areas such as safety of life, international collaboration and environmental management.  
+Although the information exchange under the Treaty and the Protocol was carried out originally by direct exchange between the Parties through diplomatic channels, during the last ten years there has been a strong tendency towards making the information available through the websites of the NAPs.  The 24th ATCM (St. Petersburg, 2001) decided in Resolution 6 to summarize the information exchange requirements of the different agreements and measures in a systematic way (see Appendix 4 of the ATCM XXIV Final Report) and to recommend Parties to provide this information to a central information exchange web site.  In 2005 the ATCM instructed the Antarctic Treaty Secretariat (ATS) to begin development of an electronic information exchange system, in consultation with other relevant organizations of the Antarctic Treaty System.
+The information exchange carried out within the framework of the Council of Managers of National Antarctic Programs is more directly connected with program requirements in the fields of logistics, transportation, communications, safety and health, but it proceeds from the same basic data reported under the Treaty System.  Current practice in COMNAP is also to make the information available through a central website, that of the COMNAP Secretariat.  The Electronic Information Exchange Systems therefore overlap to a considerable extent.
+Coordinated Development of Electronic Information Exchange Systems (EIESs)
+The Electronic Information Exchange Systems being developed for COMNAP and the ATCM should be coordinated wherever possible, so that these systems will be able to exchange information between each other as appropriate, in particular to avoid duplication of data entry and to ensure consistency of information across systems. 
+This will provide for a more effective exchange of Antarctic Management Information and better input into management decision processes – with benefits in many areas including safety of life, international collaboration and environmental management.
+The need for geo-referencing
+Most of the information exchanged has a geographic or spatial dimension and it is of significant importance to geo-reference it, that is to define its relation to one or more geographic locations, without any ambiguity.
+This importance is evident when it comes to safety – for example knowing without ambiguity: 
+    • where to search for a missing field party; 
+    • where to find an airfield for an emergency landing; or 
+    • where a navigation hazard has been observed. 
+
+This importance can sometimes be less evident when it comes to areas such as international collaboration or environmental management, but is certainly real – for example knowing without ambiguity: 
+    • if any vessels are scheduled to sail in an area that you need to survey; 
+    • which site a given site guideline or management plan applies to;
+    • which sites are included in a scheduled voyage; or 
+    • which zone a given contingency plan applies to.   
+
+As this information is exchanged throughout the entire Antarctic Treaty System, geo-referencing needs to be truly unambiguous for all parties, not just for those that reported the information.  
+As the information needs to be exchanged between information systems, geo-referencing also needs to be consistent across information systems, and to remain so over time.
+We are now at a stage of development where we need to confirm how we can achieve this effectively. This has important implications for the consistency, interoperability, useability and usefulness of our Electronic Information Exchange Systems. This includes immediate, practical implications for COMNAP and the National Antarctic Programs, and for their capacity to effectively support their governments in fulfilling their information exchange obligations. For example, as will be demonstrated during ATCM XXX, effective interoperability will allow Treaty Party representatives, in just a couple of clicks, to import significant portions of information required under Resolution 6 (2001) from operational information that their National Antarctic Programs already entered in the COMNAP systems - saving time and efforts for both Treaty Party representatives and National Antarctic Programs while guaranteeing consistency of information across systems.  
+Geo-referencing systems can be divided into two main types: Coordinate-driven and feature-driven, which will be explained in the following sections.
+Coordinate-driven geo-referencing
+For a random point, line or polygon feature somewhere out in the open the only option is usually to provide explicit geographic coordinates (latitudes and longitudes) in a specified geodetic reference system such as WGS84. This will for example be the case for the intermediate waypoint of a vessel, aircraft or tractor train during a voyage (a “point”), for the route followed by a survey vessel (a “line”) or for an area with heavy sea-ice cover (a “polygon”). 
+For example a simple waypoint would be geo-referenced by a combination of parameters such as:
+    • latitude: 68º33'40''S
+    • longitude: 143º26'22''E
+    • altitude: 347 m
+    • geodetic reference system: World Geodetic System 1984 (WGS84)
+
+Coordinate-driven geo-referencing has some problems and limitations, including: 
+    • it is not necessarily very intuitive and user-friendly;
+    • entry of detailed sequence of numbers is cumbersome and can be prone to entry error;
+    • tools, such as maps, available to ascertain coordinates may differ in precision and may not use the same geodetic reference system, so may not readily show the same coordinates for the exact same point; 
+    • Because data entry can be cumbersome, it is easy to decide to provide only the coordinates of a point as indicative position of a line or a polygon, which brings problems:
+    • it reduces the quality of the geo-referencing, with loss of information; and 
+    • different operators will often choose a different point for a line or a polygon, for example for a bay or an ASPA, and even a well intentioned person may not always use the same point; 
+    • the use of slightly different coordinates to identify essentially the same place introduces ambiguity and inconsistency and brings unwelcome complexity and unreliability in the identification of related information;
+    • it lacks context – for example you do not know if a latitude-longitude reference relates to the station located there, to the valley the station is built in or to the ASMA the station is included in.
+Feature-driven geo-referencing 
+Conveniently, a significant proportion of Antarctic Management Information is not associated with a random point, line or polygon somewhere out in the open but rather with a feature: 
+    • a geographic feature (eg an island, cape, cove, mountain or land); or 
+    • an administrative feature  (eg a station, refuge, airfield, visitor site or ASPA - which has already been defined in some manner).
+Each of these features has a number of properties, including coordinates and name(s), which can be adjusted as needed without affecting the tangible existence of the feature itself. Such adjustments may for example be necessary when coordinates are found to be inaccurate or not precise enough and need correcting or when a new or additional name is given.  
+This tangible existence of geographic and administrative features means that people easily relate to features. People can comprehend what a feature is and visualise it; they can easily remember features they have visited, seen on photos or worked on; and they can intuitively relate to a feature through a combination of name, general area it is located in, and the type of feature it is. 
+And referencing the feature itself does add context – instead of just specifying geographic coordinates it does provide additional information on an 'object' the information is related to.
+This gives us access to a simple, intuitive and consistent way of geo-referencing the information without any ambiguity, and add context: referencing to the feature itself, a unique object with a physical or administrative reality that people easily relate to and remember. 
+But how can this work in practice? In particular, how can we insert appropriate identification of the feature into the information? 
+Working from official, authoritative lists of features
+We can immediately disregard any unstructured method, for example a method whereby one would designate the feature by a freeform name entered in a text box. The chances for such methods to provide for unambiguous and consistent geo-referencing are essentially zero. In addition, this would lead to using many “unofficial” and often undocumented names, which would be bad practice but also inappropriate in “official” information systems set up by and for the governments of Antarctic Treaty Parties.   
+The only possible and realistic option is to work from an authoritative master list of features. You can use freeform names in a text box, or a map interface, as a means to search the lists of features. You can then select the appropriate feature from the options returned by the search or shown on the map. You effectively work with, and select features from, “official” lists only. 
+For geographic features this means using existing “national Antarctic gazetteers”, that is the official lists of names given to Antarctic geographic features by a number of Antarctic Treaty Parties through the relevant national naming authority. Looking at it with another, more feature-centric view, these gazetteers are not only lists of names but also lists of features, providing an official name and some coordinates for each feature. 
+For administrative features this would mean using an official ATS master list containing lists of protected areas, heritage sites, stations, refuges, etc...
+It is worth noting here that the existence of multiple parallel national gazetteers for the same region is unique to the Antarctic. For all other regions there is normally one authoritative national gazetteer published by the relevant sovereign nation. 
+The parallel national gazetteers concern mostly land features, although they also include a few names for undersea features (i.e. 11 submerged of almost submerged features named by the British Antarctic Place-Names Committee). This happens usually when National Place-Names Committees act upon the advice of their National Hydrographic Departments and only when these geographic features are relevant to in-shore navigation. Otherwise, as in the High Seas, the authoritative list has been entrusted to the International Hydrographic Organisation (IHO) and the Intergovernmental Oceanographic Commission (IOC). The list is maintained by GEBCO (General Bathymetric Chart of the Oceans) which operates under the auspices of IHO and IOC. 
+While the existence of multiple “national Antarctic gazetteers” for geographic features can complicate matters to some extent, with possibly adverse effects on safety and exchange of information, it does reflect the unique international nature and diversity of the Antarctic. The various national Antarctic gazetteers, with their names and the history behind them, are key elements of Antarctic’s history and heritage. 
+It is important to note here that, as will be shown later, a sound, unambiguous and consistent method of geo-referencing Antarctic Exchange Information that makes use of national Antarctic gazetteers can circumvent complications created by the parallel existence of multiple gazetteers. The adverse effects this can have on safety and exchange of information are virtually eliminated. It then provides great opportunities to defend and support the existence of these national Antarctic gazetteers and preserve the history and heritage associated with them.  
+Once we have selected a feature from one of the official lists, how can we insert appropriate identification of that feature within the information? In other words, what do we store inside, and exchange between, information systems?
+There is only one real satisfactory solution, which consists in giving each feature a persistent, unique Antarctic identifier (AQ-UID), one AQ-UID corresponding to only one feature and one feature corresponding to only one AQ-UID, and to consistently use this AQ-UID to identify the feature. 
+Before going any further we need to review the various solutions available to show why and how the unique AQ-UID solution constitutes the best if not the only solution. 
+Once selected from an official list, a gazetteer for a geographic feature or the ATS list for an administrative feature, a feature could be identified by:
+    • its coordinates - those indicated in the list;
+    • its name - that indicated in the list;
+    • a combination of names and coordinates;
+    • a list-specific identifier - which unambiguously identifies the list and the entry in this list, that is identifies each national entry about any feature - eg ‘CL732’ for feature 732 in the Chilean Gazetteer; or
+    • a unique Antarctic identifier (AQ-UID), eg ‘AQ-GF-6232’ - which unambiguously identifies the feature itself.
+Identifying a feature by coordinates
+This is similar to the case “geo-referencing with coordinates” described earlier, except that a relatively easy and reliable data entry process is used whereby you select the feature from a number of official gazetteers and the ATS list of administrative features, searching with a combination of names and coordinates. The feature is then referenced with the coordinates that the list used gives for that feature. There is of course loss of information, as this is not the feature itself that is referenced but merely its position. 
+Let’s take the example of one real geographic feature, the peak that appears in two national Antarctic gazetteers as “pico Falsa Aguja” and in two others as “Helmet Peak” with, as can be common, slightly different coordinates in each gazetteer. Depending on which national gazetteer you use you could end up with any of these four sets of coordinates:
+    • 62º41'S, 60º04'W 
+    • 62º41'00''S, 60º01'00''W
+    • 62º39'S, 60º02'W
+    • 62º39'S, 60º01'W
+Note that gazetteers usually provide latitude and longitude for one single point only and that the corresponding geodetic reference system may not necessarily be specified, either explicitly or implicitly. Many gazetteers would include the altitude if the information is available but it is not absolutely necessary to locate the feature. 
+Now, you could of course be lucky and have to reference a geographic feature which appears in only one national gazetteer, for example “Helmet Rock”, and you would have only:
+    • 71º20'00''S, 169º10'00''E
+
+However, it is quite obvious that this method has significant drawbacks, including:
+    • This is not the feature itself that is referenced but merely its coordinates – we lose context;
+    • The coordinates may, and often will, vary from one gazetteer to another;
+    • The information stored is larger in volume than for a unique identifier; and
+    • If coordinates of the features are corrected, because they were found to be inaccurate or new surveys allowed higher accuracy, references to the same feature will not be consistent over time. 
+Identifying a feature by name
+A relatively easy and reliable data entry process can be used, whereby you select the feature from a number of official gazetteers and the ATS list of administrative features, searching with a combination of names and coordinates. You then reference the feature with the name that the list used gives for that feature. There is of course loss of information, as this is not the feature itself that is referenced but merely one name for it, although loss of information is reduced if you specify which list you selected the feature from. 
+Taking again the example of Pico Falsa Aguja / Helmet Peak you could end up with either:
+    • Falsa Aguja, pico
+or
+    • Helmet Peak
+If you specify also which list you selected the feature from, you could end up with any of these four references:
+    • Falsa Aguja, pico (ar)
+    • Falsa Aguja, pico (cl)
+    • Helmet Peak (uk)
+    • Helmet Peak (us) 
+Though here again you could of course be lucky and have to reference “Helmet Rock”, and you could have only:
+    • Helmet Rock (nz) 
+But you could also be really unlucky and stumble upon “Cabo Wollaston”, identifying it with just:
+    • Wollaston, cabo
+
+without realising that there are two distinct “Cabo Wollaston” - on the same island but certainly distinct and distant enough to cause grief if you search for a small craft lost off Cabo Wollaston. 
+In any case, it is here again quite obvious that this method has significant drawbacks, including: 
+    • This is not the feature itself that is referenced but merely one of its names;
+    • The information stored is usually larger in volume than for a unique identifier; and
+    • If names change, references to the same feature will not be consistent over time. 
+
+There are additional drawbacks that can thankfully be significantly alleviated by specifying which list you selected the feature from.  These include:
+    • Names for the same feature may vary from one national gazetteer to another;
+    • The same name can be shared by two or more different features;
+
+
+Identifying a feature by a combination of name and coordinates
+This would be a combination of the two previous methods. You again use a relatively easy and reliable data entry process whereby you select the feature from a number of official gazetteers and the ATS list of administrative features, searching with a combination of names and coordinates. You then reference the feature with both the name and coordinates that the list used gives for that feature. There is of course still loss of information, as this is not the feature itself that is referenced but one name and set of coordinates for it. The loss of information is reduced by using a combination of both name and coordinates, and further reduced by also specifying which list you selected the feature from.
+Taking again the example of Pico Falsa Aguja / Helmet Peak you could end up with one of the following: 
+    • Falsa Aguja, pico (ar); 62º41'S, 60º04'W
+    • Falsa Aguja, pico (cl); 62º41'00''S, 60º01'00''W
+    • Helmet Peak (uk); 62º39'S, 60º02'W
+    • Helmet Peak (us); 62º39'S, 60º01'W
+
+While this provides richer information it is more complex. It increases the potential for inconsistencies and can somewhat complicate aggregation, analysis and exchange of the information. Most drawbacks of the two options it combines are retained.
+Identifying the feature by a list-specific identifier 
+Here, you would give an identifier to each official list (eg “DE”), then an identifier to each entry within each list (eg “237”) and combine those to produce a list-specific identifier (eg “DE237”) that unambiguously identifies both the list and the entry in this list. This would provide an unambiguous identification of the relevant entry - a pointer to the current name, coordinates and description given in that list for that feature. 
+You use the usual, relatively easy and reliable data entry process whereby you select the feature from a number of official gazetteers and the ATS list of administrative features, searching with a combination of names and coordinates. You then reference the feature with the list-specific identifier of the entry for that feature in the list you used for your selection.
+Using the Pico Falsa Aguja / Helmet Peak example, let us assume that the entries for the peak in the four national Antarctic gazetteers where it appears have been given the respective identifiers “1245”, “732”, “1024” and “987”. Depending on which list you selected the feature from you could end up with one of the following:
+    • AR1245
+    • CL732
+    • UK1024
+    • US987
+
+In one way, this is a significant improvement over previous methods. Not only is the reference simple and compact but it is now disconnected from the name and coordinates currently given in the relevant list for the feature. The reference does become consistent over time, and any update to the entry in the relevant list can be seamlessly applied to all existing references to that entry.
+However, we still have one significant problem. We do not have an unambiguous link between these four identifiers to indicate that they all correspond to the same feature. In other words, if a person enters an observation about feature CL732 and another person enters another observation about feature US987, there is no way to know with certainty that both observations relate to the same object. While one list-specific identifier corresponds to one feature only, one feature does not necessarily correspond to one list-specific identifier only.
+Coordinates can be used to try guess if the two features relate to the same object, but this cannot provide a mechanism to establish this relationship with consistence and certainty: coordinates given by two parties for the same feature can differ; the difference can be of the same order of magnitude than the separation between two different features, a feature can overlap with a number of other features, and so on... 
+In short, this method does still not allow for truly unambiguous geo-referencing of features. 
+Identifying the feature by a unique Antarctic identifier
+Here, you use a master list made of two non-overlapping lists, one for administrative features and one for geographic features. The combination of the two constitutes a mutually exclusive list of features - the same feature appears only once in the combined list and is given a unique Antarctic identifier (AQ-UID). We now have one identifier corresponding to one feature only AND one feature corresponding to one identifier only.
+The list of administrative features is simply the ATS list mentioned earlier. The list of geographic features is a direct compilation of all available official gazetteers, compilation in which all entries corresponding to the same geographic feature have been identified and grouped together. 
+Take the example of an administrative feature, a facility such as Vernadsky station. The entry for that feature would simply use the persistent AQ-UID allocated to the station in the ATS master list, which could be something like “AQ-A-F-VKY” (‘A’ for the administrative list, ‘F’ for the sub-list for facilities and ‘VKY’ as unique facility identifier), and the geo-reference could look something like:
+    • AQ-A-F-VKY
+
+For a geographic feature, take again the example of Pico Falsa Aguja / Helmet Peak. The four different national entries for the peak would be grouped together and given the same unique UID, for example “AQ-G-6232” (‘AQ’ for Antarctica, ‘G’ for the list of geographic features and ‘6232’ for feature number 6232). Whichever official gazetteer you use to select the feature, it is always identified by its unique AQ- ID, with something such as:
+    • AQ-G-6232
+
+As a precaution, you could also note as additional information which national entry was used to access/find the feature. This would cater for the rare case where an entry was wrongly assumed to correspond to the same feature than a group of other entries, and allow painless, accurate back-correction. The geo-referencing could then be something like:
+    • AQ-G-6232 (ar) 
+
+In the master list for geographic features the entry for that feature, which the simple references shown above would point to and draw their information from, could look something like:
+    • AQ-G-6232
+    • (ar) Falsa Aguja, pico; 62º41'S, 60º04'W
+    • (cl) Falsa Aguja, pico; 62º41'00''S, 60º01'00''W
+    • (uk) Helmet Peak; 62º39'S, 60º02'W
+    • (us) Helmet Peak; 62º39'S, 60º01'W
+
+This method of geo-referencing is clear, simple, unambiguous and consistent, and will remain so over time. It has many clear benefits, including:
+    • It is not dependent on the name or coordinates that appear in the list used at the time of data entry; 
+    • Any update of coordinates or names given by any national authority to the feature will seamlessly apply to all existing references to this feature as soon as this update can be incorporated in the master list;
+    • All information relating to the same feature is readily and easily identified as such; 
+    • Information systems can be configured to show each reference to a feature in a variety of ways, including:
+    • Showing all its names - to reduce risks of misunderstandings; or
+    • Showing only, or more prominently, names given by your own country - to give you faster, more intuitive recognition of the feature in question. 
+    • It does indirectly allow and support the seamless existence of parallel national Antarctic gazetteers without negative impact on safety and on exchange of information - with all the benefits it brings to preserving the history and heritage associated with these gazetteers.  
+The Preferred Geo-Referencing Solution
+Of the four options outlined above, clearly the preferred solution for geo-referencing Antarctic Exchange Information is to identify each relevant geographic or administrative feature using a persistent, unique Antarctic identifier (AQ-UID).
+In the case where it does not relate to an administrative or geographic feature but rather to a point, line or polygon out in the open, then this will be geo-referenced using an appropriate set of coordinates in a specified geodetic reference system. 
+Allocation of the persistent, unique AQ-UIDs is done through putting together and maintaining two non-overlapping master lists - one ATS master list of administrative features and one master list of geographic features compiled from official gazetteers.
+Identifying with a persistent, unique AQ-UID a geographic or administrative feature selected from official lists provides a clear, simple, unambiguous and consistent geo-referencing solution. It also has the added benefit of supporting the seamless existence of parallel national Antarctic gazetteers without negative impact on safety and on exchange of information - with all the benefits it brings to preserving the history and heritage associated with these gazetteers.
+There is however a significant hurdle. This geo-referencing solution can only be implemented once there are two solid, well structured and reliable master lists - one master list of administrative features and one master list of geographic features. 
+Master list of administrative features
+A master list of administrative features will contain features such as facilities (stations, refuges, airfields, depots), Antarctic Heritage Sites, Antarctic Specially Protected Areas or Antarctic Specially Managed Areas. 
+Constructing and maintaining effectively such a list is not an insignificant enterprise but is reasonably simple and not overly challenging. The number of administrative features is relatively limited. The information is currently available in various formats but in a limited number of locations.  Most of the hard work in developing processes to effectively maintain this information has already been done by the Antarctic Treaty Secretariat and COMNAP as part of their coordinated development of Electronic Information Exchange Systems. Authority for naming and description of these administrative features will rest, as appropriate, with either the Antarctic Treaty itself (for ASPAs, ASMAs, etc...) or the relevant Treaty Party (for its stations, refuges, airfields, etc...)
+Master list of geographic features
+Establishing a master list of Antarctic geographic features compiled from all available national Antarctic gazetteers is a much more challenging task, which requires an effort of a totally different magnitude. We have to deal with some 33,000 sets of names and coordinates from more than 20 national Antarctic gazetteers. These need to be carefully examined to ascertain which different names from different lists showing often slightly different coordinates do actually correspond to the same feature. This is a long and arduous work that requires among other things a classification of features in a number of types using descriptive portion of names expressed in various languages and, when available in the gazetteer, descriptions of features. This is not a dismal task.
+Thankfully this huge, valuable work has already been done over the last 15 years by successive geographic information groups of the Scientific Committee on Antarctic Research (SCAR), and in particular by Roberto Cervellati and Chiara Ramorino from the Italian Programma Nazionale di Ricerche in Antartide (PNRA).
+The result of their work is the very comprehensive and valuable Composite Gazetteer of Antarctica (CGA - http://www3.pnra.it/SCAR_GAZE).  As at 01 January 2007, this composite gazetteer contained 35,599 names, all “official” names listed in 23 official Antarctic place name gazetteers. These 35,599 names have been identified as corresponding to a total of 17,913 features and each of these features has been assigned a persistent, unique feature identifier (UFI).
+For example, our familiar Pico Falsa Aguja / Helmet Peak appears in the composite gazetteer under the UFI “6232”, classified as a feature of type 2-d (Elevated Features - High Summits) and showing the four different national name-coordinates entries for the peak.    
+While the Composite Gazetteer includes a small number of administrative features as they may appear in some national Antarctic gazetteers, these are clearly identified as features of type “man-made features” and can be easily extracted to avoid any inconsistent overlaps with an ATS master list of administrative features.  
+The SCAR Standing Committee on Antarctic Geographic Information (SCAGI) is also in the process of mapping the named features in the Composite Gazetteer to a Feature Catalogue. The Feature Catalogue provides a more precise classification of features than those used in the Composite Gazetteer.
+Conclusions
+There is a requirement for effective, unambiguous and consistent geo-referencing of Antarctic Exchange Information, and we are now at a stage of development where we need to confirm how we will achieve this. 
+This geo-referencing is best achieved through associating information directly with relevant Antarctic geographic and administrative features whenever applicable, and by identifying each feature with a persistent, unique Antarctic identifier (AQ-UID). 
+This requires the use of two non-overlapping lists, one for administrative features maintained as appropriate by the Antarctic Treaty Secretariat and Parties and one for geographic features to be based on the Feature Catalogue mapped to the existing Composite Gazetteer of Antarctica, compiled exclusively from official gazetteers.  A clear, appropriate process would be put in place to manage the combined lists and allow Parties to view, check and provide corrections for those names assigned by their own national authorities. 
+Recommendations
+It is recommended that the ATCM consider these conclusions and:
+    • Recognise the need for an unambiguous and consistent geo-referencing of Antarctic Information and its importance for an effective exchange of information and better input into management decision processes - with benefits in many areas including safety of life, international collaboration or environmental management;
+    • Recognise the value of implementing a geo-referencing method whereby each Antarctic administrative or geographic feature can be unambiguously and consistently identified by a persistent, unique Antarctic identifier (AQ-UID);
+    • Confirm that these unique Antarctic identifiers should correspond and be allocated to features listed in official lists only - official gazetteers for geographic features; official documents of the ATCM and relevant Treaty Parties for administrative features;  
+    • Recognise that the existing Composite Gazetteer of Antarctica and Feature Catalogue, developed over the last 15 years by successive SCAR geographic information groups, provide a sound basis for a master list of geographic features, from which could be derived unique Antarctic identifiers (AQ-UIDs) for these geographic features;
+    • Support the development and implementation of the above-mentioned geo-referencing method by the Antarctic Treaty Secretariat and COMNAP in collaboration, where needed, with the SCAR Standing Committee on Antarctic Geographic Information that manages  the Composite Gazetteer and Feature Catalogue;
+    • Encourage relevant national naming authorities and hydrographic and geographic agencies to collaborate as appropriate to the development and implementation of this geo-referencing method and associated tools.  
+

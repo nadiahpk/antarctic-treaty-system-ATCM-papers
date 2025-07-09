@@ -1,0 +1,171 @@
+Operations and Scientific use of Remotely Piloted Aircraft Systems
+(RPAS) in Antarctica: a review
+Operations and Scientific use of Remotely Piloted Aircraft Systems
+(RPAS) in Antarctica: a review
+Information Paper submitted by United Kingdom
+Summary
+The use of Remotely Piloted Aircraft Systems (RPAS) has increased
+since their first introduction in the mid-2000’s with the type and
+range of platforms in use becoming increasingly complex and
+diverse. The British Antarctic Survey (BAS) has experience of using
+a range of RPAS systems including the routine use of quadcopters
+and small RPAS flying in visual line of sight (VLOS), in segregated
+airspace. More recently, BAS has trialled operations of larger, more
+capable, RPAS platforms that are integrated into crewed aviation
+airspace, and operate beyond visual line of sight (BVLOS). This
+paper describes BAS experience, the protocols developed, lessons
+learnt and observations on fuel efficiencies.
+Introduction
+Quadcopters and small RPAS are used regularly and routinely fly in
+visual line of sight (VLOS) operations, in segregated, controlled and
+well managed airspace. The British Antarctic Survey (BAS) operate
+more than 20 small RPAS on stations, vessels and at field locations
+as described below. In recent years, operations of larger, more
+capable RPAS have started to be integrated into crewed aviation
+airspace, operating beyond visual line of sight (BVLOS).
+BAS has around 20 years’ experience in the use of small RPAS in
+visual line of sight. To enable responsible flying, and mitigate any
+potential environmental impacts of RPAS, BAS has created a RPAS
+Regulation manual which is updated regularly to include UK Civil
+Aviation Authority (CAA) guidance and rules.
+Further development of concept of operations (CONOPs) for
+emerging larger, more complicated RPAS and BVLOS operations are
+now required to effectively manage Antarctic airspace. Similarly,
+COMNAP, SCAR, ATCM and other interested parties in Antarctica
+have continued to create guidance for RPAS use in Antarctic
+operations and mitigate environmental impacts.
+BAS recent utilisation of RPAS use in Antarctica
+Vessels
+Common RPAS quadcopter use includes, supporting vessel
+navigation through ice, surveying iceshelf conditions for
+deployment of cargo, and initial surveys of icebergs such as the
+recent observations of A23a. Also, science observations of marine
+wildlife have routinely been undertaken.
+Stations
+On station RPAS quadcopters now routinely conduct inspections of
+masts and buildings. They aid the production of Computer Aided
+Design (CAD) models, the production of routine mapping of stations
+and monitor snow accumulation. More
+recently, they have provided runway pilot orientation photos, and
+aid the safe distance monitoring of propagating cracks/crevasses in
+areas of frequent travel.
+Field Locations
+At field locations most of the flying is for science activities as shown
+in Figure 1. This is carried out by quadcopters and eBee X RPAS.
+The routine operations RPAS quadcopters flying that does occur is
+to establish safe routes for tractor traverses or for local area travel
+on foot.
+Highlighted examples
+Over the last three seasons the Mapping and Geographic
+Information Centre (MAGIC) at BAS has used the eBee X to
+complete much of BAS wildlife census and local area mapping (see
+figure 2). Use of the eBee X, including BVLOS operation, is now
+well established (see Figure 1).
+Figure 1: Image showing fixed-wing eBee X RPAS in flight while
+conducting a minimum snow cover survey over Rothera Research
+Station, Antarctica.
+Figure 2: Map showing RPAS flying locations (red dots) around
+Antarctica.
+During the 2022/23 season BAS undertook flight trials with UAVE
+Prion3 (Figure 3) to progress BAS understanding of larger RPAS,
+this activity has been ongoing since 2018 with the training of BAS
+staff as pilots.
+Figure 3: Image showing UAVE Prion3 RPAS at Rothera.
+During the recent 2023/24 Antarctic season BAS trialled a 10-metre
+wingspan twin engine RPAS. The Windracers Ultra (Figure 4) was
+operated from the Rothera runway to demonstrate the ability to
+routinely collect science data. The delivered case studies include
+magnetics and gravity for geology, visual and hyperspectral
+imagery for mapping, environmental monitoring and marine krill
+detection, and a turbulence probe providing meteorology. A
+package delivering 2978 km of flying. Details of the flying can be
+seen in Figure 5.
+Figure 4: Windracers Ultra UAV on Rothera Runway.
+Figure 5: Extent of Windracers Ultra UAV flying in Antarctic
+2023/24 season.
+RPAS CONOPs and regulations
+From the early use of RPAS BAS developed CONOPs and regulations
+based on the experience of its Air Unit and current UK Civil
+Aviation Authority regulations. By following principles of aviation
+shown in Figure 6 with an RPAS context the BAS RPAS manual
+manages smaller quadcopters and fixed wing, as well as the large
+complicated and BVLOS RPAS. With larger BVLOS RPAS being
+flown BAS has created further CONOPs. The RPAS manual is under
+constant review to include latest best practice and guidance from
+the UK CAA.
+The RPAS manual details i) environmental impact assessment, ii)
+due diligence, iii) health and safety, iv) NOTAMs, v) airworthiness,
+vi) pilot requirements, vii) location requirements, viii) CONOPs, ix)
+use on vessels, x) use from runways/skiways, xi) weather
+limitations, xii) RF spectrum management, xiii) reporting, xiv)
+battery charging, xv) lithium battery transportation, xvi) use
+activity, and xvii) risk management.
+Figure 6: RPAS aviation principles.
+BAS has introduced audits for the emerging BVLOS and large RPAS,
+during this process BAS verifies aircraft, pilot, CONOPs,
+maintenance, documentation, and reporting.
+Observations of fuel economy
+The use of appropriately sized and configured RPAS aircraft has the
+potential to make significant (circa 70%) fuel savings in some
+science mission profiles. On the other hand, in high payload mission
+profiles (100s kg+) then current manned aircraft may be up to
+twice as fuel efficient as current RPAS options. In all cases, it will
+be necessary to properly understand and account for the logistics
+overhead of deploying and operating RPAS aircraft to Antarctica.
+Lessons learned
+Effective planning and permitting systems are key to making sure
+pilot and aircraft are suitable.
+Complete understanding of RPAS performance is required to
+operate RPAS within the Antarctic environment.
+Accurate real-world description of aircraft capabilities i.e., what is
+the actual range that can be flown with actual payload and
+available fuel.
+Large complicated RPAS require a skilled experienced pilot.
+Integrated satcom on RPAS will vastly increase operability and
+awareness of RPAS location, in 2024 the Ultra demonstrated
+effective flight over Starlink (refer to UK IP Report on Low Earth
+Orbit communication systems trials for further information on
+Starlink).
+Modern quadcopters provide robust and simple RPAS capability for
+local areas in VLOS.
+Self-build RPAS don’t provide the reliability or airworthiness to
+deliver safe and responsible BVLOS RPAS flying.
+Due diligence prior to deployment such as testing, and audits are
+key to mitigating potential incidents. Successful flying is more likely
+to occur after communication with crewed aircraft pilots and those
+responsible for airspace management.
+Good CONOPs and checklists are required to reliably operate RPAS.
+Effective airspace monitoring, aircraft tracking and relaying of
+information by the Rothera tower was key to enabling the
+Windracers Ultra flying.
+Operation in integrated airspace for large RPAS suitable CONOPs
+are required, BAS began in 2024 with the Ultra flying, work is still
+required to fully operate in integrated airspace.
+Identifying safe location for charging lithium batteries is key to
+mitigating potential fire and loss of infrastructure.
+To maximise fuel efficiency it is necessary to properly understand
+and account for the logistics overhead of deploying and operating
+RPAS aircraft to Antarctica. The most credible Antarctic operating
+models necessitate a well-considered synergy between RPAS and
+manned aviation to achieve the desired science and environmental
+benefits. The RPAS situation is nuanced but has great potential. At
+this point accurate and balanced analysis is vital to inform strategy.
+Challenges
+Detection and mitigation of icing on RPAS. With light weight ice
+detection sensors, the confidence to fly in wider weather conditions
+would be realised. Including a de-icing capability would achieve
+further improvements.
+Various conspicuity and platform tracking systems would
+complement the situational awareness of all involved in aircraft
+operations. These systems include ADSB, Mode S transponders and
+integration into air traffic portals such as Flightradar24 and AFF,
+plus NOTAMs.
+Management and integration of RPAS into existing crewed airspace.
+Suitable fully tested, CONOPs are required to allow the full
+utilisation of RPAS, currently time or spatial segregation are used,
+this limits the effectiveness of RPAS. Ultra flying at Rothera started
+the integration of RPAS and crewed flight operations. Through
+engagement with COMNAP Air Operations Expert Group best
+practice and knowledge can be shared to arrive at well thought out
+and proven CONOPs that will allow the effective utilisation of
+RPAS.

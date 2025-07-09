@@ -1,0 +1,333 @@
+Report on Refurbishment and Modernization of the German
+Antarctic Receiving Station GARS O’Higgins
+Report on Refurbishment and Modernization of the German
+Antarctic Receiving Station GARS O’Higgins
+Information Paper submitted by Germany
+Summary
+The renovation and modernization of the German Antarctic
+Receiving Station GARS O’Higgins at the Antarctic Peninsula was
+planned and funded by the German Aerospace Center DLR and was
+kicked off in the year 2017. The overall aim of this project is to
+sustain the station in overall layout and purpose as is, but to
+achieve up to date infrastructure and technological equipment and
+to reduce the environmental footprint of ongoing station operations.
+From 2018 to 2020, the technical proposal for the refurbishment
+and modernization of GARS O’Higgins has been developed by a
+German engineering company, supported by a Chilean service
+company. During that time, the tendering process was started as
+well.
+In 2020, DLR submitted the Initial Environmental Study (IES) to the
+German Environment Agency (Umweltbundesamt - UBA) as the
+National Competent Authority (NCA). Based on the IES, UBA
+conducted the Initial Environmental Evaluation (IEE) during the
+same year. The evaluation states that the planned activities give
+cause to suspect only minor and transitory impact on the Antarctic
+environment. The approval to conduct the refurbishment and
+modernization was given with conditions to ensure that the
+requirements of the Act Implementing the Protocol on
+Environmental Protection to the Antarctic Treaty are met. End of
+2020, the on-site work was started in the Antarctic.
+The project is slightly delayed through the pandemic for several
+reason, but is nevertheless progressing well. Major goals are
+achieved and it is planned to finalize the work by the end of 2023.
+In the following the station background, activities in detail, status
+of the project and measures for reducing the environmental impact
+are described.
+Background
+The German Antarctic Receiving Station GARS O’Higgins at the
+Antarctic Peninsula is a multi-purpose facility for Earth observation
+and geodesy since more than 30 years. It serves as a satellite ground
+station for payload data downlink and telecommanding of Earth
+observation satellites as well as a geodetic observatory for
+determination of global reference frames, continental drift, Earth
+rotation parameters and radio astrometry. Both applications use the
+same 9 m diameter radio antenna. The German Antarctic Receiving
+Station is owned and primarily operated by the German Aerospace
+Center DLR. DLR is the national aeronautics and space research
+centre of the Federal Republic of Germany.
+The German Antarctic Receiving Station GARS O’Higgins is located
+in direct neighbourhood to the Antarctic Base of the Chilean Army
+General Bernardo O’Higgins, on the island Isabel Riquelme at the
+northern tip of the Antarctic Peninsula (63.32°S, 57.90°W). It is
+jointly utilized by the German Aerospace Center (DLR) and the
+Federal Agency of Cartography and Geodesy (BKG). The station
+operation is organized in cooperation with the Chilean Antarctic
+Institute (INACH).
+A manifold support in overall station operations and logistics is
+obtained under Chilean responsibility by the Chilean army (Ejercito
+de Chile). The carriage of freight and passengers from Punta Arenas
+via King George Island to O’Higgins is realized by the Chilean air
+force (FACh) and the Chilean naval forces (Armada de Chile), the
+Brazilian Antarctic Program
+(PROANTAR) and the Brazilian air force (FAB). The operations and
+maintenance of the station infrastructure is supported by a private
+Chilean service company (Servimet).
+Research
+GARS O’Higgins was constructed in 1989-1991 and was planned to
+act as satellite ground station for the, at this time, upcoming
+European Remote Sensing satellites ERS-1 and ERS-2, and as the
+first station on the Antarctic continent supporting very long
+baseline interferometry (VLBI) measurements. In the past the
+station was continuously upgraded to keep pace with technological
+progress. For example, it was complemented by additional
+measurement systems like GNSS (Global Navigation Satellite
+System) receivers, a PRARE (Precise Range And Rangerate
+Equipment) system, or tide gauges. Additionally, also the satellite
+data receiving chain was upgraded by more sensitive and more
+reliable demodulators and further equipment. 20 years of reception
+of radar data from the ERS-1 and ERS-2 satellites generated a
+unique data set of remote sensing data over the Antarctic Peninsula
+and the surrounding area. This data set was and is still used in
+various research fields. Today it plays an important role as a
+satellite ground station supporting mainly Earth observation
+missions, and as fundamental geodetic point in Antarctica for the
+realization of global reference frames and monitoring crustal
+motions. The geodetic VLBI experiments are usually performed once
+or twice a month, while the IGS reference stations (GNSS receivers)
+and the meteorological station yield continuous time series. From
+1991 to 2010, the operation on site was mainly done campaign-
+wise during the Antarctic summer. However, with the launch of the
+German TanDEM-X satellite in 2010 and the close formation flight
+of the two German satellites TerraSAR-X and TanDEM-X a year-
+round station operation was necessary. This was especially
+important for generating a digital elevation model of the land
+surface of the whole Earth. This digital elevation model achieved
+unprecedented accuracy and uniqueness as a global data set. The
+TerraSAR-X data are continuing the data set established with ERS-1
+and ERS-2 and furthermore the digital elevation model also
+comprises Antarctica and is currently being updated (second
+version) especially for the Antarctic coastal zones.
+As a satellite ground station GARS O’Higgins is part of the global
+ground station network of the DLR’s German Remote Sensing Data
+Center (DFD) with ground station location in the Arctic, Antarctic
+and of course Germany.
+For space geodesy and astrometry, the radio telescope GARS
+O’Higgins significantly improves the coverage on the southern
+hemisphere and plays an essential role within the global Very Long
+Baseline Interferometry (VLBI) network. In particular, the
+determination of the Earth Orientation Parameters (EOP) and the
+coverage of the International Celestial Reference Frame (ICRF) are
+benefitting from the location at high southern latitude. Further, the
+resolution of VLBI images of active galactic nuclei (AGN), cosmic
+radio sources defining the ICRF, drastically improves when
+O’Higgins is included in the network. The various geodetic
+instrumentations and the long-term time series at GARS O’Higgins
+allow a reliable determination of crustal motions.
+The outstanding location on the Antarctic continent makes GARS
+O’Higgins also in future attractive for polar orbiting satellite
+missions and an essential station for the global VLBI network.
+Rationale for Refurbishment and Modernization
+The station was built from 1988 onward and was set into operations
+in the year 1991. The station has always been continuously
+maintained. Station components where improved and especially the
+technical station equipment was renewed as necessary.
+Nevertheless, parts of the technical equipment are used from the
+very beginning on and are thus more than 30 years old. Those parts
+(e.g. the diesel engines for generating power) are no longer state of
+the art and need either to be completely replaced (e.g. fuel storage,
+diesel generators,
+inverse osmosis) or basically refurbished (e.g. container modules).
+Furthermore, the station construction in the original building phase
+followed design principles and safety regulations of time of station
+set up. Especially the safety regulations, including measures for
+environmental protection, are changed and much more
+comprehensive now and necessary adoptions have to be performed.
+Therefore, a package of measures was decided, without significantly
+changing the station layout as such.
+Overview of Refurbishment and Modernization Measures
+The station consists of three main facilities: the research station
+composed of a set of containers housing technical equipment for
+operating the satellite station and the radio telescope providing
+living and sleeping accommodation, the supply station comprising
+infrastructure for power generation, water supply, sewage plant and
+workshop etc. and the antenna system as such. The main measures
+for refurbishment concentrate on two aspects.
+Technological/technical modernization of the antenna system. The
+antenna system is very well maintained and provides the reception
+of satellite data with a very high reliability (> 99 %). The basics of
+the antenna control, antenna gears and motors, cabling etc. needs
+an upgrade to state of the art technology.
+Infrastructure: diesel generators, UPS, fuel storage, inverse osmosis,
+electrical installation and other technical details have to be
+renewed. But there is also improvement in structural fire protection
+necessary in order to achieve the current safety regulation in fire
+protection. In addition, a decrease of the environmental impact and
+the reduction of human footprint shall be achieved.
+The built-up area of the station buildings as such will not be
+significantly changed. The first of the named facilities (a set of
+containers housing technical equipment for operating the satellite
+station providing living and sleeping accommodation) will nearly be
+not affected at all, only two server room containers are added. The
+second named facility (the station infrastructure part with power
+generation, water supply, sewage plant, etc.) needs modifications of
+the internal floor plan, renewal of the foundations, replacement of
+the majority of the containers building this structure and renewal of
+the exterior cladding of the building, but the building location stays
+the same and the built-up area will be increased only slightly at the
+southwestern building corner. Finally, the antenna system, being a
+special construction is anyway only affected in the technical parts
+and the whole foundation, steel structure and mechanical
+construction will not be touched.
+Figure 1a: Layout of the station GARS O’Higgin.s
+Figure 1b: Design of the modernized supply station including
+position of the new double-shell stainless steel tank containers - 3D
+view.
+Initial Environmental Study & Evaluation / Environmental Impact
+Mitigation Measures
+For the approval of the refurbishment and modernization project,
+DLR was preparing an Initial Environmental Study (IES). The IES
+would be available from DLR, but is available in German language
+only. The IES covers the following topics:
+Overview and context.
+A description of the station itself, as well as the environment,
+including all protected assets.
+The necessary renovation/modernization activities that will be
+carried out at the station, including the objective, location, and
+schedule.
+An analysis potential environmental impacts and proposes
+mitigation measures to minimize them.
+And finally the conclusions and summary of environmental impacts.
+In 2020, DLR submitted the IES to the UBA as the NCA, for
+approval of the project. As the project was expected to have minor
+or transitory environmental impact UBA had to obtain a statement
+from the national Committee of independent scientific experts. The
+Federal Agency for Nature Conservation (BfN) as the consent
+authority with regard to the protection of flora and
+fauna was also involved in the approval process. Based on the IES
+and opinions from the Committee and the BfN, UBA conducted the
+IEE and concluded, that the planned activities give cause to suspect
+not more than minor and transitory impact on the Antarctic
+environment. However, the approval to conduct the refurbishment
+and modernization was given with conditions to ensure that the
+requirements of the Act Implementing the Protocol on
+Environmental Protection to the Antarctic Treaty are met. End of
+2020, the on-site work was started in the Antarctic.
+An important IES consideration is gentoo penguins breeding in the
+immediate vicinity of the station buildings and associated
+mitigation measures to reduce impacts on the size of the local
+gentoo penguin breeding population. These mitigation measures are
+included as conditions in the approval according to the AUG and
+Annex II of the Protocol.
+Figure 2: Gentoo penguin breeding sites (stars), out of bounds crane
+access through breeding areas west of the supply station (red
+dashed arrow with X), and proposed penguin fence (lime green
+dashed).
+In order to avoid affecting the potential breeding areas of gentoo
+penguins west of the supply station, a conscious decision was made
+to implement crane access to the supply station exclusively from the
+roadway east of the station and not to use access through the
+potential breeding areas west of the station (see Figure 2, red
+dashed arrow with X).
+This avoidance of crane access from the west complicates
+construction logistics, but avoids impacting the penguins' ancestral
+breeding grounds.
+Part of the IES proposed mitigation measures was also the
+construction of a penguin protection fence at a distance of about 5
+m from the construction site to the west of the supply station and
+research station, to deter penguins from breeding within the
+construction area or too close the
+noisy core zone of the works (see Figure 2, indicated lime green
+dashed). The construction of a penguin protection fence was also
+part of the conditions in the permit.
+The penguin protections fence consists from
+the metal posts with eyelets (100 mm distance), embedded in the
+ground/rock in a storm-proof manner,
+the ropes stretched through the eyelets and
+the "chicken wire" (small animal fence, galvanized metal wire, 6-
+corner mesh, mesh size 25 mm) attached to the ropes.
+Figure 3: Penguin protection fence - northern part, zoom, view
+towards west (photo January 25, 2021).
+During the austral summers of 2020/2021 and 2021/2022, the
+penguin protection fence worked extremely well - also especially
+with the very curious, exploratory juvenile penguins (see Figure 3
+and Figure 4). The combination of taut, thicker ropes and "chicken
+wire" proved particularly effective here. Additionally, the ropes
+ensure good visibility of the fence for the penguins (better than
+without ropes).
+Figure 4: Penguin protection fence - northern part, looking
+northwest (photo November 18, 2020).
+To assess the impact of the construction work and the efficiency of
+the mitigation measures on breeding success, the annual counting of
+the penguin nests using the same method and period as before the
+construction work started, has been imposed as further important
+condition by UBA. Count data from February 2020 and February
+2021 were merged and compared - for the entire Peninsula Schmidt
+and especially for the GARS sector. The following statements can be
+made:
+On the entire Peninsula Schmidt, the number of occupied nests
+increased slightly by 3 nests from 795 (2020) to 798 (2021).
+In the GARS sector, the number of occupied nests decreased slightly
+by 3 nests from 281 (2020) to 278 (2021). However, if we consider
+that one particular area could not be used for breeding in the
+southern summer of 2020/21 due to exceptionally large amounts of
+snow - regardless of the construction measure - and consider this in
+the comparison, then the remaining breeding sites actually show an
+increase of 13 nests.
+For the southern summer of 2020/21, it can be concluded that the
+previous modernization measures at the GARS O'Higgins station had
+no significant impact on the size of the local breeding population of
+the gentoo penguins. The fluctuations are within the usual range.
+Modernization activities carried out and planned progress
+Logistics
+In November 2020, the supply vessel LSDH 91 "Sargento Aldea" of
+the Chilean Navy transported a total of 12 container units
+consisting of container modules and container attachments from
+Talcahuano to O'Higgins in Antarctica. A further 4 container
+modules were transported from Punta Arenas to O'Higgins by the
+Chilean Navy's supply vessel AP-41 "Aquiles" in April 2021.
+In November 2021 and March 2022, the AP-41 "Aquiles"
+transported a total of 16 container units consisting of container
+modules and container attachments as well as transport containers
+from Punta Arenas to O'Higgins.
+Thus, a substantial part of the container modules, container
+attachments and transport containers required for the refurbishment
+and modernization of the GARS O’Higgins station are already in
+Antarctica.
+Refurbishment and modernization of the supply station and
+complement to research station
+The following activities have been completed or are in the process
+of implementation to date:
+Achieving station level consolidation by lifting the containers of the
+north side by 762 mm.
+Preparation of the foundations. A load-bearing substructure of
+galvanized HEB 200 double-T steel beams was installed under the
+lifted containers of the north side.
+Temporary wall was built up to the east of the old generators and
+the old containers were removed by crane from the compound of
+the previous supply station.
+Temporary replacement of UPS, inverse osmosis and further
+removal of old containers.
+Temporary relocation of the two old diesel generators and the new
+emergency backup generator.
+Figure 5: Conversion of the old supply station with use of the
+Liebherr LTM1040-2.1 mobile crane within the old supply station.
+Extension of research station by two server room containers.
+Extension of the fuel storage by 2 additional double-shell stainless-
+steel tank containers, each with a capacity of 24,000 liters, which
+are also approved for the transport of diesel.
+Emptying of the old single-shell tanks by transferring the fuel
+(Antarctic diesel) into the total of 5 double-shell stainless steel tank
+containers of the fuel storage.
+Removal of the old, single-walled tanks (3 container units).
+Positioning of two new double-shell stainless-steel tank containers,
+also approved for the transport of diesel, each with a capacity of
+24,000 liters on the new double-T steel beam foundations of the
+new supply station to be built.
+Figure 6: Positioning of a new double-shell stainless steel tank
+container with a capacity of 24,000 liters, also approved for the
+transport of diesel, on the new double-T steel beam foundations
+prepared for the new supply station.
+Planning for upcoming season and Antarctic summer season
+2023/2024
+Conducting of technical antenna modernization.
+Finalizing the new structure of the supply station.
+Establishing of new cladding of the supply station (2023/2024
+season).
+Important Remark
+It is emphasized that the whole logistics relies on the Antarctic
+operations of Chile (mainly) and especially the Chilean navy.
+Support was also given by Brazil (PROANTAR) and to a small
+portion also on Uruguayan operations. The German Aerospace
+Center DLR appreciates this support of the named nations very
+much and likes to emphasize, that without this support it would
+rarely be possible to perform a successful station modernization.

@@ -1,0 +1,141 @@
+IceCube Neutrino Observatory and International Collaboration
+IceCube Neutrino Observatory and International Collaboration
+Information paper submitted by the United States
+Summary
+The IceCube Neutrino Observatory (https://icecube.wisc.edu/),
+running in its present configuration since 2011, has realized the
+dream of capturing neutrinos to explore the high-energy universe.
+The goal is to explore and understand astrophysical objects and
+phenomena that produce particles with energies millions to billions
+of times higher than what is possible to detect at the most advanced
+physics facilities on Earth. Their high-energy light is mostly or
+entirely blocked (before reaching our advanced telescopes) either
+by matter surrounding the source or by low-energy light left over
+from the formation of the Universe, called the cosmic microwave
+background. To see the rest of the high-energy universe, a new
+approach is needed. Neutrinos—nearly massless, neutral particles—
+are demonstrating that they can be valuable “cosmic messengers” to
+decipher decades-long mysteries of where and how particles are
+accelerated to extremely high energies.
+IceCube transformed a cubic kilometer of South Pole ice at depths
+between 1.5 and 2.5 kilometers into a versatile instrument capable
+of observing neutrinos with energies spanning more than 10 orders
+of magnitude. The array of 5,160 light sensors detects a high-energy
+swath of light almost 3,000 times a second. About one in a million
+of these can be associated with a neutrino interaction. Roughly one
+in a thousand of these neutrino events can be distinguished as
+originating from beyond our Solar System. The search for the
+origins of astrophysical neutrinos is challenging due to both the low
+number of neutrinos that interact with ice and the large background
+signal—a persistent effective “fog” that masks sources not bright
+enough to be seen through it. Improvements in identifying which
+events are neutrinos and the ability to reconstruct their direction of
+travel and estimate their energy have enabled the first steady-state
+high-energy neutrino sources to be identified. IceCube has a
+growing science scope made possible by a dedicated group of
+technical staff and more than 350 scientists representing 58
+institutions in 14 countries.
+Background
+The last century has produced a dramatically different
+understanding of the size and composition of the Universe.
+Advances in technology, starting with the ability to make larger
+optical telescopes, led to the discovery of galaxies and the
+realization that the universe was expanding. By the end of the 20th
+century, almost the entire electromagnetic spectrum, from low-
+energy radio waves to extremely high energy gamma rays, was
+observable. Each new opened window revealed surprises and
+identified more mysteries. One puzzle that has persisted for more
+than six decades is where the extremely high energy particles from
+space, known as cosmic rays, originate from and how they are
+accelerated to such incredibly high energies.
+There are two challenges to answering these questions. First, since
+cosmic rays are electrically charged (primarily protons but also
+heavier nuclei), their paths are altered when they encounter
+magnetic fields. That means the direction measured by a detector
+does not point back to where the particle was created. Second, the
+number of cosmic rays decreases rapidly with increasing energy.
+For each factor of 10 increase in energy, the number of cosmic rays
+goes down by a factor of 100. That means that to see the same
+number of particles per time when the energy increases by a factor
+of a million, the detector would have to be a trillion times larger.
+Neutrinos are produced when cosmic rays interact with matter or
+light. Being electrically neutral, neutrinos are not deflected by
+magnetic fields, so they do point back to where they were
+created. This addresses the first issue with measuring cosmic rays
+directly. Unfortunately, the same scaling factor rules the number-
+energy relation for neutrinos—so, to find the rarer higher-energy
+neutrinos, a larger volume of instrumented ice (or water) is needed.
+The good news is that the ice at the South Pole is clearer than
+expected over a greater depth range than estimated. Prior to
+IceCube and its predecessor AMANDA, the optical properties of
+deep ice had not been measured in situ. Now we know that the
+horizontal spacing between the detector strings can be increased by
+a factor of two for the proposed IceCube-Gen2 without loss of
+performance at higher energies, and the instrumented length of a
+string can be increased by about 40% and still have adequate
+quality ice. That means IceCube-Gen2 can instrument about 8 times
+greater volume of ice than the original IceCube array for about the
+same real, inflation-adjusted cost.
+IceCube and its international collaboration have done an incredible
+job extracting an ever-increasing science scope because of clever
+analyses, machine learning techniques, and refined models of the
+optic properties of the ice. The neutrinos created when cosmic rays
+hit the Earth’s atmosphere produce more than 100,000 events per
+year that can be used to study the puzzling properties of neutrinos
+generally. There are three known types of neutrinos—electron,
+muon, and tau—and neutrinos can change from one type to another
+while traveling between their source and detection site. This is
+known as neutrino oscillation, and this unexpected behaviour is
+now attributed to neutrinos having very small mass, rather than
+being massless like a photon. The higher-energy neutrinos IceCube
+measures can be used to study how often they interact by looking at
+the rate at which neutrinos that have travelled through the Earth
+are seen as a function of energy.
+The observational successes have motivated the IceCube Upgrade
+project (currently underway), which will enhance and extend the
+low-energy performance of the observatory, improve the
+understanding of the optical properties of the ice (thus enhancing
+the fidelity of all past and future data), and serve as a testbed for
+next-generation light sensors. A proposed high-energy extension,
+IceCube-Gen2, still in the planning stage, would increase the
+volume of instrumented ice eightfold, making it possible to see
+more and fainter sources. The 2020 Decadal Survey of Astronomy
+and Astrophysics highlighted the important role IceCube-Gen2 will
+play in the growing multi-messenger approach to exploring the
+universe. The recently released report of the U.S. Department of
+Energy (DOE) and NSF-charged Particle Physics Project
+Prioritization Panel (P5) ranked IceCube-Gen2 in the top five
+priority projects for the next decade.
+Recent Publications Include:
+Observation of astrophysical tau neutrinos,
+A new calculation of the number of astrophysical muon neutrinos,
+A description of a Citizen Science project to characterize IceCube
+events,
+An investigation of the in-situ properties of the ice crystal properties
+inside the IceCube array,
+A search for neutrinos correlated with gravitational-wave events
+detected by LIGO/Virgo (Laser Interferometer Gravitational-wave
+Observatory),
+A search for neutrinos associated with gamma-ray bursts,
+A search for neutrinos created by dark matter decay, and
+annihilation.
+Future Goals of IceCube, IceCube Upgrade, and IceCube-Gen2
+Continue operation of the IceCube Neutrino Observatory, including
+providing real-time alerts to the astronomy and astrophysics
+community within a minute of the observation.
+Improve performance of IceCube analyses using machine learning
+to enhance event selection and reconstruction.
+Deploy seven more closely spaced, more densely instrumented
+strings in the 2025-2026 austral summer field season to improve the
+low-energy performance, better characterize the optical properties
+of the ice, and develop and test new light sensors.
+Publish the IceCube-Gen2 Technical Design Report, which details
+the science case, the detector design, and the drilling, installation,
+and logistics needs of the project.
+Figure 1 – Different views of the Milky Way galaxy: from an optical
+telescope, from a high-energy gamma ray telescope, a model
+prediction neutrino production from theory, the expected neutrino
+emission based on the capability of IceCube, and the result of
+IceCube’s Galactic plane analysis.
+Figure 2 – Major events in the development of neutrino astronomy
+in Antarctica.

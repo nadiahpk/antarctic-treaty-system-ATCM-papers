@@ -1,0 +1,97 @@
+﻿
+
+
+
+
+
+Belgian Antarctic Research Expedition BELARE 2015-2016
+
+
+
+
+
+
+
+
+Belgian Antarctic Research Expedition
+ BELARE 2015-2016
+Activities carried out at the Princess Elisabeth Station during the 2015-2016 season, with a new management structure.
+
+Summary
+
+The link between Belgium and the Antarctic has always been strong since the first overwintering of the scientific expedition led by Adrien de Gerlache from 1897 to 1899, passing through the construction of the King Baudouin Base in 1958 and Belgium’s participation in the Antarctic Treaty negotiations in 1959. 
+
+Throughout its long history in Antarctica, Belgium has demonstrated the importance it gives to this continent. In 2008-2009, the construction of the Princess Elisabeth Station (PEA) is the most concrete evidence of this interest. The Princess Elisabeth Station runs entirely on solar and wind energy through the use of a micro smart grid. The station is connected to nine wind turbines disposed on the Utsteinen ridge.
+
+In 2015, , the Belgian polar secretariat with a new management structure , successfully organized the campaign BELARE 15-16.
+
+The new management structure
+
+The Belgian Polar Secretariat is the public structure managing all aspects of the Princess Elisabeth Base. It is also responsible for the Belgian Antarctic Research Expeditions and the BELARE crews present in Antarctica every year. This structure directly depends on the State Secretary for Scientific Policy.
+
+In July 2015, the Belgian government decided to modify the Belgian Polar Secretariat structure. Thus, the Belgian Polar Secretariat will manage directly the Princess Elisabeth Station and the Belgian Antarctic Research Expeditions. 
+
+The Belgian Antarctic Research Expedition 2015-2016
+
+In October 2015, on basis of the Belgian law of 7 April 2005 implementing the Environment Protocol to the Antarctic Treaty (Madrid 4 October 1991), in particular its article 5 (&2,7 and 8), and referring to the information received from the Belgian Polar Secretariat, The Health, Food Chain Safety and Environment Federal Public Service issued the environment permit required for the expedition. 
+
+    • BELARE 15-16 mission at a glance
+
+    • Arrival date at Princess Elisabeth Station: 18/11/2015
+    • Departure date from Princess Elisabeth Station: 21/02/2016
+    • Flights operated at Princess Elisabeth Station: 11 
+    • Ship arrival Date: 06/01/2016
+    • Total people at Princess Elisabeth Station: 32
+    • Average number of people at Princess Elisabeth Station: 20
+    • Number of Scientific programs: 6 
+    • Number of Scientists at Princess Elisabeth Station: 9
+    • Number of people visiting PEA: 11 
+    • Number of accidents: 0
+    • Quantity of energy consumed: approx 63144 kWh
+    • Number of reports transmitted to the Belgian Polar Secretariat: 16 
+
+    • International Cooperation
+
+Cooperation and research, together with the furtherance of peace and the environmental protection, are the fundamental pillars of the Antarctic Treaty. Thus, it is important to mention that the realization of BELARE campaign is also the result of plenty of multiple international collaborations:
+
+    • France (IPEV): Support during the preparation.
+    • Italy (ENEA): Secondment of the expedition leader (ex-concordia).
+    • Norway (NPI): Ship sharing (Mary Antarctica) and purchase of fuel.
+    • Dromlan (Dronning Maud Land Air Network): Antarctic flights (Cap Town – Novo & Novo Station PE).
+    • Hungary, Netherlands, Luxembourg, Norway: Scientific projects (partners)
+
+On the 8th of February, a flight landed under emergency to PEA (due to bad weather condition at Novo). The 11 passengers (from India) + 4 crews were hosted at PEA for two days.
+
+    • Scientific activities
+
+During BELARE 15-16 mission, 6 scientific projects, funded by the Belgian Federal Science Policy Office (BELSPO and other partners, were successfully carried out, at Princess Elisabeth Station and in the Sör Rondane region. The research fields were: glaciology, meteorology, space weather, gravimetry and seismology. Below you will find a brief description of the projects:
+
+    • Icecon (Constraining Ice Mass Changes in Coastal Dronning Maud Land, Antarctica): The project aims at a better understanding of the past and present deglaciation of the Antarctic ice sheet in Dronning Maud Land (DML) through a new series of measurements and observations with the aid of ensemble experiments using ice sheet system modelling. The approach is multidisciplinary, involving ice-sheet modelling, precise GNSS (e.g. GPS, GLONASS and Galileo) observations, radio-echo sounding, ice core drilling and analysis. All applied methods converge to one single objective: reducing the uncertainty on last glacial maximum ice volumes and the associated timing of deglaciation of the Antarctic ice sheet in DML.
+
+    • Benemelt (melting ice shelves in East Antarctica): The project aims to investigate how much snow melts on the ice shelves in East Antarctica, by how much that melt will increase in the future, and how that will impact ice shelf stability and a resulting rise in global sea levels.
+
+    • Giant-Lissa (Geodesy for Ice in Antarctica" and "Lithospheric and Intraplate Structure and Seismicity in Antarctica): That project intends on improving scientific knowledge about land mass changes since the last glacial period and climate-related mechanisms, but also to increase our understanding about climate change. By combining GPS data, gravimetry and seismology techniques, Giant-Lissa will trace the horizontal and vertical deformation of the Earth's surface and focus on the relation between ice mass variation and crust deformation in the Polar Regions.
+
+    • Acme (Radio soundings at Princess Elisabeth Antarctica): Launch Radio sounding balloon to investigate the water vapour in the air column rising up to the troposphere.
+
+    • Aerocloud (How do aerosols and clouds affect the East Antarctic climate): Precipitation and clouds play a key role in the Earth's climate system. Clouds are an essential component in the conversion chain from atmospheric water vapor to precipitation. In turn, precipitation determines the water availability at the surface of the earth. Similarly for Antarctica, where precipitation is the only source of mass to the ice sheet. Yet, despite the importance of Antarctic precipitation and clouds, their representation in climate models remains problematic. This is unfortunate, as variations in precipitation will largely determine the contribution of the Antarctic ice sheet to sea level change. Natural and anthropogenic aerosols play a crucial role in the formation of clouds and precipitation. Since precipitation, cloud and aerosol processes are intertwined, only models that correctly represent these processes can give reliable future climate projections. The general objective of this project is to improve the understanding and modelling of precipitation, clouds and their interaction with aerosols in DML.
+
+    • Awda (Automatic Whistler Detector and Analyzer network): The main goals of this project are to build a statistical analysis of whistlers observed, to derive density information along the magnetic field lines and in particular in the plasmasphere, and finally to compare with density in-situ observations made by the Cluster satellites. The station is a very interesting place for such an instrument because of the low electromagnetic activity at and around the station, which usually perturbs the measurements. The antenna will record whistler waves (a particular type of electromagnetic waves that propagate from one hemisphere to another in the Earth's magnetosphere). 
+
+    • Innovation projects.
+
+The Belgian government has always given a great importance to innovation, especially when it can have an impact on safety. A cooperation agreement has been signed between the Belgian Polar Secretariat and Sigfox/Sensolus.
+
+Sigfox is an operated telecommunication network, dedicated to the Internet of Things. The Sigfox network is designed for small messages sent every now and then. Its focus on energy efficiency allows you to build connected devices able to last years on a standard battery. Sensolus is a Belgian start up, which has developed a low-power GPS tracking solution (branded StickNTrack). These low-power GPS tracking solution are small boxes easy to be installed (no particular skill is required to install and use it).  
+
+During BELARE 15-16 mission an antenna was installed on the mast in front of the station. Furthermore, several sensors were installed on vehicles moving around PEA and going to the coast, as well as, taken by people during day- mission out of PEA. 
+
+The boxes were programmed to send GPS coordinates every 10 minutes to the receiver at  the station, thus, the track was visible in real time via the Sensolus portal, through Google-map  Depsite this they can be programmed to send other kind of information, like temperature, wind speed, wind direction, etc.
+   
+This tracker could be useful in future missions from several point of view, particularly:
+
+    • the tracker can improve the safety of people in the field by providing real time information on their position and their possibility to move; 
+    • the tracker can improve the logistic of the mission by providing real time information on the position of cargo, as well as, on possible accidents to vehicles and container left behind (e.g. by installing a sensor on the door of a container left to the coast it will be possible to monitor the movement and the temperature inside the container)
+    • the tracker can improve the development of science by providing real time information (e.g. since the system is low cost and low power, it could be used for example on a large scale in order to monitor the movement of ice shelf, as well as, monitoring the weather in several areas for a long period)
+
+

@@ -1,0 +1,275 @@
+Policy-relevant science highlights from the Antarctic CORDEX
+project
+Policy-relevant science highlights from the Antarctic CORDEX
+project
+Outline
+The Antarctic CORDEX (Coordinated Regional Downscaling
+Experiment) project was initiated by the World Climate Research
+Programme The World Climate Research Programme is co-
+sponsored by WMO, the Intergovernmental Oceanographic
+Commission of UNESCO, and the International Science Council
+(WCRP) to coordinate Regional Climate Modelling (RCM) activities
+to better understand climate process, their variability, and influence
+on Antarctica’s sea-ice, ice shelves and ice sheet. Antarctic CORDEX
+provides a common framework for delivering Regional Climate
+Model simulations, which are produced by multiple polar climate
+modelling groups throughout the world
+Summary
+The surface mass balance (SMB) of the Antarctic Ice Sheet (AIS),
+which is the balance between mass gain from snow and mass loss
+from surface melt, and directly influences global sea-level, is
+increasingly being investigated using output from RCMs, and
+particularly Antarctic CORDEX simulations. [NB. SMB does not
+include dynamic ice loss from the AIS.]
+Antarctic ice shelves (the floating extensions of the ice sheet where
+glaciers flow into the ocean) have undergone unprecedented
+thinning and retreat in recent decades, and even collapse in some
+cases, resulting in acceleration of glacier flow into the ocean and
+increased rates of ice loss and consequent sea level rise. They lose
+mass either through basal melt by the warming of the underlying
+ocean or from above by atmospheric driven melt. The relative role
+of these processes is critical in projecting future ice shelf loss, and
+therefore, the dynamic loss of ice into the ocean.
+CORDEX model simulations have provided the following insights.
+Compared with observations, models tend to underestimate SMB at
+the low-elevation coastal regions of Antarctica, as well as some ice
+shelf locations (especially over the Ross Ice Shelf). (Mottram et al.,
+2021).
+SMB over the grounded (terrestrial) ice sheet is projected to
+increase over the 21st century as a result of stronger snowfall,
+which is strongly correlated with near-surface warming, and only
+partially offset by enhanced surface melt / run-off. (Kittel et al.
+2021).
+This projected increase in SMB is equivalent to a reduction in global
+sea level of 5.1 ± 1.9 cm in CMIP5-RCP8.5 (Relative Concentration
+Pathway 8.5) and 6.3 ± 2.0 cm in CMIP6-ssp585 (Shared
+Socioeconomic Pathways 5-8.5). (Kittel et al. 2021) [NB. In ice
+sheet models Antarctic SMB increase over the 21st century could
+even out-pace ice dynamic loss under certain climate scenarios
+leading to a positive mass balance and reduction in global sea-level
+rise].
+Melt Potential Index (MPI) is highest for Antarctic Peninsula ice
+shelves, while the MPI value for Pine Island, West Antarctica is the
+highest outside of the Antarctic Peninsula and suggests that this ice
+shelf is vulnerable to extreme surface melt events in addition to the
+well-known basal melting. (Orr et al., 2023).
+In projections, non-linear growth of surface melt and runoff over ice
+shelves occurs with increased warming over the 21st century, which
+lowers SMB and potentially leads to melt-induced hydrofracture of
+some of the ice shelves, facilitating accelerated glacial
+discharge of grounded ice and increased rates of sea level rise.
+(Gilbert and Kittel. 2021).
+CORDEX makes the following recommendations:
+Support of targeted observational campaigns focused on poorly
+understood / observed regions with high-precipitation are crucial to
+understanding model biases, uncertainties, and improving model
+estimates of Antarctic Surface Mass Balance.
+Encouragement of national modelling groups to participate in
+Antarctic CORDEX (see https://climate-cryosphere.org/antarctic-
+cordex/). Contact Dr Andrew Orr (anmcr@bas.ac.uk) in the first
+instance.
+Background
+Antarctic CORDEX provides a common framework for delivering
+RCM simulations, which are produced by multiple polar climate
+modelling groups throughout the world, consisting of a) evaluation
+experiments for the present-day forced by atmospheric reanalysis
+data, and b) projection experiments for the 21st century forced by
+global climate model output. Coordinating these simulations
+encourages cooperation and knowledge exchange between groups
+and enables the experiments to be performed with multiple RCMs,
+which are required to better understand local climate processes,
+model intercomparison studies, and sources of uncertainties. These
+simulations are freely available to researchers and regularly used in
+studies assessing the impact of climate change on Antarctica, in
+particular by the cryosphere community in order to produce
+improved understanding of how ice sheets, glaciers, ice shelves, and
+sea ice respond to climate change. This update on Antarctic
+CORDEX focuses on some of these recent science highlights.
+Recent Science Highlights
+The AIS is a significant part of the climate system and a crucial
+contributor to both present-day and future sea level increases in
+response to global warming, as it contains enough ice to cause
+almost 60 m rise in global sea level if it all melted. Current
+estimates suggest that loss (melting) of ice from the AIS is
+responsible for around 10% of observed global sea level rise since
+1993, and that mass loss is accelerating. A key to understanding
+recent mass loss (and the stability and evolution of the AIS in
+general) and improving future mass loss projections is improved
+knowledge of the SMB of the AIS, which is increasingly being
+investigated using output from RCMs, and particularly Antarctic
+CORDEX simulations.
+Mottram et al. (2021) used simulations from Antarctic CORDEX
+from five different RCMs (COSMO-CLM, HIRHAM5, MAR, MetUM,
+and RACMO) to quantify present-day Antarctic SMB. The range of
+models in this intercomparison study allowed them to identify
+sources of disagreement / uncertainty in the range of SMB over
+Antarctica. They found that between 1987 and 2018 that the
+ensemble average annual SMB integrated over the whole of the
+Antarctic ice sheet is 2329 ± 94 Gt yr-1, which compares well with
+observational-based estimates. However, individual model estimates
+vary from 1961 ± 70 to 2519 ± 118 Gt yr−1. They found no
+obvious trends in SMB over the present-day period, which is
+perhaps related to SMB being highly variable on annual timescales.
+Evaluating the models against observations of SMB, they found that
+in general they all tended to underestimate SMB at the low-
+elevation coastal regions of Antarctica, as well as ice shelf locations
+(especially over the Ross Ice Shelf). This is likely due to
+underestimation of the snowfall rate, which is related to errors in
+the cloud microphysics and precipitations schemes used by the
+models. They also found that the largest spatial differences between
+model estimates of SMB are for regions characterised by relatively
+high precipitation and complex topography, such as the Antarctic
+Peninsula, West Antarctica, and around the Transantarctic
+Mountains. Moreover, that models with similar values of SMB
+integrated over the whole of Antarctica often showed substantial
+spatial variability at basin scale. By contrast, for high-elevation
+regions (e.g., on the Antarctic plateau) the model SMB estimates are
+relatively similar. They concluded that targeted observational
+campaigns focused on poorly understood / observed regions with
+high-precipitation are crucial to understanding model biases and
+uncertainties and improving model estimates of Antarctic SMB.
+To investigate the dependence / evolution of Antarctic SMB to
+future atmospheric warming, Kittel et al. (2021) used Antarctic
+CORDEX simulations to investigate the sensitivity of SMB estimates
+from the MAR model to different temperature increases. The
+simulations involve the MAR model being forced by output from
+two CMIP5 (fifth phase of the WCRP Coupled Model
+Intercomparison Project) global climate models and two CMIP6
+models over 1981-2100, with statistical extrapolation used to
+expand the results to the whole CMIP5 and CMIP6 ensembles. The
+CMIP6 ensemble mean near-surface Antarctic temperature is 1.3°C
+higher than in CMIP5 by the end of the 21st century, thus enabling
+the sensitivity to different warmings to be evaluated. Their results
+show that the SMB over the grounded ice sheet is projected to
+increase in the future as a result of stronger snowfall, which is
+strongly correlated with near-surface warming, and only partially
+offset by enhanced surface melt / run-off. This increase in SMB is
+equivalent to a reduction in global sea level of 5.1 ± 1.9 cm in
+CMIP5-RCP8.5 (Relative Concentration Pathway 8.5) and 6.3 ± 2.0 
+cm in CMIP6-ssp585 (Shared Socioeconomic Pathways 585). By
+contrast, over ice shelves, higher temperatures in the future are
+associated with stronger surface melting and run-off, which
+decreases the SMB more strongly in CMIP6-ssp585 compared to
+CMIP5-RCP8.5. Additionally, the study shows that the CMIP6 low-
+emission ssp126 and intermediate-emission ssp245 scenarios project
+a stabilized SMB gain over the grounded ice sheet by the end of the
+21st century (resulting in a lower mitigation to sea level rise than in
+ssp585) and a close-to-present-equilibrium stable SMB for ice
+shelves. Future uncertainties in these projections are mainly due to
+large sensitivities to in the model response to the same greenhouse
+gas scenario.
+The floating ice shelves that fringe around 75% of Antarctica’s
+coastline play an essential role in controlling Antarctic ice sheet
+stability by restraining (buttressing) the flow of inland ice into the
+ocean. However, these ice shelves have undergone unprecedented
+thinning and shrinking in recent decades, and even collapse in some
+cases, resulting in acceleration of glacier flow into the ocean and
+increased rates of ice sheet mass loss and consequent sea level rise.
+The melting responsible for the thinning of ice shelves can be either
+from below due to increased incursions of relatively warm water
+and/or above due to warming air temperatures. In relation to the
+latter, the presence of substantial surface meltwater ponds is
+widespread over many Antarctic ice shelves during austral
+summertime in response to intense or prolonged surface melting.
+Ensuing vertical fracturing (hydrofracturing) of the ice shelves can
+occur if the meltwater enters downward and enlarges fractures in
+the ice, potentially triggering their catastrophic collapse, which has
+occurred over several ice shelves on the Antarctic Peninsula in
+recent decades. Moreover, increased summertime atmospheric
+warming in the coming decades and centuries will likely result in
+increased surface melt intensities over many Antarctic ice shelves,
+which is expected to cause more ice shelf collapses like those seen
+on the Antarctic Peninsula. This could prompt significant dynamic
+destabilisation/retreat of the Antarctic ice sheet, accelerating ice
+loss and sea level rise. Understanding the response of ice shelves to
+air temperatures for both the present-day and future is therefore of
+crucial importance, and increasingly being investigated using
+output from Antarctic CORDEX simulations.
+To determine which ice shelves are vulnerable to melt-induced
+hydrofracture, Orr et al. (2023) used near-surface temperature
+output from 1979/80 to 2018/19 from two Antarctic CORDEX
+simulations (MetUM and HIRHAM5) to calculate a regional surface
+“melt potential” index (MPI) over Antarctic ice shelves that
+describes the frequency (MPI-freq, %) and intensity (MPI-int, K) of
+daily maximum summer temperatures exceeding a melt threshold of
+273.15 (0°C), which is the melting point of snow/ice. Results are
+based on output from two models to enable model-dependence and
+consistency to be assessed. The study found that MPI is highest for
+Antarctic Peninsula ice shelves (MPI-freq 23-35%, MPI-int 1.2-2.1
+K), lowest (2-3%, < 0 K) for Ronne-Filchner and Ross ice shelves,
+and around 10-24% and 0.6-1.7 K for the other West and East
+Antarctic ice shelves (Figure 1). Some of the highest values of
+MetUM MPI-int are for George VI (2.1 K), Wilkins (1.5 K), and
+Larsen C (1.2 K) ice shelves on the Antarctic Peninsula, while the
+value for Pine Island ice shelf (1.7 K) in West Antarctica is the
+highest outside of the Antarctic Peninsula and suggests that this ice
+shelf is vulnerable to extreme surface melt events in addition to the
+well-known basal melting. Hotspots of MPI are apparent over many
+ice shelves, which is likely associated with localised warming from
+important small-
+scale processes such as katabatic outflows and fohn winds. They
+also showed that the regional circulation patterns associated with
+high MPI values over West and East Antarctic ice shelves are
+remarkably consistent for their respective region but tied to
+different local and large-scale circulation patterns. In particular, for
+West Antarctic ice shelves the circulation shows a strong connection
+with tropical sea-surface temperatures (central tropical Pacific/El
+Niño activity), while for East Antarctic ice shelves the circulation
+shows a strong connection with the circumpolar westerlies around
+Antarctica (Southern Annular Mode pattern).
+To investigate the dependence of the SMB of Antarctic ice shelves to
+future warming (and possible melt-induced hydrofracture), Gilbert
+and Kittel (2021) used Antarctic CORDEX simulations using the
+MAR model forced by four CMIP models from 1980-2100 to
+evaluate the sensitivity of ice shelf SMB to warming of 1.5°C, 2°C,
+and 4°C above pre-industrial temperatures. They found that non-
+linear growth in melt and runoff occurs with increased warming,
+which causes SMB to become less positive with more pronounced
+warming. Consequently, they suggest that melt-induced
+hydrofracture of ice shelves may be become more likely in the
+future with more pronounced warming, which can facilitate
+accelerated glacial discharge and consequently increased sea level
+rise. Using runoff and melt as indicators of ice shelf stability /
+possible melt-induced hydrofracture, they identify Larsen C and
+Wilkins ice shelves (Antarctic Peninsula), Pine Island ice shelf (West
+Antarctica), and Shackleton ice shelf (East Antarctica) as being most
+vulnerable to disintegration at 4°C. However, they find that the ice
+shelf area of Antarctica that is susceptible to melt-induced collapse
+by the end of the 21st century is reduced by half for warming of 2°C
+compared to 4°C.
+Further details
+Further details are available from the coordinators of Antarctic
+CORDEX, Dr Andrew Orr at anmcr@bas.ac.uk and Dr Chris Kittel at
+ckittel@uliege.be or by going to: https://climate-cryosphere.org/
+antarctic-cordex/.
+Selected publications
+Gilbert, E., and Kittel, C.: Surface melt and runoff on Antarctic ice
+shelves at 1.5°C, 2°C, and 4°C of future warming, Geophysical
+Research Letters, 48, https://doi.org/10.1029/2020GL091733,
+2021.
+Kittel, C., Amory, C., Agosta, C., Jourdain, N. C., Hofer, S.,
+Delhasse, A., Doutreloup, S., Huot, P.-V., Lang, C., Fichefet, T., and
+Fettweis, X.: Diverging future surface mass balance between the
+Antarctic ice shelves and grounded ice sheet, The Cryosphere, 15,
+1215–1236, https://doi.org/10.5194/tc-15-1215-2021, 2021.
+Mottram, R., Hansen, N., Kittel, C., van Wessem, J. M., Agosta, C.,
+Amory, C., Boberg, F., van de Berg, W. J., Fettweis, X., Gossart, A.,
+van Lipzig, N. P. M., van Meijgaard, E., Orr, A., Phillips, T.,
+Webster, S., Simonsen, S. B., and Souverijns, N.: What is the surface
+mass balance of Antarctica? An intercomparison of regional climate
+model estimates, The Cryosphere, 15, 3751–3784, https://
+doi.org/10.5194/tc-15-3751-2021, 2021.
+Orr, A., Deb, P., Clem, K., Bromwich, D., Gilbert, E., Boberg, F.,
+Colwell, S., Hansen, N., Lazzara, M., Mooney, P., Mottram, R.,
+Niwano, N., Phillips, T., Pishniak, D., Riejmer, C., van de Berg, W.
+J., Webster, S., and Zou, X.: Characteristics of surface “melt
+potential” over Antarctic ice shelves based on regional atmospheric
+model simulations of summer air temperature extremes from
+1979/80 to 2018/19, Journal of Climate, 36, https://
+doi.org/10.1175/JCLI-D-22-0386.1, 2023.
+Figure 1: Maps of the climatological values of the “melt potential”
+index (MPI) that describes the frequency (MPI-freq, top) and
+intensity (MPI-int, bottom) of daily maximum summer temperatures
+exceeding a temperature/melt threshold of 273.15 K (0°C) from
+1979/80 to 2018/19 based on output from MetUM (left) and
+HIRHAM5 (right) simulations.

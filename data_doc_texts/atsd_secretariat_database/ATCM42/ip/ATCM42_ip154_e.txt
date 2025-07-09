@@ -1,0 +1,82 @@
+﻿
+
+
+
+
+
+Antarctic Data Analysis:
+A tool to support evidence-based environmental management
+
+
+
+
+
+
+
+
+
+Antarctic Data Analysis: A tool to support evidence-based environmental management
+Information Paper submitted by New Zealand
+Summary
+This paper presents and welcomes input on the primary outcome of a New Zealand research project to develop a tool that will enable environmental managers to understand and minimise environmental impacts when assessing the planning, permitting, and implementation of Antarctic activities. The tool, based on the established principle of a ‘spatial decision support system’ (SDSS), allows for the overlaying and querying of spatial data including environmental variables and human activity, and has been designed to be applied to any part of the Antarctic continent. This tool has been built in consultation with several parties over the last 4 years and we invite members to use the tool and support their own scientists to provide data which can support the evidence-based policy direction of the site. New Zealand will continue to respond to comments, include new data, and keep the CEP informed of progress.
+
+Figure 1: The ADA tool
+The site can be viewed at https://ada.landcareresearch.co.nz/ and we invite any comments on the site, or recommendations of data to add to the site, to ada@landcareresearch.co.nz.
+Background
+The Antarctic terrestrial environment faces environmental pressures including: increasing human activity; accelerating climate change; and the introduction of non-native species1. Article 3 of the Protocol on Environmental Protection to the Antarctic Treaty highlights the environmental principles which the Committee aims to enact, through its leadership on monitoring, minimising, or mitigating environmental pressures in Antarctica, established in Articles 12.1.(e) and 12.1.(j).  In addition, the Committee’s Climate Change Response Work Programme2 highlights that there is a need to consider and develop a broader scale approach to environmental management in Antarctica. 
+A 4-year New Zealand research programme, led by Manaaki Whenua Landcare Research, has developed a web-based tool to support evidence-based environmental management, in accordance with the Environmental Principles of the Protocol. This management tool will facilitate regional scale assessments of activities and impacts while allowing variations in environments to be more readily accounted for in assessments. 
+The tool will fill a gap in the suite of management tools available to Parties, and will provide context for Parties to undertake informed decision-making of the planning, permitting, and implementation stages of activities. This will also assist Parties in limiting and quantifying adverse impacts on the Antarctic environment. Currently, the tool allows for the visualisation and analysis of spatial data on key environmental attributes (such as climate and human activity and allowing to understand how these attributes are expected to change into the future. 
+IP53 presented at CEP XIX (2016)3 provided an update on the first steps towards developing the tool to enable policy makers to visualise and query data to support environmental decision making at a regional scale in Antarctica. IP76 presented at CEP XX (2017) 4 provided an update on progress made, and feedback received, in relation to this web-based tool. IP22 was presented at CEP XXI (2018)5 provided a final update on the development of the tool.
+Tool design
+The tool has been designed with environmental managers and CEP members in mind. Users of the site have two ways to interact with the content: a Google Maps style interface (Figure 1) and key queries that a typical environmental manager will have that would be improved by additional contextual information to assist their decision making. When using the Google Maps style interface there three types of analyses can be utilised to query the data at any point within the terrestrial Ross Sea region area: a single point; comparison between two locations; and exploring the data along a transect. As we expect most users will want to know information about a named location, the site also has a comprehensive search functionality where you can search for any named feature as listed within the SCAR Composite Gazetteer. 
+Based on feedback from other parties, and scientists we have developed the tool to support regular environmental management decision by providing the ability for Key examples of these would be: 
+    • Investigating a non-native species incursion and the likelihood of continued incursions in areas based on current and future climate as well as current and predicted future human activity. This would occur through graphs and tabular data as shown in the screenshots below (Figure 1 as an example). 
+    • The comparison of multiple sites for future activities or to provide a set of baseline environmental data to support area protection (Figures 2 as an example). 
+    • Supporting CEP Members to undertake Environmental Impact Assessments of their activities in context with regional scale environmental patterns and data. This is particularly relevant to the Protocol requirement to “take full account of …the cumulative impacts of the activity [being assessed] …in combination with other activities in the Antarctic Treaty area” in Article 3.2(c). 
+Based on these use cases we have also provided a Query Builder approach (Figure 2) to supporting users to interact with the data using formalised processes for common queries. These queries are not pre-scripted and can be run for any location we have data to support it (currently only the wider Ross Sea region).
+
+Figure 2: Query Builder page within the ADA site.
+We welcome readers to go to the site (https://ada.landcareresearch.co.nz/) and trial it, and then provide feedback on the tool. We highly recommend going through either the Tutorial and/or the Query Builder to understand and explore the site to see the functionality within the site.
+Data currently used in the site
+The site uses a range of existing data, alongside new data, to provide knowledge of the current and future trends of environmental attributes (e.g. temperature, human activity). While all of this information is available within the site (under the ‘Data Provenance’ link at the top of the site) to highlight the diversity of data within the site, the data sources used in the current version of the site are:
+New Data
+ADA Basemap
+    • Using the Radarsat Antarctic Mapping Project (RAMP) Digital Elevation Model (DEM) (200m resolution) when the map is at smaller scales, and transitions in to a hillshade of the Reference Elevation Model of Antarctica (REMA) DEM (8m resolution) at larger scales. In addition, it contains Landsat 8 derived outcrop data (Burton-Johnson et. al. (2016)) (additional information below), and surface lakes downloaded from the Antarctic Digital Database. We generated a hillshade to show topographic relief across the continent. This was undertaken using the ‘gdaldem’ command within the Geospatial Data Abstraction Library (GDAL). A light blue colour ramp was utilised instead of a black and white palette to showcase the predominant ice cover across the continent.
+Human Activity
+    • Using data sources such as: The Electronic Information Exchange System (ATCM); IAATO Post Visit Report Forms; USAP Science Planning Summaries; and the New Zealand Antarctic Activity Database; we have collated an activity database which accounts for the majority of human activity with the wider Ross Sea area. Data is generalised into both years (which are selectable via a slider) and to a coarser spatial resolution using a hexagonal binning technique (Figure 3).
+
+Figure 3: Human Activity Data for the 2013-2014 season for the Northern Victoria Land. Note the number of people recorded as landing at Cape Adare for this season (183).
+Land Surface Temperature – MODIS
+    • Through the collation of a range of publicly available data, we have developed a MODIS Data Cube for the entire Antarctic continent. The data cube is at a 1km spatial resolution and was captured by Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s Terra and Aqua satellites. The data cube has a daily land surface temperature record for every 1km cell in Antarctica over the last 15 years. Within the ADA site, we have summarised the daily data into Monthly averages which are presented as line graphs when the Climate Tab is selected (Figure 4).
+
+Figure 4: Visualisation of MODIS Land Surface Temperature data for a location in Northern Victoria Land
+Future modelled climate layers – RegCM
+    • Utilising a locally parameterised RegCM model, we have forecast the climate out to 2100 for the wider Ross Sea area, based on the RCP 8.5 emissions scenario (the current business as usual approach). To achieve this, we have dynamically downscaled the global climate model outputs from the CMIP5 products to be used for the RSR and within the RegCM model. The model produces a range of data that are valuable to climatologists, but in addition key datasets are of significant value to end-users. Consequently, we generated decadal summary layers for inclusion in the ADA tool for a number of key outputs to show how climate is expected to change out to 2100 (Total Precipitation Flux, Surface Air Pressure, Duration of Sunshine, Near Surface Air Temperature, Ground Surface Temperature). These are also viewed in the Climate Tab (Figure 5). 
+
+Figure 5: Visualisation of RegCM Ground Surface Temperature data for a location in Northern Victoria Land
+Existing Data
+Elevation Data
+    • Radarsat Antarctic Mapping Project (RAMP) Digital Elevation Model (DEM) (200m resolution). Reference: Liu, H., K. C. Jezek, B. Li, and Z. Zhao. 2015. Radarsat Antarctic Mapping Project Digital Elevation Model, Version 2. Boulder, Colorado USA. NASA National Snow and Ice Data Center Distributed Active Archive Center. doi: https://doi.org/10.5067/8JKNEW6BFRVD.
+    • The Reference Elevation Model of Antarctica (REMA). Reference: Howat, I. M., Porter, C., Smith, B. E., Noh, M.-J., and Morin, P.: The Reference Elevation Model of Antarctica, The Cryosphere, 13, 665-674, https://doi.org/10.5194/tc-13-665-2019, 2019.
+Coastline Basemap
+    • Downloaded from the SCAR Antarctic Digital Database. Highest resolution data prepared by Cooper A.P.R (BAS 2011) from various sources. The most recent update by Fretwell P (BAS 2013) utilises remote sensing imagery dating from 2011 to improve the coastline around the Antarctic Peninsula and South Orkney Islands. This is the most accurate vector data for land south of -60.
+Rock outcrop (i.e. ice-free) extents
+    • Automated methodology for differentiating rock from snow, clouds and sea in Antarctica from Landsat 8 imagery. Reference: Burton-Johnson, A., Black, M., Fretwell, P. T., and Kaluza-Gilbert, J.: An automated methodology for differentiating rock from snow, clouds and sea in Antarctica from Landsat 8 imagery: a new rock outcrop map and area estimation for the entire Antarctic continent, The Cryosphere, 10, 1665-1677, https://doi.org/10.5194/tc-10-1665-2016, 2016.
+ASPA / ASMA / Gazetteer
+    • ASMA and ASPA Boundaries. Reference: Terauds, A. (2016, updated 2017) An update to the Antarctic Specially Protected Areas (ASPAs) March 2016 Australian Antarctic Data Centre (http://dx.doi.org/doi:10.4225/15/572995579CD36)
+    • SCAR Composite Gazetteer of Antarctica (CGA). Reference: Secretariat SCAR (1992, updated 2018). Composite Gazetteer of Antarctica, Scientific Committee on Antarctic Research. GCMD Metadata (http://gcmd.nasa.gov/records/SCAR_Gazetteer.html).
+Antarctic Conservation Biogeographic Regions
+    • Antarctic Conservation Biogeographic Regions. Reference: Terauds, A. (2016, updated 2017) An update of the Antarctic Conservation Biogeographic Regions (ACBRs) Australian Antarctic Data Centre (http://dx.doi.org/doi:10.4225/15/5729930925224)
+Engagement
+New Zealand welcomes engagement, feedback and ideas from interested Members. If you have any questions, comments, suggestions please email ada@landcareresearch.co.nz to indicate your interest. We are specifically looking at expanding the types of data we have within the site to support the environmental management of the continent. We also point out that while the current site is focused on the wider Ross Sea area, the tool has been designed to use and visualise data from across the continent.
+Timeline
+    • CEP XIX (2016): Information Paper outlining the intention to develop a regional scale tool to support regional-scale environmental management in Antarctica. Invitation to CEP Members to be involved in a workshop held in the margins of the SCAR Open Science Conference in Kuala Lumpur.
+    • CEP XX (2017): Information Paper discussing the workshop and the key questions that arose from the workshop. Outlined that the development of the regional-scale tool has commenced.
+    • CEP XXI (2018): Presentation of an Information Paper that discusses the development of the tool and how the tool can be used to support regional-scale environmental management in Antarctica. We will invite feedback from CEP Members to ensure that the tool is fit-for-purpose at the upcoming SCAR Open Science Conference in Davos in June 2018.
+    • CEP XXII (2019): Presentation of an Information Paper requesting feedback and presenting the framework and tool implemented for the Ross Sea region of Antarctica for use by all CEP Members.
+Next Steps
+The authors invite Members to:
+    1. Review the beta site (https://ada.landcareresearch.co.nz/) and provide comments on the site, or recommendations of data to add to the site (via ada@landcareresearch.co.nz).
+    2. Note the continued development of a regional-scale tool to support and improve environmental decision-making and a broader assessment of environmental impacts in Antarctica;
+    3. To continue to communicate suggestions, questions, and comments about the tool to the New Zealand delegation to ensure the tool is fit-for-purpose; 
+    4. Continue to support the open sharing of monitoring and scientific data for inclusion in tools, such as this one, to improve the information that is used by the CEP Members to make informed environmental decisions for the Antarctic Continent.

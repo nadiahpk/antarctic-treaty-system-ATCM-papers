@@ -1,0 +1,144 @@
+Monitorización de embarcaciones turísticas y no gubernamentales
+en el entorno de la Isla Decepción
+Monitorización de embarcaciones turísticas y no gubernamentales
+en el entorno de la Isla Decepción
+Resumen
+En el presente documento se muestran los resultados del análisis de
+movimientos de embarcaciones turísticas y no gubernamentales
+registrados a través de tres herramientas de monitoreo distintas en
+el entorno de la Isla Decepción. Se ha comprobado que, en el caso
+específico de los yates, podría mejorarse la información disponible
+combinando los datos procedentes de los diferentes sistemas de
+monitorización.
+Introducción
+La necesidad de contar con información precisa sobre el impacto del
+turismo en la Antártida es fundamental para ayudar en la toma de
+decisiones respecto a esta actividad humana. Esta es una cuestión
+que se ha tratado de forma recurrente en las Reuniones Consultivas
+del Tratado Antártico (RCTA). En 2007, el Comité para la
+Protección Ambiental (CPA) recomendó que se realizara un
+monitoreo más sistemático y exclusivo del turismo a fin de que se
+dispusiera de datos e información para respaldar la toma de
+decisiones (Informe Final XXX RCTA, párrafo 88). En XLIV RCTA,
+España, Ecuador y Estados Unidos presentaron el WP22 Hacia una
+gestión adaptativa y sostenible del turismo en la Antártida:
+programas de observación como herramienta clave para la toma de
+decisiones Tras la presentación de este documento, la Reunión hizo
+hincapié en la importancia de la toma de datos que contribuyera a
+comprender y gestionar el turismo y las actividades no
+gubernamentales y sus impactos acumulativos, especialmente en un
+contexto de reactivación del crecimiento de la actividad turística. La
+Reunión recalcó la importancia de los programas de vigilancia para
+evaluar el impacto real derivado de las actividades turísticas; de
+evaluar la eficacia de las medidas de gestión; de apoyar el requisito
+de evaluar y verificar los impactos; y de entender la susceptibilidad
+de los sitios (Informe Final de la XLIV RCTA, párrafo 287).
+En el caso del tráfico de las embarcaciones en las que se desplazan
+los turistas, interesa conocer sus patrones temporales y espaciales
+para la mejora de los procedimientos de gestión de los sitios que
+reciben visitantes. La principal fuente de información disponible
+para esta tarea en la actualidad es el Sistema Electrónico de
+Intercambio de Información (SEII). El SEII, cuya información es
+suministrada por las Partes, incluye, entre otros, datos procedentes
+de las expediciones no gubernamentales. Siguiendo las
+recomendaciones contenidas en las Resoluciones 3 (1997),
+Resolución 6 (2022) y la Decisión 4 (2012), las Partes deben
+intercambiar información sobre sus expediciones no
+gubernamentales. Antes del comienzo de la temporada turística,
+informando sobre las áreas de operación, los nombres de los sitios
+propuestos para visita y las fechas previstas para la realización de
+estas. Una vez concluida la temporada a través de los informes
+posteriores a las visitas para actividades turísticas y no
+gubernamentales en la Antártida, siguiendo los requisitos de
+intercambio establecidos en la Decisión 5 (2022).
+Análisis y resultados
+En las campañas 2018/2019 y 2019/2020, se compararon
+diferentes herramientas que permiten hacer seguimiento sobre los
+movimientos de embarcaciones turísticas y no gubernamentales en
+el entorno de la Isla Decepción (Islas Shetland del Sur). Durante
+aproximadamente dos meses y medio, se registraron los
+movimientos de estas embarcaciones mediante dos sistemas
+distintos: un receptor terrestre instalado en la Base Antártica
+Española Gabriel de Castilla y sensores remotos instalados en
+plataformas satelitales. En ambos casos, la presencia de los barcos
+turísticos fue registrada gracias a que la mayoría de las
+embarcaciones cuenta con un Sistema Automático
+de Identificación (AIS). Se trata de un equipo de transmisión que
+opera en la banda internacional VHF del Servicio Móvil Marítimo,
+ofreciendo datos de la posición y características básicas de las
+embarcaciones. Esto permite el intercambio de información entre
+barcos que están próximos y, en caso de existir, estaciones
+receptoras terrestres, mejorando las condiciones de seguridad de la
+navegación. Es un equipo obligatorio según la Convención
+internacional para la seguridad de la vida humana en el mar, 1974
+(Convenio SOLAS) para todos los buques que transportan pasajeros,
+salvo para las embarcaciones privadas de recreo. Esto hace que no
+todos los yates que operan en aguas antárticas posean este equipo,
+aunque muchos sí lo incorporan por sus ventajas relativas a la
+seguridad como apoyo a otros sistemas de navegación. No obstante,
+el modelo que suele instalarse en los yates (clase B o B+) es menos
+potente que el que poseen los cruceros de mayor tamaño (clase A),
+lo que en ocasiones dificulta que estas embarcaciones sean
+identificadas por los receptores de las plataformas satelitales y las
+estaciones terrestres.
+Los datos obtenidos con los dos sistemas basados en el AIS se
+cruzaron con los procedentes del SEII, obteniéndose una lista única
+de embarcaciones para cada una de las dos temporadas analizadas.
+Para cada embarcación se anotó si había sido registrado por uno,
+dos, o los tres sistemas. Complementariamente, se aplicaron las
+cuatro categorías utilizadas por la International Association
+Antarctica Tour Operators (IAATO) para clasificar las
+embarcaciones turísticas:
+Cruceros (CR): cruceros turísticos con una capacidad por encima de
+los 500 pasajeros, los cuales no pueden realizar desembarques de
+acuerdo con los estatutos de la Asociación Internacional de
+Operadores Turísticos Antárticos (IAATO).
+Categoría 2 (C2): cruceros turísticos con capacidad de 200-500
+pasajeros.
+Categoría 1 (C1): cruceros turísticos con capacidad de 12 a 200
+pasajeros.
+Yates (YA): embarcaciones con una capacidad máxima de 12
+pasajeros.
+Los principales resultados del análisis indican que la información
+respecto a las embarcaciones tipo CR volcada en SEII coincidía
+plenamente con la registrada por las plataformas satelitales y el
+receptor terrestre instalado en Isla Decepción. Sin embargo, para las
+embarcaciones de categorías C2 y C1, se mostraron discrepancias
+próximas al 15% entre las tres fuentes de información, ya que
+algunas de estas embarcaciones registradas por los satélites y el
+receptor terrestre no aparecían en SEII.
+Las mayores diferencias se detectan en la última de las categorías de
+embarcaciones turísticas, los yates. En este caso, las plataformas
+satelitales muestran escasos registros, la estación terrestre detecta
+únicamente un 50% de los yates que visitaron la isla, y el SEII
+presenta ausencias en el registro de varias embarcaciones de este
+tipo (5 de 28 en total para las dos campañas analizadas) y algunos
+errores en las fechas de las visitas. Las ausencias de numerosos
+registros de yates en el SEII ya habían sido señaladas en la XLIV
+RCTA/l IP 80 rev.1 “Data Collection and Reporting on Yachting
+Activity in Antarctica in 2021-22” (Informe Final XLIV RCTA,
+párrafo 334). Por lo tanto, la mejor aproximación para obtener la
+relación completa de embarcaciones visitantes es la combinación de
+los tres métodos. Esto es importante, ya que en distintas RCTA se ha
+prestado mucha atención a la necesidad de poseer datos de calidad
+sobre la actividad de los yates en la Antártida.
+Conclusiones
+Del estudio del análisis realizado se desprende que la información
+cargada en el SEII sobre las expediciones no gubernamentales y,
+más concretamente, sobre el tráfico de embarcaciones turísticas en
+las proximidades de los sitios que reciben visitantes, posee una
+calidad adecuada. Sin embargo, los datos disponibles referidos
+específicamente a los yates presentan ciertas limitaciones. Para
+solventar esta situación, se proponen las siguientes acciones:
+Analizar la conveniencia de que las Partes que operan en la región
+de la Península Antártica, donde se concentran la mayor parte de
+las actividades turísticas, establezcan
+una red de estaciones receptoras dotadas con un AIS clase A, el tipo
+más potente, que contribuya a la toma de datos para un mejor
+conocimiento de los patrones espaciales y temporales de las
+embarcaciones turísticas y no gubernamentales. Para ello se
+presentará una propuesta concreta a la XLVI RCTA.
+Invitar a las Partes interesadas a contactar con la autoría de este IP
+durante el periodo entre sesiones para elaborar la propuesta.
+Anexo 1: Número de embarcaciones detectadas según su categoría
+para cada una de las campañas analizadas

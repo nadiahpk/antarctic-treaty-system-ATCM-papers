@@ -1,0 +1,185 @@
+﻿
+
+
+
+
+
+Application of air dispersion modeling for impact assessment of construction/operation activities in Antarctica
+
+English version provided by the author
+
+
+
+
+
+
+
+
+Application of air dispersion modeling for impact assessment of construction/operation activities in Antarctica
+
+Information paper submitted by Republic of Belarus
+
+ Introduction
+Antarctica as a natural reserve demands special precautions for planning of future activity. Air emission is among the most important factors of impact onto Antarctic environment taking into account extreme low levels of pollutants in ambient air and sensitivity of vegetation, which consists mostly of lichens. The Protocol on Environmental Protection to the Antarctic Treaty requires assessment of impacts for all planned activities, including exposure onto biota and other components of environment, non-direct and cumulative impacts. So, application of dispersion modeling might be an effective instrument of qualitative impact assessment and projection. Thus, an analysis of impact assessments prepared in the framework of Protocol on Environmental Protection can show current state of air dispersion modeling in Antarctica. 
+In the paper the analysis of Comprehensive Environmental Evaluations of the planned construction/operation activities in Antarctica available at the Antarctic Treaty web-site [www.ats.aq/] was performed. The paper also shows restrictions on using dispersion models (on an example of AERMOD) for impact assessment in Antarctica in the case when meteorological input data are incomplete. 
+
+Results
+Results of analysis of Comprehensive Environmental Evaluations are shown in the Annex. 
+As it seen from 12 cases of air impact assessment no dispersion modeling was done in 6 cases; in 2 cases ICS3 was applied, SYMOS97, OND-86 and AERMOD were applied in other 4 cases. Among these results both short-term and long-term predicted concentrations were obtained only for two stations: Jang Bogo Station, Korea (nitrogen oxides) and Mount Vechernyaya, Belarus (NO2, SO2, PM10, CO, HC). 
+It can be said that emission dispersion models application for impact assessment in Antarctica by the date is limited. There is a number of reasons of such limitation, first of all due to time- and resource-consuming and lack of input data for modelling. 
+In this situation assessment of possible results of modeling in view of their accuracy and sensitivity to input data is important and can allow to extend limits of models’ applicability. 
+The pollution dispersion modeling exercise using AERMOD with different sets of input meteorological data on an example of planned construction/operation activities at Belarusian Antarctic Research Station at Mount Vechernyaya, Enderby Land was made. Estimations of concentration fields for main pollutants (CO, SO2, NO2, PM10, HC) for various averaging periods were done for both the receptors grid and key receptors. Maximum and average hourly, 8-hour and daily concentrations of pollutants, as well as average monthly concentrations for the reporting periods were calculated. Calculations were made for 2 scenarios of pollutant emissions. Estimated values were compared with maximum permissible concentrations. Respective influence of different emission scenarios and input meteorological data was assessed. 
+Results of analysis  showed that the accuracy of estimates depends on the completeness of the source of meteorological data and the possibility of their correct interpolation. Interpretation of the model results is impacted by the non-hourly series of meteorological observations. This impact is especially important for calculation of long-term concentrations. Among the Antarctic WMO stations, such frequency of observations are only at two stations: Halley and Rothera. At all other stations periods of measurements are 3 and 6 hours. Linear interpolation of such series of meteorological data can lead to systematic errors and affect the accuracy of the final modeling results. In case of station at Mount Vechernyaya such errors have been shown, using other sets of data with similar meteorological parameters.
+
+Conclusions
+More wide application of dispersion modeling in impact assessment in Antarctica is important as it give much more opportunities to assessment procedures. Harmonization of applied dispersion modeling methodologies can make model results more comparable.
+At wide application of dispersion models restriction in interpretation of model results can be encountered, and one of most important – completeness of input meteorological data, for instance lack of hourly data.
+Study have shown that taking into account mentioned restriction it is still possible to provide acceptable accuracy of pollution dispersion estimation results, especially with hourly averaging. For estimation of long-term concentrations there is possible to apply non-standard methods of interpolation meteorological data. 
+
+
+
+
+Annex 
+List of methodologies applied for air impact assessments of construction/operation activities in Antarctica
+Station
+Party
+Purpose of the evaluation
+Emission rate, kg/y
+Dispersion model
+Modeled parameter
+Reference
+Mendel Polar Station
+Czech Republic
+Construction and operation of station
+NOx – 128
+CO – 90
+SYMOS’ 97 
+Max. short-term immission  NOx
+
+[4]
+Troll Station
+Norway
+Upgrading summer station to permanent station
+PM10 – 70
+NOx – 2750
+CO – 200
+No 
+-
+[5]
+Halley Research Station
+United Kingdom
+Construction and operation of Halley VI Research station, Dismantling of the Halley V station
+PM10 – 16
+SO2 – 0.0008
+NOx – 669.6
+No 
+-
+[10, 11]
+Neumayer-Station III
+Germany
+Construction and operation of the Neumayer III Station, Dismantling of the existing Neumayer II station
+PM10 – 53
+SO2 – 84
+NOx – 75
+CO – 17
+No 
+-
+[7]
+Princess Elisabeth Base
+Belgium
+Construction and operation of station
+S02 – 10
+NOx – 48
+CO – 3
+No 
+-
+[3]
+Kunlun Station
+China
+Construction and operation of station
+PM10 – 35–62
+S02 – 50.8– 89
+NOx – 65– 113
+CO – 27–47
+No 
+-
+[12]
+Zhongshan (Sun Yat-Sen) Station
+China
+Construction of new power generating building
+SO2 – 700
+NOx –2000
+CO – 70
+No 
+
+[8]
+Bharati
+India
+Construction and operation of station
+PM10 – 264.4
+SO2 – 192
+NOx – 3025
+CO – 208
+ISCST 3
+Max.24 hr avg SPM, SO2, NOx
+
+[6]
+Jang Bogo Station
+Korea (ROK)
+Construction and operation of station
+PM10 –450
+SO2 – 260
+NOx – 9650
+CO – 810
+ISCST 3
+Max.1 hr, 24 hr and 
+1 yr avg
+NOx
+[1]
+Taishan Station
+China
+Construction of inland summer camp
+PM10 – 10-20
+SO2 – 10
+NOx – 150-220
+CO – 10-20
+No 
+-
+[9]
+Vernadsky Station
+Ukraine
+Construction  of a new fuel tank
+NOx, SO2, PM, HC, BC et.al
+OND-86
+Max.conc. Hydrocarbons, NO, CO, soot etc. 
+[13]
+Mount Vechernyaya
+Belarus
+Construction and operation of station
+Operation:
+PM10 – 12-47
+SO2 – 16-64
+NOx – 128-512
+CO – 649-2597
+AERMOD
+Max. & mean 1hr, 24hr and monthly avg NO2, SO2, PM10, CO, Hydrocarbons
+[2, 14]
+
+
+References
+1. Comprehensive environmental evaluation; Construction and operation of the Jang Bogo Antarctic Research Station, Terra Nova Bay, Antarctica. April 2012.
+2. Construction and operation of  Belarusian  Antarctic research station at Mount Vechernyaya, Enderby Land. Draft Comprehensive Environmental Evaluation. Minsk, 2013. – 164 p.
+3. Construction and Operation of the new Belgian Research Station, Dronning Maud Land, Antarctica. Final Comprehensive Environmental Evaluation (CEE). March 2007.
+4. Draft Comprehensive Environmental Evaluation for Czech Scientific Station in Antarctica. Construction and Operation. Ministry of the Environment the Czech Republic. April 2003.
+5. Final Comprehensive Environmental Evaluation (CEE) for the upgrading of the Norwegian summer station Troll in Dronning Maud Land, Antarctica, to permanent station. Norwegian Polar Institute 2004
+6. Final Comprehensive Environmental Evaluation of New Indian Research Station at Larsemann Hills, Antarctica National Centre for Antarctic and Ocean Research (Ministry of Earth Sciences, Government of India) Headland Sada, Vasco Da Gama, Goa, 403 804, India September – 2010 – 220 p.
+7. Final Comprehensive Environmental Evaluation of the proposed activities “Construction of the Neumayer III Station‚“”Operation of the Neumayer III Station“ and “Dismantling of the Existing Neumayer II Station and Removal of Materials from Antarctica“. Umweltbundesamt I 2.4 – 94003-2/43. Dessau, August 2005
+8. Initial Environmental Evaluation for a new Power Generating Building at Chinese Zhongshan Station, Antarctica. October 2010. 22 p. 
+9. Initial Environmental Evaluation for the Construction of Inland Summer Camp, Princess Elizabeth Land, Antarctica. 2013. 30 p.
+10. Proposed Construction and Operation of Halley VI Research Station, Brunt Ice Shelf, Antarctica. Draft Comprehensive Environmental Evaluation (CEE). February 2005.
+11. Proposed Construction and Operation of Halley VI Research Station and Demolition and Removal of Halley V, Brunt Ice Shelf, Antarctica Final Comprehensive Environmental Evaluation. March, 2007
+12. Proposed Construction and operation of the new Chinese Dome A Station Dome A, Antarctica.  Final Comprehensive Environmental Evaluation. Chinese Arctic and Antarctic Administration. August 2008. 
+13. Technological Binding of a Tank With Capacity V=200 Cubic Meters for Fuel Storage At Vernadsky Station. Comprehensive Environmental Evolution. Kiev, 2006.
+14. S. Kakareka, S. Salivonchik. Use of the AERMOD model in calculating the dispersion of air pollutant emissions from stationary sources // Geography and Natural Resources, 2015, № 1, p. 175-184 
+
+

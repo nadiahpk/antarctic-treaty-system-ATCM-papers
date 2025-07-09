@@ -1,0 +1,136 @@
+﻿
+
+
+
+
+
+Aids to navigation, beaconing and Antarctic cartography - (2016-2017)
+
+
+English version provided by the author
+
+
+
+
+
+Aids to Antarctic navigation, beaconing and cartography
+(2016-2017)
+
+Presented by Argentina
+
+
+Introduction
+The Argentine Republic, through the Naval Hydrographic Service conducts the surveys, tasks, explorations and research aimed to promote the highest standards of navigation safety in Antarctica. The most recently performed activities are listed below.
+
+Aids to Navigation  AIS AtoN
+Complementing the information provided in IP 133 “Report on the installation of Aids to navigation on the Antarctic Continent”, this IP informs that, in response to the exponential increase in Antarctic navigation, the installation of SIA AtoN was undertaken jointly by the Argentine Navy, the Naval Hydrographic Service, the company Hidrovía S.A. and the National Directorate for the Antarctic (DNA). 
+
+Indeed, during the recent Antarctic Summer Campaign 2016/2017, two new SIA AtoN were installed as a “test” at CARLINI and DECEPCIÓN Stations, each of them generating four virtual signals, detailed as follows:
+
+Carlini Station (former Jubani)
+N°
+Location
+MMSI
+Signal Type
+Type of AIS
+A
+Carlini Station
+9970111092
+Fixed structure
+Real
+1
+Emm Rock (Roca Eme)
+997016116
+West Cardinal 
+Virtual
+2
+Pig Rock (Roca Chanchito)
+997016114
+East Cardinal 
+Virtual
+3
+Winship Point (Punta Winship)
+997016115
+South Cardinal 
+Virtual
+4
+Stranger Point (Punta Stranger)
+997016113
+East Cardinal 
+Virtual
+	
+Decepción Station
+N°
+Location
+MMSI
+Signal Type
+Type of AIS
+B
+Decepción Station
+997011093
+Fixed structure
+Real
+1
+El Monolito (The Monolith)
+997016117
+South Cardinal 
+Virtual
+2
+Ravn Rock (Roca Ravn)
+997016120
+Isolated Danger
+Virtual
+3
+Entrance Point (Punta Entrada)
+997016118
+East Cardinal 
+Virtual
+4
+Fildes Point (Punta Balcarce)
+997016119
+South Cardinal 
+Virtual
+
+Carlini Station
+
+
+Decepción Station
+
+The mentioned aids to maritime navigation complement the lighthouses and beacons installed by Argentina in Antarctica, an activity initiated in 1942 with the installation of the “Primero de Mayo” lighthouse and “Gallows Point” (“Punta Gallows”) beacon.
+
+
+Beaconing
+Argentina has and maintains eighty seven (87) maritime signals in the Antarctic region, comprised by two (2) lighthouses, seven (7) light beacons and seventy eight (78) unlit beacons. 
+
+One lighthouse and all the beacons included in the previous paragraph use LED lighting. 
+
+During the 2016/2017 Antarctic Summer Campaign, it was possible to inspect and repair twenty (20) of these maritime signals. 
+
+
+
+
+
+Cartography
+Currently, the National Antarctic Cartographic Plan has thirty on (31) charts, four (4) of which are Route and Approaching charts, eleven (11) are coastal and sixteen (16) are Insets. Furthermore, within the Hydrographic Commission on Antarctica (HCA) of the International Hydrographic Organization (IHO), Argentina cooperates with the International Chart Scheme (INT) and its respective Electronic Nautical Charts (ENC), producing eleven (11) charts.
+
+Currently, six (6) of them are already available, two (2) are in the process of being edited during 2017, two (2) are currently undergoing hydrographic surveys and one (1) is pending:
+
+Edited
+INT 9120 / H-762 Decepcion Island (Isla Decepción) / Neptune's Bellows (Fuelles de Neptuno). (Edited in 2006)
+INT 9142 / H-651 Scotia Bay (Bahia de Scotia). (Edited in 2012). ENC currently in elaboration 
+INT 9153 Church Point (Punta Iglesias) to Cape Longing (Cabo Deseo) (AR – UK Edited by UK in 1999)
+INT 9154 Joinville Island (Isla Joinville) to Cape Ducorps (Cabo Ducorps) (AR – UK Edited by UK in 1996)
+INT 9156 / H-724 Palmer Archipielago (Archipielago Palmer). (Edited in 2010). 
+INT 9170 / H-700 Southern Shetland Islands (Islas Shetland del Sur) and Bransfield Strait (Mar de la Flota). (Edited in 1997). ENC currently in elaboration 
+
+Currently being edited
+INT 9101 / H-757 Trinity Peninsula (Peninsula Trinidad) / Esperanza Station (Base Esperanza) – Hut Cove (Caleta Choza): Edition estimated for present year.
+INT 9111 / H-791 Marguerite Bay (Bahía Margarita): Edition estimated for present year.
+
+Currently undergoing hydrographical surveys
+INT 9115 Dundee Island (Isla Dundee): Hydrographical survey 30% completed. 
+INT 9140 South Orkney Islands (Islas Orcadas del Sur): Hydrographical survey 80% completed. In production process.
+
+Pending
+INT 9100 Seymour (Marambio) Island / Marambio Station: Execution of the hydrographical survey pending due to the severe glaciological conditions that characterize the area.
+

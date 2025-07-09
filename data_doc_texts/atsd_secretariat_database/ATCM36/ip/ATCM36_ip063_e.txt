@@ -1,0 +1,66 @@
+﻿
+
+
+
+
+
+SAR-WG: An Antarctic Vessel Traffic Monitoring and Information System
+
+
+
+
+
+
+
+
+An Antarctic Vessel Traffic Monitoring and Information System
+
+Information paper submitted by ASOC1
+
+Summary
+Two years ago ASOC submitted an Information Paper calling on the ATCM to adopt a Resolution or Decision on development of an Antarctic Vessel Traffic Monitoring and Information System (VTMIS)2. This paper updates the information and includes a proposed Decision calling for all vessels operating in the Treaty Area to install and maintain constant operation of Automatic Identification Systems (AIS), to transmit long-range information and tracking (LRIT) data to an appropriate data centre, and to develop an Antarctic vessel traffic monitoring and information system, beginning with the heavily trafficked Peninsula Area.
+Information is provided on the value of vessel traffic monitoring and information systems for improving safety and environmental protection. It summarises the existing tools and initiatives for tracking and monitoring of vessels including at remote distances, which if developed for use in Antarctic waters could provide increased safety and environmental protection. ASOC submits this could form the building blocks of an Antarctic VTMIS.
+Vessel Traffic Monitoring and Information Systems (VTMIS)
+The primary purpose of a vessel traffic monitoring and information system is to enhance safety and minimize environmental impact of shipping accidents. Benefits of vessel traffic monitoring and information systems are not restricted to improved response time for search and rescue and for environmental incidents, but could also include enhanced compliance and enforcement. Moreover, vessel monitoring components such as the automated identification system (AIS) can improve understanding of the spatial and temporal resolution of shipping density patterns to assess environmental threats and serve as an aid to navigation.3
+Building-blocks for an Antarctic VTMIS
+The building blocks for polar vessel traffic monitoring and information systems already exist and include Automatic Identification Systems (AIS), Long Range Information and Tracking Systems (LRIT), and Vessel Monitoring Systems (VMS). 
+AIS is an automated ship tracking scheme. Regulation 19 of SOLAS Chapter V requires, as of December 2004, the fitting of AIS on board internationally voyaging ships of 300 GT or more, cargo ships of 500 GT and upwards not engaged in international transits, and all passenger ships regardless of size. Ships which are fitted with AIS are required to maintain the system in operation at all times except where navigational information is protected through international agreements, rules or standards. Information exchanged through AIS includes static data such as International Maritime Organization (IMO) number and vessel type, dynamic data such as position, course and speed over ground, and voyage-specific data such as possible hazardous cargo and destination. 
+As of 2008, about 40,000 ships worldwide were estimated to carry AIS,4 and the number of ships that presently utilize it is likely higher. One limitation has been the fact that VHF signals from traditional AIS systems have a horizontal range of only 40 nautical miles thus restricting vessel coverage,5 however satellite AIS (S-AIS) enables global coverage of vessel activity, and its use would further the aims of countries wishing to establish a common ship reporting and data sharing system. Comprehensive AIS coverage would also enable tracking of vessel speed, which could be useful in areas subject to speed restrictions, and monitoring of vessels in areas that have been formally protected, for example as marine protected areas, where more stringent regulation of activities might be appropriate. 
+The development of a Long Range Information and Tracking System (LRIT)6 was adopted via IMO resolution in 2006, and while the primary purpose was initially international security, the purpose and scope has been extended to include safety and environmental protection. It provides for global identification and tracking of ships with information on ship identity and current location provided to a data centre. It is mandatory for a number of types of vessels and has been operational since 31 December 2008. Data is provided to data centres, and relevant information is passed to contracting governments and rescue services on request. Accurate information on ships in distress and ships in the vicinity that could lend assistance could be invaluable in saving lives and minimizing pollution of the marine environment. The European Union has developed its own EU LRIT data centre which is used for identification and tracking of EU-flagged ships. This will be integrated with the SafeSeaNet system, other systems such as CleanSeaNet that handle pollution monitoring, and THETIS regarding ship inspections. 
+Mandatory reporting systems offer a simple but effective way of monitoring ship movements and are already used to some extent in Antarctic waters. The Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR) operates a satellite-based vessel monitoring system that is used to monitor the location and activity of fishing vessels. Vessels are required to be equipped with a satellite-linked monitoring device that allows continuous reporting of vessel position. The device should communicate at least every four hours to a land-based fisheries monitoring centre of the flag State, providing information on the vessels identification, the current geographical position, and the date and time of the fixing of the position of the vessel7. VMS reports and messages are subsequently forwarded to the CCAMLR Secretariat. Reports and messages are treated in a confidential manner and used for compliance purposes. 
+The Council of Managers of National Antarctic Programs (COMNAP) operates an optional, voluntary ship position reporting system8 for exchange of information about national research programme ship operations and capabilities, and the International Association of Antarctic Tour Operators (IAATO) also operates a vessel-tracking system.9 In 2009, the meeting of Antarctic Treaty Experts on ship-borne tourism agreed a recommendation10 that Antarctic Treaty Parties should continue to encourage tourist and non-governmental organizations’ vessels that do not currently participate in the IAATO or COMNAP vessel monitoring schemes to report their positions to the relevant MRCC.
+Conclusion
+Considering the sensitive and hazardous nature of the Antarctic, the remoteness and limited possibilities for search and rescue, and the paramount importance of preventing incidents and accidents, ASOC advocates the development of a vessel traffic monitoring and information system for Antarctic waters through the appropriate use of existing tools tailored for application in the Southern Ocean. In making this recommendation, ASOC notes the value of vessel traffic monitoring and information systems in minimizing the risks of an accident, supporting faster response (safety and environmental) and assisting compliance and enforcement. 
+ASOC calls on the ATCM to adopt a Decision: 
+    • requiring all vessels operating south of 60 degrees South to install AIS and maintain constant operation, and to provide LRIT data to a designated data centre, and
+    agreeing to develop an Antarctic Vessel Traffic Monitoring and Information System. 
+
+Annex: 
+Proposal for an ATCM Decision
+on
+an Antarctic Vessel Traffic Monitoring & Information System
+
+
+
+Recognising the number of accidents involving loss of life and impacts on the marine environment in recent years and the importance of providing for enhanced human safety and improved protection for the Antarctic marine wildlife and environment,
+
+Acknowledging that vessel operations in the Antarctic Treaty area are undertaken in remote locations, and sometimes under hazardous conditions, 
+
+
+Recalling Resolution 7 (2012) ATCM XXXV on Vessel Safety in the Antarctic Treaty Area, 
+
+Recalling Article 3 of the Environmental Protocol to the Antarctic Treaty which requires that activities in the Antarctic Treaty area shall be planned and conducted so as to limit adverse impacts on the Antarctic environment,
+
+Recognising that the primary purpose of a vessel traffic monitoring and information system is to enhance safety and minimize environmental impact of shipping accidents, 
+
+Understanding that the benefits of vessel traffic monitoring and information systems are not restricted to improved response time for search and rescue and for environmental incidents, but can also include enhanced compliance and enforcement,
+
+The Representatives, 
+
+Decide:
+
+    1. all vessels operating in the Treaty Area should install and maintain constant operation of Automatic Identification Systems (AIS), 
+
+    2. all vessels should transmit long-range information and tracking (LRIT) data to an agreed data centre, and 
+
+    3. to prepare a proposal for the development of an Antarctic vessel traffic monitoring and information system.

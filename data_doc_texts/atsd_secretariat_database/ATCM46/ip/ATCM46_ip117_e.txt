@@ -1,0 +1,196 @@
+Consolidation of the Argentine-Spanish Permanent Instrumental
+Volcano Monitoring Network on Deception Island volcano
+English version provided by the authors
+Consolidation of the Argentine-Spanish Permanent Instrumental
+Volcano Monitoring Network on Decepción Island volcano
+Abstract
+The purpose of this document is to report on the Argentine-Spanish
+binational volcano monitoring network on Deception Island, which
+currently consists of ten broadband seismological stations, eight
+GNSS (Global Navigation Satellite Systems) stations, one IP camera
+and two satellite nodes. This joint collaboration has allowed the
+modernization and strengthening of the instrumental monitoring
+network on the island and provides continuous, real-time
+surveillance. This document also provides information on the
+cooperation between Argentina and Spain regarding the volcanic
+risk management on the island. During 2024, work will be carried
+out for the update of the Appendix 6: volcanic alert level system
+and escape strategy, within the framework of the review process of
+the Management Plan for ASPA N°4.
+Background
+There are almost twenty volcanoes considered active in the
+Antarctic continent, at least nine of them are certain to have been
+active during the Holocene (Mount Berlin, Buckle Island, Deception
+Island, Mount Erebus, Mount Hudson, Mount Melbourne, Penguin
+Island, Mount Takahe, and The Pleiades). Five of them have had
+volcanic activity during historical times (1892-1972), being Mount
+Erebus and Deception Island considered to be the most active
+volcanoes on the continent, with several eruptive events over the
+last two centuries.
+Although several impacts over Antarctic scientific bases have been
+reported due to the activity associated with these volcanoes, to date
+there are still few studies that assess the potential risks, on a
+regional and global scale, related to eruptions at high southern
+latitudes and the potential impacts over ecosystems, tourism, air
+navigation and maritime navigation on the Antarctic continent. For
+this reason, understanding and managing volcanic hazards and risks
+is a key factor for the safe development of activities in this region of
+the planet.
+In Antarctica, the deployment and maintenance of instrumental
+volcano monitoring networks, mainly relies on national research
+programs. For both economic and logistical reasons, the
+development of this type of networks on the Antarctic continent is
+very scarce, being limited to only a few of the main active volcanic
+centers situated close to scientific bases, such as Mount Melbourne,
+Mount Erebus and Deception Island.
+Even rarer is that these instrumental networks are multi-parametric
+and have the ability to transmit information in real time throughout
+the year, and therefore allow the detection of anomalies and
+changes in any of the monitoring parameters that might enable the
+activation of early warnings on the potential occurrence of a future
+volcanic eruption.
+Up to date, of the three existing monitoring networks, only those of
+Mount Melbourne, operated by the Istituto Nazionale di Geofisica e
+Vulcanologia (INGV-Catania) and the University of Catania, and
+Deception Island, operated by the Instituto Geográfico Nacional de
+España (IGN) and the Observatorio Argentino de Vigilancia
+Volcánica (OAVV) of the Servicio Geológico Minero Argentino
+(SEGEMAR), transmit the monitoring information in real time.
+Volcano Monitoring on Deception Island
+Volcano monitoring activities at Deception Island began with the
+deployment of the first seismometers at the Argentine, Chilean and
+British stations, in the 1950’s, 1965 and 1969, respectively; all of
+which were lost during the 1967 and 1969 eruptions (Figure 1).
+Monitoring activities were resumed in 1986, and during the seismic
+crises that occurred in the summer of 1991-1992, the detection of
+variations in several monitoring parameters (seismic and
+deformation mainly) allowed the evacuation of the personnel on the
+island.
+Figure 1: Map of Deception Island, with the location of the scientific
+bases, and the location of historic volcic vents and areas of
+fumarolic activity and heated ground. (Modified from Geyer et al.
+2023).
+In 1993 the Deception Island Volcano Observatory (OVD) was
+created as a result of a collaboration between the Argentine
+Antarctic Institute (IAA), the University of Buenos Aires (UBA), the
+National University of La Plata (UNLP) and the National Museum of
+Natural Sciences (MNCN) of the Spanish National Research Council
+(CSIC) and the universities of Cadiz (UCA) and Granada (UGR). It
+mains purpose was to guarantee volcanic surveillance while
+personnel was on the island, during the austral summers. In that
+sense, it was possible to detect the 1998-1999 and 2015 seismic
+crises, providing information on the events registered, as well as
+interpretations and potential scenarios on the activity of the
+volcano.
+Since 2020, the National Geographic Institute (IGN) of Spain, as the
+responsible agency for the surveillance of seismic, volcanological
+and other geophysical phenomena in that country, assumed the
+responsibility of carrying out the volcanological monitoring of the
+island, in order to ensure the safety of the Gabriel de Castilla Base
+staff. To this end, in 2021 began the renovation of the existing
+volcano monitoring network through the deployment of permanent
+multiparametric, seismic and geodetic stations, with the capacity to
+transmit information in real time, for the continuous monitoring,
+365 days a year, of the volcano (Figure 2).
+Figure 2: Deployment of the volcano monitoring network IGN from
+Spain, started in December 2021 and whose last installations were
+carried out during March 2024.
+At the same time, in 2022 SEGEMAR, as the responsible agency for
+volcano monitoring in the Argentine Republic through its OAVV,
+signed an agreement with the Argentine Antarctic Institute (IAA),
+and decided to move forward with the installation of the first
+permanent Argentine volcano monitoring network in real time on
+Deception Island, in order to ensure the safety of the staff of
+Deception Base. The network was finally installed during March
+2023, as part of the activities of the summer Antarctic campaign of
+that year (Figure 3).
+Figure 3: Deployment of the Argentine volcano monitoring network
+from OAVV/SEGEMAR during March 2023.
+Consolidation of the Argentine-Spanish Volcano Monitoring
+Network
+International cooperation promoted by Article III of the Antarctic
+Treaty is an essential instrument to carry out most of the scientific
+activities in a continent with unique challenges for scientific
+research and logistics. In this regard, (a) considering the long
+tradition of cooperation between Argentina and Spain in the study
+and monitoring of Deception Island volcano, (b) that currently, they
+are the only countries that have operative temporary bases on the
+island during the austral summer, and (c) that both countries have
+decided to modernize and strengthen their instrumental monitoring
+networks on the island, with the goal of achieving continuous
+surveillance in real time, the natural path for both countries was to
+combine both initiatives in a joint effort.
+This is why during 2023, within the framework of the bilateral
+Antarctic cooperation agreements between Argentina and Spain, a
+Memorandum of Cooperation was signed between SEGEMAR and
+the IGN for the exchange of real-time monitoring information and
+the generation of a binational volcano monitoring network for
+Deception Island. In addition, this agreement provides mutual
+support between the two countries in terms of network
+maintenance activities and strengthens the capacity of the telemetry
+networks to transmit information in real time.
+Currently, the Argentine-Spanish binational volcano monitoring
+network consists of ten broadband seismological stations, eight
+GNSS (Global Navigation Satellite Systems) stations, one IP camera
+and two satellite nodes (Figure 4).
+Figure 4: Map of the Argentine-Spanish binational volcano
+monitoring network on Deception Island.
+Also, both countries complement this information with the
+processing of satellite radar (In-SAR) and thermal images, and field
+work (e.g., geochemical sampling, thermal camera measurements,
+drone overflights, geological studies, etc.) in collaboration with
+research groups from universities from both countries.
+In the beginning of 2024 advances were achieved on the exchange
+of information in real time (Figure 5), thus both countries have now
+the capacity to receive information from all the instruments in real-
+time in their respective processing centers in Buenos Aires
+(SEGEMAR-OAVV) (https://oavv.segemar.gob.ar/monitoreo-
+volcanico/isla-decepcion/) and Madrid (IGN) (https://www.ign.es/
+web/ign/portal).
+Figure 5: Visualization of real-time seismological information from
+the binational volcano monitoring network of Deception Island.
+For the analysis of the seismic activity, both countries use an
+automatic detection system, which, once the event is detected,
+locates its hypocenter using both automatic and manual processing
+routines. (Figure 6).
+Figure 6: Maps of the location of seismic activity in Deception
+Island published by Argentina (Left) and Spain (Right).
+For the analysis of the data obtained by the GNSS network, three
+different processing schemes have been proposed: 1) a daily
+solution processing of coordinates with daily data, 2) a semi-daily
+solution processing of coordinates with hourly data, and 3) a
+baseline processing between the different stations of the network.
+It is expected that during 2024 activities will be carried out for the
+unification of criteria between both countries for the processing of
+the seismic and deformation data and the coordination between
+both institutions for the publication of the monitoring information
+and the generation of Volcanic Activity Reports.
+In this context, as a result of the cooperation between Spain and
+Argentina, the activity of Deception Island volcano is being
+monitored in real time, with the capacity to detect potential
+changes that may anticipate any anomalous condition precursor of
+an eventual eruptive process, and the resulting generation of early
+warnings.
+Deception Island Volcanic Risk Management
+The occurrence of an eruptive event in one of the main active
+volcanoes in Antarctica is highly probable, possibly in the near
+future. To face a potential crisis, it is necessary to advance in the
+generation of hazard maps, and in the improvement of volcano
+monitoring networks and the development of new risk assessments
+to be better prepared for a potential crisis, with the goal of
+mitigating the impact of these events on the staff that is working
+there, as well as in the more remote areas of the region that could
+be affected by the ashfall and ash dispersion.
+Deception Island is the only volcano on the Antarctic continent that
+has an early warning system and a contingency plan for the
+occurrence of a potential volcanic eruption, as included in Appendix
+6 of the management plan of the Antarctic Specially Protected Area
+(ASPA) N°4 (http://www.deceptionisland.aq/package_es.php),
+whose revision has been initiated in 2024 to adapt it to the current
+conditions.
+Spain and Argentina are strengthening their coordination and
+cooperation in communicating volcanic activity alerts and issuing
+Volcanic Activity Reports to ensure the safety of operations carried
+out on the island during periods of activity of the active bases, as
+well as scientific and logistical activities in the region that could be
+affected in the event of a reactivation of the volcano.

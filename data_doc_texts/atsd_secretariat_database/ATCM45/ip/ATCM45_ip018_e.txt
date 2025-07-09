@@ -1,0 +1,117 @@
+Presence of SARS-CoV-2 in waste water in Antarctica and risk
+assessment.
+Presence of SARS-CoV-2 in waste water in Antarctica and risk
+assessment.
+Summary
+The first outbreak of Covid-19 was reported at a Chilean base
+during the December 2020 Antarctic expedition. This season, the
+Antarctic continent reported some positive cases of Covid-19 and
+the measures taken to prevent the entry of this virus with the
+National Antarctic Programmes (NAP) seem to be working, in
+addition to the successful vaccination programmes and quarantine
+measures. The main concern of this global pandemic is limited to
+the health facilities available in the Antarctic bases to manage the
+disease, but the impact that the presence of the virus could have on
+the Antarctic fauna must be considered. The monitoring carried out
+by our programme on samples obtained from the Frei, Escudero and
+O’Higgins Base waste management plants indicated the presence of
+genetic material of the SARS-CoV2 virus, subsequent environmental
+monitoring shows the non-presence of the virus in the Antarctic
+fauna.
+Context
+Following the Covid-19 outbreaks detected at the Chilean station,
+our programme immediately implemented surveillance for the
+presence of the virus in the waste management plants. The presence
+of SARS-CoV-2 in waste water is predictable because it can infect
+the gastrointestinal tract and is shed through the faeces of patients
+(Kitajima et al., 2020; Kumar et al., 2020). For the most part,
+research on the destination of viruses in the aquatic environment
+has focused on enteric viruses, as these viruses are characterised by
+high resistance under various environmental conditions. The
+number of studies on the destination of enveloped viruses in aquatic
+compartments, such as SARS-CoV-2, is quite limited, because
+enveloped viruses are predisposed to inactivation in water. Virus
+persistence can be affected by environmental conditions (eg,
+surface, water, sewage) and by physical and chemical factors (eg,
+temperature, pH, humidity, exposure to sunlight and the type of
+surface). Coronaviruses are not quantitatively significant
+components of marine virioplankton. Members of the Nidovirales
+infect marine mammals, fish, and possibly invertebrates, and
+human coronaviruses can persist in marine plankton receiving
+sewage effluents. However, virions are likely to experience a
+significant decrease in particle number and infectivity rate in
+seawater, similar to other enveloped RNA viruses.
+As suggested by Barbosa et al. (2020), the lack of information on
+susceptibility to SARS-CoV-2 is a significant knowledge gap for a
+risk assessment of the potential impacts of this virus on Antarctic
+fauna. On the other hand, Damas et al. (2020) report that in six
+species of pinnipeds the binding affinity of the ACE2 receptor is
+“very low”, suggesting that Antarctic pinnipeds might also have low
+susceptibility to SARS-CoV-2 infection. However, it is important to
+note that the surviving virions can potentially infect cetaceans such
+as the Antarctic whale (Balaenoptera bonaerensis) and orca
+(Orcinus orca) because they share receptor-binding domains similar
+to the ACE2 protein, which in humans is the receptor that interacts
+with the virus and allows entry into tissues.
+Response and monitoring
+For this reason, our programme began monitoring the presence of
+SARS-CoV-2 in the waste water of the research stations (Escudero,
+Frei and O’Higgins) that had the Covid 19 outbreak event. Waste
+water samples were taken from both the influent (inlet) and effluent
+(outlet). To concentrate the virus from the waste water samples, the
+sample was flocculated using skimmed milk and NaCl. After
+flocculation, RNA extractions were performed. Viral RNA was
+detected by RT-qPCR, targeting the N1 and N2 genomic regions
+(nucleocapsid protein), E protein, and RdRP. In addition, reaction
+inhibition tests were performed and the presence of a positive
+control corresponding to the human RNaseP gene was detected,
+which is an indicator of the presence of faecal material.
+The presence of the virus was detected in all waste water samples,
+which was consistent with the presence of positive cases for
+Covid-19, confirmed by PCR. At the Escudero and O’Higgins
+stations, a viral material signal for SARS-Cov2 was detected in the
+outlet pipe. In contrast, this release was not detected at the Frei
+Base, perhaps due to the type of management, which is based on
+worms that act as biofilters. In addition, the environmental
+sampling carried out during this Antarctic summer, from different
+environmental sources in the vicinity of the O’Higgins station, did
+not detect the presence of the SARS-Cov-2 virus.
+During this season, environmental samples were collected in the
+vicinity of the O’Higgins base, the samples analysed did not detect
+the presence of SARS-Cov 2; on the contrary generic coronaviruses
+were detected.
+Recommendations
+Based on the various literature reviews and scientific evidence
+obtained to date, it is important to try to optimise water treatment
+plant systems to make them more efficient and incorporate state-of-
+the-art technologies. Consideration may be given to adding a final
+disinfection step to further reduce the risk posed by viral pathogens,
+such as SARS-CoV-2, prior to discharge into the sea, such as a water
+ozoniser.
+Continue surveillance for the presence of SARS-CoV-2 in waste
+water from cruise ships, research stations and research ships.
+It is also recommended to continue monitoring the presence of
+SARS-CoV-2 in the ecosystem at different levels of the Antarctic
+food web.
+References
+Barbosa, A., A. Varsani, V. Morandini, et al., (2020) Risk assessment
+of SARS-CoV-2 in Antarctic wildlife, Science of the Total
+Environment, https://doi.org/10.1016/j.scitotenv.2020.143352
+Damas, J., Hughes, G.M., Keough, K.C., Painter, C.A., Persky, N.S.,
+Corbo, M., Hiller, M., Koepfli, K.-P., Pfenning, A.R., Zhao, H.,
+Genereux, D.P., Swofford, R., Pollard, K.S., Ryder, O.A., Nweeia,
+M.T., Lindblad-Toh, K., Teeling, E.C., Karlsson, E.K., Lewin, H.A.
+(2020). Broad host range of SARS-CoV-2 predicted by comparative
+and structural analysis of ACE2 in vertebrates. Proc. Natl. Acad. Sci.
+U.S.A. 8 (117(36)), 22311–22322. https://doi.org/10.1073/
+pnas.2010146117.
+Kitajima, M., Ahmed, W., Bibby, K., Carducci, A., Gerba, C.P.,
+Hamilton, K.A., Haramoto, E., & Rose, J.B. (2020). SARS-CoV-2 in
+waste water: State of the knowledge and research needs. The
+Science of the total environment, 739, 139076. https://
+doi.org/10.1016/j.scitotenv.2020.139076
+Kumar, M., Alamin, M., Kuroda, K., Dhangar, K., Hata, A.,
+Yamaguchi, H., et al. (2021). Potential discharge, attenuation and
+exposure risk of SARS-CoV-2 in natural water bodies receiving
+treated waste water. NPJ Clean Water 4:8. doi: 10.1038/
+s41545-021-00098-2

@@ -1,0 +1,61 @@
+﻿
+
+
+
+
+
+Japan’s Antarctic Research Highlights 2018–19
+
+
+
+
+
+
+
+
+Japan’s Antarctic Research Highlights 2018–19
+Information Paper submitted by Japan
+Summary
+Among various research activities carried out by the Japanese Antarctic Research Expedition (JARE) in the Japanese Antarctic Syowa Station area, three topics are introduced: (1) high-resolution observations of the Antarctic atmosphere with the PANSY radar and complementary instruments; (2) search for an older ice core drilling site in the Dome Fuji area; (3) initiation of high-quality, wide-area, and long-term observations for detection of near-future climate change in East Antarctica and understanding of atmospheric processes.
+1.	Introduction
+The headquarters of the Japanese Antarctic Research Expedition (JARE), Japan’s national Antarctic program, was established in 1955 at the Ministry of Education, Science and Culture (now the Ministry of Education, Culture, Sports, Science and Technology, or MEXT). The headquarters comprises departments and agencies of various government ministries, including the Ministry of Foreign Affairs; the Ministry of the Environment; the Ministry of Defense; the Ministry of Land, Infrastructure, Transport and Tourism; and the Ministry of Agriculture, Forestry and Fisheries. The scientific research and observation programs of JARE are considered and adopted as midterm research plans at general meetings of the headquarters.
+This Information Paper introduces selected highlights from scientific projects carried out by overwintering and summer members of the 59th and 60th JAREs, respectively, at and around Syowa Station (69°00′ S, 39°35′ E) during the 2018–19 season.
+2.	Selected Research Highlights
+Year-round observations have been carried out by overwintering JARE personnel at and around Syowa Station. Seasonal observations are also carried out by summer expedition personnel aboard the Shirase of the Japan Maritime Self-Defense Force and the Umitaka Maru of the Tokyo University of Marine Science and Technology for oceanographic observations and in various research areas.
+2.1.  High-resolution observations of the Antarctic atmosphere with the PANSY radar and complementary instruments
+A study on the global atmosphere system based on high-resolution observations of the Antarctic atmosphere is subtheme 1 of the prioritized project of JARE’s IXth term (2016–2022). This project aims at understanding atmospheric teleconnection in the vertical and meridional (i.e., inter-hemispheric) through intensive observations with the large-aperture atmospheric radar PANSY (Program of the ANtarctic SYowa Mesosphere, Stratosphere, and Troposphere/Incoherent Scatter [MST/IS] Radar), resonance scatter lidar, millimeter-wave radiometer, etc. at Syowa Station and the international observation network composed of radars, lidars, imagers, etc. from the Antarctic to the Arctic.
+The PANSY radar has continued its standard observation in the troposphere, stratosphere, and mesosphere, which reached 3 years by the full system, and 7 years including the partial system. The fourth Inter-hemispheric Coupling Study by Observations and Modeling (ICSOM4; see http://pansy.eps.s.u-tokyo.ac.jp/icsom/) campaign was successfully conducted from December 23, 2018, to January 20, 2019. The ICSOM4 campaign was based on a combination of GCM simulations and simultaneous observations by several MST/IS radars around the world, including PANSY (Fig. 1) with some complementary instruments at Syowa Station such as medium-frequency (MF) and meteor radars, lidars, imagers, etc. This campaign was approved as a project for ROSMIC (Role Of the Sun and the Middle atmosphere/thermosphere/ionosphere In Climate) of the Scientific Committee on Solar-Terrestrial Physics (SCOSTEP) under the International Council for Science (ICSU). International collaborative studies based on the four ICSOM campaigns are ongoing.
+In addition, the PANSY radar succeeded in capturing fine-scale turbulence in the troposphere and lower stratosphere by Frequency Domain Interferometer (FDI) observation in July and October 2018. During the same period, high-resolution radiosonde observations (i.e., Δz = 30 cm) were also performed and captured the same turbulent structure. Both observations were the first in the Antarctic, and such simultaneous observation is rare anywhere in the world.
+The resonance scatter lidar (Fig. 2) has been operated at Syowa Station over the polar winter in 2017 and 2018. It can measure potassium atoms, iron atoms, calcium ions, and molecular nitrogen ions around the mesopause by changing the laser frequency. Calcium ions were detected on October 6, 2018. This is the first successful observation of calcium ions over the polar region.
+
+                         
+
+Figure 1. Global MST/IS radar network, participating in the ICSOM4 campaign. 
+Figure 2. Resonance scatter lidar at Syowa Station.
+
+2.2.  Search for an older ice core drilling site in the Dome Fuji area
+Climatic histories from about 800 kyr BP up to present have been studied using very deep ice cores drilled at dome summits in East Antarctica at Dome Fuji and Dome C. Knowledge gained from ice core studies are crucial to understand the past and present climate and to predict the impacts of future climate changes. International Partnership for Ice Core Sciences (IPICS) identified that ice cores covering ages of the Mid-Pleistocene Transition are a necessary step to better understand climate dynamics. Multiple ice cores older than 1 M yrs BP are necessary. Dome Fuji area in East Antarctica is one of the candidate areas where we may be able to find very old ice cores near the bottom of the ice sheet. Japanese Antarctic Research Expedition (JARE) has conducted deep ice coring at Dome Fuji twice in the past decade. They recovered ice cores covering ages up to about 720 kyr BP. At the same time, they accumulated radar sounding data in this area. Alfred Wegener Institute (AWI), Germany, made an extensive airborne radar survey in the 2016–2017 season covering Dome Fuji with a basic survey line spacing of 10 km. In the following season of 2017–2018, JARE also made ground-based radar surveys over a distance of 2,950 km with a line spacing of 5 km or less. Based on results of these surveys, we conducted a more detailed radar surveys at Dome Fuji in the 2018–2019 season as collaborative research between the University of Alabama, the University of Kansas, the National Institute of Polar Research under the Research Organization of Information and Systems (Japan), and the Norwegian Polar Institute. The Norwegian Polar Institute also joined in collaborating on these efforts with the European framework of Beyond EPICA—Oldest Ice (BE-OI). We used two state-of-the-art radars: A wideband radar ice sounder developed by CReSIS, University of Kansas; and ultra-wideband radar developed by the University of Alabama. In addition, we used JARE’s classical pulse-modulated VHF radar with high-gain antennas. Using a traverse team of JARE and its snow vehicles (Fig. 3), we investigated along 2,700 km in an area of about 1,000 km2. Final spacing between survey lines varied between 0.5 km and 0.25 km. The surveys were completed by the end of December 2018. Preliminary quick-look results (for example, Fig. 4) indicate that we collected an excellent radar data set with very good layering information, including the bottom 10% of the ice. The data will be examined to identify candidate locations to drill very old ice.
+
+             
+
+Figure 3. Left: A JARE tracked vehicle with high-gain antennas used for the JARE 179 MHz VHF pulse modulated radars. Right: A JARE tracked vehicle with wideband radar ice sounder developed by CReSIS, University of Kansas and ultra-wideband radar developed by University of Alabama.
+
+
+
+Figure 4. Left: Typical data for shallow firn layers observed with the ultra-wideband radar. Right: Typical radargram from the wideband ice sounder. ~1300 km long survey lines were covered by observation with this radar. ~1300 km long survey lines were covered by observation with this radar.
+
+2.3.  Initiation of high-quality, wide-area, and long-term observations for detection of near-future climate change in East Antarctica and understanding of atmospheric processes
+2.3.1. Start of Syowa Station as a GRUAN-site
+The Global Climate Observing System (GCOS) Reference Upper-Air Network (GRUAN) is an international reference observing network of sites measuring essential climate variables above Earth’s surface, designed to fill an important gap in the current global observing system. GRUAN measurements are providing long-term, high-quality climate data records from the surface, through the troposphere, and into the stratosphere. These are being used to determine trends, constrain and calibrate data from more spatially comprehensive observing systems (including satellites and current radiosonde networks), and provide appropriate data for studying atmospheric processes. GRUAN is envisaged as a global network of eventually 30–40 sites that, to the extent possible, builds on existing observational networks and capabilities. 
+Currently, 26 sites around the world are active as GRUAN-sites (Fig. 5). Syowa station has become one of two GRUAN-sites in Antarctica in 2018. The other site is Australia’s Davis. GRUAN places the highest priority on the accuracy of air pressure, temperature, and humidity observation, and at Syowa Station, the observation was started formally by the Japan Meteorological Agency (JMA) in March 2018, using the RS11G, manufactured by Meisei Electric, as a radiosonde meeting the observation requirements of GRUAN. Syowa Station will maintain the observation interval twice a day (00UTC, 12UTC) and will continue to supply the highest-precision data on the upper atmosphere in the Antarctic region.
+
+Figure 5.  As at the end of 2017, GRUAN comprises of 26 sites, 9 of which have been GRUAN certified.
+                       
+2.3.1. Contribution to YOPP-SH
+The Polar Prediction Project (PPP) is a 10-year (2013–2022) activity of the World Meteorological Organization’s (WMO) World Weather Research Program (WWRP) with the aim of developing improved weather and environmental prediction for the polar regions. The Year of Polar Prediction (YOPP) is the flagship activity of PPP, with the aim of enabling a significant improvement in environmental prediction capabilities for the polar regions and beyond, by coordinating a period of intensive observing, modelling, verification, etc. The Year of Polar Prediction is composed of three phases, with the core phase taking place during the period May 2017 to June 2019, when enhanced observations and weather forecasts will be carried out. The Antarctic activity is called YOPP in the southern hemisphere (YOPP-SH).
+YOPP set the Special Observation Period (SOP) in order to create higher observation density periods by concentrating each country’s observations at specific periods, and the period for YOPP-SH was set for three months from November 16, 2018, to February 15, 2019. In JARE, three activities of enhanced radiosonde observation and provision of data from three automatic weather systems (AWSs) on the Antarctic ice sheet were carried out (Fig. 6). Radiosonde observations at Syowa Station were conducted four times a day throughout the three months. The other radiosonde activities include 39 radiosonde observation events at Dome Fuji Station (77.3 °S, 39.7 °E, 3,800 m asl.) in December 2018 and 20 times observation from the ship Shirase off Syowa Station in February 2019. The three AWSs at H128 (69.4°S, 41.6°E, 1,380 m asl.), Relay Point (74.0°S, 43.0°E, 3,350 m asl.), and New Dome Fuji (near Dome Fuji Station) provided the surface meteorological elements every three hours throughout the three months, except for November 2018, when data transmission from Relay Point stopped.
+
+
+
+Figure 6.  Installation of AWS at Relay Point and radiosonde observation in the Antarctic interior in 2018 spring season.
+

@@ -1,0 +1,23 @@
+﻿
+
+
+
+
+
+Antarctic Alien Species Database
+
+
+Antarctic Alien Species Database
+Working Paper submitted by Australia
+Abstract
+An interface has been developed to provide ready access to alien species records in the Antarctic Biodiversity database maintained by the Australian Antarctic Data Centre. It is recommended that the Committee encourages Members to use the Biodiversity database as a central repository for records of alien species occurrences in the Antarctic region. 
+Background
+During discussion at CEP IX of the New Zealand workshop on “Non-native Species in the Antarctic” (ATCM XXIX/WP13) it was suggested that a common database for recording new species would be useful. New Zealand investigated opportunities for using the Global Invasive Species Database maintained by IUCN and reported back to CEP X (ATCM XXX IP/43). It was noted that the IUCN global database contains information on a sub-set of all alien species (“invasive” aliens) but that that a central Antarctic database would assist Parties to manage non-native species. The provisional CEP Five Year Work Plan adopted at CEP X included as a suggested action “establish a database of non-native species occurrences in Antarctica”.
+Biodiversity database and alien species records
+The Australian Antarctic Division (AAD) maintains a Biodiversity database, in support of the Scientific Committee on Antarctic Research (SCAR) Life Sciences program Evolution and Biodiversity in the Antarctic (EBA) (http://www.eba.aq). The database contains species records from the Antarctic and sub-Antarctic, and already includes observations of over 190 alien species, drawn from Frenot et al. (2005) Biological invasions in the Antarctic: extent, impacts and implications and elsewhere.
+The database is accessible from the Australian Antarctic Data Centre website at: http://data.aad.gov.au/aadc/biodiversity/index.cfm and clicking on the tab “Bioregions and Aliens”. It is also connected to the Antarctic Master Directory via URL links in the metadata record. Most of the data in the database are public and can be republished to other external repositories.
+The database can be searched by species, geographic region, or alien status (transient, persistent, invasive). Many data fields are available for each species observation including: species profile, date, location, coordinates, collector/observer, type of record. Records are registered by contacting the database manager at aliens@aad.gov.au
+The Australian Antarctic Data Centre would welcome feedback from the CEP on the usefulness of the database and will, where practicable, respond to suggestions and requests for improvements. 
+Recommendation
+Australia recommends that the CEP encourages Members to use the Biodiversity database as the central database of alien species occurrences in the Antarctic region.  
+

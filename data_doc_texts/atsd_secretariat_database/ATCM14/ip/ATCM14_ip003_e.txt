@@ -1,0 +1,2229 @@
+TRATADO ANTARTICO
+XIV REUNION CONSULTIVA                                  ANTARCTIC TREATY
+                                                            XIV CONSULTATIVE MEETING
+
+TRAITE SUR L'ANTARCTIQUE
+XIV REUNION CONSULTATIVE                                ДОГОВОР ОБ АНТАРКТИКЕ
+                                                            XIV КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+                        RIO DE JANEIRO
+                        1987
+
+ANT/XIV/Inf/3
+
+5 October 1987
+
+Final Report of the Fourth Session of the
+WMO Executive Council Working Group on
+Antarctic Meteorology, Geneva, September,
+1986 Document Submitted by the United
+Kingdom Delegation
+XIV ATCM/Prep/.007
+
+
+INFORMATION DOCUMENT SUBMITTED BY
+THE UNITED KINGDOM DELEGATION
+IN CONNECTION WITH A NEW AGENDA ITEM,
+TO BE PROPOSED BY THE UNITED KINGDOM,
+ON ANTARCTIC METEOROLOGY AND TELE-
+COMMUNICATIONS.
+WORLD METEOROLOGICAL ORGANIZATION
+=====================================================
+
+EXECUTIVE COUNCIL
+
+WORKING GROUP ON ANTARCTIC METEOROLOGY
+
+FOURTH SESSION
+
+final report
+
+GENEVA, 1 to 5 SEPTEMBER 1986
+AGENDA
+
+1. ORGANIZATION OF THE SESSION
+    1.1  Opening of the session
+    1.2  Adoption of the agenda
+    1.3  Working arrangements for the session
+
+2. REPORT OF THE CHAIRMAN OF THE WORKING GROUP
+
+3. REVIEW OF RECOMMENDATIONS OF THE THIRD SESSION OF THE WORKING
+GROUP AND RELEVANT DECISIONS OF CONGRESS AND THE EXECUTIVE
+COUNCIL
+
+4. WWW ACTIVITIES RELATED TO THE ANTARCTIC, INCLUDING THE WWW PLAN
+AND WWW IMPLEMENTATION PROGRAMME FOR THE PERIOD 1988-1997
+    4.1  Draft WWW Plan and WWW Implementation Programme for the
+period 1988-1997 as part of the Second Long-term Plan
+    4.2  Data-processing system including codes
+    4.3  Observing system
+    4.4  Telecommunication system
+    4.5  Data management
+
+5. INSTRUMENTS AND METHODS OF OBSERVATION PECULIAR TO THE ANTARCTIC
+
+6. ANTARCTIC ASPECTS OF THE WORLD CLIMATE RESEARCH PROGRAMME (WCRP)
+
+7. ANTARCTIC METEOROLOGICAL RESEARCH ACTIVITIES
+
+8. CO-OPERATION WITH OTHER INTERNATIONAL ANTARCTIC PROGRAMMES AND
+ORGANIZATIONS
+
+9. FUTURE WORK PROGRAMME
+
+10. CLOSURE OF THE SESSION
+
+WWW/2493
+LIST OF PARTICIPANTS
+
+STRETEN, Dr. N. A. (Chairman)                  AUSTRALIA
+ALAIMO, Comodoro S.                           ARGENTINA
+RUIZ ASMUSSEN, Mr. E.                          CHILE
+LUO, Mr. J.                                    CHINA
+MALICK, Mr. M.                                 FRANCE
+SEIFERT, Mr. W.                                GERMANY, Federal Republic of
+GUPTA, Mr. M. G.                               INDIA
+BREMNES, Mr. O. H.                             NORWAY
+CISNEROS, Mr. D. J.                            SPAIN
+CORNFORD, Mr. S. G.                            U.K.
+LIMBERT, Mr. D.                                U.K.
+CARTWRIGHT, Mr. G. D.                          U.S.A.
+NEILON, Mr. J. R.                              U.S.A.
+BELIAEV, Dr. Yu. A.                            U.S.S.R.
+MARUCCI, Dr. F. (Observer)                     ITALY
+PELLEGRINI, Dr. A. (Observer)                  ITALY
+SORANI, Dr. R. (Observer)                      ITALY
+ZANNI, Dr. S. (Observer)                       ITALY
+KUSUNOKI, Dr. K. (Observer)                    Scientific Committee on
+                                               Antarctic Research (SCAR)
+LE ROUX, Mr. P. (Observer)                     Scientific Committee on
+                                               Antarctic Research (SCAR)
+
+Secretariat
+WEISS, G. K.
+MILDNER, S.
+YAMAGUCHI, Y.
+ZHANG, X.
+
+WWM/2493
+- 19 -
+
+(2) That the working group make recommendations, as necessary, to 
+the Executive Council within its terms of reference;
+
+(3) That the working group will be composed of members nominated by 
+the permanent representatives of countries which are Parties to the Antarctic 
+Treaty and experts designated by permanent representatives of Members who have 
+not yet acceded to the Treaty but have active meteorological programmes in the 
+Antarctic;
+
+REQUESTS the Secretary-General:
+
+(1) To arrange for necessary sessions of the working group and to 
+provide the necessary Secretariat support;
+
+(2) To arrange that the relevant recommendations of the working 
+group be transmitted to Members which are Parties to the Antarctic Treaty for 
+comment prior to their consideration by the Executive Council.
+
+WWW/2493
+- 20 -
+
+Recommendation
+
+Rec. 2 (EC/WGAM-IV) - OBSERVATIONS FROM SHIPS AND AIRCRAFT OPERATING IN 
+THE ANTARCTIC
+
+THE EXECUTIVE COUNCIL WORKING GROUP ON ANTARCTIC METEOROLOGY;
+
+NOTING:
+
+    (1) That supply ships operating in the Antarctic have adequate 
+communication facilities and may carry meteorological staff,
+
+    (2) That aircraft are extensively used for the supply of bases in 
+the Antarctic,
+
+CONSIDERING:
+
+    (1) That supply ships do not at present always make and transmit 
+meteorological observations,
+
+    (2) That most supply ships are also suitable for the carrying out of 
+upper-air programmes,
+
+    (3) That aircraft reports are of particular importance in the area 
+south of 60°S to supplement data from radiosonde/radiowind stations,
+
+URGES Members to ensure that:
+
+    (1) All supply vessels operating in the Antarctic make regular 
+surface synoptic observations at main synoptic hours, and transmit these data 
+to appropriate radio or coastal ground stations in accordance with the 
+procedures presented in the Manual on the GTS, Volume I, Part I, 
+Attachment I-1 and WMO Publication No. 9. TP:4, Volume D;
+
+    (2) Supply vessels, whenever practicable, also make upper-air 
+observations and transmit these reports on a real-time basis;
+
+    (3) Aircraft operating south of 60°S make observations as a matter 
+of routine and transmit them to the appropriate radio stations or satellites 
+for further distribution in AIREP or ASDAR form;
+
+REQUESTS the Secretary-General to invite Members, in particular 
+parties to the Antarctic Treaty, to obtain the maximum collaboration from 
+operators of ships and aircraft in implementing this recommendation.
+
+WWW/2493
+- 21 -
+
+Recommendation
+
+Rec. 3 (EC/WGAM-IV) - REGIONAL CODING PROCEDURES FOR REPORTING DATA 
+                        FOR THE 925 hPa LEVEL
+
+THE EC WORKING GROUP ON ANTARCTIC METEOROLOGY,
+
+NOTING:
+
+(1)     Abridged final report of CBS-VIII, general summary,
+        paragraph 8.11,
+
+(2)     Manual on Codes, Volume II,
+
+CONSIDERING:
+
+(1)     That the international exchange of data at 925 hPa from
+        Antarctic stations would be very useful for forecasting meteorological
+        conditions in the atmospheric boundary layer;
+
+(2)     That the Commission for Basic Systems has invited those regional
+        associations which have not already done so to develop regional coding
+        procedures for reporting low-level data;
+
+(3)     That the MSL pressure may be as low as 930 hPa in any winter and
+        that the 900m level will still be required;
+
+RECOMMENDS:
+
+(1)     That the Council adopts as regional coding procedure the form of
+        Part B, Section 9 of code forms FM 35-V TEMP, FM 36-V TEMP SHIP and FM 37-VII
+        TEMP DROP which is given in the annex to this recommendation, as from 1
+        November 1987;
+
+(2)     That the 900m level should continue to be reported in addition
+        to the 925 hPa level;
+
+(3)     That the Secretary-General of WMO be requested to include the
+        relevant amendments to the regional coding procedures for FM 12-VIII Ext.
+        SYNOP, in Chapter VII of Volume II of the Manual on Codes.
+
+Annex:      V
+
+
+WWW/2493
+- 22 -
+
+Recommendation
+
+Rec. 4 (EC/WGAM-IV) - REGIONAL CODING PROCEDURES FOR REPORTING STATION 
+                          PRESSURE DATA
+
+THE EXECUTIVE COUNCIL WORKING GROUP ON ANTARCTIC METEOROLOGY,
+
+NOTING:
+      (1)  Abridged final report of CBS-Ext.(85), general summary,
+           paragraph 7.2.36,
+
+      (2)  Manual on Codes, Volume II,
+
+CONSIDERING:
+
+      (1)  That a globally standardized procedure for pressure reduction
+           is not yet established,
+
+      (2)  That particularly for stations at higher elevations (i.e. 500m
+           or higher) application of different pressure reduction procedures in some
+           cases result in sea level pressure values which are not comparable,
+
+      (3)  That in such cases the additional reporting of station level
+           pressure values is essential to correct for deformations in the analysis of
+           the horizontal pressure field which are purely artificial and recurring,
+
+RECOMMENDS:
+
+      (1)  That the Council adopts regional coding procedures for the
+           Antarctic for reporting station pressure data in the synoptic report as given
+           in the annex to this recommendation for use as from 1 November 1987.
+
+      (2)  That the Secretary-General of WMO be requested to include the
+           relevant amendments to the regional coding procedures for FM 12-VIII Ext.
+           SYNOP, in Chapter VII of Volume II of the Manual on Codes.
+
+Annex:    VI
+
+WWW/2493
+- 23 -
+
+Recommendation
+
+Rec. 5 (EC/WGAM-IV) - REGIONAL CODING PROCEDURES TO MEET ADDITIONAL DATA REQUIREMENTS
+
+THE EXECUTIVE COUNCIL WORKING GROUP ON ANTARCTIC METEOROLOGY,
+
+NOTING:
+
+(1)  Resolution 7 (EC-XXXV) - EC Working Group on Antarctic Meteorology,
+
+(2)  General summary of EC-XXXVI, paragraph 3.1.3.4,
+
+(3)  General summary of CBS Ext.(85), paragraphs 7.2.7 to 7.2.12,
+
+CONSIDERING that there is an expressed additional requirement for precipitation and snow-depth data for global exchange and evaporation (evapotranspiration) net-radiation and daily hours of bright sunshine data for regional exchange and noting that there are considerable observational difficulties in proving such data in the Antarctic;
+
+INVITES the Chairman of the EC Working Group on Antarctic Meteorology to approve any consequential improvements to the annex to this recommendation which may become necessary as a result of the deliberations of the next session of the CBS Working Group on Codes;
+
+RECOMMENDS:
+
+(1)  That the Council adopts amendments to Regional coding procedures with respect to SYNOP/SHIP codes as given in the annex to this recommendation for use in the Antarctic as from 1 November 1988;
+
+(2)  That the Secretary-General of WMO be requested to include the relevant amendments to the Regional coding procedures for FM 12-VIII Ext. SYNOP in Chapter VII of Volume II of the Manual on Codes.
+
+Annex    VII
+
+WWW/2493
+- 24 -
+
+Recommendation
+
+Rec. 6 (EC/WGAM-IV) - BASIC SYNOPTIC NETWORK IN THE ANTARCTIC
+
+THE EXECUTIVE COUNCIL WORKING GROUP ON ANTARCTIC METEOROLOGY,
+
+NOTING:
+
+(1) Resolution 5 (EC-XXXIV) - Basic Synoptic Network in the 
+Antarctic,
+
+(2) The draft World Weather Watch plan and implementation 
+programme for 1988-1997, as it relates to the Antarctic,
+
+(3) The Manual on the Global Observing System, Volume I, Part III, 
+Regulations 2.4.2.1, 2.4.2.2, 2.4.3.1, 2.4.3.2, and the definition of a 
+principal land station,
+
+CONSIDERING:
+
+(1) That the establishment and maintenance of a basic synoptic 
+network of surface and upper-air stations in the Antarctic, adequate to meet 
+the requirements of Members and of the World Weather Watch, constitutes one of 
+the most important obligations of Members under Article 1 of the WMO 
+Convention,
+
+RECOMMENDS that the stations and the observational programmes 
+listed in the annex to this recommendation constitute the basic synoptic 
+network in the Antarctic,
+
+RECOMMENDS further that:
+
+(1) Members be urged to spare no effort in their endeavours to 
+secure full implementation of the network of stations and observational 
+programmes set forth in the annex to this recommendation at the earliest date 
+possible,
+
+(2) Members be urged to comply fully with the standard times of 
+observation, the coding procedures and the data-collection standards, as laid 
+down in the WMO Technical Regulations and the Manuals on the GOS, on Codes, on 
+the GTS and on the GDPS,
+
+(3) The President of WMO be authorized to approve, at the request 
+of the Member concerned and in consultation with the Secretary-General and the 
+Chairman of the Executive Council Working Group on Antarctic Meteorology, 
+minor changes to the basic synoptic network in the Antarctic as may be 
+required if they do not adversely affect the density criteria and the required 
+programmes, it being understood that any change of substance would still 
+require a formal consultation of the WMO Members, operating in the Antarctic,
+
+(4) The Secretary-General be requested to bring such changes to 
+the attention of the Members of WMO.
+
+Annex:  VIII
+WMO/2493
+- 25 -
+
+Recommendation
+
+Rec. 7 (EC/WGAM-IV) - THE FURTHER DEVELOPMENT OF THE GLOBAL OBSERVING SYSTEM
+
+THE EXECUTIVE COUNCIL WORKING GROUP ON ANTARCTIC METEOROLOGY,
+
+NOTING:
+
+      (1) Resolution 4 (Cg-IX) - Improved Global Observing System 
+          Elements,
+
+      (2) Resolution 2 (EC-XXXVII) - Automated Shipboard Aerological 
+          Programme,
+
+      (3) Resolution 10 (EC-XXXVII) - Drifting Buoy Co-ordination Panel,
+
+      (4) The progress being made in the implementation of the ASDAR,
+          ASAP and drifting buoy programmes,
+
+CONSIDERING:
+
+      (1) That the Antarctic is a data sparse region;
+
+      (2) The importance of an effective basic synoptic network in the 
+          Antarctic and the need to integrate the network with the overall GOS;
+
+      (3) The need to have comprehensive and realistic information on the 
+          value of new observing systems, their cost and their interfaces with other 
+          parts of the regional programme,
+
+RECOMMENDS that Members, particularly parties to the Antarctic 
+Treaty, be invited individually and collectively to:
+
+      (1) Participate in the deployment and use of new observing systems 
+          and to evaluate the effectiveness of these systems and their integration in 
+          the WWW;
+
+      (2) Provide additional surface observations in the Antarctic using 
+          the Voluntary Observing Ship Scheme, automatic land weather stations, buoys 
+          and suitable fixed platforms; and arrange where possible for the transmission 
+          of these observations on the Global Telecommunication System;
+
+      (3) Consider the possibility of deploying ASDARS on aircraft flying 
+          suitable routes over the Antarctic;
+
+      (4) Examine the communication facilities and data quality control 
+          procedures to ensure that the data are of high quality and received at the 
+          data processing centres in a timely fashion.
+
+WWW/2493
+- 26 -
+
+Recommendation
+
+Rec. 8 (EC/WGAM-IV) - NETWORK OF CLIMAT AND CLIMAT TEMP REPORTING STATIONS IN
+THE ANTARCTIC
+
+THE EXECUTIVE COUNCIL WORKING GROUP ON ANTARCTIC METEOROLOGY,
+
+NOTING:
+
+(1) The Manual on the Global Observing System, Volume II - Regional
+Aspects, Antarctic,
+
+(2) The WMO Technical Regulations, Regulation (A.2.4) 3.1,
+
+RECOMMENDS:
+
+(1) That the network of stations preparing and transmitting CLIMAT
+and CLIMAT TEMP reports in the Antarctic include the stations listed in the
+annex to this recommendation,
+
+(2) That Members be urged to maintain the required observing
+programmes at the stations listed in the annex to this recommendation and to
+provide regularly, for international exchange, the required CLIMAT and CLIMAT
+TEMP reports,
+
+(3) That Members be encouraged to expand the network by ensuring
+that all stations in the basic synoptic network provide CLIMAT and where
+applicable CLIMAT TEMP reports,
+
+(4) That the President of WMO be authorized to approve, on behalf of
+the Executive Council and in consultation with the Secretary-General and the
+Chairman of the Executive Council Working Group on Antarctic Meteorology,
+minor changes to this network as may be required,
+
+(5) That the Secretary-General be requested to arrange for the
+inclusion in WMO Publication No. 9, Volume A, of the information concerning
+this network and to bring the changes to it as approved by the President of
+WMO to the attention of all Members of WMO.
+
+Annex: IX
+
+WWW/2493
+- 27 -
+
+Recommendation
+
+Rec. 9 (EC/WGAM-IV) -    DEPLOYMENT OF DATA BUOYS IN THE ANTARCTIC SEA ICE 
+                          ZONE
+
+THE EXECUTIVE COUNCIL WORKING GROUP ON ANTARCTIC METEOROLOGY,
+
+NOTING;
+
+(1)    The Scientific Plan for the World Climate Research Programme,
+WCRP No. 2, WMO/TD No. 6,
+
+(2)    The First Implementation Plan for the World Climate Research
+Programme, WCRP No. 5, WMO/TD No. 80,
+
+CONSIDERING:
+
+(1)    That buoy arrays in the seasonal sea ice zone around the 
+Antarctic are capable of providing valuable data for both weather forecasting
+and climate research,
+
+(2)    That the performance of global numerical models would be 
+improved by the addition of a further, limited number of buoys located within
+the Antarctic sea ice zone,
+
+(3)    That the Planning Group for the World Ocean Circulation 
+Experiment have identified the Weddel and Ross Seas as important components of
+the Southern Ocean Circulation,
+
+(4)    That the Southern Ocean is a component of the TOGA Programme,
+
+RECOMMENDS that Members be urged to ensure that a limited number of 
+drifting buoys are deployed per annum in the Antarctic sea ice zone up to and 
+including the period of the planned World Ocean Circulation Experiment for 
+continued collection of data.
+
+WWWW/2493
+- 28  -                                          
+ANNEX I p. 1
+
+ANTARCTIC                                                
+
+IMPLEMENTATION PROGRAMME FOR THE ANTARCTIC            
+
+IMPLEMENTATION OBJECTIVES 1988-1997                      
+
+Introduction                                               
+
+277.  Although its formal Regional structure was not extended south of 
+latitude 60°S, WMO recognizes that the basic synoptic network in the Antarctic 
+is an important component of the Global Observing System (GOS).  The operation 
+and maintenance of this network, the implementation of the surface and       
+upper-air observing programmes and the timely transmission of the           
+observational data by means of the Global Telecommunication System (GTS) are
+essential components of the WWW system in order to meet Members' requirements
+for meteorological data for both global analysis and prediction and for data 
+and specialized products within the Antarctic itself.  The preparation and    
+distribution of meteorological analyses and prognoses for the Antarctic and 
+specialized forecasts for users, as well as warnings of dangerous weather     
+conditions for the Antarctic are important components of the Global         
+Data-Processing System (GDPS).                                        
+
+Overall objectives of WMO in the Antarctic                
+
+278.  The objectives are:                                          
+
+(a) Implementation of surface- and upper-air observations, consistent with 
+the programmes initiated by the parties to the Antarctic Treaty and agreed 
+to by the EC Working Group on Antarctic Meteorology;               
+
+(b) Operation, by mutual agreement of parties to the Antarctic Treaty, of  
+Antarctic Meteorological Centres, with functions similar to those of a WWW 
+Specialized Meteorological Centre.  Such centre(s) which could be located  
+either inside or outside the Antarctic would be supported by other centres 
+which might also be located inside or outside the Antarctic.  The purpose 
+of the Antarctic Meteorological Centre is to meet the requirements of Members 
+for specialized analyses, forecasts, and products covering the Antarctic; 
+
+(c) Organization and continuing improvement of the necessary             
+telecommunication links, including satellite links, among the Antarctic    
+stations, and between the Antarctic and the GTS;                   
+
+(d) Definition by the EC Working Group on Antarctic Meteorology of the    
+requirements for meteorological services in the various areas of the      
+Antarctic continent and surrounding Southern Ocean, both by the parties to 
+the Antarctic Treaty and of other interested countries;            
+
+(e) Organization of the exchange of agreed meteorological information   
+between the Antarctic stations and the Antarctic Meteorological Centre(s), 
+as well as of agreed information between the Antarctic and interested WMCs 
+and other centres;                                                 
+
+(f) Use in the Antarctic of modern techniques and systems for observations 
+and data collection, processing and dissemination.                 
+
+WWW/2493
+- 29 -
+
+ANNEX I p. 2
+
+Specific implementation objectives to be achieved by 1997 in the Antarctic
+
+279.  The specific implementation objectives are listed for each WWW element 
+in the following paragraphs.
+
+GDPS
+
+280.  One or more Antarctic Meteorological Centre(s) will be designated by 
+agreement with parties to the Antarctic Treaty.  (Such Centre(s) may be inside 
+or outside the Antarctic).  With support from WMCs and other centres, these 
+Centre(s) will provide the following services to users:
+
+     (a)     Preparation of meteorological analyses and prognoses for the whole of 
+             the Antarctic or for defined sectors thereof, and making these 
+             promptly available to other centres/stations inside or outside the 
+             Antarctic;
+
+     (b)     Preparation of specialized meteorological forecasts for users (marine 
+             and aviation interests, traverse parties, etc.) and making these 
+             promptly available to other centres/stations inside or outside the 
+             Antarctic;
+
+     (c)     Preparation and distribution of warnings of dangerous weather 
+             conditions for the area for which the centre prepares analyses, 
+             prognoses or specialized forecasts;
+
+     Note:  The provision of these services may be subject to seasonal 
+     variation between the southern summer and winter.
+
+281.  Data and product sets will be prepared in non-real-time at WMC and 
+other Centres, or at Antarctic Meteorological Centre(s) and appropriately 
+formatted and quality controlled, for use in various application and research 
+programmes (e.g. climate diagnosis, synoptic/climatological analyses, etc.).
+
+GOS
+
+282.  The space-based network will be implemented by the satellite operators 
+in accordance with the WWW Plan.  Certain observing systems (e.g. ASDAR, ASAP 
+and drifting buoys) will be implemented on a global basis, e.g. through groups 
+of interested Members.  Data from these observing systems and data and imagery 
+from the space-based systems will be available to Centres and stations inside 
+and outside the Antarctic for use in their analysis, forecasting and storm 
+warning services.
+
+283.  Implementation of Basic Synoptic Networks in the Antarctic will be 
+sought according to the programmes initiated by the parties to the Antarctic 
+Treaty and reviewed by the EC Working Group on Antarctic Meteorology.  These 
+include a surface-based network with observations taken at the four main 
+standard times of observation and where possible, at some or all of the four 
+intermediate standard times of observation, and twice per day (00 and 12 GMT) 
+at radiosonde stations. The Basic Synoptic Networks will also provide the
+
+WWW/2493
+- 30 -
+
+ANNEX I p. 3
+
+Antarctic contribution to the global surface synoptic land station network 
+reporting at least at the four main synoptic hours with ideally a horizontal 
+spacing of 300 to 500 km and radiosonde stations reporting twice per day with 
+a spacing of 500 to 1000 km.
+
+284.     Members concerned will also:
+
+         (a)     Arrange for additional surface synoptic and upper-air observations 
+                 from suitable ships;
+
+         (b)     Operate radars for special purposes.
+
+         GTS
+
+285.     Observational data and products will be exchanged in a regular and 
+timely fashion within the Antarctic through special data exchange arrangements 
+between centres and stations:  at least 80% of the Antarctic data will be 
+available at centres and stations in the Antarctic within three hours. 
+Processed products will reach stations within six hours.
+
+286.     Global and regional observational data and products from outside the 
+Antarctic will be exchanged in a regular and timely fashion, through special 
+transmission arrangements.
+
+287.     There will be regular and timely transmission of Antarctic data to 
+other Regions and WMCs (as defined in paragraph 18, Part A).
+
+IMPLEMENTATION ACTIVITIES
+
+Main activities for achieving WWW objectives in the Antarctic
+
+288.     The following activities to improve the WWW in the Antaractic are 
+expected to have been implemented when the Plan begins:
+
+         (a)     The Secretary-General of WMO will have informed the parties to the 
+                 Antarctic Treaty of the importance which WMO attaches to high quality 
+and readily available meteorological observations in the Antarctic and 
+will have requested them to communicate their plans with respect of 
+the objectives of WWW as outlined in para. 278;
+
+         (b)     The EC Working Group on Antarctic Meteorology will have been asked to 
+review the various national plans and to provide the basis for a 
+future detailed plan for WWW in the Antarctic;
+
+         (c)     A survey will have been made of the requirements for data and services 
+of nations conducting operational activities in the Antarctic and this 
+will have been reviewed by the EC Working Group on Antarctic 
+Meteorology by correspondence;
+
+WWW/2493
+- 31 -
+
+ANNEX I p. 4
+
+(d)     The parties to the Antarctic Treaty will have been requested to 
+        organize a meeting of experts on telecommunications (including a 
+        representative of the Secretary-General of WMO) to develop an improved 
+        scheme of telecommunication links within the Antarctic region and 
+        between Antarctica and other countries for the purposes of meeting the 
+        requirements of interested countries for the collection, exchange and 
+        dissemination of meteorological information;
+
+(e)     The parties to the Antarctic Treaty will be asked if they have any 
+        plans to establish a centre in support of Antarctic Meteorology;
+
+289.    The following activities to improve the WWW in the Antarctic will be 
+        implemented in the early years of this Second Long-term Plan:
+
+(a)     The EC Working Group on Antarctic Meteorology will be requested to 
+        formulate the requirements for meteorological services in the various 
+        areas of the Antarctic continent and surrounding southern Oceans;
+
+                                1988
+
+(b)     Members concerned will be requested to begin the implementation of the 
+        improved Basic Synoptic Network in the Antarctic as agreed upon by the 
+        EC Working Group on Antarctic Meteorology;
+
+                                1988
+
+(c)     Members concerned will be requested to begin the implementation of the 
+        improved telecommunication links, including satellite links, among the 
+        Antarctic centres/stations and between the Antarctic and the remainder 
+        of the GTS;
+
+                                1988
+
+(d)     The EC Working Group on Antarctic Meteorology will recommend to 
+        parties to the Antarctic Treaty a list of proposed Antarctic 
+        Meteorological Centres whose designation would be technically and 
+        operationally sound;
+
+                                1988
+
+(e)     The parties to the Antarctic Treaty will be asked to agree to the 
+        designation of the Antarctic Meteorological Centres;
+
+                                1988
+
+(f)     Members concerned will be requested to begin the implementation of the 
+        designated Centres;
+
+                                1989
+
+(g)     The EC Working Group on Antarctic Meteorology will be requested to 
+        determine the requirements for non-real-time data and relevant Members 
+        will be requested to develop procedures for generating non-real-time 
+        data and products.
+
+                                1990
+
+WWW/2493
+- 32' -                                          
+ANNEX II                                           
+
+Annex to paragraph 4.4.9 of the general summary   
+
+Summary of Information of Collection of Meteorological Observational Data
+by Individual Centres                               
+
+ARGENTINA (Marambio)                               
+88963, 88968, 88970 89034, 89055, 89053, 89066      
+(Compiled under SABM)                              
+
+AUSTRALIA (Mawson, Casey)                           
+89532, 89571, 89611, 89564, 89642                   
+(Compiled under AMMC)                              
+
+CHILE (Frei)                                       
+89056, 89057, 89059                                
+(Compiled under SCEF)                              
+
+UNITED KINGDOM (Faraday)                           
+89042, 89063, 89061, 89062, 89083                   
+(Compiled under STAF or KWBC)                      
+
+USA (McMurdo)                                      
+89009, 89664                                       
+(Compiled under NZKL)                              
+
+USSR (Molodezhnaya)                                
+89050, 89132, 89512; 89542, 89592, 98606, 89657, 89052
+(Compiled under RUML)                              
+
+SINGLE STATION ENTRIES                             
+
+Halley (UK)         89022       compiled under EESA
+Von Neumayer (FRG)  89002       compiled under EESA
+SANAE (SA)          89001       compiled under FASE
+Dakshin Gangtori (India) 89510  compiled under DEMS
+
+WMO/2493
+Annex to paragraph 4.4.17 of the general summary
+                33
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                                                                                                                
+                1                                                                                               
+
+Figure 1 - The existing links for the daily international exchange of meteorological data within the Antarctic
+
+(F1 indicates radio teleprinter broadcasts, F4 indicates facsimile broadcasts, A1 is a morse transmissions)
+WASHINGTON                  PARIS                  OFFENBACH                  MOSCOW                  NEW DELHI                  TOKYO
+
+BUENOS AIRES                                   MELBOURNE
+
+SANTIAGO                  PRETORIA                  HOBART
+
+5      3                  2      1                  2      1
+
+S[?]or[?] Winter                  Buoys                  1      1                  3      2
+
+5                  7                  11                  0
+
+BARANQUIL[?]                  BAHIA*                  CASEY
+
+(ARG)                  (B.A.)                  (AUS.)
+
+FRO[?]                  NEUMAYER                  DAKSHIN GANGOTRI                  MAWSON
+
+(CHILE)                  (F.R.G)                  (INDIA)                  (AUS.)
+
+FARADAY                  HALLEY                  MC[?]LODGEWAYA                  SYOWA                  DUMONT D'URVILLE                  MZ[?] MURDO
+
+(U.K)                  (U.K.)                  (U.S.S.R)                  (JAPAN)                  (F.R.)                  (U.S.)
+
+LONGITUDE 30°W TO 30°E                  LONGITUDE 30°E TO 180°E                  LONGITUDE 180°E TO 130°W
+
+LESSER ANTARCTICA                  GREATER ANTARCTICA
+
+(Antarctic P[?]ninsula)                  Main Auroral Zone
+
+WMC                  R.S.C. or STATION WITH SIMILAR FUNCTIONS                  PRIMARY ROUTE TO AND FROM G.T.S.                  ORIGINAL SOURCE INCLUDED IN G.T.S.
+
+G.T.S. or R.S.C.                  ANTARCTIC COLLECTING AND TRANSMITTING STATION                  PRIMARY ROUTE TO G.T.S.                  COLLECTED FROM THE G.T.S.
+
+A VIA SATELLITE AND/OR HF                  DISSEMINATED BY BROADCAST
+
+MEMBER OF THE WMO
+
+ANNEX III   P.2
+
+Figure 2 - The principal routes by which Antartic meteorological data enter the GTS
+
+Note : SHIP and AIREP reports will be collected from south of 60°S and compiled in Antorctic bulletins by appropriate GTS centres.
+- 35 -                                 ANNEX IV, p. 1
+
+Annex to paragraph 4.4.18 of the general summary
+
+Requirements of the observational data
+Part I
+
+DATA            
+REQUESTED          
+BY DATA            
+REQUESTED FROM                                                                                                                                                                        
+Esperenza         88963 4  1                                                                                           
+Orcadas           88968 2 4 1                                                                                           
+Matienzo          88970 4  1                                                                                           
+Belgrano II       89034 4  1                                                                                           
+Jubany            89053                                                                                                  
+Marambio          89055 1 4 1 1                                                                                           
+San Martin        89066 4  1                                                                                           
+                                                                                                                        
+Frei              89056 4  1                                                                                           
+Prat              89057 4  1                                                                                           
+O'Higgins         89059 4  1                                                                                           
+                                                                                                                        
+Great Wall        89058         4                                                                                       
+Dinaret           
+- Uruguay        89054                   4                                                                            
+Arctowski         89052              2         4    4   2                                                            
+                                                                                                                        
+SANAE             89001 1 4 1 1 2 1                                                                                       
+Neumayer          89002 4  1  2  1                                                                                       
+Dakshin                                                                                                                     
+Gangotri          89510                                                                                                  
+Syowa             89532 2 4 1 1 2  1 4 4 2                                                                                
+Mizuto            89544                                                                                                  
+                                                                                                                        
+Mawson            89564 2 4 1 1 2  1 2 4 4                                                                                
+Davis             89571 2 4 1 1 2  2 1 4                                                                                
+Casey             89611 2 4 1 1 2  1 X 2 4                                                                                
+Dumont            
+D'Urvile         89642 2 1  X 2 1 2  2 4 4                                                                                
+                                                                                                                        
+McMurdo           89664 X X 2  1 1  1                                                                                    
+Arundsen-Scott    89009 2 4 1 2 2 1                                                                                       
+Palmer            89061                                                                                                  
+(Scott Base)                                                                                                                
+                                                                                                                        
+                                                                                                                        
+
+Key  : A = As available.             Upper     
+       B = When requested.           air       
+       M = Monthly.                  Surface
+- 36 -                                  ANNEX IV p. 2
+Annex to paragraph 4.4.18 of the general summary
+
+Requirements of the observational data
+Part II
+
+DATA                                    DATA REQUESTED BY                                      
+REQUESTED                                                
+FROM         McMurdo  Dumontville  Dumontville  Casey    Davis    Mawson  Syowa  Belling-  Molodez-  Frei  Marambio  Great  Rotheva  Santiago  Buenos  Pretoria  Welling-  Melbourne  Moscow  Washing-  Braccnell  Tokyo  New Delhi  
+                                            hhausen    hna      shna                ton                ington                ton      
+Halley      89022    1   4   1                                            1   1   1   4   1   4         4                   1   1   1   1   1   1   1   4  
+Signy       89042    4   1       -                                      4   4   4   4   4   2         4   4   4   4   4   4   4   4  
+Rotheva     89062    4   1                                            4   4   4   4   4   X         4   4   4   4   4   4   4   4  
+Faraday     89063    4   1                                            4   4   4   4   4         4   4   4   4   4   4   4   4   4  
+Fossil Bluff89065   4   1                                            4   4   4   4   4   4         4   4   4   4   4   4   4   4  
+Bellinghausen89050 2  4   1   2   1                                      1   2   X   2   4   1   2   1   4   2   2   2   2   2   4   2   2   4   2   4  
+Russkaya    89132    4   1   2   1                                      2   4   4   4   4         4   4   4   4   4   4   4   4  
+Novolazarev- 89512 2  4   1   2   1                                      1   2   2   2   4         2   2   2   2   2   4   2   2   4   2   4  
+skaya                                                                                                               4   2   4   2   4  
+Molodezhnaya89542  2   4   1   2   1                                      2   2   X   2   4         2   2   2   2   2   4   2   2   4   2   4  
+Mirnyi      89592    2   4   1   2   1                                      2   2   2   4   4         2   2   4   2   4   2   4   2   4  
+Vostok      89606    2   4   1   2   1                                      1   2   2   2   4   X   2   2   2   2   2   4   2   2   4   2   4  
+Leningradskaya89657 2  4   1   1   2   1                                      1   2   2   2   4   4   2   4   2   2   2   4   2   2   4   2   4  
+Region I Selection)                                                                                                
+Blocks 61, 67, 68  2  4   1   1   1                                      1                   2   4   2   4   2   4   2   4   2   4   2   4  
+(South of 20 S)                                                                                                    
+Region III Selection) 2  4   1                                                                                    
+Blocks 85,
+- 39 -
+
+ANNEX IV p. 5
+
+NOTES:
+
+(1)    Analyses only.
+
+(2)    For 00 GMT.
+
+(3)    Alternatively from Molodezhnaya or McMurdo.
+
+(4)    For area between long. 90°E and long. 180°(by facsimile).  Also
+       special forecasts on request.
+
+(5)    Numerical analyses and prognoses (not used).
+
+(6)    Facsimile broadcast from Canberra (AXM).
+
+(7)    For selected New Zealand aerodromes.
+
+(8)    Alternatively from Brasilia.
+
+(9)    For area between longitudes 30° and 120°E.
+
+(10)   During Austral summer (1 October - 31 March).
+
+(11)   Monthly mean data required for Mawson, Molodezhnaya,
+       Novolazarevshaya and Sanae from either Molodezhnaya or Mawson.
+
+(12)   Forecasts for aviation and shipping as necessary during Austral
+       summer (1 October - 31 March).
+
+(13)   Analyses and marine forecasts.
+
+(14)   Hazardous weather warnings (general).
+
+Wm. 285.
+- 40  -
+ANNEX V p. 1
+
+Annex to Recommendation 3 (EC/WGAM-IV)
+
+REGIONAL CODING PROCEDURES FOR REPORTING DATA
+
+FOR THE 925 hPa LEVEL
+
+Amendments to the Manual on Codes, Volume II, Chapter VII, Parts A
+and C:
+
+1.      Replace the present text under the heading FM 35-V TEMP and FM 36-V
+TEMP SHIP and FM 37-VII TEMP DROP by the following:
+
+7/35.1      Part B, Section 9
+
+7/35.1.1    This section shall be used to transmit geopotential, air
+temperature, humidity and wind data for 925 hPa, in the
+following form:
+
+        52525  92h9h9h9 T9T9Ta9D9D9 d9d9f9f9f9
+
+7/35.1.2    The subsection beginning with the group 52525 shall be included
+only when the station pressure is above 925 hPa.
+
+7/35.1.3    Section 9 shall not be included when station pressure is equal
+to, or less than 925 hPa.
+
+7/35.2      Requirements for international exchange
+
+        All Parts A, B, C and D shall be included in the international
+exchange.
+
+2.      Insert under the heading SPECIFICATION OF SYMBOLIC LETTERS; at the
+appropriate place:
+
+D9D9        Dew-point depression at the 925 hPa level. (International
+code table 0777). (FM 35-V, FM 36-V and FM 37-VII).
+
+d9d9        True direction (rounded off to the nearest 5°), in tens of
+degrees, from which the wind is blowing at the 925 hPa level.
+(FM 35-V, FM 36 V and FM 37-VII).
+
+f9f9f9      Wind speed, in metres per second or knots, at the 925 hPa level.
+(FM 35-V, FM 36-V and FM 37-VII).
+
+        (1)     See Note (1) under dd.
+        (2)     See Note (1) under YY.
+
+h9h9h9      Geopotential of the 925 hPa level in standard geopotential
+metres.
+
+        (FM 35-V, FM 36-V and FM 37-VII).
+
+www/2493
+- 41 -
+
+ANNEX V, p. 2
+
+T a9      Approximate tenths value and sign (plus or minus) of the air 
+          temperature at the 925 hPa level (International code 
+          table 3931).
+          (FM 35-V, FM 36-V and FM 37-VII).
+
+T9T9      Air temperature in degrees Celsius, at the 925 hPa level.
+          (FM 35-V, FM 36-V and FM 37-VII).
+
+(1)       This temperature, which is measured in degrees and 
+          tenths, shall not be rounded off to the nearest whole 
+          degree;  only the whole degrees shall be reported in 
+          TsT9, and the tenths in T a9.
+
+WWW/2493
+- 42 -
+ANNEX VI
+
+Annex to Recommendation 5 (EC/WGAM-IV)
+
+REGIONAL CODING PROCEDURES FOR REPORTING STATION PRESSURE DATA
+
+Amendments to the Manual on Codes, Volume II, Chapter VII, Part A-1:
+
+1.      Change Regulation 7/12.1 to read as follows:
+
+        7/12.1     Groups 3P P P P , 4PPPP or 4a hhh                                                    
+2.      Add new Regulations 7/12.1.3 and 7/12.1.4 as follows
+
+        7/12.1.3   When local conditions prevent reduction with reasonable accuracy, stations at elevations between 500 and 750 
+                   metres (m) shall report the 850 hPa geopotential.
+
+        7/12.1.4   The group 3P P P P  shall be included in the 
+                   synoptic report when:
+                   -   the station's elevation is 500m or higher;
+                   -   the actual height of the station is uncertain;
+                   -   the station's elevation is below 500m but pressure 
+                       cannot be reduced to MSL for any reason.
+
+        NOTE:      Inclusion of this group by other stations is 
+                   left to the discretion of individual Members of 
+                   the Region.
+
+WWW/2493
+- 43 -
+
+ANNEX VII p. 1
+
+Annex to Recommendation 5 (EC/WGAM-IV)
+
+REGIONAL CODING PROCEDURES TO MEET ADDITIONAL DATA REQUIREMENTS
+
+Amendments to the Manual on Codes, Volume II, Chapter VII, Part A-1 and C
+
+(a)     Snow-depth data
+
+        Add new Regulations 7/12.7, 7/12.7.1
+
+        7/12.7  Group (4E'sss)
+
+        7/12.7.1    Snow-depth data shall be reported by all stations capable of 
+                    doing so, and included at least once daily at either 06 or 18 
+                    GMT.
+
+        NOTE:   When appropriate, the relevant special phenomena group 
+                995R s' for depth o the snow freshly fallen since the last 
+                A 0000 GMT observation shall be reported at 0600 GMT and 1200 
+                GMT observation shall be reported at 1800 GMT in lieu of the 
+                group 4E'sss.
+
+(b)     3-hourly, 6-hourly (or 12-hourly, as available or required) and 
+        24-hourly precipitation data
+
+        Amend Regulation 7/12.7 to read:
+
+        7/12.9  GROUP (6RRRt R) Section 3
+
+        7/12.9.1    This group shall be included in Section 3 of the synoptic 
+                    report at intermediate standard times 03, 09, 15 and 21 GMT
+
+        7/12.9.2    RR shall indicate the amount of precipitation (water 
+                    equivalent) during the 3 hours period preceeding the time of 
+                    observation
+
+        Renumber Regulations 7/12.8 to 7/12.8.2 to read 7/12.10 to 7/12.10.2 
+        (Regulations to change only if 24 hour precipitation is to be reported in lieu 
+        of 7DmDLDMDH)
+
+WWW/2493
+-  44  -
+
+ANNEX VII p.2
+
+Amend specification for t_(R) to read as follows:
+
+    Duration of period of reference for amount of precipitation,
+    expressed in units of three hours and ending at the time of the
+    report.
+
+Renumber Regulation 7/12.9 to 7/12.11
+
+(c)    Daily hours of bright sunshine data
+
+Amend Regulation 7/12.10 to read:
+
+7/12.12    Group (9S_(p)S_(p)S_(p)S_(p))
+
+    NOTE:
+
+    The code table established for this purpose is code table 3778
+
+7/12.12.1  The symbolic expression ..*SSS shall be used for reporting the
+           daily duration of sunshine.
+
+7/12.12.2  In the form ..*SSSS, this group shall be reported by all stations
+           capable of doing so, and included at either OO GMT, O6 GMT or 18
+           GMT.
+
+7/12.12.3  A group 995R_(c)S' shall be used, when appropriate, to report the
+           depth of the snow freshly fallen since the last OOOO GMT
+           observation and shall be included at standard times OO, O6, 12 and
+           18 GMT when precipitation has occurred since the last OO GMT report.
+
+7/12.12.4  Each time the phenomenon whiteout is observed, the group 932OO
+           shall be included.
+
+    NOTE:
+
+    In the absence of hydrometeors and blowing snow, and with a
+    completely overcast sky over an unbroken snow cover, contours of
+    landscape may vanish because all shadows disappear and the horizon
+    cannot be distinguished.  This phenomenon is called whiteout.
+
+7/12.12.5  Other forms of this group shall be included by all stations capable
+           of doing so, when required or appropriate.
+
+*  Code figure 94 or 99 to be decided by the CBS Working Group on Codes.
+
+WWW/2493
+- 45 -
+
+ANNEX VII p. 3
+
+(d)     Daily amount of evaporation (evapotranspiration) and net-radiation 
+        data
+
+Add New Regulations 7/12.8 as follows::
+
+7/12.8  Group (5j1j2j3j4(j5j6j7j8j9))
+
+7/12.8.1 In the form 5EEEiEsnFnFnFnFn, this group shall be 
+         included by all stations capable of doing so, when appropriate.
+
+Add new specifications as follows:
+
+EEE     Amount of either evaporation or evapotranspiration, in 
+        tenths of millimetres, during the preceeding 24 hours.
+
+iE      Indicator of type of instrumentation for evaporation 
+        measurement or type of crop for which evapotranspiration 
+        is reported.
+
+FnFnFnFn Amount of net-radiation, in joules per square 
+         centimetre, over a 24-hour period.
+
+WWW/2493
+- 46 -
+
+ANNEX VIII
+
+Annex to Recommendation 6 (EC/WGAM-IV)
+
+STATIONS AND OBSERVATIONAL PROGRAMMES COMPRISING THE BASIC
+SYNOPTIC NETWORK IN THE ANTARCTIC
+
+
+                STATION                  SURFACE                     RADIOWIND    RADIOSONDE
+                                         00 03 06 09 12 15 18 21     00 12      00 12
+88963 ESPERANZA        x     x       x       x                    
+968   ORCADAS          x  x  x  x  x  x  x  x                 x          x    
+970   MATIENZO B.A.*   x     x       x       x                    
+89034 BELGRANO         x     x       x       x                    
+053   JUBANY           x     x       x       x                    
+055   CENTRO MET. ANTARTICO
+      "VICECOMODORO MARAMBIO" x  x  x  x  x  x  x  x           x          x    
+066   SAN MARTIN       x     x       x       x                    
+001   S.A.N.A.E. STATION x  x  x  x  x  x  x  x           x  x        x  x    
+002   GEORG VON NEUMAYER x     x  x  x  x  x  x           x              x    
+009   AMUNDSEN-SCOTT    x     x       x       x           x        x      x*   
+664   MCMURDO          x     x       x       x           x*       x      x*   
+022   HALLEY           x  x  x  x  x  x  x                    
+042   SIGNY ISLAND     x     x                                
+062   ROTHERa POINT    x     x       x       x                    
+063   FARADAY          x  x  x  x  x  x  x  x                 
+      (ARGENTINE ISLAND)                                    
+065   FOSSIL BLUFF*    x           x       x                    
+050   BELLINGSHAUSEN   x     x       x       x           x        x          
+132   RUSSKAYA         x     x       x       x                    
+512   NOVOLAZAREVSKAJA x  x  x  x  x  x  x  x           x        x          
+542   MOLODEZNAJA      x  x  x  x  x  x  x  x           x  x      x  x    
+592   MIRNYJ           x  x  x  x  x  x  x  x           x        x          
+606   VOSTOK           x     x       x       x           x        x          
+657   LENINGRADSKAJA   x  x  x  x  x  x  x  x           x                    
+056   CENTRO MET. ANTARTICO
+      "PDTE.EDUARDO FREI" x     x       x       x                    
+057   BASE ARTURO PRAT x     x       x       x                    
+059   BASE BERNARDO
+      O'HIGGINS        x     x       x       x                    
+532   SYOWA            x  x  x  x  x  x  x  x           x  x      x  x    
+564   MAWSON           x  x  x  x  x  x  x  x           x  x      x  x    
+571   DAVIS            x  x  x  x  x  x  x  x           x  x      x  x    
+611   CASEY            x  x  x  x  x  x  x  x           x  x      x  x    
+642   DUMONT D'URVILLE  x  x  x  x  x  x  x  x           x  x      x        
+661   PALMER           x                                
+054   DINAMET-URUGUAY  x  x  x  x  x  x  x  x                    
+058   GREAT WALL       x                 x       x                    
+510   DAKSHIN GANGTORI  x  x  x  x  x  x  x  x                 O              
+
+0  Once weekly     *  Summer only
+WWW/2493
+- 47 -
+
+ANNEX IX
+
+Annex to Recommendation 8 (EC/WGAM-IV)
+
+NETWORK OF CLIMAT AND CLIMAT TEMP REPORTING STATIONS IN THE ANTARCTIC
+
+ 
+       STATION         CLIMAT      CLIMAT
+                                  TEMP
+
+ 
+88963  ESPERANZA        x                   
+968    ORCADAS          x          x       
+89034  BELGRANO         x                   
+053    TENIENTE JUBANY EC  x                   
+055    CENTRO MET. ANTARTICO  x          x       
+       "VICECOMODORO MARAMBIO"              
+066    SAN MARTIN       x                   
+001    S.A.N.A.E. STATION  x          x       
+002    GEORG VON NEUMAYER  x          x       
+009    AMUNDSEN-SCOTT   x          x       
+664    MCMURDO          x          x       
+022    HALLEY           x          x       
+062    ROTHERA POINT    x                   
+063    FARADAY          x                   
+       (ARGENTINE ISLAND)                  
+050    BELLINGSHAUSEN  x          x       
+132    RUSSKAYA         x                   
+512    NOVOLAZAREVSKAJA  x          x       
+542    MOLODEZNAJA      x          x       
+592    MIRNYJ           x          x       
+606    VOSTOK           x          x       
+657    LENINGRADSKAJA   x          x       
+054    DINAMET URUGUAY  x                   
+056    CENTRO MET. ANTARTICO  x          x       
+       "PDTE. EDUARDO FREI"               
+057    BASE ARTURO PRAT  x                   
+059    BASE BERNARDO    x                   
+       O'HIGGINS                                     
+532    SYOWA            x          x       
+564    MAWSON           x          x       
+571    DAVIS            x          x       
+611    CASEY            x          x       
+642    DUMONT D'URVILLE  x          x       
+
+ 
+WWW/2493
+- 1 -
+
+GENERAL SUMMARY OF THE WORK OF THE SESSION
+
+1.     ORGANIZATION OF THE SESSION (Agenda item 1)
+
+1.1   Opening of the session (Agenda item 1.1)
+
+1.1.1  The Executive Council Working Group on Antarctic Meteorology held its 
+fourth session in Geneva from 1 to 5 September 1986.  The session was opened 
+at 10 a.m. on Monday 1 September 1986 by Dr. N. A. Streten, chairman of the 
+working group who extended a warm welcome to all the participants at the 
+session.  He wished the working group success in the important tasks assigned 
+to it and emphasized the importance of future informal contacts among its 
+members.
+
+1.1.2  On behalf of the Secretary-General, Mr. D. K. Smith, Deputy 
+Secretary-General welcomed all participants to the WMO Secretariat in 
+Geneva.  He paid tribute to Mr. G. J. Day (U.K.) for his excellent work in 
+the past as the chairman of the working group and congratulated Dr. N. A. 
+Streten (Australia) on his nomination as chairman of the working group.
+
+1.1.3  Mr. Smith pointed out that a number of important matters needed to be 
+considered by this session, among them, the review of the observing programme 
+the collection and distribution of observational data and specialized products 
+within the Antarctic, the exchange of information with centres outside the 
+Antarctic, matters relating to codes and methods of observation in the 
+Antarctic, and Antarctic aspects of the WCP.
+
+1.1.4  Mr. Smith drew the attention of the working group to the 
+meteorological data coverage in the Antarctic which had remained at about the 
+same level for some time but had dropped slightly in recent years.  He 
+expressed the hope that the future trend would be towards more data on a wider 
+range of atmospheric, cryospheric and oceanic variables.  Finally, he wished 
+the meeting every success and hoped the participants would have an enjoyable 
+stay in Geneva.
+
+1.1.5  There were 20 participants from twelve Members at the session 
+including observers from Italy and the Scientific Committee on Antarctic 
+Research (SCAR).  A list of participants is given at the beginning of this 
+report.
+
+1.2   Adoption of the agenda (Agenda item 1.2)
+
+The working group approved the provisional agenda as proposed without 
+any change.  The agenda is reproduced at the beginning of this report.
+
+1.3   Working arrangements for the session (Agenda item 1.3)
+
+The session agreed on its working hours and decided that the work 
+should generally be carried out in plenary sessions.  However, small groups 
+could be set up to deal with particular items if necessary.
+
+WWW/2493
+- 2 -
+
+2.      REPORT OF THE CHAIRMAN OF THE WORKING GROUP (Agenda item 2)
+
+2.1     The session noted with appreciation the report of Dr. N. A. Streten 
+on the activities of the working group since its third session in 1982, with 
+particular reference to the period 1984-1986 which represented his term of 
+office.
+
+2.2     In his introduction, Dr. Streten mentioned that the session should 
+consider if there is a need for more frequent sessions of this working 
+group.  The session agreed with his proposal to request the Executive Council 
+to consider this matter and to make appropriate arrangements for this.
+
+2.3     The session agreed that the various items discussed would be 
+considered under the appropriate agenda items.  The session also agreed that 
+the future work programme of the working group would be considered in 
+co-operation with the WWW Plan and Implementation Programme for the Period 
+1988-1997.
+
+2.4     The session reviewed the terms of reference assigned to the working 
+group.  Some amendments were proposed.  Recommendation 1 (EC/WGAM-IV) was 
+adopted.
+
+3.      REVIEW OF RECOMMENDATIONS OF THE THIRD SESSION OF THE WORKING GROUP 
+AND RELEVANT DECISIONS OF CONGRESS AND THE EXECUTIVE COUNCIL 
+(Agenda item 3)
+
+3.1     The session reviewed the action taken by EC-XXXIV in adopting five 
+resolutions based on corresponding recommendations of the third session of the 
+working group.  The session agreed that actions on Resolution 4 (EC-XXXIV) - 
+Manual on the Global Observing System, Volume II - Regional Aspects, Antarctic 
+and Resolution 8 (EC-XXXIV) - Manual on the Global Data-processing System, 
+Volume II - Regional Aspects, Antarctic, had been completed and that these 
+resolutions need no longer be kept in force.
+
+3.2     Resolution 5 (EC-XXXIV) - Basic Synoptic Network in the Antarctic and 
+Resolution 6 (EC-XXXIV) - Network of CLIMAT and CLIMAT TEMP Reporting Stations 
+in the Antarctic, were reviewed under Agenda item 4.3.
+
+3.3     The session reviewed Resolution 7 (EC-XXXIV) - Collection and 
+Transmission of Meteorological Data in the Antarctic and Adjacent Areas, and 
+agreed that this matter would be considered under Agenda item 4.4.
+
+3.4     In reviewing Resolution 7 (EC-XXXV) - Executive Council Working Group 
+on Antarctic Meteorology, the session agreed that this matter would be 
+considered under Agenda item 2.
+
+3.5     The session had a lengthy discussion on Resolution 22 (EC-XXI) - 
+Observation from ships and aircraft operating in the Antarctic.  The session 
+agreed that the basic principle of this resolution was still valid and 
+confirmed the continuing need for observations from ships and aircraft in the 
+Antarctic.  After making some amendments, Recommendation 2 (EC/WGAM-IV) - 
+Observations from ships and aircraft operating in the Antarctic was adopted.
+
+WWW/2493
+- 3 -
+
+4.      WWW ACTIVITIES RELATED TO THE ANTARCTIC, INCLUDING THE WWW PLAN AND
+        WWW IMPLEMENTATION PROGRAMME FOR THE PERIOD 1988-1997 (Agenda item 4)
+
+4.1     Draft WWW Plan and WWW Implementation Programme for the period
+        1988-1997 as part of the Second Long-term Plan (Agenda item 4.1)
+
+        The working group considered the WWW Implementation Programme and
+        introduced a number of changes following the proposals of EC-XXXVII.  The
+        working group reformulated the objectives relating to the GDPS aspects.  In
+        this connection the need for improvements of the analyses and forecasting for
+        the Antarctic was recognized.  This effort used to be supported through
+        co-operative efforts by Members through the operation of Antarctic
+        Meteorological Centres, which may have functions similar to the Specialized
+        Meteorological Centres, defined in the WWW Plan for the period 1988-1997.  It
+        was particularly stressed that Antarctic Meteorological Centres could be
+        located inside or outside the Antarctic and may be supported by other centres
+        which could also be inside or outside the Antarctic.  In this connection it
+        was stressed that the purpose of an Antarctic Centre is to meet requirements
+        of Members for specialized analyses or forecasts and products covering the
+        Antarctic.  The revised text of the WWW Implementation Programme for the
+        period 1988-1997 is given in the annex to this paragraph.
+
+4.2     Data-processing system including codes (Agenda item 4.2)
+
+        Requirements for observational data and processed information and
+        meteorological service activities in the Antarctic
+
+4.2.1   The session noted that a survey on the requirement for observational
+        data and processed information in the Antarctic was conducted by the
+        Secretariat in June/July 1986.  The results of the survey were consolidated
+        into two tables.  The session agreed that these tables should be considered
+        in conjunction with the arrangements for the exchange and transmission of
+        Antarctic data under Agenda item 4.4.  However, in view of the fact that not
+        all Members concerned had responded to the survey, the session agreed that
+        Members carrying out data-processing activities should be further requested to
+        send the relevant information to the WMO Secretariat (see paragraph 4.4.18).
+
+4.2.2   The session noted that one chapter concerning the data-processing and
+        meteorological service activities in the Antarctic as approved Resolution 8
+        (EC-XXXIV) was included in Volume II of the Manual on the GDPS, Regional
+        Aspect, Volume II of the Manual on the Global Data-processing System, Regional
+        Aspects, the Antarctic. The session considered that this chapter should be
+        used as guidance material in relation to the data-processing and
+        meteorological service activities in the Antarctic.
+
+WWW/2493
+Antarctic regional code matters
+
+4.2.3  The session noted that the eighth session of the Commission for Basic 
+Systems (Geneva, January/February 1983) considered the inclusion of low-level 
+data (925 hPa or 900m when 925 hPa is below ground level) in codes FM 35-V 
+TEMP and FM 36-V TEMP SHIP and recorded its decision in paragraph 8.11 which 
+reads as follows:
+
+"The Commission considered a proposal by the eighth session of 
+Regional Association VI to report low-level data in Part A of TEMP and 
+TEMP SHIP: either as a mandatory surface of 925 hPa or as a fixed 
+height level e.g. 900m, when meteorological conditions are such that 
+the 925 hPa is below ground-level.  The Commission noted that three 
+regional associations, namely RAs I, II and VI had already adopted 
+regional coding procedures for reporting 925 hPa in Part B of TEMP and 
+TEMP SHIP.  The Commission therefore invited the other regional 
+associations to consider the question of reporting low-level data 
+under regional procedures before the appropriate global regulations 
+could be considered."
+
+4.2.4  In view of the fact that this level can be of considerable interest 
+for specification of the boundary layer and that other regions had developed 
+such procedures, Recommendation 3 (EC/WGAM-IV) - Regional coding procedures 
+for reporting data for the 925 hPa level was adopted.
+
+4.2.5  The session noted that the Commission for Basic Systems Extraordinary 
+Session (1985) (Hamburg, October/November 1985) considered matters concerning 
+the standardization of pressure reduction procedures and recommended that 
+SYNOP reports may contain both pressure at station level and mean sea level 
+pressure, at least for stations above a given altitude.  This had 
+subsequently been agreed to by some regional associations.  The Commission 
+also considered that 500m might be an appropriate altitude and urged regional 
+associations to take the necessary action to adopt this altitude.
+
+4.2.6  The session considered the above conclusions of the CBS Ext. (85), and 
+Recommendation 4 (EC/WGAM-IV) - Regional coding procedures for reporting 
+station pressure was adopted.
+
+4.2.7  The session had a lengthy discussion on the expressed additional 
+requirements for global and regional exchange of observational data such as 
+snow-depth, precipitation, sunshine, evaporation (evapotranspiration) and 
+net-radiation data.  It felt that difficulties exist in making observations 
+of such items in the Antarctic, and these should be considered by CIMO as well 
+as other matters of instruments and methods of observation peculiar to the 
+Antarctic under Agenda item 5.
+
+4.2.8  Recommendation 5 (EC/WGAM-IV) - Regional coding procedures to meet 
+additional data requirement was adopted.
+
+WMO/2493
+4.3     OBSERVING SYSTEM (Agenda item 4.3)
+
+General
+
+4.3.1   The session noted that the Global Observing System (GOS), as outlined
+in the World Weather Watch Plan for 1984-1987, comprised:
+
+        (a)     The surface-based sub-system, the main elements of which
+comprised the regional basic synoptic networks of surface and
+upper-air stations on land and at sea, aircraft meteorological
+observations and other elements including climatological
+stations, agricultural meteorological stations and special
+stations; and
+
+        (b)     The space-based sub-system, consisting of the
+near-polar-orbiting satellites, the geostationary meteorological
+satellites and the associated ground segment for the reception
+and processing of data.
+
+4.3.2   The session recognized that while an increasing amount of quantitative
+satellite data had become available and further increases could be expected,
+the surface-based sub-system would continue to constitute the basic source of
+data needed to meet global, regional and national requirements.  Members
+should, therefore, be urged to maintain the present observing networks and to
+spare no effort in expanding and optimizing the networks and facilities.
+Efforts should also continue to be made to improve the regularity and quality
+of observations to meet the standards set forth in the WMO Technical
+Regulations, including the Manual on the Global Observing System.
+
+Surface-based sub-system
+
+4.3.3   In reviewing the surface-based sub-system the session was pleased to
+note that the three new surface stations established by China, India and
+Uruguay were already, or would soon become, fully operational.  It was hoped
+that the observational data from these stations would soon be available for
+global exchange.  It was agreed that the three stations should be included in
+the basic synoptic network for the Antarctic.  The session noted with
+appreciation that other Members, including Japan and U.S.S.R. planned to
+establish new stations and expand the observing programmes at existing
+stations.
+
+4.3.4   The session noted that the level of implementation of the basic
+synoptic network, which stood at 82% for surface stations (91% at the main
+standard times) and 60% for upper-air stations, had changed little in the past
+few years.  It was gratified to learn however that there had been a marked
+increase in the number of ship reports from the Antarctic region transmitted
+on the GTS.
+
+4.3.5   In the light of further information provided by Members on the status
+of implementation of stations in the basic synoptic network, and noting the
+minor changes in the network which had been approved by the President of WMO
+since its last session, the working group drew up a revised list of stations
+comprising the basic network and adopted Recommendation 6 (EC/WGAM-IV).  In so
+doing the working group stressed particularly the need for additional
+upper-air stations in certain parts of the region.
+
+WWW/2493
+- 6 -
+
+4.3.6   Special importance was attached by the working group to the use of 
+automatic weather stations in the Antarctic. Having been informed of the 
+current and planned activities of a number of countries for the establishment 
+of automatic land stations and the deployment of buoys and fixed platforms in 
+the region, the session urged its Members to try to ensure that data from such 
+stations, particularly land stations and even those established temporarily 
+for research purposes, were made generally available.
+
+4.3.7   In this connection, the session noted that in addition to the 
+deployment of automatic stations, considerable work had been done to develop 
+new components of the GOS some of which would be implemented in the near 
+future and which would contribute significantly to an improved and enhanced 
+observing system. These included the Automated Shipboard Aerological 
+Programme (ASAP), the Aircraft to Satellite Data Relay (ASDAR) and 
+improvements in satellite sensors. Recognizing that many Members participate 
+in these activities in the context of their participation in other WMO 
+programmes, the session adopted Recommendation 7 (EC/WGAM-IV) urging Members 
+individually and collectively to participate in the deployment and use of new 
+observing systems in the Antarctic.
+
+4.3.8   As regards CLIMAT and CLIMAT TEMP reporting stations, the session 
+reiterated the view expressed at its third session that every synoptic station 
+in the Antarctic should if possible issue such reports. The group was pleased 
+to note that the number of CLIMAT and CLIMAT TEMP reporting stations had in 
+fact increased by three since its last session. The session adopted 
+Recommendation 8 (EC/WGAM-IV) with a revised network of stations.
+
+S_p_a_c_e_-_b_a_s_e_d_ _s_u_b_-_s_y_s_t_e_m_
+
+4.3.9   The session noted that while the space-based sub-system comprised 
+near-polar-orbiting satellites and geostationary satellites only the former 
+had the capability to meet the requirements over the polar regions. The 
+polar-orbiting satellites (800-1000 km near polar orbit) comprised the NOAA 
+series TIROS-N (U.S.A.) and the METEOR-2 system (U.S.S.R.).
+
+4.3.10   It was further noted that the third generation of the U.S.A. 
+near-polar-orbiting operational satellite system, continues to provide data 
+for operational and research purposes. The sensing equipment of these 
+satellites were the TIROS Operational Vertical Sounder (TOVS) and the Advanced 
+Very High Resolution Radiometer (AVHRR). As regards the METEOR-2 system the 
+Group was informed that the satellites are equipped with camera systems and 
+scanning radiometers to provide visual and infra-red images of cloud as well 
+as snow and ice cover. The METEOR-2 satellite also provides cloud-top 
+temperatures and height, temperatures and values of outgoing long-wave 
+radiation and reflected solar radiation. These data are processed and 
+distributed over the GTS in pictorial and other forms.
+
+4.3.11   Data from satellites are made available to Members by means of 
+satellite receiving equipment through the Direct Sounding Transmission (DST), 
+Automatic Picture Transmission (APT) and High Resolution Picture Transmission 
+(HRPT) services. In addition, the TIROS-type satellites have a Data 
+Collection System (DCS) to receive data from fixed and moving platforms and to 
+process and store the data for later transmission to a central processing 
+(ARGOS) facility. The Indian geostationary satellite (INSAT) has the facility 
+to collect data from fixed platforms and later transmit it to Meteorological 
+Data Utilization Centre (MDUC), New Delhi.
+
+WMO/2493
+- 7 -
+
+4.4   TELECOMIUNICATION SYSTEM (Agenda item 4.4)
+
+4.4.1   The session noted that the meeting on Antarctic Telecommunication 
+Arrangements (Geneve; June 1983) reviewed the existing situation concerning 
+international exchange of meteorological data and processed information inside 
+and outside the Antarctic.  It also noted with satisfaction that the meeting 
+developed two diagrams, namely:
+
+      (a)   Existing links for the daily international exchange of meteorological 
+            data within the Antarctic (June 1983);
+
+      (b)   Principal routes by which Antarctic meteorological data enters the GTS.
+
+4.4.2   The session further noted that the above-mentioned two diagrams have 
+been included in the seventh section of Volume II of the Manual on the GTS 
+entitled "Antarctic" with a note "The Antarctic is not a WMO Region and the 
+information contained in this section is included in the Manual purely for 
+convenience in accordance with the decision of the thirty-sixth session of the 
+Executive Council."  The session noted with satisfaction that the inclusion of 
+this section into the Manual, in particular the two diagrams mentioned above, 
+was very important to determine the actual situation of the Antarctic 
+telecommunication arrangements for exchange of Antarctic meteorological 
+information.
+
+4.4.3   During the session a telecommunication sub-group was established 
+comprising:
+
+            Mr. P. Limbert (U.K.)
+            Mr. P. Le Roux (SCAR)
+            Mr. S. Cornford (U.K.) acted as Rapporteur.
+
+The terms of reference of this sub-group were as follows:
+
+      (a)   To examine the recommendations of the Meeting on Antarctic 
+            Telecommunications Arrangements (Geneva, June 1983) and to see how far 
+            these have been implemented by individual Members concerned;
+
+      (b)   To indicate where problems still lie;
+
+      (c)   To consider Figures 1 and 2 of the Manual on the GTS, Volume II, 
+            Section Seven and recommend any necessary modifications;
+
+      (d)   To consider the requirements for the Antarctic meteorological data and 
+            processed information and recommend any necessary modifications;
+
+      (e)   To report findings under (a) to (d) above to the session.
+
+The sub-group was given information by the representatives of:
+
+            Argentina
+            Australia
+            India
+            U.K.
+            U.S.A.
+            U.S.S.R.
+
+WMO/2493
+- 8 -
+
+4.4.4  The session noted with appreciation the work done by the sub-group.
+The conclusions and recommendations adopted by this sub-group were examined by
+the session. The session decided on necessary action as recorded in the
+following paragraphs in order to improve the Antarctic Telecommunication
+arrangements.
+
+4.4.5  Implementation of recommendations of June 1983 Telecommunication
+Meeting
+
+In general, these recommendations have been adopted by individual
+Members and are thought to be followed carefully. However, it was clear that
+practices in the WMCs/RTHs vary; some use abbreviated headings and some use
+block and station numbers as identifiers. This gives rise to at least two
+problems:
+
+(a)    One problem is that when observations reach WMC/RTH hubs via routes
+which users do not expect, they may appear in bulletins with
+abbreviated headings for centres remote from the Antarctic. Users
+need to be aware of this possibility. A routing may be "unexpected"
+because of a change in practice which has not been notified throughout
+the GTS, down to local level, or has not been implemented throughout
+the telecommunication system. Alternatively, it may be because ad-hoc
+or planned reserve arrangements have been used because of a failure
+somewhere in a primary system. With the increase in the number of
+observations being put into the GTS via satellite links, especially
+automatic weather-stations, buoys and ships, the number of Antarctic
+observations entering the GTS via the GTS centres outside the
+Antarctic is expected to increase;
+
+(b)    The other problem is that the centres concerned may not look for
+observations under, say, block 88 when they are expected under block
+89.
+
+4.4.6  The session noted that Section E of Volume I of the Manual on Codes
+specifies that Antarctic stations which held numbers in 1957 before the
+introduction of the use of the block number 89 retain their previously
+allocated index numbers. The session recommended that an amendment to the
+Manual on Codes should be made to ensure that all fixed stations south of 60°S
+use block number 89.
+
+4.4.7  The session recommended that the GTS centres receiving Antarctic
+meteorological data from primary sources should compile them into Antarctic
+bulletins and give them an agreed and promulgated abbreviated heading which
+clearly identifies them as containing Antarctic data. The session recognized
+that this may be more difficult at the more highly automated centres and so
+should be done as early as possible in the process of putting the data into
+the GTS. Users will need to scan the promulgated list of bulletin headings to
+identify those they require and then inform their upstream telecommunication
+centre.
+
+4.4.8  The session recognized that the seasonal variability of requirements
+and availability of data may give rise to scheduling problems for products and
+bulletins of Antarctic data originated or handled at centres remote from the
+Antarctic. The session recommended that such centres be alerted to the
+possible problem.
+WWW/2493
+- 9 -
+
+4.4.9 The session noted that the catalogue of meteorological bulletins for 
+the Antarctic is incomplete at present and in some places is inaccurate.  The 
+session requested the Secretary-General to take the necessary action with the 
+Members concerned to update and complete the Antarctic meteorological 
+bulletins in the Catalogue of Meteorological Bulletins.  A summary of the 
+information of the collection of observational data by individual centres is 
+given in Annex II to this report.
+
+4.4.10 The session noted that in accordance with Recommendation 2(e) of the 
+June 1983 telecommunication meeting, Members should inject into the GTS only 
+data from those stations for which they had a prime responsibility.  The 
+session considered that, because of present deficiencies in the system, a 
+certain amount of redundancy might be acceptable, so as to increase the 
+probability of observations getting through in an accurate and timely way. 
+Some redundancy should be provided for in areas where monitoring shows that 
+there are most problems.  The session bore this in mind when formulating its 
+proposals for the Tables of Requirement of raw and processed data and in the 
+diagrams showing links within the Antarctic and the routes by which Antarctic 
+data enter the GTS north of 60°S.
+
+4.4.11 The session noted that Recommendation 2(h) called for real-time 
+monitoring.  Whilst one representative hoped that this might improve following 
+increased automation of his telecommunication centre, the representative of 
+Australia reported that, despite automation, real-time monitoring at 
+WMC Melbourne seemed unlikely to become possible in the foreseeable future. 
+Monitoring on a real-time basis seems to be the most effective means available 
+at present.  Both computer and man have a role in this.  The fact that quality 
+control procedures sometimes result in observations not passing through some 
+centres provides another argument for having a certain amount of redundancy 
+when traffic levels on telecommunication hubs allow it.
+
+4.4.12 The session considered that Members are now sufficiently aware of the 
+use of telecommunication capabilities of meteorological satellites and 
+satellite communication systems (e.g. INMARSAT, INTELSAT, etc) and that they 
+are being implemented.  This is reflected in present and planned practice as 
+shown in the diagrams of internal links and GTS entry.
+
+4.4.13 The session noted that, so far, the use of satellite communications 
+has not increased, and may, indeed, have decreased the availability of 
+Antarctic data internally within the Antarctic.  There is no inherent reason 
+for this.  Satellite links can work both ways.  The session recommended that 
+at least three centres outside the Antarctic be designated as Antarctic 
+Meteorological Centres and be given, as one of their tasks, the transmission 
+via satellite of bulletins of Antarctic data to receiving stations inside the 
+Antarctic.
+
+4.4.14 The session felt that for dissemination of the Antarctic 
+meteorological observational data bulletins within the Antarctic, radio 
+teleprinter broadcasts should continue to be required.  The obvious centres to 
+originate these are:
+
+    Molodezhnaya
+    Marambia and/or Frei
+    Mc Murdo and/or Casey
+
+Mc Murdo or Casey might be supported by WMC/RTH Melbourne and/or RMC/RTH 
+Wellington.
+
+WWW/2493
+- 10 -
+
+4.4.15 The session noted that the following six centres would provide 
+products for use within the Antarctic:
+
+              Melbourne             Moscow
+              Washington            Bracknell
+              Buenos Aires          Pretoria.
+
+4.4.16 The session was encouraged by reports that INMARSAT links had been 
+established between Moscow and Molodeyhnaya and between New Delhi and Dakshin 
+Gangtori. A further link by INMARSAT will be with Novolazarevskaya. INTELSAT 
+link between Melbourne and Davis are planned for 1986/1987 and between 
+Melbourne, Mawson and Casey for 1987/1988. Argentina has also established a 
+link between Marambio and Buenos Aires using INMARSAT.
+
+4.4.17 The session updated the above-mentioned diagrams, taking into account 
+the recent development of the Antarctic telecommunication arrangements, in 
+particular the use of satellite communications.  In so doing the session took 
+into account that:
+
+(a)      The numbers associated with the links between the Antarctic and the 
+GTS north of 60°S refer to the number of stations in the source 
+bulletin;
+
+(b)      Two way links crossing 60°S may be either satellite or HF radio.  To 
+ensure durability of Figure 2, no indication of the kind of link is 
+given;
+
+(c)      Alternative routeings for use as back up are not indicated.  They are 
+a matter of bilateral arrangement.
+
+The up-dated diagrams are given in Annex III to this report.  The session 
+requested the Secretary-General, after the approval of the Executive Council, 
+to amend the Manual on the GTS, Volume II, Section Seven.
+
+4.4.18 The session further reviewed the requirements for observational data 
+and processed information within and outside the Antarctic.  The session 
+updated these requirements as far as possible.  The updated requirements are 
+given in Annex IV to this report.  However, further updating might be 
+necessary since representatives of some Members were unable to attend this 
+session. Therefore, the session requested the Secretary-General to make an 
+inquiry amongst the Members concerned to update their requirements in this 
+respect (see paragraph 4.2.1).
+
+4.4.19 The session discussed at great length the action necessary to further 
+improve the existing status of the operation of the Antarctic 
+telecommunication arrangements.  In this connection, the above-mentioned 
+conclusions were brought to the attention of the Twelfth Antarctic Treaty 
+Consultative Meeting (Canberra, September 1983).  This meeting noted the 
+efforts of the WMO to improve the exchange of the Antarctic meteorological 
+data and recommended the Governments concerned to invite WMO to keep under 
+review the arrangements for routeing of meteorological data within the 
+Antarctic and between the Antarctic and the rest of the GTS of the WWW.
+
+WWW/2493
+- 11 -
+
+4.5     Data management (Agenda item 4.5)
+
+4.5.1   Under this agenda item, the session discussed mainly the results of 
+the annual global monitoring carried out in October 1984 and 1985 with a view 
+to improving the operation of the GTS as regards the exchange of the Antarctic 
+meteorological data.  The monitoring results were composed of:
+
+        (a)     Availability of the Antarctic meteorological reports (SYNOP and TEMP) 
+                based on the results of the monitoring carried out in 1981, 1982, 
+                1983, 1984 and 1985;
+
+        (b)     The number of SYNOP reports received at various MTN centres from 
+                individual stations in Antarctic - 1-15 October 1984;
+
+        (c)     The same as above but for 1-15 October 1985;
+
+        (d)     Timeliness of reception at one centre of SYNOP reports from individual 
+                stations (1-15 October 1984 and 1985);
+
+        (e)     The number of TEMP reports received at various MTN centres from 
+                individual stations in Antarctic (1-15 October 1984 and 1985);
+
+        (f)     Timeliness of reception at one MTN centre of TEMP reports from 
+                individual stations in Antarctic (1-15 October 1985).
+
+4.5.2   The session noted that:
+
+        (a)     Observation reports from Chilean stations are available at Washington 
+                but hardly anywhere else;
+
+        (b)     The Amundsen-Scott station at the South Pole was available only once a 
+                day at all centres;
+
+        (c)     The U.K. bulletins originating from the DCP at Faraday were only 
+                partly received at Washington and hardly at all anywhere else.  In 
+                1985 this was subsequently found to have been caused by disconnection 
+                of the DCP antenna.  However, this does not explain the deficiencies 
+                in 1984, which may still continue.  If so they require investigation 
+                and remedial action.
+
+4.5.3   The session concluded that the monitoring results indicated some 
+deficiencies in the operation of the telecommunication system for the exchange 
+of the Antarctic meteorological data.  The session endorsed the conclusions of 
+the Meeting of experts on Antarctic data Telecommunication Arrangements 
+(June 1983) concerning possible lost or missing reports.  These reasons were 
+as follows:
+
+        (a)     Some centres indicated that a certain number of reports received were 
+                not usable; these data might be recorded as "not received" by 
+                downstream centres in some cases;
+
+        (b)     Bulletins incorrectly formatted might not be relayed from one centre 
+                to another;
+
+        (c)     Some centres might not recognize some bulletins or reports due to 
+                their excessive delay in reception;
+
+WWW/2493
+- 12 -
+
+(d) Ommission of report-separation signal (=) might cause difficulty to 
+    separate individual reports in sequence;
+
+(e) Some bulletins contained diferent types of observational reports or 
+    reports made at different observation times.
+
+4.5.4 The session agreed that the GTS centres concerned should consider 
+these problems with a view to improving the GTS operation.  The session 
+requested the Secretary-General to draw the attention of the Members concerned 
+on these points and take appropriate remedial action.  In this connection, the 
+session felt that specific monitoring for the exchange of Antarctic 
+meteorological data should be carried out in two weeks of December, in order 
+to evaluate the overall efficiency of the operation in this respect.  The 
+session requested the Secretary-General to make the necessary arrangemenets 
+with the Members concerned to carry out this specific monitoring in the first 
+and second weeks in December, every year.
+
+4.5.5 The session noted that ships' weather reports and ocean buoy data from 
+55°S to 65°S are very useful to make analyses and prognoses for the 
+Antarctic.  However, not all data were available at the centres in the 
+Antarctic.  The session urged the Members concerned to initiate the necessary 
+measures to transmit those data to the centres in the Antarctic.
+
+5.    INSTRUMENTS AND METHODS OF OBSERVATION PECULIAR TO THE ANTARCTIC 
+      (Agenda item 5)
+
+5.1   The working group reviewed the replies of members to the circular 
+letter on specific problems and experience on instruments and methods of 
+observation peculiar to the Antarctic.  It concluded that the collection of 
+the replies from ten members of the working group is not only a list of 
+problems but the material represents the collective wisdom of Members 
+operating Antarctic stations over many years and in many cases provides 
+solutions for some existing difficulties.  It is, therefore, a very valuable 
+document which, in the present form, is helpful for all Members operating 
+Antarctic stations.
+
+5.2   The working group noted, with appreciation, the activities of CIMO in 
+particular instrument comparisons (WMO Radiosonde Intercomparison and Solid 
+Precipitation Measurement Comparison) which are also related to Antarctic 
+meteorological measurement problems.
+
+5.3   The working group suggested that the material resulting from the 
+survey should be submitted to CIMO in an appropriate way for its 
+consideration.  In particular CIMO should be requested:
+
+(a) To provide guidelines for standardized instrument operations and 
+    methods of observations in the Antarctic;
+
+(b) To provide guidance on the operation of automatic weather stations;
+
+(c) To arrange comparisons of instruments operated in the Antarctic;
+
+(d) To organize an exchange of experience of instrument experts on 
+    Antarctic problems further to that provided by the present survey;
+
+(e) To define the limitations of instrument performances for Antarctic 
+    purposes.
+
+WMO/2493
+- 13 -
+
+6.       ANTARCTIC ASPECTS OF THE WORLD CLIMATE RESEARCH PROGRAMME (WCRP)
+         (Agenda item 6)
+
+         Sea ice and climate research
+
+6.1      The session took note of the Cryosphere Research Sub-programme of the
+World Climate Research Programme (WCRP).  It also noted the establishment of
+the WCRP Working Group on Sea Ice and Climate.  It endorsed the
+recommendation of the latter group for conducting an intercomparison of GCM
+simulations, with particular attention to surface parameters that force the
+sea ice models.
+
+6.2      The session agreed that buoy arrays in the seasonal sea ice zone
+around the Antarctic have in the past provided valuable data for both weather
+forecasting and climate research.  It further noted that the performance of
+global numerical models would be improved by the addition of a limited number
+of weather buoys located within the Antarctic sea ice zone.  Furthermore, the
+Planning Group of the World Ocean Circulation experiment (WOCE) have
+identified the Weddell and Ross Seas as important components of the Southern
+Ocean circulation.  The Southern Ocean is presently a component of the TOGA
+Programme.  Accordingly, the session adopted Recommendation  9 (EC/WGAM-IV)
+- Deployment of data buoys in the Antarctic sea ice zone, for consideration by
+the Executive Council during its next session.
+
+Observed ozone decreases in Antarctica
+
+6.3      The session took note of the data published recently which show that
+total column ozone during southern spring has decreased by some 40% within the
+last 20 years or so in the Antarctic.  The conclusion was the work of the
+British Antarctic Survey and has since been confirmed by balloons[?]onde as well
+as satellite observations.  The balloon data show that the decrease is mostly
+confined to the lower stratospheric altitudes while the satellite data
+indicate that the decrease extends over the geogrphical area of the
+circumpolar vortex.  The decrease does not appear to persist as the year
+progresses.
+
+6.4      The session further noted the research efforts by the German
+Democratic Republic, Japan, U.K., U.S.A., and the U.S.S.R. which are
+continuing and the programmes being planned by Argentina, India, Italy and
+Spain.  These efforts consist of Dobson spectrophotometer and balloons[?]onde
+observations, with future plans for concurrent turbidity observations;  the
+U.S.A. is planning an extensive campaign in the very near future which would
+include co-ordinated observations of radiation and transport parameters,
+realted chemical trace species and aerosol composition, in addition to those
+mentioned earlier.  The session applauded the efforts of SCAR in promoting
+ozone research in the Antarctic.
+
+6.5      The session expressed the view that the discovery of the Antarctic
+vernal ozone trend is of major scientific interest.  This was so because the
+occasion provides a unique opportunity to answer the question:  "Is this
+evidence that human activity is affecting the ozone layer?"  The group felt
+that unless the underlying causes are clearly identified and the mechanisms
+explained, society is likely to err one way or another in controlling or
+failing to control the factors that may contribute to ozone loss.
+
+WWR/2493
+- '14 -
+
+6.6     The specific scientific issues, in the view of the session, are:
+
+        (a) The characterization of ozone trends south of 50°S, and
+        (b) The understanding of their physical/chemical bases.
+
+Determination of significant trends requires long term measurements (c.a.
+10 to 20 years, but even 5 years quality data would be of great help).
+
+6.7     The session felt that current observations, confined mostly to
+daylight periods, should extend throughout the polar night.  This suggests a
+programme of:
+
+        (a) Moonlight observations with Dobsons and/or other instruments
+during the polar night in addition to the regular observations
+at other times of the year;
+
+        (b) Weekly balloonsonde ascents throughout the year with emphasis on
+polar night observations;
+
+        (c) Examination of other available (satellite) data sets such as
+that of HIRS II.  Satellite measurements in the infrared could
+provide information on total column ozone during the polar night.
+
+6.8     Based on the above analyses, the session concluded that:
+
+        (a) Using the customary definition of Antarctica as encompassing the
+area south of 60°S, three or four well-calibrated Dobson-type
+instruments should suffice in Antarctica.  These could be
+located at, for example, South Pole, Halley Bay and one or two
+other stations south of 70°S.  In addition, to the north up to
+50°S latitude, two or three more stations would be desirable,
+for example, at McQuarie Island and similar locations.  These
+stations would be adding to the existing ground-based data
+sets; the session views such addition as critical because of
+the limited design lifetimes of current or planned satellite
+ozone-related instrumentation;
+
+        (b) All of the stations in (a) above should have balloonsonde
+flights with strict quality control.  Concurrent radiosonde
+flights are essential;
+
+        (c) It would be desirable to have at least one lidar for accurate
+ozone profile data.  The session noted the plans of Italy to
+set up a lidar at South Pole and the efforts of the British
+Antarctic Survey to have a lidar, perhaps at Halley Bay.
+
+        (d) Concurrent aerosol observations would be of much help.  Ideally
+this should include sunphotometer-type turbidity observations as
+well as particle size distributions with dustsonde-type
+instrumentation.  The session noted that India plans to include
+turbidity measurements in its efforts;
+
+        (e) Ancillary observations of related chemical species and of
+radiative and transport parameters are essential for a full
+understanding of the phenomenon.  Examples of such observations
+would be the reactive and reservoir species in the chlorine,
+bromine, hydrogen and nitrogen families.  The U.S.A. plans were
+noted in this regard.
+
+WWW/2493
+- 15 -
+
+7.      ANTARCTIC METEOROLOGICAL RESEARCH ACTIVITIES (Agenda item 7)
+
+7.1     The session noted the progress in Antarctic meteorology research since 
+its third session.  A number of Members operating meteorological stations in 
+Antarctica were carrying out extensive experimental research programmes.  
+Theoretical studies of weather phenomena and general circulation in the 
+Antarctic have been undertaken by several meteorological centres.
+
+7.2     The session considered that research into weather analysis and 
+prediction contributes to improving forecasting skill both in the Antarctic 
+area and on the hemispheric and global scales.  It was stressed that better 
+understanding of physical processes in the Antarctic where the data coverage 
+is, of necessity, inadequate is especially important.  Synoptic experience may 
+be invaluable for improving parameterization schemes to be used in numerical 
+models.  In this respect, studies of unique type of boundary layer over the 
+continent and of cloud evolution were emphasized.
+
+7.3     The session recommended that it would be appropriate to identify an 
+institution (or several institutions) which would volunteer to play a strong 
+role in research activity for the expansion of knowledge of Antarctic 
+meteorology and the development of new operational products.
+
+7.4     The session further recommended that the WMO Secretariat undertake to 
+collect progress reports on Antarctic meteorology research and to arrange, on 
+the basis of the information obtained, for the preparation of the summary 
+report and, possibly, of a proposal for a study project within the WMO 
+Research and Development Programme (as appropriate in co-operation with the 
+World Weather Watch Programme).
+
+7.5     The session recognized that it should strengthen its relationship with 
+bodies interested in Antarctic meteorology research development, particularly 
+with regard to the existing SCAR specialist groups on Climate and Sea Ice.
+
+WWW/2493
+- 16 -
+
+8.      CO-OPERATION WITH OTHER INTERNATIONAL ANTARCTIC PROGRAMMES AND
+        ORGANIZATIONS (Agenda item 8)
+
+8.1     The session noted with interest of the activities relating to 
+co-operation with other international Antarctic programmes and 
+Organizations.     The session agreed that the maintenance of active contacts 
+with other groups or bodies such as SCAR, JSC, WMO Technical Commissions, etc. 
+with regard to aspects of Antarctic meteorology is one of the important tasks 
+of the working group.
+
+8.2     The session noted that the Nineteenth Meeting of SCAR decided to 
+disband its Working Group on Antarctic Meteorology and therefore, the session 
+agreed that the EC Working Group on Antarctic Meteorology should take more 
+responsibility for activities in Antarctic meteorology both in its operational 
+and research aspects.
+
+8.3     The session noted and agreed that it is valuable to maintain close 
+co-operation, and co-ordination of activities, between WMO and SCAR and for 
+there to be mutual representation in the sessions of the two organizations as 
+in the past.
+
+8.4     The session agreed to maintain the present arrangement between WMO 
+and the Antarctic Treaty Consultative Meetings.     However, it agreed that the 
+chairman of the working group may provide information on meteorological 
+activities in the Antarctic to the Antarctic Treaty Consultative Meetings.
+
+9.      FUTURE WORK PROGRAMME (Agenda item 9)
+
+9.1     When considering its future work programme, the session again stressed 
+the need for more frequent sessions of this working group, preferably two 
+sessions during one financial period.     The reasons for this are:
+
+        (a)     The group has responsibilities both to Executive Council and to 
+                the Antarctic Treaty Consultative Meetings;
+
+        (b)     The Antarctic Treaty Consultative Meeting holds regular sessions 
+                every two years;
+
+        (c)     SCAR also holds regular meetings every two years;
+
+        (d)     The need for updating information and co-ordination of 
+                activities more frequently on certain items, such as the 
+                observing programmes and the telecommunication arrangements.
+
+9.2     The session agreed that if necessary and if appropriate, the chairman 
+of the working group may establish sub-working groups, to operate by 
+correspondence, or to designate rapporteurs to carry out special tasks 
+assigned to them.
+
+www/2493
+- 17 -
+
+9.3     The session discussed the recommendation made by the Eighteenth 
+General Assembly of International Union of Geodesy and Geophysics (IUGG; 1983) 
+to refer to the working group the problem of non-standard and expedition-type 
+meteorological and climatological data and agreed that this will be 
+incorporated in its future work programme.  In this respect the chairman 
+invited members who were able to obtain information regarding historical 
+archives of standard or non-standard meteorological data in their own 
+countries to make this available to him;  he would then seek to produce a 
+suitable catalogue of this information.
+
+10.     CLOSURE OF THE SESSION (Agenda item 10)
+
+        The session was closed on Friday 5 September 1986.
+
+WWW/2493
+- 18 -
+
+Recommendation
+
+Rec. 1 (EC/WGAM-IV) -         EXECUTIVE COUNCIL WORKING GROUP ON ANTARCTIC
+                               METEOROLOGY
+
+THE EXECUTIVE COUNCIL WORKING GROUP ON ANTARCTIC METEOROLOGY,
+
+NOTING:
+
+(1) Resolution 7 (EC-XXXV) - Executive Committee Working Group on
+     Antarctic Meteorology,
+
+(2) Resolution 29 (Cg-IX) - Antarctic Meteorology,
+
+DECIDES:
+
+(1) To maintain its Working Group on Antarctic Meteorology with the
+     following terms of reference:
+
+     (a) To promote the execution of the resolutions of Congress
+         and the Executive Council in the area from 60°S to 90°S;
+
+     (b) To recommend and develop the relevant parts of the WMO
+         Long-term Plan;
+
+     (c) To co-ordinate programmes of surface and upper-air and
+         other meteorological observations in the Antarctic;
+
+     (d) To co-ordinate schedules of meteorological observations in
+         the Antarctic;
+
+     (e) To develop the most appropriate schemes for collection and
+         dissemination of meteorological data for operational
+         purposes;
+
+     (f) To develop and recommend regional coding practices which
+         are to be applied in the Antarctic;
+
+     (g) To study problems relating to instruments and methods of
+         observation peculiar to the Antarctic;
+
+     (h) To discuss questions amd make recommendations on
+         meteorological research and operations related to the
+         Antarctic;
+
+     (i) To maintain active contacts with other groups or bodies
+         such as SCAR, JSC, WMO's technical commissions etc. with
+         regard to aspects of Antarctic Meteorology of particular
+         relevance to their functions;
+
+     (j) To authorize its chairman or other representative, to
+         provide as necessary, information on meteorological
+         activities in the Antarctic to the Antarctic Treaty
+         Consultative Meetings.
+
+WMO/2493

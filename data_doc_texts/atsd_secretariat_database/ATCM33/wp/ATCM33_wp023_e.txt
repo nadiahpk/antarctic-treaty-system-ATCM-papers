@@ -1,0 +1,76 @@
+﻿
+
+
+
+
+
+Assessing cumulative environmental impacts: identifying the distribution and concentration of national operator activities in Antarctica
+
+
+
+
+
+Assessing cumulative environmental impacts: identifying the distribution and concentration of national operator activities in Antarctica
+
+CEP Working Paper submitted by the United Kingdom
+
+    1. Summary 
+This working paper describes a method to estimate the spatial extent and chronology of national operator activities in Antarctica using science and mapping databases.  The activities of the United Kingdom within the Antarctic Peninsula region are shown as an example. The UK recommends that the CEP (i) endorses the use of existing systems in the collation of information relating to the location of past science, survey and logistic activities, thus giving a holistic perspective of human impact across Antarctica which could be used to inform future environmental policy and management, and (ii) examines other methods to determine human activity at a regional/continent-wide scale.
+
+    2. Background
+In recent years the CEP has paid considerable attention to the topic of cumulative environmental impact by the tourism industry and governmental operators. The ICG on Cumulative Environmental Impacts (ATCM XXVI/CEP VI WP06) reported that there was a need to determine ‘the footprint of human impact for multiple activities and operators’ at the local, regional and continent-wide scale (Table 2, point 6).  It also concluded that ‘overall, a better understanding is necessary regarding what cumulative impact means over time and space’ and a priority for future work was the ‘establishment of databases (spreadsheets, GIS) capturing field and station activities through time’.  In this paper we present a method that attempts to address these needs.
+Human impacts are generally greatest close to established research stations or long-term field sites.  Nevertheless, even short duration visits by small field parties can cause negative environmental impacts.  Examples may include: homogenization (genetic dilution) of Antarctica's biota through human-mediated transfer of native species, introduction of non-native species, long-term contamination of pristine sites by human-associated microbiota, chemical pollution and direct physical impacts at sites of concentrated activity.
+A clear understanding of where past ground-based field activities have occurred has clear benefits for environmental management by:
+    1. Identifying areas at potential risk of cumulative environmental impact away from research stations.
+    2. Identifying regions at highest risk of non-native species introductions.  As human activity in a region increases, so does the risk of non-native species becoming introduced. An understanding of which regions are at greatest risk may allow policy makers to implement appropriate biosecurity measures.
+    3. Revealing impact-free areas that may be preserved for future science.   
+    4. Informing the future designation of protected areas. Sites subject to frequent visitation may require additional management.  Once identified, they could be managed systematically under the protected area system with the production of site-specific management plans.
+
+3.  Existing information sources
+Substantial quantities of science and survey work have been performed by Treaty Parties at sites dispersed throughout Antarctica for at least the last 65 years.  To estimate the distribution of human activities in Antarctica as a whole, or within specific regions, it is essential to have accurate information detailing where humans have visited.  
+
+Some information on the distribution of human activities in Antarctica does exist.  For over 20 years the tourism industry has gathered increasingly accurate data on tourist activities in Antarctica, while some general information on national operator activities is available through the Antarctic Treaty Information Exchange process and COMNAP.  However, information detailing the exact locations of national operators’ past activities is not readily available.  The recommendation of the ICG on Cumulative Environmental Impact to develop a readily accessible database detailing site visitation has yet to be implemented.  
+
+While providing a useful overview of Treaty Parties activities, Information Exchange and the Electronic Information Exchange System (EIES), are limited in their ability to assess the extent and intensity of human activities.  For example:
+
+    • they provide details of only major field activities
+    • activities not subject to an IEE or CEE may not be included in the submissions
+    • sufficient information is not always available to identify specific locations of field activities and, in particular, those of travelling field parties
+    • the Information Exchange database does not contain a full record of all Parties’ activities
+    • information outside the EIES is not readily accessible
+    • while Information Exchange submissions extend back to the initiation of the Treaty in 1961 the EIES contains data provided after mid-September 2008; substantial quantities of human activity pre-dated the period covered by the Information exchange process, perhaps most notably, the International Geophysical Year (1957-58).
+
+4.  Proposed method to determine the distribution and concentration of national operator activities 
+Gathering data for cumulative effects analysis is often the most challenging aspect of any assessment.  However, an estimate of the spatial extent and chronology of national operator activities in Antarctica can be generated using location data held in science and mapping databases.  The activities of the UK within the Antarctic Peninsula region are shown as an example.  The UK Antarctic Plant Database, Mapping and Survey databases and Geological Database contain records of plant/geological specimen collection or survey locations throughout the Antarctic Peninsula area and beyond.  The positions and dates of ground-based field activities were taken from these databases and almost 58,000 individual locations were plotted onto a base map.  
+
+Figure 1 shows the concentration of field activity locations in 20 × 20 km squares within which are found ice-free locations (of even small size) in the Peninsula region.  Figure 2 shows the distribution of field activity locations at similar locations each decade up until 2009, and reveals how the location of survey and scientific effort has changed over time and is linked to research station distribution.  Figure 3 shows the location of UK logistic infrastructure (depot sites, past and present research stations) and field activities on ice-free locations and ice sheets and ice shelves (e.g. geophysical traverse lines and ice-core drill sites; data from other sources).
+5.  Wider implementation
+The representations of human activity distributions detailed in this paper were generated using only three datasets originating from within the UK.  Figure 4 shows the spatial areas covered by c. 4,700 dataset descriptions held within the Antarctic Master Directory, which were placed there predominantly by SCADM’s network of National Antarctic Data Centres.  The combination and subsequent visualisation of the locations held within other Treaty Parties’ datasets could provide a powerful representation of human activity distribution within Antarctica.  The addition of information on locations of national operator logistic infrastructure (depot sites, past and present research station, major traverses, etc.) would further enhance this representation and increase its usefulness to environmental policy makers (Figure 3).  Such information may not be available in databases, and other methods of information capture, such as surveys or questionnaires may be needed.
+Specifically, an understanding of where National Programmes have visited would inform a system whereby the degree of environmental monitoring is commensurate with the level of visitation.  Highly impacted or vulnerable locations may be identified more easily and protected, based not only on physical parameters or biological diversity but also on levels of human visitation.  All three parameters are essential for future systematic protected area designation.  For example, Figure 1 shows that the Lassiter Coast (southeast Peninsula) is the last large ice-free area un-visited by UK scientists.  Depending upon the past activities of other National Programmes and characteristics of the region, this area may contain candidate sites for protection as inviolate areas preserved for future scientific efforts. 
+
+With this method, the accuracy of any representation depends upon the quality and quantity of data in available databases.  The method does not show directly the quantity of potential human impacts associated with each location in the databases (i.e. does not differentiate between a location visited by one person for five minutes or ten people for a week), although this information may be available in associated field reports.  Extracting information from these sources is often a time-consuming task, but may prove useful for assessing impacts at remote/little visited locations (e.g. ASPA 170 Marion Nunataks). 
+6.  Recommendations
+ The UK recommends that the CEP:
+    • endorses the use of existing systems in the collation of information relating to the location of past science, survey and logistic activities, thus giving a holistic perspective of human activities across Antarctica, which could be used to inform future environmental policy and management at a range of spatial scales
+    • examines other methods to determine human activity at a regional/continent-wide scale.
+
+Figure 1.   Concentration of recorded field activities within 20 × 20 km squares that contain ice-free locations in the Peninsula region.
+
+
+
+The maximum number of records within any single 20 × 20 km square was 841.
+Figure 2.  Distribution of field activity locations on ice-free locations each decade up until 2009 (South Orkney Islands not shown). 
+
+
+ Survey and scientific effort has changed over time and is linked to research station (▲) distribution.
+Figure 3.  Location of BAS logistic infrastructure (depot sites, past and present research stations) and field activities on ice-free locations and ice sheets and ice shelves (geophysical traverse lines, and ice-core drill sites) derived from readily accessible databases.
+
+
+Figure 4.  Distribution of marine and terrestrial scientific databases within the Antarctic Treaty area described in the Antarctic Master Directory.
+
+
+
+
+Databases shown are those described as point locations (1,367) or have area coverage less than 15 × 15 degrees (1,444).  Databases with larger area coverage are not shown (1,887). Each database may contain multiple locations of individual field activities.
+
+

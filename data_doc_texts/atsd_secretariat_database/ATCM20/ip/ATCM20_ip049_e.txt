@@ -1,0 +1,1545 @@
+ANTARCTIC TREATY                  TRATADO ANTARTICO
+XX CONSULTATIVE MEETING          XX REUNION CONSULTIVA
+
+TRAITE SUR L'ANTA RCTIQUE         ДОГОВОР ОБ АНТАРКТИКЕ
+XXe REUNION CONSULTATIVE         XX КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+
+
+XX ATCM/INF 49
+April, 1996
+Original: English
+
+
+IMPROVEMENTS TO BULK FUEL STORAGE AND TRANSPORT FACILITIES AT
+SCOTT BASE, ROSS ISLAND, ANTARCTICA
+INITIAL ENVIRONMENTAL EVALUATION
+
+(Agenda Item 18)
+
+(Submitted by New Zealand)
+IMPROVEMENTS TO BULK FUEL STORAGE AND TRANSPORT
+FACILITIES AT SCOTT BASE, ROSS ISLAND, ANTARCTICA
+
+INITIAL ENVIRONMENTAL EVALUATION
+
+New Zealand Antarctic Programme
+IMPROVEMENTS TO BULK FUEL STORAGE AND TRANSPORT
+FACILITIES AT SCOTT BASE, ROSS ISLAND, ANTARCTICA
+
+INITIAL ENVIRONMENTAL EVALUATION
+
+April 1996
+
+Prepared by:
+E J Waterhouse
+Environmental Officer
+New Zealand Antarctic Programme
+
+New Zealand Antarctic Programme
+PO Box 14091
+Christchurch
+NEW ZEALAND
+Ph 03 358 0200
+Fax 03 358 0211
+e mail e.waterhouse@nzap.iac.org.nz
+TABLE OF CONTENTS
+
+SUMMARY OF FINDINGS                                         Page
+                                                             1
+1.0  INTRODUCTION                                            2
+     1.1  Background                                          2
+     1.2  The IEE Process                                     2
+
+2.0  IMPROVEMENTS TO BULK FUEL STORAGE FACILITIES            4
+     2.1  Current Fuel Storage and Transport at Scott Base    4
+     2.2  Location and Principle Characteristics              5
+          2.2.1  Replacement and Relocation of the Bulk JP8 Fuel Tanks  5
+          2.2.2  Decommissioning of Existing JP8 Tanks           7
+          2.2.3  Fuel Supply Pipeline (JP8)                      7
+          2.2.4  Scott Base JP8 Supply Tank                      9
+          2.2.5  Incinerator and Mogas Tanks                    10
+     2.3  Need for the Fuel Storage and Transport Facilities  10
+     2.4  Construction Requirements                          11
+          2.4.1  Types and Sources of Materials                 11
+          2.4.2  Transportation and Equipment                   11
+          2.4.3  Fuel and Energy Requirements                   11
+          2.4.4  Storage Requirements                           11
+          2.4.5  Earthworks                                     11
+          2.4.6  Personnel and Accommodation                    11
+          2.4.7  Emissions                                      12
+          2.4.8  Waste Management                               12
+     2.5  Operational Requirements                           12
+          2.5.1  Maintenance and Personnel                      12
+          2.5.2  Transport                                      12
+          2.5.3  Energy                                         12
+          2.5.4  Emissions                                      12
+          2.5.5  Waste Management                               12
+     2.6  Timing Considerations                              13
+     2.7  Decommissioning Considerations                     13
+
+3.0  ALTERNATIVES                                            13
+     3.1  Do Nothing                                         13
+     3.2  Alternative Energy Systems                        13
+     3.3  Alternatives at Existing Site of JP8 Tanks         14
+          3.3.1  No Relocation and Bunding                      14
+          3.3.2  No Relocation and Double Skinning              15
+     3.4  Alternative Sites for JP8 Tanks                    15
+          3.4.1  Ex-American Fuel Site                          15
+          3.4.2  Draft IEE Site                                 15
+          3.4.3  Immediately Behind Scott Base                 15
+          3.4.4  Ex-Italian Fuel Storage Site                   16
+3.5   Pipeline Alternatives                                  19
+      3.5.1   Improved Transport                               19
+
+3.6   Alternative Mogas Tank Locations                       19
+
+4.0   THE ENVIRONMENT OF PRAM POINT                          20
+
+4.1   Physical Features                                      20
+      4.1.1   Topography and Soils                             20
+      4.1.2   Snow and Ice Cover                               20
+      4.1.3   Climate                                          20
+
+4.2   Biological Features                                    20
+      4.2.1   Invertebrates                                    21
+      4.2.2   Seals and Whales                                 21
+      4.2.3   Birds                                            21
+      4.2.4   Flora                                            21
+      4.2.5   Benthic Communities                              21
+
+4.3   Human Activities in the Area                           21
+
+5.0   ENVIRONMENTAL IMPACTS                                  23
+
+5.1   Methodology                                            23
+
+5.2   Actual and Potential Impacts                          23
+      5.2.1   Topography and Soils                             23
+      5.2.2   Air Quality                                      24
+      5.2.3   Visual and Aesthetic Values                      24
+      5.2.4   Flora and Fauna                                  25
+      5.2.5   Waste Production                                 25
+      5.2.6   Energy Use                                       26
+      5.2.7   Indirect Impacts                                 26
+      5.2.8   Cumulative Impacts                               27
+
+5.3   Evaluation of Significance of Impacts                 27
+
+6.0   MONITORING AND REPORTING                               30
+
+7.0   CONCLUSION AND RECOMMENDATIONS                        30
+
+      BIBLIOGRAPHY                                         31
+
+APPENDECIE[?]
+LIST OF FIGURES
+
+FIGURE 1.1         Hut Point, Ross Island, Antarctica
+FIGURE 2.1         Scott Base JP8 Bulk Fuel Tanks
+FIGURE 2.2         Scott Base Mogas Storage Tanks
+FIGURE 2.3         Scott Base Layout with Proposed Fuel Storage Sites
+FIGURE 2.4         Williams Field Fuel Line
+FIGURE 2.5         Scott Base from the McMurdo Road
+FIGURE 2.6         Scott Base JP8 Supply Tank
+FIGURE 3.1         Alternative JP8 Bulk Fuel Tank Sites - Pram Point
+
+LIST OF TABLES
+
+TABLE 3.1         Summary of Advantages and Disadvantages of Preferred and 
+                  Alternative Sites for JP8 Bulk Fuel Storage Tanks, Scott Base and 
+                  Vicinity
+TABLE 5.1         Evaluation of Potential Impacts - Bulk Fuel Storage and Transport
+
+APPENDICES
+
+Appendix I        Summary Page : Improvements to Scott Base Facilities, Ross Island, 
+                  Antarctica - Preliminary Environmental Evaluation, May 1994
+Appendix II       Draft IEE Circulation List and Summary of Comments
+Appendix III      Results of Scott Base Electromagnetic Field Survey
+SUMMARY
+
+
+The New Zealand Antarctic Programme (NZAP) proposes to carry out improvements 
+to bulk fuel storage and transport facilities at Scott Base, Ross Island. Scott Base is 
+NZAP's main science support facility in Antarctica. The base was established in 
+1957 and has operated continuously since that time. The current proposal involves 
+replacement of the two JP8 bulk fuel tanks currently supplying fuel to Scott Base 
+with two 40,000 litre double skinned bulk fuel storage tanks and a 3,000 litre 
+double skinned JP8 base supply tank. The tanks will be located approximately 400 
+metres behind Scott Base. An elevated pipeline is proposed to run from a connection 
+with the American fuel line on the McMurdo Road to the JP8 tanks and from the tanks 
+to Scott Base at a point close to the water storage tank. The JP8 base supply tank will 
+be relocated to a site adjacent to the existing vehicle hitching rail. Protective 
+bollards will be placed around this tank.
+
+The proposed improvements have been identified as necessary by both NZAP staff and 
+in a number of independent reports prepared for the programme. The improvements 
+are also required in order for New Zealand to meet its obligations under the Protocol 
+on Environmental Protection to the Antarctic Treaty (Article 3) and the New Zealand 
+Antarctica (Environmental Protection) Act, 1994. The environmental risks of 
+current bulk fuel storage and transport facilities are high and considered to be 
+unacceptable. NZAP proposes to significantly reduce these risks by taking a 
+comprehensive approach to its fuel management by including improvements to both 
+transport and storage facilities in the proposal.
+
+Specific actions associated with the proposal causing significant impacts include; 
+visual intrusion from the pipeline and tanks, potential for fuel spills, in particular 
+during the construction phase, ground disturbance through earthmoving activities 
+and potential for disturbance to mosses and lichens. The environmental impacts 
+(including benefits) of the proposal are discussed in the context of the highly 
+disturbed nature of the Pram Point environment.
+
+The results of the evaluation of impacts of the proposal indicate that the activities are 
+likely to have no more than a minor or transitory impact on the environment and 
+will significantly reduce the risk of large scale fuel spills occurring compared with 
+the current facilities. The IEE concludes that the project can proceed, as specified, 
+including implementation of described mitigation and monitoring measures, on the 
+basis that the activities will have no more than a minor or transitory impact on the 
+Antarctic environment.
+
+Page 1
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+1.0     INTRODUCTION
+
+1.1     Background
+
+Scott Base, located on Ross Island, Antarctica, is the primary support facility for 
+New Zealand's science activities in the Antarctic (Figure 1.1). The New Zealand 
+Antarctic Programme (NZAP) runs Scott Base and provides logistic and operational 
+support to science personnel. In early 1994 a facilities plan was prepared for NZAP 
+which proposed a number of additions and alterations to Scott Base. The plan included 
+proposals for improvements to bulk fuel storage and transport facilities.
+
+Most of the proposals put forward in the plan have since been put on hold. However 
+NZAP has undertaken to continue with the option of improving bulk fuel storage and 
+transport facilities at Scott Base. This decision is based on the environmental risks 
+of existing facilities and the ongoing requirements for fuel storage at Scott Base. The 
+purpose of this Initial Environmental Evaluation (IEE) is to assess the likely impact 
+of the proposal on the Antarctic environment.
+
+1.2     The IEE process
+
+The Scott Base Facilities Plan was submitted to NZAP in early 1994. In May 1994 a 
+Preliminary Environmental Evaluation (PEE) was completed for the activities 
+proposed in the plan (Appendix I). The aim of the PEE was to provide a preliminary 
+evaluation of the impacts of the Facilities Plan proposals and to determine the 
+appropriate level of any further environmental impact assessment. The PEE 
+concluded that:
+
+"...an initial environmental evaluation [should] be carried out to assess in 
+greater detail the likely nature and extent of impacts of the proposed additions 
+and new buildings as detailed in the NZAP Scott Base Facilities Plan."
+
+The PEE reached this conclusion based on the overall or cumulative impact of all of 
+the proposals put forward in the Facilities Plan. However the improvements to bulk 
+fuel storage and transport was one of the activities identified in the PEE as not having 
+less than a minor or transitory impact. An IEE is therefore an appropriate level of 
+assessment for this activity independent of the facilities plan.
+
+The IEE covers only existing fuel storage and transport facilities, where there is a 
+clear need for improvements to reduce environmental risks. NZAP believes that 
+there will be an ongoing requirement for fuel storage facilities at Scott Base 
+irrespective of any energy efficiency savings or partial conversion to renewable 
+energy sources. Consequently consideration of such strategies is outside the scope of 
+this IEE.
+
+The IEE has been prepared in accordance with the requirements of Annex I of the 
+Protocol on Environmental Protection to the Antarctic Treaty (the protocol) and the 
+New Zealand Antarctica (Environmental Protection) Act 1994 (Section 9(2)). The 
+"Antarctic Environmental Assessment Process - Practical Guidelines" Bologna, Italy 
+(20/6/91) and revised Washington DC (4/3/92) have been used as a guide to 
+preparation. The (draft) IEE was completed in August 1995 and was circulated for 
+comment to appropriate Antarctic organisations and individuals within New Zealand 
+and to the National Science Foundation, Office of Polar Programs (refer Appendix II). 
+Comments on the draft, were received from seven organisations and individuals and 
+have been taken into account in the preparation of this final IEE.
+
+Page 2                                  NZAP Bulk Fuel Storage and Transport 
+                                        Initial Environmental Evaluation - April 1996
+Page 3
+
+                    Ross Ice Shelf
+
+
+                    New Zealand
+
+
+    Tasmania                                                    
+                    ROSS SEA
+
+
+Coulman Is                                                  
+    Islnd                                                 
+                    South Pole
+
+
+Weddell
+
+
+Antarctic
+Peninsula
+
+
+                    Ice Shelf Edge
+
+
+McMurdo Sound
+
+
+                    N
+
+
+Ice Free Areas
+
+
+0.0      1.0        2.0       3.0
+KILOMETRES
+
+
+Figure 1.1  Hut Point Peninsula, Ross Island, Antarctica
+
+
+NZAP Bulk Fuel Storage & Transport
+Initial Environmental Evaluation -  1995
+2.0  IMPROVEMENTS TO BULK FUEL STORAGE FACILITIES
+
+The project will involve the replacement of two bulk fuel tanks at Scott Base with 
+two double skinned tanks to be located behind the base. The tanks will be connected 
+with a permanent fuel delivery line. Bunding will not be required around the tanks. 
+Improvements to other bulk fuel tanks at Scott Base are also proposed.
+
+2.1  Current Fuel Storage and Transport at Scott Base
+
+NZAP utilise two major fuel types for use at Scott Base and in running the NZAP 
+vehicle fleet. JP8, a military grade of aviation kerosene containing an icing 
+inhibitor, is utilised for generators and diesel fuel vehicles. M[?]ogas is a military 
+grade of petrol used in petrol/two stroke driven engines.
+
+JP8 is currently stored in two above ground single skinned horizontal cylindrical 
+tanks each with a 57,000 litre capacity (Figure 2.1). The tanks are mounted on 
+skids on wooden planking blocks and have no secondary containment. The tanks are 25 
+metres from the incinerator, 10m from the vehicle hitching rail and lie near a 
+helicopter approach path to Scott Base. The ground around the tanks slopes steadily 
+to the shoreline. Above ground steel fuel lines connect the bulk tanks to a transfer 
+tank. Underground lines with bolted flanges fuel the seven small day use tanks 
+located around the base. Fuel is supplied to the bulk JP8 tanks by a USAP tanker 
+(7,570 litre capacity) from McMurdo Station. Refuelling takes place five to six 
+times a year. Each refuelling may require up to 14 individual visits by the tanker 
+truck.
+
+Both tanks were inspected in January 1996, are in good condition and are estimated 
+to have an operational life expectancy of 40 years.
+
+ 
+Figure 2.1: Scott Base JP8 Bulk Fuel Tanks
+Note location close to vehicle hitching rail and helicopter pads (left foreground).
+
+Page 4
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+Bulk mogas is stored in two above ground horizontal, cylindrical steel tanks each with 4,500 litre capacity with no secondary containment (Figure 2.2). The tanks are mounted on skids and supported on wooden blocks on an area of relatively level ground adjacent to the helicopter pads and close to where the access road from McMurdo Station enters Scott Base. The tanks are filled from two 1,892 litre fuel bladders transported from McMurdo on a flat bed truck two to three times a year.
+
+Figure 2.2: Scott Base Mogas Storage Tanks
+
+2.2     Location and Principle Characteristics
+
+The potential for environmental damage at Scott Base by spillage of fuel from the bulk storage tanks requires that spill prevention measures are improved and upgraded. The proposed activities are in response to the current environmental risks (refer 2.3) and consist of a number of actions including; replacement and relocation of the bulk JP8 fuel tanks, spill containment for all bulk fuel tanks at Scott Base and a fuel supply pipeline to replace existing tanker refuelling of the JP8 tanks. The proposed layout of the new facilities at Scott Base is shown in Figure 2.3.
+
+2.2.1   Replacement and Relocation of the Bulk JP8 Fuel Tanks
+
+It is proposed to replace the two bulk JP8 fuel tanks with two 40,000 litre double skinned tanks. The tanks will be located at a site behind the base complex, approximately 400m to the north. Two tanks are required to supply Scott Base and the programme's fuel requirements. The site is located on a flat bench overlooking the Scott Base-McMurdo road with natural and physical characteristics typical of Pram Point (refer 4.0). Associated valving, pumps and controls will meet current standards.
+
+Page 5                                                                 NZAP Bulk Fuel Storage and Transport
+                                                                                           Initial Environmental Evaluation - April 1996
+Legend:
+  Roads
+  Tracks and Storage Areas
+  Existing Buildings
+  Features of Interest
+  Services
+  Williams Field Fuel Line
+  (approximate location)
+  Possible Fuel Line Connection Routes
+  Science Sites (approximate locations)
+
+Proposed Mo-gas Tank Relocation Site
+Proposed JP-8 Tank Relocation Site
+Existing Mo-gas Tank Location
+Helo Pads
+Existing JP-8 Tanks
+Proposed Day-Use/Helicopter Refuelling Tank
+(by Vehicle Hitching Rail)
+Incinerator
+
+Contour interval: 3 metres
+          METRES
+  0       100      200
+
+Page 6
+Figure 2.3 Scott Base Layout With Proposed Fuel Storage Sites
+The decision to replace the existing tanks with double skinned tanks eliminates the requirement for bunding with the second "skin" of the tanks providing secondary containment. The total area proposed to be taken up by the tanks has therefore been significantly reduced compared to the original proposal. The area to be taken up by the tanks is 480m2 (compared with 8,000m2 for the bunding and associated earthworks). In the unlikely event of a major accident involving the tanks, ie where both the skins or hulls are ruptured, fuel will not run towards Scott Base. The natural drainage patterns and topography downslope of the tank sites run towards the Scott Base-McMurdo Road.
+
+2.2.2    Decommissioning of Existing JP8 Tanks
+
+Both JP8 bulk fuel tanks will be decommissioned once the new system is connected, trialed and operational. The tanks and associated pipe work will be fully drained. Any underground pipes associated with the tanks and no longer required will be capped and decommissioned. The tanks will be removed from their current site. One tank will be retained at Scott Base and stored on the wannigan line for use as temporary storage in the event of a major spill.
+
+2.2.3    Fuel Supply Pipeline (JP8)
+
+It is proposed to put in a permanent connection to the USAP Williams Field pipeline (JP8) which runs close to the McMurdo Road above the proposed location of the JP8 tanks. The Williams Field fuel line is an elevated steel line which runs adjacent to the Scott Base road from McMurdo Station to a point on the coast north east of Scott Base (Figure 2.4). From here to Williams Field the line is temporary and is taken up at the end of each summer operating season. The line supplies fuel to the USAP air facility at Williams Field. The line holds fuel periodically when the air field fuel tanks require refuelling. The Scott Base connection to this pipeline will not impact on USAP operations or increase the risks of spills from American activities.
+
+Figure 2.4: Williams Field Fuel Line
+
+Page 7
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+The preferred route for the pipeline follows the existing service corridor (Figure 
+2.3) directly down from the road to the tanks. Figure 2.5 shows the view looking 
+down to Scott Base from the road. From the tanks the line will cross under the 
+existing track then run above ground down to the point of entry to Scott Base near the 
+water storage tanks. The pipeline will continue under Scott Base to connect into 
+existing pipework to the daily use tank (see section 2.2.3). The route of the pipeline 
+is indicated on Figure 2.3. The final line of the pipeline will be chosen to minimise 
+interference to existing science sites in the vicinity and to avoid the requirement to 
+run the pipeline underground.
+
+The installation of the pipeline will remove the risk of a spill from a road tanker or a 
+coupling failure during refuelling activities. An elevated 100 mm diameter, fully 
+welded, branch line will run under the road from the connection point to the new 
+double skinned 40,000 litre JP8 tanks.
+
+The pipe will be elevated (minimum one metre above local elevation) on support 
+stanchions and will be constructed of mild steel to American Petroleum Institute 
+(API) specification. All underground pipeline will be double skinned and arranged 
+for monitoring of the interstitial void space. Refuelling the incinerator tank, 
+previously refuelled from the base supply tank, will be from a USAP tanker (two to 
+three trips per year).
+
+Figure 2.5: Scott Base from the McMurdo Road
+The existing service cables run down to the base on the right of the picture. The pipeline would follow 
+this line to the bulk JP8 fuel tanks to be located on the downhill side of the stack of Italian fuel drums 
+left foreground. (Note: these fuel drums have since been removed.). From the tanks the pipeline 
+would run to the base to a point immediately adjacent the water storage tanks (cylindrical buildings 
+behind the base).
+
+Page 8
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+2.2.4    Scott Base JP8 Supply Tank
+
+The existing base JP8 supply tank (Figure 2.6) will be removed from its location 
+next to the bulk fuel tanks, decommissioned and returned to New Zealand. A new 
+double skinned 3,000 litre tank will be positioned at the north end of the existing 
+hitching rail. The tank will be protected from impact by concrete bollards.. The tank 
+will be used to fuel helicopters using the Scott Base helicopter pads. Fuelling at Scott 
+Base is required under proposed new arrangements for helicopter support to NZAP. 
+The tank will also provide for daily use requirements and vehicle refuelling at Scott 
+Base. The existing underground fuel line between the base and the hitching rail will 
+be drained, decommissioned, capped and replaced with a new double skinned line.
+
+A connection to the seven Scott Base daily use tanks would be provided from this 
+supply tank. Existing piping under Scott Base will be utilised although it is planned 
+to replace and upgrade this system over the next 3 years.
+
+ 
+Figure 2.6: Scott Base JP8 Supply Tank
+
+2.2.5    Incinerator and Mogas Tanks
+
+The existing Mogas tanks will be relocated to a site further to the east of the existing 
+site and away from the direct approach and escape paths for aircraft using the Scott 
+Base helicopter pads (see figure 2.3).
+
+Open steel bunding structures will be installed around both the incinerator and Mogas 
+tanks and will be of sufficient volume to contain spills equivalent to tank capacity. 
+Further protective structures will be installed around the Mogas tanks to reduce the 
+risk of vehicles hitting the tanks. Relocation of the Mogas tanks to this site will 
+significantly reduce the risks of vehicle collisions with the tanks. The tanks were 
+also considered to be too close to the upper helicopter pad. RNZAF pilots have advised 
+that their current location is unacceptable for use of the upper pad. The proposed 
+site is currently located within a Scott Base storage area.
+
+Page 9
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+2.3     Need for the Improved Fuel Storage and Transport Facilities
+
+The inadequacies and environmental risks associated with the current bulk fuel 
+storage arrangements at Scott Base have been highlighted in a number of NZAP 
+commissioned reports (see Woodward-Clyde (1993A), Works (1994) & Royds 
+Consulting (1994)). In early 1993 NZAP commissioned an oil spill prevention, 
+reduction and control strategy for its Antarctic facilities (Woodward-Clyde 1993A). 
+The report identified a range of credible spill scenarios and concluded that:
+
+    "...the present fuel and oil containment systems and management strategy used 
+by NZAP...has indicated that there is a significant potential for oil spills to 
+occur."
+
+and
+
+    "...initial priority should be given to the installation of secondary containment 
+of all bulk storage tanks at Scott Base..."
+
+The major environmental risk associated with operation of current facilities and 
+procedures is fuel spills. Spills of significant quantities could occur as a result of 
+accidents involving the tanker trucks (max. 7,600 litres ), failure to hoses and 
+connections during tank refuelling (max. 1,300 litres) and damage to tanks/pipe 
+work (max. 57,000 litres).
+
+The current proposals have been initiated in a response to concerns raised in these 
+independent reports and by NZAP staff, and in response to New Zealand's commitment 
+to comply as far as practicable with the requirements of the protocol. A recent audit 
+of NZAP activities assessed NZAP compliance with the protocol. The audit, using 
+Article 3 (of the protocol) as a guide, stated that:
+
+    "Compliance [is] variable and could be significantly improved in relation to 
+drummed and bulk fuel storage, usage and transport issues."
+
+The audit report recommended that:
+
+    "The current NZAP considerations on secondary containment of Mogas and JP8 
+bulk storage tanks should continue as a priority and suitable structures 
+installed as soon as possible."
+
+Taken together, the proposals for improved fuel transport and storage facilities at 
+Scott Base, will significantly reduce the environmental risks associated with fuel 
+handling within NZAP. NZAP has taken a comprehensive view of its fuel transport 
+and storage facilities and has attempted to provide a solution that addresses both 
+environmental concerns and reduces the risks as far as practicable of fuel spills 
+occurring in the future. To this end, the combination of replacement and double 
+skinning of the bulk JP8 tanks, secondary containment for other tanks and a piped 
+fuel delivery system are all integral components of the proposal.
+
+The relocation of the site of the bulk JP8 tanks away from a high activity and traffic 
+area will also reduce the risk of accidents involving or impacting on the fuel tanks. 
+Health and safety risks to NZAP and USAP personnel will also be reduced especially 
+through the elimination of the need to refuel the JP8 tanks by truck. In addition, 
+should a spill occur, it is likely to be detected earlier and contained within 
+appropriate structures.
+
+Page 10
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+2.4     Construction Requirements
+
+2.4.1   Types and Sources of Materials
+
+The new double skinned tanks are constructed of mild steel to A.S.T.M A6 82A/83.
+Further tests will be conducted with actual materials to confirm low temperature 
+performance. The pipeline, Mogas and incinerator bunds will be constructed from 
+mild steel in accordance with relevant API and other standards.
+
+2.4.2   Transportation and Equipment
+
+All materials to be imported from New Zealand will be transported by the annual 
+resupply ship or by air using the existing flight network. Maximum reuse of 
+existing hardware available at Scott Base is proposed. Heavy plant is required to 
+carry out earthworks to level the bulk JP8 tanks. Major equipment and vehicle 
+needs for the project include the following:
+• Caterpillar D-8 crawler tractor with dozing blade and ripper
+• Caterpillar 926 tyred loader
+• Pneumatic track drill and air compressor
+
+The new JP8 tanks will be transported from McMurdo along the Scott Base road and 
+to the site by wheeled trailer. The tanks will be set into final position using a mobile 
+crane. Pipeline construction will require the use of the 926 loader, track drill and 
+compressor, and welding machine.
+
+The base JP8 supply tank will require minimum on site work to position using the 
+926 loader.
+
+2.4.3   Fuel and Energy Requirements
+
+An estimated additional (to normal base activities) 190 hours of heavy plant work 
+will be required to complete the work. No additional energy demands will be made on 
+the base generators.
+
+2.4.4   Storage Requirements
+
+Materials required for the work will be stored at Scott Base in existing designated 
+storage areas.
+
+2.4.5 . Earthworks
+
+Limited earthworks are required to prepare the site for the JP8 tanks. Limited site 
+preparation is also required at the base daily supply site. Because of the location of 
+the bulk tanks adjacent to a formed track, no additional tracks are required.
+
+2.4.6   Personnel and Accommodation
+
+A maximum of 12 additional persons, spread over two operating seasons will be 
+required to complete the work. Existing NZAP staff at Scott Base will prepare the 
+sites. Six to eight contract personnel will visit Scott Base to construct the pipeline, 
+position the base daily use tank, reposition the Mogas tank, install the Mogas and 
+incinerator tanks into prefabricated steel bunds and install the control lines and 
+electrics required.
+
+Page 11
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+In the final construction season, three to four contract personnel will be required to 
+position the JP8 bulk storage tanks, base tank and complete the pipeline connections. 
+The existing JP8 tanks will also be removed and returned to New Zealand. One tank 
+will be retained in the wannigan line for use as a temporary storage tank in the event 
+of a major spill. Remediation of the old JP8 bulk storage tank site, if required 
+(refer 6.0) will also take place at this time.
+
+All New Zealand personnel involved in the project will be accommodated at Scott Base.
+
+2.4.7   Emissions
+
+The additional hours of vehicle operations will produce a corresponding increase in 
+exhaust emissions. No increase is expected in generator base exhaust emissions. 
+Dust levels will increase in association with earthworks and construction activities 
+as will noise levels.
+
+2.4.8   Waste Management
+
+All solid wastes except untreated timber products produced during the project will be 
+returned to New Zealand. A 3% per annum increase is expected in the volume of 
+waste produced at the base during the two final construction seasons. This figure is 
+based on an estimated 5% of materials shipped to Scott Base for the project being 
+returned as waste ie five cubic metres in total.
+
+2.5     Operational Requirements
+
+2.5.1   Maintenance and Personnel
+
+Regular checks of the pipeline, double skinned tanks, bunds and daily use tank will be 
+required and maintenance carried out as necessary. It is expected that these 
+additional tasks can be easily taken up by existing staff positions at Scott Base.
+
+2.5.2   Transport
+
+No additional transport requirements are expected during the operational phase. 
+Transport of JP8 from McMurdo has been significantly reduced from approximately 
+85 visits (five to six refuellings of 14 trips each) to only two to three visits a year 
+to fill the 4,500 litre incinerator tank.
+
+2.5.3.  Energy
+
+Small additions to base energy consumption will result from the provision of lighting 
+at the JP8 tanks during the winter months.
+
+2.5.4   Emissions
+
+No additional emissions are expected during the operational phase of this project.
+
+2.5.5   Waste Management
+
+No additional wastes are expected to be generated during the operational phase of this 
+project.
+
+Page 12
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+2.6     Timing Considerations
+
+Pipeline construction would commence in late December 1996. Both JP8 fuel tanks 
+would be shipped to Scott Base in January 1997 for installation, testing and 
+commissioning together with the pipeline by late February 1997. Installation and 
+commissioning of the base supply tank is planned for December 1997.
+
+2.7     Decommissioning Considerations
+
+The tanks and pipeline could all be removed if Scott Base was decommissioned. 
+Limited earthworks may be required to remediate the site of the JP8 tanks. A limited 
+amount of fuel contaminated soil may have to be removed from around this site 
+although it is expected that the double skinned tanks will provide a very high level of 
+spill protection.
+
+3.0     ALTERNATIVES
+
+Alternatives to the preferred proposals have been considered and are discussed 
+below.
+
+3.1     Do Nothing
+
+Current bulk fuel storage arrangements at Scott Base are inadequate and present a 
+significant environmental risk at Pram Point. New Zealand's commitment to 
+implement the protocol requires that some action is required to reduce these risks. 
+The benefits of the proposed activities are identified in section 2.3, in particular the 
+removal of the high level of risk of a large scale fuel spill which could contaminate 
+both the marine and terrestrial environments.
+
+Consequently the option of doing nothing is unacceptable given New Zealand's 
+commitment to adhering to international environmental agreements.
+
+3.2     Alternative Energy Systems
+
+Alternative energy systems, principally wind and solar power, have been used 
+successfully to provide energy to stations in Antarctica. Greenpeace's World Park 
+Base at Cape Evans, Ross Island, ran for approximately 39% of the time on 
+alternative energy resulting in a 36% reduction in fuel consumption (Greenpeace, 
+1994). The use of alternative energy systems is also relatively widespread in the 
+United States Antarctic Programme, in particular for field facilities. Solar panels 
+are routinely used by NZAP summer field parties.
+
+While alternative energy systems may be able to be utilised at Scott Base, it is clear 
+that with current technology full conversion to wind and solar energy is not 
+practicable. NZAP may consider the use of alternative energy systems in the future. 
+However, NZAP believes that there will be an ongoing requirement for fuel storage 
+facilities at Scott Base, and that consideration of alternative energy systems are 
+outside the scope of this IEE.
+
+Page 13                                                                    NZAP Bulk Fuel Storage and Transport
+                                                                          Initial Environmental Evaluation - April 1996
+3.3     Alternatives at Existing Site of JP8 Tanks
+
+3.3.1   No Relocation and Bunding
+
+The instalment of bunding structures around the JP8 tanks at their current location 
+would significantly reduce the risk of a large spill entering both the marine and 
+terrestrial environment. However, bunding the tanks in their current position 
+presents a number of difficulties. To remain effective bunds must remain free of 
+snow and ice. Records and recent observations confirm that there is sufficient snow 
+accumulation at the current site to present significant problems in keeping the bunds 
+snow free (Works, 1994).
+
+The use of bunds as a secondary containment system would also require significant 
+quantities of both fill material and fines (to line the bund). Such fines are 
+unavailable to NZAP in Antarctica and material would have to be imported from New 
+Zeal[?]nd. This option attracted considerable comment and is inconsistent with the 
+requirements of the Protocol. The option of using artificial lining material, eg 
+concrete slabs, was considered, but were found to be prohibitively expensive 
+(compared with the option of double skinned tanks).
+
+A permanent connection from the Williams Field pipeline to the current site could be 
+achieved but would create additional environmental risks and impacts. The pipeline 
+would have to cross in front of the Scott Base workshops (a high activity and vehicle 
+use area) or pass under the base. For this section the pipeline would have to be 
+underground for up to 60 metres to allow vehicles to continue operating in this area 
+(adjacent to the workshop and garage). Earthworks (15m^(3)) would be required for 
+laying the pipe to a depth of 500 mm. An important reason for NZAPs decision to 
+relocate the bulk fuel tanks was to minimise underground fuel piping. NZAP 
+considers that the potential for undetected leaks occurring is high and is a risk that 
+can be eliminated by above ground piping. Normal maintenance of any underground 
+pipe would also be difficult.
+
+In addition, NZAP considers that there are a number of safety issues that can be 
+resolved by relocating the tanks away from their current site. The tanks are located 
+close to one of the standard helicopter approach paths to Scott Base. The line of the 
+approach is directly determined by topography and prevailing wind conditions at 
+Scott Base and is therefore immovable. In some instances underslung loads destined 
+for Scott Base have had to be dropped at McMurdo due to this constraint. The tanks 
+represent a hazard from both a fire and obstruction perspective.
+
+The option of relocating the helicopter pads to avoid the risks of accidents involving 
+aircraft and the tanks, would have significant environmental impacts (impacting and 
+reshaping a new site and obtaining appropriate fill material). For these reasons this 
+option is not considered to be feasible at Scott Base, largely due to the lack of 
+alternative suitable locations.
+
+The current site is generally a high activity area at Scott Base, from both vehicle, 
+cargo and personnel movements. This pattern of activity is unlikely to change due to 
+the location close to the garage, workshop and hangar.
+
+Under this alternative the work will occur on a heavily impacted site. However it 
+should be noted that the preferred site has also been continually impacted by base 
+activities over the last 30 years. For reasons of safety, design practicability and 
+environmental risks and impacts, this alternative has been discounted.
+
+Page 14
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+3.3.2   No Relocation and Double Skinning
+
+The new double skinned tanks could be located in the current position, however, this 
+option does not eliminate the safety and operational concerns identified for option 
+3.3.1.
+
+3.4     Alternative Sites for JP8 Tanks
+
+Alternatives to the proposed site for the JP8 bulk fuel storage tanks were identified 
+and evaluated following an on site inspection and using mapping based on pre set 
+criteria. Figure 3.1 identifies six sites, including the existing site, as suitable 
+locations for the tanks. Slope information, proximity to services and buildings 
+(including electromagnetic fields), accessibility by existing tracks, and location 
+relative to the existing pipeline and degree of existing disturbance were used as 
+criteria to identify alternative sites on Pram Point.
+
+Two options for the location of the JP8 bulk fuel tanks have already been discussed, 
+the present site (refer 3.3) and the preferred option (refer 2.2). The other options 
+identified in the mapping exercise which were considered viable are relocation of the 
+tanks to the point on the foreshore where American fuel tanks have been located 
+previously, the site identified as preferred in the draft IEE, a site immediately 
+behind Scott Base, and the ex-Italian fuel storage site.
+
+3.4.1   Ex-American Fuel Site
+
+This site has been levelled previously and has already been impacted by fuel spills 
+from past activities. The site also has the advantage of minimal snow build up. 
+However the foreshore site is more distant from Scott Base compared to the 
+preferred site and presents difficulties for easy operation and maintenance of the 
+tanks. More importantly, the connection from the Williams Field pipeline to this 
+site would be difficult. Additional pipeline would be required to connect the tanks to 
+the line and to Scott Base from the ex-United States site. In addition, the line to Scott 
+Base from the tanks would have to run alongside the McMurdo-Scott Base road, close 
+to the helicopter pads, areas of high vehicle use and would therefore be required to be 
+underground for up to 250 metres. The environmental disadvantages and risks of 
+underground fuel pipelines are discussed in section 3.3.1. In this location, there 
+would be risks of both terrestrial and marine contamination should a spill occur. In 
+addition, the site is used frequently by skuas which have bred in this location in at 
+least the last two seasons and is an area where seals can haul out. For these reasons, 
+this site has been discounted.
+
+3.4.2   Draft IEE Site
+
+This site about 350 metres north of Scott Base was proposed in the draft IEE (refer 
+figure 3.1). However, following the consultation phase and a revisiting of the option 
+of double skinned tanks, it was discounted. The main reasons were proximity to two 
+science sites and potential downslope impacts should a spill occur.
+
+3.4.3   Immediately behind Scott Base
+
+Sites behind Scott Base were reconsidered in response to comments received on the 
+draft IEE. One site in particular (refer figure 3.1) was identified. However 
+investigations into safety issues related to the proximity of fuel storage areas to 
+electromagnetic fields discounted the use of any site within approximately 150 
+metres of any high frequency radio transmitting antennae at Scott Base. The results 
+of field surveys carried out at the base to assess electromagnetic levels are presented 
+in Appendix III.
+
+Page 15                                                             NZAP Bulk Fuel Storage and Transport 
+                                                                                    Initial Environmental Evaluation - April 1996
+3.4.4 Ex-Italian Fuel Storage
+
+This site is located north of the fork in the tracks approximately 400m behind Scott Base. However this area of relatively flat ground is not large enough to accommodate the double skinned tanks. In addition, the site tends to accumulate water during melt periods and becomes quite boggy. The site also supports relatively large patches of moss and lichen. The requirements for significant earthworks, the wet nature of the site, and the potential impacts on flora in the area led to this site being discounted.
+
+Table 3.1: Summary of advantages and disadvantages of the preferred and alternative sites for the JP8 bulk fuel storage tanks, Scott Base and vicinity.
+
+| Site                  | Advantages                                                                                   | Disadvantages                                                                 |
+|----------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| Existing Site        | - no additional areas impacted                                                              | - underground pipeline required with associated earthworks                   |
+|                      | - close to existing tracks and Scott Base for servicing                                      | - risk of undetected leaks in pipework                                       |
+|                      |                                                                                              | - risk of both terrestrial and marine contamination                          |
+|                      |                                                                                              | - proximity to helicopter approach paths and high activity areas             |
+| Ex-USAP Site         | - ex-fuel storage area, ie already impacted                                                  | - connections to Williams Field pipeline difficult                           |
+|                      |                                                                                              | - additional length of pipeline required                                     |
+|                      |                                                                                              | - part of area currently used as storage                                     |
+|                      |                                                                                              | - risk of both terrestrial and marine contamination                          |
+|                      |                                                                                              | - underground pipeline required with associated earthworks                   |
+|                      |                                                                                              | - skua roosting/breeding site and seal haul out area                          |
+|                      |                                                                                              | - pipeline runs alongside road and high activity area                        |
+| Draft IEE site       | - previously impacted site (vehicle tracks, ground shaping, fuel storage)                   | - disturbance to flora - mosses and lichens during earthworks and construction|
+|                      | - straightforward connection to Williams Field pipeline                                     | - increased intensity of disturbance to physical ground surface              |
+|                      | - close to existing tracks for servicing                                                     | - disturbance possible to two long term science sites downslope from the site|
+|                      | - no underground piping required                                                             | - concerns regarding location directly upslope from Scott Base               |
+|                      | - pipeline in low activity area                                                              | - extends visual impact of structures past immediate base environs           |
+|                      | - reduces potential for marine contamination                                                 |                                                                               |
+| Sites immediately    | - previously impacted sites                                                                  | - some limited underground pipework required                                  |
+| behind Scott Base    | - visual impact of structures remains within Scott Base environs                            | - not within safe distance limits for fuel storage areas from electromagnetic|
+|                      | - straightforward connection to Williams Field pipeline                                     | fields                                                                        |
+|                      | - easy servicing                                                                             | - safety concerns regarding proximity to Scott Base                          |
+
+Page 16
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+|Ex-Italian fuel Storage Site                                   |                                                              |                                                      |
+|-------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------|
+|                                                             | - ex-fuel storage area, ie already partially impacted       | - not large enough to accommodate tanks without significant earthworks |
+|                                                             | - straightforward connection to Williams Field pipeline     | - tends to get "boggy" in summer                     |
+|                                                             | - close to existing tracks for servicing                    | - has relatively large areas/ patches of moss/ lichen associated with meltwater patterns |
+|                                                             | - no underground piping required                            | - extends visual impact of structures past immediate base environs |
+|                                                             | - pipeline in low activity area                             |                                                      |
+|                                                             | - reduces potential for marine contamination                |                                                      |
+|Chosen Site                                                  | - already impacted site/has been bulldozed in the past      | - some underground pipework required (under tracks for 5 metres) |
+|                                                             | - allows straight-forward connection to Williams Field pipeline | - limited earthworks required to flatten off site   |
+|                                                             | - close to/on existing tracks for positioning tanks and servicing | - extends visual impact of structures past immediate base environs |
+|                                                             | - limited underground piping required (under tracks)        | - potential for limited disturbance of mosses and lichens especially during construction phases |
+|                                                             | - pipeline in low activity area                             |                                                      |
+|                                                             | - site drains to McMurdo Road not to Scott Base             |                                                      |
+|                                                             | - no impacts on science sites expected                      |                                                      |
+
+Page 17
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+General Legend: 
+  Roads 
+  Tracks and Storage Areas 
+  Existing Buildings 
+  Features of Interest 
+  Services 
+  Williams Field Fuel line 
+  (approximate location) 
+
+Legend For Potential Sites: 
+  0-2 Degree Slope 
+  2-4 Degree Slope 
+  4-6 Degree Slope 
+  6-8 Degree Slope 
+  8-10 Degree Slope 
+
+Proposed JP-8 Tanks Site 
+Alternative JP-8 Tank storage site 
+(former fuel storage) 
+Alternative JP-8 Tank Relocation Site 
+(former U.S. fuel storage site) 
+Alternative JP-8 Tank Sites 
+(as proposed in Draft EIS) 
+Helo Pads 
+Existing JP-8 Tanks 
+Alternative JP-8 Tank Site 
+(behind Scott Base) 
+
+Figure 3.1 Alternative JP-8 Tank Relocation Sites 
+
+Contour interval: 3 metres 
+METRES 
+  500 
+  400 
+  300 
+  200 
+  100 
+  0 
+N 
+1.0 
+2.0 km
+3.5     Pipeline Alternatives
+
+3.5.1   Improved Transport
+
+An alternative to a permanent connection to the Williams Field JP8 pipeline is to 
+improve the method of transport of fuel from McMurdo Station to Scott Base. This 
+option would require a considerable investment in a modernised tanker by NZAP 
+which for most of the year would be idle. NZAP, in the review of its fuel handling 
+facilities, has taken a comprehensive view of fuel transport and storage, and has 
+attempted, in the preferred alternative, to provide a solution which addresses 
+environmental concerns and significantly reduces the risk of spills occurring in the 
+future.
+
+The improvement in transport vehicles does not reduce the risk of a spill occurring 
+between Scott Base and McMurdo and at Scott Base during refuelling to the same 
+extent as provided by a fuel pipeline. Finally, USAP has indicated that they would 
+prefer not to provide fuel to NZAP in this manner. For these reasons, this 
+alternative has been discounted.
+
+3.6     Alternative Mogas Tank Locations
+
+The main reasons for relocation of the Mogas tanks is the need to reduce the collision 
+hazard given the tanks current position at the bottom of the Scott Base-McMurdo road 
+and to remove them from approach and escape paths from the upper helicopter pad.
+
+Even with additional collision barriers, the risks of vehicle collision still exists 
+given the large size of vehicles and transports which travel the road. The new 
+location, further to the east of the current site, would significantly reduce this risk 
+ie it is not directly in line with the bottom of the road from McMurdo into Scott Base. 
+The site would still be accessible to vehicles for refuelling and is located in a heavily 
+impacted storage area.
+
+The site would also allow for normal operations and use of the upper helicopter pad. 
+Currently pilots will only drop sling loads on this pad and do not attempt to land. A 
+site directly across the road to the west of the current site was also considered but 
+discounted as it did not eliminate the concerns of pilots.
+
+Page 19
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+4.0     THE ENVIRONMENT OF PRAM POINT
+
+4.1     Physical Features
+
+4.1.1   Topography and Soils
+
+Pram Point is located on Hut Point Peninsula on the southern end of Ross Island in 
+the Ross Sea region of the Antarctic. The island is volcanic with three main peaks 
+including Mt Erebus, and is located on the interface between the permanent Ross Ice 
+Shelf and the annual sea ice.
+
+The general topography of Pram Point slopes gently southwards and is uniformly 
+undulating over its surface. Soils are derived from naturally occurring volcanic 
+rocks largely scoriacious basaltic lava. Till deposits have not been identified 
+however patterned ground movement and nivation cirque formations have reworked 
+the surface (Campbell et. al, 1994). Soils are loosely compacted consisting of a 
+pebbly to bouldery surface containing variable amounts of fines. Permafrost 
+generally occurs at a depth of 450 mm and may be either ice-rich and cemented, or 
+dry frozen and loose.
+
+The topography and soil profiles of much of Pram Point have been significantly 
+modified over a period of more than 38 years as a result of activities associated with 
+the operation of Scott Base (Campbell et al, 1994) (refer 3.3).
+
+4.1.2   Snow and Ice Cover
+
+The Hut Point Peninsula contains some of the few areas of ice free land on Ross Island. 
+Pram Point is ice free over an area of less than one square kilometre. It is snow free 
+for up to three months of the year (December to February) although snow patches 
+can remain throughout the summer in some areas. The sea in front of the base is 
+frozen for at least 10 months of the year.
+
+4.1.3   Climate
+
+Climate data for Pram Point has been recorded at Scott Base since 1957. Mean annual 
+temperature is −18°C. The average Scott Base temperature in summer ranges from 
+−11°C (November) to −4.7°C (January). In winter average temperatures range 
+from −30°C (August) to −20.2°C (March). Precipitation is probably less than 200 
+mm annually (water equivalent).
+
+The prevailing winds on Ross Island are from the south although at Pram Point winds 
+parallel the coast and mostly blow from the north east towards Cape Armitage 
+(Clarkson, 1995). Mean annual wind speed is approximately 11 knots. Calm 
+conditions occur 12.1% of the time. The number of days of gales (mean wind speed 
+greater than 33 knots) can reach up to 50 days of the year (Bromley, 1994).
+
+4.2     Biological Features
+
+4.2.1   Invertebrates
+
+Protozoa, nematodes and soil microbes may occur in the soils on Pram Point although 
+no recent surveys at the site have been carried out. It is likely that most 
+invertebrates will occur in association with mosses and algae.
+
+Page 20                                      NZAP Bulk Fuel Storage and Transport
+                                                  Initial Environmental Evaluation - April 1996
+4.2.2   Seals and Whales
+
+Weddell seals occur in significant numbers (maximum 30-40 animals) year round 
+on the sea ice in front of Scott Base maintaining breeding holes throughout the winter 
+months. Seals occasionally haul out onto Pram Point itself, including around the site 
+of the ex United States bulk fuel storage site.
+
+Both Minke and Orca whales have been sighted in McMurdo Sound and occasionally 
+come close to the shore in front of Scott Base late in the season in open water.
+
+4.2.3   Birds
+
+The closest breeding colony of Adelie penguins is at Cape Royds approximately 40km 
+to the north of Pram Point. Penguins occasionally enter the base environs in the late 
+summer when the ice in front of Scott Base has broken out and have been observed to 
+moult on Pram Point (on average twice  a decade).
+
+Skuas are a regular sight around the base in summer and one pair has nested in the 
+vicinity of the base. The nesting site is located on the coast at the far side of the 
+helicopter pads from Scott Base on the former United States bulk fuel storage site.
+
+4.2.4   Flora
+
+Vegetation is generally scare on Ross Island and on Pram Point few areas have 
+remained undisturbed. However small and remnant patches of moss and lichen have 
+been recorded in the vicinity of Scott Base. Plants can be covered by snow for up to 
+10 months of the year. Algae also grow during the summer months, largely 
+associated with areas of snow melt and temporary ponds.
+
+4.2.5   Benthic Communities
+
+The sea floor immediately in front of Scott Base slopes steeply away to a depth of 20-
+30 metres. Here the substrate is unstable with little encrusting life. Anemones have 
+been recorded in this zone. Below 30 metres the reef slope eases. This area supports 
+a rich marine benthic community which includes species of bryozoans, sponges, 
+echinoderms, anemones, bivalves and up 10 species of fish (Battershill, 1992).
+
+The Scott Base sewage outfall discharges sewage and domestic waste water into the sea 
+in front of the base. Investigations are currently underway to monitor and assess the 
+impact of this discharge on benthic communities and water quality.
+
+Compared to the terrestrial environment at and around Scott Base, the marine 
+communities out from Scott Base are relatively undisturbed.
+
+4.3     Human Activities in the Area
+
+The major feature of Pram Point is Scott Base established in 1957 and operated 
+continuously since then. The base is run by the New Zealand Antarctic Programme. 
+Approximately 30 persons are required to run the base in summer and 10-11 in 
+winter. Maximum numbers over the summer season have ranged between 60 and 80 
+persons over the last four years. Scott Base currently supports a science 
+programme comprising 20-40 individual science projects covering a range of 
+disciplines within life, physical, atmospheric and earth sciences. Scott Base 
+receives visitors from other national programmes in particular from McMurdo 
+Station 3km away at Winter Quarters Bay. Italian Antarctic Research Programme 
+personnel and ship based tourists also visit the base on a regular basis during the 
+summer season.
+
+Page 21
+NZAP Bulk Fuel Storage and Transport Initial Environmental Evaluation - April 1996
+Activities associated with the operation of the base include: operation and maintenance of the base itself, snow clearance activities, helicopter operations during summer, operation of 4-wheel drives, tracked vehicles and 4X4 motorbikes, science and non-science cargo handling and storage, waste handling and disposal, maintenance and installation of services including communications cabling, masts and antennas, and general storage facilities. Recreation activities are also carried out on the annual sea ice.
+
+Scott Base and surrounds represents a significant and valuable long term research site especially in atmospheric and meteorological sciences. Other current and projected research carried out in the area includes; seismological observations and geomagnetics, permafrost research, air sampling and airborne pollutant studies, anaerobic micro-organism studies and investigations into the biodegradation of fuel. Environmental monitoring programmes are also being carried out at Pram Point. Scott Base provides support for science programmes visiting sites in the Ross Sea region and is an essential staging point for parties wishing to conduct science away from Hut Point.
+
+The immediate area of influence of the base and associated activities is approximately 20 hectares. Most of the area has been significantly disturbed during the past 38 years by New Zealand, and to a lesser extent United States activities. Ground disturbance and reshaping of ground contours by vehicle tracking, earthworks, trampling and digging activities are the most obvious impacts together with the presence of Scott Base buildings and associated facilities. The road to McMurdo Station travels north of the base and has been re-routed on a number of occasions.
+
+The site for the bulk JP8 fuel tanks has been impacted by routine base activity over the last 38 years. Access tracks to the Scott Base communications corridor and storage areas run adjacent to the site. Evidence of ground disturbance and reworking is common over the proposed site with few remaining areas being undisturbed.
+
+The immediate vicinity has also been used for fuel storage in the past. Over 30 drums of ex-Italian fuel was stored to the west of the site up until the 1994/95 season.
+
+Page 22
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+5.0     ENVIRONMENTAL IMPACTS
+
+5.1     Methodology
+
+The environmental impacts of the proposed activities are identified and discussed.
+Impacts are then summarised in table form (Table 5.1). Mitigation methods are also
+identified. Where the nature and/or extent of the impact(s) is not known with any
+certainty, this is acknowledged.
+
+5.2     Actual and Potential Impacts
+
+The actual and potential environmental impacts of the proposed activities are
+identified, including any indirect and cumulative impacts. The PEE, completed in
+May 1994 (refer 1.2) provides a good starting point for the identification of impacts
+and provides an indication of what impacts should be scrutinised more closely.
+
+Comments received during the consultation period on the draft IEE have been
+considered and incorporated into the evaluation where appropriate.
+
+5.2.1   Topography and Soils
+
+Earthworks and Tracks
+
+Limited earthworks are required to prepare the site for the new JP8 bulk fuel tanks
+and during construction of the JP8 pipeline. The major change to the proposal ie the
+decision to use double skinned tanks and locate them in a different position, has
+eliminated or significantly reduced some of the major impacts identified in the draft
+IEE. Of particular concern to those who commented on the draft IEE, was the impact
+of earthworks to create the bunds (including flattening around the bunds), the
+impacts on science activities and the potential for fuel to spill through Scott Base.
+
+The positioning of the JP8 tanks will involve levelling off an area of 500m² of
+already relatively flat ground. The site is located immediately adjacent to an existing
+track which will be used to transport the tanks to the site and for travel from the
+base to the new bulk fuel site once operational. The relocation of the tanks to this site
+will increase the level of vehicle traffic by 190 hours in the vicinity of the site and
+at Scott Base during the construction phase. Maximum anticipated vehicle activity
+during the operational phase would be five hours per month for the purposes of fuel
+transfer, safety, inspections and maintenance. Existing surface drainage patterns
+are likely to be altered about the immediate site only, in particular around the tanks
+themselves. Due to the small area of impact, the existing overall drainage patterns
+on Pram Point are likely to remain unchanged.
+
+Ground disturbance can cause changes to the soil profile including lowering of the
+permafrost and release of water and salts as well as slumping and shrinkage of the
+ground surface (Campbell et al, 1994). Evidence of these kind of changes is common
+in the vicinity of Scott Base and can be expected following construction of the bunds
+and tank relocation. These types of impacts are already visible at the proposed site
+which has been reworked by vehicle activity during Scott Base operations.
+
+Fuel Spills
+
+Fuel spills may occur during construction activities. Installation of bunds around the
+Mogas tanks requires the use of vehicles increasing the potential to rupture the tanks
+through accidents.
+
+Page 23
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+Once the JP8 tanks are operational there is potential for spills to occur at the tanks due to, for example, connections failure or damage to both hulls or skins of the tank. Similar failures could occur along the fuel pipeline when the tanks are being refuelled. Alarms are an integral part of both the tank and pipeline design so that any leaks can be detected as soon as they occur. Both tanks are required to contain fuel at all times to avoid serious tank deterioration when empty. There is also potential for pipeline failure associated with accidents, for example if a vehicle impacted with the line. The probability is low of this event occurring when the line contained fuel, ie for 90 minutes every 1-2 days for the connection to Scott Base and once every 14 days for the McMurdo connection. Spills or leaks from the inner tanks would be contained within the outer skin.
+
+NZAP is in a position to respond to oil spills should they occur. The programme has an oil spill contingency plan (Woodward-Clyde, 1993B) which sets out the process for responding to fuel spill at NZAP facilities in Antarctica. Implementation of the plan is well advanced.
+
+Spill response equipment has been stationed at Scott Base and staff are given specific spill response training. NZAP also has access to back up from the McMurdo spill response team in the event of a large scale fuel spill at Scott Base.
+
+5.2.2   Air Quality
+
+Emissions
+
+The construction phase of the project with increase vehicle fuel use by 0.7% with an associated increase in emission levels. This increase would be masked by normal variations in a season experienced due to weather conditions and different demands for support of the annual science programme. No increase in generator usage is expected. During the operational phase, it is not expected that emissions levels will differ appreciably from current levels.
+
+Dust
+
+Heavy machinery work is required to relocate the tanks and to lay the pipeline during the construction period. Greater quantities of dust are likely to be produced than for this time of year during normal base operations. However during the operation phase there is not expected to be any increase in dust emissions as a result of the proposed activities. Dust produced is likely to be transported by the prevailing winds (light to moderate north easterlies) although the extent and distance of transport is currently unknown.
+
+5.2.3   Visual and Aesthetic Values
+
+Visual
+
+Pram Point is a relatively highly impacted site. However the potential for further reducing aesthetic and visual values near Scott Base should be minimised. Relocation of the tanks up the hill and the construction of bunds and the pipeline will increase the area on which facilities have been built behind the Scott Base buildings.
+
+The tanks will be most visible from Crater Hill and the McMurdo-Scott Base road. Final siting of the tanks at the preferred location together with local topography will also have some bearing on the visibleness of the tanks. Bulk fuel storage tanks are currently a necessary part of operating any reasonably sized Antarctic base and are expected to be seen in the vicinity of most stations.
+
+Page 24
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+The pipeline will create a definite visual line up the hill behind Scott Base. However 
+from any distance, for example Crater Hill or the sea ice in front of Scott Base, the 
+pipeline is expected to be barely visible. Materials to be used will be brown in 
+colour which will help to mitigate the visual impact of the structures especially 
+during the summer season. The existing pipeline is made of similar materials and 
+can not be easily seen from these sites.
+
+Noise
+
+Noise levels during the construction phase are likely to increase, in particular 
+during relocation of the tanks. However the noise, largely from heavy plant, is 
+similar to that experienced at Scott Base during annual snow removal activities. The 
+major difference will be in the timing of the noise increase ie concentrated in 
+January rather than October-December. Most noise will be generated behind, and 
+away from the base (at least 400 metres from the base). Once operational, ambient 
+noise levels are not expected to be effected.
+
+5.2.4    Flora and Fauna
+
+Flora
+
+Mosses and lichens are generally scarce and have a patchy distribution on Pram 
+Point. Recent visual surveys of the proposed site (December 1995) identified moss 
+and lichen patches in the area although not on the actual bulk fuel tank site. Although 
+found elsewhere on ice free areas of Ross Island, these patches have a relatively high 
+value as areas of scarce vegetation in a highly modified environment and may be 
+important for recolonisation studies (Broady, pers. com. 1996). It is possible that 
+the relocation of the tanks and associated activity will disturb this flora if careful 
+guidance to construction personnel is not carried out, for example, keeping to 
+existing tracks. Some disturbance to the flora, due to increased activity in the area, 
+may be inevitable.
+
+Fauna
+
+The only likely fauna expected to be disturbed by the proposed activities are skuas 
+and invertebrate soil fauna. Skuas are largely attracted to the Scott Base area 
+because of the human presence although the birds may have ranged this far south 
+prior to the base's establishment. Only one pair of birds currently makes breeding 
+attempts in the area away from the immediate area of most activity. Birds may 
+become disturbed by the increase in noise levels during the construction phase 
+although the birds appear relatively unaffected by current Scott Base noise levels, in 
+particular from helicopters and heavy plant. Such disturbance would be limited to 
+the construction phase and occur for up to a maximum 60 days over three seasons. 
+No on-going disturbance to fauna is expected during the operational phase.
+
+Invertebrates
+
+Little is known about the impact of earthmoving activities on the invertebrate fauna 
+(if present) although some impact could be expected.
+
+5.2.5    Waste Production
+
+Effluent
+
+No appreciable increase in water borne effluent is expected during either the 
+construction or operational phases of the proposed activity. Personnel involved in 
+construction activities will be accommodated at Scott Base during the summer but 
+will not increase base numbers beyond the average occupancy for this time of year.
+
+Page 25                                                    NZAP Bulk Fuel Storage and Transport 
+                                                               Initial Environmental Evaluation - April 1996
+Solid Waste
+
+It is expected that five cubic metres of additional waste (to normal base operations) will be produced during the construction phase (over three seasons). All solid waste (with the exception of untreated timber) will be returned to New Zealand. Very little, if any additional waste will be produced during the operational phase.
+
+5.2.6    Energy Use
+
+Energy demands will occur primarily during the construction phase. The increase in vehicle use of 0.7% represents a very minor increase in the use of vehicles at Scott Base. During the construction phase it is likely that overall heavy vehicle use may drop due to a recent decision to scale down snow clearing activities. Additional lighting will be required at the tank site during the winter months but will not have any significant impact on base energy demands or emissions levels.
+
+5.2.7    Indirect Impacts
+
+Transport to and from Scott Base
+
+Approximately 100m^(3) of materials will be required to be transported to Scott Base for the proposed activities. Maintenance requirements associated with the pipeline and the relocated tanks will require an additional one cubic metre of material a year. This increase is not expected to disrupt existing transport operations given appropriate planning. All solid waste produced will be transported by ship (late in the season) or by air as space becomes available. The expected volume of waste to be produced during the construction represents a 3% increase in the volume of waste transported back to New Zealand by NZAP per year and can be adequately accommodated within the existing system. No additional waste is expected to be produced during the operational phase.
+
+Impacts on base activities
+
+Timing of construction activities has been programmed to account for projected base occupancies and little disruption to base activities is expected. The availability of heavy plant for base activities may be limited at certain times during construction. Careful programme planning should prevent any significant impact on base activities.
+
+In the event of a major accident which breached both tank skins the topography and drainage patterns down slope from the proposed relocation site indicate that fuel should drain to the east of Scott Base and towards the McMurdo road.
+
+Impacts on science activities
+
+The proposed order of work is set to create minimal impact on science activities. NZAP is aware of at least two science experiments located in the vicinity of the proposed new site for the bulk JP8 tanks (see Appendix II). Both experiments are long-term projects studying the impacts of human activities on Antarctic soils. Both science sites are located in the area behind Scott Base, with the closest site located at least 200 metres away from the bulk fuel tanks and 50 metres from the pipeline from the route. The location of these sites relative to the pipeline and tanks is indicated on figure 2.3. During construction activities, all vehicles and personnel will keep to existing tracks and shall be advised of the location of the science sites. All science sites will be checked to ensure they are adequately marked before any work commences.
+
+Page 26                                  NZAP Bulk Fuel Storage and Transport
+                                                   Initial Environmental Evaluation - April 1996
+Concerns about the siting of the bulk JP8 tanks from scientists was a significant factor in the decision to move the proposed site further to the north east. The decision not to bund the tanks (with required flattening of the ground surface around the tanks) has significantly reduced the potential for impacts on these sites. In addition, the drainage patterns at the new site slope away from the science area, towards the McMurdo-Scott Base road.
+
+5.2.8    Cumulative Impacts
+
+The proposed activities have the effect of increasing the overall area of human impact on Pram Point, especially the visual impact. Significant structures, ie the bulk fuel tanks, will be located a distance from the base away from existing buildings. In addition, the total area of physical ground disturbance, while not increasing, will be intensified over a 2,6000m^(2) area, ie at the location of the tanks and along the pipeline route.
+
+5.3    Evaluation of Significance of Impacts
+
+The previous section has identified, and to a certain extent evaluated, the impacts of the proposed activities. Table 5.1 summarises the impacts identified in section 5.2 and further evaluates their significance in the context of the Pram Point environment. Account has been taken of the extent, duration, intensity and probability of the potential impacts and the existing disturbance to the area in determining their significance. Finally, mitigation strategies are put forward, many of which are integral components of the proposed activities.
+
+Table 5.1 shows that the impacts of the proposed activities are of medium to low significance in the context of the existing state of the Pram Point environment. Impacts of medium significance include the following:
+
+- earthworks involved in site levelling and pipeline construction
+- potential impacts on terrestrial and marine environment from fuel spills and leaks
+- local visual/aesthetic deterioration of the Pram Point environment
+- disturbance to flora in the vicinity of the bulk fuel tanks and pipeline
+
+Proposed mitigation measures should ensure that these potential impacts are of a minor nature only. In performing the evaluation, the disturbed nature of the site was a significant factor as was the considerable environmental benefits to arise from the project. Disturbance, through earthmoving activities of moss and lichen communities, is likely to be the most significant impact of the project in the context of the existing environmental state. Careful site management during the construction phase is required to ensure these impacts are minimised as far as possible, or avoided.
+
+Page 27
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+Table 5.1 : Evaluation of Potential Impacts - Bulk Fuel Storage and Transport
+
+                                                                 Mitigation
+         Nature                   |Extent                  |Duration    |Intensity   |Probability |Significance|             Description
+                                 |                        |            |            |            |            |
+Earthworks including site        |Over max. area 500m     |Long term   |Medium      |Definite    |Medium      |· Site management to avoid flora
+levelling                        |                        |            |            |            |            |· Minimum area disturbed to accommodate facilities
+                                 |                        |            |            |            |            |
+Potential impact on soils        |Site and vicinity       |Long term   |High        |Low         |Medium      |· Procedures to minimise potential spill volume during construction phase
+and marine environment from     |                        |            |            |            |            |· NZAP fuel spill contingency plan
+fuel spills and leaks            |                        |            |            |            |            |· Double skinned tanks and pipeline
+                                 |                        |            |            |            |            |· Spill cleanup equipment readily available
+                                 |                        |            |            |            |            |· Regular inspections and maintenance
+                                 |                        |            |            |            |            |
+Decline in air quality through   |Base and vicinity       |Short term  |Low         |Definite    |Low         |· Minimise vehicle movements as practicable
+increased vehicle emissions      |                        |            |            |            |            |
+                                 |                        |            |            |            |            |
+Decline in air quality and       |Base and vicinity       |Short term  |Low         |Definite    |Low         |· Avoid construction activities during high winds
+impact on local environment      |                        |            |            |            |            |
+(snow cover) through dust        |                        |            |            |            |            |
+generation                       |                        |            |            |            |            |
+                                 |                        |            |            |            |            |
+Local visual/aesthetic           |Pram Point              |Long term   |Medium      |Definite    |Medium      |· Pipeline route and colour
+deterioration                    |                        |            |            |            |            |· Tank colouring
+                                 |                        |            |            |            |            |· Specific site selection
+                                 |                        |            |            |            |            |· Determine outer limit of base facilities
+                                 |                        |            |            |            |            |
+
+Page 28
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+Table 5.1 Cont : Evaluation of Potential Impacts - Bulk Fuel Storage and Transport
+
+
+                                 Impact                                                      Mitigation
+                                                                                                  
+ Nature                          Extent              Duration     Intensity    Probability     Significance     Description
+Disturbance to flora and        Site and vicinity   Medium       Medium       Definite -      Medium          • Site management to avoid flora if
+fauna                                       term                    medium                                  practicable
+                                                                                                 • Keep to existing tracks
+                                                                                                 • Minimise earthworks required
+Production of additional        Scott Base and      Short term   Low          Definite        Low             • Follow NZAP waste minimisatioin
+solid waste                     New Zealand                                                                 strategies
+                                                                                                 • Return most solid waste to New
+                                                                                                   Zealand
+Increased energy use            Site and vicinity   Short term   Low          Medium -        Low             • Minimise vehicle use where
+through vehicle activity                                                            definite                                practicable
+Indirect impacts on base       Scott Base and      Short term   Low          Medium -        Low             • Ensure planning minimises potential
+activities                      vicinity                    Definite                                impacts on base activities
+                                                                                                 • Adjust timing of activities to
+                                                                                                   minimise any potential disruptions
+Indirect impacts on            Vicinity of site    Long term    Low          Low             Low             • Ensure planning minimises or avoids
+science activities                                                                                  potential impacts on science sites
+                                                                                                 • Adequate staff briefings and marking
+                                                                                                   of sites
+Cumulative impacts of          Pram Point          Long term    Low          Definite        Low             • Concentrate facilities within existing
+increased human                                                                                                                     base boundaries
+"footprints" at Pram                                                                                                                 • Follow NZAP environmental
+Point                                                                                                                                procedures and guidelines
+
+
+
+Page 29
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+6.0     MONITORING AND REPORTING
+
+The proposed activities will be located in a heavily modified environment (refer 
+3.3). Pram Point, and more specifically the Scott Base environment, has been 
+subject to cumulative impacts associated with base activities for over 38 years.
+
+Isolating the impacts of these proposals for monitoring purposes may be difficult. 
+However it is proposed to carry out photo monitoring of the sites in conjunction with 
+ongoing Scott Base photo monitoring. A visual survey of mosses and lichens was 
+conducted in December 1995. Moss patches were observed in a meltwater gully close 
+to the proposed site. Other patchy remnants were observed on the opposite side of the 
+track in association with meltwater in drainage channels alongside the track.
+
+Specific site selection and site management procedures will be directly influenced by 
+the results of this survey which will be repeated at the conclusion of the project. 
+The results of the photo monitoring and the moss and lichen surveys will be included 
+in a report on the accuracy and implementation of this IEE at the conclusion of the 
+project.
+
+Additional monitoring programmes are currently being designed for Scott Base which 
+may include the sites impacted by this proposal.
+
+Remedial activities may be required at the existing site of the bulk fuel tanks and 
+Mogas tanks following their removal from their current locations. It is proposed to 
+conduct a site assessment at this time and report on the need for, and extent of, any 
+remediation required.
+
+7.0     CONCLUSION AND RECOMMENDATIONS
+
+The New Zealand Antarctic Programme proposes to make considerable improvements 
+to the bulk fuel storage and transport facilities at Scott Base. Taken together the 
+improvements will significantly reduce the risk of fuel spills contaminating both the 
+marine and terrestrial environments.
+
+The evaluation of environmental impacts of the proposals indicates that the activities 
+although occurring on a highly disturbed part of Pram Point, will have some impacts 
+that are not less than minor or transitory. Visual disruptions from the pipeline, 
+ongoing potential for fuel spills through accidents, disturbance to mosses and lichens 
+through earthmoving and ground shaping, and physical disturbance through 
+earthworks are considered to have minor impacts on the environment.  Several 
+mitigation measures are incorporated into the project aimed at further reducing the 
+significance of these impacts. In assessing the proposal, weight has also been given to 
+the environmental benefits of the activities ie significantly reducing the risk of the 
+fuel spill occurring at Pram Point.
+
+It is recommended that the project proceed as specified in this IEE, with 
+implementation of prescribed mitigation measures, on the basis that the activities 
+will have not more than a minor or transitory impact on the Antarctic environment.
+
+Page 30
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996
+BIBLIOGRAPHY
+
+Battershill, C.N. 1992. Event Report K201: The Ecology of the Pram Point Reef 
+Wall, Ross Island, Antarctica. New Zealand Antarctic Research Programme, 
+1991/92.
+
+Bromley, A.M. 1994. The Climate of Scott Base 1957-1992 National Institute of 
+Water & Atmospheric Research NIWA/Clim/R/94-002.
+
+Campbell, L.B., Claridge, G.G.C., & Balks, M.R. 1994. The effect of human activities 
+on moisture content of soils and underlying permafrost from the McMurdo 
+Sound region, Antarctica. In: Antarctic Science 6(3): 307-413 (1994).
+
+Clarkson, T.S. 1995. Event Report K088: Air-Snow Interactions. New Zealand 
+Antarctic Programme, 1994.95.
+
+Greenpeace 1994. Treading Lightly: A Minimal Impact Antarctic Station World Park 
+Base Antarctica 1987-1992.
+
+Royds Consulting Ltd (1994). Environmental Audit Under the 1991 Madrid 
+Protocol, New Zealand Antarctic Programme, March 1994.
+
+Woodward-Clyde, 1993A. New Zealand Antarctic Programme Antarctic Facilities: 
+Oil Spill Prevention, Reduction and Control Strategy, February 1993.
+
+Woodward-Clyde, 1993B. New Zealand Antarctic Programme, Oil Spill Contingency 
+Plan, February 1993.
+
+Works Consultancy Services 1994. New Zealand Antarctic Programme, Scott Base, 
+Facilities Plan.
+
+Page 31                                                          NZAP Bulk Fuel Storage and Transport
+                                                                Initial Environmental Evaluation - April 1996
+APPENDICES
+
+Appendix I:   Summary Page from: Improvements to Scott Base Facilities, Ross 
+             Island, Antarctica, Preliminary Environmental Evaluation, May 
+             1994.
+
+Appendix II:  Draft IEE Circulation list and Summary of Comments.
+
+Appendix III: Results of Scott Base Electromagnetic Field Survey.
+Appendix I:
+
+IMPROVEMENTS TO SCOTT BASE FACILITIES,
+ROSS ISLAND, ANTARCTICA
+
+PRELIMINARY ENVIRONMENTAL EVALUATION
+
+MAY  1994
+
+PREPARED BY:
+E.J. Waterhouse
+Environmental Officer
+New Zealand Antarctic Programme
+
+SUMMARY
+
+Scott Base is the New Zealand Antarctic Programme's main science support facility in the Antarctic. The Base was established in 1957 and has operated throughout the summer and winter months since that time. The first major rebuilding programme at the Base began in 1976 and ceased in 1988. The current proposal for additional facilities at Scott Base includes a general science laboratory, sleeping accommodation, heated store including field store and Antarctic field training facilities, a dedicated water plant building, pump house, wet laboratory, a sewage treatment facility, fuel spill containment and bulk delivery pipeline, and internal alterations to the existing base. The NZAP Facilities Plan gives specific details of these proposals.
+
+The proposed modifications and new facilities at Scott Base have been identified as being appropriate and necessary to provide adequate support to the New Zealand Antarctic Programme in Antarctica for the next 20 years and beyond. While some of the requirements arise directly out of identified operational and logistic support needs; others arise out of the commitment to implementation of Antarctic Treaty requirements in particular the Protocol on Environmental Protection (to the Antarctic Treaty).
+
+This report presents the findings of a preliminary assessment of the likely environmental impact of the proposals for improvements to facilities at Scott Base. The results of the assessment indicate that while the internal alterations and replacement (to a similar size, scale and location) of the wet lab and pump house are likely to have less than a minor or transitory impact, the overall impact on the environment of the proposed new facilities (that is, the laboratory, accommodation block, heated store, human waste handling and treatment, water plant building, fuel storage and transport, and sea water intakes) will not be less than minor or transitory. Consequently an initial environmental evaluation should be prepared before any development of these new facilities takes place at Scott Base. It is noted that a separate environmental evaluation should also be prepared for the new Arrival Heights accommodation building. However should the Facilities Plan proposals be modified, for example, a reduction in the number or type of facilities to be provided, the environmental evaluation requirements should be reassessed.
+Appendix II:
+
+Draft IEE Circulation List
+
+Antarctic Policy Unit
+Ministry of Foreign Affairs and Trade
+
+Antarctic and Southern Oceans Coalition
+
+Greenpeace International
+
+Ministry for the Environment
+
+Office of Polar Programs
+National Science Foundation
+
+Operations and Facilities Group
+New Zealand Antarctic Programme
+
+Ross Dependency Research Committee ad hoc Environmental Panel
+
+Comments Received
+
+Comments were received on the Draft IEE from the following individuals and
+organisations:
+
+Cawthron, Carol Hulse
+
+Environment and Conservation Organisation of New Zealand (ECO), Stephen Blyth
+
+Greenpeace, Maj de Poorter
+
+Ministry for the Environment, Mike Prebble
+
+National Science Foundation, Joyce Jatko and Robert Cunningham
+
+RDRC Environmental Panel, Hugh Logan, Alan Hemmings and Iain Campbell
+
+A summary of comments is presented in the following table.
+Summary of Comments Received on Draft IEE
+
+| Sender        | Main Comments on IEE                                                                 |
+|---------------|--------------------------------------------------------------------------------------|
+| Cawthron      | Concerns regarding impact of JP8 tank relocation on long-term experiment north of Scott Base. |
+| ECO           | Endorsed submission of Alan Hemmings (see below).                                    |
+| Greenpeace    | Questioned emphasis on marine impacts vs terrestrial impacts.                       |
+|               | Improvements should wait until review of Scott Base's overall future.               |
+|               | Greater consideration of alternatives required especially feasibility of moving helopad, incinerator and double hulled tanks. |
+|               | Health and safety risks of locating tanks behind Scott Base.                        |
+|               | Insufficient discussion of impacts of future presence of tanks in new location.     |
+|               | Questioned proposed importation of fill material from New Zealand.                  |
+|               | More information on connection from supply tank to buildings.                       |
+|               | Consider using one bulk tank for spillage containment.                              |
+|               | General fuel handling issues raised in audit not addressed in IEE.                  |
+| MFE           | Requires cross sectional diagram of tanks, bunds and earthworks.                    |
+|               | More thorough evaluation of alternatives required.                                  |
+|               | Include oil spill contingency plan for proposed sites.                              |
+|               | Include improvements as part of life cycle of fuel use at Scott Base.               |
+|               | Consider inclusion of fuel usage as part of the overall Scott Base energy plan.     |
+| NSF           | Mitigation methods should be requirements.                                           |
+|               | Alternative structure to alternatives proposed.                                    |
+|               | Not necessary to consider alternatives outside the scope of the proposed action, eg alternative energy sources. |
+| Hugh Logan    | Fully investigate problem of snow build-up and ice lakes in bunds.                  |
+|               | Adequate space for snow clearance needed around bunds on Mogas tanks.                |
+|               | Caution re placement of fuel line under road and damage from US operations.         |
+| Alan Hemmings | IEE implies preparation of the evaluation lies outside NZ's present legal obligations. |
+|               | Greater consideration needed of keeping the tank in the existing location.         |
+|               | Contamination of marine environment not necessarily worse than terrestrial.        |
+|               | Should Mogas tanks be moved?                                                        |
+|               | Explore option of running pipeline to existing tank site.                           |
+|               | More consideration of ex-US site.                                                   |
+| Iain Campbell | IEE implies marine environment "more important" than terrestrial physical impact of relocation of tanks will increase area of ground-disturbed terrain around Scott Base. |
+|               | Large earth moving operation in a relatively unmodified area.                       |
+|               | Concerns regarding importation of river washed gravels.                              |
+|               | Additional dust generated will impact on permanent snow cover.                      |
+|               | Environmental footprint of NZAP activities will be extended.                        |
+|               | More details required on how pipeline system will operate.                          |
+|               | Visual impact not adequately acknowledged.                                          |
+|               | Health and safety concerns regarding location of tanks behind Scott Base.           |
+|               | Impacts on science activities not adequately addressed.                             |
+Appendix III: Results of Scott Base Electromagnetic Field Survey.
+
+Based upon field measurements taken on 7 February 1996, maximum anticipated 
+electric fields resulting from HF emmiters for the locations under consideration are:
+
+Location                                         Field Strength
+                                                 (dBμV/m)
+
+* Site adjacent to ex Italian fuel dump           116
+* Existing location of bulk storage tanks         115
+* Ex U.S tank location on the foreshore           117
+* Potable water storage tank location             136
+* North end of Long Term Storage container area   129
+
+Upper limits as established by NAVSEA OP3565/NAVAIR 16-1-529/NACLEX 
+0967-LP-6010. Volumes I and II, ELECTROMAGNETIC RADIATION HAZARDS.
+
+"The maximum permissible field strength for the storage, transfer, or transport of 
+volatile fuels is 8.84 μW/cm^(2) (135 dBμV/m) for communications emitters.."
+
+Page 36
+NZAP Bulk Fuel Storage and Transport
+Initial Environmental Evaluation - April 1996

@@ -1,0 +1,66 @@
+﻿
+
+
+
+
+
+An update on the Antarctic Polar View programme. Information from satellite observations for safer and efficient sea ice navigation
+
+
+
+
+
+An update on the Antarctic Polar View programme – Information from satellite observations for safer and efficient sea ice navigation
+                      Information Paper submitted by the United Kingdom
+
+Introduction & Background
+
+    1. Polar View delivers near real time sea ice information based on satellite observations direct to ships. This information contributes to improved navigation safety and routing efficiency, especially in light of recent shipping accidents in the Antarctic and rising fuel costs.
+
+    2. Polar View users in the Antarctic include National Programme science and logistics shipping, tourist vessels, and fisheries companies. Polar View has supported national programmes including United Kingdom, French, Australian, German, Norwegian, Swedish, Finnish, Belgian, Italian, Danish, United States, South African, Brazilian plus others.
+
+    3. The British Antarctic Survey (BAS) manages the Antarctic Polar View programme and delivers services in collaboration with organisations from Canada, Denmark, Germany, Italy, Norway and the United Kingdom.
+
+    4. Polar View services for the Antarctic were first proposed in 2005 and began at the start of the 2006/2007 austral summer season. Services have been delivered during each Antarctic season for the last three years.
+
+    5. The development and delivery of the Antarctic Polar View services since 2005 have been funded by the ESA (European Space Agency) as part of the European GMES (Global Monitoring for Environment and Security) initiative. Funding to continue Polar View services for 2008/2009 and 2009/2010 have been provided by ESA and the United Kingdom Foreign & Commonwealth Office (UK FCO).
+
+    6. The wider Polar View programme delivers services in the Arctic and Baltic Oceans. These services are managed by partner organisations in Canada, Finland and Norway.
+
+Sea Ice Information Services & Application
+
+    7. The primary aim of the programme in the Antarctic is to deliver sea ice information from multiple satellite observations in a timely manner to ship operators. Information products broadly fall into two categories. (1) Low-resolution data showing ice extent, concentration and drift over a wide area (Figure 1), and (2) Targeted acquisitions of high spatial resolution (<100 metres ground sampling distance) images that provide detailed local information (Figure 2).
+
+    8. Microwave frequency satellite imagery is used, meaning sea ice information is not obscured by clouds. Advances in processing and delivery by ESA and Polar View means that information can be delivered to ships within 6 to 12 hours of image acquisition.
+
+    9. Software tools are freely available to Polar View users which automatically retrieve and display sea ice information updates from multiple sources. When combined with display of the ships position and meteorological information, it provides a powerful tool to inform navigation and routing decisions. 
+
+    10. Novel techniques for display of high resolution imagery over low-bandwidth data connections have also been developed and are being used to provide access to better quality imagery without requiring heavy use of expensive communications links.
+
+    11. In addition to supporting ship routing, Antarctic Polar View services are increasingly being used to support science activities in the Southern Ocean. Examples include optimising the locations of oceanographic cruises, targeting specific sea ice types for study and monitoring ice shelf collapse events.
+
+The future of Polar View in the Antarctic
+
+    12. Access to Antarctic Polar View services currently remains free and open to all. However the funding currently provided by ESA and UK FCO to maintain services and liaise with users to plan image acquisitions will end in 2010. 
+
+    13. Many users have openly expressed their support for Polar View and enthusiastically stated the benefits in terms of efficiency, safety and cost savings. The British Antarctic Survey remains determined to continue the delivery of Polar View services.
+
+    14. The British Antarctic Survey is currently continuing to investigate options to maintain free and open access for users and will work hard to find longer term sponsorship for these valuable services. However, it is also likely that there will need to be a subscription charge for provision of Antarctic Polar View services in the future.
+
+Further Information
+
+    15. Further information about Antarctic Polar View operations can be found at www.polarview.aq or directly from Andrew Fleming at BAS, email ahf@bas.ac.uk, telephone +44 (0)1223 221451. Information about Polar View activities in the northern hemisphere can be found at the main Polar View website www.polarview.org
+
+
+
+
+Polar Regions Unit
+March 2009
+
+
+Figure 1: Example of a high resolution Envisat satellite image providing a detailed picture of sea ice for the eastern Weddell Sea near the UK Halley Base on the Brunt Ice Shelf. 
+
+
+Figure 2: Example of lower resolution sea ice concentration data overlain with wind speed data for the area around the Antarctic Peninsula.
+
+

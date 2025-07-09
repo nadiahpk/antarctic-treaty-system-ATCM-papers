@@ -1,0 +1,36 @@
+﻿
+
+
+
+
+
+Numerical evaluation of mobile sources impact at environmental impact assessment in the Antarctic
+
+
+English version provided by the author
+
+
+
+
+
+Numerical evaluation of mobile sources impact at environmental impact assessment in the Antarctic 
+
+Information paper submitted by the Republic of Belarus
+
+The Antarctic as a natural reserve demands special precautions at planning of future activities. The Protocol on Environmental Protection to the Antarctic Treaty requires assessment of impacts for all planned activities, including exposure onto biota and other components of environment, non-direct and cumulative impacts. Air emission is among the most important factors of impact onto Antarctic environment taking into account extreme low levels of pollutants in ambient air and sensitivity of vegetation, which consists mostly of lichens. In the process of  impact assessment mobile sources of pollutants emission should be taken into account as well as stationary ones.
+Despite the low total number, vehicles belong to the most significant factors determining the state of the environment of Antarctica. Negative effects of the exhaust transport on the ozone layer have been mentioned in (Helmig et al, 2018). D.M. Mazzera et al (2001) considered the surface vehicles as the sources of air pollution by PM10 and sulfate aerosols. The significant impact of vehicles on the environment can be judged by the amount of fuel consumption (diesel and gasoline), which make up to 10-20% of the total amount of fuel combusted at Mawson, Casey and Davis stations (Ratcliffe et al., 2017). According to (Kakareka et al., 2016), during the operation of the Belarusian Antarctic Station, motor vehicles will be the main source of CO and VOC emissions, providing up to 86% and 90% of their total emissions, respectively. Its contribution to emissions of CO2, TSP and PM10 is quite high - about 30% of total emissions (for the seasonal mode). The share of mobile sources in the total emission of CO (when operating the Indian station Bharati) was assessed as 40% (Final Comprehensive Environmental ..., 2010). 
+Application of dispersion modeling might be an effective tool for qualitative impact assessment of mobile sources. In the IP003 (ATCM XXXIX) the analysis of Comprehensive Environmental Evaluations of the planned activities in Antarctic available at the Antarctic Treaty web-site [www.ats.aq/] was performed.  Only a few CCE contain estimates of total emissions from mobile sources without emissions mapping and impacts assessment. Only CEE of Indian Bharati Station contains emission dispersion results including mobile sources but without  quantitative account of their impact (Final Comprehensive Environmental ..., 2010)). 
+The IP is devoted to the analysis of the possibilities of the use of dispersion modelling for assessing the impact of vehicles on the atmospheric air in the Antarctic. The study was performed on an example of the Vecherny Oasis, Enderby Land, where construction of the Belarusian Antarctic Station has been started in 2015.
+An estimate of the nitrogen dioxide surface concentrations, as well as surface concentrations and dry atmospheric deposition of suspended particles (PM10) of different averaging by 3 scenarios were made. Estimated maximum NO2 and PM10 air concentrations are generally significantly below the air quality guideline values due to limited number of used vehicles, but these impacts should not be ignored taking into account very low background air pollutants concentrations in the Antarctic. In conditions of concentration of all vehicles at certain routes sections more significant increase of PM10 and NO2 air concentrations at their vicinity, as well as to a local increase of PM10 dry deposition fluxes can be observed. It is shown that maximum concentrations of PM10 can increase at certain locations and conditions up to 30%, and of nitrogen dioxide - up to 10% of the air quality guideline values.
+ 
+The results of the study indicates the possibility of numerical account of mobile sources air impacts using dispersion modelling when performing a comprehensive environmental impact assessments. Importance of such accounting is especially high for the territories of scientific stations where other sources of emission (like diesel generators, fuel reservoirs etc.) are located. The areas of their impact can overlap, thereby creating a certain probability of occurrence of relatively high air concentrations of pollutants. Modelling of dispersion of vehicles emission will be also useful if ambient air composition measurements at a station are conducted or planned. Limitations of exciting input data and ways forward for the improvement of quantitative assessment of vehicles air impact in the Antarctic are shown.
+During the study it was revealed that accessible data on fuel consumption, accounting of vehicles routes, vehicles fleet parameters, temporal profiles of vehicles driving modes is scarce. So common database on emission sources and levels of emission in the Antarctic is important; this can be a common activity of COMNAP and SCAR. Another important issue – lack of meteorological input data for dispersion modeling due to very rare stations network; application of meteorological models like WRF for generation of meteorological input for dispersion models is promising.
+
+References
+Helmig D., Liptzin D., Hueber Ja., Savarino Jo., 2018. Intrusion, retention, and snowpack chemical effects from exhaust emissions at Concordia Station, Antarctica //The Cryosphere Discuss., https://doi.org/10.5194/tc-2018-182. Manuscript under review for journal The Cryosphere. 
+Mazzera D.M., Lowenthal D.H., Chow Ju.C., Watson Jo.G., 2001. Sources of PM10 and sulfate aerosol at McMurdo station, Antarctica. Chemosphere, 45 (3): 347-356. https://doi.org/10.1016/S0045-6535(00)00591-9
+ATCM XXXIX, 2018. IP3. Application of air dispersion modeling for impact assessment of construction/operation activities in Antarctica. Information paper submitted by Republic of Belarus.
+Ratcliffe, G., Sheers, R., Bonnice, J. (2001, updated 2017). Monthly total of fuel used by vehicles at Australian Antarctic Stations. Australian Antarctic Data Centre – CAASM Metadata. Available from: https://data.aad.gov.au/metadata/records/SOE_vehicle_fuel_usage. 
+Kakareka, S. V., Kukharchyk, T. I., Loginov V.F., Salivonchyk S. V., 2016. Construction and Operation of Antarctic Research Stations. An Experience of Comprehensive Environmental Evaluation. Minsk: StroyMediaProekt, 278.
+Final Comprehensive Environmental Evaluation of New Indian Research Station at Larsemann Hills, Antarctica, 2010. National Centre for Antarctic and Ocean Research (Ministry of Earth Sciences, Government of India). Headland Sada, Vasco Da Gama, GOA, 403 804, India. 
+

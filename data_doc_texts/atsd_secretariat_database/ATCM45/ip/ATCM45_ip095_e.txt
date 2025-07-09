@@ -1,0 +1,487 @@
+Understanding Future Sea-level Change Around Antarctica
+Understanding Future Sea-level Change Around Antarctica
+Information Paper submitted by SCAR and COMNAP
+Summary
+In addition to global consequences related to future sea level
+change, there will be changes to sea level around the Antarctic
+continent. This Information Paper outlines the: (1) Challenges in
+accurately predicting location-specific sea-level change for
+Antarctica’s coastline; (2) Risks that future sea-level change
+represents for operations including science support and tourism,
+coastal infrastructure and assets, heritage sites, specially protected
+and managed areas, and bioregions; and (3) Future research
+requirements and recommendations for actions to mitigate the
+identified risks. This directly contributes to ongoing work to address
+specific policy and research recommendations presented in the
+2022 SCAR Antarctic Climate Change and the Environment (ACCE)
+Decadal Synopsis Report (Chown et al., 2022). The Antarctic region
+is a driver and responder to change. A changing Antarctic region
+has implications for how we operate in, manage and protect the
+region. Research related to sea-level change is ongoing, but key
+relevant information is presented here.
+Sea-level change around the Antarctic coastline will vary
+significantly, especially if more ice mass is lost from a particular
+region than others (e.g., West Antarctica). Under the highest global
+carbon-emissions scenarios, and if ‘low-confidence’ ice sheet
+processes play out, sea-level will ‘likely’ rise by as much as ~1.2 m
+in some regions of Antarctica by the end of the century and fall by
+as much ~2.2 m in other regions at the same time.
+Accurate anticipation of sea-level change for the coastline of
+Antarctica, and its associated impacts, requires improved location-
+specific knowledge of (i) changes in vertical land elevation due to
+Earth processes and ice mass loss; and (ii) changes in sea level
+elevation due to ice mass loss and associated changes in Earth’s
+gravitational field and rotation.
+The impacts on Antarctic built infrastructure, operations including
+science and science support, heritage sites, bioregions, ecosystems
+and specially protected and managed areas will be complex.
+Understanding that complexity will depend on accurate knowledge
+of the rate and direction of future sea-level change.
+Making substantial improvements to current sea-level projections
+for Antarctic coastlines is included within the work plans for SCAR
+INSTANT for the period leading up to ATCM XLVI (2024).
+ACCE Recommendations
+The 2022 SCAR ACCE Decadal Synopsis Report included policy and
+research recommendations that were presented in ATCMXLIV WP30
+rev.1 and ATCMXLIV WP31 rev.1 and recognised in ATCM XLIV
+Resolution 4 (2022). The information, further work, and
+recommendations provided in this paper contribute directly to the
+following ACCE recommendations:
+PR 9: The loss of sea ice, fast ice, and ice shelves [sea-level rise]
+together with the expansion of ice-free areas on the Antarctic
+continent and changes to temperatures and precipitation, including
+extreme weather events, will present new challenges for the
+management of areas of high human activity in the Antarctic
+(including where infrastructure and other NAP assets are deployed).
+RR 1: Further support the research required to reduce uncertainty
+about the future of the region and its impact on the Earth System
+and to identify commensurate management
+responses. Integrated, international and targeted long-term
+monitoring programs and observatories are among the most
+important for reducing uncertainty and for understanding the likely
+impacts of mitigation and adaptation responses.
+RR: 4 Determine what the contribution will be of the Antarctic Ice
+Sheet to future sea level rise and reduce uncertainties in projections
+of the rate and magnitude of that contribution, and effectively
+communicate the impacts and risks to stakeholders and users.
+Background Information
+Our planet is warming. Earth’s average surface temperature has
+increased by more than one degree Celsius over the past century
+(Masson-Delmotte et al., 2021) and is on track to exceed 1.5 °C
+above the pre-industrial average by the early 2030’s (Diffenbaugh &
+Barnes, 2023; Matthews & Wynes, 2022). This temperature increase
+has already caused sea level to rise by an average of ~20 cm as
+warming oceans expand and water from melting glaciers, ice caps
+and ice sheets flows into the sea (Fox-Kemper et al., 2021;
+Frederikse et al., 2020). Rising sea levels are already impacting
+coastal infrastructure and environments around the world and will
+continue to do so at increasing frequency. Studies that examine the
+impact of sea level rise and the development adaptation planning
+and policy action to mitigate these impacts has been a focus across
+our planet’s populated regions.
+For Antarctica, such studies are rare. This lack of data and
+information on climate change impacts in general, and sea-level rise
+specifically, is concerning as the Antarctic continent supports
+critical coastal infrastructure that enables national Antarctic
+programme activities, is home to unique coastal habitats and
+bioregions, Antarctic Specially Protected Areas (ASPAs), and HSMs.
+Efforts to plan for, and adapt to, unavoidable change should be
+encouraged and these efforts require a sound scientific evidence
+base.
+Accurate estimates of the rate and magnitude of future sea-level rise
+underpin hazard and risk assessment required for adaptation
+planning. Such estimates are commonly presented as a set of global-
+mean sea-level projections and their uncertainties based on carbon
+emissions pathways. The melting of the world’s glaciers and ice
+sheets does not produce spatially uniform sea-level rise (Stammer et
+al., 2013). The exact pattern heavily depends on the geographical
+distribution and rate of melting ice and consequent vertical land
+motion and changes in Earth’s gravity and rotation.
+Generally speaking, in areas close to melting ice sheets the
+deviation from a global mean rate is large; sea level will, in fact, fall
+(Figure 1). In the Antarctic region, this sea level fall could have
+effects on coastal infrastructure and HSMs, and on near-shore
+navigation, coastal ecosystems, and sea ice.
+Addressing knowledge gaps
+Currently there are no robust and spatially comprehensive
+projections of sea level change for Antarctica. Our aim is to address
+this knowledge gap through research undertaken under the auspices
+of the SCAR INStabilities & Thresholds in ANTarctica (INSTANT)
+Scientific Research Programme (https://www.scar-instant.org).
+Through collaboration between SCAR and COMNAP, the proposal is
+for the SCAR INSTANT Programme to lead a project to produce
+location-specific sea-level projections for Antarctica. Project
+outcomes can then be used by National Antarctic Programmes and
+other operators, by the CEP and the ATCMs to assess risk and
+develop appropriate response measures and protocols.
+Current projections of sea level change around Antarctica
+The latest Intergovernmental Panel on Climate Change (IPCC)
+Assessment Report (AR6) contains global, state-of-the-art sea-level
+projections to the year 2100 and beyond These data can be accessed
+via an online tool developed by NASA (https://sealevel.nasa.gov/
+ipcc-ar6-sea-level-projection-tool), which allows users to click on a
+point anywhere in the ocean to obtain the IPCC sea level projection
+for that location. (Fox-Kemper et al., 2021). There is strong spatial
+variation in sea-level projections around Antarctica. For example,
+sea level is ‘likely’ to rise between 21 and 62 cm near Prydz Bay
+and fall by as much as 80 cm along the Marie Byrd Land Coast by
+2100 if global greenhouse gas emissions follow a middle-of-the-road
+pathway (SSP2-4.5) (Meinshausen et al., 2020). Such spatial
+variation in sea-level projections is expected because sea-level
+change is not geographically uniform. As mean global sea level
+rises, local relative sea level in coastal regions may rise or fall, due
+to many interdependent factors (e.g., Kopp et al., 2015; Stammer et
+al., 2013). Spatial variation in sea level change is strongly
+dependent on where the ice melts, with important consequences for
+Antarctica’s coastline.
+Loss of ice mass from a specific ice sheet, or ice sheet sector,
+produces a distinct pattern of sea level change know as a ‘sea level
+fingerprint’. The mass of an ice sheet exerts a gravitational ‘pull’ on
+the adjacent ocean; melting of the ice sheet decreases that pull and
+ocean water migrates away from the melting ice sheet margin,
+resulting in sea-level fall (Figure 1). In the ‘far field’, distant from
+the melting ice sheet, sea-level rise will exceed the global mean due
+to this ocean water migration (Clark & Lingle, 1977; Farrell & Clark,
+1976). The ‘sea level fingerprint’ computed for rapid uniform
+melting across the entire West Antarctic Ice Sheet is shown in
+Figure 2. If the West Antarctic Ice Sheet melted at a rate that raised
+global sea levels by 1 mm/yr on average, sea-level around all West
+Antarctica and the Antarctic Peninsula would fall by several mm/yr
+(areas in red shades), whereas most of the East Antarctic coast
+would have greater rise than the global mean (areas in blue
+shades). Thus, a necessary consequence of sea level fingerprints is
+that much of the Antarctic coastline may experience sea-level fall in
+the future, not sea-level rise.
+Changes in ice sheet mass from a specific ice sheet sector induce
+vertical motion of the land beneath the ice sheet in a distinct
+pattern, with maximum uplift typically centred where the largest
+ice mass loss occurs. This vertical land motion (VLM) in coastal
+regions strongly influences local relative sea level, either lowering
+(uplifting coast) or amplifying (subsiding coast) the amount of sea
+level rise ‘driven’ by climate change (Fig. 1). The methodology
+applied in IPCC AR6 sea level projections (Garner et al., 2021; Kopp
+et al., 2023) relied on the availability of multi-decadal tide gauge
+data to characterize local vertical land motion.
+Deployment and operation of tide gauges in Antarctica is
+challenging due to sea ice interfering with conventional tide gauge
+operations. Due to this challenge, only two sea level time series
+data from two tide gauges in Antarctica (both in the northern
+Antarctic Peninsula region) were used to estimate the local
+influence of VLM for the entire Antarctic coastline. This lack of
+spatial coverage limits the accuracy of sea level projections along
+most of Antarctica’s coastal margin. An alternative means to
+quantify vertical land motion employs GNSS [GPS] measurements
+e.g., (Barletta et al., 2018; King et al., 2022; Liu et al., 2018; Nield
+et al., 2014). Recent progress in GNSS instrument deployment and
+data sharing yields the direction and magnitude of vertical land
+motion at ~35 sites within 50-100 km distance of sites where
+infrastructure, heritage structures, ASPAs or penguin rookeries exist
+(Figure 3). Rapid uplift is taking place where ice mass is being lost
+near the Amundsen Embayment and the Antarctic Peninsula. Due to
+complexities in Earth structure and tectonic influences, some
+coastal sectors in these regions are moving downward. Similar
+variation in vertical land motions occur around the coast of East
+Antarctica, but at lower rates. A much greater number of sea-level
+projections for Antarctic coastal locations that are constrained by
+local observations can be produced by including GNSS-derived
+vertical land motion in the projection methodology (Kopp et al.,
+2023).
+The impact of sea level change around Antarctica
+Sea level change around Antarctica has the potential to impact,
+inter alia, infrastructure, HSMs, ASPAs, ASMAs, flora, fauna and
+coastal bioregions. The assumption that sea level change will be
+uniform around the Antarctic coastline creates the potential for
+maladaptation as the impact depends on the rate and magnitude of
+change and whether sea-level rises or falls.
+Regions where sea-level rises will experience:
+more frequent coastal inundation including nuisance flooding;
+more extensive flooding during storm or tsunami events;
+landward shifts in land to sea-ice transition zones;
+salinisation of coastal groundwater systems.
+Regions where sea level falls may face the following consequences:
+more difficult, or blocked access to wharves and harbours as coastal
+waterways shallow, as is anecdotally occurring in Greenland due to
+ice melting;
+possible changes to tidal resonances, especially in enclosed shallow
+harbours;
+greater distances (horizontally and vertically) from existing
+infrastructure to the coast, requiring corrective works to
+infrastructure;
+ocean-ward shifts in the inter-tidal zone, shallowing of the photic
+zone, and consequent effects on coastal ecosystems;
+emergence of new islands.
+In either case, there is need to update maritime charts to ensure
+ongoing safe navigation in shallow waters.
+Uncertainties in sea-level projections are primarily due to the
+evolving understanding of ice sheet processes. Management
+decisions that affect global carbon emissions pathways, require a
+flexible ‘dynamic’ approach to coastal adaptation (Haasnoot et al.,
+2021; Lawrence et al., 2018; Toimil et al., 2021; van Alphen et al.,
+2022). These flexible approaches avoid adaptation solutions that
+lock-in coastal plans and designs that may create a false sense of
+security or ultimately prove unnecessary. A similar approach could
+benefit Antarctica.
+Planning for sea-level change in Antarctica – an adaptation example
+COMNAP reported in ATCM XLII (2019) IP049 Modernisation of
+Antarctic Stations: Survey results that 73% of national Antarctic
+programmes were in the planning for or process of modernization
+of their Antarctic facilities. During such planning, many national
+Antarctic programmes are considering the impacts to their proposed
+infrastructure of a changing Antarctic region. Recent work by New
+Zealand presents one such example (see also New Zealand papers in
+regards to redevelopment of Scott Base including ATCM XLIV
+(2022) IP020 Response to comments on the draft Comprehensive
+Environmental Evaluation (CEE) for the Scott Base Redevelopment).
+Designers and engineers of the new Scott Base station initially
+planned to use global mean sea level projections from the IPCC AR5
+(Church et al., 2013) to future-proof the design. Following input
+from the science community, local sea level projections to include
+estimates of vertical land movement from relatively short tide
+gauge records, and a range of modelled estimates of land movement
+due to ice mass change, were generated for Hut Point Peninsula
+(HPP) (Levy et al., 2020) and used to inform the design process.
+The site-specific sea-level projections indicated that by 2100, sea
+level along the coast of HPP might rise by as much as ~100 cm or
+fall up to ~90 cm (Figure 4). These sea level projections (and the
+range of possible scenarios) are highly dependent on (1) the ice
+sheet model(s) used to simulate glacial retreat in Antarctica and
+Greenland since the Last Glacial Maximum (past ~20 kyrs) and
+future response to climate change, (2) the model that is used to
+calculate vertical land motion in response to changes in ice sheet
+volume, and (3) future carbon emissions. These local sea level
+projections were also used to assess future tsunami hazard to ensure
+the new facility is resilient within its design ‘life’ (e.g., Power et al.,
+2019).
+Next steps: Location specific sea level projections for Antarctica
+An assessment of the implications associated with sea level change
+around the Antarctic coastline clearly warrants further exploration
+as this information is critical to plan for and adapt to the
+unavoidable impacts of climate change. A substantial step toward
+robust sea-level projections along the Antarctic coastline is possible
+through use of these GNSS vertical land motion data and their
+uncertainties that augment decadal tide gauge data. These
+additional estimates of local land deformation can be incorporated
+in the methodology of Kopp et al. (2023).
+Making substantial improvements to current sea-level projections
+for Antarctic coastlines is included within the work plans for SCAR
+INSTANT for the period leading up to ATCM XLVI (2024). This
+work will produce new projections of future sea level at locations
+along the Antarctic coastline where GNSS observations of current
+vertical land motion are available. Inclusion of these data will
+reduce the reliance on the very sparse tide gauge records used in
+IPCC AR6. Despite improvement in vertical land motion
+measurements by GNSS in Antarctica (Figure 3), there are many
+locations of National Antarctic Programme facilities, ASPAs, and
+HSMs (top) and penguin rookeries (bottom) without proximal and/
+or long-running GNSS instruments (Figure 5). The gaps identified in
+Figures 3 and 5 can be filled if National Antarctic Programmes
+fund, establish and maintain a spatially extensive network of
+observations of vertical land motion (GNSS) and sea level (tide
+gauges). This is a goal of the SCAR INSTANT programme which
+includes participants from many national Antarctic programmes.
+Conclusions
+In summary, as the Antarctic Ice Sheet melts, coastlines near to
+melting ice may see overall sea-level fall. This will depend on the
+distribution and rate of future ice loss in Antarctica and globally
+and the properties of the solid Earth, especially beneath Antarctica.
+New observational constraints on vertical land motion and modified
+methods in producing sea-level projections utilizing GNSS-derived
+vertical land motion estimates are required for robust and
+comprehensive projections of sea level for sites of interest along the
+Antarctic coastline.
+While climate change is not explicitly mentioned in the Protocol on
+Environmental Protection to the Antarctic Treaty, Parties have a
+key role to play through the CEP, for example by reporting to the
+ATCM on the state of the Antarctic environment, considering
+climate change impacts when reviewing or designating protected
+areas 17% of the present ASPA management plans consider climate
+change impacts (Hughes et al., 2021)., and in undertaking research
+to support implementation of the Climate Change Response Work
+Programme (CCRWP).
+This paper suggests that Parties support their National Antarctic
+Programmes to:
+extend the current critical observational infrastructure – especially
+the network of long-term continuous geodetic observations (GPS)
+and tide gauges that provide location-specific time-series of changes
+in land elevation and sea level.
+facilitate research to improve projections of Antarctic ice mass loss
+and its regional variability.
+monitor local sea-level and land elevation near identified coastal
+hazards.
+identify risk and to adapt with urgency to impacts that are now
+unavoidable.
+adopt a dynamic decision-making approach that provides resilience
+in response to those unavoidable impacts and that can be updated
+and modified as new information evolves. This dynamic approach is
+key because sea-level projections are uncertain, especially beyond
+2060–2070.
+Acknowledgements
+SCAR and COMNAP wish to acknowledge the work as presented in
+this paper of Matt King (The Australian Centre for Excellence in
+Antarctic Science/ University of Tasmania) Matt.King@utas.edu.au;
+Richard Levy (SCAR INSTANT Theme 3 Co-Leader, GNS Science
+and Victoria University of Wellington) r.levy@gns.cri.nz; Terry
+Wilson (Ohio State University) wilson.43osu@gmail.com; Fraser
+Morgan (Manaaki Whenua Landcare Research)
+MorganF@landcareresearch.co.nz; and Tim Naish (SCAR INSTANT
+Co-Chair, Victoria University of Wellington)
+timothy.naish@vuw.ac.nz.
+Figures
+Figure 1 (previous page) – Conceptual diagram showing spatial
+variability in sea level due to changing ice mass and its effect on
+gravitational attraction and load on the solid Earth. A large ice
+sheet depresses the crust on which it sits and attracts water close to
+its margin – the sea floor rises in response to mantle flow away
+from the large ice mass forming a forebulge that causes a local
+decrease in relative sea level. Sea level falls next to a melting/
+retreating ice sheet (area A – Nunatak/Island) as the gravitational
+attraction decreases, despite land uplift due to isostatic rebound.
+Sea level rise occurs in areas where the
+forebulge subsides (area B – Antarctic Island) and in regions far
+from the ice sheet margin (area C – for example, a Subantarctic
+island) due to meltwater flux to the ocean and negligible
+gravitational attraction.
+Figure 2 – Sea level fingerprint for uniform melting from the West
+Antarctic Ice Sheet. Uniform mass gain from increased snowfall
+would produce the same pattern but with opposite sign. Figure
+reproduced from (Hay et al., 2017). Inset shows the same result
+centred at the geographic South Pole, and with an expanded colour
+scale. Modelled sea level is normalized by global sea level change to
+show the ‘fingerprint’ of rise/fall attributable to West Antarctic
+melt.
+Figure 3 – Vertical motion of the bedrock land surface measured
+using GNSS [GPS] instruments. Upward motion is denoted by red
+arrows, downward motion by blue arrows, and the annual rate of
+vertical motion is shown by the vector length, with 2 mm/yr scale
+shown. Velocity solution from Ohio State University; data
+compilation from the SCAR-GIANT REGAIN analysis; site selection
+based on proximity (50-100 km) to coastal location of interest and
+quality and duration of GNSS measurement time series.
+Figure 4 – Local sea-level projections for Scott Base (see Levy et al.,
+2020 for methods). Zero point is 2000 for ‘Kopp 2014’ and ‘Bamber
+2019 H’ projections, 1998 for Stocchi LGM-RCP8.5 projection, and
+the mean annual value for 2003 for the Scott Base tide gauge. Photo
+at right shows waves breaking over reverse osmosis (RO) water
+intake at Scott Base. Future sea level rise or fall is dependent on our
+future emissions pathway but any change will affect the RO unit
+and associated infrastructure.
+Figure 5a – ASPAs (blue circles), National Antarctic Programme
+facilities (red triangles), Heritage Sites and Monuments (HSMs)
+(green squares); Figure 5b:Penguin rookeries (yellow diamonds). In
+both a and b the shapes indicate either a lack of a proximal GNSS
+station (located within a radius of 50km - West Antarctica, or 100
+km - East Antarctica) or have a nearby GNSS station with a time-
+series that is too short to accurately determine vertical land motion.
+Note that assessment of quality and fitness of purpose of the
+existing GNSS records requires further work through SCAR’s
+INSTANT and GIANT programs and the number of sites without
+requisite information may change.
+References
+Barletta, V. R., Bevis, M., Smith, B. E., Wilson, T., Brown, A.,
+Bordoni, A., et al. (2018). Observed rapid bedrock uplift in
+Amundsen Sea Embayment promotes ice-sheet stability. Science,
+360(6395), 1335-1339.
+Chown, S.L., Leihy, R.I., Naish, T.R., Brooks, C.M., Convey, P.,
+Henley, B.J., Mackintosh, A.N., Phillips, L.M., Kennicutt, M.C. II &
+Grant, S.M. (Eds). 2022. Antarctic Climate Change and the
+Environment: A Decadal Synopsis and Recommendations for Action.
+SCAR, Cambridge, U.K .https://scar.org/library/scar-publications/
+occasional-publications/5758-acce-decadal-synopsis/file.
+Church, J. A., Clark, P. U., Cazenave, A., Gregory, J. M., Jevrejeva,
+S., Levermann, A., et al. (2013). Sea Level Change. In T. F. Stocker,
+D. Qin, G.-K. Plattner, M. Tignor, S. K. Allen, J. Boschung , A.
+Nauels, Y. Xia, V. Bex, & P. M. Midgley (Eds.), Climate Change
+2013: The Physical Science Basis. Contribution of Working Group I
+to the Fifth Assessment Report of the Intergovernmental Panel on
+Climate Change (pp. 1137-1216): Cambridge University Press,
+Cambridge, United Kingdom and New York, NY, USA.
+Clark, J. A., & Lingle, C. S. (1977). Future sea-level changes due to
+West Antarctic ice sheet fluctuations. Nature, 269(5625), 206-209.
+10.1038/269206a0.
+Diffenbaugh, N. S., & Barnes, E. A. (2023). Data-driven predictions
+of the time remaining until critical global warming thresholds are
+reached. Proceedings of the National Academy of Sciences, 120(6),
+e2207183120.
+Farrell, W., & Clark, J. A. (1976). On postglacial sea level.
+Geophysical Journal International, 46(3), 647-667.
+Fox-Kemper, B., Hewitt, H. T., Xiao, C., Aðalgeirsdóttir, G.,
+Drijfhout, S. S., Edwards, T. L., et al. (2021). Ocean, Cryosphere and
+Sea Level Change. In V. Masson-Delmotte, P. Zhai, A. Pirani, S.L.
+Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I.
+Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K.
+Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou (Ed.),
+Climate Change 2021: The Physical Science Basis. Contribution of
+Working Group I to the Sixth Assessment Report of the
+Intergovernmental Panel on Climate Change. Cambridge University
+Press.
+Frederikse, T., Landerer, F., Caron, L., Adhikari, S., Parkes, D.,
+Humphrey, V. W., et al. (2020). The causes of sea-level rise since
+1900. Nature, 584(7821), 393-397.
+Garner, G. G., T. Hermans, R. E. Kopp, A. B. A. Slangen, T. L.
+Edwards, A. Levermann, et al. (2021). IPCC AR6 Sea-Level Rise
+Projections. Retrieved from: https://podaac.jpl.nasa.gov/
+announcements/2021-08-09-Sea-level-projections-from-the-
+IPCC-6th-Assessment-Report.
+Haasnoot, M., Winter, G., Brown, S., Dawson, R. J., Ward, P. J., &
+Eilander, D. (2021). Long-term sea-level rise necessitates a
+commitment to adaptation: A first order assessment. Climate Risk
+Management, 34, 100355.
+Hay, C. C., Lau, H. C., Gomez, N., Austermann, J., Powell, E.,
+Mitrovica, J. X., et al. (2017). Sea level fingerprints in a region of
+complex Earth structure: The case of WAIS. Journal of Climate,
+30(6), 1881-1892.
+Hughes, K. A., Convey, P., & Turner, J. (2021). Developing
+resilience to climate change impacts in Antarctica: An evaluation of
+Antarctic Treaty System protected area policy. Environmental
+Science & Policy, 124, 12-22.
+King, M. A., Watson, C. S., & White, D. (2022). GPS rates of vertical
+bedrock motion suggest Late Holocene Ice‐Sheet readvance in a
+critical sector of East Antarctica. Geophysical Research Letters,
+49(4), e2021GL097232.
+Kopp, R. E., Garner, G. G., Hermans, T. H. J., Jha, S., Kumar, P.,
+Slangen, A. B. A., et al. (2023). The Framework for Assessing
+Changes To Sea-level (FACTS) v1.0-rc: A platform for characterizing
+parametric and structural uncertainty in future global, relative, and
+extreme sea-level change. EGUsphere, 2023, 1-34.
+Kopp, R. E., Hay, C. C., Little, C. M., & Mitrovica, J. X. (2015).
+Geographic Variability of Sea-Level Change. Current Climate
+Change Reports, 1(3), 192-204.
+Lawrence, J., Bell, R., Blackett, P., Stephens, S., & Allan, S. (2018).
+National guidance for adapting to coastal hazards and sea-level rise:
+Anticipating change, when and how to change pathway.
+Environmental Science & Policy, 82, 100-107. https://
+www.sciencedirect.com/science/article/pii/S1462901117306068
+Levy, R., Naish, T., Golledge, N., Bell, R., Stocchi, P., Kopp, R., et al.
+(2020). Sea-level projections for New Zealand’s Scott Base rebuild.
+GNS Science report, 2020/13, 18.
+Liu, B., King, M., & Dai, W. (2018). Common mode error in
+Antarctic GPS coordinate time-series on its effect on bedrock-uplift
+estimates. Geophysical Journal International, 214(3), 1652-1664.
+Masson-Delmotte, V., Zhai, P., Pirani, A., Connors, S. L., Péan, C.,
+Berger, S., et al. (2021). Climate change 2021: the physical science
+basis. Contribution of working group I to the sixth assessment
+report of the intergovernmental panel on climate change, 2.
+Matthews, H. D., & Wynes, S. (2022). Current global efforts are
+insufficient to limit warming to 1.5 C. Science, 376(6600),
+1404-1409.
+Meinshausen, M., Nicholls, Z. R. J., Lewis, J., Gidden, M. J., Vogel,
+E., Freund, M., et al. (2020). The shared socio-economic pathway
+(SSP) greenhouse gas concentrations and their extensions to 2500.
+Geosci. Model Dev., 13(8), 3571-3605.
+Nield, G. A., Barletta, V. R., Bordoni, A., King, M. A., Whitehouse,
+P. L., Clarke, P. J., et al. (2014). Rapid bedrock uplift in the
+Antarctic Peninsula explained by viscoelastic response to recent ice
+unloading. Earth and Planetary Science Letters, 397, 32-41.
+Power, W. L., Gusman, A., Wang, X., Lukovic, B., & Black, J. (2019).
+Pilot tsunami hazard study for Scott Base in Antarctica. GNS
+Science Consultancy Report 2019/113., 60.
+Stammer, D., Cazenave, A., Ponte, R. M., & Tamisiea, M. E. (2013).
+Causes for Contemporary Regional Sea Level Changes. Annual
+Review of Marine Science, 5(1), 21-46.
+Toimil, A., Losada, I. J., Hinkel, J., & Nicholls, R. J. (2021). Using
+quantitative dynamic adaptive policy pathways to manage climate
+change-induced coastal erosion. Climate Risk Management, 33,
+100342.
+van Alphen, J., Haasnoot, M., & Diermanse, F. (2022). Uncertain
+Accelerated Sea-Level Rise, Potential Consequences, and Adaptive
+Strategies in The Netherlands. Water, 14(10), 1527.

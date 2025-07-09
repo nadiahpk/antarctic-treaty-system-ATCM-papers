@@ -1,0 +1,235 @@
+Implementation of the IMO Polar Code in Spain: Certification of the
+Research Vessel (RV) Sarmiento de Gamboa
+English translation provided by the author
+Implementation of the IMO Polar Code in Spain: Certification of the
+Research Vessel (RV) Sarmiento de Gamboa
+Information Paper presented by Spain
+Summary
+The entry into force on 1 January 2017 of the International Code
+for Ships Operating in Polar Waters (Polar Code) adopted by the
+International Maritime Organization (IMO) necessitated its
+incorporation into Spanish law. To date, the Spanish Maritime
+Administration, due to the characteristics of the fleet operating
+under its flag and of the zones where it operates, has only certified
+one ship, the Research Vessel (RV) Sarmiento de Gamboa. This
+document details the principal aspects of the Polar Code’s
+implementation, as well as the most salient aspects of the ship’s
+certification process.
+Implementation of the IMO Polar Code in Spain
+Incorporation of the Polar Code into Spanish law
+The Kingdom of Spain tacitly accepted the Resolutions to amend the
+International Convention for the Safety of Life at Sea (SOLAS)
+(MSC.386(94)); the International Convention for the Prevention of
+Pollution from Ships (MARPOL) (MEPC.265(68)); the International
+Convention on Standards of Training, Certification and
+Watchkeeping for Seafarers (STCW) (MSC.416(97)); and the STCW
+Code (MSC.417(97)). Therefore, due to the need to comply with
+Resolutions MSC.385(94) and MEPC.264(68) adopting different
+parts of the Polar Code, the Minister of Foreign Affairs and
+Cooperation, at the request of the Ministry of Transport, Mobility
+and the Urban Agenda (MITMA), subsequently sent the texts of the
+amending Resolutions to the Council of Ministers for their
+information, pursuant to article 36.2 b) of Act 25/2014 of 27
+November, on Treaties and other International Agreements.
+Thereafter, the texts were published in the Official State Gazette
+(BOE) of 5 May 2017, and on 1 January 2017 they entered into
+force, and the Polar Code was incorporated into Spanish law.
+Necessary steps for an existing ship under the Spanish flag to be
+certified in Spain
+In Spain, the State has sole jurisdiction over the certification of
+ships, which is carried out by the Maritime Administration through
+the Directorate-General for the Merchant Marine (DGMM), a
+management body under the aegis of MITMA that sets forth and
+imparts guidelines to the Maritime Authorities, which constitute the
+local Maritime Administration network.
+Requests for certification and the general procedures for it are
+available to interested parties at all administrative offices and
+online.
+In the particular case of the polar certification of an existing ship,
+the technical department of the shipowner/operator, should there
+be any doubts regarding how to proceed, may assess—together with
+the inspection service of the Maritime Administration—whether the
+certification will entail carrying out renovations and therefore
+require technical plans which must be submitted for prior
+authorization, or whether this certification will only involve
+bringing aboard additional equipment and/or adapting the ship’s
+operational procedures regarding safety and the prevention of
+pollution of the marine environment.
+The administrative steps to be followed for polar certification,
+whether of a new or an existing ship, are no different from those to
+be followed for any other certification.
+Management facilities made available to shipowners/operators to
+attain the Polar Certificate
+The DGMM has procedures, manuals (some currently being drafted)
+and other working documents for use by the Maritime Authorities,
+which are responsible for making shipboard certification visits and
+for providing any necessary assistance or management support to
+interested parties.
+The DGMM Training Plan includes a specific module on polar
+certification, with an annex containing a checklist for polar
+certification.
+For the certification of the RV Sarmiento de Gamboa, this checklist
+was provided to the operator in advance so that a prior assessment
+could be made of the scope of the work that would be required for
+the ship to attain certification as a polar vessel.
+Experience of the Spanish Maritime Administration: Certification of
+the RV Sarmiento de Gamboa
+To date, Spain, as a Flag State, has only certified one ship, the RV
+Sarmiento de Gamboa, under Category C of the Polar Code.
+The Sarmiento de Gamboa was delivered in 2008 by the Freire
+Shipyard in Vigo; this ship belongs to and is operated by the
+Spanish National Research Council (CSIC), affiliated with the
+Ministry of Science and Innovation.
+The ship was designed and built as a multidisciplinary scientific
+platform, and originally certified by the Spanish Maritime
+Administration under SOLAS as a cargo ship and as a ship for
+special purposes, becoming the most high-powered research vessel
+among those ships managed under the aegis of the Ministry of
+Science and Innovation.
+Since the entry into force of the Polar Code, and to expand Spanish
+research activities in the Antarctic, it was decided to certify the
+Sarmiento de Gamboa under that Code, taking advantage of its
+flexibility and goal-based focus. This certification was carried out in
+2018, enabling the ship to go on oceanographic campaigns within
+the area of Spain’s Antarctic bases, around the South Shetland
+Islands.
+Due to its structure and design, the Sarmiento de Gamboa meets the
+requirements for operating, within certain limitations, in the zones
+covered by the Code, such that the ship’s Polar Certificate confines
+operations in the Antarctic to the area north of 63ºS, during the
+Antarctic summer. The Sarmiento de Gamboa is only authorized to
+sail in ice-free waters, and is not authorized to sail at low air
+temperatures nor at high latitudes; under these authorized
+conditions, the ship’s stability and the functioning of equipment on
+board will not be compromised, and will comply with the Polar
+Code.
+Since the ship’s construction, the Sarmiento de Gamboa has
+complied with all MARPOL provisions, having the relevant
+International Oil Pollution Prevention (IOPP), International Air
+Pollution Prevention (IAPP) and International Sewage Pollution
+Prevention (ISPP) certificates, inu addition to complying with the
+provisions on the prevention of garbage pollution.
+Most controversial aspects of the certification of the Sarmiento de
+Gamboa
+Goal-based standards
+The Polar Code has four chapters (Ship Structure, Machinery
+Installations, Fire Safety/Protection and Life-Saving Appliances and
+Arrangements) which may be applied not by complying with their
+associated regulations but rather with their functional requirements
+through an alternative project. This is the main difference between
+the application of this Code compared with that of other standards
+with which we are more familiar.
+In the case of the RV Sarmiento de Gamboa, functional criteria were
+not used; rather, operational limits were established, which
+facilitated the process.
+Polar Service Temperature requirements
+The Polar Service Temperature (PST) is a determining factor due to
+its crucial importance to the application of the Polar Code, and is
+calculated using the temperature data set from the past 10 years in
+the zone of operation during the months of operation.
+In the case of the RV Sarmiento de Gamboa, the calculations were
+based on a report from Spain’s National Meteorological Agency
+(AEMET), which is responsible for the development,
+implementation and provision of the meteorological services of the
+Spanish State and which, furthermore, has for the past 25 years
+operated and maintained weather stations of reference at Spain’s
+Antarctic bases.
+Since the navigable routes necessarily run through zones in which
+there is no data from direct temperature measurement, it is
+necessary to extrapolate the data taken from these stations based on
+the applicable environmental conditions, establishing a temperature
+map that makes it possible to select those of interest. The Code
+specifications should be implemented in this manner, and it should
+be made clear which extrapolation models are considered
+acceptable.
+Operational assessment. Development of risk assessment models
+The operational assessment set forth in Section 1.5 of Chapter 1 of
+Part I-A is considered a core issue in the Polar Code.
+The RV Sarmiento de Gamboa is an existing ship that was not
+designed for polar navigation and, as has already been stated, its
+certification necessarily entailed the establishment of a number of
+operational limits to preclude the risks inherent in polar navigation
+(e.g. ice, low temperatures, high latitudes), and it was therefore
+unnecessary to carry out the risk assessments, the lack of models for
+which has been commented on.
+The problem is that to date, and based on Spain's experience, with
+regard to the hazards listed in Section 3 of the Polar Code’s
+Introduction and requiring study, the only risk assessment model
+that has been implemented is that for ice hazards (Polar
+Operational Limit Assessment Risk Indexing System, or POLARIS, in
+MSC.1/Circ.1519).
+Without a standard assessment model for the other hazards (e.g.
+low temperatures, high latitudes) it can be very difficult for
+operators to carry out risk assessments and for the relevant
+administrations to analyse them, considering that the second
+greatest hazard would be that of sailing in zones with low air
+temperatures, due to their implications for the ship’s structure.
+Certification of life-saving equipment and arrangements for polar
+conditions
+The Polar Code requires that life-saving equipment and systems be
+fully operational at the PST during the maximum expected rescue
+time (never less than 5 days).
+The problem with this equipment is the lack of corresponding
+testing standards under these conditions. Moreover, the certificates
+for conventional equipment do not indicate the temperature limits
+for the product’s use, the conclusion being that very few current
+standards guarantee that they would be operational at the PST.
+It would be desirable to link the Polar Code to testing standards
+that could serve as a benchmark so that it would be possible to find
+equipment on the market with a clear range of applicability, based
+on a temperature and a time.
+The RV Sarmiento de Gamboa, does not operate at low
+temperatures, and therefore the ship’s PST is never below the
+temperature limit for conventional equipment testing.
+Comparison of requirements for ships classified as Category C,
+which has much lower requirements with regard to times and
+needs, very different from those ships to be classified as Category A
+Category C ships may essentially have variable requirements based
+on the eight different kinds of waters included in this category (risk
+of ice impact), PST, and latitude of operations. Certification
+therefore, may range from a document review—when the
+establishment of operational limits mitigates all hazards inherent in
+polar navigation (which could extend to practically every steel-
+hulled ship with an average construction standard)—to much
+higher certification levels entailing the verification of the hull
+scantling, ice strengthening, suction design, materials and
+operational temperature limit of motor fluids in essential systems
+depending on the PST, the installation of appliances to prevent
+essential systems and equipment from freezing, as well as the
+carrying of the Polar Water Operational Manual (PWOM) and other
+related documents.
+Necessary modifications, life-saving equipment acquired, how
+operations for the Antarctic campaign are reflected in the PWOM,
+etc.
+The Sarmiento de Gamboa is an example of a conventional ship
+certified for polar navigation in which the mitigation of risk is
+absolute due to the operational limits established: the ship may only
+sail in the Antarctic to the north of 63ºS, during the Antarctic
+summer, in ice-free waters; i.e. restricted to lower latitudes, outside
+of low temperature zones, and where there is no possibility of
+encountering ice. The equipment that had to be brought on board
+included liferafts that were specially designed to ensure the launch
+mechanisms will not freeze, personal survival kits, and equipment
+for communications with aircraft. Moreover, a PWOM had to be
+drafted, and the MARPOL procedures with which the ship already
+complied had to be adapted to a polar environment.
+Training of onboard personnel
+In the case of the RV Sarmiento de Gamboa, pursuant to Section 3
+of Chapter 12 of Part I-A1 of the Polar Code, and taking into
+account the type of ship, Class C classification, and operational
+limitations in polar waters, it was not necessary for the ship’s
+masters, chief mates and officers in charge of a navigational watch
+to be certified under the provisions of Regulation V/4 of the
+amended STCW-78 Convention and Section A-V/4 of the Training
+Code.
+At the time when the Sarmiento de Gamboa was certified, a
+national law had not been promulgated in Spain to regulate the
+necessary conditions and courses for obtaining a competency
+certificate in basic and advanced training for ships operating in
+polar waters. Directive 2019/1159/EU specifies 2 August 2021 as
+the date for its transposition into national law.
+Nevertheless, an agreement was reached and it was considered
+prudent for masters and officers in charge of a navigational watch
+to obtain the basic training certificates provided for in Regulation
+V/4 of STCW as amended by the Polar Code. The officers received
+the necessary training at a nautical academy in Latvia.

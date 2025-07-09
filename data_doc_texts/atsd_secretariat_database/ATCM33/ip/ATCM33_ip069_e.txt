@@ -1,0 +1,89 @@
+﻿
+
+
+
+
+
+Benthic Marine Invertebrates as a Tool for the Monitoring of Fuel Transfer from Transport Ships in King George Island
+
+
+
+
+
+Benthic Marine Invertebrates as a Tool for the monitoring of Fuel Transfer from Transport Ships in King George Island
+Abstract
+The Uruguayan Antarctic Institute has undertaken the development of a cost-effective Environmental Monitoring Program for the Uruguayan “Base Científica Antártica Artigas” on King George Island. In order to have comprehensive environmental evaluations, a program of biological monitoring has been included. Since the activity of highest risk for the environment is the transfer of fuel from the Uruguayan transport ships to the main storage tank, efforts have focused on the development of an environmental impact assessment protocol associated to this activity. A BACI-PS sampling protocol using multiple control sites has been adopted, and using this protocol no variations are detected in the biota under normal operative conditions. A small impact in the monitored area showed an alteration in the composition of the interstitial biota not detected in any of the control areas; conditions in the impacted area reverted to normal three days later. The interstitial biota in the study area is mainly composed of Platyhelminthes, Nematoda and Annelida. The diversity and abundance of the three phyla has been found to correlate negatively with the amount of hydrocarbons in the water, and preliminary results suggest that some Platyhelminthes show behavioral changes when exposed to low concentrations of fuel, followed by death as the concentration increases. These results suggest that it is possible to develop an Index of Biological Integrity for the coastal area of King George Island using autochthonous invertebrates, but much work is still needed in order to define measurable components of the system.
+Background
+After the Texas Workshop on Monitoring of Environmental Impacts from Science and Operations in Antarctica, held in 1996 (GERG 2000), the Uruguayan Antarctic Institute undertook the development of a cost-effective Environmental Monitoring Program that could be applied in the Uruguayan “Base Científica Antártica Artigas” (BCAA) on King George Island (Southern Shetlands). During the initial stage, the monitoring of physical and chemical variables was implemented, and, posteriorly, a Program of biological monitoring (ProMAB) was incorporated in order to have more comprehensive environmental evaluations.
+
+The team responsible for the development and implementation of the biological monitoring activities devised a 4-step initial implementation of the ProMAB:
+    • Firstly, the identification of susceptible sites. This involved the valuation of the characteristics of the BCAA and its area of influence, the definition of distinct sectors according to their environmental attributes in the area between the main fuel storage tank near the “Bellingshausen” Base and the BCAA, the identification of potential sources of human impact as the result of the activities of the BCAA in each of the aforementioned sectors, and the selection of sites to be monitored, giving priority to those sectors with high biodiversity that would be more susceptible to human disturbances. In this context, the activity of highest risk was found to be the transfer of fuel from the Uruguayan fuel transport ships to the main storage tank, given that, in case of an accident, there would be a direct input of hydrocarbons into the environment. The more susceptible sites were found to be different localities along the coast of Maxwell Bay, which would be affected in case a fuel spill should occur.
+    • Secondly, a survey of the biodiversity in the selected sectors, in order to have a deeper knowledge of the taxa present in the sites to be monitored, and to be able to determine whether a biological monitoring program could be applied or not.
+    • Thirdly, an evaluation of the applicability of standard monitoring procedures which have proven useful in temperate climates (see Gibson et al. 2000), under the conditions prevailing in King George Island.
+    • Finally, an evaluation of the potential of autochthonous organisms as indicators of human impact, and a preliminary selection of the taxa to be monitored.
+
+This Information Paper presents the steps taken towards the use of marine benthic invertebrates for the development of an environmental impact assessment protocol associated to the fuel transfer from Uruguayan fuel transport ships to the main storage tank.
+Selection of a standard monitoring procedure
+Four main different approaches are used to assess the effects of human activities on aquatic organisms: indicator taxa, species diversity, multivariate statistics and multimetric indexes, all of which have advantages and disadvantages under different conditions (Cairns and Pratt 1989; Chapman 1996; Rosenberg et al. 2004; Salas et al. 2006). The identification of indicator taxa has proven difficult, because of the series of conditions that an organism has to meet in order to be useful for this purpose; many species diversity indexes have been proven inconsistent, and therefore are not always reliable indicators; multivariate methods often lose valuable biological information, and multimetric indexes have the drawback that biological conditions are not the same in different sites, so they usually cannot be generalized (Phillips and Rainbow 1993; Neher et al. 2003; Warwick 1988; Zettler et al. 2007).
+
+Given the lack of previous, long-term data on the natural fluctuations of species diversity and abundance in the coastal area, a BACI-PS (“Before-After”, “Control-Impact” Paired Series) sampling protocol using multiple control sites was adopted for the initial monitoring of the transfer of fuel to the main storage tank (US EPA 2002a, b). This sampling design is suitable in cases when the specific type, time and place of occurrence of the impact to be analyzed are known, and has the advantage that it requires fewer resources than other methods (see Smith and Simpson 1995). 
+
+It has been argued against the use of many monitoring approaches that species abundances have high natural variation in response to environmental variation, so it is not always easy to separate natural from human-induced changes in the composition of the biota (Salas et al. 2006). Our data indicate that the system is indeed sensible to natural impacts such as storms, but also that when “before” and “after” samples are taken only hours apart, as is the case when monitoring fuel transfer, there are no variations under normal operative conditions. 
+Evaluation of the potential of autochthonous organisms as indicators of human impact
+The survey of organisms in the sites to be monitored revealed the presence of representatives of the phyla Porifera, Cnidaria, Platyhelminthes, Nemertina, Sipuncula, Bryozoa, Annelida, Mollusca, Echinodermata and Arthropoda in the rocky areas, and of Platyhelminthes, Nematoda, Annelida and Arthropoda in the sediment. Diversity and abundance of all taxa were higher in the rocky areas, where the more abundant invertebrates were platyhelminths, bryozoans, annelids and molluscs. 
+
+Five years of monitoring have shown that when no fuel spills occur, the conditions before and after the fuel transfer are identical for both the rocky and the interstitial biotopes. A spill by a stranded ship in Ardley Cove in 2007, though small, allowed the evaluation of the sensitivity of the assessment method when a direct impact has occurred. Using BACI-PS, it was determined that the macroinvertebrate assemblages in rocky areas were the same before and after the impact, but after the spill there was an alteration in the composition of the interstitial biota in the impacted area which was not detected in any of the control areas. Follow-up daily samplings revealed that the conditions in the impacted area reverted to normal three days later. 
+
+The interstitial environment is naturally more depauperate compared to the rocky environment. The most abundant invertebrates in the sediment of the study area are usually Platyhelminthes and Nematoda, although Annelida may be present in high numbers under certain conditions. The diversity and abundance of all three phyla has been found to correlate positively with the amount of organic matter in the sediment, and negatively with the amount of hydrocarbons in the water. Preliminary results of an ongoing study suggest that some Platyhelminthes show behavioral changes when exposed to low concentrations of fuel, followed by death as the concentration increases. 
+Future prospects
+Taken together, these results suggest that it is possible to develop an Index of Biological Integrity (IBI) for the coastal area of King George Island using autochthonous invertebrates (Bakalem et al. 2009; US EPA 2002c). These indexes are wide in scope, and integrate several different biological metrics to indicate the state of a site (Llansó et al. 2009). Much work is still needed to understand responses at the individual level, to determine population dynamics, to establish the structure of local communities, and to correlate changes in these communities in response to natural and human-induced alterations of local parameters, in order to be able to define measurable components of the system than can be used for an IBI. Once these components are identified, the marine invertebrate biota is likely to become a highly valuable tool for comprehensive environmental impact assessments (Coull and Chandler 1992; Kennedy and Jacoby 1999; Merckxa et al. 2009).
+References
+Bakalem, A., Ruellet, T. and J. C. Douvin (2009). Benthic indices and ecological quality of shallow Algeria fine sand community. Ecological Indicators 9: 395-408.
+
+Cairns, J., Jr., and J. R. Pratt (eds.) (1989). Functional testing of aquatic biota for estimating hazards of chemicals. ASTM, Publications, Philadelphia.
+
+Chapman, D (ed.) (1996). Water quality assessments: A guide to the use of biota, sediments and water in environmental monitoring. Chapman & Hall, Cambridge.
+
+Coull, B. C. and G. T. Chandler (1992). Pollution and meiofauna: field, laboratory, and mesocosm studies. Oceanography and Marine Biology: An Annual Review 30: 191-271.
+
+Geochemical and Environmental Research Group (GERG) (2000). Antarctic Environmental Monitoring Handbook. Standard techniques for monitoring in Antarctica. Council of Managers of National Antarctic Programs (COMNAP) and the Scientific Committee on Antarctic Research (SCAR). Hobart, Tasmania 
+
+Gibson, G. R., Bowman, M. L., Gerritsen, J., and B. D. Snyder (2000). Estuarine and Coastal Marine Waters: Bioassessment and Biocriteria Technical Guidance. EPA 822-B-00-024. U.S. Environmental Protection Agency, Office of Water, Washington, DC. 
+
+Kennedy, A.D. and C.A. Jacoby (1999). Biological indicators of marine environmental health: Meiofauna - a neglected benthic component? Environmental Monitoring and Assessment 54: 47-68.
+
+Llansó, R.J., Vølstad, J.H., Dauer, D. M., and J. R. Dew (2009). Assessing benthic community condition in Chesapeake Bay: does the use of different benthic indices matter? Environmental Monitoring and Assessment 150: 119-127.
+
+Merckxa, B., Goethals P., Steyaerta, M., Vanreusela, A., Vincxa, M., and J. Vanaverbekea (2009). 
+Predictability of marine nematode biodiversity. Ecological Modelling 220: 1449–1458. 
+
+Neher, D. A., Fiscus, D. A. and L. Fafeng (2003). Selection of sentinel taxa and biomarkers. Nematology 
+Monographs and Perspectives 2: 1-4.
+
+Phillips, D. J. H. and P. S. Rainbow (1993). Biomonitoring of trace aquatic contaminants. Elsevier Applied Science: New York, NY.
+
+Rosenberg, R., Blomqvist, M., Nilsson, H. C., Cederwall, H. and A. Dimming (2004). Marine quality assessment by use of benthic species-abundance distributions: a proposed new protocol within the European Union Water Framework Directive. Marine Pollution Bulletin 49: 728–739.
+
+Salas, F., Marcos, C., Neto, J. M., Patricio, J., Pérez-Ruzafa, A. and J. C. Marques (2006). User-friendly guide for using benthic ecological indicators in coastal and marine quality assessment. Ocean and Coastal Management 49: 308-331.
+
+Smith, D. A. and R. D. Simpson (1995). Effects of the 'Nella Dan' oil spill on the fauna of Durvillaea antarctica holdfasts. Marine Ecology Progress Series 121: 73-89.
+
+US EPA (2002a) Methods for evaluating wetland condition: Study design for monitoring wetlands. EPA-822-R-02-015. Office of Water, U.S. Environmental Protection Agency, Washington, DC. 
+
+US EPA (2002b). Guidance on choosing a sampling design for environmental data collection for use in developing a quality assurance project plan EPA QA/G-5S. EPA/240/R-02/005. Office of Environmental Information, U.S. Environmental Protection Agency, Washington, DC.
+
+US EPA (2002c). Methods for evaluating wetland condition. #9 Developing an Invertebrate Index of Biological Integrity for Wetlands. EPA-822-R-02-019. Office of Water, U.S. Environmental Protection Agency, Washington, DC.
+
+Warwick, R. M. (1988). The level of taxonomic discrimination required to detect pollution effects on marine benthic communities. Marine Pollution Bulletin 19: 259-268.
+
+Zettler, M. L., Schiedek, D. and B. Bobertz (2007). Benthic biodiversity indices versus salinity gradient in the southern Baltic Sea. Marine Pollution Bulletin 55: 258–270.
+
+----
+((Committee on Animals as Monitors of Environmental Hazards, Board on Environmental Studies and
+Toxicology, National Research Council)) (1991). Animals as sentinels of environmental health hazards. 
+(Free Executive Summary). National Academic Press, Washington. http://www.nap.edu/catalog/1351.html 
+(access March 22, 2007).
+
+Soto, E. and G. Leighton (año?). Indicadores biológicos de ecosistemas marinos de fondos blandos y su importncia en los programas de monitoeo ambiental. VI Jornadas del CONAPHI-CHILE. pdf Bajado el 07.10.2005
+----
+

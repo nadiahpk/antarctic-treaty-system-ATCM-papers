@@ -1,0 +1,122 @@
+Operational information – national expeditions: Facilities & SAR
+categories
+Advice as requested from COMNAP
+Operational information – national expeditions: Facilities & SAR
+categories
+Advice as requested from COMNAP
+Background
+Recalling the conclusions of the ATCM XXXIX in regards to
+Information Exchange, as noted in Appendix 4, page 190, of the
+Antarctic Treaty Final Report of the Thirty-ninth Consultative
+Meeting, in particular there are two ATCM conclusions which make
+specific requests to COMNAP for advice. Those are the ATCM
+conclusions which state:
+Operational: national expeditions – Stations: “…the desirability of
+making possible changes to the items of information in the
+Operational: national expeditions – stations’ category. The ATCM
+requested COMNAP to consult with its members and provide advice
+on an appropriate set of categories for describing stations and
+facilities to facilitate the exchange of accurate information”; and
+Search and rescue information items – stations, vessels, and aircraft:
+“…COMNAP to provide advice on whether there was any need,
+from an operational perspective, for Parties to exchange search and
+rescue information via the information exchange system. The ATCM
+further requested COMNAP to provide advice on whether there
+were benefits in having COMNAP-curated search and rescue
+information available publicly, by linking to it from the ATCM
+website…”
+COMNAP’s advice on both these requests is presented to the ATCM
+for consideration in this Information Paper.
+Advice on appropriate set of categories
+In response to the first request, COMNAP wishes to advise that the
+following are the categories for “Facility type”, “Status”, and
+“Seasonality” that COMNAP has agreed to use in the COMNAP
+Antarctic facilities list and in the COMNAP database. The COMNAP
+Antarctic facilities list will now be drawn from information in the
+COMNAP database. So while the development of the database and
+the database fields are recent and were expanded for clarity, these
+categories and their intended meaning are based on a long history
+of discussion amongst COMNAP Member National Antarctic
+Programs for use in COMNAP products.
+From the Antarctic Facilities List
+Facility types:
+Station – An established installation with fixed buildings and
+mechanical services (reticulated power, water, sewage etc).
+Camp – A more basic and less permanent installation, such as a
+group of tents/shelters, often used only for a small number of
+seasons.
+Refuge Also note Recommendation ATCM III-II (1964) in regards to
+“Notification of Unoccupied Refuges” which suggests the term
+“refuges” should be understood to mean “an unoccupied building,
+hut or caches maintained by them in the Treaty Area in a condition
+suitable for use in emergencies”. – Usually a small and very basic
+installation, sometimes only one small hut, but usually of a
+permanent nature.
+Airfield Camp – An installation, whatever its size and type, attached
+to an airfield – if the airfield is not attached to a station, camp or
+refuge that is not already listed separately.
+Depot – A depot of food, fuel or other supply.
+Current Status options:
+Year-round – Opened all year round – winter and summer.
+Seasonal – Opened seasonally only typically opened every summer
+or most summers.
+Temporarily Closed – Closed temporarily and ready to be re-opened
+as and when required.
+Closed – Closed indefinitely – but at least part of the facility still
+exists and could be renovated and/or re-used.
+No Longer Exists – The facility no longer exists.
+Under Construction – Under Construction–work has commenced.
+Under Consideration – Construction planned but no construction
+has commenced.
+From the COMNAP Database
+DATA FIELD: Facility Type:
+[DROPDOWN OPTIONS]
+Station
+Camp
+Refuge
+Airfield Camp
+Depot
+Laboratory The definition for this facility type is “A facility that
+provides controlled conditions in which research, experiments, and
+measurements may be performed."
+DATA FIELD: Facility Seasonality:
+[DROPDOWN OPTIONS]
+Year-round
+Seasonal
+DATA FIELD: Facility Status:
+[DROPDOWN OPTIONS]
+Open - Active (year-round or seasonal)
+Permanently Closed - Closed indefinitely, but at least part of the
+facility still exists and could be renovated or re-used
+Temporarily Closed - Inactive, but ready to be re-opened as
+required
+No Longer Exists - Closed indefinitely and no parts of the facility
+exist at its location
+Under Construction - Work has commenced on the facility, but it is
+not open
+Under Consideration - Construction has been planned, but has not
+commenced
+Advice on search and rescue (SAR) information
+In response to the second request, COMNAP discussed this
+information exchange requirement with participants at the
+COMNAP SAR Workshop III. Participants from the five Rescue Co-
+ordination Centres (RCCs) with co-ordination responsibility over a
+portion of the Antarctic Treaty area, all agreed that their RCC
+contact information should be made publicly available from the
+COMNAP website and this was implemented immediately following
+the workshop (See www.comnap.aq/Contact/SitePages/
+Home.aspx). In regards to exchange of information related to
+National Antarctic Program operated stations, vessels and aircraft
+which are used in support of science, logistics and operations and
+which may be important during a
+SAR event, COMNAP provides this information in its range of
+products which include the Antarctic Flight Information Manual
+(AFIM), the Antarctic Telecommunication Operators Manual
+(ATOM) and in the Ship Position Reporting System (SPRS) which
+are, from an operational perspective, adequate tools for information
+exchange in regards to those stations, vessels and aircraft operated
+by COMNAP Member National Antarctic Programs. However, we
+note that those products do not include information on fishing
+vessels, IAATO and non-IAATO tourism vessels and aircraft, and
+others outside of the COMNAP Membership that may be operating
+in the Antarctic Treaty area.

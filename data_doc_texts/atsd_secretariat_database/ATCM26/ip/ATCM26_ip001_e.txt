@@ -1,0 +1,427 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENVIRONMENTAL DOMAINS FOR THE ROSS SEA REGION
+
+The creation of a systematic environmental geographic framework for the Ross Sea region using Environmental Domains Analysis
+
+
+
+
+
+
+
+
+
+Fraser Morgan
+Landcare Research
+Private Bag 3127
+Hamilton
+New Zealand
+
+
+
+Landcare Research Contract Report:  LC0203/089
+
+
+
+PREPARED FOR: Foundation for Research, Science and Technology
+
+
+
+
+
+DATE: March 2003
+Reviewed by:		Approved for release by:	
+John Leathwick		Margaret Lawton
+
+
+	
+Scientist		Science Manager
+Landcare Research		Landcare Research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Landcare Research New Zealand Ltd 2003
+No part of this work covered by copyright may be reproduced or copied in any form or by any means (graphic, electronic or mechanical, including photocopying, recording, taping, information retrieval systems, or otherwise) without the written permission of the publisher.
+
+Disclaimer
+The findings in this report are specific to this project. Landcare Research accepts no responsibility where information in the report is used for any other purpose, and will not be liable for any loss or damage suffered as a result of such other use.
+Contents
+1.	Introduction	6
+1.1.	Background	6
+1.2	Why Environmental Domains	7
+2.	Process	9
+3.	Data	10
+3.1	Climate Data	10
+3.2	Landform/Geological Data	12
+3.3	Topographic Data	14
+3.4	Ice Cover	16
+4.	Analysis	18
+5.	Discussion/Recommendations	20
+6.	Conclusions	23
+7.	References	24
+
+Abbreviations
+ANDrill 	= 	Antarctic Drilling Project
+AWS		= 	Antarctic Weather Stations
+CALM 	= 	Circumpolar Active Layer Monitoring
+CEP		= 	Committee on Environmental Protection
+DEM 		= 	Digital Elevation Model
+EDA 		= 	Environmental Domains Analysis
+IGNS 		= 	Institute of Geological and Nuclear Sciences
+LAWN 	=	LTER Automatic Weather Network
+LENZ 		= 	Land Environments of New Zealand
+LTER 		= 	Long-Term Ecological Research
+NOAA		=	National Oceanic & Atmospheric Administration
+NSIDC 	= 	National Snow and Ice Data Center
+RAMP 	= 	Radarsat Antarctic Mapping Project
+READER 	= 	Reference Antarctic Data for Environmental Research
+RSR		=	Ross Sea region
+SCAR 		= 	Scientific Committee on Antarctic Research
+SEGF 		= 	Systematic Environmental Geographic Framework
+USGS 		= 	U.S. Geological Survey
+VALMAP 	= 	Valleys in Antarctica: Layered Mapping, Analysis, and Planning
+1.	Introduction
+Antarctica is an internationally managed, natural reserve devoted to peace and science, designated as such by the Antarctic Treaty System.  As a Party to the Antarctic Treaty (1959) and its Protocol on Environmental Protection (1991), New Zealand has committed itself to the comprehensive protection of Antarctica and its dependent and associated ecosystems, with special stewardship responsibilities in the Ross Sea region.  New Zealand's commitment to the Antarctic was reinforced last year in the Government's revised New Zealand Statement of Strategic Interest in Antarctica, approved by Cabinet in May 2002.  
+ 
+Recently, Antarctica New Zealand produced ‘Ross Sea Region 2001: A State of the Environment Report for the Ross Sea region of Antarctica’ (Waterhouse 2001). This report was a major achievement for Antarctica New Zealand, the New Zealand Government and the Antarctic Science community, and has been extremely well received internationally (Walton 2002). Findings of the report noted by Walton (2002) include “the indication that many potentially valuable data are either not collected systematically or are not easily available to assess the extent and importance of human pressures at a regional level”. Furthermore, the report identified the lack of any regionally based approach to environmental management as one of the five key environmental challenges for the region. This feasibility report has been developed as the first step of a process designed to address this key challenge.
+
+The Ross Sea region State of the Environment Report (Waterhouse 2001) identified the need for a regionally based approach to environmental management. To contribute to this need we will, subject to funding, develop a physical environment-based classification for the Ross Sea region. This builds on the success Landcare Research scientists have achieved in developing a classification of New Zealand’s terrestrial environments (Land Environments of New Zealand or LENZ—Leathwick et al. 2003, in press). The Ross Sea region classification will be designed to provide a spatial classification for a range of management activities including identification of priority sites for protection, environmental monitoring, and assessment of risks associated with human activities.
+
+        1.1. Background
+
+Although Antarctica is classed as a pristine environment, sections of the continent are being placed under sustained pressure through human activities (research/tourism and the logistics surrounding these activities). Article 3(2) of Annex V to the Protocol on Environmental Protection to the Antarctic Treaty (1991) states “Parties shall seek to identify, within a systematic environmental-geographical framework, and to include in the series of Antarctic Specially Protected Areas: 
+
+(a) areas kept inviolate from human interference so that future comparisons may be possible with localities that have been affected by human activities; 
+
+(b) representative examples of major terrestrial, including glacial and aquatic, ecosystems and marine ecosystems; 
+
+(c) areas with important or unusual assemblages of species, including major colonies of breeding native birds or mammals; 
+
+(d) the type locality or only known habitat of any species; 
+(e) areas of particular interest to on-going or planned scientific research; 
+
+(f) examples of outstanding geological, glaciological or geomorphological features; 
+
+(g) areas of outstanding aesthetic and wilderness value; 
+
+(h) sites or monuments or recognised historic value; and 
+
+(i) such other areas as may be appropriate to protect the values set out in paragraph 1 above.” 
+
+Within the Environmental Protocol there was no elaboration of the term “systematic environmental-geographic framework” nor has there been since. However, this term aligns well with an analysis/classification model we used recently for New Zealand’s Ministry of the Environment in developing Land Environments of New Zealand, or LENZ. This project is currently in its final stages, with two books scheduled for release in early 2003. (http://www.environment.govt.nz/indicators/lenz/)
+
+This feasibility report will investigate the possibility of applying the methods and paradigms behind LENZ to the classification of the Ross Sea region of Antarctica, including reviewing the suitability of using the LENZ concept versus other methods. Subsequent sections will look at the various processes required to create a Ross Sea region classification and evaluate the data required for this type of classification. Finally, recommendations to improve and/or direct the classification are discussed.
+
+1.2	Why Environmental Domains
+
+Numerically explicit approaches to environmental classification first appeared in Australia in the late 1980s (e.g., Mackey et al. 1988; Belbin 1993; Kirkpatrick and Brown 1994; Faith et al. 2001), exploiting the increasing availability of Geographic Information Systems, interpolated climate data, and multivariate procedures capable of handling very large amounts of data. New Zealand researchers, aware of these advances, began to explore the development of an environment-based classification as a spatial framework for biodiversity and resource management at both regional and national scales (Leathwick et al. 2003a, in press, 2003b, in press). In carrying out this work, we drew on several studies of relationships between New Zealand’s forest pattern and environment (e.g., Leathwick 1995, 1998; Leathwick & Whitehead 2001); these giving a robust basis for the selection of candidate environmental variables to include in the classification. Fifteen such variables were eventually chosen based on both their functional and statistical relationships with biotic distributions. They consisted of seven climate variables describing various aspects of temperature, solar radiation, and water supply and demand, seven soil-related variables describing chemical and physical drivers of and/or limitations to plant growth and finally slope. All fifteen variables were assembled as 100-m resolution raster or grid layers, which were subsequently classified using a two-stage multivariate procedure.  Four levels of classification detail containing 20, 100, 200 and 500 groups respectively were selected for documentation, and to allow application at varying spatial scales. After discussions with Antarctica New Zealand, we realised the approach we had developed to environment-based classification in LENZ was also directly applicable to the management of activities across the Ross Sea region, as well as answering a number of the SEGF issues.
+2.	Process
+
+Three main processes are used in the definition of an EDA: the initial assembly of the data layers to be used in the classification process; the classification process itself; and the creation of the documentation surrounding the classification. 
+
+In contrast to the approach used in LENZ we will select data layers that differentiate the physical environment within Antarctica, rather than layers that have both functional relationships and demonstrable statistical correlation with biotic distributions (as used in LENZ) mainly because of the lack of biotic distributions. However this does not mean the limited biotic distributions of life will be ignored, it will now be up to those people who use the classification to overlay the mapped biotic distributions on top of the classification to delineate the physical environments within which species reside.
+
+A number of scientific leaders in various Antarctic studies will be consulted to verify our initial selections. In addition, they will also be asked to suggest alternative candidate variables to be considered for inclusion in the classification. However, the variables put forward will have to be available as a comprehensive spatial coverage with known error limits.
+
+To begin, we will start with the same basic three-group structure for the spatial data layers as used in LENZ: Climate, Slope and Landform/Soils. However, in addition to these three broad groups I believe it is necessary also to consider other types of data available for the Ross Sea region. In the next four sections I briefly explore these data.
+
+
+
+
+
+3.	Data
+
+3.1	Climate Data
+
+As a baseline to a number of scientific programmes, climatological data are collected through a combination of numerous remote and a few manned weather stations. Consequently, a number of stations around Antarctica are currently measuring various climate parameters for a number of scientific projects. For any spatial interpolation of climate, three main points need to be reviewed. First and most important, a comprehensive network of climate stations is required to cover the range of climates occurring in the region. Second, incomplete and ‘patchy’ climate records for various lengths of time can prove to be more of a hindrance than an addition to the spatial coverage. Finally, because there is no standardisation across weather stations in the Antarctic, stations run by various scientific programs have a number of different configurations. For example, the seven CALM sites situated in the RSR all have soil temperature sensors to measure the temperature of the soil at the station’s location. Very few, if any, other stations collect this type of data, which ultimately could be a very important aspect for use in an EDA in the RSR.
+
+To create accurate climate data layers for the RSR, data from adjacent regions are also likely to be valuable, because of their ability to provide information about climates near the RSR boundaries. Consequently, any and all data from stations that conform to meteorological standards and record at least the basic three measurements (temperature, pressure, wind speed) will be used to create the climate layers. In addition, other more specialised weather stations/networks will be included if they record relevant information pertinent to the creation of an EDA, for example, measurements of solar radiation, air saturation deficit, or soil temperatures (as in the case of the CALM network of seven weather stations).
+
+Climate data/sources and progress
+Some sources of climate information found through investigation and discussions are:
+
+AAWS – READER
+The Antarctic Automatic Weather Stations (AAWS) network is one of the most comprehensive meteorological networks on the continent. Around 95 stations have or currently cover the continent. As described on the project’s website (http://uwamrc.ssec.wisc.edu/aws/), the development of low-power computer components in the 1970s together with the ARGOS Data Collection System on the NOAA series of polar-orbiting satellites made possible the development of low-power weather stations units capable of operating in the extreme climate of Antarctica.
+ 
+The AAWS units are grouped together based on area, and are usually related to a single meteorological experiment. The data are not always continuous, as the units occasionally stop and cannot be repaired or replaced until the next field season. Occasionally, a unit may stop for a month or two then start up on its own.
+
+On a positive note, the highest concentration of sites is in and around the McMurdo Dry Valleys. The data are available from the above website or on a CD put out through the READER project. This CD also contains other AAWS stations that are identical in design but run by other organisations, for example the Australian Antarctic automatic weather stations (http://www.antcrc.utas.edu.au/argos/).
+At a basic level, all AAWS sites measure air temperature, wind speed and wind direction at 3 m above the surface, and air pressure at about 1.75 m above the surface. The heights are sometimes inaccurate because snow accumulation may occur at the site. These four measurements provide an excellent starting point in creating climate layers for use in an EDA. 
+	
+LTER
+As described on the McMurdo Long Term Ecological Research (LTER) internet homepage, the McMurdo LTER Automatic Weather Network (LAWN) currently consists of 12 stations based around Explorer's Cove in Beacon Valley and Lakes Fryxell, Hoare, Bonney, Brownworth, Vanda, and Vida and on the Commonwealth, Howard, and Taylor glaciers all located in the Taylor Valley. These 12 stations routinely sample sensors every 30 seconds, and send summary statistics (averages, maximums, etc.) to solid-state storage modules every 15 minutes. 
+
+The measurements the stations record vary from site to site; however common measurements across all sites are air temperature, relative humidity, soil temperature (apart from sites on the glaciers where ice temperature is recorded), wind speed, wind direction, solar flux (incoming) and solar flux (outgoing). Other measurements recorded on some sites are photosynthetically active radiation, net radiation, UVA, UVB and precipitation.
+
+With the LAWN network being based only around the Taylor valley, spatial coverage is minimal. However, the number of stations in just one valley makes the Taylor Valley (in conjunction with the other meteorological networks) a likely candidate for any type of trial classification. The data can be currently found on the above website and are easily accessible. 
+	
+CALM
+The Circumpolar Active Layer Monitoring (CALM) program has eleven metrological sites situated in the McMurdo Dry Valleys. These sites are: Scott Base, Bull Pass, Marble Point, Mt Fleming, Beacon Valley, Victoria Valley, Simpson Crags, Boulder Clay, Oasi, Granite Harbour and Minna Bluff.
+
+This network of stations is more specialised than the previous two, with various detailed measurements of soil temperature and soil moisture at various depths. In addition, the stations also have air temperature, solar radiation, wind speed and wind direction. The inclusion of soil temperature and moisture creates more opportunities for layers to be included in the EDA. CDs containing the CALM data have been made available to us for use in this project.
+
+Other Stations
+There will be other stations found on the continent, probably short-term stations directly for placing scientific research into context. We will assess any data we can find from any suitable Antarctic weather stations for use in an EDA of the RSR.
+
+Preliminary layers for inclusion
+    • Air Temperature
+    • Soil Temperature
+    • Wind Speed
+    • Solar Radiation
+    • Pressure 
+
+Conclusion
+The metrological information described in this section will provide a starting point in the creation of climate data layers to be used in an EDA for the RSR. The spatial coverage of meteorological stations in the RSR is much higher than that found over other areas of the continent, which provides reasonable certainty that climate layers can be reliably interpolated from them. Access to most of the data discussed in this section is straightforward, as is conversion into a format where we can proceed to the creation of layers for a test area.
+
+3.2	Landform/Geological Data
+
+The total ice-free area of Antarctica comprises less than 0.4% of the continent, with approximately half the 46 000 km2 of ice-free ground occurring within the Ross Sea region. The ice-free areas of the Ross Sea region are located mainly on the coast, with the McMurdo Dry Valleys, which covers about 6000 km2, the largest continuous expanse of ice-free ground in the Antarctic.
+
+Soils of the Ross Sea region are cold desert soils, characterised by extremely low soil temperatures with an average mean annual temperature ranging between –15oC and –40oC. As snowfall is extremely low, available soil moisture is also low, and biological activity is minimal. A pebble or boulder pavement often covers the soil surface. The subsurface soil below the desert pavement includes an active layer and permafrost. The soils typically lack topsoil or accumulations of organic matter, are often alkaline, particularly in moister coastal regions, and show wide variations in soil salinity. Some soils, particularly soils in dry environments on old surfaces may contain large quantities of salts. 
+
+Antarctic soils are vulnerable to disturbance because of their extremely slow natural rates of recovery due to low temperatures and low levels of precipitation (Campbell et al. 1998). As most human activities are concentrated on ice-free regions, the potential for human impacts on soils is great, especially on Ross Island and in the McMurdo Dry Valleys, where many activities are centred. The most intense impacts on soils are around the major science support stations, in particular Hut Point on Ross Island where Scott Base and McMurdo Station are located, and at Marble Point and Cape Hallett on the mainland.
+
+Although soils from many sites in the region are well described, with a reasonable understanding of soil-landscape relationships (Campbell & Claridge 1987; Bockheim 2002), very little information related to the spatial distribution of soils has been published. A map exists for the Taylor Valley (McCraw 1967). However, no overall, comprehensive mapping effort has been undertaken. 
+
+To address this lack of information, we will focus initially on the major drivers of soil development such as soil parent material, climate, and topography, rather than soil characteristics per se. Parent material (geological) mapping for some of the dry valleys in the RSR has already been completed. Climate data will be derived from the sources outlined in the previous section. Topographic information can be easily derived from the digital elevation model that will be used in the RSR EDA.  Once the major drivers of soil variability have been described, we will then, subject to resources, also evaluate available soil data from the RSR, to see if a more quantitative picture can be built up of such soil attributes as salinity.
+
+Landform/Geological data sources
+Some of the sources of Landform/soils information identified through investigation and discussions are discussed below.
+
+	Antarctic Soil Profiles
+On the Landcare Research RSR Soils Internet map site there are around 900 soil site and soil pit horizon data profiles from 35 years of soil studies by Iain Campbell, Graeme Claridge and their colleagues. These individual soil profiles can be used as reference points for the interpolation of soils information. There are also 200 more soil profiles ready to be placed on the website. All this information is available to us; and since it is already in a GIS within our organisation there are no problems with the conversion to a GIS or standards used in the profiles. Around 200 of the current 430 sites are within close proximity of Ross Island and the Taylor and Wright Valleys.
+
+The data are extremely detailed, with a large amount of important information in the written comments of the researchers. Information recorded from the pit locations includes location, altitude, aspect, slope, soil parent material, average temperature (at time of survey), soil climate, soil moisture, biological activity, pattern, surface weathering, and various frozen soil measurements.
+
+In addition to the Landcare Research records there are also a number of soil pit records by J Bockheim from the VALMAP research project. No assessment of the quality of the data can be made because of the unavailability of the VALMAP Internet map service.
+	
+Geology Maps (IGNS and Other)
+A number of geological maps are available for the Ross Sea region. Areas mapped by IGNS: Beacon Heights, Knobhead Area, Thundergut Area, Convoy Range, Bull Pass–St Johns Range, Olympus Range, and the Cape Hallett District. A geological map of the Taylor Valley has been located in the map archives of Landcare Research. This map can be integrated within a more comprehensive mapping of the geological features of the McMurdo Dry Valleys.
+
+Some of these geological maps are already available in a digital format for use in an EDA, including the IGNS maps of the Olympus Range, Thundergut and Bull Pass–St Johns Range. As described previously, obtaining data from the VALMAP project is proving difficult so no assessment of data quality can be made. We are, however, trying to source the digital data directly from IGNS. In addition, we are trying to source data from the USGS that could contribute to a more comprehensive geological layer.
+
+An issue with paper geological maps is the need for them to be digitised into a format that can be integrated with other maps and then be usable in the GIS. Digitising is a slow and laborious task but is necessary to create a geological layer that can then be used in the creation of other layers for the EDA.
+
+	Preliminary layers for inclusion
+    • Geology
+
+	Conclusion
+After reviewing the soil profile data provided, we have decided not to include any soil layers in the EDA classification. This decision is based on the likely extremely difficulty in creating soil spatial layers to a high degree of accuracy without large scale soil mapping. Consequently, with the availability of a number of geologic maps of the Ross Sea region, we will focus instead on the use of geologic data layers in the classification. The soil profiles section above is included for reference and to cover the possibility that more soil profiles or maps will become available in the future. If so, a later EDA classification could include these new data.
+	
+3.3	Topographic Data
+
+Topographic data provide a baseline for an environmental domains analysis by providing an accurate model for a number of layers. A digital representation of elevation is a fundamental requirement both for the spatial prediction of a number of the environmental layers, and also for the final classification itself. Layers that can be created, either directly or indirectly, using topographic data include slope, aspect, solar radiation, wind speed and temperature. Fortunately, given their importance, topographic data are the most comprehensive available, mainly because of the static nature of Antarctic landscapes, and the numerous ways to get the data remotely without measuring individual spot heights (satellite, aircraft radar measurements, etc.).
+
+The main derived layer that will be created out of a high-resolution digital elevation model is a representation of slope. Representation of slope is important in its combination with solar radiation levels that play a large role in glacial melt water generation. As Fountain et al. (1998) discussed, because of the low sun angle, steeper surfaces will receive far more solar radiation than more level surfaces. Consequently, glaciers will have areas of high spatial variation in glacier mass in part because of the steepness and amount of solar radiation the glacier receives.
+
+Topographic data/sources and progress
+One of the most comprehensive projects is the Radarsat Antarctic Mapping Project (RAMP), a benchmark for elevation data on the Antarctic. “The high-resolution RAMP Digital Elevation Model (DEM) combines topographic data from a variety of sources to provide consistent coverage of all of Antarctica. Version 2 of this project improves upon the original version by incorporating new topographic data, error corrections, extended coverage, and other modifications.
+
+The DEM incorporates topographic data from satellite radar altimetry, airborne radar surveys, the recently updated Antarctic Digital Database (version 2), and large-scale topographic maps from the U.S. Geological Survey (USGS) and the Australian Antarctic Division. Data were collected between the 1940s and the present, with most collected during the 1980s and 1990s. Although the RAMP DEM was created to aid in processing RAMP radar data, it does not utilize any RAMP radar data” (Liu et al. 2001).
+
+This data set is available to the public at three spatial scales and in a number of formats. The spatial scales are important for future use in an environmental-domains analysis. These levels are 1 km, 400 m, and 200 m and are provided in ARC/INFO, binary and ASCII grid formats. Access to the data is currently unrestricted and is available across the Internet.
+
+In addition to this dataset, for some of the more widely travelled valleys in the Transantarctic Mountains more detailed topography mapping, in the form of contours, is available from organisations such as VALMAP. With the focus of the environmental domains analysis on the Dry Valleys of the Ross Sea region, this information will increase the accuracy of the resulting classification. One of the most promising high resolution DEM’s is one of the McMurdo Dry Valleys only at 30-m resolution (http://usarc.usgs.gov/antarctic_atlas/).
+
+Incorporating such ‘high resolution’ data within the coarser but more spatially complete coverage will, however, be an issue. The large DEM will have to be resampled into smaller grid cells (down from 200 m) to accommodate for the DEM that could be created out of the 25-m contour data VALMAP and other organisations have available. To minimise the potential errors in resampling, the 25-m contour data will be created into a 50-m DEM.
+
+	Preliminary layers for inclusion
+    • Slope
+    • Topographic roughness 
+    • Aspect
+
+	Conclusion
+Although the DEMs described in this section is currently the most accurate available, more detailed information is available only for smaller areas within the continent and the RSR. Such higher resolution data can be incorporated into the 1000-, 400- and 200-m DEMs. 
+		
+3.4	Ice Cover
+
+An additional feature of the Antarctic, not encountered in our classification, is significant variation in the character of ice cover, as the continent includes extensive ice caps, glaciers and sea ice. Differentiating and mapping these at extensive spatial scales presents a considerable challenge, and will require access to data from organisations outside of Landcare Research. 
+
+Ice cover/sources and progress
+Some sources of landform/soils information identified through investigation and discussions are described below.
+
+Terrestrial (year-round) ice layer
+Terrestrial ice locations that should be classified include, but are not limited to, glaciers, ice streams, and the extent of the permanent ice cover. The locations of such environments can be found though a number of sources from satellite imagery through to specific mapping projects. The RADARSAT project has successfully classified the locations of ice streams, and has also been applied to the locations of glaciers (http://www.ccrs.nrcan.gc.ca/ccrs/rd/apps/map/amm/amm1_e.html).
+
+Extent of seasonal ice cover
+Seasonal ice cover can be found through satellite imagery, as demonstrated by the USGS Global Change Research monthly average polar sea-ice concentration for Antarctica (http://geochange.er.usgs.gov/pub/sea_ice/, see also http://pubs.usgs.gov/fs/fs50-98/). This is not an exhaustive list, a number of other data layers that will form the basis or complement these, are discussed on the NSIDC (http://nsidc.org/data/seaice/index.html).  
+	
+	Location and size of underground ice pockets 
+This layer, if it can be created, will allow the delineation of various soil textures. In particular, it will map the locations of ‘polygon’ formations, a unique and important environment for locating and mapping from an environmental and management point of view. Investigation into the possibility or location of such a layer is ongoing.
+
+Preliminary layers for inclusion
+    • Terrestrial (Year Round) ice layer 
+    • Extent of seasonal ice cover
+    • Underground ice locations
+
+	Conclusion
+Ice-related data information is the most uncertain direction of interest in the EDA classification process. More discussions will be required first to evaluate the directions we are taking. We will then obtain pilot information and data to evaluate the feasibility of developing layers with adequate spatial resolution.
+
+4.	Analysis
+
+This analysis has been proven to work in the LENZ case, and even though the area of interest is different the classification process used is identical. Consequently, for the Ross Sea region, the actual classification process is not a barrier to the creation of an EDA, however, the selection of the data layers that go into the classification is one of the most influential aspects of the end result. It is important to reach a combination of layers that can accurately depict the Antarctic physical environment in a manner useful for management. Depending on what layers are used in the classification, the result can vary quite significantly.
+
+However, a basic description of the process begins with the underlying data layers. Once these layers have been found and created at a uniform cell size, a systematic sample of data points will be exported using a C++ program, and analysed using multivariate classification software in two stages:
+
+a)	Non-hierarchical classification to identify an amount of different environments within New Zealand. (The maximum amount of environments is initially determined by the program used in the multivariate classification; however, in the case of LENZ, while 800 environments was the maximum, the most detailed level is only 500 environments because of the increased amount of grid ‘noise’ created)    
+
+b)	Hierarchical classification to define inter-environment relationships.
+
+Using another C++ program, each grid cell is then compared with the environmental space centroids found in the non-hierarchical classification and this cell is mapped to its 'closest' environment. In the end, a raster layer for Antarctica will be created that has a number of different environments. The next step is to join a table created in the hierarchical classification step to this raster layer. This table will allow us to view the classification layer at any number of environments from 1 to n (n being the maximum number of environments designated in the non- hierarchical classification).
+
+After the classification layer is complete, the next phase is to discern the various levels at which the classification is usable in a management sense. Four levels of classification (Levels I to IV) were selected in LENZ for detailed description and mapping to facilitate use at different geographic scales. The classification layers for the more detailed levels (III and IV) were created using a grid resolution of 25 m to allow use at more detailed map scales. While alternative levels of detail (outside of levels I through IV) could be used, promotion of a standard set of levels is desirable to provide a common approach for activities such as environmental reporting and standardising the ability to compare or combine results from different studies.
+
+After the classification and the creation of various management levels, documentation through the summary of the data layer information for each environment at each level is undertaken. 
+
+5.	Discussion/Recommendations
+
+Concepts discussed in this report represent the first step towards development of an environmental domains analysis of the Ross Sea region. Preliminary discussions have begun with other research providers in the Ross Sea region, particularly in the McMurdo Dry Valleys. As well as obtaining adequate data, we also need to refine our understanding of the role of various environmental factors in determining variation in physical environmental character across the RSR. A subsequent step in the creation of an environmental domains analysis of the Ross Sea region is the creation of a pilot classification for a swath of land covering a variety of physical environments (sea ice, volcanic, continental ice, islands, dry valleys, glaciers). This pilot classification will provide us with an important proving ground in which to test our data interpolation techniques, our models of climate, and other variables in creating spatial data layers. 
+
+This report demonstrates the feasibility of classifying data layers that describe the physical environment in order to identify areas of land of similar character. Although the process of defining domains involves a mix of subjective and objective steps, the main subjective components, i.e. choice of variables, their weighting, the distance metric used in analysis, and the number of groups mapped, are all clearly transparent and open to scrutiny. The objective components are robustly numerical and repeatable, although dependent on the quality of the input data.
+
+Data layers
+In reviewing the adequacy of the raw data layers, it is apparent that the derivation of climatic parameters will be more straightforward than of landform variables, largely due to the ease with which climate surfaces can be interpolated from point climate data collected at meteorological stations estimates. While our ability to estimate slope over large areas would undoubtedly be improved by having access to finer resolution digital elevation data, this information might not be needed, depending on the spatial resolution that is needed for the EDA (see next section for discussion on the optimal spatial resolution). 
+
+Spatial Resolution of classification and underlying data layers
+As discussed in the DEM data section above, spatial resolution of the classification (and consequently the underlying data layers) is very important. There is a need to balance the need for high-resolution layers (100–25 m cell sizes) with the coarse nature of the available spatial data. In the case of LENZ, we had the ability to go to 25-m cells through the comprehensive underlying data that was available. In the case of an EDA on the RSR, 25-m spatial resolution is not a realistic option because the other layers used in the classification will not be able to be interpolated or mapped down to a 25-m accuracy. With the finest grid data available currently being the 200-m DEM this is the first (and probably the best) starting point to determine the cell size for the RSR EDA. For coarser resolution classifications (such as the one discussed below) coarser spatial resolutions can be used (1–5km). In the case of the RSR EDA, however, only one spatial resolution (around 200–500 m) is recommended. This should be set in consultation with the users of the resulting classification because at the extensive spatial scales we could use, critical fine-scale elements of interest might be aggregated within the surrounding environments.
+
+Hierarchical Classification
+Compared with New Zealand, the management of the RSR is less complex. In the LENZ classification there it was necessary to ensure all users (National, Regional, Local) could access and analyse LENZ at the level of detail they required. In addition, LENZ needed easier and less complex levels so the public could understand the concept (hence LENZ Level I). In the case of the RSR, the recommendation would be not to create extra layers of detail but rather to move to the most detailed level possible because there is no need for a large number of classification levels, but there is a need for a uniform standard across the whole of the RSR. It is also in the best interests of Antarctica New Zealand, who is involved in the management of New Zealand activities in the RSR, to use only one classification level. However, once the first stage of classification  (non-hierarchical classification) is complete, it is quick and easy to create a number of classification levels. Once again, it needs to be decided in consultation with the end users of the classification.
+
+Antarctic EDA
+Once the RSR EDA is completed and using the knowledge gained in the creation of the RSR EDA, it should be possible to extend our approach to create a higher level classification such as an Antarctic-wide EDA. The first level of this classification should be limited to 20–30 distinct environments such as glaciers, sea ice, dry valley, mountain, volcanos, etc. While this would hold no real importance in scientific terms, more detailed levels can be created if the underlying spatial data (as discussed in the data section above) is adequate. In our opinion, the level of detail created by the RSR EDA will be far greater than could be derived by an Antarctic-wide EDA but would allow some form of limited comparison between the two EDAs.
+
+Expert discussion
+To confirm that the assumptions and choices we make about the Antarctic physical environment are acceptable to the wider user community, we will need to liase extensively with a range of experts in various disciplines of Antarctic science. Although many initial contacts have been made through requests for spatial data, more researchers will be  contacted during the EDA development process.
+ 
+	Test classification
+To classify the RSR environment accurately, we first need to create a test classification to verify the layers we produce are fundamental drivers in moulding the physical Antarctic environment. The area that currently has the highest ratio of climate and soil sites per hectare is a swath of land that includes the Taylor and Wright valleys in the McMurdo Dry Valleys. These valleys will form the basis of the test classification area along with the permanent ice cover through to Ross Island, including McMurdo and Scott Base. Glaciers and sea ice will be included in the classification, and lakes will be mapped but not classified.
+Another area that might be more representative of the RSR is the Terra Nova Bay area encompassing the Italian base, ice tongues, glaciers, a volcano, ice free areas and currently protected marine and terrestrial areas. While this area has a satisfactory amount of data available, the level of available detail is not as high as can be found in the previous area, but may be more representative of the entire RSR. As in the previous area, glaciers and sea ice will be included in the classification, and lakes will be mapped but not classified.
+
+	Preliminary Timeline
+Year one (2003–04)
+    • Work with potential end-users to identify and confirm key environmental factors (climate, geology, topography, ice) driving the various physical environmental patterns in the Ross Sea region
+    • Perform pilot classification for study sites encompassing a range of conditions, e.g., dry valleys, mountain ranges, glaciers, sea ice, and coastal islands.
+
+
+Year two (2004–05)
+    • Produce report describing pilot classification and outlining options for an operational classification
+    • Begin assembly of environmental data layers required to define an environmental classification for the Ross Sea region
+    • Evaluate the feasibility of applying the classification methodology to the entire Antarctic Continent, including seeking funding support from international agencies.
+Year three (2005–06)
+    • Interact with end-users to determine suitability of different classification options
+    • Develop operational classification for the Ross Sea region
+    • Produce a publication that describes the classification of the Ross Sea region
+    • Develop a web site for Internet delivery of the Ross Sea region operational classification and its underlying data to end-users.
+Years four–six (2006–08)
+    • Develop operational classification for the Antarctic Continent
+    • Produce a publication that describes the classification of the Antarctic Continent
+    • Append the web site for with information on the Antarctic Continent operational classification and its underlying data to end-users.
+6.	Conclusions
+
+An environmental domains analysis in the Ross Sea region is both technically feasible, and will meet many of the requirements set out in Annex V of the Environmental Protocol for a systematic environmental-geographic framework. This will require a different approach than was used in the LENZ project; moving from a biotic to a physical environmental classification. Many of the skills learnt in the LENZ project will be extremely beneficial for use in such a project, if funding is approved.
+
+The first step is to create a trial classification in the Taylor and Wright valleys because of the high ratio of soil and climate data points. If this trial is successful, extending the classification to the RSR should be attainable, depending on the ability to interpolate climate accurately over such a wide area. For this to happen more data must be located and analysed to ascertain their worth. Another option would be the deployment of additional climate stations located in areas currently lacking stations.
+
+While it is feasible, at this stage, to perform a classification across the entire region, classification will be severely limited by a lack of data. Once this report is more widely available in Antarctic research and policy circles, it is hoped more soil and climate data will become available. Once a threshold has been reached in both the amount of data and the spatial and temporal coverage over the region, the resulting classification of the RSR will be of a much higher quality and more useful to the end users.
+
+
+
+
+
+7.	References
+
+Belbin, L. 1993: Environmental representativeness: regional partitioning and reserve selection. Biological Conservation 66: 223–230.
+
+Bockheim, J.G. 2002: Landform and soil development in the McMurdo Dry Valleys, Antarctica: a regional synthesis. Arctic Antarctic & Alpine Research 34: 308–317.
+
+Campbell, I.B.; Claridge, G.G.C. 1987: Antarctica: Soils, Weathering and Environment. Amsterdam, Elsevier.
+
+Campbell, I.B.; Claridge, G.G.C.; Campbell, D.I.; Balks, M.R. 1998: The soil environment of the McMurdo Dry Valleys, Antarctica. Antarctic Research Series 72: 297–322.
+
+Faith, D.P.; Nix, H.A.; Margules, C.R.; Hutchinson, M.F.; Walker, P.J.; West, J.; Stein, J.L.; Kesteven, J.L.; Allison, A.; Natera, G. 2001: The BioRap biodiversity assessment and planning study for Papua New Guinea. Pacific Conservation Biology 6: 279–288.
+
+Fountain, A.G.; Lewis, K.J.; Dana, G.L. 1996: McMurdo Dry Valleys LTER: Spatial variation of glacier mass balance in Taylor Valley, Antarctica. Antarctic Journal of the U.S. 31(2): 194–195. 
+
+Kirkpatrick, J.B.; Brown, M.J. 1994: A comparison of direct and environmental domain approaches to planning reservation of forest higher plant communities and species in Tasmania. Conservation Biology 8: 217–224.
+
+Leathwick, J.R. 1995: Climatic relationships of some New Zealand forest tree species.  Journal of Vegetation Science 6: 237–248.
+
+Leathwick, J.R. 1998: Are New Zealand’s Nothofagus species in equilibrium with their environment? Journal of Vegetation Science 9: 719–732.
+
+Leathwick, J.R.; Whitehead, D. 2001 Soil and atmospheric water deficits and the distributions of New Zealand’s indigenous tree species. Functional Ecology 15: 233–242.
+
+Leathwick, J.R.; Morgan, F.; Wilson, G.; Rutledge, D.; McLeod, M.; Johnston, K. 2003a: (in press). Land Environments of New Zealand – A Technical Guide. Wellington, Ministry for the Environment. 237 p.
+
+Leathwick, J.R.; Wilson, G.; Rutledge, D.; Wardle, P.; Morgan, F.; Johnston, K.; McLeod, M.; Kirkpatrick, R. 2003b: (in press). Land Environments of New Zealand. Auckland, David Bateman. 183 p.
+
+Liu, H.; Jezek, K.; Li, B.; Zhao Z. 2001: Radarsat Antarctic Mapping Project Digital Elevation Model Version 2. Boulder, CO: National Snow and Ice Data Center. Digital media.
+
+Mackey, B.G.; Nix, H.A.; Hutchinson, M.F.; McMahon, J.P.; Fleming, P.M. 1988: Assessing representativeness of places for conservation reservation and heritage listing. Environmental Management 12: 501–514.
+
+McCraw, J.D. 1967: Soils of the Taylor Dry Valley, Victoria Land, Antarctica, with notes from other localities in Victoria Land. New Zealand Journal of Geology and Geophysics 10: 498–539.
+
+Walton, D.H.M. 2002: Editorial. How do we know that the Antarctic environment is fine? Antarctic Science 14: 113.
+
+Waterhouse, E.J. ed. 2001: Ross Sea region 2001. A State of the Environment Report for the Ross Sea region of Antarctica. Christchurch, New Zealand Antarctic Institute.
+

@@ -1,0 +1,82 @@
+ANTARCTIC TREATY              
+XX CONSULTATIVE MEETING              
+
+TRAITE SUR L'ANTARCTIQUE              
+XXe REUNION CONSULTATIVE              
+
+TRATADO ANTARTICO              
+XX REUNION CONSULTIVA              
+
+ДОГОВОР ОБ АНТАРКТИКЕ              
+XX КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ              
+
+                                      
+XX ATCM/INF 93            
+May 1996          
+English            
+Original: Spanish            
+
+ASSESSMENT OF THE TROPOSPHERE AND STRATOSPHERE
+
+(Agenda Item 13)          
+(Submitted by Peru)          
+ASSESSMENT OF THE TROPOSPHERE AND STRATOSPHERE
+
+At the XII Congress of the World Meteorological Organization (WMO), held in Geneva, Switzerland, from May 30 to June 21, 1995, the persistent failings of the Antarctic telecommunications monitoring networks were pointed out, particularly the lack of surface monitoring in most of the western Antarctic area, the decreasing number of high altitude stations and the delays between the time of monitoring and the entry of data into the World Telecommunications System (WTS). It was also mentioned that data from the Antarctic Basic Synoptic Network must reach the major centers of WTS' main telecommunications network and other Antarctic Stations within three hours.
+
+The Congress considered that the establishment of remote automatic meteorological stations, as well as international cooperation to continue carrying out monitoring activities in existing stations, will improve the monitoring network.
+
+The Office of Aeronautical Meteorology (DIRMA) of the Peruvian Air Force, in keeping with Peru's medium-term Antarctic Scientific Research Plan and with WMO recommendations, has been developing projects in synoptic meteorology and climatology.
+
+The following activities are being carried out in each project:
+
+  ● Operational activities. They are aimed at giving the meteorological support required to safely implement the expeditions' land, maritime and air operations; these activities require meteorological, regional, surface and altitude information obtained through WTS and through real-time satellite information.
+
+  ● Climate activities. They are aimed at examining the average behaviour of the atmosphere and its climate variations, and collecting information, from the perspective of surface and altitude, on the spatial and temporal distribution of phenomena which have an adverse impact on air and maritime navigation and put the expeditions at risk, both in their planning and implementation stages.
+
+To that end, and in order to help establish the new monitoring systems, Peru proposes the following objectives:
+
+    A. Probing the atmosphere at the tropospheric and stratospheric levels.
+
+    B. Assessing the physical and chemical composition of the stratosphere.
+
+    C. Reviewing the dynamics of the troposphere, particularly the boundary layer.
+
+We plan to use a Radio Probing Station with hydrogen derivatives.
+
+Environmental Impact Assessment (EIA)
+
+Under Article 8 of the Protocol on Environmental Protection to the Antarctic Treaty, these activities will have less than a minor or transitory impact.
+2
+
+Methodology
+
+Through probing processing software, we shall be able to assess:
+
+    A.  The atmospheric indexes prevailing throughout the region.
+
+    B.  The most important adiabatic processes.
+
+    C.  An estimate of the geopotential altitude of the ten mandatory pressure 
+        levels.
+
+    D.  An estimate of the pressure layers' thicknesses:
+            500     - 300 hPa
+            700     - 500 hPa
+            850     - 500 hPa
+            850     - 700 hPa
+            1000    - 500 hPa
+            1000    - 700 hPa
+            1000    - 850 hPa
+
+    E.  Thermal inversion layers (base, top, type and break-point temperature).
+
+    F.  Freezing level.
+
+    G.  Freezing layers (base, top and intensity).
+
+    H.  Turbulence layers (base, top and cutting wind).
+
+    I.  Data on maximum wind.
+
+    J.  Tropopause level data.

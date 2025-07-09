@@ -1,0 +1,176 @@
+ 
+ 
+Inventory of Locations of Past 
+Scientific Activities of Germany in 
+Antarctica 
+ 
+ 
+ 
+ 
+1. Background 
+ 
+The Protocol of Environmental Protection to the Antarctic Treaty (the Protocol) entered into 
+force on 14 January 1998. As a consequence, the Contracting Parties are now obliged to 
+implement the provisions of the Protocol including the preparation of an inventory of past 
+activities in Antarctica. Article 8, paragraph 3 of Annex III of the Protocol reads:  
+ 
+ 
+Each Party shall, as far as it is practicable, also prepare an inventory of locations 
+of past activities (such as traverses, fuel depots, field bases, crashed aircraft) before 
+the information is lost, so that such locations can be taken account in planning 
+future scientific programmes (such as snow chemistry, pollutants, in lichens or ice 
+core drilling). 
+ 
+ 
+Under Article 9, paragraph 1, reporting of the inventory should be included in the annual 
+exchange of information. Article 9 - Circulation and review of waste management plans - states 
+in paragraph 1: 
+ 
+ 
+The waste management plans prepared in accordance with Article fl reports on their 
+implementation, and the inventories referred to in Article 8 (3), shall be included in 
+the annual exchange of information in accordance with Articles III and VII of the 
+Antarctic treaty and related Recommendations under Article IX of the Antarctic 
+Treaty. 
+1 
+ 
+2.  Aim 
+ 
+As outlined in Annex III (Art. 8; para. 3) the inventory should build a basis in the planning of 
+future scientific programmes (relating, e.g., to snow chemistry, pollutants, lichens or ice core 
+drilling). 
+ 
+Contracting Parties are required to prepare such an inventory of past activities and to include 
+this information into the annual exchange of information (Art. 9, para 1, Annex III). 
+ 
+This paper summarises the results of a project to develop an inventory documenting locations 
+of former German scientific activities in Antarctica. The project was initiated in 1998. 
+ 
+Information has been compiled for an inventory with respect to the following questions: 
+ 
+• Where and when have permanent or temporary stations, field camps, fuel depots or other 
+logistic equipment been established? 
+ 
+• Which have been the areas primarily investigated in Antarctica? 
+ 
+• Which kind of transportation has been used to reach the areas? 
+ 
+• How many people have been involved and which kind/ size of machinery/equipment has 
+been used at different locations? 
+ 
+• Are there known chemical contaminations (effects) and deposits (e.g. aircraft wreckages, 
+waste depots) as a result of the activity and what is there magnitude? 
+ 
+ 
+3. Methods and Materials 
+ 
+In order to realise the aim of the inventory a stepwise hierarchical procedure was chosen to 
+handle the information available. The procedure comprises a first preliminary, a second 
+principal and a third follow-up documentation period (figure 1). The upper box in this figure 
+indicates the current stage of realisation. 
+ 
+The first step in this preliminary documentation period has been to define the priority of 
+features to be integrated in the inventory. Permanent scientific activities and activities resulting 
+in chemical (material) or physical stress to the Antarctic environment have been given the 
+highest documentation priority. In addition, further focus was given to gather as much as 
+possible meta-inforrnation about past German activities in Antarctica. 
+2 
+ 
+The inventory has been designed as a combination of text report, database and Geographical 
+Information System (GIS). The aim has been to realise an easy-to-use desktop application that 
+fulfills the needs of further usage of the inventory (e.g. by the Federal Environmental Agency 
+or other institutions). This Antarctic Location Information System (ALIS) comprises GIS 
+ArcView® and Microsoft Access®, which are dynamically linked. 
+ 
+3 
+ 
+The documentation methods applied have been restricted to literature and WWW search so far. 
+Intensive personal contacts during the whole project contributed to the proper usage of the 
+information available. Main contact partners in this process have been the institutions co-
+ordinating German Antarctic research activities - the Alfred-Wegener-Institute of Polar and 
+Marine Research (AWI) in Bremerhaven and Potsdam, and the Federal Institute for Geoscience 
+and Natural Resources (BGR) in Hannover. 
+ 
+In order to guarantee the demands of international information exchange, the documentation 
+results were classified according to the Antarctic Digital Database (ADD). In parts it has been 
+already necessary to extend the existing ADD classification system. 
+ 
+4. Results/Content 
+ 
+At the present state the geographical database of ALIS contains all recent and historic 
+permanent scientific stations, including additional logistic information. In total, the inventory at 
+present contains 38 scientific stations and 36 further locations visited by German scientists 
+(such as fuel depots, camps, air craft wreckage etc.), which were classified with high 
+documentation priority. ALIS also contains all Antarctic cruises of the research vessel, RV 
+Polarstern" with detailed information about research topics, logistics etc.. As an example some 
+locations of icecore drilling (samples) of the EPICA project are integrated in ALIS (see figure 
+3). 
+ 
+The main body of ALIS consists of meta-data stored in the MS Access® database. All German 
+research campaigns (191 in total) and related meta-information are documented in ALIS. The 
+campaigns are classified into vessel, aircraft and terrestrial campaigns. Furthermore, about 
+1.5OO projects listed in the German SCAR Reports also have been integrated into the database. 
+ 
+An important part of relevant information in ALIS are addresses of German principal 
+investigators and research institutions that formerly worked in Antarctica. The institutions 
+comprise federal research coordinating institutions, national research centres and departments 
+and logistic companies. 
+ 
+The campaigns and projects are attributed by about 1OO major geographical regions. The aim 
+is to geocode these in the GIS database as has already been done for the. Polarstern cruises. 
+ 
+Another important aim was to receive information about known environmental pollution and 
+stress in Antarctica. The available information for German research location surroundings is 
+quite sparse. One known problem has been the waste management of former German 
+Democratic Republic research stations. By carrying out a more then 1,5 Million $US 
+4 
+costing ecology programme, the most problematic site, the Georg-Forster-Station and its waste 
+disposals, were fully removed and cleaned up. 
+ 
+5 
+6 
+5. Discussion and further suggestions/Proposal 
+ 
+As expected, the study has shown that the documentation level of locations of former activities 
+in Antarctica is quite different (disperse). On the one hand detailled information is available on 
+permanent locations as e.g. scientific stations, waste disposal etc., on the other hand detailled 
+information on temporary locations of e.g. field camps of biological or geological 
+investigations is sparse. To build up a comprehensive inventory it is necessary to explicitly 
+define priorities for further data acquisition in the main documentation period. After all, it is 
+clear that there is a limited temporal and spatial precision in locating research activities. In 
+many cases it will not be possible to give more than even vague specifications of what has been 
+done where and when, but in other cases we have enough information. 
+ 
+The applied methodology has proven to be appropriate and successful. Especially the 
+hierarchical procedure as outlined in fig. 1 is suggested for international application. 
+ 
+It should be noted that an optimal use of the information of the inventory for future research 
+activities can only be realised if the inventory is extended and linked with inventories of other 
+Antarctic Treaty Parties. The development of ALIS is providing an operational technical 
+framework for international information exchange. In parts it has been already necessary to 
+extend the existing ADD classification. Therefore, it is suggested to ask SCAR to set up a 
+working group to elaborate an extended ADD classification. 
+ 
+In personal communications with several German scientists it was pointed out that an 
+international inventory would be of high scientific interest. An inventory containing 
+information of international research activities, which could be used by all Contracting Parties, 
+would be of great scientific value. For that goal it would be necessary for the national 
+inventories of past activities to be compatible. To realize this, a co-ordination of technical 
+properties as well as regards content of such inventories would be appropriate at an early stage. 
+ 
+6. Action requested 
+ 
+ATCP's are invited 
+ 
+1. to take note of the information to the ,,Inventory of Locations of Past Scientific Activities of 
+Germany in Antarctica". 
+ 
+2. to discuss the possibilities of international co-ordination of technical properties as well as 
+the content of such inventories at an early stage to improve the international information 
+exchange. 
+ 
+3. to discuss whether the technical framework of the database and GIS (ALIS) could be used 
+as a operational basis for the development of other national inventories. 
+ 
+4. to ask SCAR to deal with the elaboration of an extended ADD and set up a working group 
+for this issue. 

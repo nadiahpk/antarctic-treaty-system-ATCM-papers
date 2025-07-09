@@ -1,0 +1,177 @@
+﻿
+
+
+
+
+
+Designation of a new Marine Protected Area for the South Orkney Islands southern shelf
+
+
+
+
+
+Designation of a new Marine Protected Area for the           South Orkney Islands southern shelf
+Information Paper submitted by the United Kingdom
+Agenda Item ATCM 4 / CEP 7(e)
+1. Summary
+In 2009, CCAMLR approved the designation of the South Orkney Islands southern shelf as its first high seas Marine Protected Area (MPA) (CCAMLR-XXVIII Report, paragraph 7.1). The provisions for protection and management of the area through CCAMLR Conservation Measure 91-03 (2009), and a proposal for how it could be afforded complementary protection through the adoption of an ATCM Measure, are described in ATCM XXXIII Working Paper 044. This Information Paper provides further details and background on the selection of the area, the values to be protected, and the biological and physical characteristics of the area.
+2. Introduction
+The South Orkney Islands lie within one of the 11 priority regions identified by CCAMLR, in which it has agreed that further work to identify marine areas for protection should be focused (CCAMLR-XXVII Report, paragraph 7.2). The South Orkney Islands priority region was selected as a pilot study area in which to investigate approaches to the identification of candidate areas for protection (Grant et al., 2008), because of its key importance as a component of the wider Scotia Sea ecosystem (Murphy et al., 2007), the variety of human activities occurring in the region, and the relative availability of biological data for this region in comparison to other areas of interest. 
+Following endorsement of the methodology by SC-CAMLR and the CEP (SC-CAMLR-XXVII Report, paragraph 3.55; CEP XII Report, paragraph 170), a candidate area for protection to the south of the South Orkney Islands was proposed by the United Kingdom in 2009. The proposed area was approved at CCAMLR-XXVIII based on advice provided by the Scientific Committee and its Working Groups, and it was designated as a Marine Protected Area through CCAMLR Conservation Measure 91-03 (2009). The overarching aim of the MPA is to contribute towards the conservation of marine biodiversity and the development of representative marine spatial protection for this region.
+3. Selection of a candidate area for protection
+A systematic conservation planning approach (Margules & Pressey, 2000) was used to select a candidate area for protection (see previous work presented in ATCM XXXI IP3 and ATCM XXXII IP11). This approach is based on the need to conserve a representative sample of a region’s biodiversity within protected areas, and to ensure the persistence of that biodiversity through conservation and management measures (Cowling et al., 2003; Lombard et al., 2007). 
+Spatial data on biodiversity and physical/environmental features were collated to provide a basis for the systematic conservation planning analysis.1 Regional conservation objectives for the waters surrounding the South Orkney Islands were then defined based on principles agreed by the CCAMLR MPAs Workshop (2005). Using this information, conservation targets for each dataset were defined for application in the reserve selection analysis using Marxan software (Game & Grantham, 2008). 
+To identify whether and how the defined conservation objectives are being met, and to assist with planning additional protection and management measures, it is important to identify any existing protected or managed areas designated within the region. A basic gap analysis was undertaken to investigate whether the full range of conservation objectives is currently met by the existing protected and managed areas in the South Orkney Islands region (Table 1). It was concluded that there remain significant gaps in the achievement of these objectives. The three existing ASPAs represent examples of coastal and nearshore ecosystems, however they make little contribution towards the objectives of a representative network of protected areas for all major marine ecosystems in this region. With the exception of CCAMLR fisheries management measures established in Subarea 48.2, there are no marine spatial protection measures established in offshore pelagic areas. 
+
+Table 1: Achievement of conservation objectives through existing protection and management measures in place in the South Orkney Islands region
+
+CONSERVATION OBJECTIVE
+CCAMLR Conservation Measure       32-03 (1998) Prohibition of all fishing for finfish in 48.2
+[Krill catch allocation in CCAMLR Small Scale Management Units – not yet effective]
+ASPA No. 109 Moe Island
+ASPA No. 111 Southern Powell Island
+ASPA No. 114 Northern Coronation Island
+ATCM Visitor Site Guidelines for Shingle Cove
+Conservation of biodiversity
+
+[]
+
+(terrestrial)
+
+(terrestrial/ nearshore)
+
+(terrestrial/ nearshore)
+
+Maintenance of ecosystem function
+
+[]
+
+
+
+
+Representative areas   
+
+
+
+(terrestrial)
+
+(terrestrial/ nearshore)
+
+(terrestrial/ nearshore)
+
+Vulnerable areas
+
+
+
+
+
+
+(terrestrial)
+Scientific  reference areas
+
+
+
+(terrestrial)
+
+
+(terrestrial/ nearshore)
+
+Important ecosystem processes
+
+[]
+
+
+
+
+Unique / rare areas
+
+
+
+
+
+
+High biodiversity
+
+
+
+
+
+
+Increase resilience to climate change
+
+[]
+
+
+
+
+Areas kept inviolate from human disturbance
+
+
+
+
+ 
+(terrestrial/ nearshore)
+
+Multiple-use areas to coordinate activities
+
+
+
+
+
+
+
+The next stage in the systematic conservation planning process was to identify areas which can be given appropriate protection or management to meet the conservation objectives identified as gaps in Table 1. Analysis using the systematic conservation planning methodology together with Marxan reserve selection software identified pelagic areas of conservation importance across the South Orkney Islands region, based on conservation objectives defined for this region (see Grant et al., 2008 and 2009 for a detailed explanation of the methodology). 
+The areas of conservation importance identified in the Marxan analysis do not represent a definitive ‘solution’ to the question of where protected areas should be located, but they provided a useful starting point to inform further discussion and decision-making. Other information on practical feasibility, and biological or environmental features not captured in the spatially continuous datasets used by Marxan was therefore considered alongside these outcomes in order to select candidate areas for protection and management.
+The Marxan output and additional data on biological and physical/environmental features (e.g. Figures 1 and 2) were used to select core regions for protection which would represent some of the four pelagic bioregions, as well as capturing major ecosystem processes such as ocean fronts, different ice conditions, and highly productive areas. Three design rules were employed, based on those used by Lombard et al. (2007) in the development of a marine protected area around the Prince Edward Islands: 
+    1. Minimise the area required to meet the objectives
+    2. Avoid overlap of proposed protected areas with current fishing activities where choices exist, but do not compromise biodiversity targets.
+    3. Use practical boundaries, e.g. by using straight lines, and exact degrees and minutes where possible. 
+ 
+Following these design rules, a candidate area for protection was proposed in the region to the south of the South Orkney Islands (Figure 1). This area encompasses examples of two of the pelagic bioregions in CCAMLR Subarea 48.2, as well as a significant proportion of penguin foraging areas to the south of the islands. Productive areas on the shelf edge, important benthic shelf habitats, and a range of different sea ice conditions are also included in the proposed area. Predators foraging from the South Orkney Islands have a high priority for conservation, particularly in the context of current and potential future pressures such as fishing and climate change. Among those identified in the Marxan analysis, this area was therefore prioritised as a candidate area for protection, because of its predictable importance for penguin foraging. 
+CCAMLR has defined Small-Scale Management Units (SSMUs) in Subarea 48.2 for management of the krill fishery; however subdivided catch limits to prevent localised depletion of krill for predators have yet to be determined. Additional spatial protection was not therefore proposed in the shelf area at this stage because of the ongoing CCAMLR process to manage the krill harvest within these (and other) SSMUs. A small area in the north of the MPA has also been excluded at this stage because of an existing experimental harvest regime for an exploratory crab fishery in Subarea 48.2 (CCAMLR Conservation Measure 52-02, 2009).
+
+
+Figure 1:	LEFT PANEL: Pelagic bioregions and combined tracks of chinstrap and Adélie penguins, with existing CCAMLR management areas (SSMUs shown as thin black line, and operational area for experimental harvest regime for crab fishery shown as thin blue line); RIGHT PANEL: South Orkney Islands southern shelf MPA adopted by CCAMLR (thick black line), with the Marxan output (from Figure 1) shown in the background. 
+
+4. Description of the Marine Protected Area
+The South Orkney Islands southern shelf MPA (as shown in Figure 2) was designated by CCAMLR at its meeting in 2009 (see ATCM XXXIII WP044). The objectives of the MPA are to:
+    • Contribute towards the conservation of pelagic and benthic biodiversity in the South Orkney Islands region;
+    • Form part of a representative network of protected areas across the Scotia Sea region and the wider Southern Ocean;
+    • Maintain important ecosystem processes including ocean frontal systems and primary productivity;
+    • Provide an area that is inviolate from human disturbance;
+    • Provide a scientific reference area, adjacent to fished areas in other parts of CCAMLR Subarea 48.2;
+    • Increase the resilience of this area and the species within it to the possible impacts of climate change.
+
+The following section describes the values being protected by this MPA, and the biological and physical characteristics of the area. 
+
+General description, boundaries and geographic coordinates
+The South Orkney Islands are located approximately 600 km northeast of the Antarctic Peninsula, in the Scotia Sea. The Scotia Sea region is dominated by the eastward flow of the Antarctic Circumpolar Current (ACC) and waters from the Weddell-Scotia Confluence (WSC) (Murphy et al., 2007). Primary production in the region is high, and phytoplankton is consumed by a range of species including Antarctic krill (Euphausia superba), which supports large seabird and marine mammal populations (Murphy et al., 2007).
+The South Orkney Islands shelf area extends approximately 150 km offshore to the south of the archipelago, with a very narrow shelf and deep trench to the north of the islands. The shallows of this wide shelf area are seasonally very productive, with faunal assemblages similar to those found elsewhere in Southern Ocean shelf areas, especially the Antarctic Peninsula (Barnes et al., 2008).
+The South Orkney Islands southern shelf MPA is bounded by a line starting at 61°30'S 41°W, thence due west to 44°W longitude, thence due south to 62°S, thence due west to 46°W, thence due north to 61°30'S, thence due west to 48°W longitude, thence due south to 64°S latitude, thence due east to 41ºW longitude, thence due north to the starting point. The MPA covers a total area of 93,840 km2, (approximately 10% of the total area of CCAMLR Subarea 48.2), with a depth range from around 300 m in the north to 4500 m in the southeast of the area. 
+Biogeography
+The South Orkney Islands southern shelf MPA incorporates representative examples of two of the 14 pelagic bioregions defined by CCAMLR in 2007. The northern part of the area includes part of the Antarctic Shelves bioregion, while the southern part is dominated by the Weddell Gyre bioregion. The Antarctic Shelves bioregion extends around most of the Antarctic continent, immediately adjacent to the coast. Across the Southern Ocean, this bioregion has a mean depth of 520 m and mean sea surface temperature of -1.15°C, and it has a relatively high level of environmental dissimilarity to the other pelagic bioregions (Grant et al., 2006). The Weddell Gyre bioregion occurs across most of the Weddell Sea, extending eastwards from the Antarctic Peninsula to around 20°E. In contrast to the Antarctic Shelves bioregion, it has a mean depth of 4466 m and mean sea surface temperature of -0.68°C (Grant et al., 2006).
+Physical oceanography and sea ice
+The Scotia Sea region is characterized by a narrowing of the ACC as it passes through the Drake Passage.
+Strong currents, eddies, and mixing associated with interface of the ACC and the Weddell Sea Confluence (WSC) occurs  in the western Scotia Sea, while to the east there is a broadening of the ACC and influence of the Weddell Gyre. The bathymetry of the Scotia Sea carries the flow of the ACC northwards, resulting in transport of nutrients and larvae which is critical to ecosystem function in the region. The Weddell Front is a major component of the WSC, thought to originate from a branching of the Antarctic Slope Front close to the northwestern limit of the Weddell Sea (Heywood et al., 2004). This front passes through the centre of the MPA, following the shelf edge (Figure 3). Extensive summer phytoplankton blooms around island groups such as the South Orkney Islands probably results from the mixing of micronutrients with surface waters through the flow of the ACC and WSC as they pass over the Scotia Arc, and these support abundant populations of higher predators.
+
+Figure 2:	Mean positions of the Weddell Front (yellow) (Thompson et al., 2009), Southern 		ACC Front (red), and the southern boundary of the ACC (green). The South 		Orkney Islands southern shelf MPA is also shown (black box).
+
+The waters surrounding the South Orkney Islands are anomalously cold for their latitude because of the influence of the Weddell Sea gyre immediately to the south (Clarke & Leakey, 1996). The South Orkney Islands lie to the south of the mean maximum extent of sea ice, with at least 15% sea ice concentrations for 6  months of the year in the northern part of the MPA, and up to year round in the southern part. Interannual variability in winter sea ice distribution and sea surface temperatures are linked to large-scale climate processes in the southern hemisphere such as the El Niño Southern Oscillation (ENSO) (Murphy et al., 2007).
+Marine birds and mammals
+Barnes et al. (2008) recorded 40 bird species and 16 mammal species occurring in the South Orkney Islands shelf region, most of which are likely to be found within the MPA.  The South Orkney Islands support large breeding colonies of seabirds and seals, the majority and largest of which occur on the southern coasts of the islands (Figure 4). Adélie and chinstrap penguins breed on all three of the main islands, with gentoo penguins also present to a lesser extent. Individuals from these colonies forage mainly to the south of the islands (Figure 2), and the MPA is an important location for winter foraging in particular.
+Ainley et al., (1994) reported two major seasonally persistent assemblages of birds in the WSC region; the first occurring in the pack-ice zone (e.g. in the southern part of the MPA), consisting of Adelie penguins, snow petrels, Antarctic petrels, kelp gulls and Antarctic fulmar, and the second assemblage in near-to-ice open water, including chinstrap penguins, Antarctic prions and several small petrel species. Veit & Hunt (1992) also found aggregations of birds such as black-browed albatross and Antarctic fulmars occurring near oceanographic fronts in the region. The inclusion of the Weddell Front and a range of sea ice conditions within the MPA provides an important representation of different bird assemblages characteristic of this region.
+
+
+Figure 3:		Locations and sizes of Adélie, gentoo and chinstrap penguin colonies on the South Orkney Islands (data from Ratcliffe & Trathan, in prep)
+
+
+Benthic ecosystem
+The South Orkney Islands are situated on a submarine ridge which extends eastward to form the southern boundary of the Scotia Sea. The southern part of the MPA includes seamounts and seamount ridges. In the first complete faunal estimate for an archipelago south of the Polar Front, Barnes et al. (2008) reported 1026 marine species known from the South Orkney Islands shelf, of which 822 (83%) were benthic species. The South Orkney Islands shelf is around 1% of the total Antarctic shelf area, however it constitutes a fifth of total known Southern Ocean marine species richness. This high level of marine richness may be due to a combination of recruitment supply by the ACC flowing directly from the Antarctic Peninsula, a relatively recent historical connection to the Antarctic Peninsula, and its position bordering both Weddell Sea and Scotia Sea faunas (Barnes et al., 2008).
+Human activities and impacts
+The South Orkney Islands southern shelf MPA includes an area that is not regularly used by ship traffic, and has experienced relatively little historic human activity. Krill fishing in the region has been concentrated on the shelf area immediately to the south of the islands, and further offshore to the north and west (CCAMLR, 2006). Although some krill fishing has occurred in the northern part of the MPA, this has been limited to relatively small and infrequent catches. An experimental harvest regime for an exploratory crab fishery in Subarea 48.2 was agreed by CCAMLR in 2008, although no harvesting has yet taken place. Management units for this exploratory fishery are adjacent to the northern part of the MPA. Fishing for fin-fish has been prohibited throughout CCAMLR Subarea 48.2 since 1998 (CCAMLR Conservation Measure 32-03).
+
+
+
+
+References
+

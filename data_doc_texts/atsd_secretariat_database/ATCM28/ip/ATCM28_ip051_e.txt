@@ -1,0 +1,17 @@
+﻿WIND POWER IN ANTARCTICA
+A feasibility study for Wasa
+WIND POWER IN ANTARCTICA
+A feasibility study for Wasa
+By Sweden
+
+Introduction
+The Swedish Polar Research Secretariat is developing a technical platform to enable scientific monitoring all the year round, remotely controlled, at the two Swedish Antarctic summer stations Wasa and Svea. One of the main challenges is the power supply, which was further investigated 2004 by Anna Lindquist in a master’s thesis from Uppsala University, Division for Electricity and Lightning Research, Sweden
+
+Abstract
+The Swedish Polar Research Secretariat maintains two research stations in Antarctica, Wasa and Svea. They are both small, summer-only stations that are manned a few months at a time during the regular expeditions to the continent. Recently, Swedish scientists asked for the possibility to make around-the-year measurements with automatic equipment at the two stations. Since Wasa and Svea are only manned occasionally, this request implies the need for a new power supply system. The demands imposed on this new, separate system are hard. The continent is the coldest, windiest and driest on earth and the power supply system must be designed to withstand the harsh conditions. Since there is no personnel present during the Antarctic winter, the system also has to be autonomous and very reliable.
+
+More and more nations are revising their power supply systems in order to find substitutions for the conventional diesel generators, and wind power has been installed at several stations and has worked well in many cases. This master thesis project is a feasibility study aimed at investigating whether wind power is a convenient solution in a separate power supply system at Wasa.
+
+During the project, wind data from weather stations in Antarctica have been used to map the wind resources at the two research stations. Although more accurate wind measurements would be needed for a complete evaluation of the wind resources, it can be seen that the prerequisites for wind power are good at Wasa. The wind is very directional, the wind speeds are moderate and the temperatures not too low. A wind turbine modified for the climate in Antarctica should function well at Wasa, in combination with a battery bank with NiCd batteries. Two turbines that fulfil most of the demands imposed on them and that seem to perform well in the conditions at Wasa were found, one 6 kW unit and a smaller 1 kW turbine. The choice between the two different models is a compromise between the benefits of a system with a few large turbines and the benefits of a system with a greater number of small units.
+
+The complete report can be downloaded from the Swedish Polar Research Secretariat website at; http://www.polar.se/english/technology/index.html. For further information, or a printed version of the complete report, contact Sven Lidström, Technical Officer, e-mail sven.lidstrom@polar.se.

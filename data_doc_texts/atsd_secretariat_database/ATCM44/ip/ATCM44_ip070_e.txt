@@ -1,0 +1,142 @@
+Energetic modernisation of the German Neumayer-Station III
+Energetic modernisation of the German Neumayer-Station III
+Information Paper submitted by Germany
+Introduction
+Climate change due to increased anthropogenic CO2 emissions is
+one of the most important and increasingly obvious factors
+influencing the state of the Antarctic environment. Reports like the
+IPCC Special Report on the Ocean and Cryosphere in a Changing
+Climate and the updates provided by SCAR of its Antarctic Climate
+Change and the Environment reportsee ATCM XLIV Agenda Item 16
+and CEP XXIV Agenda Item 7 and SCAR Lecture at ATCM 2022
+show that the climate of the Antarctic and Southern Ocean is
+undergoing rapid change, which is expected to continue into the
+future.
+ATCM and CEP have over the last years adopted several
+Resolutionse.g. Resolution 8 (2021) "Antarctica in Changing
+Climate" and programmese.g. the CEP Climate Change Response
+Work Programme in order to combat and mitigate climate change.
+In the light of this, Germany has investigated the energetic
+modernisation of the German Neumayer-Station III with a view to
+increasing the utilisation of renewable energy sources, thereby
+enhancing renewable energy technologies and reducing operational
+costs.
+1. Characteristic of Neumayer-Station III
+Neumayer Station III is the third German research station to be
+operated as a year-round station in Antarctica at about 70°35'S /
+8°20'W on the Ekström shelf ice at the eastern exit of the Weddell
+Sea near Atka BaySee https://www.awi.de/en/expedition/stations/
+neumayer-station-iii.html . While the first two stations were built in
+a tubular tunnel construction submerged into the shelf ice, a
+fundamentally different construction principle has been
+implemented since 2009 with the Neumayer Station III (NM III).
+The station was built as a free-standing island station above a
+roofed garage on top of the drifting ice shelf. As a result of snow
+accumulation, the ground level at the site experiences an annual
+elevation of approx. 100 cm. In order to avoid submersion, the
+station building and all outdoor installations have to be lifted at
+regular intervals. The corresponding technologies have been
+developed. The NM III itself can be lifted via its 16 hydraulic stilts /
+legs. For all other equipment, such as wind turbines, special lifting
+and crane facilities are available at the station. All structures are
+built on firn ice, which despite special foundations limits their
+overall size and height (e.g. of new wind turbines).
+2. Energetic modernisation of Neumayer-Station III
+A modern energy concept was already developed and installed
+during the construction of NM IIIXXXII ATCM IP 114: Neumayer
+Station III Completion of construction and start of pilot operation in
+February 2009. The energy efficiency of the diesel fuel used at NM
+III was significantly increased compared to that of Neumayer-
+Station II (NM II). Although the new station has more than twice as
+much usable space as its predecessor and is also directly exposed to
+the weather (i.e. wind and low temperatures), the additional
+specific fuel requirement (litres/year/m²) is only about 54 percent
+compared to NM II (see Table 2).
+NM II in 2006
+NM III averaged per year (2011 -2021)
+Total consumption [litres]
+190.152
+242.020
+Heated floor space [m²]
+914
+2.118
+Specific consumption [litres/year/m²]
+208
+114
+Table 2: Fuel consumption comparison Neumayer-Station II and
+Neumayer-Station III
+These favourable operating values are achieved in the combination
+of:
+- efficient energy management to utilise the electrical and thermal
+energy of the combined heat and power plant (CHP) units;
+- heat recovery from the exhaust air of the container modules and
+the power station;
+- use of a special wind turbine suitable for the specific Antarctic
+conditions at NM III.
+After 12 years of safe operation of the NM III station, the energy
+technology is to be successively renewed in the coming years. After
+a detailed inventory of the energy flows and requirements, a
+feasibility study (FS) was carried out to assess the potential and
+practicability of new alternative and environmentally friendly
+technologies to be used under polar conditions. The main target
+parameters of the subsequent optimisation investigations and
+calculations were the CO2 emissions and the total annual costs. In
+addition, the concept variables were dynamically simulated and
+analysed in detail using a Transient System Simulation Tool
+(TRNSYS), which allowed examination of concept variants and
+expansion states as well as dedicated parameter studies.
+3. Key statements of the feasibility study
+Economic and environmental optimum: In order to achieve an
+economic and environmental optimum when upgrading the
+operating technology, a balance between available renewable
+energy, thermal and electrical energy consumption and the
+respective installation costs has to be achieved. In the case of NM
+III, new combined heat and power plants (CHPs), additional wind
+turbines, photovoltaic (PV) plants and thermal and electrical
+storage systems are recommended.
+A battery electrical storage system (BESS) and a heat storage
+system: Both systems will primarily be used to optimise the running
+time of the CHP units. The feature to shift energy quantities from
+times of wind power generation to times of demand is very limited.
+The evaluation of the available wind field around NM III shows that
+the duration of lulls (times with small wind speeds or no wind)
+would require a BESS in the MWh range to ensure a high level of
+self-sufficiency of the station.
+Power-to-heat technologies: With an increasing shift of the primary
+energy source from fossil energy to renewable electrical energy, the
+capacity of the heating register to generate thermal energy, to melt
+snow and heat the building, needs to be increased.
+Combined heat and power plants: In order to provide a safe energy
+supply, the provision of thermal and electrical energy from CHP
+units will continue. However, 2 module sizes are used in order to
+cover the energy demand (above the yield generated by renewable
+energy) adequately.
+General: With increasing contribution of renewable energy, the
+electric power demand in the system increases, whereas the share of
+CHP units in covering the heat demand decreases from approx.
+100% to a maximum of 56%. The heat demand is covered by
+power-to-heat technologies (e.g. electric heating coils) and no
+longer only by recuperating the waste heat from the CHP units. The
+share of renewable energy in the total electricity demand increases
+from currently 5% to up to 73% (depending on the chosen options
+and configuration levels).
+4. Start of upgrade
+The feasibility study clearly showed that the wind turbine is the
+most important component of the conversion to renewable energy
+production at NM III. For this purpose, a suitable Vertical Axis Wind
+Turbine VAWT was identified on the market and modernised for
+polar operation. In addition to replacing adhesives and resins in the
+generator and using steel suitable for use in low-temperatures, the
+characteristic power curve of the turbines was adapted to the actual
+air density conditions at NM III. The turbine proved its suitability
+during a trial run in a climate-controlled test chamber.
+In order to compensate for the annual increase in snow level of
+around 100 cm, the wind turbine has to be raised once a year. The
+new design of the foundation in the snow/firn and the mast ensures
+this process.
+It is planned to test the operation of the new wind turbine plant,
+which has the nominal power of P=50 kW, after its installation in
+January 2023 for at least one year.
+The implementation of further steps in the energetic modernisation
+of NM III are planned once the new wind turbine has demonstrated
+its reliability in the test operation.

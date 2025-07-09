@@ -1,0 +1,40 @@
+﻿
+
+
+
+
+
+Towards application of atmospheric deposition modeling for quantitative assessment of cumulative impacts on soils
+English version provided by the author
+
+
+
+
+
+
+
+Towards application of atmospheric deposition modeling for 
+quantitative assessment of cumulative impacts on soils 
+
+Information paper submitted by the Republic of Belarus
+
+Introduction
+All components of the Antarctic environment are very vulnerable, therefore special precautions are required for future activities planning. The main pathway of pollutants entering to the soil/snow-ice cover of the greater part of the Antarctic is atmospheric deposition. The Protocol on Environmental Protection to the Antarctic Treaty requires an assessment of the consequences for all planned activities, including impacts on the soil, snow and ice cover and other components. Revised Guidelines for Environmental Impact Assessment in Antarctica (ATCM XXXIX, Resolution 1) involves an analysis during the EIA of various types of impacts: direct, indirect, unavoidable and others. Particular attention is paid to cumulative impacts.
+A cumulative impact is the combined impact of past, present, and reasonably foreseeable activities. These activities may occur over time and space and can be additive or interactive/synergistic. In (ASOC, 2015; ATCM XXXIX, Resolution 1) it is noted that cumulative impacts are among the most difficult impact categories to determine appropriately in the EIA process. An accurate assessment of an already available or projected cumulative impact is still an emerging area. It is indicated that there are a number of methods for determining the cumulative impact, namely, the maps overlay, checklists, matrices, etc., which are qualitative rather than quantitative.
+Technogenic sources of emissions associated with the construction and operation of Antarctic research stations, with their relatively small capacity, can have a significant cumulative impact on the environment, the significance of which will increase with the duration of their operation. Given the low background levels of the majority of pollutants in environmental components, the slow migration and transformation of substances, quantitative consideration of the deposition of pollutants is an important element of the EIA of the planned activities in the Antarctic, as well as forecast of its consequences, in particular when assessing cumulative impacts. In addition, a number of substances in aerosols, primarily black carbon, are important climate-forming factors contributing to climate warming.
+The information paper is prepared to draw attention to the need to perform a quantitative assessment of the pollutants release with atmospheric deposition on the soil / underlying surface during the EIA of the construction and operation of facilities in the Antarctic using modeling as an important part of cumulative impacts assessment.
+Results
+It has been established that there is a lack of quantitative assessments of the impact on soils, snow-ice cover and, in general, on the underlying surface due to the deposition of pollutants in the CEE which are available on the website of the Antarctic Treaty. There are several reasons for the lack of attention to the assessment of atmospheric deposition of pollutants; among them - considerable time and resources needed for obtaining of such estimates, combined with the scarcity of the available initial data for modeling. Therefore the experience in simulating atmospheric deposition due to the functioning of Antarctic stations is very important.
+For this purpose, the calculation of the levels of dry precipitation of fine suspended particles (PM10) for different averaging period (from hour to year) from stationary sources of the Belarusian Antarctic Station on Mount Vechernyaya (BAE) has been performed in the framework of monitoring of its activity. Emissions of diesel generators and a planned waste incinerator are taken into account for two scenarios for the functioning of the station: seasonal and year-round. The AERMOD stationary Gaussian model was used; parameterization of the model is described earlier (Construction and operation.., 2015; Kakareka, Salivonchik, 2015).
+The calculated intensity of the deposition flux of PM10, based on meteorological data according to Molodjoznayay station observations, in the area of the residential and laboratory modules location, will comprise 1.35-3.46 mg/m2 per year for the seasonal scenario and 2.50-6.68 mg/m2 per year - for year-round. At the location of the protected moss-lichen community, the projected flux of PM10 will be 2.18-4.02 mg/m2 per year, respectively. This intensity of the PM10 flux from the key sources of the BAE should be considered low and approximately corresponding to the background flow of dust deposition on the continent; according to the estimates of B. Koffman (Koffman, 2013), dust flow for the western part of the continent over the past 2 thousand years is approximately 4 mg/m2 per year (with a modal particle size of 5-8 μm). For East Antarctica, the flow of particulate is somewhat lower, but in the coastal parts it is higher than the average for the continent.
+In places with a maximum load of PM10 from emission sources of the station, the predicted precipitation flux can reach 400-630 mg/m2 per year, which is 100-160 times higher than the background one. However, the area of such high levels of fine particulate flux is very local. Thus, the PM10 flux is 50 times higher than the background flux (> 200 mg/m2 per year), according to the calculations, is located in the southern part of the station territory in a small section with a radius less than 16 m in the seasonal scenario and 25 m in the year-round. The deposition intensity is higher than the background (4 mg/m2 per year), most likely to the west and northwest of the location of the station, in an area with a radius less than 150 m in the seasonal scenario and 200 m in the year-round.
+In the future estimation of the deposition (both projected and retrospective) of secondary particles from stationary sources, as well as primary and secondary particles from mobile sources of emissions, taking into account the prevailing transport routes, is planned. This will allow to estimate the total atmo-technogenic impact on the soils during the operation of the station, taking into account the impact in the pre-construction period of the station, thereby approaching the cumulative impact estimates.
+In the context of quantitative estimates of cumulative impacts, development of other methods to estimates the pollutants releases to soils with wastes (including dispersion of substances due to the corrosion/destruction of abandoned buildings and structures) and fuel leaks to soils and / or snow cover it is also planned. It is important to obtain quantitative estimates of initial situations and variability of chemical concentrations in Antarctic soils, without which the contribution of anthropogenic sources can’t be estimated.
+
+References
+ATCM XXXIX Resolution 1. Revised Guidelines for Environmental Impact Assessment in Antarctica (Annex), 2016
+ASOC (2015). Cumulative Impact Assessment, IP111. Antarctic Treaty Consultative Meeting XXXVIII, (01-10 June 2015), Sofia, Bulgaria
+Construction and operation of Belarusian Antarctic research station at Mount Vechernyaya, Enderby Land. Final Comprehensive Environmental Evaluation. Minsk, 2014. – 164 p.
+Koffman, B. Atmospheric Dust Deposition in West Antarctica Over the Past Two Millennia (2013). Electronic Theses and Dissertations. https://digitalcommons.library.umaine.edu /etd/1968.
+Kakareka, S., Salivonchik, S. Use of the AERMOD model in calculating the dispersion of air pollutant emissions from stationary sources // Geography and Natural Resources, 2015, № 1. p. 175-184. 
+

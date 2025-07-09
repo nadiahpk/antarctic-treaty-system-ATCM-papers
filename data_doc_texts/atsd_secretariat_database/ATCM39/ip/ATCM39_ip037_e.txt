@@ -1,0 +1,68 @@
+﻿
+
+
+
+
+
+Search and Rescue (SAR) Initiatives Affecting Antarctica
+
+
+
+
+
+
+
+
+Search and Rescue (SAR) Initiatives Affecting Antarctica
+Summary 
+This paper provides an overview of four international initiatives which will have a significant impact on SAR response requirements and capabilities as well as equipment used by the SAR services, National Antarctic Programs (NAPs) and commercial industry. The evolving nature of both SAR and the human presence in the Antarctic Treaty area require continued collaboration and coordination of all stakeholders to ensure that Antarctic SAR operations remain efficient and effective. 
+
+Background 
+Four SAR initiatives are briefly discussed below so as to inform SAR services, NAPs and commercial operators of upcoming changes in SAR and areas for continued collaboration.
+Polar Code 
+The International Code for Ships Operating in Polar Waters (Polar Code) enters into force 1 January 2017. The Polar Code supplements existing IMO instruments, including the Safety of Life at Sea (SOLAS) Convention, and  applies to cargo ships of 500 gross tonnage and above and passenger ships. The International Maritime Organization (IMO) encouraged Member States and international organizations to submit information on incidents in polar waters to assist in assessing the potential scope of the Polar Code to non-SOLAS Convention vessels operating in polar waters. This would be for phase 2 (or step 2) for the Polar Code. Non-SOLAS vessels would include fishing vessels and pleasure yachts/craft. Three papers were submitted to IMO’s Maritime Safety Committee meeting in May 2016 by New Zealand; Friends of the Earth International, World Wide Fund for Nature and the Pacific Environment; and, Iceland . 
+SAR was identified as one of the concerns for consideration. Instead of a specific section on SAR, it has been entered into many parts of the Polar Code, particularly in Chapter 10 – Communication. The following extracts are on some areas of SAR interest: 
+- 1.2.7 Maximum expected time of rescue means the time adopted for the design of equipment and system that provide survival support. It shall never be less than 5 days. 
+- 1.2.12 Ship intended to operate in low air temperature means a ship which is intended to undertake voyages to or through areas where the lowest Mean Daily Low Temperature (MDLT) is
+ below -10°C. 
+CHAPTER 8 – LIFE-SAVING APPLIANCES AND ARRANGEMENTS:
+- 8.2.3.3 Taking into account the presence of any hazards, as identified in the assessment in chapter 1, resources shall be provided to support survival following abandoning ship, whether to the water, to ice or to land, for the maximum expected time of rescue.  [6 items listed] 
+- 8.3.3.3.1	 no lifeboat shall be of any type other than partially or totally enclosed;
+CHAPTER 10 – COMMUNICATION 
+10.2.1 Ship communication
+- 10.2.1.1 Two-way voice and/or data communications ship-to-ship and ship-to-shore shall be available at all points along the intended operating routes.
+- 10.2.1.3 Means for two-way on-scene and SAR coordination communications for search and rescue purposes including aeronautical frequencies shall be provided.
+- 10.2.1.4 Appropriate communication equipment to enable telemedical assistance in polar areas shall be provided.
+10.3 Regulations
+10.3.1 Ship communication
+- 10.3.1.1 In order to comply with the functional requirements of paragraph 10.2.1.1 above, communication equipment on board shall have the capabilities for ship-to-ship and ship-to-shore communication, taking into account the limitations of communications systems in high latitudes and the anticipated low temperature.
+- 10.3.1.3 In order to comply with the functional requirements of paragraph 10.2.1.3 above, two-way on-scene and SAR coordination communication capability in ships shall include:
+.1  	voice and/or data communications with relevant rescue coordination centres; and
+.2  	equipment for voice communications with aircraft on 121.5 and 123.1 MHz.
+- 10.3.1.4 In order to comply with the functional requirements of paragraph 10.2.1.4 above, the communication equipment shall provide for two-way voice and data communication with a Telemedical Assistance Service (TMAS).
+
+10.3.2 Survival craft and rescue boat communications capabilities
+- 10.3.2.1 For ships intended to operate in low air temperature, in order to comply with the functional requirements of paragraph 10.2.2.1 above, all rescue boats and lifeboats, whenever released for evacuation, shall:
+.1	 for distress alerting, carry one device for transmitting ship-to-shore alerts;
+.2 	in order to be located, carry one device for transmitting signals for location; and
+.3 	for on-scene communications, carry one device for transmitting and receiving on-scene communications.
+- 10.3.2.2 For ships intended to operate in low air temperature, in order to comply with the functional requirements of paragraph 10.2.2.2 above, all other survival craft shall:
+.1	 in order to be located, carry one device for transmitting signals for location; and
+.2 	for on-scene communications, carry one device for transmitting and receiving on-scene communications.
+- 10.3.2.3 In order to comply with the functional requirements of paragraph 10.2.2.3 above, recognizing the limitations arising from battery life, procedures shall be developed and implemented such that mandatory communication equipment for use in survival craft, including liferafts and rescue boats, are available for operation during the maximum expected time of rescue.  
+Global Aeronautical Distress and Safety System (GADSS)
+The International Civil Aviation Organization (ICAO) is revising its international standards and recommended practices. This effort is influenced by lessons learned from incidents such as the disappearance of Malaysia Flight MH 370 in 2014 and the loss of Air France Flight 447 in 2009.  
+Commercial aircraft on oceanic flights (beyond the territorial sea) will have a new distress alerting regime which could include the aircraft operator providing the tracking and distress alerting reports. The aircraft operator, which can be a company, normally works with the air traffic services unit (ATSU), not the SAR service. Since the current typical practice is for the ATSU to notify an RCC about an aircraft in distress, the maritime RCC has to ensure effective and efficient coordination and cooperation with the aeronautical SAR system as it evolves under the GADSS concept of operation. 
+Normal tracking will be every 15 minutes instead of the current 30 minute interval. The aim will be to establish the location of an accident site within a 6 NM radius. To attain this, requirements will include that an aeroplane in distress shall automatically activate the transmission of information and transmit it at least for the expected duration of the entire flight; and in the event of an abnormal or distress situation the tracking [reporting/alerting] rate will increase to once per minute. 
+The GADSS concept is performance based, and so could make use of technologies including the 406 MHz distress beacon/ELT. Also, ICAO sees great value in the Cospas-Sarsat data distribution network and might seek use of that network for distress alerts from devices/technologies other than only the ELT/406 MHz distress beacon.  Of added concern should be the impact of the increased rate of aircraft tracking for an abnormal or distress situation – a report/alert once per minute for the duration of the flight (which could be several hours). This increased rate of tracking will impact ATSUs, aircraft operators and RCCs.   
+Medium-altitude Earth Orbit Search and rescue System (MEOSAR) 
+
+The Cospas-Sarsat system for detecting distress alerts from the 406 MHz distress beacon (maritime EPIRB, aeronautical ELT and personal PLB) is transitioning to the MEOSAR system. MEOSAR combined with the second generation 406 MHz distress beacon is intended to detect alerts more frequently and with better location precision.  The five countries which provide SAR services in the Antarctic Treaty area have installed or made commitment to install the needed ground stations. MEOSAR, which is compatible with the current generation 406 MHZ distress beacon, could begin early operational capability (EOC) as soon as January 2017. At the EOC stage, MEOSAR may not provide global coverage and may not fully meet the expected performance requirements; however, operational MEOSAR alert data can be distributed to SAR services if it can provide a benefit and not cause harm to the existing Cospas-Sarsat System. Also, there is the goal to release specifications for the second generation 406 MHz distress beacon by January 2017. 
+Antarctic SAR Workshop 
+
+This CONMAP SAR Workshop III with rescue coordination centers and commercial industry participants has been brought to the attention of IMO and ICAO. The report of the annual meeting of the IMO subcommittee for SAR includes the statement for IMO to: 
+“Encourage Member States to support the Antarctic SAR Workshop under the auspices of the Antarctic Treaty Consultative Meeting (ATCM), to take place in Valparaiso, Chile in 2016, by including representatives of the relevant RCCs and relevant SAR experts.”
+The Workshop is being held 1-2 June 2016 co-hosted by INACH and DIRECTEMAR in Valparaiso, Chile. Registration is required and must be done by 1 May 2016 at web link: http://canterbury.qualtrics.com/jfe/form/SV_38ivqUuISyMDvAF)  
+Conclusion 
+The evolving nature of both SAR and the wide-ranging human presence in the Antarctic Treaty area require continued collaboration and coordination. For example, the ATCM benefits from the COMNAP SAR Workshop held triennially but it requires planning in advance. The ATCM would benefit from similar collaboration on SAR initiatives discussed above. The ATCM and commercial providers may want to consider the implications of these SAR initiatives and how they will impact RCCs, NAPs and other interested stakeholders. 
+

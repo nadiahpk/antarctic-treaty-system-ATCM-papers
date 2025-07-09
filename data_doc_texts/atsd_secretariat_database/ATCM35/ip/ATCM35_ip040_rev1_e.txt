@@ -1,0 +1,173 @@
+﻿
+
+
+
+
+
+SCAR Products available to support the deliberations of the ATCM
+
+
+
+
+
+
+
+
+SCAR Products available to support the deliberations of the ATCM
+Introduction
+The Committee for Environmental Protection (CEP) requested that SCAR detail what data/information products are available to support the deliberations of the ATCM (see, for example, the CEP five year workplan: CEP XIV Report, Appendix 3).
+
+For the benefit of SCAR scientists and the wider community, SCAR provides several products
+that support the work of SCAR scientists  but are also made widely available to others. These products provide scientific information in a form that is useful to scientists and others, for example providing meteorological data (Met-READER) or biodiversity data (e.g. SCAR MarBIN) in a more easily usable format or providing access to information on bathymetry in the Southern Ocean (IBCSO).
+
+A short summary of the currently active products (in alphabetical order) is given below.  
+
+For further details see: http://www.scar.org/researchgroups/productsandservices/ 
+The Products
+
+1. The Antarctic Digital Database (ADD)
+    • Contact Person: Adrian Fox (ajfo@bas.ac.uk)
+    • Website: http://www.add.scar.org  
+
+Scientific work in Antarctica and its operational support depends on a reliable, consistent geographic framework. The SCAR Antarctic Digital Database (ADD) aims to provide a seamless topographic map compiled from the best available international geographic information for all areas. It covers Antarctica south of 60°S.
+
+The SCAR ADD consists of geographic information layers including coastline, ice-shelf grounding line, rock outcrop, contours, elevation point data such as survey points and spot heights, and human-presence features such as Research Station locations.  It also includes other relevant information sources such as the Landsat Image Mosaic of Antarctica (LIMA), bedrock and surface Digital Elevation Models from BEDMAP, and glacier and ice-shelf change information for some regions. 
+The data are available through the ADD website in a range of formats including shapefile, KML and Geotiff. The ADD is available free for scientific, operational and non-profit use but may not be used in commercial products without permission from SCAR.
+The ADD web site is a compilation of the best available geographic information for all areas. Consequently resolution varies from area to area according to the resolution of the source data. A few areas are based on maps compiled at scales of 1:50,000 scale or larger. Most mountainous areas such as the Antarctic Peninsula and TransAntarctic Mountains rely on mapping at 1:250,000 scale. The coastline and elevation information for the interior of the continent are based on remote-sensing data. All information served by the web site has metadata stating the source.
+2. The Antarctic Digital Magnetic Anomaly Project (ADMAP)
+    • Contact Person : Marta Ghidella (mghidella@dna.gov.ar)
+    • Website: http://www.dna.gov.ar/mararg/admap/ 
+
+The Antarctic Digital Magnetic Anomaly Project (ADMAP) aims to map Antarctica's magnetic anomaly field to aid in understanding geological processes. The initial compilation phase was completed when ADMAP produced the first magnetic anomaly map of Antarctica in 2001 and transferred it to the World Data Centres in 2009. Its digital database of magnetic anomaly observations of the Antarctic was collected from the IGY 1957/58 through to 1999.  ADMAP has also launched the next generation of the magnetic anomaly map of Antarctica, with the aim to complete by 2013.   Since the initial compilation in 2001 the amount of available magnetic survey data has more than doubled.  Thus, ADMAP is working to acquire the services of a database manager to monitor international magnetic surveying activities in Antarctica and incorporate new survey data into its database in accordance with the data transfer protocols that the international ADMAP working group has adopted. The figure below displays the updated line coverage from Golynsky et al., 2012.
+
+
+
+Line coverage of recently acquired near surface magnetic surveys
+
+Figure: Air and shipborne magnetic surveys carried out by national programs: 1 – Australia, 2 – Germany, 3 – France, 4 – Italy, 5 – Japan, 6 – Norway, 7 – Russia, 8 = UK, 9 – USA. Cooperative projects: 1 – UK/USA, 2 – ISODYN/WISE – UK/Italy, 3 – PCMEGA – Germany/Australia, 4 – GITARA – Germany/Italy, 5 – TAMARA and CTAM – USA/Germany, 6 – Germany/Japan, 7 – Norway/Russia, 8 – AEROTAM – USA/Italy, 9 – AGAP – USA/UK/Germany/Australia, 10 – ICECAP - USA/UK/Australia, 11 – ICEGRAV: DTU/Denmark, NGA/USA, University of Texas, University of Bergen/NPI/ Norway, IAA/Argentina and BAS/UK.
+
+3. The Antarctic Biodiversity Information Facility (ANTABIF) and the SCAR Marine Biodiversity Information Network (SCAR-MarBIN)
+    • Contact Person: Bruno Danis (bruno.danis@scarmarbin.be )
+    • General information portal: www.biodiversity.aq
+
+Some areas of the Antarctic are currently undergoing some of the most rapid environmental changes on the planet. Antarctica’s highly adapted ecosystems are likely to be affected by significant pressures over the coming decades. To consolidate an indisputable benchmark, baseline data needs to be documented. Funded by the Belgian Science Policy Office, the new Antarctic Biodiversity Information Facility (ANTABIF) includes a set of tools to discover, share and explore understandable, expert-validated information on Antarctic biodiversity, building upon SCAR’s Marine Biodiversity Information Network (SCAR-MarBIN) and the Antarctic Biodiversity Database. ANTABIF is the essential preliminary step to assist monitoring of biodiversity, detecting the impacts of environmental changes, and designing and implementing conservation strategies in both the terrestrial and marine realms. ANTABIF offers free and open access to baseline biodiversity information and includes the following resources:
+General information portal : www.biodiversity.aq
+Data portal : data.biodiversity.aq
+Integrated Publishing Toolkit : ipt.biodiversity.aq
+Antarctic Field Guides : afg.biodiversity.aq
+Shared repository : share.biodiversity.aq
+
+
+Figure: Screen shot from the interactive Antarctic Field Guides website (afg.biodiversity.aq)
+
+4. The Antarctic Biodiversity Database
+    • Contact Person: Miles Jordan (Miles.Jordan@aad.gov.au)
+    • Website: http:// data.aad.gov.au/aadc/biodiversity 
+
+Many aspects of science are linked to understanding the reasons why particular species exist in specific ecological niches. The Antarctic and subantarctic contain some of the most extreme ecological niches on this planet. To help address this type of question, the AADC has developed a biodiversity database [http:// data.aad.gov.au/aadc/biodiversity].
+ 
+The online database captures all recorded species observations and their locations from the Antarctic and subantarctic. It also holds a reference set of all terrestrial and freshwater taxa for all regions below 45° south latitude. The terrestrial and freshwater data components are used extensively by the SCAR Scientific Research Program examining Evolution and Biodiversity in the Antarctic (EBA [http:// www.eba.aq]) and as such this community contributes content to the database. This biodiversity website contains information on taxonomy, collections and observations, bioregions, and alien species. Much of this information is harvested for inclusion into global biodiversity databases, which are also outlined on the website.
+ 
+Taxonomy
+Species names are the key to linking multiple observations and/or specimens. Searching by specific taxa, by taxonomic rank (kingdom to species) or by the person who named the species is possible. Taxonomic synonyms can also be used in search criteria. Once particular taxa have been found, you can view:
+·         which collections it is a part of;
+·         a map of the current observations or specimen locations can be displayed; and
+·         images of specimens (where available).
+ 
+Collections and Observations
+Researchers acquire specimens or observations from a wide variety of research activities and field campaigns. Each set is arbitrarily called a collection and contains details of the collector, taxonomic groups, spatial and temporal extents and links to one or more metadata records. You can select part or all of a collection for download into HTML, Excel, Word or KML (Google Earth) formats.
+
+5. The Antarctic Map Catalogue
+    • Contact Person: Henk Brolsma (henk.brolsma@aad.gov.au)
+    • Website: http://data.aad.gov.au/aadc/mapcat/search_mapcat.cfm 
+	
+The SCAR Antarctic Map Catalogue is a repository for Antarctic region maps produced by SCAR member countries. SCAR member countries are requested to provide two copies of their maps, charts, publications, and gazetteers of relevant areas. The website contains a searchable database of all maps held.
+
+6. The Antarctic Master Directory (AMD)
+    • Contact Person: Taco de Bruin (Taco.de.Bruin@nioz.nl)
+    • Website: http://scadm.scar.org/amd.html
+
+Antarctic Master Directory is the largest collection of Antarctic data set description in the world, holding over 7700 data set descriptions from 25 countries. It is hosted by the Global Change Master Directory (GCMD) of the CEOS-IDN network to minimise duplication of resources and metadata.
+In addition to the AMD portal, the GCMD has an IPY portal that highlights data that have been collected over the International Polar Year.
+
+
+Figure: Screen shot from the Antarctic Master Directory
+7. The Antarctic Bedrock Mapping (BEDMAP2)
+    • Contact Person: Hamish Pritchard (HPRIT@bas.ac.uk)
+    • Website: http://www.antarctica.ac.uk/bas_research/our_research/az/bedmap2/index.php
+
+BEDMAP2 is a new, updated and continuous map of bed elevation and ice thickness for Antarctica and the southern ocean created using data collected by a large international consortium of Antarctic field programmes. We have incorporated all of the ice thickness data from the original BEDMAP with approximately 265 000 km of newly acquired airborne radio-echo-sounding lines over the ice, plus recent, improved compilations of surface elevation, ice shelf thickness and bathymetry. There are significant improvements to the mapping of key areas of rapid change in West Antarctica and recently discovered mountain ranges under the East Antarctic ice sheet. BEDMAP products have for the last decade been key components of ice sheet models, geological models, tectonics and crustal seismic analyses, gravity and magnetic analyses and ice core interpretation. Freely available BEDMAP2 will continue and enhance this tradition. BEDMAP2 to expected to become publicly available between April and June 2012.
+
+
+
+
+8. The Composite Gazetteer of Antarctica (CGA)
+    • Contact Person: Roberto Cervellati (roberto.cervellati@consorzio.pnra.it)
+    • Website: http://data.aad.gov.au/aadc/gaz/scar/
+
+The SCAR Composite Gazetteer of Antarctica (CGA), as the name suggests, is a composite or collection of all those names of features that have been submitted by representatives of national gazetteers. It includes the names of features south of 60° S, both terrestrial and undersea or under-ice. The CGA is a compilation of recognized features, with a numerical Unique Identifier code (UID) assigned to each of them, jointly with a list of applicable place names. The CGA is compiled purely for the convenience of the scientific community and has no legal authority or standing.
+
+Since 2008, Italy and Australia jointly have managed the CGA, the former taking care of the editing, the latter maintaining database and website. The SCAR Standing Committee on Antarctic Geographic Information (SCAGI) coordinates the project.
+ 
+Presently (as of 1st March 2012) the database of the CGA includes 18720 features, to which 36727 place names apply. 23 Countries submit information to the CGA. 
+
+9. The Continuous Plankton Recorder Database (CPR)
+    • Contact Person: Graham Hosie (graham.hosie@aad.gov.au)
+    • Website: http://data.aad.gov.au/aadc/cpr/index.cfm
+
+Antarctic plankton are expected to be particularly sensitive and vulnerable to climate change, both because of changes in ocean temperatures and by changing sea ice patterns. Increased UV levels, ocean acidification, invasive plankton species, pollution and harvesting impacts are also potential major threats.  The synergistic effect of these threats working in combination is currently not known.  Any change in the plankton are expected to have cascading effects through the rest of the food chain, as well as potentially altering the role of the plankton in the global climate system.  
+
+The SCAR SO-CPR Survey was established in 1991 by the Australian Antarctic Division to map the spatial-temporal patterns of plankton biodiversity and use the sensitivity of plankton to environmental change as early warning indicators of the health of the Southern Ocean. It also contributes to or can serve as a reference for other observational/monitoring programs such as the Southern Ocean Observing System (SOOS), Southern Ocean Sentinel (SOS), CCAMLR Ecosystem Monitoring Program (C-EMP), and the Integrating Climate and Ecosystem Dynamics (ICED) program. 
+
+The principal product of the SO- CPR survey is the production of a high quality dataset for purposes of mapping plankton biodiversity: monitoring and development of models at seasonal, inter-annual, decadal, and spatially local and global scales; and providing core plankton data for ecosystem models.  As of February 2012, data from approximately 30,000 samples at 5 nautical mile resolution for ~230 zooplankton species and krill developmental stages are in the database.  A new zooplankton atlas for the Southern Ocean has just been published for the region using CPR data.  New modelling methods are now allowing us to predict patterns of individual species or whole assemblages by modelling the relationship between plankton and remotely measured environmental variables.  The analyses will assist in the study of environmental effects on plankton, predator-prey relationships, the identification of foraging zones, and assist fisheries and conservation management.
+
+In September 2012, the SO-CPR Survey became a founding member with eight other regional CPR surveys of the Global Alliance of CPR Surveys.  The general goal of GACS is to understand changes in plankton biodiversity at ocean basin scales through a global alliance of CPR surveys.  The heart of GACS is the creation of a global database of plankton CPR data.  This will also allow us to assess changes and events at a local or regional level in a world-wide context (see www.globalcpr.org) 
+
+10. The International Bathymetric Chart of the Southern Ocean (IBCSO)
+    • Contact Person: Responsible: Hans Werner Schenke (Hans-Werner.Schenke@awi.de) and Wilfried Jokat (Wilfried.Jokat@awi.de)
+    • Website: http://www.ibcso.org/
+
+The sea floor topography of the Southern Ocean is still largely unknown. Survey activities of modern icebreaking vessels during the last decade using multibeam and other systems have increased data availability, making it possible for compilations of new bathymetric charts around Antarctica.
+Digital depth data provide information about digital elevation model derivatives and hence additional input parameters for ocean models. The provision of digital data enables complex data processing for supervised classification or GIS based modeling and prediction. The Southern Ocean bathymetry is of great importance for the modeling and understanding of ocean gateways and barriers, the nature of the thermohaline circulation with Antarctic bottom water formation, and the relevance of the Antarctic Circumpolar Current for Antarctica’s glaciation. The sea floor topography controls ocean circulation and ocean mixing - and has strong influence on global climate.
+The objective of the IBCSO is to improve our knowledge of the sea floor topography in the Southern Ocean. For the preparation of the first International Bathymetric Chart of the Southern Ocean the IBCSO group collects and compiles bathymetric data/grids/maps from hydrographic offices, scientific institutions and data centres. The plan is to finalise IBCSO v1 in late 2012. A data submission deadline on 15 June 2012 has been set for inclusion in this first version. 
+
+11. REference Antarctic Data for Environmental Research (READER)
+    • Contact Person: John Turner (j.turner@bas.ac.uk)
+
+    • MET-READER: http://www.antarctica.ac.uk/met/READER/
+    • ICE-READER: http://www.icereader.org/icereader/
+    • OCEAN-READER: http://www.antarctica.ac.uk/met/SCAR_ssg_ps/OceanREADER/
+
+i) MET-READER
+ 
+The MET-READER database contains monthly mean surface and upper air climatological data derived from the in-situ meteorological observations made at Antarctic stations with long-term records. The site also contains available metadata about changes of instrumentation and station location. Data are available on temperature, surface pressure, wind speed/direction and geopotential height. The web site is updated each month using data received over the WMO Global Telecommunications System.
+ 
+ii) ICE-READER.
+ 
+The ICE-READER project documents the availability and nature of ice core records collected from across the Antarctic continent. Interactive maps are available showing the locations of all the cores that have been collected as part of the International Trans-Antarctic Science Expedition and other initiatives. Where available, data are provided on the depth of the core, sampling frequency, time coverage, mean snow accumulation, chemical analysis and site elevation. In addition, links are provided to the ice coring groups that collected the cores and other relevant data archives.
+ 
+iii) OCEAN-READER
+ 
+OCEAN-READER is a portal to oceanography data that may be of interest to those concerned with climate change at high southern latitudes. Its main focus is temperature, salinity and current data. It doesn’t contain original oceanographic records, but provides links to many relevant oceanographic data centres and archives.
+
+12. The Seismic Data Library System (SDLS)
+    • Contact Person: Nigel Wardell (nwardell@ogs.trieste.it)
+    • Website: http://sdls.ogs.trieste.it/
+
+The Antarctic Seismic Data Library System for Cooperative Research (SDLS) was created in April 1991 under the auspices of the SCAR to provide open access to all multichannel seismic reflection (MCS) data collected south of 60° S. 
+
+The SDLS functions under the mandates of the Antarctic Treaty (ATCM XVI-12), and as such, all institutions that collect MCS data in Antarctica must submit their data to the SDLS for use in cooperative research projects. MCS data are submitted to the SDLS within 4 years of collection and remain in the library under SDLS guidelines until 8 years after collection. Thereafter, the data are available for unrestricted use, although recognition of the data collector is requested. 
+
+The MCS data in the SDLS may be accessed at library branches worldwide. MCS data are supplied to SDLS branches in a ‘final stack’ version in digital SEG-Y format on CD/DVD-ROM where they can be viewed and studied, but may not be copied without permission of the data collector. The SDLS is a research facility and not a data bank; MCS data in the SDLS are for use in cooperative research projects, and may not be used for commercial purposes.  
+
+As of July 2011, of the 350,000 km of MCS seismic data recorded in Antarctica in the last 35 years, 254,000 km (70%) have been submitted by the data collectors and are available at the SDLS library branches for researchers. 
+
+The SDLS has also created a website (http://www.scar-sdls.org) and is populating it with the unrestricted MCS data in the library. Currently, about 130,000 km of data are available for viewing interactively on-line, and, after appropriate registration, for downloading. The navigation data, in UKOOA format, for all seismic lines are also available for download.
+
+
+Figure: Antarctic MCS Data as of July 2011
+References
+
+Golynsky, A., R. Bell, D. Blankenship, D. Damaske, F. Ferraccioli, C. Finn, D. Golynsky, S. Ivanov, W. Jokat, V. Masolov, S. Riedel, R. von Frese, D. Young, and the ADMAP Working Group. Air and shipborne magnetic surveys of the Antarctic into the 21st century. Tectonophysics, 2012 doi:10.1016/j.tecto.2012.02.017.
+
+

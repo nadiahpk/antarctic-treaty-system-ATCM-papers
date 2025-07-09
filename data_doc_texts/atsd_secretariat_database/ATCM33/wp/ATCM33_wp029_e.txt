@@ -1,0 +1,84 @@
+﻿
+
+
+
+
+
+The concept of Human Footprint in the Antarctic
+
+
+
+
+
+The concept of Human Footprint in the Antarctic
+Working Paper submitted by New Zealand
+Summary
+Footprint concepts can be classified according to whether they involve facilities or activities that last longer or shorter than one year, and are easily visible or are not apparent. The overall concept of human footprint in the Antarctic can be characterised by a “core” area of human presence and a surrounding “buffer” zone extending out to the distance at which the visually dominant core area or activity is no longer visible.
+Introduction
+The CEP has noted that we need to develop an agreed understanding of the terms "footprint" and "wilderness”. As a concept “footprint” is tangible and can be defined and measured using objective methods. Developing a common understanding of footprint can help us understand the concept of wilderness values as set out in the Protocol.  The footprint concept may also have several other applications relevant to the CEP’s work including being an indicator of human pressure, minimising environmental impacts, illuminating the concept of cumulative impacts, and avoiding a proliferation of stations.
+Scope of the paper  
+This paper confines its scope to stay within the authorised operations of Parties. Its scope is primarily the spatial extent of the footprint of human activity with a focus on human-made infrastructure, activities and transport corridors. But the temporal extent of footprint also needs consideration. Human presence in a place may last for many years or for a season or less. Removing human objects or material no longer needed or restoring disturbed areas are management practices that promote environmental protection. 
+
+Influences from beyond the Antarctic, and other footprint concepts are outside the scope of this paper. Similarly concepts including ecological, carbon or water footprints are not useful in the current context of this CEP agenda item. 
+Types of footprint and methods of illustrating it
+The classification (Table 1) of “footprint” and defining it are fundamental in determining its spatial extent using either a descriptive approach or quantitative scientific methods. In one of the most comprehensive spatial and temporal footprint studies in the Antarctic to date, GERG (2003) noted some of the multiple “footprints” that can be detected and quantified in different environments or habitats, including physical, chemical or biological disturbance and sound.  Evidence of human activity that is easily observable or apparent (e.g. buildings, tracks or ship passages that can be seen, vehicles that can be heard) is the most easily understood. Other evidence of human activity is not apparent (e.g. submerged or buried objects, borehole fluid) but it can be detected. There is general agreement in the literature that the most important aspect of footprint involves long-lived buildings or other evidence of present or past human presence such as roads linking buildings that are visible over a significant period. The classification adopted here is for buildings etc that are present year round and last for more than a year. In contrast activities that do not operate year round have footprints that last mostly less than a year.
+
+
+
+
+Table 1. A simple classification framework of human footprint 
+    • Types and intensity of Footprint 
+    • Visible or readily apparent
+    • Not visible or apparent
+    • Long lasting (i.e. “permanent”, in place longer than 1 year)
+    • Main aspect of footprint 
+    • Footprint may be significant although it can not be seen 
+    • Short-lived (e.g. temporary or transient, in place less than 1 year) 
+    • Footprint parameters may be obvious but only for a short time
+    • Non-negligible footprint?
+ 
+The overall footprint of operational Antarctic facilities and activities can be characterised by a “core” area of disturbance or activity and a surrounding “buffer” zone extending out to the distance at which the visually dominant core area or activity is no longer visible. The core area consists of structures and zones, patches or corridors of disturbance. This area lies within a describable perimeter encompassing normal operations (e.g. GERG 2003, AADC 2009). In the classification adopted here consistent with that used by AADC (2009) this includes aeronautical facilities, such as those on ice-free or permanent snow and ice involving ancillary buildings that are present year round. Beyond the core area is a less rigidly definable “buffer”, comprising some less concentrated areas of chemical or biological contamination or discarded/unused material of human origin, and the sight and sound of the station and its core activities. Summerson and Riddle (2000) suggest that most noise (e.g. from diesel generators and helicopters) becomes inaudible by about 10 km. Beyond that some large facilities may be visible out to about 15 km in flat terrain or further from high vantage points. Most areas of chemical or biological contamination and debris fields will lie well within the range at which facilities and activities are visible (e.g. GERG 2003). 
+Illustrating footprint and temporal change in footprint size
+Mapping is a useful way of representing data and information. A station map (Figure 1) and GIS methods are useful for individual station management, but it is not a trivial task to produce accurate maps based on data compiled from multiple international sources. National Antarctic Programmes and IAATO have most of such data, and COMNAP and IAATO have proved valuable sources for many of these datasets (see Information paper for details of sources and caveats concerning data). Maps of the distribution of facilities in place for more than a year (Figure 2) and activities that last less than a year (Figure 3) illustrate some spatial characteristics of footprint. Spatial depictions at different times can be very useful for assessing aspects of temporal change in footprint (e.g. Figure 4) but time series of specific physical parameters may also be useful. 
+Conclusions about concepts of footprint and suggested definitions for use in the Antarctic Treaty System
+Based on the above, we suggest the following may be useful definitions to discuss.
+
+A. Easily Observable (Visible) footprints that have a lifetime longer than one year.
+    1. The physical footprint of a structure. The surface space occupied by a structure built by humans such as a building, drilling camp or scientific installation. 
+    2. The physical footprint of a permanent station. The area of land occupied by buildings and installations directly associated with an active or disused station or refuge, including tanks, staging areas, antenna, wind generators, scientific apparatus, equipment housings and aeronautical facilities within their general perimeter and roads or tracks connecting them which have a visible lifetime of at least one year. 
+    3. The visual footprint of a building, station or other human object. Area from which a human structure or collection of structures can be seen. 
+B. Measurable But Not Normally Visible footprints that have a lifetime longer than one year. These types of footprint are likely to be inside or mostly inside the area of visual footprint and therefore may not need to be elaborated.   
+    4. the chemical footprint of an individual structure or permanent station. The surface terrestrial space with chemical residues (e.g. as mapped by soil analyses), in and around structures built by humans. 
+    5. the biological footprint of an individual structure or permanent station. The area with anthropogenic biota or biota disturbed by humans in and around structures built by humans. 
+    6. the footprint represented by a debris field or abandoned equipment around an individual structure or permanent station which may itself be abandoned. The area with anthropogenic debris or abandoned equipment in and around structures built by humans. 
+
+C. Observable (Visible) or Audible footprints that have a lifetime typically less than one year.
+ 
+    7. surface tracking or other non-transient marks lasting up to a year outside permanent stations. These are the physically discernable footprints of individual activities which leave a trace of their passing (e.g. tracked vehicle marks, footprints). If repeated often enough in soft ice-free areas they may develop into marks such as tracks lasting more than one year with cumulative impact on soils and soil ecosystems (Ayres et al 2008). Some tracks in snow or flagged routes may last for longer than a year. 
+    8. transient footprints. The visible and invisible transient traces such as sound, contrails or exhaust along a flight path, supply route, vessel passage, or human visitation such as landings via helicopter or boats. Some anthropogenic emissions contribute to detectable levels of atmospheric pollution near the ground (Graf et al 2010).
+Recommendations
+Information about the current status and historical evolution of the human footprint in the Antarctic would enable the CEP and Treaty Parties to make more informed decisions on how to manage it. 
+
+It is recommended that the Committee:
+    1. endorses the importance of work on human footprint;
+    2. The CEP invites New Zealand to progress this initiative through consultation with other interested Parties and Observers;
+    3. agrees to make footprint and wilderness a continuing agenda item for CEP XIV and XV 
+Acknowledgements
+Several colleagues gave early guidance on the scope of this work. Tina Tin and others from ASOC and Rupert Summerson (University of Melbourne) gave substantial assistance on its direction.  COMNAP, IAATO, SCAR and others provided data which Rupert used to prepare draft Figures 2 and 3.
+Literature cited is given the Information paper
+Figure 1. Scott Base station map showing footprint of core area of facilities and roads (Gateway Antarctica). This excludes the wind generators (out of view on left) constructed during 2009/2010 within a larger area of existing human footprint on the southwest end of Hut Point Peninsula. 
+
+
+Figure 2. Location of infrastructure with footprint that lasts longer than 1 year.Draft map for indicative purposes compiled using available data from COMNAP, Antarctic Treaty Information Exchange and Antarctic Historic Sites and Monuments but is not complete (R Summerson).
+
+ 
+
+Figure 3 Location of activities with footprint that lasts less than 1 year. Some evidence of over-snow activities or repetitive visits may last longer than one year. Draft map for indicative purposes compiled using available data from the Antarctic Flight Information Manual, IAATO, Antarctic Treaty Information Exchange, USAP Grundberg and SCAR. (see text) but is not complete (R Summerson).
+
+
+
+Figure 4. Spatial depiction of passages of tourist vessels showing the total area covered by their transient footprints over successive seasons (Lynch et al. 2009). The increase in cumulative transient footprint can be seen.
+
+
+
+

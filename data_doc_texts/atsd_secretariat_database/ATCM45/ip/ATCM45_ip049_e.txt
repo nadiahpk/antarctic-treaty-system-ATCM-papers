@@ -1,0 +1,340 @@
+SCAR Lecture: "Satellite-based science and the changing nature of
+what it means to “explore” Antarctica"
+SCAR Lecture: "Satellite-based science and the changing nature of
+what it means to ‘explore’ Antarctica"
+Author: Professor Heather J. Lynch is a quantitative ecologist and
+the Institute for Advanced Computational Science Endowed Chair
+for Ecology & Evolution at Stony Brook University, New York, USA.
+She is currently chair of the Polar Geospatial Center’s Science
+Operations Advisory Committee and a Pew Fellow for Marine
+Conservation.
+Background
+Satellite imagery is a transformational technology that has radically
+expanded our capacity to explore and study the world’s most
+remote places. Over just the last 30 years, the availability of
+publicly-available satellite imagery of Antarctica has skyrocketed,
+and commensurate improvements in spatial resolution now allow us
+to map the finest details of Antarctica’s geology and even much of
+its biology. Newly-launched sensors now allow scientists to measure
+ice loss, follow the flow of glaciers, map Antarctica’s bedrock, and
+even track the distribution and abundance of animal populations. At
+the same time, we can now harness satellite imagery to track
+human impacts on the landscape, from runways to footpaths, and
+more precisely design protected areas around key features. This
+Information Paper summarises the 2023 SCAR Lecture by Prof
+Heather Lynch, and describes the recent technical advances in the
+use of satellite imagery for Antarctic research and some of the
+future research areas where continued development is likely.
+Antarctic geology and climate change
+Many of the most notable scientific findings to emerge from
+Antarctica over the last several years have relied on satellite-based
+remote sensing in some fashion, and both active sensors (e.g., radar,
+LiDAR) and passive sensors (e.g., Landsat, MODIS) have been
+critical to our current understanding of climate change, glacial
+retreat, ice sheet instability, and the very nature of the Antarctic
+continent itself.
+Of particular note are several recent studies that improve our
+understanding of Antarctic ice sheet dynamics and mass loss,
+particularly the improved mapping of Antarctic bed topography
+known as BedMachine (Morlighem et al. 2020) and several
+subsequent studies using BedMachine to understand ice sheet
+evolution (e.g., Seroussi et al. 2020, Velicogna et al. 2020).
+Satellites have also been critical in tracking the advance and retreat
+of ice shelves, improving our understanding of major events such as
+the disintegration of the Larsen A and B ice shelves (Wille et al.
+2019, Christie et al. 2022) and the partial collapse of the Wilkins
+Ice Shelf (Rankl et al. 2017), as well as the more gradual processes
+that drive ice sheet dynamics (e.g., Gudmundsson et al. 2019, Wille
+et al. 2019) and glacial retreat (e.g., Milillo et al. 2022). One of the
+most advanced satellite systems measuring ice mass is the Gravity
+Recovery and Climate Experiment (GRACE) and its follow-on
+mission GRACE-FO. These two missions allow for extremely precise
+measurements of surface mass anomalies and have allowed us to
+track the loss of ice contained within the Antarctic ice sheet
+(Velicogna et al. 2014).
+Many of these advances involved the careful synthesis of satellite-
+based data products with airborne or field observations,
+highlighting the manner in which satellite data complements, rather
+than replaces, field observations and measurements. For example,
+Schmidt et al. (2023) used an underwater vehicle to observe the
+grounding line of the Thwaites Glacier and the detailed topography
+of the ice base. These observations provide a better understanding
+of the processes contributing to ice melt observed using satellite
+imagery (e.g., Fahnestock et al. 2016, Wild et al. 2022).
+Climate change is unfolding in Antarctica on both fast and slow
+time scales, and satellite remote sensing provides a means by which
+we can track tiny changes occurring over long periods of time as
+well as sudden events, like a collapsing ice shelf, that would
+otherwise be inaccessible to scientific observation. Satellites also
+recently marked an inauspicious record when, on February 13,
+2023, Antarctic sea ice extent hit an all-time low (NSIDC 2023).
+These dynamics have globally-important implications for global
+temperature variability and sea level rise (Golledge et al. 2019,
+DeConto et al. 2021), and satellites have played an important role
+in our understanding of these future risks.
+Wildlife research Some of this text has been adapted from an article
+originally written for the Marine Technology Society Journal (Lynch
+[2023]).
+Satellite imagery has been in regular use for earth observation and
+monitoring for over 40 years but much of this work has been
+focused on mapping the planet itself (ocean colour, sea ice, forest
+cover, etc.) rather than the animals that live on it. Though the idea
+that we could use satellites to map polar seabirds was explored
+early on (Schwaller et al. 1984, Schwaller et al. 1989), the last
+decade has seen a major expansion of these efforts in step with a
+rapid increase in the number and variety of sensors now currently
+available for wildlife research. Wildlife research in the polar regions
+has historically been limited by the logistical constraints of site
+access, but recent developments in the use of satellite imagery for
+animal detection has unlocked new possibilities for pan-Antarctic
+monitoring of animal populations. A range of different sensor
+systems have been used for wildlife research but most have focused
+on optical sensors that collect data in the visible spectrum and can
+be directly interpreted similar to a photograph. These include
+medium-resolution sensors like Landsat (30 m) and Sentinel-2 (10
+m) and very high-resolution sensors such as Maxar’s Worldview-2
+(51 cm) and Worldview-3 (31 cm). These long-established satellite
+systems have been joined more recently by constellations of smaller
+satellites (so-called ‘Small Sats’) that offer imagery of comparable
+spatial and spectral resolution to those operated by Maxar. This
+rapidly-expanding portfolio of earth observation satellites offers the
+potential for a radical transformation of wildlife research in polar
+regions, but the sheer volume of data now being collected now
+eclipses our capacity for manual imagery interpretation. To meet
+this challenge, researchers are now harnessing advances in
+computer vision that, coupled with improvements in computing
+capacity, promise to deliver a new era in our ability to monitor
+polar wildlife.
+Worldwide, satellite imagery has been used to survey everything
+from penguins and whales to cattle and elephants (see review by
+LaRue et al. 2017 and references therein). Though the potential for
+wildlife survey by satellite imagery is global, several factors have
+made the polar regions a leader in the technical development and
+operationalization of satellite-based monitoring. For one, the polar
+areas are exceptionally difficult and expensive to survey using more
+traditional means, so alternative methods provide not only a
+complement to but often the only feasible means of tracking
+wildlife over large spatial areas. Research in the polar regions,
+particularly the Antarctic, is also inherently international. The
+confluence of multiple earth observation programmes operating in
+the polar regions provides the opportunity to compare and combine
+the strengths of different sensor programmes. The absence of trees
+or other woody vegetation also facilitates the use of satellite
+imagery for animal survey, since the simplified landscape provides
+little cover that might obscure animals viewed from above. Finally,
+the polar areas also enjoy a geographical advantage, as polar
+orbiting satellites pass over the Arctic and Antarctic much more
+frequently than they do areas at lower latitudes and the
+development of a very high-resolution digital elevation model for
+the Antarctic (Howat et al. 2019) has established in fine detail the
+coastline and bare rock areas on which wildlife are likely to be
+found.
+Though the 30 m resolution precludes the direct census of animals,
+Landsat imagery has been used to survey Adélie penguins
+(Schwaller et al. 2013, Lynch & Schwaller 2014), emperor penguins
+(Fretwell & Trathan 2009), and Antarctic petrels (Schwaller et al.
+2018), the first two
+of which are considered sentinel species for climate change and are
+regularly monitored as part of international efforts for Antarctic
+conservation. In the Antarctic, most of the work using sub-meter
+resolution commercial imagery to estimate animal abundance has
+focused on penguins (e.g., Barber-Meyer et al. 2007, Fretwell et al.
+2012, Lynch et al. 2012, Lynch & LaRue 2014, LaRue et al. 2014,
+Strycker et al. 2020), though crabeater seals (Gonçalves et al. 2020,
+Gonçalves et al. 2022), Weddell seals (LaRue et al. 2011, LaRue et
+al. 2021), fur seals (Foley 2019), and southern elephant seals
+(McMahon et al. 2014, Fudala & Bialik 2022) have all been
+enumerated in sub-meter commercial satellite imagery as well. Pilot
+studies have demonstrated that even whales can be observed in
+satellite imagery and can be detected using automated classification
+models (Fretwell et al. 2014, Borowicz et al. 2019, Guirado et al.
+2019).
+While optical imagery has been the most promising satellite-based
+technology for wildlife survey, there has been some exploration of
+alternative data types. Radar imagery such as that provided by
+TerraSAR-X has been explored for penguin colonies, in the hopes
+that the height of penguins clustered at the colony might be
+distinguishable from the background substrate. Similar hopes are
+held for the newest generation of laser altimetry sensors, such as
+that on NASA’s Icesat-2 satellite. While there has been some
+evidence that emperor penguins might be observable in this way
+(particularly during the winter when penguins are tightly packed
+together), efforts to observe colonies of the smaller nest-building
+species have proven unsuccessful (Mustafa et al. 2012). Thermal
+infrared (TIR) imagery is another intriguing technology in the polar
+regions because it seems as though seabirds and marine mammals
+should be considerably warmer than their background environment
+and the relative scarcity of animals in the polar regions should
+minimize noise in the thermal signal. Unfortunately (in this
+context), the most promising target for thermal surveying is
+emperor penguins and their body surface is actually a bit cooler
+than the surrounding air (McCafferty et al. 2013), and a recent
+study using drone imagery found no benefit in penguin abundance
+classification performance when including TIR data (Hinke et al.
+2022). Though several polar species (e.g., polar bears, walrus, seals)
+have been surveyed successfully using airborne thermal sensors,
+satellite-based TIR imaging is captured at much lower spatial
+resolution (e.g., 30 m on Landsat-8; 90 m on Terra) than optical
+imagery, and this sets a very high threshold for the smallest
+detectable aggregation.
+Conclusions
+The number of Earth-observing satellite sensors has grown rapidly
+over the last several decades, and the resources available for space-
+based scientific research in Antarctica is sure to grow. While
+satellite-based research will not replace direct observations from
+field teams working on the ground, it can complement field
+observations by allowing for safer access to sites, more efficient
+planning of operations, and an expanded capacity to extrapolate
+field measurements to larger spatial areas. Full utilization of these
+tools will benefit from continued collaboration among countries
+whose assets reflect the diversity of operational capabilities and
+whose strengths are highly complementary. To that end, SCAR will
+continue to play a crucial role in coordinating these efforts for the
+greatest benefit of the Antarctic community.
+References
+Barber-Meyer, S.M., Kooyman, G., & Ponganis, P.J. 2007.
+Estimating the relative abundance of emperor penguins at
+inaccessible colonies using satellite imagery. Polar Biology
+30:1565-1570.
+Borowicz, A., Le, H., Humphries, G., Nehls, G., Höschle, C., Kosarev,
+V., & Lynch, H.J. 2019. Aerial-trained deep learning networks for
+surveying cetaceans from satellite imagery. PLoS ONE
+14(10):e0212532.
+Christie, F.D.W., Benham, T.J., Batchelor, C.L., Rack, W., Montelli,
+A., & Dowdeswell, J.A. 2022. Antarctic ice-shelf advance driven by
+anomalous atmospheric and sea-ice circulation. Nature Geoscience
+15(5): 356–62.
+DeConto, R.M., Pollard, D., Alley, R.B., Velicogna, I., Gasson, E.,
+Gomez, N., Sadai, S., et al. 2021. The Paris Climate Agreement and
+future sea-level rise from Antarctica. Nature 593(7857): 83–89.
+Fahnestock, M., Scambos, T., Moon, T., Gardner, A., Haran, T., &
+Klinger, M. 2016. Rapid large-area mapping of ice flow using
+Landsat 8. Remote Sensing of Environment 185: 84–94.
+Foley, C. 2019. Long-term human impacts on sub-Antarctic
+ecosystems and mesopredator abundance. Ph.D. dissertation, Stony
+Brook University.
+Fudala, K., & Bialik, R.J. 2022. Seals from outer space – Population
+census of southern elephant seals using VHR satellite imagery.
+Remote Sensing Applications: Society and Environment 28:100836.
+Fretwell, P.T., Staniland, I.J., & Forcada, J. 2014. Whales from
+space: Counting southern right whales by satellite. PLoS ONE
+9:e88655.
+Fretwell, P.T., LaRue, M.A., Morin, P., Kooyman, G.L., Wienecke, B.,
+Ratcliffe, N., Fox, A.J., Fleming, A.H., Porter, C., & Trathan, P.N.
+2012. The first global, synoptic survey of a species from space. PLoS
+ONE 7(4):e33751.
+Fretwell, P.T., & Trathan, P.N. 2009. Penguins from space: faecal
+stains reveal the location of emperor penguin colonies. Global
+Ecology and Biogeography 18:543-552.
+Golledge, N.R., Keller, E.D., Gomez, N., Naughten, K.A., Bernales,
+J., Trusel, L.D., & Edwards, T.L. 2019. Global environmental
+consequences of twenty-first-century ice-sheet melt. Nature
+566(7742): 65–72.
+Gonçalves, B., Spitzbart, B., & Lynch, H.J. 2020. SealNet: A fully
+automated pack-ice seal detection pipeline for sub-meter satellite
+imagery. Remote Sensing of Environment 239: 111617.
+Gonçalves, B., Wethington, M., & Lynch, H.J. 2022. SealNet2:
+Human-level fully-automated pack-ice seal detection. Remote
+Sensing 14(22): 5655.
+Gudmundsson, G.H., Paolo, F.S., Adusumilli, S., & Fricker, H.A.
+2019. Instantaneous Antarctic ice sheet mass loss driven by
+thinning ice shelves. Geophysical Research Letters 46(23): 13903–9.
+Guirado, E., Tabik, S., Rivas, M.L., Alcaraz-Segura, D., & Herrera, F.
+2019. Whale counting in satellite and aerial images with deep
+learning. Scientific Reports 9(1): 14259.
+Hinke, J.T., Giuseffi, L.M., Hermanson, V.R., Woodman, S.M., &
+Krause, D.J. 2022. Evaluating thermal and color sensors for
+automating detection of penguins and pinnipeds in images collected
+with an unoccupied aerial system. Drones 6(9):255.
+Howat, I.M., Porter, C., Smith, B.E., Noh, M.-J., & Morin, P. 2019.
+The reference elevation model of Antarctica. The Cryosphere 13:
+665-674.
+LaRue, M.A., Lynch, H.J., Lyver, P.O.B., Barton, K., Ainley, D.G.,
+Pollard, A., Fraser, W.R., & Ballard, G. 2014. A method for
+estimating colony sizes of Adélie penguins using remote sensing
+imagery. Polar Biology 37: 507–517.
+LaRue, M.A., Rotella, J.J., Garrott, R.A., Siniff, D.B., Ainley, D.G.,
+Stauffer, G.E., Porter, C.C., & Morin, P.J. 2011. Satellite imagery
+can be used to detect variation in abundance of Weddell seals
+(Leptonychotes weddellii) in Erebus Bay, Antarctica. Polar Biology
+34(11): 1727-1737.
+LaRue, M.A., & Stapleton, S. 2018. Estimating the abundance of
+polar bears on Wrangel Island during late summer using high-
+resolution satellite imagery: a pilot study. Polar Biology 41:
+2621-2626.
+LaRue, M.A., Salas, L., Nur, N., Ainley, D., Stammerjohn, S.,
+Pennycook, J., Dozier, M., Saints, J., Stamatiou, K., Barrington, L.,
+& Rotella, J. 2021. Insights from the first global population estimate
+of Weddell seals in Antarctica. Science Advances 7: eabh3674.
+Lynch, H.J., White, R., Black, A.D., & Naveen, R. 2012. Detection,
+differentiation, and abundance estimation of penguin species by
+high-resolution satellite imagery. Polar Biology 35(6): 963-968.
+Lynch, H.J., & Schwaller, M.R. 2014. Mapping the abundance and
+distribution of Adélie penguins using Landsat-7: First steps towards
+an integrated multi-sensor pipeline for tracking populations at the
+continental scale. PLoS ONE 9: e113301.
+Lynch, H.J., & LaRue, M.A. 2014. First global census of the Adelie
+penguin. Auk 131(4): 457-466.
+McCafferty, D.J., Gilbert, C., Thierry, A.-M., Currie, J., Le Maho, Y.,
+& Ancel, A. 2013. Emperor penguin body surfaces cool below air
+temperature. Biology Letters 9(3): 20121192.
+McMahon, C.R., Howe, H., van den Hoff, J., Alderman, R., Brolsma,
+H., & Hindell, M.A. 2014. Satellites, the all-seeing eyes in the sky:
+Counting elephant seals from space. PLoS ONE 9(3): e92613.
+Milillo, P., Rignot, E., Rizzoli, P., Scheuchl, B., Mouginot, J., Bueso-
+Bello, J.L., Prats-Iraola, P., & Dini, L. 2022. Rapid glacier retreat
+rates observed in West Antarctica. Nature Geoscience 15(1): 48–53.
+Morlighem, M., Rignot, E., Binder, T., Blankenship, D., Drews, R.,
+Eagles, G., Eisen, O. et al. 2020. Deep glacial troughs and stabilizing
+ridges unveiled beneath the margins of the Antarctic ice sheet.
+Nature Geoscience 13(2): 132–37.
+Mustafa, O., Pfeifer, C., Peter, H.-U., Kopp, M., & Metzig, R. 2012.
+Pilot study on monitoring climate-induced changes in penguin
+colonies in the Antarctic using satellite images. Report No. (UBA-
+FB) 001611/E, Environmental Research of the Federal Ministry of
+the Environment, Nature Conservation and Nuclear Safety.
+NSIDC (National Snow and Ice Data Center). 2023. Antarctic sea ice
+settles at record low in 2023.
+Rankl, M., Fürst, J.J., Humbert, A., & Braun, M.H. 2017. Dynamic
+changes on the Wilkins Ice Shelf during the 2006–2009 retreat
+derived from satellite observations. The Cryosphere 11(3): 1199–
+1211.
+Schmidt, B.E., Washam, P., Davis, P.E.D., Nicholls, K.W., Holland,
+D.M., Lawrence, J.D., Riverman, K.L., et al. 2023. Heterogeneous
+melting near the Thwaites Glacier grounding line. Nature
+614(7948): 471–78.
+Schwaller, M.R., Lynch, H.J., Tarroux, A., & Prehn, B. 2018. A
+continent-wide search for Antarctic petrel breeding sites with
+satellite remote sensing. Remote Sensing of Environment 210:
+444-451.
+Schwaller, M.R., Olson, C.E. Jr., Ma, Z., Zhu, Z., & Dahmer, P. 1989.
+A remote sensing analysis of Adélie penguin rookeries. Remote
+Sensing of Environment 28: 199-206.
+Schwaller, M.R., Benninghoff, W.S., & Olson, C.E. 1984. Prospects
+for satellite remote-sensing of Adélie penguin rookeries.
+International Journal of Remote Sensing 5(5): 849-853.
+Schwaller, M.R., Southwell, C.J., & Emmerson, L.M. 2013.
+Continental-scale mapping of Adélie penguin colonies from Landsat
+imagery. Remote Sensing of Environment 139: 353–364.
+Seroussi, H., Nowicki, S., Payne, A.J., Goelzer, H., Lipscomb, W.H.,
+Abe-Ouchi, A., Agosta, C., et al. 2020. ISMIP6 Antarctica: A multi-
+model ensemble of the Antarctic Ice Sheet evolution over the 21st
+Century. The Cryosphere 14(9): 3033–3070.
+Strycker, N., Wethington, M., Borowicz, A., Forrest, S., Witharana,
+C., Hart, T, & Lynch, H.J. 2020. A global population assessment of
+the chinstrap penguin (Pygoscelis antarctica). Scientific Reports 10:
+19474.
+Velicogna, I., Mohajerani, Y., A, G., Landerer, F., Mouginot, J.,
+Noel, B., Rignot, E., et al. 2020. Continuity of ice sheet mass loss in
+Greenland and Antarctica from the GRACE and GRACE follow‐on
+missions. Geophysical Research Letters 47(8): e2020GL087291.
+Velicogna, I., Sutterley, T.C., & van den Broeke, M.R. 2014.
+Regional acceleration in ice mass loss from Greenland and
+Antarctica using GRACE time-variable gravity data. 2014.
+Geophysical Research Letters 41(22): 8130–8137.
+Wild, C.T., Alley, K.E., Muto, A., Truffer, M., Scambos, T.A., &
+Pettit, E.C. 2022. Weakening of the pinning point buttressing
+Thwaites Glacier, West Antarctica. The Cryosphere 16: 397-417.
+Wille, J.D., Favier, V., Dufour, A., Gorodetskaya, I.V., Turner, J.,
+Agosta, C., & Codron, F. 2019. West Antarctic surface melt triggered
+by atmospheric rivers. Nature Geoscience 12(11): 911–916.

@@ -1,0 +1,35 @@
+﻿
+
+
+
+
+
+A Report on the Development and Use of UAS by the U.S. National Marine Fisheries Service for Surveying Marine Mammals
+
+
+
+
+
+
+
+
+A Report on the Development and Use of UAS by the U.S. National Marine Fisheries Service for Surveying Marine Mammals
+
+Information Paper submitted by the United States
+Summary
+This paper summarizes a report prepared by the U.S. Marine Mammal Commission on the use of unmanned/unoccupied aerial systems (UAS) by the National Marine Fisheries Service (NMFS) for surveying marine mammals.  The report presents best practices, advantages, and challenges of using UAS in marine mammals monitoring and assessment, and contributes to the ongoing discussion and consideration by the ATCM and CEP of the use of UAS for wildlife research in Antarctica.
+Introduction
+The U.S. National Oceanographic and Atmospheric Administration’s (NOAA) National Marine Fisheries Service is responsible for gathering information needed to support stock assessment of most marine mammal species found in U.S. waters.  NMFS scientists also conduct research and monitoring of Antarctic predators, such as pinnipeds and penguins, through the U.S. Antarctic Marine Living Resources program (AMLR) in support of the Commission for the Conservation of Antarctic Marine Living Resources (CCAMLR).  Traditionally, shipboard, land-based, and/or aerial surveys were used to gather data on distribution, abundance, and status of marine mammals.  Research teams across NOAA have turned to UAS, also known as remotely piloted aircraft systems (RPAS), as a cost-effective supplement and/or alternative to the traditional methods used for marine mammal stock assessment.
+
+This report, prepared by the U.S. Marine Mammal Commission, presents the current state of usage of UAS by NMFS scientists for monitoring and surveying marine mammals in U.S. waters, including the Arctic, and in Antarctica.  In the Antarctic, the AMLR research group uses vertical take-off and landing (VTOL) hexacopter UAS to survey pinniped populations and assess the health of certain seal species.  The AMLR group’s work was presented at ATCM XXXVIII – CEP XVIII (IP 83) to provide guidance on UAS best practices in Antarctic for the study of seals and penguins.  Other NMFS researchers have been monitoring and assessing the status of cetaceans in Antarctica using VTOL UAS for photogrammetry and sampling of whale exhalations/blows, as presented in this U.S. Marine Mammal Commission report.  
+Summary of Report Findings
+Scientists across NMFS are now regularly using UAS to supplement traditional methods of marine mammal surveying.  The VTOL, copter-type UAS are particularly well-suited for capturing images of individual or small groups of cetaceans and pinnipeds, while video or images taken from fixed-wing UAS can be used for larger-scale surveys and counts.  Imagery of individual whales or seals is being used to assess health and condition, as well as to detect marked/known and unknown individual animals to estimate population size and vital rates.
+
+The VTOL UAS used widely by NMFS, the APH-22 hexacopter, has been demonstrated to be reasonably affordable, highly capable, and extremely reliable, even in polar environments.  NMFS is investigating other VTOL UAS to complement the capabilities of the APH-22, such as those that are smaller, salt-water resistant, and could be used by entanglement and other emergency response teams.  In addition, NMFS researchers are focused on ensuring that platform and sensor capabilities, training, and UAS operations meet their research requirements.  Now that the UAS technology has proven to be a useful tool in marine mammal monitoring, more attention is being given to improving the surveying payloads and image analysis software and methods.
+
+The UAS used by NMFS, especially VTOL copters, are much quieter than occupied aircraft used for the same monitoring purposes.  This allows for UAS to be flown at much lower altitudes where they can capture higher quality images while minimizing or avoiding disturbance to the animals.  NMFS UAS operators meet or exceed the levels of training and experience required to ensure safety and reduce/eliminate disturbance through sufficient control of the aircraft before, during, and after wildlife overflights.  To date, there is little evidence that UAS disturb large whales, even when collecting whale blow samples.  UAS can cause extreme reactions by pinnipeds on land if flown too low; however, little or no reaction has been observed at the altitudes flown for most research missions.  Researchers are continuing to assess the altitudes at, and conditions under, which UAS can be operated without causing disturbance to wildlife.
+
+The report can be accessed at:
+https://www.mmc.gov/wp-content/uploads/UASReport.pdf
+
+

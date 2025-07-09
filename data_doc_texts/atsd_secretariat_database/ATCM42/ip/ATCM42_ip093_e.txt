@@ -1,0 +1,93 @@
+﻿
+
+
+
+
+
+The International Programme for Antarctic Buoys
+
+
+
+
+
+
+
+
+
+
+The International Programme for Antarctic Buoys
+An Information Paper submitted by WMO and SCAR
+A sustainable Southern Ocean Buoy network is crucial for forecasting weather and sea-ice conditions, for validating satellite observations and numerical climate models as well as for research on Antarctic climate and climate change.
+    1) Introduction
+Established in 1996, the International Programme for Antarctic Buoys (IPAB) works to build and maintain a drifting buoy network in the Antarctic sea-ice zone with the aim of supporting ocean-ice-atmosphere and related research, observations and services in the region. This programme collaborates with the International Arctic Buoy Programme (IABP) across a range of initiatives, including instrument development and data transmission. Both IPAB and IABP are regional Action Groups of the Data Buoy Cooperation Panel (DBCP), with regards to buoy deployment coordination. 
+
+IPAB is community driven and supported by and delivers directly back to the scientific community. IPAB data are used across a range of applications, including: 
+
+    1. Research on Antarctic climate and climate change;
+    2. Forecasting weather and sea-ice conditions;
+    3. Validation of satellite observations;
+    4. Forcing, validation and assimilation into numerical Earth system models;
+      and
+    5. Tracking the source and fate of samples taken from the sea ice.
+
+In addition IPAB supports operational planning, such as deriving sea-ice drifts to account for ice displacement for near-coincident satellite under-flights by aircraft (i.e., NASA’s Operation Ice Bridge under IceSat2) or direct advise on ice drift in complex sea-ice regimes, such as during the besetment of the RV Akademik Shokalskiy and the RV Xuelong in 2013/14.
+
+While not funded centrally, IPAB has been setup as a long-term programme, subject to continued support from participants, mainly through funding from research projects. IPAB receives some support from the Australian Antarctic Division (AAD, Australia) and the Alfred Wegener Institute (AWI, Germany), who provide management and data hosting resources. The IPAB website  (http://www.ipab.aq) is jointly maintained by the IPAB Chair and the IPAB Coordinator. For further information please contact the IPAB Chair (petra.heil@utas.edu.au) directly.
+    2) IPAB  – Objectives
+The objective of the International Programme for Antarctic Buoys is to establish and maintain an observation network in the Antarctic sea-ice zone (that portion of the Southern Ocean and Antarctic marginal seas within the sea-ice edge at the time of its maximum seasonal extent), using in situ platforms and in particular drifting buoys, in order to:
+    • Support research in the region related to global climate processes and to global change, and in particular, to meet research data requirements specified by the World Climate Research Programme (WCRP) and the Scientific Committee on Antarctic Research (SCAR), as well as other international research programmes;
+    • Contribute real-time operational meteorological data supporting the requirements of WMO and the Intergovernmental Oceanographic Commission (IOC) Joint Technical Commission for Oceanography and Marine Meteorology (JCOMM) via the Data Buoy Cooperation Panel (DBCP); and
+    • Establish a basis for on-going monitoring of atmospheric and oceanic climate in the 
+Antarctic sea-ice zone, in particular contributing to the aims of the Global Climate Observing System (GCOS) and the Global Ocean Observing System (GOOS). The interaction of IPAB with GCOS and GOOS is formalised via the Southern Ocean Observing System (SOOS).
+
+To achieve its objectives the Programme builds upon co-operation among agencies and institutions with Antarctic and Southern Ocean interests.
+
+    3) IPAB – Key Activities and Achievements
+IPAB Contributors and Stakeholders
+IPAB extends from scientific research and climate monitoring to operational science support. As stated above, IPAB is community driven and supported, as there is no dedicated funding directly to IPAB. Buoy deployments require financial resources (i.e., for buoy/instrument design/build/purchase and for remote data telecommunication) and logistical support (i.e., vessel for in situ deployments or airframes for airdrop buoys, as well as freight to the vessel/airframe). Importantly, IPAB buoy deployments are generally managed within approved scientific projects, indicating that sustainability relies on continuing research drivers. Clustered buoy deployments are generally undertaken as part of a national or international research project, and buoys are typically funded through project budgets by individual scientists. One such example is the recent deployment of 17 sea-ice buoys1 in the western Weddell Sea during March 2019 (Fig. 1). The cruise was supported by AWI, while hardware, data transmission and analysis cost are funded by individual scientific projects within AWI and AAD.
+In recent years, some additional resources (mainly surface velocity drifters) have been made available through the US-IPAB, which is has been funded by the National Oceanographic and Atmospheric Association (NOAA) in support of the WMO’s Year of Polar Prediction (YOPP, see accompanying Information Paper). YOPP contributes intensive additional observational activities from mid 2017 to mid 2019 directly into numerical modelling efforts of the Polar Prediction Project, with the aim to better understand processes affecting polar climate and how in situ observations affect the predictive capability of numerical simulations.
+
+IPAB Meetings and Communication
+IPAB holds meeting on an irregular basis, aiming for a meeting every 2nd year. The last IPAB meeting was held in June 2018 in Davos, Switzerland and attended by 18 IPAB members as well as several other organisational and industrial representatives. 
+
+Annual reporting of IPAB is via the Data Buoy Cooperation Panel (DBCP) into WMO (see http://www.jcommops.org/dbcp/). 
+
+IPAB Data Management Plans
+    • Operational Archiving
+All basic data are transmitted via the Global Telecommunication System (GTS; operated by WMO) for the rapid collection, exchange and distribution of observations within operational services. This includes buoy positions and air pressure data, plus relevant additional real-time data approved by the principal investigators for public dissemination. 
+
+    • Research Data Archive
+A coherent, quality-controlled IPAB database of sea-ice motion, surface meteorology and oceanography, as required by the Antarctic research community, is maintained by the IPAB Technical Coordinator. This database is updated regularly; annual updates are submitted to appropriate data centres for archiving (in particular, the World Data Center PANGAEA, a member of the International Science Council World Data System). From 2019 annual data releases will be identified with a digital object identifier (doi) for data. 
+
+Fig. 1: Map of IPAB sea-ice buoys deployed during the RV Polarstern cruise PS118.
+
+IPAB Publications 
+IPAB data have supported numerous studies. Some examples are shown here:
+    • Heil., P. and I. Allison, The pattern and variability of Antarctic sea-ice drift in the Indian Ocean and western Pacific sectors, J. Geophys.,Res., 104(C7), 15789 – 15802, 1999.
+    • Schwegmann, S., C. Haas, C. Fowler and R. Gerdes, A comparison of satellite-derived sea-ice motion with drifting buoy data in the Weddell Sea, Antarctica, Ann. Glaciol., 52(57), 103 – 110, 2011.
+    • Hoppmann, M., M. Nicolaus, P.A. Hunkeler, P. Heil, L.-K. Behrens, G. Koenig-Langlo, and R. Gerdes, Seasonal evolution of an ice-shelf influenced fast-ice regime, derived from an autonomous thermistor chain, J. Geophys. Res., 120, 1703 – 1724, doi:10.1002/2014JC010327, 2015.
+    • Heil, P., S. Stammerjohn, P. Reid, R.A. Massom and J.K. Hutchings, SIPEX 2012: Extreme sea-ice and atmospheric conditions off East Antarctica, Deep-Sea Res. II, 131, 7 – 21, 2016.
+
+Capacity Building, Education and Outreach Plans
+IPAB operates at the interface between pure science and operational research and monitoring. As such its members should have an appreciation of both modes of Antarctic engagement. In detail this requires that researchers are familiar with operational procedures, such as to share their (basic) data in near-real time. IPAB, supported by DBCP and JCOMM, provides training opportunities to its members and associated scientists, especially Early Career Scientists, to acquire such skills. This includes IPAB members hold crucial experience in designing and building specialized equipment in support of their research. IPAB facilitates the exchange of this expertise within the group and extending Research and Development information to commercial vendors in support of their programme objectives. 
+    4) Towards A sustainable Southern Ocean Buoy Network
+IPAB promotes a sustained synoptic-scale network of sea-ice buoys across the Southern Ocean with additional smaller scale buoy arrays placed at strategic locations. However, due to net northward sea-ice drift for most of the Southern Ocean, it is difficult to achieve this goal based on scientific project funding for buoys and without dedicated logistical support. 
+
+It is important to have a sustainable Southern Ocean Buoy network, crucial for forecasting weather and sea-ice conditions, for validating satellite observations and numerical climate models as well as for research on Antarctic climate and climate change.
+
+IPAB therefore seeks to
+
+    • Promote the Southern Ocean sea-ice buoy network through National Antarctic programmes, research and operational institutions, SCAR National Committees and other relevant bodies – with view to: 
+                    ◦ Identify synergies in logistics and to co-operate with other operators of drifter- or data-collection systems to mutually improve deployment opportunities.;
+                    ◦ Provide platforms for pressure upgrade2 or similar to other scientific or operational agencies; 
+    • Co-ordinate the development and maintenance of an optimised (regional) network for near-surface meteorological and oceanographic observations within the Antarctic sea-ice zone, using drifter buoys and other appropriate data collection systems;
+and 
+    • Increase the awareness and the uptake of position and auxiliary data obtained by IPAB sea-ice buoys as well as of derived products by both, scientific and operational communities.
+
+The assistance of Antarctic Treaty Parties to further these aims is crucial. For further information or to discuss joint engagement, please contact the IPAB Chair (petra.heil@utas.edu.au) or see http://www.ipab.aq.
+
+
+Footnote: 
+1  Note that the planning was to deploy a total of 27 buoys. However, unfavourable sea-ice conditions prevented the vessel moving to the target regions for the deployment of three 9 buoy arrays, as well as some of the ice floes were unsuitable to support the deployment operations.
+
+2 Pressure upgrades enable meteorological organisations to deploy sensors on drifting buoys, that would otherwise not collect air-pressure sensors, without having to purchase a full buoy, or organizing deployment logistics. Similar upgrades for other sensors are within scope.

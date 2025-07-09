@@ -1,0 +1,53 @@
+﻿
+
+
+
+
+
+UAV remote sensing of environmental changes on King George Island (South Shetland Islands): update on the results of the second field season 2015/2016
+
+
+
+
+
+
+
+
+UAV remote sensing of environmental changes on King George Island (South Shetland Islands): update on the results of the second field season 2015/2016
+Information Paper submitted by Poland
+
+Summary
+The following paper provides an update on the second field season of a monitoring program using fixed-wing Unmanned Aerial Vehicles (UAVs) to collect geospatial environmental data. 
+Two different types of UAVs were used for collecting data on penguin and pinniped populations’ size and distribution, as well as mapping of vegetation communities. Observations on overflight impact on breeding penguins and southern giant petrels were made.
+Background
+Details of the first field season were reported to ATCM XXXVIII/CEP XVIII (IP77). During the Antarctic summer 2014/2015 MONICA (A novel approach to MONitoring the Impact of Climate change on Antarctic ecosystems) was began at the Arctowski Station. Two Polish scientific institutes (Institute of Biochemistry and Biophysics, Warsaw University of Technology) and one Norwegian institute (Northern Research Institute) cooperated in the project. During the first season the performance of several types of UAVs were tested in weather conditions prevailing on King George Island, safety protocols were checked out, UAV-based mapping  of seven penguins’ breeding colonies on King George Island was done and compared with ground surveys, penguin response to UAV overflights was analyzed.
+Second field season’s objectives were:
+    • UAV-based mapping of selected penguins’ breeding colonies in Admiralty Bay area,
+    • Collecting high-precision reference data from ground level (penguin nest census in accessible breeding colonies and in the areas for vegetation mapping) for georeferencing of the UAV images 
+    • Observing wildlife response to UAV overflights,
+    • UAV-based mapping, with RGB, NDVI and hyperspectral sensors, of vegetation of selected areas in Admiralty Bay area. Comparing the new UAV-based vegetation map with an historical vegetation map.
+Study site
+Field studies were conducted on King George Island (South Shetland Islands, West Antarctic Peninsula) in November - December 2015 (penguin breeding colonies), and in January – February 2016 (vegetation mapping).
+Penguin breeding colonies situated in ASPA No 128 Western Shore of Admiralty Bay, Chabrier Rock and Shag Islands (Admiralty Bay) were selected for aerial censuses. ASPA No 128 is the site of long-term monitoring programs of breeding and non-breeding birds, and pinniped species, conducted by US (Antarctic Marine Living Resources AMLR) and Poland (Dept. Antarctic Biology IBB PAS) since 1976. Chabrier Rock and Shag Island are monitored only occasionally (difficult access), but colonies of chinstrap penguins (Pygoscelis antarcticus) breeding there represent ca one-third of the total number of breeding pairs within the Admiralty Bay. Aerial and ground nests censuses were recorded from middle of November to early December (depending on species), in a period which is approximately 1 week after peak clutch initiation. 
+Aerial mapping of the vegetation was done in the area from the Arctowski Station to the Ornithologists Creek (ASPA No 128), as well as in the forefield of the Sphinx Glacier (ASPA No 128). Ice-free areas of ASPA No 128 are grown over by typical maritime Antarctic vegetation, with newly exposed terrain being successively colonized first by microbial communities, than by lichens, mosses and vascular plants. Vegetation map of Jasnorzewski Gardens from 1979 was used for comparison with the present data. Timing of flights depended on the persisting snow cover.
+Aerial surveys
+Information on UAV models used on King George Island:
+PW-Zoom1 (MTOW 16.8 kg, wingspan 3.0 m, max flight distance 200 km, max flight time 120 min, fuel –  95 octane gasoline)
+CryoWing Scout (MTOW 7.0 kg, wingspan 2.5 m, max flight distance 100 km,  fuel – Li-Pol Battery)
+Take-offs and landings were done at Arctowski Station (PW-Zoom1) and at Penguin Ridge, ca 500 m south of the Arctowski Station (CryoWing Scout).
+Images of penguin colonies were taken with digital cameras: SLR Canon 700D, Nikon D5300, Nikon D5100 with a 35mm objective lens. Flights’ altitude of 350 – 400 AGL allowed images to be taken with a resolution GSD (ground sample distance) less than 5 cm. 
+Images of plant communities were taken with RGB, NDVI and hyperspectral (Rikola) sensors, with flights’altitude between 150 and 350 m AGL.
+Safety protocols tested during 2014/2015 season were used (see IP77 - ATCM XXXVIII/CEP XVIII). All Parties conducting operations on King George Island, as well as IAATO and ASOC, were informed. Chain of communication was pre-agreed with Base Frei (Chile), detailed information about each flight were also announced on channel 16 and 12 VHF 30 minutes before each flight. Information exchange and coordination were additionally arranged with Comandante Ferraz Station (Brazil).
+No emergency situations took place, and no need arose to terminate any of the UAV flights before its completion.
+All flight plans were safely and properly executed. 
+Following the last season’s experience flights were executed only after a thorough analysis of weather conditions, with data on wind speed and direction, cloud ceiling, visibility, precipitation, humidity and temperature analysed before flight plan preparation. Weather forecasts and day-of-flight observations were used to find windows of opportunity needed to conduct safe aerial operations. 
+Preliminary results
+Data collected during 2015/2016 season is still in the process of analysis, so only very preliminary results are presented.
+Eight successful flight missions (total distance 655 km, total flight time 9 hrs) were performed between 10th November and 5th December 2015, covering coastal zone of ASPA No 128, Chabrier Rock and Shag Islands.
+Almost 18 thousand Pygoscelis penguin nests in six breeding colonies located in Admiralty Bay area were counted from the images taken during the UAV flights. Analysis included a comparison of digital data with the data acquired from ground-based measurements, obtaining high compliance, with less than 10% difference. 
+Data acquired during both 2014/2015 and 2015/2016 seasons made it possible to map penguin and pinniped populations’ size and distribution. On the basis of photogrammetry data and historical data, an analysis of populations’ changes is being done for Admiralty Bay and King George Bay areas. ImageJ software for the automatic detection of selected bird species, and a cellular automata method of distinguishing individual nests were applied in the analysis of UAV images. Relationship between penguin nests’ localization and physical features of the terrain were ascertained.
+Studies on the potential effects of disturbance by UAV overflights were done following the methodology developed on the basis of experiences gained during the previous season. The reactions of breeding Adelié penguins (Pygoscelis adeliae), Gentoo penguins (P. papua) and southern giant petrel (Macronectes giganteus) to overflights by PW-Zoom1 were recorded on video camera. Noise data were measured using a DT-8852 Precision Data Logging Sound Level Meter (Frequency range 31.5Hz - 8kHz, Measurement range (A) 30dB - 130dB) with an microphone. Recordings done during the overflights will be analyzed.
+Six successful flight missions (total distance  about 200 km) were performed between 28th January and 6th February 2016, covering the area between Arctowski Station and Ornithologists Creek, as well as the forefield of the retreating Sphinx Glacier (ASPA No 128). 
+Field measurements of the spectral properties of species dominant in the area were done, enabling the hyperspectral Rikola-based mapping of the main vegetation communities from the large-area UAV photos. The preliminary results indicate problems with the georeferencing of the hyperspectral images, and  suggest focusing on data from the NDVI camera. The preliminary classification results obtained with the use of knowledge-based rules and terrain properties in addition to NDVI, indicate that several vegetation types can be mapped
+Poland would like to thank Chile, and specially dr José Retamales (Director Instituto Antártico Chileno) for help in UAV flight coordination by Base Frei. 
+

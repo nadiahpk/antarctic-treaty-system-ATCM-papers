@@ -1,0 +1,134 @@
+Switzerland’s contribution to snow research in Antarctica
+2011-2021
+Switzerland’s contribution to snow research in Antarctica
+2011-2021
+Information Paper submitted by Switzerland
+Summary
+This paper summarizes the past decade of research activities
+concerning snow and firn in Antarctica at different host stations
+conducted by scientists in Switzerland.
+Background
+Snow and firn are understudied key components of the recent
+geology and atmosphere of Antarctica. In close collaboration with
+different national research institutes and agencies, the expertise in
+snow and firn research within Switzerland's research institutes
+could be exploited.
+Introduction
+The WSL Institute for Snow and Avalanche Research and the
+Laboratory of Cryospheric Sciences at EPFL conducted several
+measurement campaigns in collaboration with different nations and
+institutes. The main goal of this research was to improve the
+interaction between precipitation, sublimation and snowdrift, and
+the microstructural properties of the snow and firn pack. The
+following institutes and organizations allowed conducting these
+joint expeditions:
+LGGE-CNRS Grenoble, France (now IGE-CNRS Grenoble)
+National Institute for Polar Research (NIPR), Japan
+Australian Antarctic Service (AAS)
+French Polar Institute Paul-Émile Victor
+Alfred Wegener Institute, Helmholtz Centre for Polar and Marine
+Research
+US Antarctic Program (NSF)
+International Polar Foundation
+We thank all these institutions for their support in logistics and help
+at the stations.
+Summary of expeditions and publications
+The "Allan Hill blue ice as analog of Snowball Earth" expedition, led
+by S. Warren, could be joined by M. Schneebeli (WSL). This resulted
+in the first detailed imaging of blue ice and allowed improved
+modelling of the albedo (Dadic et al, 2013, Dadic et al, 2015). The
+expedition was part of the US. Antarctic Program.
+The main goal of the EXPLORE expedition led by chief scientist J.
+Chappellaz (IGE) in 2011-2012 was to investigate the snow and firn
+conditions around and in between the Russian station Vostok and
+the French-Italian station Concordia in view of the “oldest ice
+project”. Due to logistical difficulties, only a two-day intense snow
+measurement session could be conducted on the traverse between
+Vostok and Concordia at Point Barnola. The results of these
+measurements are published in Calonne et al, 2017.
+One researcher from WSL-SLF could join the CoFi-expedition led by
+the chief scientist S. Kipfstuhl (AWI) in 2012-2013. The goal of the
+snow research at Kohnen station was to investigate the micro- and
+macrostructual properties of a low accumulation snowpack in
+comparison to Point Barnola. Several new instruments could be
+tested in an Antarctic environment (Proksch et al, 2015).
+Drifting and blowing snow and sublimation are dominant ablation
+processes in the polar regions. It is crucially important to quantify
+their contribution to the mass balance of our ice sheets. Their
+quantification also helps in assessing precipitation and sea level
+changes as climate warms. In this context, members of the CRYOS
+lab at EPFL and the research unit Snow and Atmosphere at WSL/
+SLF have installed three automatic weather stations, which have
+specifically been designed to not only measure meteorological
+parameters, surface energy balance and snow depth but as well
+drifting snow with a Japanese snow particle counter (SPC). Two
+such stations have been installed in the vicinity of the Princess
+Elisabeth Station run by the International Polar Foundation (IPF)
+starting with a first expedition in 2016/17 (M. Lehning; N. Wever).
+These stations have in the following years been serviced and
+extended by H. Huwald, N. Wever and A. Sigmund. In 2018,
+additional such stations have been established in the vicinity of the
+Japanese Syowa station (specifically at S17) and at the Australian
+Davis station. The data from the stations are used in model
+validation (Sharma et al., 2022) and to understand surface mass
+exchange under blowing snow (Sigmund et al., 2021).
+With participation in overall three Antarctic cruises (Sipex - E.
+Trujillo, AntEx - N. Wever, K. Leonard, ACE - I. Gorodetskaya), the
+CRYOS lab has also gathered data on snow distribution on sea ice
+(Trujillo et al., 2016), which allow improved modelling of sea ice
+dynamics and mass balance (Wever et al., 2020) and of snow on sea
+ice (Jafari et al., 2020).
+Within the framework of the IPEV project NIVO, the project
+partners (Ghislain Picard (PI, IGE, Grenoble), Amaelle Landais
+(LSCE, Paris), Henning Löwe (WSL-SLF, Davos)) investigate the
+imprint of near-surface snow processes in the creation of climate
+signals in low-accumulation areas at the French-Italian Concordia
+Station. In 2018 a WSL-SLF researcher participated in the Antarctic
+summer field season on Dome C for deploying a metamorphism
+experiment and conducting other operational measurements for the
+project. The preliminary results (Löwe et al, 2018) suggested an
+iteration of the experiment which is approved within the third
+funding period NIVO3 (2021-2025) and scheduled for the field
+season 2023/2024.
+References
+Sharma, V., Gerber, F., and Lehning, M.: Introducing CRYOWRF
+v1.0: Multiscale atmospheric flow simulations with advanced snow
+cover modelling, Geosci. Model Dev. Discuss. [preprint], https://
+doi.org/10.5194/gmd-2021-231, in review, 2021.
+Trujillo, E., K. Leonard, T. Maksym, and M. Lehning (2016),
+Changes in snow distribution and surface topography following a
+snowstorm on Antarctic sea ice, Journal of Geophysical Research-
+Earth Surface, 121(11), 2172-2191, doi:10.1002/2016jf003893.
+Jafari, M., I. Gouttevin, M. Couttet, N. Wever, A. Michel, V. Sharma,
+L. Rossmann, N. Maass, M. Nicolaus, and M. Lehning (2020), The
+Impact of Diffusive Water Vapor Transport on Snow Profiles in
+Deep and Shallow Snow Covers and on Sea Ice, Frontiers in Earth
+Science, 8, doi:10.3389/feart.2020.00249.
+Sigmund, A., J. Dujardin, F. Comola, V. Sharma, H. Huwald, D. B.
+Melo, N. Hirasawa, K. Nishimura, and M. Lehning (2021), Evidence
+of Strong Flux Underestimation by Bulk Parametrizations During
+Drifting and Blowing Snow, Boundary-Layer Meteorology,
+doi:10.1007/s10546-021-00653-x.
+Calonne, N., Montagnat, M., Matzl, M., & Schneebeli, M. (2017).
+The layered evolution of fabric and microstructure of snow at Point
+Barnola, Central East Antarctica. Earth and Planetary Science
+Letters, 460, 293–301. https://doi.org/10.1016/j.epsl.2016.11.041
+Proksch, M., Löwe, H., & Schneebeli, M. (2015). Density, specific
+surface area, and correlation length of snow measured by high-
+resolution penetrometry. Journal of Geophysical Research: Earth
+Surface, 120(2), 346–362. https://doi.org/10.1002/2014JF003266
+Löwe, H., Jaggi, M., Matzl, M., Schneebeli, M., Picard, G., Arnaud,
+L., Landais, A. Comparison of in-situ and ex-situ metamorphism in
+near-surface snow stratifications at Dome C, Geophysical Research
+Abstracts Vol. 21, EGU2019-14253-1, 2019
+Dadic, R., Schneebeli, M., Bertler, N. A. N., Schwikowski, M., &
+Matzl, M. (2015). Extreme snow metamorphism in the Allan Hills,
+Antarctica, as an analogue for glacial conditions with implications
+for stable isotope composition. Journal of Glaciology, 61(230),
+1171-1182. https://doi.org/10.3189/2015JoG15J027
+Dadic, R., Mullen, P. C., Schneebeli, M., Brandt, R. E., & Warren, S.
+G. (2013). Effects of bubbles, cracks, and volcanic tephra on the
+spectral albedo of bare ice near the Transantarctic Mountains:
+Implications for sea glaciers on Snowball Earth. Journal of
+Geophysical Research: Earth Surface, 118(3), 1658–1676. https://
+doi.org/10.1002/jgrf.20098

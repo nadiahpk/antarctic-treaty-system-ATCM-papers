@@ -1,0 +1,134 @@
+﻿
+
+
+Systematic Environmental Protection In Antarctica – refining and reviewing the “proof of concept” Environmental Domains of Antarctica classification for a systematic environmental geographic framework
+
+
+
+
+Systematic Environmental Protection In Antarctica – refining and reviewing the “proof of concept” Environmental Domains of Antarctica classification for a systematic environmental geographic framework
+
+
+Working Paper submitted by New Zealand
+
+Executive Summary 
+Since CEP VIII New Zealand has refined and checked the classification of Antarctic Environments created using Environmental Domains Analysis. A fine scale classification will soon be available for the Larsemann Hills ice-free area.  Better incorporation of ice-free terrain into the continental classification will rectify a disparity found by one reviewer and improve it. The “proof of concept” classification provides a scientifically sound basis for differentiating parts of the ice sheet and ground truthing shows that the classification is realistic for the ice sheet.
+The representation of the current ASPAs and ASMAs in the classification will be reported on at CEP IX. Dissemination of the Environmental classification and underlying data layers for further review and operational use should be achievable.
+
+Background
+Since 2000 New Zealand has been working on a systematic environmental geographic framework (SEGF) in order to provide substance to this undefined phrase in Article 3(2) of Annex V of the Protocol.  Some potential uses of a SEGF are noted in a poster prepared for the workshop on Antarctica’s future environmental challenges and others were noted in previous papers (e.g. ATCM XXVI/WP 20). A four to six year programme was set out at CEP VI and reviewed for CEP VIII to develop and publish an operational classification, with a website for internet delivery to end-users.  
+At CEP VIII New Zealand presented Working Paper ATCM XVIII / WP 2, Information Paper ATCM XXVIII / IP 44 and a power point presentation to demonstrate a “proof of concept” classification, at the scale of the Antarctic continent, into 20 Environments (also known as “environmental domains”), using Environmental Domains Analysis. This multivariate classification process analysed a systematic 25% sub-sample of over 13 million 1000m pixels from eight underlying data layers differentiating the physical environment of the continent (e.g. climate, ice cover, geology).  Working Paper 2 noted that the “proof of concept” classification layer of 20 Environments needed to be reviewed and finalised with input from others, and that a finer scale classification layer comprising perhaps 100 Environments was required at regional scales or areas of high spatial variability such as ice-free land environments (also known as “oases”).  
+
+Progress since CEP VIII
+CEP VIII expressed strong support for this work.  Since CEP VIII New Zealand has aimed to:
+    • Attempt a fine scale classification of Larsemann Hills in East Antarctica 
+    • Ground truth and review the draft 20 Environment classification using biotic and other data
+    • Compare the ASPA network with the 20 Environment classification to assess how the existing protected areas fit it and the degree to which they are represented in it
+    • Identify and apply technology for disseminating the classification layer.
+
+The work programme has been greatly assisted by Australia and the Russian Federation who have provided data and information on Larsemann Hills and the ice sheet.  However funding within New Zealand has been slow to materialise and therefore work by Landcare Research has been delayed.  Therefore we can only report partial achievement of our aims for 2005-06.  More details will be provided at CEP IX.   
+
+Fine scale classification of Larsemann Hills
+Australia provided very useful subregional climate data, and high quality data for the ice-free area itself that will enable a fine scale classification.  There are some technical challenges in transferring data between different projections but we expect to be able create a fine scale classification and update the 20 Environment classification in this part of the Antarctic.  We also expect to be able to ground truth this classification with information supplied by the Russian Federation and Australia.  This will demonstrate the feasibility and applicability of the classification system at a local operational scale.
+ 
+Ground truthing and review of the “proof of concept” 20 Environment classification
+Previously we have noted that the initial classification was consistent with two other less detailed classifications of Antarctica that we knew of at the continental scale. These did not have the objectivity or detail of the computerised numerical classification approach but provided a very broad “ground truthing” of the classification. At CEP VIII the Russian Federation and Chile noted that the classification could also be compared to other earlier analyses including the concept of nature zones.  We have not yet been able to access these earlier classifications.  
+The Russian Federation noted the major differences between the East and West Antarctic ice sheets and provided borehole ice temperature data that have helped us the ground truth the “proof of concept” classification. The surface temperature regime of the ice sheet (e.g. Figure 1) is a widely used scientific parameter that is influenced by elevation and other climate drivers including solar radiation and diurnal length (related to latitude): temperature and these other climate elements are primary descriptors of the physical environment used in the “proof of concept” classification, at the surface.  The ice sheet temperature regime is also driven by surface mass balance, ice thickness, topography, ice flow and geothermal heat flux but only surface slope and a simplified ice cover layer are used in the classification. Traditionally classification of the surface environment is most important for environmental protection, and on the ice sheet for example Russian work has shown how the temperature regime of the surface and near surface layers is important for the biodiversity of micro-organisms found in these layers.  
+The 20 Environment classification makes broad distinctions between different parts of the Antarctic ice sheet. Environments J, M and N comprise the bulk of the East Antarctic Ice Sheet (EAIS) in particular the highest (mostly above about 2300m), coldest and generally flatter parts. Environment P which is mostly well below 2500m and has a more moderate but generally windier climate comprises the West Antarctic Ice Sheet (WAIS) and part of the EAIS in Coates Land.  The boundary between EAIS and WAIS is traditionally considered to be the Transantarctic Mountains which separate the older East Antarctic land mass from the younger West Antarctic archipelago although the relationship between the two parts of the continent is not clear.  Ice provenance and glacial dynamics provide different but still scientifically rational divisions between the ice sheets (e.g. Zwally and others, 2005). Table 1 and Figure 2 show how the Environments M and P (the two ice sheet Environments at Vostok and Byrd stations respectively) differentiate between the surface temperature and the upper layers of the Antarctic ice sheet at these points.  The classification gives a realistic representation of this fundamental aspect of the ice sheet. Other sites on the East Antarctic ice sheet are also differentiated well although the high elevation of Dome F means it is colder and though fitting best in Environment J overall is close to the boundary with the coldest Environment M. The climate-slope-land cover classification provides a scientifically sound basis for differentiating parts of the ice sheet and may provide different insights (e.g. the net snow accumulation contribution to ice sheet mass balance as illustrated by Zwally and others 2005). 
+More relevant to the CEP is that the ground truthing summarised briefly here shows that the “proof of concept” classification is realistic for the ice sheet.
+
+Figure 1. Temperature in the  East and West Antarctic ice sheets at Vostok and Byrd stations using data supplied by Russian Federation adopted from Barkov and others (2002), Lipenkov and others (2004) and Gow and others (1968)
+ 
+
+Table 1. The four central ice sheet Environments and sites on the ice sheet with comparative temperature and other data from Morgan and others (2005), Jacka and others (2004), Stauffer and others (2004), Frezzotti and others (2004) and Saito and Abe-Ouchi (2004).
+Parameter
+South Pole
+Vostok Station
+Dome C
+Dome Talos
+Dome Fuji
+EPICA DML
+Byrd Station 
+Environment
+N
+M
+M
+J
+J (-M)
+J
+P
+Average mean annual temperature of Environment (°C)
+-46.3
+-48.3
+-48.3
+-40.2
+-40.2
+-40.2
+-27.0
+Mean annual surface temperature at site (°C)
+-49.5
+-55.2
+-51AWS,     -54.5
+-41 at 15m in firn
+-56 simulated
+-44.6
+-28
+Surface elevation (m)
+2850
+3500
+3233
+2316
+3810
+2892
+1497
+Latitude °S
+90.0°
+78° 30’
+75° 06’
+72° 47’
+77° 19’
+75° 05’
+80.0°
+Longitude
+-
+106° 54’E
+123°24’E 
+159°04’E
+39°40’E
+0°04’E 
+119°31’W
+
+
+
+
+
+
+
+Figure 2. 20 Environment “proof of concept” classification of Antarctica showing locations of Byrd and Vostok stations located on P and M Environments which represent parts of the West and East Antarctic ice sheets respectively. Other sites on the East Antarctic Ice Sheet Environments J, M and N referred to in Table 1 are also shown.
+
+
+We have been unable to obtain any suitable continental scale biological datasets but have had a good exchange of helpful correspondence with SCAR and Australian scientists.  They are developing the RiSCC terrestrial and freshwater biodiversity database and are establishing about 23 bioregions for the Antarctic landmass (Dana Bergstrom personal communication). When this huge task is complete it will enable a very useful comparison with the 20 group of Environments.  The seabird dataset established under the SCAR Group of Experts on Birds (Eric Woehler personal communication) was not used.  It has relatively generic point locations at the continental scale and would take considerable time at regional scales to transfer locations into useful formats.  Results obtained may not be discriminatory enough given that feeding areas at sea are important drivers of sea bird distribution as well as the availability or type of ice free areas for nesting sites and climate.  
+There is a disparity in the proportion of ice-free area as compiled in the “proof of concept” classification compared to the most recent presentation in the Antarctic Data Directory (ADD). Professor James Bockheim, Department of Soil Science, University of Wisconsin, Madison, USA noted that Information Paper ATCM XXVIII / IP 2 contained an estimate for the area represented by a 1971 geological dataset (digitised from a 1:5 million scale map) for exposed rock areas equivalent to 7.2% of the continent. Ice-free areas in the ADD cover 45,000 km2 or only 0.3% of the continent (as reported by Fox and Cooper 1994). The geology dataset used in the “proof of concept” classification includes ice covered areas near rock outcrops and possibly some amplification of area due to scale effects, so is less accurate.  Therefore the ADD ice-free layer is being used instead with the original ice landform layer, and the geology data is split into a higher order layer. This will refine the Environment classification and increase its reliability in the important ice-free areas of the continent, especially at finer scales.  
+This refinement will also provide a better platform for international work including that being carried out by Professor Bockheim, New Zealand’s Landcare Research scientists and others on a proposed Antarctic wide soils mapping project (International Permafrost Association).  When that project is completed it could be added as another underlying data layer.  Similarly the improved geological information that the SCAR representative referred to at CEP VIII may, when completed, replace the 1971 layer and allow further refinement.
+Comparison of the ASPA network and the 20 Environment classification
+An ASPA layer has been developed again with valuable assistance from Australia to compare with the “proof of concept” classification in order to make an initial assessment of representation, comprehensiveness and adequacy of protected areas.  The representation of the current ASPAs and ASMAs in the classification will be reported to CEP IX.  However it is clear that, as already known, representation geographically is limited-many inland, coastal and ice-free Environments do not have any protected areas. This is because of the mandated historic focus on environmental risk in areas of the most intense human activity. The biotic and other data in the ASPA layer will also be of some use as a ground truth exercise to test the 20 group classification.
+
+Dissemination of the classification layer
+We have not yet been able to disseminate the classification layer electronically for wide review or operational use.  However internet mapping system technology (ArcIMS) has been further developed for other projects within Landcare Research which will facilitate its application to this project.  Discussions with the Antarctic Treaty Secretariat indicated that it has the technical capability to assist with dissemination.  A web map server being developed for the ADD (Paul Cooper personal communication) may also be able to be used.  Dissemination of the refined classification will not be difficult to achieve
+
+The future
+New Zealand hopes to complete the initial development and dissemination of a refined 20 Environment classification before CEP X. Incorporation of wilderness, aesthetic and other values can be envisaged but defining them and incorporating them as layers will take further work and may not be possible in this time frame. Criteria need to be developed for delineating areas of Antarctic wilderness to represent in the ASPA network, as this wilderness is increasingly under some threat from, for example, aircraft-based operations.  Intangible values are increasingly being discussed around the world and the time may be right to make further progress in Antarctica.  However no funding has been secured beyond August 2006 for documentation or subsequent work on future applications of the more complete classification (e.g. to facilitate transparent evaluation of the representativeness, comprehensiveness and adequacy of existing or proposed protected areas, support monitoring and State of the Environment reporting, identify environments “at risk” of non-native species establishment, as well as for research purposes).
+ It has been encouraging to see work start under the auspices of CCAMLR on bioregionalisation in the marine environment for marine protected areas. The environmental domains approach to marine classification is applicable for differentiating between shore, near-shore and offshore areas.
+
+References
+Barkov, NI, RN Vostretsov, VYa Lipenkov and AN Salamatin, 2002. Air temperature and precipitation oscillations in the Vostok station area during four climatic cycles for the last 420 kyr. Arktika and Antarktika 1 (35), p 82-89. (In Russian with English summary).
+Gow, AJ, HT Ueda, DE Garfield, 1968. Antarctic ice sheet: preliminary results of first bore hole to bedrock. Science 161 (3845), p1011-1013.
+Fox. AJ, and APR Cooper 2004. Measured properties of the Antarctic ice sheet derived from the SCAR Antarctic digital database .Polar Record 30, p. 201-206.
+Frezzotti, M, G Bitelli, P de Michelis, A Deponti and nine others, 2004. Geophysical survey at Talos Dome, East Antarctica. Annals of Glaciology 39, 423-432.   
+Jacka, TH, WF Budd and A Holder, 2004. A further assessment of surface temperature changes at stations in the Antarctic and Southern Ocean, 1949-2002. Annals of Glaciology 39, 331-338.
+Morgan, F, J Leathwick, R Price and H Keys, 2005. Environmental Domains Analysis for the Antarctic continent. Landcare Research New Zealand, ATCM XXVIII/CEPVIII Information Paper 2, 57 pages.
+Lipenkov, VYa, YuA Shibayev, AN Salamatin and others, 2004.  Current climatic changes recorded in the temperature variations in the upper 80m layer of the glacial strata at Vostok station. Materials of Glaciological Studies 2004, 97, p44-56).  (In Russian with English summary). 
+Saito, F, and A Abe-Ouchi, 2004. Thermal structure of Dome Fuji and east Dronning Maud Land, Antarctica, simulated by a three-dimensional ice-sheet model. Annals of Glaciology 39, 433-438.
+Stauffer, B, J Fluckiger, E Wolfe and P Barnes, 2004. The EPICA deep ice cores: first results and perspectives. Annals of Glaciology 39, 93-100.
+Zwally, HJ, MB Giovinetto, J Li, HG Cornejo, MA Beckley, AC Brenner and others, 2005. Mass changes of the Greenland and Antarctic ice sheets and shelves and contributions to sea level rise: 1992-2002.  Journal of Glaciology 51 (175), 509-527. 
+

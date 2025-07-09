@@ -1,0 +1,266 @@
+﻿
+
+
+
+
+
+Revision of Maps for Antarctic Specially Managed Area No. 2 McMurdo Dry Valleys, Victoria Land
+
+
+
+
+
+Revision of Maps for Antarctic Specially Managed Area No. 2  McMurdo Dry Valleys, Victoria Land
+Introduction
+Italy, New Zealand and the United States have initiated a review of the Management Plan for Antarctic Specially Managed Area No. 2 McMurdo Dry Valleys, Victoria Land. One finding of the review conducted thus far is that improvements to maps of the Area would be particularly useful. 
+The current Management Plan contains a total of 14 line maps: two overview maps and twelve large scale maps, providing information on the eleven Facilities Zones and one Tourism Zone. The Management Plan currently has no maps for the nine Special Features that are located within ASMA No. 2. As a result, it has often proven difficult to locate and identify the Special Features. The existing Facility and Tourism Zone maps tend to show only the zone boundary and the main structures within the zones, such as buildings, campsites and markers, providing little contextual information. As a result, many people using the Management Plan have experienced difficulties in identifying key features in the field. In order to enhance the usability and clarity of these maps further contextual information is being added, including lakes, shorelines, glacial features, and the local topography. 
+Mapping improvements
+In order to enhance the map products, a selection of recent (within the past 5 years) sub-meter multispectral and panchromatic commercial satellite imagery for the area was acquired from the Commercial Imagery Program of the National Geospatial-Intelligence Agency (NGA). The Antarctic Geospatial Information Center (AGIC) at the University of Minnesota has played an important role in making these data more readily available to the Antarctic science community. The imagery was used to update the maps in combination with high-quality color aerial photographs obtained for the Taylor Valley through a NZ / US mission conducted in 1993. In order to update the maps, the imagery was tied accurately to ground features using ground control points collected in the field over the past several seasons. 
+Topographic features are being digitised from orthorectified satellite imagery in order to take account of changes in the physical environment, such as changes in lake level or ice front positions. Special Features are being delineated using a combination of ground survey, orthorectified imagery and elevation data. In the present management plan, the Special Features are given only as approximate point locations. 
+Additional improvements are being made to the maps by incorporating topographic data from Lidar (Light Detection and Ranging) Digital Elevation Models (DEMs) that were made available from USGS. The DEMs are being used to derive contour lines for specific areas within the ASMA, such as the Facilities Zones. The USGS base map series (1:50,000) for the Dry Valleys has also been important for identification of topographic features within the Area. 
+Map product development
+In total 22 maps are under development for ASMA No. 2 McMurdo Dry Valleys. The map series comprises two overview maps, eleven maps of the Facilities Zones, eight maps of the Special Features and one map of the Tourism Zone (Table 1, Figure 1). The map scales were selected so that the context of topography and physical features surrounding each site was provided within the main map extent. Inset maps are used to provide a high level of detail within each of the Zones and for the Special Features where appropriate.
+Maps showing the Facilities Zones, Special Features and Tourism Zone are being created in two versions: as a color image map (Figures 2 and 4) and as a black and white line map (Figures 3 and 5). The image maps provide useful information on ground features and will be made available for field use. The line maps will serve a range of functions, including use in the management plan, in field manuals, and as base maps for scientific papers. The black and white line versions ensure that all maps will be clear and easily reproducible for the range of anticipated uses. 
+Table 1. Site maps under development to support ASMA No. 2 McMurdo Dry Valleys
+Map No. & Title
+Description
+Scale
+Imagery
+OVERVIEWS
+
+
+
+Maps 1 & 2
+Regional maps of ASMA No. 2 McMurdo Dry Valleys and Taylor & Wright Valleys
+Small
+-
+
+
+
+
+FACILITIES ZONES
+
+
+
+Map 3 - New Harbor Facilities Zone
+New Harbor
+1:25,000
+Aerial photo
+Inset
+New Harbor Facilities Zone
+1:3,000
+Aerial photo
+
+
+
+
+Map 4 - F6 Camp Facilities Zone
+Lake Fryxell, ASPA No.131 Canada Glacier, topography
+1:25,000
+Aerial photo
+Inset
+F6 Camp - LTER Science facilities
+1:3,000
+Aerial photo
+
+
+
+
+Map 5 – Lake Fryxell Facilities Zone
+Lake Fryxell, ASPA No.131 Canada Glacier, topography
+1:25,000
+Aerial photo
+lnset
+Lake Fryxell Camp
+1:3,000
+Aerial photo
+
+
+
+
+Map 6 - Lake Hoare Overview
+Lake Hoare, Canada Glacier, topography
+1:25,000
+Aerial photo
+
+
+
+
+Map 7 – Lake Hoare Facilities Zone
+Lake Hoare Camp 
+1:3,000
+Aerial photo
+
+
+
+
+Map 8 - Lake Bonney Camp Facilities Zone
+Lake Bonney, Bonney Riegel, Hughes Glacier, topography
+1:25,000
+Aerial photo
+Inset
+Lake Bonney Camp 
+1:3,000
+Aerial photo
+
+
+
+
+Map 9 - Mt Newall Facilities Zone
+Mt. Feola, Mt. Newall, & Newall, Goodspeed, Decker & Denton Glaciers
+1:25,000
+Quickbird
+Inset
+Mt Newall Facilities Zone communications facilities
+1:3,000
+Quickbird
+
+
+
+
+Map 10 - Marble Point Facilities Zone
+Topography, streams, shoreline, structures etc
+1:25,000
+Quickbird
+Inset
+Marble Point Facilities Zone refueling station
+1:5,000
+Quickbird
+
+
+
+
+Map 11 - Lower Wright Hut Facilities Zone
+Brownworth Lake, Wright Lower Glacier, Onyx River, topography
+1:25,000
+Quickbird
+Inset
+Lower Wright Hut and science facilities
+1:3,000
+Quickbird
+
+
+
+
+Map 12 - Lake Vanda Hut & Bull Pass Hut Facilities Zones
+Wright Valley, Lake Vanda, Argo Gully, Boulder Pavement, topography
+1:25,000
+Quickbird
+Inset 1
+Lake Vanda Hut (NZ) Facilities Zone
+1:3,000
+Quickbird
+Inset 2
+Bull Pass Hut (US) Facilities Zone
+1:3,000
+Quickbird
+
+
+
+
+Map 13: Cape Roberts Hut Facilities Zone
+Topography, streams, shoreline, structures
+1:10,000
+Quickbird
+Inset
+Cape Roberts Hut Facilities Zone
+1:3,000
+Quickbird
+
+
+
+
+SPECIAL FEATURES
+
+
+
+Map 14- Trough Lake Catchment - Special Feature
+Topography, streams, glacial features etc
+1:100,000
+Quickbird
+
+
+
+
+Map 15 - Mount Feather Sirius Deposit - Special Feature
+Topography, streams, glacial features etc
+1:125,000
+Quickbird
+Inset
+Mount Feather Sirius Deposit - Special Feature
+1:25,000
+Quickbird
+
+
+
+
+Map 16 – Explorers Cove – Special Feature
+Topography, streams, glacial features etc
+1:5,000
+Aerial Photo
+
+
+
+
+Map 17 - Don Juan Pond - Special Feature
+Topography, streams, lakes, features etc
+1:50,000
+Quickbird
+
+
+
+
+Map 18 – Argo Gully & Boulder Pavement – Special Features
+Topography, streams, lakes, features etc
+1:20,000
+Quickbird
+
+
+
+
+Map 19: Prospect Mesa – Special Feature
+Topography, streams, glacial features etc
+1:20,000
+Quickbird
+Inset
+Prospect Mesa – Special Feature
+1:10,000
+Quickbird
+
+
+
+
+Map 20 - Sand Dune Field - Special Feature
+Topography, streams, glacial features etc
+1:50,000
+Quickbird
+Inset
+Sand dune field – Special Feature
+1:35,000
+Quickbird
+
+
+
+
+Map 21 - Battleship Promontory - Special Feature
+Topography, streams, glacial features etc
+1:50,000
+Quickbird
+
+
+
+
+TOURISM ZONE
+
+
+
+Map 22 - Canada Glacier - Tourism Zone
+Lake Fryxell, ASPA No.131 Canada Glacier, topography
+1:25,000
+Aerial photo 
+Inset
+Canada Glacier Tourism Zone
+1:5,000
+Aerial photo
+
+

@@ -1,0 +1,159 @@
+﻿
+
+
+
+
+
+Mawson Station Wind Farm – Four Years of Operational Experience
+
+
+
+
+Mawson Station Wind Farm – Four Years of Operational Experience
+Information Paper submitted by Australia
+Summary
+This paper reports on Australia’s experience operating a wind farm at Mawson station during the four year period to March 2007. The turbines have significantly reduced fuel use while providing heat and power to the station in a more environmentally and economically sustainable way.
+Background
+Mawson station is located on the coast of Mac. Robertson Land (67o36'S, 62 o52'E) and was established in 1954 as Australia’s first station on the Antarctic continent. It is an important base for research programs addressing geosciences, human impact studies, polar medicine, space and atmospheric science, and marine living resources.
+Studies in the early 1990s revealed the constant katabatic winds blowing from the inland of the continent make Mawson ideally situated to generate the bulk of its energy requirements with wind turbines. The Australian Antarctic Division worked closely with a German turbine manufacturer (Enercon) and an Australian company (Powercorp) to install two 300kW turbines (Figure 1) and the associated computerised powerhouse control system in early 2003.
+Appendix A discusses general considerations for the application of wind turbines / wind farms in remote locations. Appendix B provides more information about the engineering and design aspects of the wind farm at Mawson station.
+
+Figure 1. Wind turbines installed at Mawson station (Antarctic plateau in background)
+Operational outcomes
+The wind farm was initially designed to comprise three 300 kW turbines, to allow operation of the station free of fossil fuels. Although only two turbines were installed, the initial results of the project are very encouraging, with fuel savings greater than expected and few operational difficulties. 
+Baseline statistics were recorded in 2002, the year prior to installation of the turbines. In that year the average winter population was 19 and the average summer population was 41. With an average temperature range of +5 to -36oC and an annual average temperature of -12oC, the average electrical load and average heating load were each 250 kW (maximum loads were 259 kW and 270 kW respectively). Diesel fuel consumption during 2002 was 595 229 litres.
+The wind penetration (the percentage of station energy load provided by wind) throughout the four years following commissioning of the turbines in March 2003 is shown in Figure 2. Monthly average fuel savings during 2006 are shown in Figure 3.
+
+
+Figure 2. Proportion of Mawson station energy load provided by wind turbines (wind penetration)
+ 
+
+Figure 3. Mawson wind farm monthly average operational figures for 2006
+
+Since the turbines were commissioned, wind penetration of the station energy load has consistently exceeded 90% when steady winds above 12 m/s have occurred. As indicated below in Table 1, annual wind penetration during the first four years of operation has averaged 34%, equating to fuel savings of around 29% per annum above the baseline year in 2002 (for 2006, these figures slightly higher at 39% and 34.5% respectively). Monthly fuel savings have been as high as 58% compared with the corresponding month in 2002. It is worth noting that these reductions are on top of existing fuel savings of around 50% over the last 10 years through the existing diesel co-generation system (see Appendix A).
+
+Table 1. Statistics for operation of Mawson station wind turbines (March 2003 – March 2007)
+Average wind penetration of station load
+34%
+Maximum monthly average wind penetration
+60.5% (April 2006)
+Minimum monthly average wind penetration
+15.2% (June 2004)
+Average annual fuel saving (compared to 2002)
+29%
+Maximum monthly average fuel saving (compared to same month in 2002)
+58.1% (April 2006)
+Minimum monthly average fuel saving (compared to same month in 2002)
+8.1% (Jan 2006)
+Maximum average monthly wind speed at hub height
+20 m/s (72 kph)
+Minimum average monthly wind speed at hub height
+9.6 m/s
+Availability of turbines (excludes low and high wind stoppages)
+93%
+Tonnes CO2 saved
+1762
+
+On the basis of fuel reductions observed to date, the existing bulk fuel tanks can now hold sufficient fuel to meet station requirements for two year, creating potentially significant cost savings by removing the need for an annual ship visit to supply fuel. 
+Environmental outcomes
+An initial environmental evaluation (IEE) was prepared in 2000 to cover the environmental aspects of the installation and operation of the wind farm. Bird strike was an important consideration, although evidence from wind farms elsewhere indicated solid self-supporting towers (rather than guyed / lattice towers) and the use of fewer large turbines with slower rotating speeds would be a relatively low risk approach. Regular inspections have shown bird strikes to be very infrequent (averaging two per year).
+The significant average annual fuel saving achieved to date (29%) means an associated significant reduction in the quantity of atmospheric emissions. As indicated in Table 1, the result during the first four years of operation has been a saving of 1762 tonnes of CO2. Importantly, reducing the fuel requirements for the station also reduces the environmental risks associated with transportation, storage and handling of fuel.
+Future work and possibilities
+Initial operation of the power generation control system emphasised maximum wind penetration and fuel savings. However this was at the expense of grid stability. Additional capacity in the electric boilers was installed over the 2003/2004 summer, allowing the control system to use very fast boiler element switching to provide grid stability. Current trials are focused on achieving stable operation with a single diesel running at less than 30% output, providing spinning reserve. The aim is to achieve 50% annual fuel savings.
+While the two turbines are capable of carrying 100% of the station load for long periods of time when the wind speed exceeds 12 m/s, there can be periods of low wind each day (averaging four to five hours) when the diesel generator sets are operated to provide the station electrical and heating load. To minimise diesel use a storage system is required to supply energy during these periods. 
+A demonstration project funded by the Australian Greenhouse Office is currently investigating the practicality of using the excess wind power capacity available to produce and store hydrogen gas. The gas would be used as a fuel to provide station energy via internal combustion engine generator-sets or fuel cells during those periods when the wind speeds are lower. Modelling has shown that a third turbine would be required to supply energy for a full-scale hydrogen generation plant. However, the diesel generator sets would still be needed to provide power during rare periods of low winds lasting more than five days because providing sufficient storage capacity to cover such occurrences is not economically viable.
+Because commercially available large scale hydrogen generation / fuel cell systems are still some years off, shorter-term solutions for improving fuel savings and reliability are being investigated, including: use of a flywheel to allow “diesel-off” mode of operation; Low-Load Diesel technology which uses larger (spinning reserve) diesels running at very low loads; and hydrogen-fuelled internal combustion engine technology.
+
+For further information about the Mawson wind farm, including close to real-time figures showing the contribution of the wind turbines to the station energy load, please visit:
+http://www.aad.gov.au/apps/operations/electrical.asp
+or contact the R & D Engineer, Peter Magill, at peter.magill@aad.gov.au 
+Appendix A. Considerations for wind farms in remote locations and at Mawson 
+General
+World-wide, the majority of operational wind turbines are connected to “infinite” power grids which:
+    • are fed by an array of large scale base-load generators (coal, gas, nuclear, hydro);
+    • can absorb variations in individual turbine outputs due to wind speed fluctuations without producing noticeable power quality issues or instability; and
+    • can take as much power as the turbine can produce.
+It is generally accepted that an infinite grid can conservatively accept up to 30% of intermittent generation (wind, solar, tidal, wave) before voltage and frequency instability becomes an issue and feeder sheds and blackouts begin to occur. 
+The isolated / remote weak power grid scenario 
+In contrast to the “infinite grid”, a remote or isolated grid may only have a load and generation capacity of between 100 kW and a few megawatts. Nevertheless, consumers still expect the same quality and continuity of supply as provided by an “infinite grid”. Remote and weak power grids typically use proven diesel generators to achieve the required power quality because voltage and frequency stability is easy to achieve with this technology.
+However, the rising cost of diesel, its transport cost, and the high level of greenhouse gas emissions have encouraged the introduction of renewable energy systems, operating in conjunction with the diesel powerhouses, on many isolated grids. The intermittent nature of renewable energy systems, be they wind, solar or tidal, introduces several operational, control and system issues for a small weak grid:
+    • Irrespective of the amount of renewable energy in the system, an amount of spinning reserve (nominally diesel generator sets) equal to the total grid load must be maintained in the powerhouse. Spinning reserve is power generation capacity which must be available to take-up generation short-falls if another generator drops off the grid due to a fault condition or, in the case of a wind generator, if the wind drops suddenly. The important issue with spinning reserve is that it must be able to generate the required power instantly if a black-out or feeder-shed is to be avoided. This is normally achieved by operating one or more diesel generator on the grid at a low load (say 30% of their rated capacity) and utilising the generators’ ability to ramp-up to full power in less than a few seconds. There are draw-backs with operating diesel engines in this mode, including higher maintenance costs (cylinder “glazing”) and higher fuel usage (per kW of generated power). New technology has overcome these problems but other options are also available to maintain spinning reserve.
+    • If the amount of renewable energy penetration of the grid load is greater than 30% but less than say 70%, sophisticated control systems are required to maintain the balance between the mix of fluctuating generation input and the variations of the load. In the less than 30% case, control is maintained automatically by the diesel generator’s standard governor system. As penetration approaches 100% (diesel generators turned off), increasing amounts of mechanical, electrical or chemical storage are required to: (a) smooth fluctuations on the grid (which become more pronounced as the penetration increases); and (b) maintain the grid supply while diesel generator sets are brought on-line when the renewable energy input reduces or stops.
+    • To eliminate fossil fuel generators entirely, very large storage systems are required and over-sized (usually renewable) generation systems are necessary to produce the stored energy. The size of the generator and storage systems is highly dependent on the size and consistency of the renewable energy resources and can be economically unviable in many cases.
+    • In general, a more highly qualified support crew is required to maintain a more complex renewable energy-assisted generation system.
+Power curve
+The main parameter determining any power generator’s performance is the power curve. Figures A1 and A2 below show typical examples of power curves for wind turbines. The power rating of a turbine is the maximum power output (indicated by the horizontal portion of the power curves) and is usually associated with the wind speed at which this power rating is first achieved. For the turbines depicted in the figures, the Vestas V52 power rating is 850 kW at 14.5 m/s and the Enercon E-30 power rating is 300 kW at 13.5 m/s.
+Other important parameters are the cut-in wind speed, which is the wind speed where the turbine first starts to produce power, and the cut-out wind speed, which is the wind speed where – for safety reasons – the machine is shut-down (where for example, the nacelle is pointed out of the wind and the blades allowed to free-wheel). It should be noted that the majority of commercial turbines designed for the grid-connected market have power curve cut-out characteristics similar to the Vestas V52 which exhibit an abrupt output power decrease (Figure A1).
+Because wind turbines are commonly installed on moderate wind sites (i.e. annual average wind speeds of 6-8 m/s), designers strive to decrease both the cut-in wind speed and the wind speed where the power rating is achieved, in order to maximise energy production at the site; the cut-out wind speed is less critical because, at most sites, turbines rarely operate in the high wind speed region of the power curve (Figure A1).
+The Enercon turbines are unique because the power output in the cut-out region is ramped down over an extended wind speed range, allowing power to still be generated (albeit reduced) at much higher wind speeds (Figure A2). This feature, specially developed for the turbines installed at Mawson station, is very important for gusty and high wind sites, typical of Antarctica. 
+
+Figure A1. Typical commercial grid-connected wind turbine power curve
+
+
+Figure A2. Power curve for wind turbines installed at Mawson station
+
+Performance appraisal
+The performance of a wind turbine in a windfarm is normally measured by its “capacity factor”. This figure is an expression of the actual annual energy output divided by the theoretical maximum output if the machine was running at its rated (maximum) power during the whole year. Most grid-connected wind turbines have a capacity factor of around 25-30% which implies that a 100 MW nameplate wind farm would only generate 25-30 MW averaged over the year.
+Quoting the capacity factor for the performance of the wind turbines at Mawson station is meaningless because the turbines are constrained from producing maximum power for long periods. When the sum of the power which can be produced by the wind turbines in high winds (the flat portion of the curve in Figure A2) and the nominal 40 kW from the spinning reserve diesel generator is greater than the total station load requirement, the powerhouse control system must dynamically change the turbine output (by pitching the blades and varying the generator excitation current) to match it with the instantaneous station load. Thus, because the turbines are not allowed to produce their maximum theoretical output, the capacity factor is much less than if Mawson was connected to an infinite grid.
+For the Mawson situation a simpler performance measurement is used – wind penetration. This is the actual wind energy output divided by the actual total station load (heat and power), expressed as a percentage (i.e. how much of the station energy load is provided by wind).
+Special case – the co-generation station load 
+When comparing the performance of the Mawson wind farm against other wind farms on small, weak isolated grids, it is important to understand the contribution of co-generation to the energy equation. For the past 35 years Australia’s Antarctic stations have utilised the waste heat from diesel generators to heat the buildings. This waste heat, in the form of hot water supplemented when required by oil-fired boilers, is pumped around the stations in the site-services network. Between 70% and 85% of station heating requirements are supplied from this “free” source. In the past ten years, 13 million litres of diesel fuel has been saved at Australia’s three continental stations by using this system, and at Mawson the annual fuel efficiency gain is in the order of 60%. 
+The implications of the introduction of renewable systems into the station energy mix with existing co-generation systems are:
+    • Any fuel savings from a renewable energy system are on top of existing fuel savings of up to 60%.
+    • If the renewable energy system replaces some or most of the diesel-generated electricity, it will need to replace a similar amount of waste heat with electrically generated heat. At Mawson, because the electrical and heating loads are about the same (250 kW), the wind turbines will need to supply almost twice this amount in electrical power (i.e. ~500 kW, depending on the amount of diesel power still connected to the grid).
+Consequently, when comparing the performance of the Mawson wind turbines with similar remote sites (e.g. in outback Australia or islands) the total energy requirement, not just the electrical requirement must be considered.
+Appendix B. Engineering and Design Aspects of the Mawson Station Wind Farm
+Studies in the early 1990s revealed that Mawson, with its constant katabatic winds blowing from the inland of the continent, was ideally situated to generate the bulk of its energy requirements with wind turbines. The studies also revealed a number of engineering, logistical and environmental issues to overcome, including:
+    • high wind speeds and cold temperatures – annual average wind speeds of 11.2 m/s (at 10 m), recorded wind gusts regularly exceeding  70m/s and an annual average temperature of -12oC; 
+    • expected high grid penetration (up to 100%) – high degree of turbine control needed – therefore variable speed, variable pitch design preferred;
+    • experience with a smaller machine at Casey station (a Vergnet 10 kW wind turbine installed in 1996) showed that gearboxes / hydraulics / oil-seals were high maintenance items in Antarctica – a low maintenance design (no gearbox) was preferred;
+    • limited ice-free real estate – this dictated a small number of “large” turbines;
+    • turbine size was limited by maximum size of mobile crane (100 tonne) that could be shipped to Mawson and off-loaded using the ship’s cranes;
+    • requirement to pour 65m3 concrete foundations in sub-zero temperatures; and
+    • environmental concerns about bird strike and noise.
+Modified Enercon E-30 wind turbine
+In mid 2001 the Australian Antarctic Division commenced discussions with Enercon GmbH of Germany (the only turbine manufacturer willing to consider the project and modify a standard design to meet the specifications). The following modifications to their standard E-30 wind turbine were agreed to suit the Antarctic conditions:
+    • low temperature steel used in all tower sections, castings, and structural components;
+    • shorter tower (34 m) due to high winds and crane restrictions;
+    • extra insulation and heaters (rarely used) in the nacelle;
+    • brush seals on nacelle to exclude blown snow;
+    • control software modifications to ramp-down output power when the wind speed was in the range of 25 m/s to 34 m/s (a high proportion of winds at Mawson are above 15 m/s);
+    • special cold-porch attachment at tower entrance to exclude snow; and
+    • no de-icing systems required due to the dry atmosphere.
+Wind farm design and installation
+Turbines
+With a maximum station energy load of around 600 kW (combined heat and power) a wind farm comprising three 300 kW wind turbines was designed. Three turbines allowed for redundancy within the wind farm and would increase the machine reliability due to a reduced load per turbine. This configuration was also expected to create the potential for operation of the station without fossil fuels in the future, should energy storage issues be resolved. 
+A 100 tonne mobile crane was delivered to Mawson during the 2001/02 summer, along with foundation material and a concrete agitator truck. Later than intended delivery of construction personnel on a subsequent voyage meant only two foundations were poured during 2002. Three wind turbine generators were delivered to Mawson in summer 2002/03. For operational reasons a decision was subsequently taken to suspend installation of one turbine, and the remaining two machines were installed with minimal problems.
+Powerhouse control system
+A critical part of the Mawson wind farm is the computerised powerhouse control system, supplied and installed by Darwin company, Powercorp. The system is designed to optimise and balance the station heating and electrical loads (around 250kW each) against the available wind power and the diesel generator output.
+The initial design also recognised the requirement for a storage device such as a flywheel to smooth the grid output and to prevent blackout conditions with the high wind penetrations envisaged. To achieve these requirements Powercorp developed a Boiler Grid Interface (BGI). The control system and BGI switch excess wind energy into and out of an electric boiler (which provides heat for the station buildings) at such a rate that the voltage and frequency on the grid become stable despite variable turbine output due to wind gusts. The BGI operation is similar to that of a flywheel (except that heat rather than electrical energy is extracted back from the system) and adds spinning reserve to the diesel generator sets. The powerhouse control system was installed and commissioned in parallel with the wind turbines. An additional BGI unit was added in 2004 to increase the spinning reserve when the powerhouse operation reduced to a single 125 kW generator set operating at 30% power.
+
+
+Figure B1. Installation of the turbines in February 2003
+Operational challenges
+In general, and considering the harsh operating environment, the wind turbines are operating very reliably. Some hardware and software issues have been experienced, including:
+    • Failure of the brackets on each turbine that hold the fibreglass nose-cone in place, after 15 months of operation. It was discovered that these brackets were manufactured by an Enercon subcontractor from mild steel, not low-temperature steel as specified. The brackets were repaired on site but have since been redesigned by Enercon and replaced with no further problems.
+    • The super-capacitor “batteries” in the rotor assembly which power the blade pitch motors in the event of grid loss were under-performing after cold-soaking (i.e. several hours of turbine shutdown due to maintenance etc with temperatures below -20oC). Additional insulation added to the battery boxes and modification of the recharging software has overcome this problem.
+    • Software modifications have allowed more aggressive operation of the turbines on the weak grid.
+    • A considerable amount of time has been spent fine-tuning the powerhouse control system to maximize fuel savings and minimise blackouts. The change-over of staff every 12 months has prolonged this process as has the difficulty in recruiting suitably experienced engineers.
+Break-down of project costs
+
+% of total cost
+3 x turbines
+25
+Foundation and Infrastructure
+20.4
+Plant and equipment
+20
+Transport
+10
+Project management
+9
+Powerhouse control
+8
+Installation and commissioning
+5.3
+Turbine spare parts
+2.3
+Engineers Australia has recognized the significance of this project with an Excellence Award as well as the prestigious Institute of Engineers, President Award
+

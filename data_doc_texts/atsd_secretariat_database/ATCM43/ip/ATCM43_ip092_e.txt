@@ -1,0 +1,181 @@
+Autonomous Science Operations at Halley Research Station
+Autonomous Science Operations at Halley Research Station
+Information Paper submitted by the United Kingdom
+Summary
+Halley Research Station is located on the Brunt Ice Shelf and was
+operated as a year-round facility until 2016. As a result of changes
+to the behaviour of the ice shelf, the decision was made to
+temporarily suspend winter operations on safety grounds. To
+maintain long-term datasets, many of the instruments at Halley
+were automated. This was achieved through providing reliable
+power using a micro turbine, automation of instruments and
+developing communication systems to enable data transfer and
+systems monitoring.
+Background
+Halley Station was designed and built to provide excellent
+laboratory and living accommodation that is capable of
+withstanding extreme winter weather, of being raised sufficiently to
+stay above metres of annual snowfall, and of being relocated
+upstream periodically to avoid calving events as the floating ice
+shelf moves towards the sea. It is made up of a series of eight pods
+sitting on skis that can be uncoupled and towed across the ice using
+specialist heavy vehicles: the world’s first relocatable research
+facility.
+In 2012, satellite monitoring of the Brunt Ice Shelf revealed the first
+signs of movement in a chasm that had lain dormant for at least 35
+years. This chasm could eventually cut Halley Station off from the
+rest of the ice shelf, so in the 2015-16 austral summer, a new
+location was identified and initial preparations for relocating the
+station began. During the 2016-17 summer season, the station
+modules were uncoupled and transported 23km across the ice.
+During that season, another chasm (named Halloween crack)
+formed and it was not considered prudent to leave staff at the
+station over the winter.
+The Brunt Ice Shelf (January 2021) and the location of Halley
+This interrupted important scientific research programmes that
+were building on the legacy of 60 years of occupation. The
+expectation was that it would be several years before wintering
+might resume. The British Antarctic Survey (BAS) therefore
+examined options to maintain year-round scientific outputs. An
+additional complicating factor was that the chasms were expected
+to temporarily cut off access to any ship relief sites, so any proposal
+for future operation of the station had to rely on air support only.
+Methodology
+The power and heat demands of the scientific instruments and the
+various supporting infrastructure, such as computer servers and
+satellite communications, were well understood. It was therefore
+possible to estimate that much of the science (in 2017) required
+around 10kW of power. Future proofing, and the option to expand
+to around 20kW, was a further consideration. Reliably providing
+power at this level in Antarctica, fully autonomously for around
+nine months per year, is a considerable challenge. Advice was
+sought from other Antarctic operators and organisations that had
+similar challenges, such as those operating oil rigs or arctic
+communication networks. This research showed the most promising
+option was a micro-jet turbine. Not only could this be implemented
+in a very short timeframe, it could also be air-transported to Halley
+using BAS aircraft.
+Options for autonomous winter power at Halley station
+Time to implement
+Infrastructure required
+Short term C02
+Long term C02
+Power Flexibility
+Air input possible?
+Wind/Solar/Battery
+>4 years
+Very High
+High
+Low – medium
+Low
+Difficult
+Extended service interval diesel generators
+>3 years
+Medium
+Low
+High
+Medium
+Yes
+H2 fuel cells
+>5years
+Medium
+Medium
+Low
+Medium
+No
+Micro-jet turbine
+1 year
+Low
+Low
+Medium
+High
+Yes
+A micro-jet turbine is similar to an aircraft jet engine but configured
+to maximise shaft take off power rather than thrust. A micro-jet
+generator manufactured by Capstone Turbine Corporation was
+selected on the basis of; reliability, one moving part only, minimal
+servicing requirements and the ability to run on station stocks of
+aviation diesel. The challenge for BAS was to provide a thermally
+stable enclosure and supply the micro-jet turbine with nine months
+of fuel in such a manner that a fuel spill was of an extremely low
+probability. This latter challenge was addressed by having multiple
+levels of protection around the fuel and extensive monitoring to
+ensure that the protections were working. For a fuel spill to occur,
+multiple failures would have to take place and these would be
+detected allowing action to be taken before fuel was released.
+Capstone micro-turbine cut away.
+The micro-jet turbine was installed at Halley in a bunded 20ft ISO
+container with a fuel tank of 48 hours duration inside the container.
+Additional 25 tonne bulk bunded fuel tanks were sited 10m away
+(for snow management reasons) from which the fuel is periodically
+and autonomously pumped.
+A cutaway render of the micro-jet turbine (green) and the fuel tank
+(pink) inside a bunded 20ft ISO container.
+The main engineering challenges around the micro-jet turbine are
+the thermal management and accounting for all the fuel – this is
+made difficult because of the large thermal expansion coefficient of
+diesel based fuels.
+The science experiments at Halley range from climate, atmospheric
+chemistry, glaciology and space physics. Some instruments were
+effectively already automatic (or controlled over the internet)
+whereas some experiments were based around people undertaking
+tasks. BAS undertook an internal prioritisation process that took
+into account the ease of automation and the value of the continued
+data set. To date around 75% of the experiments have been
+automated, and BAS continues to add experiments each season.
+Automation of a previously manually operated instrument has
+allowed for finer-scale scientific study, undertaking a far higher
+number of regular measurements than could be taken by a person.
+Automated flask air sampling – previously a manual process
+Stratospheric Ozone measurements undertaken by an automated
+Dobson.
+Much of the existing computing and communication infrastructure
+from the station was capable of running in autonomous mode,
+although more resilience and fail-safe options were added. For
+example, an Iridium Open port satellite terminal was added to back
+up the existing VSAT link. The science experiments could all be run
+from small, thermally efficient buildings so the main station living
+units were put in a safe dormant state.
+Timeline
+The project was initiated in April 2017 and in September that year
+a micro-jet turbine (fitted in its container) was loaded on the RRS
+Shackleton, arriving at Halley in January 2018. It was not possible
+to finish all the necessary works that season and completion was
+undertaken in the 2018-19 season using air support. The station
+successfully ran autonomously throughout the whole of winter of
+2019. Further science experiments were added during the air
+supported season of 2019-20 with successful autonomous
+operations throughout the winter of 2020. In the 2020-21 season,
+further air-supported servicing was undertaken and additional
+science experiments were brought on line. The station is now
+entering its 3rd year of autonomous operation.
+Data
+A key part of the operation of the system, both for science and
+infrastructure, is the continual transfer of data to the UK. This gives
+us a high degree of assurance that the systems, and in particular the
+fuel containment, are working correctly. Over 100 parameters are
+sent back every 5 seconds and eight webcam images are returned at
+5 minutes intervals. This also aids preparation for service visits.
+Continual data and webcam images returned to UK.
+Conclusion & Benefits of Science Automation at Halley
+The micro-jet turbine has been the key enabling technology that has
+allowed the British Antarctic Survey to maintain the scientific
+output of Halley station in an autonomous manner. Equally
+important is the philosophy of the system design, with a data rich
+implementation and a focus on reliability, resilience and replication
+all contributing to the success of the project.
+Delivering year round science outputs from a summer only
+operation has been a significant challenge. However, while some
+science experiments are no longer possible, others have been
+improved as a result of the move to automation. Automation has
+resulted in a significant reduction in the logistics and resources
+required to run the station, particularly in respect of staff numbers,
+fuel usage, and ship time.
+The Future
+Additional science experiments will be added each season. When
+ship access is re-established some large instruments such as a
+meteor scatter radar will be added, along with a second micro-jet
+turbine to provide further resilience.
+These technologies represent a successful proof of concept for future
+power supply to automated scientific instruments that could
+transform the way scientific data is gathered across Antarctica.

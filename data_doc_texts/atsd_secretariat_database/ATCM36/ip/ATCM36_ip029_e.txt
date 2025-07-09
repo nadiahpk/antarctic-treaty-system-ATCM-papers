@@ -1,0 +1,41 @@
+﻿
+
+
+
+
+
+Remote sensing for monitoring Antarctic Specially Protected Areas: Progress on use of multispectral and hyperspectral data for monitoring Antarctic vegetation
+
+
+
+
+
+
+
+
+       Remote sensing for monitoring Antarctic Specially Protected Areas: Progress on use of multispectral and hyperspectral data for monitoring Antarctic vegetation
+
+Information Paper submitted by the United Kingdom
+
+Summary
+This Information Paper provides an update on the development and application of new remote sensing techniques to monitor vegetation within Antarctic Specially Protected Areas (ASPAs) and the wider Antarctic environment.  
+
+Background
+       At CEP XV, the United Kingdom presented ATCM XXXV WP 7 Remote sensing for monitoring Antarctic Specially Protected Areas: use of multispectral and hyperspectral data for monitoring Antarctic vegetation. This Information Paper provides an update on developments in the United Kingdom’s research on this topic over the past year.  
+       
+       Future changes in Antarctic vegetation may occur as a result of changing climate, the introduction of non-native species and increases in human footprint resulting from tourism and national operator activities.  Improved high resolution baseline vegetation survey data will be essential to monitor future changes in vegetation spatial distribution and species diversity.  New remote sensing techniques will have valuable application in monitoring changes in vegetation distribution, density and type within ASPAs and the wider environment.  
+       
+The United Kingdom’s investigation of vegetation within ASPAs uses airborne hyperspectral data (collected by UK scientists during the first survey of its type on the Antarctic continent in 2011) plus coincident field and satellite observations.  The work is part of on-going efforts to make wider use of satellite and airborne spectral information to monitor the Antarctic environment.
+
+Progress
+Multispectral and hyperspectral imaging sensors capture data at specific frequencies across the electromagnetic spectrum. Variations in reflectance across the spectrum are used to discriminate and classify different surface materials.  Raw satellite and airborne data require several important geometric and atmospheric corrections to convert them into useable physical units of surface reflectance. Several aspects of these corrections are novel to Antarctica, but substantial progress has been made with (i) corrections to the satellite and airborne data and (ii) methods to distinguish different vegetation types using hyperspectral data. 
+
+Investigation of methods to identify vegetation distribution started with existing vegetation indices, as used by Fretwell et al. (2011) when establishing the potential of monitoring vegetation distribution in the Peninsula region. Vegetation extent derived from standard indices (e.g. NDVI – Normalised Difference Vegetation Index) applied to both the satellite multispectral data and airborne hyperspectral data showed good correlation.  However, it became apparent that while these methods are capable of mapping green vegetation types (e.g. Deschampsia antarctica and Colobanthus quitensis), they do not identify common vegetation types containing high levels of dark pigmentation, including some lichen, moss and liverwort species. Knowledge of the spectral signature of some pigmented vegetation types, measured during the field campaign, will be used to investigate methods to map these vegetation types using the greater spectral information contained within the hyperspectral data. 
+
+Future work will use the corrected high-resolution satellite data to identify the best indices for differentiation of vegetation types, which will be calibrated using in situ vegetation survey data. A more complete coverage of high-resolution multispectral satellite imagery will be obtained and used to compile a map of identifiable vegetation coverage for selected ASPAs within the Antarctic Peninsula region. 
+
+The airborne hyperspectral data will also allow the development of methods, and potentially new indices, to identify other vegetation types (e.g. lichens). The application of these new methods using simulated data for planned superspectral and hyperspectral satellite instruments will be assessed. By simulating the capabilities of these new instruments (e.g. Sentinel-2, ENMAP, PRISMA) it will be possible to assess approaches to mapping a more complete range of Antarctic vegetation types from space sensors which have wider spectral capabilities than are currently available.
+
+References
+Fretwell, P. T., Convey, P., Fleming, A. H., Peat, H. J., and Hughes, K. A.  (2011).  Detecting and mapping vegetation distribution on the Antarctic Peninsula from remote sensing data.  Polar Biology 34: 273-281.
+

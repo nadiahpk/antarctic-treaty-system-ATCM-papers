@@ -1,0 +1,259 @@
+﻿
+XXV ATCM
+WP-006
+Agenda Item: ATCM 16
+ARGENTINA
+Original : Spanish
+
+
+
+
+The Antarctic Treaty Information Exchange Web Site
+
+The Antarctic Treaty Information Exchange Web Site
+www.infoantarctica.org.ar
+Background
+The XXIV Antarctic Treaty Consultative Meeting decided, in Resolution 6 (2001), to establish a web site to be hosted by Argentina in order to centralize the information exchanged by the Parties. The main purpose of the web site is to make it easier for the Parties to meet the commitments on information exchange provided for in Articles III and VII and in the recommendations adopted in accordance with Article IX of the Antarctic Treaty, especially Recommendation VIII-6, as well as in the Protocol on Environmental Protection to the Antarctic Treaty.
+Resolution 6 (2001) recommends that the Parties:
+    1. exchange information in accordance with Attachment 4 of the ATCM XXIV Final Report;
+    2. provide this information to a central information exchange web site to be hosted by Argentina or provide that site with relevant links to where this information can be found; and
+    3. as a general principle, make that information publicly available.
+Site Contents
+The XXIV ATCM Final Report (Item 18: Exchange of information, paragraph 148) makes reference to the Report from the Intersessional Contact Group (WP7, submitted by Australia), which reviewed information exchange requirements, identifying three kinds of information categories: Pre-season, Annual and Permanent. Additionally, as a result of its work, the Intersessional Group recommended that the Parties develop a common, basic format identifying the minimum level of information required for each report. Finally, the ATCM adopted Resolution 6 (2001) whereby the common basic format proposed by the ICG is adopted. 
+In designing the web site, an effort was made to take into account the XXIV ATCM discussions as well as Resolution 6 (2001), offering the Parties an opportunity to provide the information in the formats suggested for the three categories, which are included in the site as a model. If the Parties decide that the common basic format should be developed further, the model formats in the web site will be amended, providing a common basis for the contents of documents submitted by the Parties and enhancing the advantages of centralizing information to be subsequently processed by a database.
+On May 17, 2002 Argentina formally announced the establishment of the web site, inviting the Parties to make comments and suggestions aimed at improving both its contents and its overall structure. The United Kingdom suggested amendments to the background section on the scope of the information exchange provided by the site, which were included in the site.
+As of the date of this paper, only Uruguay had given express instructions to include its Pre-season, Annual and Permanent reports on the web site, authorizing the downloading of relevant texts directly from its national web site (www.iau.gub.uy). 
+As an alternative, Resolution 6 (2001) recommended that the Parties provide the site with relevant links to where this information can be found. Pursuant to this Resolution, the site contains a page with links to the National Antarctic Programs. At the same time, Argentina asked the Parties to review the links included in this page.
+Structural Features
+In designing the web, priority was given to simplicity, in order to achieve a high level of accessibility by users, even those with limited computer resources. Consequently, the site does not include JAVA plug-ins or additional multimedia resources that would make the pages more attractive at the expense of making the process of accessing documents containing information provided by the Parties, which is the main purpose of the site, slower and operationally more difficult.
+As to the site architecture, a broad, shallow hierarchical structure was adopted. Users need to go through very few pages to access documents. 
+
+
+As the diagram shows, the user accesses each Party’s documents with only four clicks. The first click is needed to select a language.
+On the other hand, pages containing information, as well as links to National Program sites, are displayed in new windows, so that the user does not loose the original web site while navigating.
+Security
+In order to achieve the broad objective of making information publicly available, individual passwords will not be initially required to access the site contents. Therefore, countries are supposed to post only information deemed to be public knowledge. In the future, if the Parties decide that access to a specific type of information should be restricted, there would not be any technical obstacles to the establishment of such restrictions.
+As to the transmission of information, to ensure that files are received from senders who are duly authorized by the Parties, the FTP site management tool (ftp.infoantarctica.org.ar) has been adopted. Each Party has access to a country directory where it can upload the relevant reports after entering a user name and password that are sent by e-mail after a contact point has been designated by the Party.
+On July 21, 2002 the Web Administrator sent the Parties an information note on the features of the FTP service together with the relevant passwords.
+Translation
+The web site design used a tetralingual format, based on the model developed by CCAMLR for its site. English and Spanish texts are currently available on the site. The relevant French and Russian texts will be included as soon as possible. To this end, any assistance from the Parties whose official languages are French and Russian will be appreciated.
+As to the translation of documents presented by the Parties, the site will initially provide access to texts in the language in which they were submitted. This will likely be temporary, until a decision is made regarding the way in which translation requests will be handled by the future Antarctic Treaty Secretariat. One of the Secretariat’s duties will be to maintain the information exchange web site.
+Access Statistics
+The web server that is currently hosting the information exchange web site (REDCYT, Red Científica y Tecnológica Nacional www.redcyt.secyt.gov.ar ) offers some basic statistics on access to the site contents. Illustrative data on site visits for June 2002 are provided below. 
+
+The first 25 of a total of 25 countries
+June 2002
+#
+Hits
+Files
+KBytes
+Country
+1
+4456
+33.18%
+2546
+34.61%
+9703
+33.04%
+Unresolved/Unknown
+2
+3557
+26.49%
+1324
+18.00%
+6380
+21.73%
+Argentina
+3
+1387
+10.33%
+319
+4.34%
+817
+2.78%
+Holland
+4
+509
+3.79%
+312
+4.24%
+1278
+4.35%
+Japan
+5
+508
+3.78%
+401
+5.45%
+1344
+4.58%
+Norway
+6
+425
+3.16%
+334
+4.54%
+904
+3.08%
+Russian Federation
+7
+350
+2.61%
+296
+4.02%
+725
+2.47%
+Chile
+8
+332
+2.47%
+278
+3.78%
+1267
+4.31%
+United Kingdom
+9
+318
+2.37%
+277
+3.77%
+899
+3.06%
+Australia
+10
+289
+2.15%
+205
+2.79%
+858
+2.92%
+New Zealand
+11
+271
+2.02%
+204
+2.77%
+728
+2.48%
+Web
+12
+269
+2.00%
+255
+3.47%
+558
+1.90%
+Bulgaria
+13
+245
+1.82%
+229
+3.11%
+620
+2.11%
+Uruguay
+14
+162
+1.21%
+141
+1.92%
+449
+1.53%
+Spain
+15
+126
+0.94%
+93
+1.26%
+534
+1.82%
+Italy
+16
+113
+0.84%
+86
+1.17%
+1944
+6.62%
+Commercial
+17
+70
+0.52%
+54
+0.73%
+330
+1.12%
+Poland
+18
+16
+0.12%
+0
+0.00%
+5
+0.02%
+Colombia
+19
+16
+0.12%
+0
+0.00%
+5
+0.02%
+Peru
+20
+3
+0.02%
+0
+0.00%
+0
+0.00%
+France
+21
+2
+0.01%
+0
+0.00%
+1
+0.00%
+Switzerland
+22
+1
+0.01%
+0
+0.00%
+0
+0.00%
+USA – Education
+23
+1
+0.01%
+0
+0.00%
+0
+0.00%
+Austria
+24
+1
+0.01%
+0
+0.00%
+0
+0.00%
+Germany
+25
+1
+0.01%
+1
+0.01%
+10
+0.03%
+Estonia
+
+Conclusion
+As the Party responsible for the establishment of a web site to facilitate the exchange of information among the Parties, Argentina made an effort to respond quickly and efficiently, meeting the specified requirements as fully as possible. The web site is in an early stage of development. It is fully functional, but it is completely open to comments and suggestions by the Parties on its structure, contents, and features. 
+As has already been said throughout this paper, there is room for improving or further developing specific site aspects, such as:
+    • The availability of documents in the four official languages of the Antarctic Treaty;
+    • The page with links to national programs or to web sites where exchange information is available and must be reviewed and completed;
+    • If the Parties deem it necessary, the establishment of restricted access areas in the web site should be considered;
+    • A decision as to whether the current common basic format for information exchange proposed in Recommendation 6 (2001) is final or requires further development.
+The Parties are invited again to upload information to the site, in order to provide the international community with a valuable and complete tool to access information on the activities conducted by the Consultative Parties in Antarctica.

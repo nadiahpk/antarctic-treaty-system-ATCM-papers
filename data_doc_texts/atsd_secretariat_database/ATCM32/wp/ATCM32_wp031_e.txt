@@ -1,0 +1,265 @@
+﻿
+
+
+
+
+
+Updated analysis of representation of Annex V categories and Environmental Domains in the system of Antarctic Specially Protected and Managed Areas
+
+
+
+
+
+Updated analysis of representation of Annex V categories and Environmental Domains in the system of Antarctic Specially Protected and Managed Areas
+
+Working Paper submitted by New Zealand 
+
+Abstract
+
+Several new Antarctic Specially Protected Areas (ASPAs) and Antarctic Specially Managed Areas (ASMAs) have been designated since a review of the Antarctic Protected Area system was carried out for the CEP VIII meeting in 2005. Updating that analytical approach indicates that while specific protection has continued perhaps at an increased pace, not much has changed regarding reasons for designation of ASPAs. In particular there is still a significant lack of specific protection of inviolate and wilderness values as has long and repeatedly been noted. 
+
+The new Environmental Domains Analysis (EDA) shows that some ice-free Environments which are well known to be potentially vulnerable to human impact are generally relatively well represented in the ASPA system with a significantly better spread than suggested by more classical analysis. But there are several poorly represented Environments. EDA appears to be a useful new tool for further holistic work based on spatial analysis of risk.
+
+It is suggested that the CEP needs to:
+    1. list activities that potentially degrade areas which are still inviolate and which retain outstanding wilderness values;
+    2. rank these activities in terms of how significant they are in such degradation;
+    3. inventory where they are taking place and illustrate their spatial extent on a GIS or other map format together with the EDA; and so
+    4. identify what Environments and areas best retain inviolate and outstanding wilderness values. 
+ 
+This would provide a clear basis for an appreciation of the cumulative risk to Annex V categories that are poorly represented and enable an informed discussion of what methods/tools are best to manage this risk. Joint work with COMNAP would assist the CEP in this work.
+
+Introduction
+
+Article 3(2) of Annex V states that “Parties shall seek to identify, within a systematic environmental-geographic framework, and to include in the series of Antarctic Specially Protected Areas” (ASPAs) a set of nine categories of values for protection.  Various analyses and evaluations of representation of these nine categories in designated ASPAs have been conducted since the SCAR/IUCN Workshop on Protected Areas in 1992 (Lewis-Smith and others, 1994), including the Protected Area workshops held in conjunction with CEP I and II in 1998 and 1999, and most recently in WP 11 at CEP VIII (2005). At CEP XI the Committee endorsed the Environmental Domains Analysis (EDA version 2.0) for use in the identification of Antarctic Specially Protected Areas within the Systematic Environmental Geographic Framework (SEGF) referred to in Article 3(2) of Annex V. The ATCM XXX1 adopted Resolution 3 (2008)“Environmental Domains Analysis for the Antarctic continent as a dynamic model for a systematic environmental geographic framework”.  
+
+This Working Paper provides an updated analysis of the representation, particularly in the ASPA system, of the nine Annex V categories of values following the approach of WP 11 (CEP VIII, Stockholm, 2005) and of Environmental Domains following the analysis of representation of these referred to in WP 27 (CEP XI, Ukraine, 2008). It also updates details of the total sizes of areas covered by ASPAs. Such analyses considered together with examinations of environmental risk may further enable the CEP to assess the comprehensiveness and adequacy of the system of protected and managed areas in Antarctica. This will assist the CEP to identify priorites for future work. Committee Members noted at paragraph 243 of the Report of CEP XI that it would be important to look at which Environments are vulnerable. 
+Numbers, spatial coverage and simple geographic distribution
+
+Eight ASPAs and five ASMAs have been designated since WP 11 (2005) was presented. This represents a 17% increase in the numbers of areas while the ASPAs listed in Table 1 below represent a 26% increase in the terrestrial coverage of ASPAs. These seem relatively large increases and represent a commitment by Members to increased protection of the Antarctic. The very significant increase in application of ASMAs in particular should help avoid interference in scientific research and assist management of cumulative impacts. Examination of the quality of protection provided is beyond the scope of this paper.
+
+With the addition of the new ASPAs (Table 1, Appendix 1) the total area of ASPAs in Antarctica is now about 3031 km2, of which about 1499 km2 is terrestrial and about 1532 km2 marine. The terrestrial area is about 0.011% of the terrestrial portion of the Antarctic Treaty Area and the marine protected area about 0.008% (correcting for the apparent misclassification of ASPA 153 in the 2005 analysis). Although these proportions are far less than the 10% goal of IUCN and some Member governments, it would be more useful to consider the percentage area at significant risk.  
+
+The geographical distribution of terrestrial ASPAs and ASMAs has improved very slightly for the terrestrial Antarctic since 2005. The designation of ASMA 5 at South Pole, ASPA 163 in Dronning Maud Land and ASPA 170 at Charcot Island and other new designations in Mac Robertson and Princess Elizabeth Lands improve the geographic spread on land. Particular areas of environmental risk in coastal areas of East Antarctica have had additional designations. However there are still vast gaps including the whole of Marie Byrd Land without coverage so the geographic bias noted in previous analyses is still strong. The lack of marine protected areas remains a conspicuous anomaly.
+Reasons for Area designation 
+
+WP 11 (CEP V111, 2005) analysed the representation of the nine Annex V categories in ASPAs at that time. Table 1 below updates Table 5 of the accompanying paper IP 29 (CEP VIII, 2005) showing all Annex V categories covered by ASPA designations to 2008. Classification of categories may sometimes be slightly subjective. Figure 1 is the corresponding update of Graph 2 in WP 11 (2005) showing the number of ASPAs designated for each category when all protected values are taken into consideration. 
+
+The specific reasons for which ASPAs have been designated are virtually unchanged since 2005. Providing increased protection for important or unusual assemblages of species is still the main reason, followed by avoiding interference with research.  Although not shown graphically here protection of avifauna still dominates faunal types but there may be an increasing tendency for increased protection of terrestrial communities including plants, invertebrates and bacteria. 
+
+Protection of outstanding aesthetic and wilderness values (category g) is now given as a reason for designation in one more instance than protecting type examples (category d). This may be consistent with category g showing the largest percentage increase in Article 3(2) values designated since 2005.  
+Table 1. Annex V categories covered by Antarctic Specially Protected Areas designated during or since ATCM XXVIII (CEP VIII, Stockholm, 2005). Underlines show apparent main reason(s) for designation.
+    • ASPA name 
+    • ASPA number
+    • Area
+    •  km2
+    • Categories of area in Article 3(2) of Annex V
+      
+      
+      
+    • a
+    • b
+    • c
+    • d
+    • e
+    • f
+    • g
+    • h
+    • I
+    • Dakshin Gangotiri
+    • 163
+    • 4.53
+    • 
+    • X
+    • 
+    • 
+    • X
+    • 
+    • 
+    • 
+    • 
+    • Scullin & Murray Monoliths
+    • 164
+    • ~ 8
+    • 
+    • 
+    • X
+    • 
+    • 
+    • 
+    • X
+    • 
+    • 
+    • Edmonson Point
+    • 165
+    • 5.49
+    • X
+    • X
+    • 
+    • 
+    • 
+    • X
+    • 
+    • 
+    • 
+    • Port-Martin
+    • 166
+    • ~ 1
+    • 
+    • 
+    • 
+    • 
+    • 
+    • 
+    • 
+    • X
+    • 
+    • Hawker Is
+    • 167
+    • 1.9
+    • X
+    • X
+    • X
+    • 
+    • 
+    • 
+    • 
+    • 
+    • 
+    • Mt Harding
+    • 168
+    • 120
+    • 
+    • 
+    • 
+    • 
+    • X
+    • X
+    • X
+    • 
+    • 
+    • Amanda Bay
+    • 169
+    • ~ 15
+    • 
+    • X
+    • X
+    • 
+    • X
+    • 
+    • 
+    • 
+    • 
+    • Marion Nunataks
+    • 170
+    • 176
+    • 
+    • X
+    • X
+    • X
+    • 
+    • 
+    • 
+    • 
+    • 
+
+Figure 1.  Updated graph showing the number of ASPAs designated for each category of Article 3(2) of Annex V. 
+
+Representation of Environmental Domains 
+
+The adoption at the ATCM XXX1 of Resolution 3 (2008) (Environmental Domains Analysis) provides a new tool for more holistic and strategic designation of ASPAs and ASMAs rather than assessing sites on their individual merits in isolation of other factors. Although the merits of individual proposed ASPAs and ASMAs must still be considered (paragraph 246, Report of CEP XI) taking account of the Environmental Domains classification may reduce the geographic bias noted above. In addition it will allow environmental risk to be considered more easily, for example by focusing on Domains that represent vulnerable ice-free areas. 
+ 
+Figure 2 illustrates the representation of the Environmental Domains, version 2 (Morgan and others, 2007) in ASPAs and ASMAs based on the tabulation in Appendix 1. That is an update of the summary given in WP 27 (CEP X1, 2008) based on Table 26 of Morgan and others. Appendix 1 corrects some errors in the 2007 analysis which have been revealed since then following a manual examination of which Environments are represented in ASPAs and ASMAs. Previously an objective computer based approach was taken which omitted some small ASPAs and did not detect some inaccuracies, boundary effects or errors due to mapping (e.g. projection and datum differences or resolution and scale effects), or classification misinterpretations of ice cover in the land cover database of the Antarctic Digital Database. As before marine ASPAs (i.e. 145, 152, 153, 161) and major marine components of other ASPAs are excluded (e.g. 121)m as are some small areas of snow and ice that are too small to be included reliably or may not be classified reliably (e.g. for the high altitude ASPAs 118 and 130 on Melbourne and Erebus volcanoes).
+
+Figure 2.  Representation of Environmental Domains (version 2) in ASPAs and ASMAs.
+
+
+
+Ice-free Environments are generally relatively well represented in this analysis compared to ice Environments. Environments S, D and G, which are some of the most vulnerable and at risk due to their ice-free nature and coastal locations used by both biota and people, are the most represented, while B also ice-free is quite well represented. Table 2 suggests that ASPAs protect at least 1% of the areas of A, C, D, G and S respectively, although only the protection of G (up to 8%) comes close to the IUCN target of 10%. The most poorly represented vulnerable ice-free Environments are R, T, and U. Reference to the locations of ASPAs and ASMAs in Appendix 1 reveals that ice-free D, S, T and U are represented or spread quite widely over various parts of the continent.  This analysis indicates how the Domain approach provides a more holistic analysis: it offsets the geographical bias that appears when ASPAs and ASMAs are considered in isolation in more classical analyses and when risk not considered in any way. 
+
+Most ice Environments (e.g. F, H, I, J, K, M, N) are not represented in any ASPA or are only represented in one, although M and Q are each in two ASMAs. The continental coastal zone ice sheet Environment L is represented in widely spaced Areas as is, but to a lesser extent, the West Antarctic ice sheet Environment O. Table 2 which only includes the most represented ice Environments, shows the poor representation on a proportional basis. Although the situation is improved when ASMAs are taken into account, ice Environments are very poorly represented proportionally in the protected area system. This is consistent with a view that they are not at environmental risk.
+Table 2. Proportions of total areas of selected Environmental Domains represented in Antarctic Specially Protected Areas. To simplify the analysis the area of represented Environments is approximated by assuming, in general, that only the highlighted Environments in Appendix 1 make up the total area of the ASPA. All ice-free Environments are included (shaded). 
+
+    • Environmental Domain
+    • Approximate (maximum) area represented in ASPAs (km2)
+    • Corresponding proportion of total area of Domain in ASPAs
+    • Comments
+    • A
+    • 29.5
+    • 1.0%
+    • 
+    • B
+    • 27.4
+    • 0.2%
+    • 
+    • C
+    • 230
+    • 1.6%
+    • In two large ASPAs
+    • D
+    • 82
+    • 1.3%
+    • 
+    • E
+    • ~50
+    • 0.003%
+    • 
+    • G
+    • 78.5
+    • 8.1%
+    • Most in ASPA 126
+    • L
+    • ~5
+    • 0.0003%
+    • 
+    • O
+    • 32
+    • 0.001%
+    • 
+    • P
+    • 130
+    • 0.01%
+    • 
+    • R
+    • 9.8
+    • 0.03%
+    • 
+    • S
+    • 519
+    • 1.8%
+    • Most in ASPA 123
+    • T
+    • 126.4
+    • 0.5%
+    • Most in ASPA 168
+    • U
+    • 6.3
+    • 0.02%
+    • 
+
+  
+No attempt has been made here to assess any correspondence between Article 3(2) categories or values and Environmental Domains. This would need a more complex analysis perhaps best done by a combination of spatial and manual approaches. However it is clear that large Environments and those well removed from centres or bases of human activity will in general contain areas that are still inviolate from various forms of human disturbance and retain more wilderness values.
+A way forward
+
+The analyses above have shown that ongoing designations of ASPAs and ASMAs are useful and may be providing better environmental–geographic protection than previously thought. They have continued to assist Parties to address fairly well understood risks from harmful human disturbance of vulnerable species or type localities or features and historic sites, reduce risks from the introduction of non-native species or contaminants, minimize interference with science or scientific opportunity, and help manage cumulative impacts. This means that the process is working. But it is not necessarily keeping up with the pace of Antarctic development. 
+ 
+Understanding impacts on inviolate areas and outstanding wilderness values and mitigating them by designation (Figure 1) or other management tools has not kept pace with the broadening range and scale of human activities (Tin and others, 2009). Some local human activities will impact on such values in rarely visited areas. For example an individual activity may be transient or have only a small direct effect on wilderness, but if repeated or combined with other activities there may be a cumulative impact which represents a slow degradation of wilderness values.  
+
+To make progress on the long-identified issue of perceived inadequate use of protection tools based on classical approaches, we should properly take account of risks to the values listed in Article 3(2) of Annex V. As noted, risk is one of the main drivers of whether to designate a protected area or not. We in the CEP may not have done this in a holistic way overall. Spatially analysing risk as an overlay of Environmental Domains should be a relatively simple and clear way of clarifying what needs to be done to protect poorly represented values and vulnerable Environments.
+
+Therefore it seems clear that the CEP needs to:
+    1. list activities that potentially degrade areas which are still inviolate and which retain outstanding wilderness values;
+    2. rank these activities in terms of how significant they are in such degradation;
+    3. inventory where they are taking place and illustrate their spatial extent on a GIS or other map format together with the EDA; and so
+    4. identify what Environments and areas best retain inviolate and outstanding wilderness values. 
+ 
+This would allow the CEP to appreciate the cumulative risk to poorly represented values and continue to plan and manage holistically. Having that information, we could discuss what methods/tools are best to manage this risk, and the role, if any, that ASPAs or ASMAs may have in doing that.  COMNAP already hold much spatial data on human activity. Joint work with COMNAP would assist the CEP to move forward.  
+
+
+References
+Lewis-Smith, R.I., D.W.H. Walton and P.R. Dingwall, 1994. Developing the Antarctic Protected Area System. Proceedings of the SCAR/IUCN Workshop on Antarctic Protected Areas, Cambridge, UK, 29 June-2 July 1992.
+Morgan F., G. Barker, C. Briggs, R. Price and H. Keys, 2007. Environmental Domains of Antarctica Version 2.0 Final Report, Manaaki Whenua Landcare Research New Zealand Ltd, 89 pages. 
+Tin, T., Z.L. Fleming, K.A. Hughes, D.G. Ainley, P. Convey, C.A. Moreno, S. Pfeiffer,
+J. Scott and I. Snape, 2009. Impacts of local human activities on the Antarctic environment (Review). Antarctic Science 21 (1), 3-33.
+Appendix 1. Representation and comparison of Environmental Domains (version 2) in ASPAs and ASMAs. Shading indicates the main domain(s) represented in each Area.
+
+

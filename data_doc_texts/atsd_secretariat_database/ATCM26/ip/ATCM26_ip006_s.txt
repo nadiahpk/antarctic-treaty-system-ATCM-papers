@@ -1,0 +1,66 @@
+﻿	
+	
+IP
+	CEP VI 
+	Item Agenda 5 
+		URUGUAY
+	
+
+
+Relevamiento Magnético en las Inmediaciones de la 
+Base Científica Antártica Artigas
+
+
+En el contexto del Programa de Monitoreo Ambiental establecido en conformidad con las disposiciones del Art. 8 y del Anexo I del Protocolo, el Uruguay ha desarrollado el Proyecto Relevamiento Magnético en las inmediaciones de la BCAA. Durante la campaña 2002/2003, se realizaron mediciones del campo magnético local en los alrededores de la BCAA  y algunas otras zonas de referencia, mediante un magnetómetro  triaxial especialmente diseñado. Los aspectos de la actividad se presentan a continuación:
+
+Construcción y calibración del instrumento
+
+Técnicos uruguayos construyeron un magnetómetro triaxial basado en dos sensores magnetorresistivos, cada uno capaz de sensar en dos ejes ortogonales, orientados formando un triedro. La señal de estos sensores, después de amplificada y acondicionada, se pasa a un microprocesador a través de un conversor analógico digital de 12 bits. La información digitalizada se comprime y almacena en memoria no volátil, interna al instrumento, para posterior descarga y análisis en una PC.
+
+Todo el conjunto se calibró mediante el uso de bobinas patrón, con fuentes de corriente constante monitorizadas por instrumentos con calibración conocida, rastreable a NIST.
+Asimismo, se evaluó el presupuesto de error de los diversos componentes de la cadena.
+
+Operación de campo
+
+Se obtuvo una serie de mediciones (205 en total) mediante el posicionamiento del magnetómetro en ubicaciones que se detallan en el diagrama A.  La orientación espacial del magnetómetro se realizó mediante alineación óptica de los puntos de mira con objetos salientes del terreno, después de haber establecido un plano horizontal de giro mediante el uso de niveles de burbuja y un montaje en trípode ajustable.
+
+Cada dos horas de trabajo, se descargaron datos a la PC, y se borró la memoria interna del instrumento.
+
+Procesamiento
+
+El procesamiento matemático incluyó el cálculo vectorial necesario para girar las mediciones obtenidas con diferentes puntos de referencia, y lograr que todas quedaran proyectadas sobre rectas paralelas al norte geográfico de la Base.
+Posteriormente se obtuvo el módulo de dichos vectores, se normalizaron los valores teniendo en cuenta las lecturas obtenidas en puntos alejado de la Base, y se ingresó la información a un programa de ploteo, para georreferenciar dicha información.
+
+El resultado se ve en el diagrama B, después de aplicar un proceso de interpolación lineal entre los puntos de medida, y trazar las líneas isomagnéticas de acuerdo a los valores obtenidos.
+
+Resultados
+
+Se encontraron zonas con valores magnéticos de aproximadamente 2.3 veces el valor medio de la zona, en las áreas adyacentes a la sala de generadores y del wannigan de cocina. El disturbio magnético en las inmediaciones de la BCAA en el plano horizontal, se circunscribe únicamente a la región inmediata de la infraestructura edilicia como se representa en el diagrama C.
+
+Asimismo se ha observado un punto con interés especial al pie del risco de Punta Suffield, donde sería interesante evaluar las posibles causas para las variaciones observadas. 
+
+
+
+Diagrama A. Localizaciones de las mediciones magnéticas
+
+
+
+
+
+
+Diagrama B. Areas isomagnéticas
+
+
+
+
+Diagrama C. Representación de la variación magnética en 
+las inmediaciones de la BCAA.
+
+
+
+
+
+
+
+
+

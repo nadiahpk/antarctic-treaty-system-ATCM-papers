@@ -1,0 +1,40 @@
+ANTARCTIC TREATY                 TRATADO ANTARTICO
+XXI CONSULTATIVE MEETING        XXI REUNION CONSULTIVA
+
+TRAITE SUR L'ANTARCTIQUE
+XXIe REUNION CONSULTATIVE        ДОГОВОР ОБ АНТАРКТИКЕ
+                                 XXI КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+ 
+                                 UK DATA MANAGEMENT INITIATIVES
+
+ 
+Agenda item 11                 Submitted by United Kingdom
+
+XXI ATCM/IP124
+May, 1997
+Original: English
+UK Data Management Initiatives
+
+(1) Article III (1) (c) of the Antarctic Treaty calls on parties to exchange and make freely available scientific observations and results from Antarctica. A number of ATCM recommendations have resulted from this political context and these have provided the driving force for current initiatives on data management.
+
+(2) SCAR and COMNAP have been addressing issues relating to data management through their ad hoc Planning Group on Antarctic Data Management. A key proposal of the Planning Group has been the establishment of an Antarctic Data Directory System (ADDS) to make information about Antarctic scientific data readily available. This is composed of an Antarctic Master Directory (AMD) of information on Antarctic scientific data, and a network of National Antarctic Data Centres (NADCs) linked to it. This proposal was endorsed by XVIII ATCM. The Planning Group has now been replaced by the Joint SCAR-COMNAP Committee on Antarctic Data Management (JCADM) which was formally established on 23 May 1997.
+
+(3) As reported by SCAR and COMNAP (XXI ATCM/IP31) the AMD is now established at the International Centre for Antarctic Information and Research (ICAIR) in Christchurch, New Zealand. NADCs have now been formally designated by 8 countries with a further 6 being informally identified. The development of the AMD by ICAIR for SCAR and COMNAP is generously supported by France, Italy, New Zealand and the United States of America.
+
+(4) In support of the ADDS initiative, the UK has identified its NADC. This is the Antarctic Environmental Data Centre (AEDC) located at the headquarters of the British Antarctic Survey (BAS). The AEDC is also the UK Natural Environment Research Council's Designated Data Centre for Antarctic Data. An NADC needs both to link to the AMD but also to provide a specifically tailored structure to meet the more particular requirements of an operator responsible for major scientific data holdings. A key objective of the AEDC is to improve the overall quality, availability and security of BAS's data holdings, especially with respect to data sets of long term significance.
+
+(5) As an important step to achieving this objective, BAS aims to improve the information it holds on its data holdings (the meta data or data about data) through the provision of a meta data management system and data catalogue.
+
+(6) The BAS Meta Data Management System (MDMS) is first and foremost a tool to enable Principal Investigators (PIs) to manage the supporting information (meta data) that they need to be able to use and to manage their data effectively. The system is to be used by all BAS PIs and will be a key element in improving the quality, availability and security of its data holdings, through improving the processes used to manage data. The system will also act as a data catalogue, for users within and outside of BAS.
+
+(7) The AMD was seen by BAS as providing too generic a solution to meet its specific meta data management needs. Central to the MDMS therefore is the model which BAS has developed of its meta data which allows recording of information on all stages in the collection and processing of data. A key component of the system is the ability to display on a map where data have been collected (see Figure 1) and also to use a map for constructing the geographic, or 'where' component of a query. The MDMS has been implemented using the Oracle relational database management system, WAIS free text searching and is accessed using a world wide web interface.
+
+(8) The MDMS is being developed as a joint project between BAS and ICAIR, who are keen to make the system available to other NADCs and National Operators, to allow them to benefit from BAS and ICAIR's joint development effort.
+(9) The MDMS has been developed to complement and support the SCAR-COMNAP ADDS/AMD 
+initiative. The MDMS will allow the UK to share and make available meta data to other Treaty 
+parties via the World Wide Web and also via the SCAR-COMNAP AMD, thus enhancing the UK's 
+support of Article III (1) (c).
+
+Figure 1. An example of the map based interface within the BAS Meta Data Management System. 
+2

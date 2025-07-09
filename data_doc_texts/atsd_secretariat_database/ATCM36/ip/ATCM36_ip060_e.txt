@@ -1,0 +1,63 @@
+﻿
+
+
+
+
+
+Mapping and modelling wilderness values in Antarctica: Contribution to CEP’s work in developing guidance material on wilderness protection using Protocol tools
+
+
+
+
+
+
+
+
+
+Mapping and modelling wilderness values in Antarctica:
+Contribution to CEP’s work in developing guidance material on wilderness protection using Protocol tools
+
+Information paper submitted by ASOC1
+Summary
+This paper summarizes the recommendations of the report “Mapping and modelling wilderness values in Antarctica” produced by the Wildland Research Institute, as a contribution to the CEP’s work in developing guidance material on wilderness protection using Protocol tools.  The report reviews existing literature on how wilderness quality is mapped and modelled worldwide, using Geographical Information Systems (GIS). Based on this review, the report recommends that the CEP adopt the universal basic premise that wilderness conditions are seen to exist where a location is remote from settlement and mechanised access, and relatively free from human-induced changes to land cover. It also proposes other tangible recommendations to support the protection of Antarctica’s wilderness values through the Annex I tool of Environmental Impact Assessment and Annex V tool of Area Protection and Management. 
+Introduction
+At CEP XV, intersessional work was initiated to:
+
+  “(a) develop guidance material to assist Parties to take account of wilderness values when undertaking environmental impact assessment of proposed activities and/or developing proposals for protected areas on the basis of their wilderness values; and
+
+  (b) explore possibilities for consideration of inviolate areas in conservation planning, and potential synergies with protection of wilderness areas in the development of proposals for protected areas in conjunction with SCAR.”  
+
+The Wildland Research Institute (WRi) has produced a report “Mapping and modelling wilderness values in Antarctica” as a contribution to CEP’s intersessional work. This report reviews existing literature on how wilderness quality is mapped and modelled worldwide, using Geographical Information Systems (GIS). GIS-based mapping and modelling is used in populated countries to identify wilderness areas based on measures of remoteness (e.g. remoteness from human settlement) and naturalness (e.g. biophysical naturalness of the land cover). A review of the techniques and criteria used in wilderness mapping can help the CEP in its development of an understanding of the terms “footprint” and “wilderness”. Furthermore, GIS-based mapping techniques can directly be put to use to identify “inviolate areas in conservation planning” in Antarctica (item b above). These same measures of remoteness and naturalness can also be used as bases to develop criteria to assess impacts of human activities on wilderness values (item a above). This paper summarizes the recommendations arising from the report. The full report can be found in the Appendix attached to this paper.
+Recommendations
+Since most of the Antarctic region is devoid of obvious forms of human impact (global pollution and effects of climate change notwithstanding) any form or level of human development or impact in previously inviolate areas must have an impact that is disproportionate to its size, level or extent when compared to similar developments elsewhere in the world. We call this the “Blank Canvas” model of first human impact. The first infrastructure constructed on the “Blank Canvas” has the largest relative impact because subsequent developments impact an area that is already impacted. As new infrastructures are built, especially when they are located far apart from one another, the original large contiguous wilderness area becomes “fragmented”. The original “Blank Canvas” becomes a “Torn Canvas” whereby the original wilderness area becomes smaller, is split into smaller sections that are connected through bridges and where the maximum possible distance away from non-wilderness areas is reduced. 
+
+Wilderness mapping and Environmental Impact Assessments (EIAs) in the Antarctic need to be able to take into account the issues presented by (a) the size of Antarctica relative to the extent of the human impact, and (b) most human impacts are related to single sites or installations set in the context of a “Blank Canvas” with very little or no human impact. 
+
+WRi’s recommendations for CEP’s ongoing work on wilderness and footprint fall under three categories:
+
+    1. Understanding of the terms of “footprint” and “wilderness”:
+
+    • Wilderness mapping studies that have been undertaken outside the Antarctic all share the same basic premise that wilderness conditions are seen to exist where a location is: (i) remote from settlement and mechanised access, and (ii) relatively free from human-induced changes to land cover. This basic premise should be adopted for use in the Antarctic context. 
+    • Additional criteria that can be introduced include: area size, accessibility, visibility of human infrastructures, pollution that is not visible and transient impacts.
+
+2.	Annex I Environmental Impact Assessment: 
+    • Review the different criteria used to identify wilderness in mapping studies outside the Antarctic (e.g., minimum 400,000 ha, 5 km from human structures, walking time from the nearest point of mechanised access, etc.). Assess their relevance to the Antarctic context and develop specific criteria for use in Antarctic EIAs. 
+    • Review how impacts of human activities on wilderness values are assessed in other large polar wilderness areas, such as Svalbard and Greenland. Examine how their approaches, especially as pertaining to the consideration of the much larger relative impact that the first human development has on previously inviolate areas (referred to as “Blank Canvas” and “Torn Canvas” models in the report), can be relevant for Antarctic EIAs.
+
+3.	Annex V Area Protection and Management:
+    • Map the human footprint and wilderness in the Antarctic region.
+    • Review and collect experience from similar Antarctic projects where the evolution of the human footprint has been mapped, e.g., US’s McMurdo station (Kennicutt et al., 2010), SCAR’s King George Island Geographical Information Systems (GIS) project (Vogt et al., 2004), mapping of British Antarctic Survey activities on the Antarctic Peninsula (Hughes et al., 2010). 
+    • Compile data on locations of human infrastructures and activities. Overlay the human footprint data on the CEP’s Antarctic Environmental Domains and SCAR’s Antarctic Conservation Biogeographic Regions. 
+    • Develop a demonstration mapping project at three scales:
+        ◦ Continental Antarctica using simple, criteria-based mapping
+        ◦ Regional scale (e.g. for the Antarctic Peninsula) using index-based mapping
+        ◦ Local scale (e.g. James Ross Island) using local scale models
+
+Conclusions
+Over the last four decades, with the development of Geographic Information System (GIS) and other spatial information technologies, many studies have been conducted to map and model wilderness quality and values at a range of spatial scales, from local to global. All studies share the same basic premise that wilderness conditions are seen to exist where a location is: (i) remote from settlement and mechanised access, and (ii) relatively free from human-induced changes to land cover. The methods of mapping and modelling remoteness and naturalness vary, often in accordance with scale and data availability. Many countries including Norway, Australia, USA, UK and the European Union, have undertaken such studies for at least part of their domestic territory. This global experience should be put to good use in the Antarctic context to contribute towards concrete action in the protection of Antarctica’s wilderness values. The CEP has “acknowledged that there had been gradual degradation of some aspects of Antarctic wilderness” (CEP XV Report, para 152). Sixteen years after the Protocol has come into force, progress in implementing the protection of Antarctica’s wilderness values is much needed.
+References
+Hughes, K.A., P. Fretwell, J. Rae, K. Holmes & A. Fleming. (2011). Untouched Antarctica: mapping a finite and diminishing environmental resource.  Antarctic Science 23: 537-548.
+
+Kennicutt, M.C., II, Klein, A., Montagna, P., Sweet, S., Wade, T., Palmer, T., Sericano, J. and Denoux, G. (2010). Temporal and spatial patterns of anthropogenic disturbance at McMurdo Station, Antarctica. Environmental Research Letters, 5, 034010, doi:10.1088/1748-9326/5/3/034010
+Vogt, S., Braun, M. & Jaña, R. (2004). The King George Island Geographic Information System project. Pesquisa Antártica Brasileira, 4: 183-185. 
+

@@ -1,0 +1,84 @@
+﻿
+
+
+
+
+
+The SCAR Lecture 
+Psychrophiles: a challenge for life
+
+
+
+
+The SCAR Lecture - Psychrophiles: a challenge for life
+by Professor Charles Gerday, Institute of Chemistry, University of Liège, Belgium
+
+The text comprises notes on the numbered slides to be found in Annex 1.
+Slide 1:
+Title: Psychrophiles: a challenge for life
+SCAR Lecture given by Charles Gerday, Honorary Professor of Biochemistry-University of Liege, Belgium. e-mail: ch.gerday@ulg.ac.be
+Slide 2: 
+The Arrhenius law is an equation telling us that the rates of chemical reactions (k) that occur in living organisms are exponentially depending on temperature (T).  This can also be expressed by the Q10, which is the ratio between the rates of a chemical reaction run at two temperatures differing by an interval of 10°C.  In living organisms, this Q10 is usually between 2-3.
+Slide 3: 
+So the question is: “How do psychrophiles maintain appropriate rate of reactions?”
+Slide 4: 
+In extremely low temperature environments, below 0°C, the fluids of a living organism are exposed to freezing, so another question can be addressed: “How do psychrophiles, living below 0°C, prevent freezing?”
+Slide 5: 
+This slide shows the effect of freezing of external fluids on unprotected and protected cells.  On the left side: a normal cell.  On the right side: below, an unprotected cell surrounded by external ice crystals.  As only pure water freezes there is a rapid and severe concentration of the solutes present outside the cell.  This induces the loss of water molecules from the intracellular space, aiming to re-equilibrate the osmotic pressure of both sides of the cell, but leading to cell dehydration and death.  Above, a protected cell producing in particular cryoprotectants that actively participate in the re-equilibration of the osmotic pressures and prevent the dehydration of the cell.
+Slide 6: 
+This represents the relationship between the specific activity of an enzyme (alpha-amylase, hydrolyzing starch) and the temperature of the environment and this for a cold-adapted enzyme (blue curve), and a temperate or mesophilic counterpart (green curve).  One can clearly see that the specific activity of the psychrophilic enzyme is much higher than that of the temperate counterpart at low and moderate temperatures.  The apparent maximum is shifted towards low temperatures whereas the cold-adapted enzyme is rapidly inactivated at temperature higher than 30°C.
+Slide 7: 
+In sea ice, even at very low temperature down to –20°C, there is a persistence of liquid veins (brine veins), often highly salted, that are populated by numerous bacteria displaying metabolic activities.
+Slide 8: 
+Active life in bacteria and in all other living organisms necessitates the production of energy, usually under the form of ATP, a nucleotide, that strongly depends on the proton (H+) gradient existing between both sides of the cell membrane and formed during the transfer of electrons, present in nutrients, to the final acceptor, oxygen.  So the permeability to protons has to be severely controlled.  This permeability strongly depends on temperature, and both psychrophilic and thermophilic organisms have to alter the chemical composition of their membranes to keep the proton permeability within defined limits.
+Slide 9: 
+This cartoon illustrates the chemical composition of a membrane formed by two layers of lipids, which have to be modified to secure an appropriate proton permeability at the respective environmental temperatures of living organisms.
+Slide 10: 
+Another representation of a cell membrane.
+Slide 11: 
+The cold-adapted enzymes produced by psychrophilic organisms have two general properties: a high specific activity at low and moderate temperatures and a high thermosensitivity, two properties that can be extremely valuable for many biotechnological applications.
+Slide 12: 
+To resist freezing, cold-adapted organisms produce antifreeze molecules, often proteins, which prevent the formation of large crystals of ice.  The first to be described in the sixties by Art Devries and co-workers is a glycoprotein isolated from an Antarctic fish and formed by a repetitive sequence of amino acids: Ala-Ala Thr to which is bound a dissacharide.
+Slide 13: 
+Other antifreeze proteins have been discovered in a large variety of organisms.  For example, five different families of protein antifreeze have been identified in various fish species adapted to low temperatures.  A particularity is that they are not evolutionarily related, their structure is different from each other but the effect is similar, although strongly dependent on the respective concentrations.
+Slide 14: 
+The slide illustrates the mechanism by which antifreezes work.  Antifreeze molecules bind to microscopic ice crystals at specific sites, and this prevents the growth of ice crystals so physiological fluids are kept liquid.  This in fact creates a difference between the melting temperature of the ice, which is kept normal, and the freezing temperature, which goes down to negative values.  This phenomenon is named hysteresis.  In addition, in the presence of antifreezes, the surface of the ice crystals, usually forming an hexagonal lattice, is altered, appears smoother and that also limits possible mechanical damages to cellular structures. 
+Slide 15: 
+The re-crystallization of ice is illustrated as well as its inhibition by antifreeze molecules.  The ice in the upper panel contains AFP (Antifreeze proteins) and crystals are tiny, whereas on the lower panel AFP’s are not present and the ice crystals increase in size - whereas the number of crystals goes down.  (Courtesy of Professor Peter L Davies, Queens University, Canada)
+Slide 16: 
+The structure of some cryoprotectants is shown.  They contribute to depress the freezing point of physiological fluids and to protect proteins against cold-denaturation.  Most of them are monomeric sugars, such as glucose or derivated polyols such as sorbitol.
+Slide 17: 
+There are three main effects of cryoprotectants:
+    • They depress the freezing point of water by colligative effect
+    • They prevent the dehydration of the cell when extracellular ice is present
+    • They protect proteins against cold denaturation.
+Slide 18: 
+The various effects of ice-structuring proteins are illustrated.  In the absence of nucleation, pure water freezes around-39°C.  Usually however pure water is not that pure and contains tiny particles that favour the nucleation so that ordinary water freezes at 0°C.  Some psychrophiles produce INP, or ice nucleating proteins, that increase the freezing point of water; they are used in artificial snow production on ski tracks.  They can also produce ANP, or anti nucleating proteins, which, on the contrary, favour super-cooling, meaning a decrease of the freezing point of water.  Ice structuring proteins also include the antifreeze molecules: some (AFP) depress the freezing point and prevent the growth of ice crystals, some others (IR for ice recrystallization) do not depress the freezing point but prevent the growth of ice crystals in physiological fluids.
+Slide 19: 
+Ice nucleating proteins have four main effects:
+    • Ice is confined into the extracellular space
+    • The formation of ice is controlled by the organism and progressively formed enabling appropriate metabolic adjustments.
+    • In this way cryoprotectants can also be produced concomitantly preventing excessive dehydration.
+    • The formation of extracellular ice induces limited cell dehydration and that also contributes to depress the freezing point of the intracellular fluid.
+Slide 20: 
+Identical to slide 18 in order to comment on ANP (Anti-nucleating proteins) that induce super-cooling, meaning the depression of the freezing point of fluids.  ANP were successfully used in the non-freezing preservation of organs such as livers at temperatures around –3°C.
+Slide 21: 
+The slide illustrates the effect of a psychrophilic bacterial strain (Arthrobacter psychrolactophilus isolated near the scientific station of NY-Alesund in Spitzberg) on the de-pollution, at 10°C, of waters contaminated by polymers such as proteins, lipids and sugars.  This biotechnological process is named bio-augmentation and consists in the addition to the environment of exogenous microorganisms that complete the de-polluting effect of indigenous microorganisms.
+Slide 22: 
+This slide illustrates the various biotechnological applications in which psychrophilic microorganisms and their enzymes can actually (or in a near future) play a crucial role. The main fields are: the detergent market, the food industry, organic synthesis, molecular biology, textiles and environment.
+Slide 23: 
+A cold-adapted beta-galactosidase has been isolated in our laboratory from an Antarctic strain - Pseudoalteromonas haloplanktis - in view to be used in the industrial process of lactose hydrolysis in milk.  Indeed about 2/3 of the world population are intolerant to lactose and so dairy products have to be free of lactose.  A patent has been taken out by our University, and the process is going to be used by our industrial Belgian partner, Nutrilab.  The slide shows that the common sugar present in milk, the lactose, responsible for the intolerance to milk, can be enzymatically split into its monomeric constituents, the non-harmful sugars, glucose and galactose, by an enzyme named lactase or beta-galactosidase.
+Slide 24: 
+This table is a comparison between the efficiency of a cold-adapted beta-galactosidase produced by an Antarctic strain of Pseudoalteromonas haloplanktis in reducing the lactose in milk and the homologous and commercial mesophilic (temperate) counterpart.  The figures show that at 5°C the cold-adapted enzyme is nearly three times more efficient.
+Slide 25: 
+With an industrial partner we are developing, on the basis of the efficiency of the cold-adapted beta-galactosidase in reducing the amount of lactose in milk, a process that will enable the transformation of the D-galactose produced during the hydrolysis into a high added value new sweetener, the Tagatose.
+Slide 26: 
+On this slide is shown the three dimensional structure of a cold-adapted xylanase, isolated in our laboratory, from an Antarctic bacterial strain, Pseudoalteromonas haloplanktis, that belongs to a new family of xylanases, family 8.  The structure is compared to the usual other xylanases which belong to family 10 and family 11.
+Slide 27:
+The cold-adapted xylanase was tested in the baking process of so-called Argentinian breads and other bread forms. The table shows that when compared to its mesophilic counterpart, the cold-adapted enzyme dramatically improves the process since similar loaf volume and cut width are obtained with an amount of enzyme lowered by a factor of 100.  We have also a patent for this application and the cold-adapted xylanase is now sold all over the world for the baking industry.
+Slide 28: 
+Most of the work carried out in our laboratory has been made possible thanks to our participation in summer campaigns organized by the “Institut français de recherches et de technologies polaires” at the Antarctic station J-S Dumont d’Urville in Terre Adélie.  We thank this Institution for their continuous support and accommodation of our research fellows at this station and also at the sub-antarctic station Port-aux Francais at the Kerguelen archipelago for nearly 20 years.
+Slide 29: 
+Local and international researchers have actively collaborated with us mainly through European Union research contracts.  They are not only outstanding collaborators but also friends (Richard Haser from Lyon, Luisa Tutino from Naples, Nick Russell from London, Rick Cavicchioli from Sydney, Rosa Margesin from Innsbruck, Jos van Beeumen from Gent and Philippe Thonart from Gembloux.  Some of the work has also been carried out at the Arctic station of Ny-Alesund in Spitzberg thanks to our accommodation at the Italian house run by the CNR-Italy.
+Annex 1: Lecture Slides
+

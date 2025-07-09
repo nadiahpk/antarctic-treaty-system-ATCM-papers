@@ -1,0 +1,128 @@
+Using Artificial Intelligence (AI) to Support Decision Making in
+Marine Operations to Reduce Carbon Emissions
+Using Artificial Intelligence (AI) to Support Decision Making in
+Marine Operations to Reduce Carbon Emissions
+Summary
+The AI Lab at the British Antarctic Survey (BAS) is developing a
+fully automated system for planning the annual logistics and science
+itineraries for a fleet of research vessels. Given a collection of
+science requests, including science surveys to be done at particular
+locations within particular time windows, this shore-based system
+will plan how to task the ships in the fleet with the different
+requests so as to minimise the overall carbon emissions involved in
+a field season. The system can look ahead over a horizon of three or
+more years, planning how best to schedule tasks to maximise
+science delivery, as efficiently as possible, within each field season.
+Introduction
+AI is revolutionising a wide range of industries across the world
+with major advances in the fields of language processing and image
+generation making the news on a regular basis. At the same time,
+the need for industries to decarbonise has never been more pressing
+with the effects of climate change particularly evident in the polar
+regions. A question that then arises is whether the power of AI can
+be harnessed to help organisations meet their decarbonisation
+targets.
+One area where BAS has been making progress is in using AI
+techniques for the optimisation of marine operations, including
+routing, scheduling and risk-aware navigation.
+BAS has a comprehensive Net Zero Carbon programme that aims to
+fully decarbonise the operations of the organisation by 2040. This
+will be achieved by a variety of innovative approaches including
+introduction of alternative fuel types such as Hydrotreated
+Vegetable Oil (HVO) (see WP035 - Use of Alternative Fuels in
+Antarctic Operations to Reduce Carbon Emissions). Other
+approaches include the automation of operations that currently
+require human intervention, upgrades to infrastructure, and
+deployment of AI to allow us to make better use of existing
+resources.
+A selection of AI based decision support tools are being developed
+at BAS that aim to make the decision-making process faster and
+more efficient. These packages will allow experts to quickly
+consider a wide range of possible scenarios in different domains,
+drawing on all the relevant data from sources including remote-
+sensing, telemetry, and environmental forecast models.
+Environmental Marine Navigational Route Planning – PolarRoute
+The Autonomous Marine Operations Planning group (AMOP) at BAS
+has been developing an optimal marine routing tool for the polar
+regions known as PolarRoute. This decision support package is
+designed to aid navigation officers onboard a vessel operating in
+polar waters but also to aid planning of ship (and other vessel)
+operations in these areas. PolarRoute provides route suggestions
+from a start location to a destination, in a way analogous to how an
+in-car satellite navigation system is used. This system takes into
+account the characteristics of a given vessel such as its maximum
+speed, its dimensions, and its polar class, as well as the effects of
+environmental features such as weather conditions and sea ice.
+PolarRoute can generate the fastest routes or the most fuel-efficient
+routes between points and then offer these options for selection by
+a navigator. An understanding of how different environmental
+conditions affect different vessels allows these routes to be tailored
+to each specific case and provide the maximum benefit for efficient
+operations. PolarRoute is different from many route-planning
+systems because it has been designed for routing through ice-
+covered waters, and it takes into account the curvature of the earth.
+Route-planning is done in a non-uniform mesh where the mesh is
+most refined in the areas of highest complexity (for example, in
+coastal areas, the ice edge, areas of high winds and currents, and so
+on).
+PolarRoute has already been tested onboard the BAS polar research
+ship RRS Sir David Attenborough (SDA) and we are now
+generalising the system so that it can be used for routing other ships
+and other marine vehicles such as ocean gliders and powered
+marine autonomous platforms.
+The BAS research and supply vessel RRS Sir David Attenborough
+Risk Aware In-Ice Navigation – IceRouter
+Whilst PolarRoute optimises routing over long distances, additional
+reasoning is needed to navigate safely in the highly dynamic
+conditions of ice-covered waters. BAS is developing an automated
+In-Ice Navigation system, IceRouter that finds minimal-risk passages
+through these uncertain conditions. Operations in ice carry a wide
+range of risks including delays, incurring higher fuel expenditure,
+and serious damage to the vessel. Accurate sea ice information and
+a good understanding of the uncertainties associated with this data
+are essential for a complete understanding of the risk incurred. New
+satellite observation platforms and machine-learned forecasts are
+becoming available and are being used to provide a better picture
+of sea ice conditions and their evolution over time.
+In contrast to PolarRoute the in-ice navigation system operates at
+close-quarters on a much smaller geographical scale. It is responsive
+to locally changing conditions and hence similar to methods used
+for control of autonomous cars. The two systems are being
+integrated to provide full routing functionality in polar regions.
+Marine Logistics and Science Planning – VOLT
+The conventional planning of marine science tasks across multiple
+field seasons requires a detailed knowledge of the science
+requirements (for example the location, any seasonal restrictions
+and required equipment). The logistics of these tasks are manually
+planned into a timeline that reduces the total time and carbon
+footprint of the current and future field seasons. However, the
+manual process takes weeks and requires replanning on short
+timescales if exceptional circumstances occur. This approach cannot
+scale to operational planning across large fleets of vessels.
+In order to minimise the time spent by operational planning
+experts, and effectively sample multiple timelines of possibilities,
+BAS is building an AI marine logistics planner. The Vehicle
+Optimisation for Logistics and Transportation (VOLT) planner has
+been developed for use by human operators to quickly determine a
+timeline of tasks minimising the time and carbon expenditure of the
+fleet. This planner will make use of PolarRoute for efficient routing
+between tasks.
+The AI marine logistics planner will be able to replan in minutes
+rather than weeks and will generate informed carbon budgets ahead
+of undertaking the plans.
+Conclusion
+The tools described provide decision support both on-board
+(PolarRoute and IceRouter) and shoreside (VOLT). These systems
+will help operators to select the best strategies for minimising fuel
+use and carbon production over individual journeys and field
+seasons. One of the clear advantages of our methods is that they can
+be used to generate “what if” scenarios very quickly, allowing
+different environmental conditions, ship properties and science
+requirements to be considered. This provides the ability for field
+season operations to be highly responsive to changing conditions
+and unforeseen events and to take advantage of opportunistic goals
+and events when these arise.
+References
+British Antarctic Survey, Autonomous Marine Operations Planning,
+https://www.bas.ac.uk/project/autonomous-marine-operations-
+planning

@@ -1,0 +1,55 @@
+﻿DISEÑO E IMPLEMENTACIÓN DE LA PÁGINA WEB DEL INSTITUTO ANTÁRTICO ECUATORIANO (INAE)
+ 
+DISEÑO E IMPLEMENTACIÓN DE LA PÁGINA WEB DEL INSTITUTO ANTÁRTICO ECUATORIANO (INAE)
+
+ANTECEDENTES
+
+Desde finales del 2004 y una vez que el Decreto de Creación del Instituto Antártico Ecuatoriano fue firmado, se ha venido desarrollando el diseño e implementación de la nueva página web antártica ecuatoriana, la misma que ha sido estructurada para almacenar e integrar todos los datos científicos, informes y publicaciones de los proyectos de investigación que este instituto auspicia. Diferentes grupos de trabajo están encargados de recopilar, depurar, clasificar e ingresar toda la información relacionada con los proyectos, características, referencias bibliográficas utilizadas, investigadores participantes, instituciones involucradas,  parámetros analizados y publicaciones generadas. 
+
+ESQUEMA GENERAL DE LA PÁGINA WEB 
+
+La página Web ha sido diseñada tomando como base los modelos de otros organismos que ya poseen páginas web operativas. Un grupo de trabajo es el encargado de modificarla, incluyendo información mas detallada acerca de los resultados obtenidos en cada una de las expediciones realizadas. La página web antártica incluye una descripción de cada uno de las expediciones ejecutadas (en la actualidad 9), así como de los resultados científicos obtenidos en cada una de estas, además de diferentes documentos, producto de las reuniones y trabajos que dentro de este campo se ejecutan. 
+
+Junto con la estructura de los datos que conforman la página Web se determinaron las funciones que el sistema debe disponer para satisfacer los requerimientos de los diferentes usuarios. Para ello se establecieron perfiles de usuario: el  administrador central de datos, que es el encargado de la integridad de los datos más elementales del sistema; los administradores científicos de datos, que son profesionales del departamento científico, responsables de mantener la integridad de los datos científicos; el usuario de consulta, el que podrá ser interno o externo, y podrá solo navegar por los datos determinados como públicos; y el usuario científico, que al igual que el usuario de consulta puede navegar por datos públicos, pero además por los  datos reservados que le competan.
+
+Provisionalmente en la página WEB www.inocar.mil.ec/INAE se pueden efectuar las consultas necesarias referentes a la información requerida, y se mantiene el nexo con otros organismos antárticos como el SCAR, COMNAP, etc. En el mes de octubre de este año se tiene previsto contar con una página web independiente y completa, que constantemente estará siendo alimentada con nueva información que se genere.
+
+Dentro de los objetivos contemplados en la estructuración de esta página web antártica se quiere cumplir con los acuerdos alcanzados dentro del Sistema del Tratado Antártico en lo relacionado al intercambio de información entre los países antárticos. Proporcionar a la comunidad científica nacional una plataforma que le permita acceder a datos científicos como apoyo al desarrollo y formulación de estudios multidisciplinarios. 
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+Desde el año 1983 el Ecuador ha participado activamente en hechos relacionados con el Continente Antártico, a través de la Armada del Ecuador, Institución que ha planificado y ejecutado hasta la fecha expediciones científicas a esa distante región polar. algunas de llas han sido llevadas a cabo en el Buque de Investigaciones "ORION" y el resto por vía marítima comercial, estas expediciones han permitido conocer información relacionada a los proceso naturales, generadoes de cambios climáticos y otros fenómenos que impactan el medio ambiente de nuestra región; y además han permitido investigar los recursos potenciales con que cuenta la Antártida, los mismos que contribuirán a un futuro promisorio para el Ecuador. 
+
+El 5 de Agosto de 1988 se crea la Secretaría del Programa Antártico Ecuatoriano (PROANTEC) cuya función principal es planificar, coordinar y conducir las actividades ecuatorianas en la Antártida, de acuerdo a la política gubernamental y tomando en cuenta las disponibilidades económicas para afirmar y mantener la presencia ecuatoriana en ese continente; participar y cooperar en la investigación científica, bajo los lineamientos, consideraciones y compromisos establecidos en el ámbito del Sistema del Tratado Antártico, mientras éste se encuentre en vigencia.
+ 
+
+Designación de Director Ejecutivo 
+
+
+ 
+
+SCAR ONLINE NEWSLETTER
+http://www.scar.org/news/newsletter/issue1/jan05.html
+
+
+
+
+ 
+
+
+
+

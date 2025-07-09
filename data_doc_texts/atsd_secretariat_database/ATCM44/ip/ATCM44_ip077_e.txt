@@ -1,0 +1,151 @@
+A classification system of Antarctic inland aquatic ecosystems
+A classification system of Antarctic inland aquatic ecosystems
+An information paper submitted by New Zealand
+Summary
+Ecological classification is the classification of land or water into
+units that represent variation. They can be used to support
+environmental management by grouping units with similar
+characteristics and hence management needs. A recent study
+(Hawes et al., 2021) developed a classification of lentic Lentic
+aquatic ecosystems refers to those with standing or still water such
+as ponds or lakes. aquatic ecosystems (ponds and lakes) in the
+McMurdo Dry Valleys Antarctic Specially Managed Area (ASMA).
+Aquatic ecosystems have the potential to be highly sensitive to
+human activities through physical disturbance, contamination and
+the introduction of non-native species, and to climate variability.
+The lentic water body classes were assessed against these factors to
+identify the sensitivity of the different water bodies to support
+prioritised environmental management needs.
+Aquatic ecosystems are recognised as biodiversity hotspots yet are
+under-represented in the Antarctic Specially Protected Area (ASPA)
+network (Howard-Williams et al., 2021). It is suggested that the
+classification process used here could be applied to other lentic
+aquatic environments elsewhere in Antarctica to support enhanced
+management.
+Classification of aquatic ecosystems
+Using a mixture of remote sensing and existing cartography, over
+6,000 ponds and lakes were identified in the McMurdo Dry Valleys
+ASMA and then classified using a top down hierarchical system to
+define 13 class separations based on physical attributes. Rivers and
+stream ecosystems were excluded from the classification as existing
+remote sensing imagery was not adequate to allow for identification
+of active stream channels.
+The first hierarchical level was classified based on landscape
+(topographic vs. kettle holes). Kettle holes (water bodies on
+glacially derived, thermokast formation) were separated from
+topographic water bodies as a distinct subset due to their high
+density, small size and occupation of recent, dynamic glacial
+terrain. The second hierarchical level was classified on catchment
+morphology (exorheic or endorheic Exorheic refers to water bodies
+with an outflow and endorehic refers to water bodies with no
+outflows.), the third hierarchical level on summer ice conditions
+(open water, ice capped, or frozen to the base) and the fourth
+hierarchical level on the source of water inflow (glacier fed or non-
+glacier fed) (Figure 1). The classification was tested against existing
+information on water chemistry and microbial biodiversity and,
+where data was sufficient for statistical evaluation, class separations
+were found to reflect ecological differences.
+Level
+Criterion
+1
+Landscape
+Topographic
+Kettle
+2
+Catchment Type
+Endorheic
+Exorheic
+3
+Summer Ice Cover
+Open Water
+Ice capped
+Frozen to base
+Open Water
+Ice Capped
+Frozen to base
+Open water
+Ice capped
+4
+Water Source
+Non-Glacial
+Non-Glacial
+Glacial
+Non-Glacial
+Glacial
+Non-Glacial
+Glacial
+Non-Glacial
+Glacial
+Non-Glacial
+Glacial
+CODE
+TOP-END-OW-NG
+TOP-END-ICE-NG
+TOP-END-ICE-GL
+TOP-END-FRO-NG
+TOP-END-FRO-GL
+TOP-EXO-OW-NG
+TOP-EXO-OW-GL
+TOP-EXO-ICE-NG
+TOP-EXO-ICE-GL
+TOP-EXO-FRO-NG
+TOP-EXO-FRO-GL
+KET- OW
+KET-ICE
+Figure 1: Top down classification of lentic water bodies based on
+four hierarchical levels (Hawes et al., 2021).
+Aquatic ecosystem sensitivity and ASMA management objectives
+Water is a limiting resource in the McMurdo Dry Valleys and, where
+present, provides for hot spots of microbial biodiversity and
+ecosystem productivity in an otherwise extreme desert environment
+(Vincent and James, 1996). Aquatic ecosystems have the potential
+to be highly sensitive to human activities through physical
+disturbance, contamination and the introduction of non-native
+species, and to climate variability. The classification of lentic water
+bodies in the McMurdo Dry Valleys was assessed against these
+factors to identify the relative sensitivity of the different water
+bodies and compared with management actions available in the
+ASMA management plan (Figure 2). Prioritisation (low, medium
+and high) included consideration of abundance, rarity and
+representativeness of the aquatic ecosystem.
+These considerations can be used to inform future research and
+logistical operations while ensuring adequate protection of
+wilderness and biodiversity values. Noting these ecosystems and
+environments are dynamic, the sensitivity and management
+response will likely need to be reviewed and adapted over time,
+supported by monitoring and assessments and increased knowledge
+and understanding of these sites.
+Figure 2: Relative prioritisation of ecosystem sensitivities and ASMA
+management actions by lentic water body class.
+Applicability to wider area protection
+Although freshwater ecosystems are recognised biodiversity
+hotspots and are sensitive to human activities, only 2 of the 72
+ASPA management plans explicitly identify freshwater values as the
+primary reason for designation (Howard-Williams et al., 2021). 34
+of them are known to include freshwater ecosystems, but often by
+virtue of their inclusion within identified boundaries with little
+thought of their representativeness, importance or management
+requirements.
+A classification system, using similar principles to the ones
+developed here, may provide a systematic approach to prioritisation
+of aquatic ecosystems for protection in ice free areas across the
+Antarctic continent. It is acknowledged that the geographic settings
+and geological mechanisms for formation of aquatic ecosystems and
+catchment characteristics in other areas
+will be different to the McMurdo Dry Valleys, so any classification
+will need to accommodate local features.
+A freshwater classification system in each Antarctic Conservation
+Biogeographic Region (ACBR) (Resolution 6 (2012)) could be
+considered to assist in identifying areas for protection, particularly
+since freshwater ecosystems are currently under represented.
+References
+Hawes, I., Howard-Williams, C., Gilbert, N. and Joy, K. 2021.
+Towards an environmental classification of lentic aquatic
+ecosystems in the McMurdo Dry Valleys, Antarctica. Environmental
+Management 67: 600-622.
+Howard-Williams, C., Hawes, I. and Gilbert, N. 2021. Why do so
+few Antarctic Specially Protected Areas protect inland waters?
+(Editorial). Antarctic Science 33: 231-232.
+Vincent, W.F., and James, M.R. 1996. Biodiversity in extreme
+aquatic environments: lakes, ponds and streams of the Ross Sea
+Sector, Antarctica. Biological Conservation 5: 1451-1471.

@@ -1,0 +1,199 @@
+Update on the status of emperor penguins in a variable and
+changing environment
+Update on the status of emperor penguins in a variable and
+changing environment
+Working Paper submitted by SCAR
+Summary
+This paper introduces the results of a 10-year circumpolar
+assessment (2009 to 2018) of emperor penguin colonies, based on
+satellite imagery, field validation surveys, and a Bayesian modelling
+framework (LaRue and Iles et al., 2024). This study developed
+indices of abundance for the global population of adult emperor
+penguins, showing a probable 9.6% decline over the study period.
+The drivers of change are not yet fully understood, highlighting the
+need for continued research and monitoring. The results of the new
+study, together with other recent research, provide context to a
+previous SCAR assessment that the emperor penguin may be
+vulnerable to the ongoing and projected effects of climate change
+(ATCMXLIII, Working Paper 37). SCAR encourages Parties to
+support enhanced collaboration across National Antarctic
+Programmes to improve understanding about the species, and
+factors contributing to observed population change.
+Background
+The life cycle of the emperor penguin (Aptenodytes forsteri) is
+closely linked to Antarctic sea-ice, as breeding is mostly initiated on
+fast-ice early in the Antarctic winter. Sixty-six breeding sites are
+currently known (Fretwell and Trathan, 2019; 2021; Fretwell,
+2024) and while most recently-discovered sites are small, their
+locations have also expanded the geographic scale of monitoring,
+including a few in areas offshore from the coastal margins (Fretwell
+and Trathan, 2021; Fretwell, 2024). According to Sentinel satellite
+sea-ice observations from 2018 to 2023, approximately 42% of
+emperor penguin breeding locations (28 of the 66) experienced
+early fast-ice break-up at least once in five years (ATCMXLV,
+Working Paper 52), possibly resulting in breeding failures. An
+increasingly warming Antarctic environment may alter the
+availability of breeding habitat, with possible impacts on the
+survival of the species that require detailed investigation.
+Emperor penguin population projections from state-of-the-art
+demographic models that include sea-ice projections derived from
+coupled Earth System Models, integrate the complex relationships
+between reproduction, mortality, and sea-ice throughout the
+species’ life cycle (Jenouvrier et al., 2012; 2020; 2021). These
+models project fewer colonies will be in existence by the end of
+2100 with key refugia in just a few locations around Antarctica.
+In 2023, Members of the Committee on Environmental Protection
+agreed to report research on the status of the emperor penguin
+(ATCM XLV Final Report, paragraph 104). This paper reports a
+recent assessment of the global population of emperor penguins,
+and outlines further collaborative research that could help explain
+the observed change in numbers.
+A multi-year time series documenting changes in observed emperor
+penguin numbers
+LaRue and Iles et al. (2024) present a global analysis based on high-
+resolution satellite imagery, field validation surveys and Bayesian
+modelling, which assesses the population size and trajectory of
+adult emperor penguins across their entire population range. This
+includes an updated global index of abundance of ~252,000
+breeding adults (as of 2009), and analysis showing that fewer
+breeding adults (~228,000) were present in 2018 than in 2009. The
+observed pattern is statistically well-supported despite large
+uncertainties. The number of birds varied at any breeding location,
+and at different regional scales. A weak correlation (Spearman rank
+r2 = -
+0.52) existed between trends in the abundance index and regional
+fast-ice trends; the probability of population decline was greater in
+regions where fast-ice trends were negative.
+Future work to explain the observed decrease in numbers
+Multiple hypotheses could explain the observed population changes,
+and these hypotheses must be considered for future monitoring and
+international research collaboration. Additional work is needed in
+the following areas to allow us to better understand the potential
+causes of decline:
+Physical and environmental
+Wind strength and storm frequency vary spatially and temporally,
+and may influence penguin populations in different ways (e.g.,
+detectability and estimates derived from satellite imagery;
+Labrousse et al.2021). Wind also plays a large role in the formation
+and stability of fast ice.
+Biological
+If reliable fast-ice habitat changes, birds may move to other
+breeding sites, such as in 2016, when fast-ice broke-up at Halley
+Bay (Fretwell and Trathan, 2019). LaRue and Iles et al. (2024) only
+monitored the 50 colonies known before 2015 (most were known
+by 2009). However, the 16 colonies found since 2009 could
+partially contribute to the decrease in the abundance index
+(~24,000 birds) if some birds relocated. Enhanced satellite and
+aerial surveys will help verify breeding locations.
+Fewer birds in spring may result from decreased recruitment, or
+lowered breeding success. Remote-camera-systems at accessible
+colonies (e.g. Atka Bay) can provide data on intra-seasonal
+fluctuation in adults, and help contextualize abundance indices
+from optical satellite imagery (available only after sunrise in
+spring).
+Demographic studies provide information about changes in
+recruitment, longevity, breeding propensity and other vital rates,
+including in relation to long-term changes in the environment.
+Collaborations that enhance demographic understanding could
+further elucidate drivers of change in the index of penguin
+abundance.
+Phenological studies (e.g. on reproductive timing) will help inform
+the abundance index, as between-colony differences may contribute
+to differences in the index of abundance.
+At-sea surveys in areas regularly frequented by vessels can provide
+information about changes in prey availability, augmenting
+information about local or regional changes in marine food webs.
+Where surveys are close to emperor penguin colonies, insights into
+changes in the abundance index may be possible. Understanding
+any ongoing changes in other predator species would provide
+additional context.
+Decadal trends and long-term variation
+The emperor penguin abundance index is still relatively short (2009
+to 2018), especially for a seabird with a life expectancy of over 25
+years. Due to delayed maturity (3 to 5 years), it takes several years
+before recruits join the breeding population. Thus, the work
+presented by LaRue and Isles et al. (2024) must continue, covering
+the entire geographic range of the species, given regional variability
+in environmental conditions, and movement of birds amongst
+colonies.
+Methodological development
+Collaborating with experts in machine learning approaches may be
+an important next step because analysis of remotely-sensed images
+using maximum-likelihood classification is laborious, and to a
+degree, subjective. Such future approaches could help reduce
+observer bias, and ideally, be transferable across satellite platforms.
+International collaboration
+Currently only a few research groups work on emperor penguins,
+whether in the field, using remote sensing, or modelling. The long-
+term study sites at Pointe Géologie (1962 onwards), ASPA 101
+Taylor Glacier (intermittently from 1957 to 1975, and ongoing from
+1988), and ASPA 127 Haswell Island (intermittently from 1970 to
+2020) are now becoming increasingly important, yet other studies
+are urgently needed. The recently initiated study at Atka Bay (2018
+onwards) is an example of what could be initiated at other
+localities. The expansion of data streams would facilitate
+understanding about ecological variability at different sites, adding
+greatly to modelled projections of population change and
+refinement of the abundance index.
+The majority of emperor penguin breeding sites are remote from
+scientific research stations, but some are close. Initiation of studies
+at close sites would add greatly to the overall sum of knowledge,
+including for colonies with different sea-ice conditions, wind
+dynamics and different prey conditions. Collaboration among
+scientists will facilitate improved understanding, whilst ensuring
+consistent terminologies and methodologies (e.g. for remote
+sensing, image analysis, field data collection, aerial and ground
+counts, molecular methods, etc.). An expanded monitoring
+programme could be affiliated with or coordinated by SCAR but
+will also require support from National Antarctic Programmes.
+Several upcoming international programmes may be able to
+contribute to the development of expanded monitoring, including
+Antarctica InSync (2027-30) and the proposed International Polar
+Year (2032-33). Recent reports of High Pathogenicity Avian
+Influenza reaching Antarctic penguin colonies suggest that links
+with the SCAR EG-BAMM Antarctic Wildlife Health Network would
+also be paramount.
+Conclusion
+A recent circumpolar assessment of emperor penguin colonies
+indicates a probable 9.6% decrease in the number of adult emperor
+penguins present at colonies during spring, in the period
+2009-2018. The drivers of this decline are not understood,
+emphasizing the need for more extensive research and monitoring.
+SCAR encourages Parties to support enhanced collaboration across
+National Antarctic Programs on research to improve understanding
+about the factors that may be driving observed population change.
+References
+ATCM. 2021. Projections of future population decline emphasise the
+need to designate the emperor penguin as an Antarctic Specially
+Protected Species. Working Paper 37.
+ATCM. 2023. Final Report.
+ATCM. 2023. A five-year assessment of the impacts on emperor
+penguins of low sea-ice extent. Working Paper 52.
+Fretwell, P. 2024. Four unreported emperor penguin colonies
+discovered by satellite. Antarctic Science doi: 10.1017/
+S0954102023000329.
+Fretwell, P.T., Trathan, P.N. 2019. Emperors on thin ice: three years
+of breeding failure at Halley Bay. Antarctic Science 31(3): 133-138.
+DOI: 10.1017/s0954102019000099.
+Fretwell, P.T., Trathan, P.N. 2021. Discovery of new colonies by
+Sentinel2 reveals good and bad news for emperor penguins. Remote
+Sensing in Ecology and Conservation 7 (2): 139-153 doi: 10.1002/
+rse2.176.
+Jenouvrier, S., et al., 2012. Effects of climate change on an emperor
+penguin population: analysis of coupled demographic and climate
+models. Global Change Biology 18(9): 2756-2770. doi: 10.1111/
+j.1365-2486.2012.02744.x.
+Jenouvrier, S., et al., 2020. The Paris Agreement objectives will
+likely halt future declines of emperor penguins. Global Change
+Biology 26(3): 1170-1184. doi: 10.1111/gcb.14864.
+Jenouvrier, S., et al., 2021. The call of the emperor penguin: Legal
+responses to species threatened by climate change. Global Change
+Biology 27: 5008-5029. doi: 10.1111/gcb.15806.
+Labrousse, S., et al., 2021. Quantifying the causes and consequences
+of variation in satellite-derived population indices: a case study of
+emperor penguins. Remote Sensing in Ecology and Conservation.
+doi: 10.1002/rse2.233.
+LaRue., Iles, D., et al., 2024. Advances in remote sensing of emperor
+penguins: first multi-year time series documenting trends in the
+global population. Proceedings on the Royal Society Series B 291:
+20232067. https://doi.org/10.1098/rspb.2023.2067.

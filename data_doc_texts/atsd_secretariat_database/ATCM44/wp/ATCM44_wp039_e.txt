@@ -1,0 +1,105 @@
+Mapping coastline sensitivity to oil pollution in the Antarctic
+Peninsula region
+Mapping coastline sensitivity to oil pollution in the Antarctic
+Peninsula region
+A Working Paper submitted by the United Kingdom
+Summary
+This paper describes a pilot project to develop an oil spill sensitivity
+map for the coastline of the Antarctic Peninsula region. The United
+Kingdom recommends to the Committee that it:
+considers the usefulness of the preliminary oil spill sensitivity map
+to assist with oil spill contingency planning and response; and
+encourages Members, Observers and Experts to provide suggestions
+for improving the accuracy and utility of the map with a view to
+enhancing management of potential oil spills in the Antarctic
+Peninsula region.
+Background
+Antarctica is often considered to be a remote and pristine
+environment. However, it is subject to increasing levels of human
+activity including tourism, fishing and national governmental
+operator activity (ATCMXXXI IP58). This activity has led to
+increasing levels of ship traffic, with estimates of c. 200 vessels
+operating in the region and >500 voyages occurring annually.
+Antarctic waters are poorly charted, compared to other parts of the
+world, and transient sea ice conditions can make the waters
+treacherous and increase the likelihood of marine accidents that can
+severely impact local biodiversity (ATCMXLIII IP4) Previous
+shipping incidents involving the sinking or holing of fishing,
+tourism or national operator vessels have resulted in the release of
+fuel oil and other lubricants (see ATCMXXXVI IP90; ATCMXXXI
+IP11; ATCM XXXV IP53; ATCMXXX IP119; ATCM XXIV IP62).
+Spilled oils can have serious negative impacts on affected
+biodiversity including birds, seals and fish and benthic and
+intertidal communities.
+Recent developments
+Steps have been taken to reduce the likelihood and impact of fuel
+spills resulting from marine incidents. The ATCM welcomed the
+introduction of the Polar Code by the IMO in Jan 2017 (Resolution
+6 (2017)), which amongst other things prohibited the use of heavy
+fuel oils in Antarctic waters which are considered to have greater
+polluting impact than lighter grade fuels. The ATCM has also
+encouraged Parties to support further bathymetric charting of
+Antarctic water to further reduce the risk of groundings (Resolution
+6 (2019)). Earlier studies modelling the spread of oil resulting from
+a spill in the marine environment have been presented to the ATCM
+(ATCMXX IP47). However, little work has been done to identify
+areas of coastline that may be more vulnerable to oil spills due, for
+example, to the presence of concentrations of wildlife, or Antarctic
+station infrastructure. An assessment of the susceptibility of
+coastline would allow better contingency planning or facilitate the
+most effective implementation of a response should an oil spill have
+occurred.
+Oil spill sensitivity mapping
+Oil spill sensitivity mapping of coastline is commonly undertaken in
+other part of the world, and in particular, in areas where spills
+would have serious implications for biodiversity and humans. The
+British Antarctic Survey (BAS) and Oil Spill Response Limited
+(OSRL) have undertaken a
+pilot project to develop an oil spill sensitivity map for the Antarctic
+Peninsula region, which is an area of the continent subject to some
+of the highest levels of ship traffic. BAS has extensive knowledge of
+environmental management, mapping and logistics in Antarctica.
+OSRL has completed numerous sensitivity mapping projects around
+the globe and has contributed to several International Petroleum
+Industry Environmental Conservation Association (IPIECA) Good
+Practice Guides.
+The method was based upon the one recommended by the IPIECA
+but adapted for use in Antarctica. Using available geospatial
+datasets on features including Antarctic facilities, penguin colonies,
+Important Bird and Biodiversity Areas (IBAs), protected areas,
+visitor sites and CCAMLR Ecosystem Monitoring Programme
+(CEMP) sites, an on-line Geographical Information System map was
+produced. The on-line map is available at: https://
+bas.maps.arcgis.com/apps/instant/media/index.html?
+appid=4161f3abc00c4b47a200d4acba6ea2ce. A more detail report
+on the method employed is available at Attachment A.
+Approximately 24,985 kms of coastline were assessed with 807 km
+(3.2%) allocated to the highest sensitivity category (e.g., see Figures
+1 and 2). Locations considered of highest sensitivity included the
+coastal area around southern Anvers Island, the South Shetland
+Islands (Deception Island, in particular) and the South Orkney
+Islands.
+The GIS map was a product of a pilot study and there is scope for
+further developments concerning the method used and the inclusion
+of geospatial dataset. The United Kingdom would welcome
+comments from CEP Members, Observers and Experts regarding the
+usefulness and accuracy of the map and suggestions for
+improvement. Examples might include the provision of sea ice data,
+an estimate of seasonal variability in coastline sensitivity to oil
+spills (e.g., sensitivity may temporarily decline at locations where
+wildlife have migrated due to the onset of winter) or ocean current
+data to show the potential movement of oil following a spill.
+Recommendations
+The United Kingdom recommends to the Committee that it:
+considers the usefulness of the preliminary oil spill sensitivity map
+to assist with oil spill contingency planning and response; and
+encourages Members, Observers and Experts to provide suggestions
+for improving the accuracy and utility of the map with a view to
+enhancing management of potential oil spills in the Antarctic
+Peninsula region.
+Figure 1. On-line map modelling coastline sensitivity to marine
+pollution in the Antarctic Peninsula region. The on-line map can be
+accessed here.
+Figure 2. Example section of the oil spill sensitivity map for the
+Antarctic Peninsula region showing Snow Island, Deception Island
+and Livingston Island, including Byers Peninsula.

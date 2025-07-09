@@ -1,0 +1,86 @@
+Determination of the Contribution of Atmospheric Pressure to Sea
+Level Variations in Antarctica in Austral Summer
+Determination of the Contribution of Atmospheric Pressure to Sea
+Level Variations in Antarctica in Austral Summer
+General context
+In the context of the international cooperation between the
+Antarctic and Oceanographic Institute of Ecuador (INOCAR) and
+the Colombian Maritime Authority of Colombia (DIMAR), within
+the Colombian Antarctic Program (PAC), the initiative to
+consolidate a project aimed at expanding knowledge about sea level
+rise at a global level, focusing on Antarctica, was proposed since
+2017. proposing the research project in five phases, entitled:
+"Determination of the Contribution of Atmospheric Pressure to Sea
+Level Variations in Antarctica in Austral Summer" II / V.
+This project seeks to understand how atmospheric pressure
+influences sea level variations near Greenwich Island in the South
+Shetland Archipelago, as a contribution to the study of ocean-
+atmosphere interaction processes in Antarctica. Within the
+framework of this collaboration, the Antarctic and Oceanographic
+Institute of Ecuador (INOCAR) has the Pedro Vicente Maldonado
+Antarctic base, which was chosen to develop the project (Figure 1).
+Figure 1. Study area, Greenwich Island in the South Shetland
+Archipelago. Source: Project Report 10EAC-CF-009 Sea Level
+Dossier
+In the 10th Colombian Antarctic Expedition, in collaboration with
+INOCAR, the project was carried out in the second phase, with
+three more phases of the project pending in subsequent years. The
+research project seeks to install a portable weather station near a
+tide station to obtain accurate measurements of atmospheric
+pressure and wind. These measurements will be analyzed to
+quantify the impact of barometric pressure on sea level oscillations
+and to understand the response of sea level to other variables, such
+as wind. The project aligns with the thematic areas of basic
+knowledge and relations between South America and Antarctica,
+according to the country's Antarctic Agenda, and will be carried out
+in international cooperation at a nearby base that has a tide gauge
+installed.
+For 23 days, two sea level sensors and a rapidly deployable
+meteorological station were installed at Ecuador's Pedro Vicente
+Maldonado Antarctic Station, through which oceanographic and
+meteorological conditions were monitored to associate atmospheric
+events with the analysis of meteorological residue (Figure 2).
+B.
+Figure 2. A. Easy-to-deploy weather station for Antarctic conditions.
+B. Researchers with RBR sea level sensors ready to be anchored.
+Source: Project Report 10EAC-CF-009 Sea Level Dossier.
+The data obtained provided a harmonic analysis of the tidal
+constituents to eliminate this signal from the time series and obtain
+the meteorological residue. The latter will be used as a dependent
+variable in a regression, fitting atmospheric pressure and wind data
+as independent variables to determine their contribution to sea
+level variability within the meteorological component.
+For the measurement period (January 12 to February 01, 2024), the
+following data could be obtained, the relative humidity sensor
+recorded an average humidity of 90.9% with a maximum of 100%
+and a minimum of 54%, the atmospheric pressure sensor recorded
+an average of 985.9 hPa with a maximum pressure of 1000.7 hPa
+and a minimum of 972.5 hPa, and the ambient temperature sensor
+recorded an average of -4.78°C, with a minimum temperature of
+-9.7°C and a maximum of 2.52°C.
+It can be observed that during the 23 days of data collection, three
+days with low peaks of atmospheric pressure were evidenced, which
+were on January 23, 27 and 31, where on January 23 an
+atmospheric pressure of 972.5 hPa was obtained, being the lowest
+of the observed period, associated with the passage of a cold front.
+On that day, a wind speed of up to 28 kn was recorded in a
+northwesterly direction to the northeast.
+Also on January 27, an atmospheric pressure of 975 hPa was
+observed where there was a set of low pressure systems, with a
+wind speed up to 20 kn, with variable direction, from January 31 a
+pressure of 980 hPa was observed where there was a set of low
+pressure systems, with winds of speed up to 31 kn, During the days
+of January 16, 22, 25, 30 and February 1, 5 days with high peaks in
+atmospheric pressure were observed, the highest being 1000.7 hPa
+on January 30, where good weather was evident. During the
+measurement period, topometric RBR surveys were carried out
+using a Trimble R10 GPS (Figure 3).
+Figure 3. Topometric survey. In the photo, researchers from
+Colombia and Ecuador. Source: Project Report 10EAC-CF-009 Sea
+Level Dossier.
+In the future, it is expected to continue contributing to different
+studies on climate change by applying corrections to sea level
+trends, which will include the installation of tide gauges near the
+study area. This project highlights the importance of open science,
+international cooperation, and environmental protection of
+Antarctica.

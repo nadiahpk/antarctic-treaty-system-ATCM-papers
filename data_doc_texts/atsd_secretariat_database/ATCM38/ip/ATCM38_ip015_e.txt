@@ -1,0 +1,81 @@
+﻿
+
+
+
+
+
+Proposed routes for all-terrain vehicles based on impact on deglaciated area of James Ross Island 
+
+
+
+
+
+
+
+
+
+
+Proposed routes for all-terrain vehicles based on impact on deglaciated area of James Ross Island 
+
+
+1. Introduction
+
+In 2011, IP No. 133 focused on evaluation of all-terain vehicles impact on deglaciated area of James Ross Island was presented in Buenos Aires during the XXXIV Antarctic Treaty Consultative Meeting. In the IP, a report on tire tracks made by former expeditions (British, Argentinean, Brazilian) in different subregions of James Ross Island in the period of 2005-2011 was given and potential risks for Antarctic environment, deglaciated areas in particular, overviewed. 
+
+Czech expeditions operate at James Ross Island typically in January-February each year. To come to the places of interest located several kilometers away from Mendel station (see Fig. 1), Czech expedition members either walk or use rubber boats. The latter option, however, was not used in 2013, and 2014 austral summers because of persistent see ice cover of Prince Gustav Channel that made it impossible to go by rubber boats. Since it represented a serious limitation for short-term field camps, the CzechPolar team decided to acquire all-terrain vehicles and use them for the first time in 2015 expedition. The intention was to support filed camps with delivery of scientific and technical cargo, and food as well.   
+
+2. Route planning and optimization
+
+In 2014, Czech experts had several meetings aimed to planning of possible routes over James Ross Island. Main emphasis was given to the experience taken from former evaluation of environmental risks (IP 133, XXXIV ATCM). Comments and suggestions from Czech expedition team members were also considered and implemented where appropriate. General rules and recommendations for 2015 expedition were adopted and summarized as follows:
+    • To avoid few coastal points at which pinguins and sea mammals occur sporadically in small quantities 
+    • To avoid green spots (moss-dominated vegetation oases)
+    • To avoid long-term wet places such as e.g. seepages, stream/lake margins, freshly-melt snow depositions etc.
+    • To cross streams at sites where disturbance of stream banks (shape, slope, integrity) is minimized
+    • To avoid important components of Antarctic ecosystems such as e.g. dead seal bodies and carcasses that serves as nutrient sources for plants and animals
+
+Considering the above-specified rules, the routes were planned beforehand and optimized for geomorphology of James Ross Island, particularly for slope of a track using a GIS approach. 
+
+Route planning was conducted using ESRI GIS software (version ArcGIS 10.2), which is available on the Department of Geography, Masaryk University, Brno. Route planning was based on available large scale spatial datasets including: 	Contour lines (interval 10 meters), coastline, streams, stream-influenced areas, lakes, glaciers and snowfields, and geomorphological shapes (edges, faults etc.). These datasets were derived from available aerial photos supplemented with field mapping performed in 2006 (Czech Geological Survey).
+
+In the first phase, areas with slope up to 10 degrees (suitable for motion of vehicles) with exception of glaciers and snowfields areas were automatically generated and sites suitable as fieldwork camping sites identified. Then, shortest lines were proposed connecting the suggested sites with slope below 10 degrees. Second step consisted of manual modification of automatically generated lines. Manual modifications were based on practical experience of experts on geomorphology and biology from previous working seasons. Finally, controversial parts of proposed routes (e.g. crossing of streams etc.) were identified to serve for field verification during field works within in the season 2014/2015. 
+
+
+
+Fig. 1. Map with indications of proposed routes. Planned routes are indicated in red line. Black lines represent the routes used by Czech all-terrain vehicles in Jan.-Feb. 2015. JGM - Johann Gregor Mendel station, Monolith – Monolith lake camp site, Brandy – Brandy Bay camp site, Santa Martha – Santa Martha Cove access point, Triangular – Triangular glacier access point. Map source: Czech Geological Survey (2009)..
+
+3. Experience from the 2015 Czech expedition
+
+In Jan-Feb 2015, two all-terrain vehicles were used to deliver cargo to field camp established close to Monolith Lake (see map). The camp was established on Jan 28th and terminated on Feb. 2th 2015. Altogether, 2 return rides between Mendel station and Lake Monolith camp side were carried out. Additionally, all-terrain vehicles went to two more locations: (1) from Monolith Lake to Brandy Bay, and (2) from Monolith Lake to San Jose Pass. 
+
+Due to a large number of melting snow fields and short-term snow accumulations in a close neighbourhood of streams forming watershed system of Abernathy Flats, the route from Mendel station to Monolith lake camp site planned during a preparatory period (see 2.) could not be followed because of possibly heavy disturbance of wet areas. Therefore, the routes had to be moved higher to the slopes, where water content in soil profile was much lower due to coarser regolith, and, therefore, track depths reached lower values.
+
+To clean camp sites of earlier expeditions of other nations, some (1) spoiled food from Lake Monolith site (63 o 53´ 52´´ S, 57 o 57´ 05´´ W) and (2) remnants of former site 63o 49´ 15´´ S, 57o 53´ 40´´ W were collected and delivered to Mendel station. At the station, flamable material was burnt in the OG120SW marine incinerator (TeamTec, Norway, for technical specifications see Prošek et al. 2013) and metallic parts were packed and transported to South America for further processing. 
+
+
+4. Evaluation of vehicle impact on land surface
+
+In last evaluation (IP 133, 2011), we reported that the track made by all-terrain vehicles represented an important factor affecting the upper soil layer. In most critical parts of routes, it may cause: (1) changes in natural layering of the upper soil profiles by mechanical disturbance, (2) displacement of biological soil crusts (if there are any), (3) stacking of soil immediately below the tracks which may affect changes soil physical properties, (4) forming depressions available for preferential snow accumulation and consequent accumulation of melt water. 
+
+ 
+
+Fig. 2. Tracks made by all-terrain vehicles in dry stony substrate in Abernathy flats, 300 m from Monolith Lake (left). Tracks made on south-facing slopes from Crame Col to Abernethy River (rigt). 
+
+In Jan-Feb. 2015, track depths were measured at some points along the paths created in 2015. The measurements will be repeated in Jan-Feb 2016 in order to evaluate the rate of recovery specifically for several different substrates.
+
+
+5. Directions and recommendations for future
+
+All-terrain vehicle impact on deglaciated area of James Ross Island Antarctica will be monitored by Czech expedition members in future. The monitoring will comprise (1) photographic documentation of existing tracks persistence in different parts of the island, (2) classification of persistence rate on different substrates (3) measurements of track depth in most critical parts, i.e. permanently or temporarily wet places. Collected data will be analyzed and regulations concerning changes in routes recommended for future use all-terrain vehicles suggested.
+
+For further use of all-terrain vehicles it is recommended to follow the proposed routes which can be downloaded for satellite navigation at websites of CEP and COMNAP. 
+
+
+6. References and used materials
+
+Anonymous (2011): Report on all-terrain vehicles impact on deglaciated area of James Ross Island, Antarctica. IP 133. XXXIVth ATCM Meeting Agenda, Buenos Aires, Argentina.
+
+Prošek, P., Barták, M., Láska, K., Suchánek, A., Hájek, J., Kapler, P. (2013): Facilities of J. G. Mendel Antarctic station: Technical and technological solutions with a special respect to energy sources. Czech Polar Reports, 3: 38 – 57. 
+
+Czech Geological Survey (2009). James Ross Island - Northern Part. Topographic map 1 : 25 000. First edition. Praha, Czech Geological Survey. ISBN 978-80-7075-734-5.
+
+

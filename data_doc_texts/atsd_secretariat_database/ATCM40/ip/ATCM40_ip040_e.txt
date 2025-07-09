@@ -1,0 +1,67 @@
+﻿
+
+
+
+
+
+Refurbishment and Modernization of the German Antarctic Receiving Station GARS O’Higgins
+
+
+
+
+
+
+
+
+Refurbishment and Modernization of the German Antarctic Receiving Station GARS O’Higgins
+
+Information Paper submitted by Germany
+
+
+Background
+The German Antarctic Receiving Station GARS O’Higgins at Antarctic Peninsula is a dual-purpose facility for Earth observation and geodesy since more than 25 years. It serves as a satellite ground station for payload data downlink and telecommanding of Earth observation satellites as well as a geodetic observatory for determination of global reference frames, continental drift, Earth rotation parameters and radio astrometry. Both applications use the same 9 m diameter radio antenna. The German Antarctic Receiving Station is owned and primarily operated by the German Aerospace Center DLR. DLR is the national aeronautics and space research centre of the Federal Republic of Germany.
+
+The German Antarctic Receiving Station GARS O’Higgins is located in direct neighbourhood to the Antarctic Base of the Chilean Army General Bernardo O’Higgins, on the island Isabel Riquelme at the northern tip of the Antarctic Peninsula (63.32°S, 57.90°W). It is jointly utilized by the German Aerospace Center (DLR) and the Federal Agency of Cartography and Geodesy (BKG). The station operation is organized in cooperation with the Chilean Antarctic Institute (INACH).
+
+A manifold support in overall station operations and logistics is obtained under Chilean responsibility by the Chilean army (Ejercito de Chile). The carriage of freight and passengers from Punta Arenas via King George Island to O’Higgins is realized by the Chilean air force (FACh) and the Chilean naval forces (Armada de Chile), the Brazilian Antarctic Program (PROANTAR) and the Brazilian air force (FAB). The operations and maintenance of the station infrastructure is supported by a private Chilean service company (Servimet).
+Research
+GARS O’Higgins was constructed in 1989-1991 and was planned to act as satellite ground station for the, at this time, upcoming European Remote Sensing satellites ERS-1 and ERS-2, and as the first station on the Antarctic continent supporting very long baseline interferometry (VLBI) measurements. In the past the station was continuously upgraded to keep pace with technological progress. For example, it was complemented by additional measurement systems like GNSS (Global Navigation Satellite System) receivers, a PRARE (Precise Range And Rangerate Equipment) system, or tide gauges. Additionally, also the satellite data receiving chain was upgraded by more sensitive and more reliable demodulators and further equipment. 20 years of reception of radar data from the ERS-1 and ERS-2 satellites generated a unique data set of remote sensing data over the Antarctic Peninsula and the surrounding area. This data set was and is still used in various research fields. Today it plays an important role as a satellite ground station supporting mainly Earth observation missions, and as fundamental geodetic point in Antarctica for the realization of global reference frames and monitoring crustal motions. The geodetic VLBI experiments are usually performed during two summer campaigns, while the IGS reference stations (GNSS receivers), the tide gauges (pressure and radar), and the meteorological station yield continuous time series and are controlled by remote. From 1991 to 2010, the operation on site was mainly done campaign-wise during the Antarctic summer. However, with the launch of the German TanDEM-X satellite in 2010 and the close formation flight of the two German satellites TerraSAR-X and TanDEM-X a year round station operation was necessary. This was especially important for generating a digital elevation model of the land surface of the whole Earth. This digital elevation model achieved unprecedented accuracy and uniqueness as a global data set. The TerraSAR-X data are continuing the data set established with ERS-1 and ERS-2 and furthermore the digital elevation model also comprises Antarctica and is currently being updated (second version) especially for the Antarctic coastal zones.
+As a satellite ground station GARS O’Higgins is part of the global ground station network of the DLR’s German Remote Sensing Data Center (DFD) with ground station location in the Arctic, Antarctic, Africa and of course Germany. 
+
+For space geodesy and astrometry the radio telescope GARS O’Higgins significantly improves the coverage on the southern hemisphere and plays an essential role within the global Very Long Baseline Interferometry (VLBI) network. In particular, the determination of the Earth Orientation Parameters (EOP) and the coverage of the International Celectial Reference Frame (ICRF) are benefitting from the location at high southern latitude. Further, the resolution of VLBI images of active galactic nuclei (AGN), cosmic radio sources defining the ICRF, drastically improves when O’Higgins is included in the network. The various geodetic instrumentations and the long-term time series at GARS O’Higgins allow a reliable determination of crustal motions. 
+
+The outstanding location on the Antarctic continent makes GARS O’Higgins also in future attractive for polar orbiting satellite missions and an essential station for the global VLBI network.
+Status of GARS O’Higgins
+The station was built from 1988 onward and was set into operations in the year 1991. The station has always been continuously maintained.
+
+The following citation from the station inspection report performed by United Kingdom / Czech Republic in January 2015 may give an independent short description of the station status. Under the section physical description it is stated: “The station consisted of three main facilities: a set of single storey shipping containers providing office, living and sleeping accommodation; a separate set of containers containing power generation and related activity; and the large satellite antenna. The buildings appeared to the Observers to be well maintained, secure and safe.”
+
+Nevertheless, parts of the technical equipment are used from the very beginning on and are thus more than 25 years old. Those parts (e.g. the diesel engines for generating power) are no longer state of the art and need either to be completely replaced (e.g. the diesel generators) or basically refurbished (e.g. inverse osmosis). Furthermore, the station construction in the original building phase followed design principles and safety regulations of time of station set up. Especially the safety regulations are changed and much more comprehensive now and necessary adoptions have to be performed.
+
+Therefore, a package of measures was decided, without changing the station layout as such. 
+Refurbishment and Modernization Measures
+The station consist of three main facilities: a set of containers housing technical equipment for operating the satellite station and the radio telescope providing living and sleeping accommodation, the station infrastructure part with power, generation, water supply, sewage plant and workshop etc. and the antenna system as such. The main measures for refurbishment concentrate on two aspects.
+
+    1. Technological/technical modernization of the antenna system. The antenna system is very well maintained and provides the reception of satellite data with a very high reliability (> 99 %). The basics of the antenna control, antenna gears and motors, cabling etc. needs an upgrade to state of the art technology.
+    1. Infrastructure: diesel generators, UPS, fuel storage, electrical installation and other technical details have to be renewed. But there is also improvement in structural fire protection necessary in order to achieve the current safety regulation in fire protection. In addition, a decrease of the environmental impact and the reduction of human footprint shall be achieved.
+
+The station buildings as such will not be changed. The first of the named facilities (a set of containers housing technical equipment for operating the satellite station providing living and sleeping accommodation) will nearly be not affected at all. The second named facility (the station infrastructure part with power, generation, water supply, sewage plant,  etc.) needs internal renewal and renewal of some of the containers building this structure. Finally, the antenna system, being a special construction is anyway only affected in the technical parts and the whole foundation, steel structure and mechanical construction will not be changed.
+
+In advance of the planned activities, DLR is preparing an Initial Environmental Study (IES). The IES will be submitted to the German Environment Agency (Umweltbundesamt - UBA) as the national Competent Authority. UBA will conduct an Initial Environmental Evaluation (IEE) and decide on the application at the end of the approval procedure. The goal of the IES should be to demonstrate that the planned activities give cause to suspect less than a minor and transitory impact on the Antarctic environment.
+Schedule
+For the whole modernization of GARS O’Higgins in order to achieve a long-term sustainable, state of the art station infrastructure a roadmap was developed. The most urgent items are performed in step 1, which is described shortly within this Information Paper. Further steps are an extension of the technical capabilities of the antenna system (e.g. utilization of higher frequencies in the so-called Ka-band) the refurbished of the first of the named facilities and optional station extensions.
+
+A defined schedule and action plan is so far only existing for the here described step 1. Work in Antarctica will only be performed during the Antarctic summer season, whereas planning, logistics planning and preparatory work will be performed all year round.
+
+Antarctic summer season 2016 / 2017:
+Preparatory analysis tasks at the station: analysis of station status, necessary structural fire protection, status of technical system, start in logistics planning and preparation of Initial Environmental Study (IES).
+
+Antarctic summer season 2017 / 2018:
+Start of replacements in the infrastructure facility and detailed analysis of antenna system modernization. 
+
+Antarctic summer season 2018 / 2019:
+Further replacements in the infrastructure facility and modernization of antenna system will. 
+
+It is emphasized that the whole logistics relies on the Antarctic operations of Chile (mainly) and Brazil and to a small portion also on Uruguayan operations.
+
+

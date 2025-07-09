@@ -1,0 +1,59 @@
+﻿
+
+
+
+
+
+Developing a Risk Assessment Framework for IAATO Passenger Vessels
+
+
+
+
+
+Developing a Risk Assessment Framework for IAATO Passenger Vessels
+Information Paper submitted by IAATO
+
+Summary
+At the International Maritime Organisation (IMO) Design and Equipment  (D&E) Sub-Committee’s 53rd Meeting IAATO, in conjunction with Cruise Line International Association (CLIA), made a presentation on a risk assessment approach to developing the mandatory polar code though an Antarctic case study. The presentation was based on the first phase of a risk assessment study which IAATO has commissioned Safety at Sea Ltd (SAS), an independent Marine Safety Consultancy firm, to undertake as a first step towards developing a full tiered risk assessment. 
+While the primary intent for this complete risk assessment is to assist in the development and application of a mandatory polar code and to provide a framework for voyage planning and risk assessment by IAATO members, it is also hoped that, in due course, the risk assessment approach may prove useful for competent authorities in evaluating operation profiles for non-governmental ship-based activities. The initial report from this study is shortly due for completion and will be submitted to the D&E correspondence group which has been tasked with the development of the mandatory polar code. 
+Introduction
+IAATO was pleased to take part in the ATCM ICG discussions on Passenger Ship Safety (ATCM XXXI WP36 and ATCM XXXII WP 43 Report of the Intersessional Contact Group on Issues Concerning Passenger Ships Operating in Antarctic Waters). During the discussions, IAATO noted some reservations regarding the ability of a web-based forum to deal with an assessment of hazards and risks which, in IAATO’s view, needed to be comprehensive and detailed, based on both quantitative and qualitative evidence. As an assessment at that level requires resources, expertise and, most critically, time, IAATO felt it might prove difficult to achieve this intent in the time available through email or a web-based forum. 
+Successfully quantifying risk for operations in the Polar Regions is complex. One of the challenges facing the IMO in the development of a mandatory Polar Code is the diversity of environmental conditions and diversity of shipping activities which take place in both Polar Regions. Within its own comparatively small operational profile, IAATO faces a similar, smaller-scale challenge with the diversity of operations which take place under its mantel. 
+Noting the progress made by the ICG and with a desire to support both IAATO vessel operators risk assessment process and the work of the IMO in the development of a mandatory polar code, in September 2010, IAATO commissioned Safety at Sea Ltd (SaS), an independent marine safety consultancy firm, to undertake a comprehensive risk assessment study of passenger ships operating in Antarctic waters. The initial report from this comprehensive risk assessment study is shortly due for completion1. 
+Aims 
+The study is aimed at supporting IAATO in two primary areas:
+    1. The development of tiered risk assessment approach that can be used to evaluate requirements implicit in the Guidelines for Ships Operating in Polar Waters and could potentially be useful in the development and application of a mandatory Polar Code. 
+    2. Provide a framework for voyage risk assessment by IAATO members which could be used in the planning, preparation and execution of a voyage. 
+In addition, a potential additional outcome may be that it could also provide a system which could be of interest by ATCM and Competent Authorities for both management and activity authorising requirements.  
+Scope of the risk assessment study
+In its initial phase, the risk assessment study is based primarily on qualitative data (augmented with some quantitative data) which is based on a review of current activities of IAATO member vessel operations, including their operating profile, spatial and temporal environment and a detailed study of a representative vessel and voyage. In addition the study reviewed the work of the ATCM ICG on Passenger Ship Safety, as well as papers and discussions pertaining to the development and adoption of guidelines for ships operating in polar waters by the IMO were included. 
+This initial risk assessment is broken into four steps:
+    • Defining the scope and context of the activities (i.e. defining the ‘problem’);
+    • Identifying the hazards (i.e. identifying all the possible permutations of what can go wrong)
+    • Risk Analysis (defining how likely events are and how badly they can go wrong)
+    • Risk Control Measures (what can be done to minimise both the likelihood and severity of the event) 
+
+Some Preliminary Outcomes
+Defining the Scope and Context of the activities – 
+This section sets out a description of activities and an analysis of the operating environment. The description of the activities includes: an overview of the IAATO fleet, with a detailed analysis of a representative vessel; a review of the patterns and trends of IAATO marine based tourism, with a focus on the peninsula and a detailed outline of a representative voyage. 
+The analysis of the operating environment illustrated that on the basis of nine key features (sea ice cover, sea conditions, sea water temperature, air temperature, traffic levels, chart coverage and availability, and SAR response) it was possible to divide the area into five2 Antarctic sea regions. 
+
+Identifying the hazards - what can go wrong? -
+Focusing the risk on the impact on people (safety) at present, a list of hazards was identified (e.g. grounding, contact with ice, stranding in ice, heavy weather damage etc). Once identified, a qualitative assessment was undertaken to assess potential influence of identified factors and hazards on ‘risk to human life’. 
+The study concludes that the hazards which have the greatest potential to result in high risk to human life are events which would arise from grounding, contact with ice and medical emergencies. Moderate risk to life could come from stranding in ice, collision with another vessel or heavy weather damage. The most significant hazards which would contribute to overall risk, however, were calculated to arise from inexperienced crew and/or poorly maintained vessels. It was also concluded that localised extreme weather, large seas and swell and limited assets available for rescue were hazards likely to contribute to increased risk. 
+
+Risk Analysis – How likely is an event going to happen and how badly can they go wrong? 
+Continuing the focus of risk to human life, two analyses were undertaken. Firstly, an analysis based on known historic casualty data – i.e. on the basis of a list of known incidents affecting IAATO vessels in the past 19 years and any incidents affecting tourist vessels prior to IAATO’s inception. This historic casualty data was complemented by first principles modelling of the exposure to grounding and ice hazards and the probability of a navigational error for a representative operational profile. After considerable debate it was decided to include medical evacuations in this evaluation of historic events. Although these events are not necessarily specific to Antarctica, for the purposes of voyage planning and preparation, there are implications for the mitigation measures (i.e. the level of medical equipment and personnel carried). 
+For the second analysis a preliminary model was developed to estimate the probability of all possible outcomes of an event of grounding or contact with ice on a representative voyage. In this instance a representative vessel, its design and equipment, voyage plan, experience and training of crew and staff onboard was evaluated to assess the likelihood and severity of an incident. Aspects considered included structural vulnerability, flooding vulnerability, exposure & vulnerability to the environment.
+The results of these analyses have given a preliminary probabilistic assessment of the possible outcomes of the evaluated incident and consequential risk to human life. However, it should be noted that these preliminary analyses also indicated two key qualifying points: firstly, that for the preliminary probabilistic assessment to achieve greater accuracy, the list of historic incidents needs further validation, particularly with respect to event causes; secondly, that if any of the parameters defining the operational profile are changed (e.g. area of operation, time of season etc) the risk level will change accordingly. At this preliminary stage the sensitivity of risk to parameter changes has not yet been carried out.
+
+Risk Control Measures – what can be done to minimise both the likelihood and severity of the event?
+Sixty-six risk control measures comprising international legislation, IAATO bylaws and guidelines were analysed and ranked. The analysis included the extent to which risk control measures are: operational practices versus design construction and equipment; mitigating the severity of consequences versus being aimed at preventing the event occurring; related to crew experience;  associated with poorly maintained vessels; and related to significant Antarctic environmental hazards. 
+Additional observations in this phase indicated that risks associated with certain events are proportional to the exposure to ice – and this varies on a month to month basis within areas and between areas. Equally risks associated with other events (e.g. grounding) are voyage-specific and almost independent from exposure to ice. These two factors are of particular importance when considering damage control standards (working on the principle that vessel is its own best lifeboat) and applicability of ice strengthening. Furthermore, influence of factors, such as availability of SAR assets, varies geographically – and seasonally – this has implications for risk control measures. Finally, the analysis indicated that all measures aimed at increasing understanding and crew competence in Antarctic waters should be prioritised. 
+
+Next Steps 
+As noted above, this initial study is the preliminary comprehensive risk assessment study. It is clear from the outcomes that there is additional work and fine tuning which needs to be done to further strengthen the risk assessment study – for example, consideration of the extent to which  the degree of uncertainty introduces potentially significant variations in risk levels between operational profiles even with slight variations (such as itineraries, sites, destinations, seasonal timing, etc). 
+The initial study does, however, provide a methodology for operators, vessel managers and ship’s masters to apply a tiered risk assessment approach to voyage planning, preparation and execution and the next step will be to use the risk assessment framework to establish risk levels for all operational profiles so that the risk is kept at an acceptable level regardless of the operational profile. 
+IAATO, through CLIA, will be submitting the preliminary study in full to the IMO D&E’s correspondence group on the development of the mandatory polar code. Through this mechanism and the discussions surrounding the development of the code IAATO looks forward to feedback from government maritime experts, flag states and classification societies. This feedback will feed into the work going forward.
+Furthermore, should the ATCM or individual Treaty Parties feel there were value, IAATO would be pleased to continue to provide updates and information on the development of this process and work with ATCM or individual Treaty Parties to assess how the risk assessment framework may provide assistance to competent authorities in their assessment of non-governmental activities. 
+

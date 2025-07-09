@@ -1,0 +1,100 @@
+Analysis of the accuracy of the location coordinates of some
+Historic Sites and Monuments
+In support of WP 52: Proposal for Modifications to the Location
+Coordinates of Nine Historic Sites and Monuments
+Analysis of the accuracy of the location coordinates of some
+Historic Sites and Monuments
+Information Paper submitted by Argentina
+Summary
+During a review of the information on HSMs, inaccuracies were
+detected in the location of some HSMs using Geographic
+Information System (GIS), which did not provide a correct location
+for them. For this reason, the objective was to carry out a review of
+the location coordinates of the HSMs in the management of which
+Argentina participates and to evaluate the need to propose a review
+of all the coordinates to achieve a precise location in the mapping.
+This IP complements WP 52 “Proposal for Modifications to the
+Location Coordinates of Nine Historic Sites and Monuments”.
+Revision of coordinates
+In accordance with the Guidelines for the designation and
+protection of Historic Sites and Monuments (Annex to Resolution 3
+(2009)), paragraph 4: “The Party or Parties that nominated and/or
+are undertaking management of a Historic Site or Monument should
+keep the site or monument under review to assess whether:
+the site or monument still exists in whole or in part;
+the site or monument continues to meet the guidelines outlined in
+the previous paragraph;
+the description of the site or monument should be amended and
+updated when necessary;
+the location and if possible the limits of the site or monument are
+on its topographic maps, hydrographic charts and in other relevant
+publications.
+Based on what is established in point “d)”, Argentina detected that
+in some of the most widely used Geographic Information Systems
+for Antarctica (SCAR Antarctic Digital Database/ADD, Quantarctica,
+etc.) the location of some of the HSMs in the management of which
+Argentina participates presented inaccuracies.
+One case analysed was that of HSM 42: Laurie Island Observatories,
+which includes the area of Scotia Bay, Laurie Island, South Orkney
+Island, in which are found: stone hut built in 1903 by the Scottish
+Antarctic Expedition led by William S. Bruce; the Argentine
+meteorological hut and magnetic observatory, built in 1905 and
+known as Moneta House, and a graveyard with twelve graves, the
+earliest of which dates from 1903. For example, in the viewer of the
+Digital Topographic Database “SCAR ADD map viewer (ADD)”, the
+coordinate indicated is some way
+out to sea instead of being the location point of the HSM on the
+island. For this reason, a process of reviewing the information of
+each of the HSMs in which Argentina is one of the parties in charge
+of their management began.
+In the specific case of the coordinates, a detailed review has led to
+the conclusion that a more precise position could be established
+with respect to that currently appearing in the list of HSMs
+(Measure 3 - 2021). The general problem that has been detected is
+that expressing coordinates to the nearest minute in effect means
+taking discrete staggered jumps spaced almost 2 kilometres (1 852
+metres = 1 nautical mile) apart in latitude, with no intermediate
+alternatives (and in longitude multiplying by the cosine of the
+latitude).
+In this way, even if we have reliable coordinates (for example with
+about 5 metres of error or even less) corresponding to the
+intermediate range between two values per minute (read XX.5
+minutes), a few centimetres of error are enough to possibly tilt the
+rounding incorrectly towards the inappropriate lower or upper
+value. That deviation can reach almost half a minute (almost 926
+metres in latitude; almost 926*COS(Lat) in Lon), even if the
+rounding is correct.
+The quality and resolving power of current Antarctic maps and
+images (SCAR Antarctic Digital Database / ADD, Quantarctica,
+Google Earth, etc.), offer the possibility of using coordinates with a
+format with greater resolving power than a whole minute. The
+format with decimal degrees and minutes is widely used in air and
+maritime navigation. A hundredth fraction of a minute represents,
+in latitude, approximately 20 metres of ground resolution.
+It should be noted that when sites were surveyed on the ground
+(often with a simple handheld GPS receiver properly used), the
+resulting coordinates could be displayed to the hundredth of a
+minute or to the second, the latter reflecting some 30+ metres in
+distance on the ground in latitude), an option that we have chosen
+in this first revision. In all cases, the coordinates recently surveyed
+with handheld GPS navigators refer, by default, to the World
+Geodetic System WGS 84, which is widely used.
+It is also important to highlight that, in the Database of the
+Antarctic Treaty Secretariat for Historic Sites and Monuments,
+information can be provided in any of these formats, and the system
+is prepared to receive them with up to four decimal places in
+seconds, or up to six decimal places in decimal degrees. Therefore,
+if the coordinates given for an HSM are greatly simplified by
+rounding, for example by using only whole degrees and minutes,
+then it is likely that in most cases the end result of the HSM
+location on the map may not be accurate. This same situation could
+be occurring with ASPAs and ASMAs (although this situation has
+not been evaluated in this review).
+Conclusion
+Considering that the objective of the databases that use geographic
+information is to locate the sites in a consistent way, and that
+finally the HSMs can be represented in a cartographic interface
+accessible to the general public and in a precise way, considering a
+revision of the location coordinates of the HSMs and preparing a
+proposal of common criteria for the use of geographic coordinates,
+would be a great contribution to the system.

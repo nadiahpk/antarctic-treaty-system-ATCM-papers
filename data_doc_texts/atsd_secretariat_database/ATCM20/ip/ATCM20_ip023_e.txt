@@ -1,0 +1,233 @@
+ANTARCTIC TREATY              
+XX CONSULTATIVE MEETING
+
+TRAITÉ SUR L'ANTARTIQUE
+XXe RÉUNION CONSULTATIVE                                                    
+                                                                      
+TRATADO ANTARTICO
+XX REUNION CONSULTIVA
+
+ДОГОВОР ОБ АНТАРКТИКЕ
+XX КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+XX ATCM/INF 23
+April, 1996
+Original: English
+
+AUTOMATIC OBSERVING SYSTEMS IN SUPPORT OF
+ANTARCTIC METEOROLOGY
+
+(Agenda item 12)
+
+(Submitted by WMO)
++6136694548                                          BUREAU OF MET EXEC                                  F-064 T-092 P-007        APR 03 '96 11:10
+
+AUTOMATIC OBSERVING SYSTEMS IN SUPPORT OF ANTARCTIC
+METEOROLOGY
+
+1. Antarctic Automatic Weather Stations
+
+The Antarctic continent has an area of 13.5 million square
+kilometres and an average surface elevation of about 2300m.
+Surface meteorological observations in Antarctica are made at
+occupied stations operated throughout the year, and by automatic
+weather stations (AWS). Although approximately 30 stations were
+occupied in 1994, the distribution of these across the continent
+is not uniform, and not even as well-distributed as during the
+International Geophysical Year (1957-58). Most stations are
+located on the Antarctic coast at sites that can be reached by
+ship: at present the US Amundsen-Scott Station at the South Pole
+is the only year-round interior station contributing observer
+measured data to the global network. In addition, the coast of
+West Antarctica from 180 degrees east to 85 degrees west
+longitude does not have one station with year around
+observations. Automatic weather stations therefore provide an
+essential contribution to the maintenance of a meaningful
+meteorological network over the continent, and particularly over
+the interior ice sheet.
+
+Most automatic weather stations in Antarctica use the ARGOS Data
+Collection System on the NOAA series of polar-orbiting
+satellites, and contribute data to the Global Telecommunications
+System (GTS). AWS using ARGOS have been in regular use since the
+early 1980s and there are now more than 60 Antarctic AWS
+reporting data to the GTS. Many AWS units are located in arrays
+in support of specific meteorological experiments while others
+have been supplied for operational purposes. AWS have operated
+at some sites for more than 10 years.
+
+The majority of the present stations, 51 in total, are maintained
+by a group at University of Wisconsin (under Professor C R
+Stearns) on behalf of a number of different research
+investigators, with support from the United States National
+Science Foundation, Office of Polar Programs. These US AWS
+measure pressure, temperature, wind speed, wind direction,
+relative humidity and vertical temperature difference. Data are
+updated at a nominal 10 minute interval and the difference
+between the most recent and the four preceding measurements are
+also stored, so that if successive NOAA satellite passes occur
+within 50 minutes, then the AWS data are available every 10
+minutes. The AWSs have low power consumption and are powered by
+12 volt gel-cell batteries charged by solar panels: the batteries
+provide sufficient power reserve to maintain operation throughout
+the long polar night.
++6136694548       BUREAU OF MET EXEC       F-064 T-092 P-008       APR 03 '96 11:10
+
+3
+
+The current US network includes:
+	•	9 stations along the Adelie Coast and in the hinterland to 
+	      Dome C (3280 m elevation)
+	      o ??????? ????????? ???????? ???????????? ???????????? ?????????? as
+	      the former Byrd Station;
+	•	5 stations on the Ross Ice Shelf and 7 in the Ross Island region,
+	•	4 stations on islands in the Ross Sea region,
+	•	9 stations on the Antarctic Peninsula,
+	•	3 stations on the Reeves Glacier (Terra Nova Bay), and
+	•	stations on the high polar plateau, which include 3 around 
+	      the south pole and 2 in support of a Japanese ice core 
+	      drilling at Dome Fuji (77.31S,39.70E).  The AWS at Dome 
+	      Fuji is the highest AWS operating (3280 m elevation).
+
+Projects supported by these stations include:
+	•	barrier wind flow along the Antarctic Peninsula and the 
+	      Transantarctic Mountains;
+	•	katabatic wind flow;
+	•	mesoscale circulation and the sensible and latent heat 
+	      fluxes on the Ross Ice Shelf;
+	•	climatology of Byrd and Dome C Stations;
+	•	boundary layer meteorology around the South Pole;
+	•	research into the Antarctic Coastal Ecosystem;
+	•	long term ecological research along the Antarctic 
+	      Peninsula;
+	•	meteorological support for flight operations at McMurdo 
+	      Station; and
+	•	monitoring for possible manned station locations and 
+	      aircraft landing sites.
+
+Another sizeable AWS network of 10 stations, all on the east 
+Antarctic ice sheet, is operated by the Australian Antarctic 
+Division.  Six of these stations are in the hinterland of the 
+Lambert Glacier Basin, between 1830 m and 2740 m elevation, and 
+four are in Wilkes Land, between 1360 and 3070 m elevation.  The 
+Australian stations measure pressure, temperature, wind speed, 
+wind direction, global radiation and snow temperatures to 10 m 
+depth.  Air temperature and wind speed are measured at 3 
+different heights above the surface to provide redundancy and a 
+check on data quality, as well as information on near-surface 
+gradients.  Data are updated approximately every hour, and data 
+from all except one station are contributed to the GTS.  These 
+stations are also powered with solar-charged 12V batteries and 
+the longest running stations has operated continuously for over 
+11 years.  Stations closer to the coast and at lower elevations 
+have a shorter lifetime because they become buried in snow 
+accumulation.
+
+Several other AWS of different design are also operated by 
+Australian agencies in the region of Casey station.  In addition 
+there are several other AWS systems which store data onboard, 
+rather then relay them in real time, in use by several nations 
+in Antarctica.
++61 36694543        BUREAU OF MET EXEC        F-064 T-092 P-009        APR 03 '96 11:11
+
+2. The Antarctic Sea Ice Zone
+
+Compared even to the high continental ice sheet, the 20 million square kilometre Antarctic sea ice zone, that area within the sea ice edge at its maximum extent,  is a large void for meteorological data. The World Climate Research Programme (WCRP) has established two programmes which use automatic observing systems to increase meteorological and sea ice related data from this region.
+
+International Programme for Antarctic Buoys (IPAB)
+
+The International Programm for Antarctic Buoys was established at a meeting in Helsinki in mid 1994 and now includes 11 organisational participants.  The objective of IPAB is to establish and maintain a network of drifting buoys in the Antarctic sea ice zone in order to:
+
+-   support research in the region related to global processes and to global change, and, in particular, to meet research data requirements  specified  by the WCRP and other programmes;
+-   meet real-time operational meteorological data requirements of the World Weather Watch (WWW) programme;
+-   establish a base for ongoing monitoring of atmospheric and oceanic climate in the Antarctic sea ice zone.
+
+The programme, whose coordinating centre is at the Antarctic Cooperative Research Centre in Hobart, Australia, builds upon cooperation among those agencies and institutions with Antarctic interests. It aims to:
+
+1. Promote the development of an adequate Antarctic Buoy network through National antarctic programme agencies, research and operational institutions, SCAR National Committees, and other relevant bodies.
+2. Coordinate the development and maintenance of an optimum observational network for near-surface meteorological and oceanographic data within the Antarctic sea ice zone, using drifting buoys and other appropriate in-situ data collection platforms.
+3. Distribute in real-time over the Global Telecommunications System (GTS) the buoy position and air pressure data from the network plus relevant additional real-time data approved by the principal investigators for public dissemination;
+4. Ensure that all data from the network are appropriately archived; and
+5. Liaise and co-operate with other operators of Antarctic buoys and in-situ data collection platforms.
+
+It is the the aim of IPAB to have sufficient buoy deployments to achieve and maintain a basic network with observational points spaced at about 500 km over the operational area. Position, air pressure and (for those buoys in water) sea temperature are
++6136694548                                          BUREAU OF MET EXEC                  F-064 T-092 P-010    APR 03 '96 11:12
+
+            5
+
+collected as basic data. Some systems are equipped to 
+additionally measure other parameters such as air temperature, 
+ice and/or snow temperature atmospheric pressure tendency, wind 
+speed and direction, snow and sea ice properties,  and 
+oceanographic variables. All buoys in the basic network should 
+be equipped with transmitters to enable data to be transmitted 
+in real time (synoptic and asynoptic mode). As a preferred 
+approach, platforms are located and data is collected via CLS -
+Service ARGOS using the TIROS-N series of satellites.
+
+Data from the buoys are inserted by CLS ARGOS to the GTS, and all 
+the basic data transmitted on the GTS are archived by the Marine 
+Environmental Data Service (MEDS) in Canada, as the IOC/WMO 
+Responsible National Oceanographic Data Centre for drifting buoy 
+data. In addition a uniform, quality-controlled data base for 
+ice motion and surface meteorology and oceanography, as required 
+by the Antarctic research community, has been established at the 
+coordinating centre. Periodically this data base will be 
+submitted to appropriate data centres for archiving (in 
+particular, to MEDS and WDC-A for Glaciology).
+
+Nearly 20 drifting buoys deployed south of 55°S latitude 
+contributed data to the programme during 1995. Some of these 
+however only operated for a small part of the year. Since there 
+is a generally northward divergent component to the pack ice 
+drift in the Antarctic many buoys deployed at high southern 
+latitudes eventually move north of the ice edge and out of a main 
+region of interest. Buoy losses in the Antarctic are also higher 
+than in the equivalent Arctic programme, since most ice buoys do 
+not survive in open water for a long time. Hence, although 
+IPAB has seen an increase in Antarctic drifting buoy activities, 
+it has not yet achieved the required network density.
+
+The IPAB programme is proposed as a long-term ongoing one; 
+subsequent development will be determined after a five year 
+initial phase (1994/95 - 1999/2000). The next biennial meeting 
+of participants will  be held from August 1 to 3, 1996, in 
+Cambridge, England.
+
+Antarctic Ice Thickness Research Programme (AnITRP)
+
+The seasonal and regional variability of extent, concentration, 
+and particularly thickness of sea ice as simulated by numerical 
+models are sensitive tests of the models' performance. But there 
+are no systematic spatially distributed data sets available on 
+the total, or even regional Antarctic ice thickness distribution 
+against which to test model development. The WCRP established 
+AnITRP to contribute to the documentation of the climatology and 
+the variability of the sea ice thickness distribution in selected 
+regions.  The programme is co-ordinated by Prof. P. Lemke, 
+Department of Marine Meteorology, Institut fur Meereskunde, Kiel, 
+Germany.
+
+AnITRP aims to principally obtain data using upward looking sonar
++6136694548                  BUREAU OF MET EXEC                  F-064 T-092 P-011    APR 03 '96 11:12
+                                                                                           6
+
+instruments (ULS). These instruments, moored to the ocean bottom,
+record the keel depth of sea ice drifting over their location
+from sonar ranging measurements made every few minutes. Data is
+stored onboard and not available until the instruments are
+recovered. Nineteen ULS instruments have been deployed in the
+Antarctic since late 1990. ULS networks have been placed across
+the mouth of the Weddell Sea by Germany (from the tip of the
+Antarctic Peninsula to Kap Norwegia), off the front of the
+Filchner Ice Shelf by Norway, and off east Antarctica (along
+108°E and 75°E longitude) by Australia. The recovery rate of
+instruments with good data has not been high, with more than 50%
+loss or failure, due in some cases to damage from icebergs.
+However unique data on the Antarctic ice -hickness distribution
+have been obtained, and the programme will continue in order to
+provide critical data for improving climate models, and to
+document any term trends in ice thickness.
+
+(WMO is grateful to Dr Ian Allison for the information in this
+paper).

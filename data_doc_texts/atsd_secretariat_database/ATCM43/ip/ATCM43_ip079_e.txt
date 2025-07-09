@@ -1,0 +1,95 @@
+High-precision Map of Antarctic Ice Sheet Bed Topography
+High-precision Map of Antarctic Ice Sheet Bed Topography
+Information paper submitted by the United States
+Summary
+An international team led by Mathieu Morlighem at the University
+of California Irvine has released a high-precision map of the bed
+topography of Antarctica (Morlighem et al., 2020). The new map
+helps identify which regions of the continent are most vulnerable to
+the impacts of climate change. It reveals broad subglacial ridges
+that may stabilize the ice flowing across the Transantarctic
+Mountains. But the map also shows bed geometry that increases the
+risk of rapid ice retreat in the Thwaites and Pine Island Glacier
+sector of West Antarctica. Portions of the bed under Recovery
+Glacier and Support Force Glacier are hundreds of meters deeper
+than previously thought, making those glaciers more susceptible to
+retreat, and the map reveals the world’s deepest land canyon at
+3,500m below sea level under Denman Glacier in East Antarctica.
+This product, which is continually upgraded as new data becomes
+available, constitutes a major advancement that underpins a wide
+array of research activities.
+Background
+The new Antarctic bed topography product (Figure 1) was
+constructed using ice-thickness data from 19 different research
+institutes. These data encompass roughly 1.5 million line-kilometers
+of radar soundings, some dating back to 1967. In addition, the team
+used ice-shelf bathymetry measurements from airborne campaigns,
+as well as seismic information.
+Despite the many prior radar-sounding campaigns, more than half
+of Antarctica is at least 5km from any radar line, and radars have
+had difficulty resolving deeper bed features. Previous mapmakers
+have applied interpolation techniques to fill in the areas between
+the radar lines, but this has presented challenges for accuracy,
+especially with fast-flowing glaciers. The new approach, called
+BedMachine, relies on a physics-based method of mass conservation
+to estimate what lies between the radar-sounding lines. The method
+also integrates satellite-derived information on ice-flow velocity.
+These data indicate how ice moves around the uneven contours of
+the bed. By basing results on ice-surface velocity in addition to ice-
+thickness data from radar soundings, the BedMachine methodology
+is able to present a more accurate and higher-resolution depiction
+of the bed topography.
+Key Outcomes
+The new description of bed topography redefines the high- and
+lower-risk sectors for rapid sea-level rise from Antarctica. The
+results reveal previously unknown basal features with implications
+for glacier response to climate change. Most differences from
+previous maps are at the smaller scale, yet these local differences
+have a disproportionate impact on modelled glacier evolution. For
+example, 62 percent of slopes are steeper in the new map because
+the smoothing effects of interpolation are corrected. In addition, the
+details of deep connections to the ocean are revealed, and these are
+critical for correctly capturing ice-ocean interaction in models. In
+the marine basin of Wilkes Land, East Antarctica, there are
+retrograde slopes along Ninnis and Denman glaciers that show
+vulnerability to marine ice-sheet instability. Conversely, there are
+stabilizing slopes beneath Moscow University, Totten and Lambert
+glacier systems even though the new methodology corrects bed
+elevation by up to 1 km for the latter.
+The new map is dynamic and is updated as new data are collected.
+The authors note key areas where future collaborative work would
+yield particularly valuable data to enhance the map and the ice-
+sheet model projections of sea-level rise that depend on accurate
+bed topography. For example, there remains a lack of ocean
+bathymetry on the continental shelf and beneath ice shelves over a
+large portion of coastal Antarctica.
+International Collaboration
+This is the result of international collaboration and cooperation.
+Support for the work was provided by the U.S. National Science
+Foundation, NASA, the Australian government’s Cooperative
+Research Centres Programme and the National Natural Science
+Foundation of China. The team participants (in order of listing from
+the publication) are from University of California Irvine, NASA Jet
+Propulsion Laboratory, Alfred Wegener Institute, University of
+Texas Institute for Geophysics, British Antarctic Survey, Technical
+University of Denmark, Northumbria University, Polar Research
+Institute of China, The Ohio State University, Geological Survey
+of Denmark and Greenland, Korea Polar Research Institute, Institute
+for Marine and Atmospheric Research at Utrecht University,
+Norwegian Polar Institute, Grenoble Alps University, NSF’s Center
+for Remote Sensing of Ice Sheets at University of Kansa, Université
+Libre de Bruxelles, and the Australian Antarctic Division.
+Figure 1 – Bed Topography of Antarctic from the BedMachine mass
+conservation methodology (Morlighem et al., 2020)
+Reference
+Morlighem, M., Rignot, E., Binder, T., Blankenship, D., Drews, R.,
+Eagles, G., Eisen, O., Fausto Ferraccioli, F., Forsberg, R., Fretwell,
+P., Goel, V., Greenbaum, J., Gudmundsson, H., Guo, J., Helm, V.,
+Hofstede, C., Howat, I., Humbert, A., Jokat , W., Karlsson, N., Lee,
+W.S., Matsuoka, K., Millan, R., Mouginot, J., Paden, J., Pattyn, F.,
+Roberts, J., Rosier, S., Ruppel, A., Seroussi, H., Smith, E., Steinhage,
+D., Sun, B., van den Broeke, M., van Ommen, T., van Wessem, M.,
+and Young, D. (2020). Deep glacial troughs and stabilizing ridges
+unveiled beneath the margins of the Antarctic ice sheet. Nature
+Geoscience 13, 132–137. https://doi.org/10.1038/
+s41561-019-0510-8

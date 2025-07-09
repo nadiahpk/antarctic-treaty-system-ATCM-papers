@@ -1,0 +1,3157 @@
+ANTARCTIC TREATY                                  TRATADO ANTARTICO
+XIXth CONSULTATIVE MEETING                       XIX REUNION CONSULTIVA
+TRAITÉ SUR L'ANTARCTIQUE                          ДОГОВОР ОБ АНТАРКТИКЕ
+XIXème RÉUNION CONSULTATIVE                       XIX КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+                                  SEOUL
+                           May 8-19, 1995
+
+XIX ATCM/INF 8
+May 8, 1995
+Original: English
+
+CONCORDIA PROJECT: CONSTRUCTION AND OPERATION
+OF A SCIENTIFIC BASE AT DOME C, ANTARCTICA
+
+(Submitted by France/Italy)
+CONCORDIA PROJECT
+
+Construction and operation of a scientific base
+at Dome C, Antarctica
+
+Final Comprehensive Environmental Evaluation
+CONCORDIA PROJECT :
+
+Construction and operation of a scientific base at Dome C, Antarctica
+—
+Final Comprehensive Environmental Evaluation
+
+This study has been written by :
+
+Dr . Roger Gendrin, Scientist, Director of IFRTP
+
+Dr. Pietro Giuliani, Engineer, Responsible for Environmental and International Affairs at ENEA, Progetto Antartide
+
+December 1994
+
+ENEA - Ente per le Nuove Tecnologie, l'Energia e l'Ambiente
+Progetto Antartide - S.P. Anguillarese 301 - 00060 Santa Maria di Galeria -Roma - Italy - Tel : 39 (6) 3048 4816/4275 - Fax: 39 (6) 3048 4893/6458
+IFRTP - Institut Français pour la Recherche et la Technologie Polaires
+Technopole de Brest-Iroise - BP 75 - 29280 Plouzané France - Tel : (33) 98 05 65 00 - Fax : (33) 98 05 65 55
+TABLE OF CONTENTS
+
+1. FOREWORD                                           p 1
+    1.1. General Context                                p 1
+    1.2. History of the project and of its impact assessment  p 1
+    1.3. Impacts to be considered                       p 2
+    1.4. Organisation of the report                     p 2
+
+2. INTRODUCTION                                        p 5
+    2.1. Non technical summary                          p 5
+    2.2. Proposers                                      p 5
+
+3. DESCRIPTION OF THE PROPOSED ACTIVITY                p 7
+    3.1. General overview of the scientific programme    p 7
+    3.2. Characteristics of the activities              p 8
+        3.2.1. Glaciology                               p 8
+        3.2.2. Atmospheric sciences                     p 8
+        3.2.3. Astronomy and Sun-Earth relationships    p 9
+        3.2.4. Solid Earth geophysics                   p 10
+             a) magnetism                               p 10
+             b) seismology                              p 10
+        3.2.5. Human biology and medicine               p 11
+        3.2.6. Technology programmes                    p 11
+        3.2.7. Other activities                         p 11
+
+    3.3. Characteristics of the activity having impacts  p 12
+    3.4. Previous activities at the site                p 12
+    3.5. Why Dome C ?                                   p 12
+    3.6. Consideration of alternatives                 p 13
+        3.6.1. The no-action alternative                p 13
+        3.6.2. Alternative locations                    p 14
+
+    3.7. Use of existing facilities                     p 15
+    3.8. Description of the existing environment        p 15
+        3.8.1. Physical characteristics                 p 15
+        3.8.2. Biota                                    p 16
+        3.8.3. Past and present uses of the area        p 16
+        3.8.4. Prediction of the future environment in the 
+               absence of the proposed activity         p 16
+        3.8.5. Existing environment at other sites involved 
+               in the project                               p 16
+3.9. Description of the installation                                 p 17
+      3.9.1. General implementation                                p 17
+      3.9.2. Structure                                             p 17
+      3.9.3. Technical services                                    p 18
+            Power generation, heating, water production,
+            nature and quantities of products used
+      3.9.4. Scientific facilities                                 p 20
+      3.9.5. Emergency planning (fire, spills)                     p 20
+      3.9.6. Alternative solutions                                p 20
+
+3.10. Operational phase                                            p 21
+      3.10.1. Number of personnel in winter                        p 21
+      3.10.2. Number of personnel in summer                        p 21
+
+3.11. Transportation requirements                                  p 22
+      3.11.1. Marine transportation                                p 22
+      3.11.2. Surface transportation                               p 22
+      3.11.3. Air transportation                                   p 23
+
+3.12. Construction requirements                                    p 23
+      3.12.1. At Dome C                                            p 23
+      3.12.2. At Dumont d'Urville                                  p 23
+      3.12.3. At Cape Prud'homme                                   p 24
+      3.12.4. At Terra Nova Bay                                    p 24
+
+3.13. Waste management                                             p 24
+      3.13.1. At Dome C                                            p 24
+      3.13.2. At Dumont d'Urville                                  p 26
+      3.13.3. At Cape Prud'homme                                   p 26
+      3.13.4. At Terra Nova Bay                                    p 26
+      3.13.5. Along the traverses                                  p 26
+
+3.14. Duration of the activity                                     p 26
+3.15. Decommissioning                                              p 26
+
+4. METHODS AND DATA USED TO PREDICT IMPACTS                        p 27
+   OF ACTIVITIES
+
+      4.1. Data and information                                    p 27
+      4.2. Methods                                                 p 27
+
+5. DIRECT ENVIRONMENTAL IMPACTS : NATURE, EXTENT,                  p 27
+   DURATION, INTENSITY
+
+      5.1. Effects on the atmosphere                               p 27
+            5.1.1. At Dome C                                       p 27
+            5.1.2. On the traverse paths                           p 28
+            5.1.3. At Cape Prud'homme                              p 29
+            5.1.4. At other sites                                  p 29
+
+      5.2. Effects on areas of biological significance             p 29
+            5.2.1. At Dome C                                       p 29
+            5.2.2. On the traverse paths                           p 29
+5.2.3. At Cape Prud'homme                  p 29
+5.2.4. Other sites                         p 29
+5.3. Effects on areas of geological or glaciological significance  p 30
+    5.3.1 At Dome C                        p 30
+    5.3.2 On the traverse paths            p 30
+    5.3.3 At Cape Prud'homme               p 30
+    5.3.4 At other sites                   p 30
+5.4. Effects on wilderness value           p 30
+    5.4.1. At Dome C                       p 30
+    5.4.2. On the traverse paths           p 30
+    5.4.3. At Cape Prud'homme              p 30
+
+5.5. Assessment of potential impacts and mitigation measures  p 30
+
+6. INDIRECT AND SECOND ORDER IMPACTS      p 34
+    6.1. At Dumont d'Urville               p 34
+    6.2. At Cape Prud'homme                p 34
+
+7. CUMULATIVE IMPACTS                      p 34
+    7.1 At Dome C                          p 34
+    7.2. On the traverse paths             p 33
+    7.3. At Cape Prud'homme                p 34
+    7.4. At Dumont d'Urville and Terra Nova Bay  p 35
+
+8. MONITORING PROGRAMME                   p 35
+    8.1. At Dome C                         p 35
+    8.2. At Cape Prud'homme                p 35
+    8.3. Modifications                     p 35
+    8.4. Independent control               p 36
+
+9. UNAVOIDABLE IMPACTS OF PROPOSED ACTIVITY  p 36
+
+10. POTENTIAL IMPACTS ON RESEARCH AND OTHER USES  p 36
+
+11. GAPS AND UNCERTAINTIES OF THE SEA PROCESS  p 37
+
+12. COMMENTS RECEIVED ON THE DRAFT CEE    p 37
+
+REFERENCES                                  p 41
+FIGURES                                    p 43
+ANNEX                                      p 77
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+1. FOREWORD
+
+1.1. General context
+
+The Antarctic Treaty prohibits three specific activities which could have a very strong potential for damaging the antarctic environment, namely:
+- military activities,
+- nuclear explosions,
+- disposal of radioactive wastes.
+
+In the following years a number of ATCM Recommendations dealt with environmental protection in Antarctica. Among them :
+
+Rec. VI-4 «Man's impact on the Antarctic environment»
+Rec. VII-1 «Man's impact on the Antarctic environment»
+Rec. VIII-13 «The Antarctic environment»
+Rec. IX-5 «Man's impact on the Antarctic environment»
+Rec. XIV-1 «Man's impact on the Antarctic environment: environmental impact assessment», 
+recommends to governments that environmental assessment of impacts be implemented.
+Rec. XV- 2 «Comprehensive measures for the protection of the Antarctic environment and dependent and associated ecosystems».
+
+In 1990 a Special Consultative Meeting in Vina del Mar started the preparation of a Protocol on Environmental Protection to the Antarctic Treaty. This Protocol, signed in Madrid in October 1991, specifically deals with environmental protection in Antarctica and one of its Annexes, Annex I, indicates how such an assessment shall be performed. The Protocol has not yet been ratified by all Consultative Parties; of the two countries participating at present in the Concordia project, France has already ratified it.
+
+This Comprehensive Environmental Evaluation -CEE- has been prepared in order to comply with the Treaty and Madrid Protocol requirements. The guidelines prepared by COMNAP in their Bologna (1991) and Washington (1992) meetings have been followed.
+
+1.2. History of the project and of its environmental impact assessment
+
+In 1992 a draft CEE entitled «Study of the Environmental Impact of the Construction and Operation of a Scientific Base at Dome C -Concorde Base-» was prepared and presented by France at the XVII ATCM in Venice.
+
+The document has been previously circulated among Antarctic Treaty members and some of them made comments, namely, Australia, Germany, New Zealand, the Netherlands, the United Kingdom. Also two non-governmental organisations, Greenpeace and ASOC submitted their comments.
+
+In March 1993 an agreement was signed between the «Ente per le Nuove Tecnologie, l'Energia e l'Ambiente» (ENEA, Italy) and the «Institut Français pour la Recherche et la Technologie Polaires» (IFRTP, France), defining a joint venture between the two organisations with equal
+-1-
+participation in the enterprise of building and operating a scientific station at Dome C, to be called Concordia Station, participation being opened to other partners at any subsequent time.
+
+This report is therefore prepared by both institutes and in its preparation it has been attempted to answer and to follow the comments received. These have been gratefully accepted and they have been useful in the revision and rewriting of the CEE.
+
+They have addressed the following main points:
+- presentation of the document (which should be a CEE)
+- the drilling operation (for which a separate CEE must be made)
+- scientific reasons for the selection of Dome C site
+- more details on the scientific programme other than drilling
+- more exhaustive treatment of the impacts at the coastal sites
+- contingency plans for spills
+- impact of traverse activities
+- incineration of wood and paper materials.
+
+Other aspects have been addressed, but the ones mentioned appear to be the most important for the reviewers. Another comment of a general nature was that the draft was difficult to follow and was at times unclear.
+
+1.3. Impacts to be considered
+
+The impacts deriving from this activity can be associated with the following:
+- impacts at Dome C due to:
+  * construction of the field camp
+  * construction of the base Concordia
+  * drilling operation
+  * operation of the main scientific station
+  * fuel storage
+  * drilling fluid storage
+  * waste management at Dome C.
+- impacts of the transportation traverses with tractors and sleds
+- impacts at Dumont d'Urville for the flight operations
+- impacts at Cape Prud'homme for land transport
+- impacts at Terra Nova Bay for sea transport and for land operations.
+- impacts at these various locations due to waste management linked with the project
+
+All these impacts will be addressed in the present report.
+
+1.4. Organisation of the report
+
+In order to comply with the request made by some Consultative Parties or NGOs, two CEEs have been written :
+- One about the station Concordia itself,
+- One for the drilling activity to be performed at Dome C.
+-2-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+These two CEEs are independent, though complementary. They follow the same general plan though some sections can be omitted in the general report because they deal with very specific aspects of the drilling. On the other hand sections which deal with environmental aspects related with the overall project (transportation) will be amplified in the general report.
+
+These reports reflect the more advanced state of the planning for the complex operation of building a scientific station on the Antarctic plateau at a distance of the order of 1000 km from the coast, construction that involves the transportation from Europe and from the French and Italian stations on the coast to the site of the material necessary for the construction and operation of the base Concordia. They have been organised in a different way from the previous draft, taking into consideration a number of specific comments on the general arrangement of the previous draft.
+
+ 
+-3-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+2. INTRODUCTION
+
+2.1. Non-technical summary
+
+French and Italian Managers of Antarctic Programmes have agreed to cooperate in the construction and exploitation of a new scientific base situated at Dome C : the station Concordia.
+
+The station consists of two buildings, 3 floors high, 17 m in diameter, elevated on piles in order to avoid snow accumulation. It is intended to allow the wintering of 15 people and to be operated for at least 10 years. A summer camp will be also built in proximity, that could contain 20 people.
+
+The purpose of the station is to allow continuous measurements of different geophysical parameters concerning the low and middle atmosphere over the continent (meteorological parameters, atmospheric constituents, ozone content, aerosols, etc.) and the internal structure of the Earth below the station by means of magnetic and seismologic records. Astronomical observations at visible, infra-red or sub-millimetric wavelengths will also be made.
+
+Another important objective of the programme is to proceed to deep ice coring, mainly during the summer season, which will complement similar operations that are performed at Vostok, Low Dome, etc. on the Antarctic continent and those which have been made recently in the Arctic region.
+
+The station will be also used for testing new technologies that are of interest for future planetary explorations, as well as behaviour of human groups working in very isolated and hostile conditions.
+
+This project has been conceived by French and Italian scientists and it has been endorsed by their national research organisations. However, station Concordia is clearly advertised as a station which is open to international use (after preliminary adjustments) in order to maximise its scientific outcome and to minimise logistical costs and environmental impacts.
+
+This report contains a full description of the programme, its management and its foreseen impacts on the environment. The drilling which is in itself an important operation is described in a separate CEE.
+
+All aspects related with possible alternatives, with methods used for predicting, mitigating or monitoring direct, indirect, cumulative and unavoidable impacts, and with gaps and uncertainties are discussed in the most complete, sincere and objective manner.
+
+2.2. Proposers
+
+The two institutes that are in charge of the project are :
+
+- Ente per le Nuove Tecnologie, l'Energia e l'Ambiente (ENEA, Progetto Antartide, Casaccia, S.P. Anguillarese, 301 - 00060 San Maria di Galeria, Roma, Italy).
+
+- Institut Français pour la Recherche et la Technologie Polaires (IFRTP, BP 75, 29280 Plouzané, France)
+
+                                  -5-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+The project is coordinated, by a Steering Committee which defines the objectives and decides the yearly budget. It is implemented by a Directoire, which is responsible for all logistical and technical aspects. Seven groups of experts select and control the activities in science and technology.
+
+The main Italian or French laboratories that are involved in the definition of the scientific programmes and that are responsible for their implementation are :
+
+. Glaciology
+- Università degli Studi di Milano, Dipartimento di Scienze della Terra, Sezione Geologia e Paleontologia, via L. Mangiagalli, 34, 20133 Milano, Italy (Prof. Giuseppe Orombelli).
+- Laboratoire de Glaciologie et de Géodynamique de l'Environnement, BP 96, 38402 Saint Martin d'Hères, France (Dr Dominique Raynaud).
+
+. Atmospheric Physics
+- Istituto di Ricerche Onde Elettromagnetiche, via Panciatichi, 64, 50127 Firenze, Italy (Dr. Leopoldo Stefanutti).
+- Service d'Aéronomie, BP 3, 91371 Verrières le Buisson, France (Prof. Gérard Mégie).
+
+. Astronomy, Astrophysics and Solar-Terrestrial relationships
+- University di Roma la Sapienza, Dipartimento di Fisica, Piazzale Aldo Moro, 5, 00185 Roma, Italy (Dr. Giorgio Dall'oglio).
+- Institut d'Astrophysique Spatiale, Université Paris-Sud, 91405 Orsay, France (Dr. Jean-Loup Puget).
+
+. Physics of the Earth interior
+- Istituto Nazionale di Geofisica, Scienze della Terra Solida, Via di Villa Ricotti, 00161 Roma, Italy (Dr. Antonio Meloni).
+- Ecole et Observatoire de Physique du Globe, 5 rue Descartes, 67084 Strasbourg, France (Dr Roland Schlich).
+
+. Human Biology and Medicine
+- Ministero Difesa, Marina, Biologia umana e Medicina, Piazza della Marina, 1, 00196 Roma, Italy (Dr. Antonio Peri).
+- Administration du Territoire des Terres Australes et Antarctiques Fançaises, Service Médical, 34 rue des Renaudes, 75017 Paris, France (Dr. Claude Bachelard).
+
+. Robotics
+- Ente per le Nuove Tecnologie, l'Energia e l'Ambiente, Dipartimento Innovazione, Casaccia, Via Anguillarese, 301, 00060 San Maria Di Galeria, Roma, Italy (Dr Claudio Moriconi)
+- Centre National d'Etudes Spatiales, Division Technique - Aérospatial, 18 avenue Edouard Belin, 31055 Toulouse, France (Mr Michel Delpech).
+
+. Telescience, data handling and communications
+- Ente per le Nuove Tecnologie, l'Energia e l'Ambiente, Dipartimento Innovazione, viale Regina Margherita, 125, 00198 Roma, Italy (Dr. Vincenzo Nanni)
+- Centre National d'Etudes Spatiales, Division Terre et Univers, 18 avenue Edouard Belin, 31055 Toulouse (Mr Jean-Yves Prado).
+
+A lot of other laboratories (depending upon the Consiglio Nazionale delle Ricerche in Italy and upon the Centre National de la Recherche Scientifique in France or belonging to Universities in both countries) contribute to the definition and implementation of this research in every discipline.
+
+-6-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+As stated in the non-technical summary, the scientific research that will be performed at Dome
+C is open to scientists world-wide. The way in which these scientists and their institutions could
+contribute has not yet been defined in detail and is presently under consideration by the Steering
+Committee of the project.
+
+3. DESCRIPTION OF THE ACTIVITY
+
+3.1. General overview of the scientific programme
+
+Antarctica is a continent whose importance with respect to the study of the past, present and
+future evolution of our planetary environment is more and more recognised. Four characteristics of
+the site of Dome C have led to the definition of the scientific programme which is the rationale for
+this ambitious, however reasonable, project.
+
+- Dome C is a site below which the ice thickness (≈ 4000 m) is one of the largest over the
+continent, allowing for ice cores whose analysis will give invaluable information about the Earth's
+past climate back to approximately five hundred thousand years.
+
+- Dome C is a site over which the atmospheric water vapour content (≈ 1 mm STP) is one of
+the smallest over the continent, allowing for precise measurement of the ozone and aerosol content
+of the atmosphere, as well as of the cosmological radiation at infra-red or sub-millimetric wavelengths.
+
+- Dome C is situated inside the continent, far from coastal marine perturbations. Modern
+techniques for studying the Earth mantle via seismological or magnetic records can be used there,
+that will improve our knowledge of the internal structure of the Earth in a region that has played a
+fundamental role in the genesis of our Planet's present shape.
+
+- Finally, because of its isolation and its very severe climatic conditions, Dome C is a place
+where future planetary exploration techniques and procedures can be qualified : teleoperation or
+telemaintenance of equipment, physiological and psychological survey and «maintenance» of
+isolated groups of human beings.
+
+The scientific programmes that are intended to be achieved at station Concordia have been
+defined taking into account this four characteristics, by ad hoc working groups of scientists
+established (by the Steering Committee of the Concordia project) in the following disciplines :
+
+. glaciology,
+. atmospheric sciences,
+. astronomy and solar-terrestrial relationships
+. solid Earth geophysics
+. robotics
+. telescience and data transmission
+
+These Working Groups have specified their objectives, their experimental programme and
+their planning as well as their financial needs. These programmes have been endorsed by the Steering
+Committee and they are funded for the next three years. Their characteristics are summarised in the
+following section.
+
+−7−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+3.2. Characteristics of the activities
+
+3.2.1. Glaciology
+
+The main goal of the Station Concordia project on glaciology is to reconstruct a continuous history of climate and environmental changes in East Antarctica during about the last 500 000 years (i.e. four glacial-interglacial cycles). Data from ice core studies are a key to understanding the past climates, to determining man's impact on the atmosphere and to assisting the prediction of climatic change.
+
+The major objectives include :
+- acquiring relevant data over several climatic cycles, thus extending the existing ice core records (Vostok, GRIP, GISP, ... ) ;
+- assessing recent changes in terms of climate, atmospheric trace gas and chemical composition ;
+- understanding the response of the atmosphere to short term (man-made activities, natural events...) and long term variations ;
+- improving the understanding of the effect of climatic change on surface mass balance and ice-flow dynamics of polar ice sheets ;
+- improving numerical ice flow models through a better knowledge of the mechanical behaviour of ice, by associating the ice core analysis with surface measurements over the station Concordia drainage area ;
+- testing climatic models and investigating the sensitivity of climate to various forcing factors.
+
+The interpretation of the ice data will require a surface study programme on the spatial variability of environmental parameters and the flow of the ice sheet in the Station Concordia area. This implies data collection along scientific traverses between the coast and the station or around the drilling site and the development of studies involving satellite remote sensing data.
+
+Such a project is well inserted in EPICA (the European Programme for Ice Coring in Antarctica) and fulfils the major targets of Past Global Changes (PAGES) IGBP core project. It strongly interacts with several projects actually supported by the Commission of the European Community. The scientific traverse programme is a part of the International Trans-Antarctic Scientific Expedition (ITASE), a programme of SCAR, and has strong interactions with global atmospheric chemistry programmes.
+
+The development of the project will improve our understanding of the relationship between solar irradiance, atmospheric composition, extent of ice sheets and climatic change. The equipment that will be installed and operated is described in detail in the separate CEE : «Drilling activity at Dome C».
+                                                                                                                
+3.2.2 Atmospheric Sciences
+
+This programme is divided into two parts : physico-chemistry of the stratosphere and tropospheric studies which are both important constituents of the SCAR-IGBP programme.
+
+Because of its unique characteristics (the station is most of the time under the polar vortex ; it is at a northern enough latitude to benefit of long time periods during which day/night variations occur ; the very low water pressure above the station leads to low atmospheric absorption at all wave lengths), Dome C has been selected by an international group of scientists as the continental site for
+−8−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+monitoring the ozone layer above the Antarctic continent. The site should be the primary antarctic
+site of the NDSC (Network for Detection of Stratospheric Changes), part of the IGBP (International
+Geosphere Biosphere Programme) core project IGAC (International Global Atmospheric Chemistry).
+The following instruments will be installed :
+
+- a lidar facility, for measuring the ozone vertical distribution (8-35 km), aerosols and Polar
+Stratospheric Clouds (8-30 km), temperature (8-60 km). This facility is an improved copy of the one
+which has been built and operated at Terra Nova Bay and Dumont d'Urville since 1989 and in the
+Arctic region in close cooperation between French and Italian institutes.
+
+- Two UV spectrometers (one from France, UV-visible, and one from Italy, UV-B) to measure
+the profile distribution of O3, ClO, NOx. The first of the spectrometers has operated successfully at
+Dumont d'Urville and on-board ships since 1988. The second one was used since 1990 at Terra Nova
+Bay.
+
+- Ozone sondes and PTU sondes, as usually operated in main meteorological stations.
+
+In order to study the climatology of the boundary layer turbulence over the continent and its
+correlation with the sporadic character of the katabatic winds, as well as in order to make continuous
+measurements of the wind profile or to get information on the «seeing» at Dome C, a triaxial sodar
+will be installed. Since at Dome C the height of the troposphere-stratosphere interface is expected
+to be very low, stratospheric intrusions (that have been already observed in the higher parts of East
+Antarctica, through the presence of stratospheric constituents in ice cores) could be detected in the
+layers within the operational range of the sodar. The sodar technique is perfectly in hands of the
+Italian team which has operated sodars both at Terra Nova Bay since 1986 and at Dumont d'Urville
+since 1992. The temperature profile in the lower and upper layers of the atmosphere could also be
+measured by using tethered balloons but this project has not yet been studied in detail.
+
+3.2.3 Astronomy and Solar Terrestrial relationships
+
+Since long astronomers have expressed the wish to conduct observations in Antarctica,
+because of the interesting astronomical properties of this continent, as compared to other ground sites
+or space born platforms. Antarctica has the darkest sky, the driest, the steadiest, the clearest air (in
+some places). It has the minimal level of anthropogenic interference (visible, infra red, high
+frequency) and allows for continuous observations of the same astral object because of its proximity
+to the Earth rotation axis.
+
+Different projects are discussed among the international astronomical community. It appears
+that the use of Dome C for at least preliminary studies would be much useful. These could include :
+
+- a qualification of the site for visible (seeing) and infra red observations,
+- a study of the heterogeneity of the cosmological background radiation in sub-millimetric
+wavelengths.
+
+Italian and French scientists are defining an experimental programme that could make use of
+the specific properties of the atmosphere at Dome C. A cooperation with Australian astronomers is
+already envisaged.
+
+As far as Sun-Earth relationships are concerned, the situation of Dome C near the 90° invariant
+geomagnetic latitude, at the center of the auroral oval, gives to this future station the possibility of
+playing an important role in the study of magnetospheric phenomena : cusp-associated particle 
+-9-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+precipitations (through riometer and VLF measurements), generation mechanisms of the θ aurora 
+(though all-sky camera records). Dome C is a place where the installation of an AGONET(1) station 
+can benefit of a continuous survey. Though definitive projects are not yet in hands of the Concordia 
+Steering Committee, it is clear that Sun-Earth relationships related programmes will be part of the 
+scientific activities at Dome C.
+
+3.2.4. Solid Earth geophysics
+
+This programme is two fold : magnetism and seismology.
+
+Magnetism
+
+Because of the uneven distribution of magnetic observatories between Northern and Southern 
+hemispheres, the secular variation of geomagnetic field is very inaccurately known, especially at 
+latitudes higher than 60°S. The 9 coastal antarctic stations are affected by strong crustal anomalies 
+and by tide effects.
+
+Continuation of the mainfield down to the core-mantle boundary (which is one of the main 
+objectives of today's research) can be well achieved at Dome C, this station being located at about 
+4000 m above the continental crust (therefore free from contamination by crustal anomalies) and at 
+about 1000 km away from the shore (therefore free from tidal perturbations). The location of the 
+station at the center of the polar cap is also very favourable for studies of magnetic perturbations 
+induced by solar wind effects.
+
+The installation of scalar and vectorial magnetometers does not present any difficulty and does 
+not have any measurable environmental impact. The data will be integrated in the INTERMAGNET 
+international network in order to achieve the production of real-time magnetic indices. They will also 
+contribute to measurements of Solar-Wind induced magnetic perturbations inside the polar cap.
+
+Seismology
+
+The development of seismic tomography and the global seismic network lead to more and more 
+refined models of the three dimensional structure of the Earth's interior. Unfortunately the uneven 
+distribution of seismic stations and epicenters biases the solution of the inverse problem. There is a 
+growing interest in the installation of such stations in Antarctica. The installation of a seismic station 
+at Dome C will greatly improve the resolution and accuracy of topographic studies that are performed 
+through the GEOSCOPE programme or similar networks.
+
+Dome C is precisely at the distance interval which is needed for detecting PKIKP phases of 
+seisms originating in one of the most seismically active part of the world (Fidji).
+
+In a first phase, a seismic station will be installed in a 30–50 m deep borehole at some distance 
+of the station. Later on, a short period network of 20 stations will be installed along a line of 40 km 
+long in its vicinity. All these installations do not have any significant impact on the environment other 
+than minor or temporary.
+
+(1) AGONET : Automatic Geophysical Observatory Network. A programme led by the US, but endorsed by SCAR and 
+involving many antarctic institutions, which consists in installing 6 to 10 automatic stations within the Antarctic 
+continent for collecting data related with local meteorology, magnetism, particle precipitations, radioelectric emissions, 
+etc...
+
+−10−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+3.2.5. Human biology and medicine
+
+The research programme in this field is related with human adjustment to hostile, isolated and confined environment. This applied research will result into preventive and care measures allowing to minimise health hazards. The programme consists of :
+
+- preliminary risk assessment study,
+- telemedicine implementation
+- study of the vascular adjustment under the specific environmental conditions prevailing at Dome C,
+- study of biological indicators of stress
+- validation of selection methods,
+- psychological training and support,
+- etc.
+
+Part of this programme is already engaged at different antarctic or arctic polar stations under the auspices of the SCAR Working Group on Human Biology and Medicine. Its extension to the Dome C situation is also supported by Space Agencies since the results of such studies can be applied to other extreme environments as those encountered during space planetary exploration.
+
+The equipment that will be used is classical medical apparatus (EKG, EEG, X-rays, Doppler, ...) that will be installed inside the station. Permanent connection with European medical centers will be established through telecommunication links.
+
+3.2.6 Technology programmes
+
+At the present stage, these programmes do not present the same level of definition as the purely scientific research programmes. This is due to the fact that they depend very much on the precise definition of the logistical equipment that will be available at the station, as well as on the system that will be chosen for telecommunication links.
+
+They are aimed at testing teletransmission, teleoperation and telemaintenance techniques and procedures that could be of use in planetary research :
+
+- precise and controlled positioning systems ;
+- automatic or semi-automatic operational support through data reception (radar or visible images) ;
+- robotics, related with remotely controlled scientific instruments or vehicles ;
+- telemonitoring of equipment or personnel.
+
+This programme is basically oriented and financially supported by Space Agencies. It does not have any extra environmental impact with respect to the one which is linked with the operation of the station.
+
+3.2.7 Other activities
+
+As it has been stressed in the non-technical summary (section 2.1) the use of Concordia station for scientific research is open to the world-wide scientific community. Requests to use the station issued by non French-Italian scientists as well as by international scientific working groups have already been received.
+
+-11-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+These requests will be satisfied inasmuch as they do not duplicate research that is already 
+undertaken on the site and do not lead to important extra load from a logistical and environmental 
+points of view. The adequacy of the proposed procedures with the rules established by the Antarctic 
+Treaty and the Madrid Protocol will be controlled.
+
+3.3. Characteristics of the activity having impacts
+
+Besides of the glaciology programme (which is the subject of a separate CEE) the environmental 
+impacts which are induced by the above described scientific activities are negligible as compared to 
+those induced by the operation of the station itself : two or more boreholes in the ice, mainly passive 
+recording equipment (magnetometers, seismometers, antennas), the only active experiment being 
+the lidar and the sodar.
+
+Major impacts are those linked with the construction and the logistical exploitation of the 
+station. They are described in sections 5, 6 and 7.
+
+3.4. Previous activities at the site
+
+Research activities within the framework of the International Antarctic Glaciological Project 
+(IAGP) were started not far from the site in 1974. This was a joint French-USA activity and a field 
+camp was established there in 1979-80 by the US Antarctic Programme with eight small buildings 
+, a skyw?ay for aircraft operations, in addition to an AWS -automatic weather station-. The AWS 
+started operation on Feb. 5, 1980 and has been operational since then.
+
+Glaciological investigations were conducted at the site by a French team, with the support of 
+the National Science Foundation, with shallow sampling and coring to the depth of 900 m. Also some 
+sonic logging studies were performed in the borehole. The study of the samples allowed the 
+reconstruction of recent and long-year climate changes, including the study of aerosols and of 
+atmospheric composition up to 30.000 years ago.
+
+The operations at Dome C were hampered by three aircraft crashes. All activity was terminated 
+in the early eighties and the camp was abandoned.
+
+3.5. Why Dome C ?
+
+The choice of Dome C as a site where a permanent scientific station could be installed was 
+originally made in view of its characteristics as far as glaciological research is concerned. But soon 
+it appeared that other characteristics of the site were favourable to an extension of the fields of 
+research that could be explored there (see section 3.1.).
+
+Dome C has been chosen by a group of European Scientists (France, Germany, Italy, UK, 
+Switzerland, ...) as one of the two places in Antarctica where ice drillings should be performed. The 
+project EPICA (European Programme for Ice Coring in Antarctica) which is supported by the EUC/
+ESF(2) European Committee for Ocean and Polar Sciences (ECOPS) and which will be submitted 
+to the European Union involves these two deep drilling sites as well as shallow drillings along 
+traverses, among which two traverses join Dome C to DDU and TNB (see figure 1).
+
+(2) EUC : European Union Commission; ESF : European Science Foundation
+-12-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+Dome C is an excellent location for deep ice drilling because of the favourable layering of ice 
+(figure 7) which allows for a good time restitution (figure 8). Around Dome C the bedrock is often 
+situated below sea level, which increases the thickness of ice that can be explored (fig.6). The snow 
+accumulation at Dome C is about twice the one at Vostok, which allows a better time resolution in 
+the first hundred meters, whereas at larger depths the existing pressure allows a considerable 
+extension in time of records (figure 8). This enhanced time resolution and time extension will help 
+to investigate more precisely the relationship between different climatic parameters such as 
+temperature, air composition, ice volume, etc. All these considerations, or part of them, where 
+probably at the origin of the decision of the US National Science Foundation to undertake deep 
+drilling operations at Dome C in the years 1977/1980.
+
+Because of the high quality of the atmosphere above Dome C for optical measurements, Dome 
+C has been selected by an international group of scientists as the continental site for monitoring the 
+ozone layer above the antarctic continent (Kurylo and Cox, 1992). This station will belong to the 
+NDSC (Network for the Detection of Stratospheric Change) which is part of the IGBP (International 
+Geosphere Biosphere Programme) core project IGAC (International Global Atmospheric Chemistry).
+
+As far as astronomical observations are concerned, Dome C benefits of very interesting 
+characteristics: low water vapour pressure and very low atmospheric temperature. These characteristics 
+allow for detection of sources fainter than the ones that can be detected by presently available ground 
+or space telescopes. This is especially true for wavelengths around 2-3 μm and 5-8 μm (figures 16 
+and 17).
+
+The small number of seismic stations in the Southern hemisphere prevents seismologists from 
+getting a good survey of seismic activity in this part of the world (see section 3.2.4.). Inside the 
+continent, such measurements are done only at South Pole station and a second site is badly needed 
+to improve the gathering of data. As far as magnetism is concerned Dome C has the privilege of being 
+situated at 90° invariant latitude.
+
+3.6. Consideration of Alternatives
+
+3.6.1. The no-action alternative
+
+A reasonable concern, which has been expressed by some Consultative Parties or ONGs is 
+related with the necessity of constructing a new permanent station on the continent. This worry is 
+justified as far as the multiplication of stations along the antarctic coast (mainly the Antarctic 
+Peninsula) is concerned. But the number of permanent stations inside this huge continent is not 
+prohibitive. It is clear that one need more than two main permanent stations (Vostok and South Pole) 
+for achieving a reasonable survey of all geophysical parameters that are needed to understand the role 
+of Antarctic in the dynamics of our planetary environment.
+
+A number of countries have been involved or are still involved in deep ice drilling in 
+Antarctica. They are the USA, Russia, Australia, Japan and France. There is clear indication that this 
+activity has produced extremely interesting results in the study of paleoclimates: there is also 
+indication that further drilling is necessary in order to obtain deeper cores that may help to understand 
+the evolution of remote atmospheres and climate evolution over a very long period of time. This is 
+specially important at sites such as Dome C, where the layering of ice allows a good control of data. 
+Any drilling in Antarctica is complementary to the drilling being performed at other sites.
+
+−13−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+There is no other site on the continent where lidar and associated measurements of stratospheric 
+constituents can be done in the heart of the continent in such good conditions.
+
+Astrophysical research in Antarctica can take benefit of the high altitude of the plateau and of 
+the low water vapour pressure above. The implementation of the «ideal» astrophysical station at 
+Dome A (the CARA project) is not foreseen before the 3rd millenary. Preliminary results that could 
+be obtained at Dome C would be invaluable for improving the definition of new experiments that 
+could be later implemented at Dome A.
+
+Thus the no-action alternative would lead to a dramatic delay in our understanding of :
+- the past climate (glaciology),
+- the present climate (atmospheric physics),
+- the structure of the Earth interior in this polar region (solid Earth geophysics),
+- the star generation process within young galaxies and the inhomogeneity of the 
+cosmological radiation (astrophysics).
+
+It would represent a setback to the scientific programmes in Antarctica of the two principal 
+participating countries, France and Italy, and would also represent a missed opportunity for 
+cooperation with other countries in the global study of the antarctic environment.
+
+3.6.2 Alternative locations
+
+In section 3.5., the choice of Dome C has been justified by comparing the advantages and the 
+disadvantages of the already existing stations with respect to the different scientific objectives.
+
+It is clear that there is no alternative location where all the scientific activities that shall be 
+conducted in the frame of the Concordia project could be performed with an equivalent efficiency.
+
+As far as the drilling is concerned, one could argue that Vostok is an alternative suitable place. 
+However the ice thickness that could be analysed there is smaller. Moreover, the recent discovery 
+that a pristine lake could exit below the station (Ridley et al., 1993 ; Kapitsa and Robin, 1994) may 
+prevent for a long time the drilling down to the bottom of the ice cap. Besides, the discrepancies that 
+have been observed between the two Greenland drillings, separated by only 30 km, demonstrate that 
+one measurement alone is not sufficient to draw unquestionable conclusions.
+
+As far as the study of the stratosphere is concerned, South Pole and to a less extent Vostok do not 
+benefit of the same water vapour free atmosphere above the station. Byrd is too far from the center 
+of the ozone hole.
+
+Because of its lower yearly cloud coverage, Dome C is a better station than South Pole for 
+continuous astronomical survey of star oscillations (helio- and astro- seismology). Dome C is at the 
+center of the region where the auroral oval is below the horizon, therefore reducing visible and UV 
+interference during the winter.
+
+Contrary to many other continental sites, Dome C is in visibility of geostationary satellites, 
+which is an important argument in view of the need of fast data transmission. The recently existing 
+AUSAT satellite, which is situated at the same longitude as Dome C is an invaluable facility in this 
+respect.
+
+−14−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+All these advantages are illustrated in figure 21.
+
+Besides, Dome C is also in a region where katabatic winds have the same direction as the geostrophic winds, therefore reducing the turbulence in atmospheric layers (figure 22).
+
+Finally, Dome C being at an equivalent and «short» distance from both Dumont d'Urville and Terra Nova, the combination of French and Italian logistic support will reduce the construction time and minimise the environmental impact of this construction.
+
+3.7. Use of existing facilities
+
+Not too far from the Dome C site there are, as already mentioned, the remains of the old US field camp. The huts are in very bad shape, are half burried in snow and ice and do not lend themselves to further use without a very extensive recovery and rebuilding programme.
+
+For other abandoned bases, it has been estimated that a recovery programme of the old huts, provided it could be possible, would have a higher environmental impact than the construction of a modern station.
+
+The site of the old camp is also not ideal from the points of view of the maximum thickness of ice cover in the region and that of the best bedrock morphology. The best place may well be 20-30 km away from the old camp
+
+Furthermore, in the old huts it would be impossible to carry out the broad of research envisaged for Concordia.
+
+3.8. Description of existing environment
+
+The environment at the Dome C site is basically a flat area of the East Antarctica plateau, devoid of any form of life, either flora or fauna. The area is featureless. The summer temperature is around -30°C, the winter temperature is around -70°C. Wind speed is low, with an average speed on the last five years around 4m/s ; it never exceeds 15 m/s (statistics over 6 years between 1985 and 1990). As mentioned elsewhere in this document, an AWS has been operating at the Dome C site since 1980. An example of data obtained with this automatic weather station is reported on figure 23.
+
+3.8.1 Physical characteristics
+
+The site for the Concordia station and the drilling activity is located on the East Antarctic plateau at an elevation of 3250m above sea level and at a distance of about 1000 km from the nearest coast line.
+
+The surface of the ice is horizontal with no special features. There are no exposed rocks or nunataks in the region. Ice thickness is about 3500m or more.
+
+The only environmental process at the site is the accumulation of snow, with an accumulating rate of less than 5 g.cm^(-2) per year.
+
+-15-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+3.8.2 Biota
+
+There are no biota in the area. The absence of liquid water and the extremely low temperatures inhibit the presence of fauna and flora. There are no snow algae and no nutrients of any kind.
+
+3.8.3 Past and present uses of the area
+
+Drilling activity has been carried out in the area from the mid seventies to the mid-eighties. The remains of the old drilling camp lie at a certain distance from the future site of Concordia station. At present the only activity is the operation of an automatic weather station.
+
+3.8.4 Prediction of future environmental state in the absence of the proposed activity
+
+If no activity is performed at this site, there will be no changes in the present state: only a slow accumulation of snow and ice as it has been in the past.
+
+3.8.5. Existing environment at other sites involved in the project
+
+There are three other sites involved in the project : two in Terre-Adélie Land (Dumont d'Urville, hereafter noted DDU and Cape Prud'homme, hereafter noted CPH) and one in the Ross region (Terra Nova Bay, hereafter noted TNB).
+
+- Physical characteristics
+
+The physical characteristics at the three sites are much different from the ones that prevail at Dome C. The temperature is higher (never going below - 35° C), but the winds are much stronger (up to 70 m/s during katabatic events). Snow storms may prevent outside work during many days.
+
+- Biota
+
+Contrary to Dome C, DDU and CPH are places where an important fauna exists, from living micro organisms to large animals. DDU, and to a less extent CPH, are sites where large populations of birds come in the summer season (with the exception of the famous emperor penguins which arrive in autumn) for mating and breeding. The evolution of these populations has been followed since the early years of the existence of the base at DDU. A certain decrease in the number of animals in each species has been observed that could be attributed to anthropogenic effects. However, some correlation also exists between this decreases and natural meteorological phenomena (excessive duration and size of the ice shelf, absence of polynyas, which prevent the birds to feed).
+
+In case of DDU the construction of the runway has not led to the disasters which were strongly announced and advertised in the media. Mitigation procedures whose positive effects have been proven were adopted (Micol and Lormée, 1993). Similar consideration was given to the protection of fauna when envisaging the implementation of a disembarkation site at CPH (see the preliminary CEE).
+
+No living animals exist in the immediate vicinity of the TNB station.
+
+−16−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+- Past and present use of the area
+
+Dumont d'Urville is the French scientific station which is permanently operating since 1952.
+A lot of scientific and logistic activities are performed there, that are annually reported to SCAR,
+COMNAP and SCALOP. The CONCORDIA project, which is the subject of the present CEE, will
+not influence much the scientific activities at DDU. There will be some consequences in the logistic
+activities (see sections 3.12.2 and 3.12.3).
+
+Cap Prud'homme is situated on the continent, at 5 km from DDU (figure 24). It is the place
+where all material that is needed for continental expeditions are landed. Obviously this landing
+activity will increase during the construction phase of the Dome C station and some modifications
+of the landing area have to be performed (section 3.12.3.).
+
+Terra Nova Bay is the Italian Scientific station in the Ross Sea area which has been operated
+in summer since the 1985-86 season. Scientific and logistic activities at this station are annually
+reported to SCAR, COMNAP and SCALOP. The incidence of the CONCORDIA project on these
+activities at TNB are not yet fully evaluated (possible contribution to surface or air transportation).
+
+3.9. Description of the installation
+
+In this section, the core of the project is described : general implementation, structure of the
+buildings, technical services, scientific facilities, emergency planning and alternative solutions. The
+general problem of waste management will be dealt with in section 3.13.
+
+3.9.1. General implementation
+
+Once the best place for ice-drilling will be chosen, the general implementation will be
+organised as described in figure 25 a.
+
+The summer camp (used during the construction phase and later on during the drilling
+operation) will be situated at approximately 4 km from the wintering station. This is intended in order
+to avoid pollution that could be induced by activities at other places.
+
+The installations near the main station are represented on figure 25 b, the main problem being
+to organise in the most efficient way the storage of the fuel, water and waste.
+
+The installations at the summer camp deep drilling area are schematically described on figure
+25 c. A science trench for which precise position with respect to other shelters has not yet been
+defined will complement this scheme (see the accompanying CEE on the drilling activities at Dome
+C).
+
+3.9.2. Structure
+
+The station itself consists of two buildings, linked by a gangway, one building being devoted
+to «noisy» activities (power generation, repairing, catering,...) the other one to «quiet» activities
+(hospital, sleeping rooms, laboratories).
+
+A drawing of the structure is given in figure 26. It differs from the one presented in the draft
+
+-17-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+of the CEE. The hemispherical dome has been replaced by a parallelepiped. This change leads to use an external envelope of simpler conception and design, of an easier construction and a faster assembling.
+
+Each building is erected on 6 piles, adjustable in height by hydraulic jacks (figure 27). The total weight of the station is (in tonnes) :
+
+- metallic frame                  2 × 86
+- thermal insulation material     2 × 40
+- equipment                      2 × 93
+- skids                          2 × 32
+- gangway                        1 × 10
+                                  _____
+TOTAL                                534
+
+Each building consists of 3 floors, the roof of the «quiet» building being used for installing scientific detectors. The piles are set on hexagonal skids about 6 meters in diameter and 0.5 meter thick. The skids exert on the ground a pressure of approximately 16 kPa (160 g/cm2 or 2.2 psi). An insulated disk is inserted in each pile to break the thermal bridge where the pile crosses the envelope of the building (level 1).
+
+The envelope panels will consist of two skins with a thermal insulation in between and a protection to avoid condensation. Timber will be used for the external skin, because it has good thermal insulation properties and it can whitstand very low temperature (it is used in liquid methane reservoirs).
+
+During the construction phase, use will be made of a construction camp, which will also serve as an emergency base, if an accident occurs during the operation phase. It will consist of :
+
+- an accommodation unit for 16 persons, with 8 twin rooms plus a room for the doctor and a possible patient,
+- a kitchen and bathroom unit,
+- a restaurant unit,
+- a telecommunication unit,
+- a power house unit with 2 generators of 140 kVA,
+- two tents used as construction workshops or vehicle repairs.
+
+3.9.3 Technical services
+
+Power generation
+
+Electric power, for both scientific and logistic needs, will be produced by 3 generator sets (one in operation, one on stand-by which can also be used for peak demand periods, and one for back-up). Each set of 140 kVA will be powered by turbocharged diesel engines using kerosene. This fuel type has been selected because of its resistance to cold and of its high purity. Electricity will be distributed through a pair of three phases Uninterruptible Power Supply (UPS) systems with 0.5 to 1 hour total autonomy for scientific equipment and safety systems.
+
+−18−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+Heating
+
+Heating will be provided by a network of hot-water radiators using heat recovered from the cooling circuit of the electric power generator. Computations have been done which show that the recovered heat is sufficient when the electrical demand is nominal. Thus, in normal conditions, heating will not require the use of additional fuel. Two boilers, also operating on kerosene will provide back-up or top-up capabilities.
+
+Water production
+
+For all housekeeping purposes, other than cooking and drinking, water will be recycled. A recycling unit, which makes use of physical, chemical and biological processes, will serve to restore used water to drinking standard. However, to avoid possible psychological problems, water used for drinking and cooking will always be «primary» water directly obtained from the melting of snow. The required volume of this primary water is estimated at about 300 litres per day. This water will be produced in summer in a snow melter and stored until utilisation in temperature-regulated tanks placed outside the buildings. The insulation of the tank envelopes is calculated so that the heat produced by the circulation pump used to break the thermal gradient (200 watts) can compensate the heat loss through the envelope.
+
+More than 90 % of waste water will thus be recycled. The regeneration process will limit the quantity of waste to be repatriated and will minimise the quantity of energy to produce water by melting snow or ice. Of course, water polluted by chemicals is not concerned by the regeneration process. This water, about 10 litres a day will be condensed for future removal.
+
+Sludge residues from water regeneration will be stored in double-case storage tanks (20 m^(3)) to be used for their removal. These storage tanks will have thermal insulation and their temperature will be maintained by an electrical heating (200 W).
+
+The regeneration facility will be doubled for safety reasons (back-up and maintenance).
+
+Nature and quantities of products used
+
+The quantity of fuel needed for one year operation is estimated to be of the order of 200 tonnes (250 m^(3) or 66000 gallons). In principle, about 20 months worth of fuel will be stored at the beginning of each winter allowing for normal operation during a complete year plus an additional 8 months winter. The maximum volume of fuel on site (summer camp excepted) will then be about 420 m^(3) or 111 000 gallons of kerosene.
+
+This fuel will be stored in double envelope steel tanks mounted on sledges to allow for displacement. There will be 17 tanks of 25 m^(3) (6600 gallons) capacity. The tanks will be kept at some distance of the buildings until they are needed to feed the generator sets and boilers. When a tank is picked for use, it is towed towards the buildings by a local tractor and swapped with the previous one. A 2 m^(3) or 530 gallons reserve inside the building acts as a safety buffer.
+
+The double envelope allows to prevent a possible leak, the inner space between the two envelopes being monitored. There will be no low level transfer points, to prevent any risk of leak from a faulty tap or from a damage caused by a vehicle. Any fuel extraction will require the use of a pump (no syphoning). The tanks will be surrounded by a snow bern to reduce the spread of fuel should a spill occur.
+
+−19−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+The type of lubricants that will be used for vehicles and generators is a synthetic one. They are more durable than mineral ones. Used lubricants (approximately 1.5 tonnes per year) will be stored in a special tank pending removal.
+
+As already said, the primary water will be produced in summer. One needs to store water for the 9 months of winter, i.e. 80 m^(3) or 21.000 gallons. This will require 4 tanks of 20 m^(3) capacity, thermally insulated, thermally regulated, mounted on skids.
+
+The annual production of sludge, after concentration, will be of the order of 20 m^(3). There will be a total of 3 sludge tanks of 20 m^(3) capacity used, one around the buildings, one around the summer camp and one in transit between Dome C and the coast. The tanks will be thermally insulated, thermally regulated, mounted on skids and will be equipped with the same «anti-leak» features than the fuel tanks.
+
+3.9.4. Scientific facilities
+
+As already said, most of the scientific equipment will be installed at the third level of the «quiet» building, the detectors being placed on the roof (lidar, visible or UV spectrophotometers, optical cameras, telecommunication antennas, etc...).
+
+Equipment that will be installed outside the buildings, in close vicinity, is composed of magnetometers, seismometer, sodar, atmospheric monitoring unit and possibly telescopes. The drilling camp will be situated some kilometers away.
+
+3.9.5. Emergency planning (fire, spills)
+
+The station is designed under the principle of possible safety. That is to say that every precaution is taken to drastically minimise risks (non-flammable materials, antisyphoning devices, redundant units or circuits, etc...).
+
+Each room will be monitored with a combustion gas detector linked to a centralised control panel. A network of alarms will also monitor the operation of technical installations (power room, ventilation, heating devices, UPS, hydraulic jacks,...) and important parameters (room temperatures, local circuit breaker status, ...). The personnel will be trained to react in case of fire.
+
+The construction camp can be used as an emergency station should an accident occur. This camp will be regularly visited and its operational capabilities will be verified. All possible precautions will be taken to avoid spillage of fuel and other fluids during transport, storage and utilisation. Tanks are made of double walled steel and all openings are located in protected positions with antisyphoning devices. Contingency plans for oil spills are in preparation and will be strictly enforced.
+
+3.9.6 Alternative solutions
+
+Construction
+
+Besides of the elevated buildings, two other solutions could have been envisaged for the station :
+- an underground unit,
+- a modular system.
+
+−20−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+The underground solution has been widely used as it allows to take advantage of the good
+insulation properties of snow. However, as the insulating snow does not evacuate the calories
+originating from the building, it heats up and melts. The building is faced with a water tightness
+problem, except if one uses a secondary envelope, which then complicates optical measurements,
+that are an essential component of the scientific programme at Dome C.
+
+The second solution (a modular system of caravans on sledges) has been eliminated for the
+following reasons. In order to accommodate the surface which is needed (= 1400 m^(2)), the number
+of caravans would be enormous (50 to 60). The cables needed to link them together would be a mess.
+The snow accumulation inwards would oblige to move them frequently (every two years ?). The
+heat production could not be centralised and the surface to volume ratio being much larger than with
+the present solution, the fuel consumption would be at least tripled. People would be obliged to move
+frequently from one unit to the other, even in winter, by -70°C outside temperature. An elevated
+building, through more difficult to construct, is much more satisfactory in all aspects.
+
+Alternative energies
+
+Two possible sources of energy other than fossil fuel could be used at Dome C : solar energy
+is probably possible, with all the usual limitations, among which  the restriction to summer months
+only is the most obvious one.
+
+Wind power does not look very promising either, taking into account the low average wind
+velocity (4 m/s). However, the practical possibility of using alternative energies, especially for small
+isolated measuring units is being analysed and if at all practical they will be used.
+
+3.10 Operational phase
+
+3.10.1 Number of personnel in winter
+
+The station is designed for 16 over-wintering people : 5 technicians running the installations,
+9 technicians or scientists working on the scientific programmes, 1 medical doctor and 1 station chief.
+The construction camp can accommodate these people in case of emergency (see section 3.9.2).
+
+The number of occupants in the station will double for two-three weeks every year for the
+wintering personnel change over. Each room includes a folding bed to be used during the change over
+period.
+
+3.10.2 Number of personnel in summer
+
+During the operational phase and in summer, the construction camp will be used for
+accommodating extra personnel (technicians and/or scientists) who will come for installing
+scientific or technical equipment or for updating the old ones. Their number may vary between 6 and
+12. The personnel who will participate to the drilling during summer will be accommodated in the
+summer camp near the drilling station (see the accompanying CEE on drilling).
+
+-21-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+3.11 Transportation requirements
+
+3.11.1 Marine transportation
+
+During the construction phase, most of the material will come by ship to Adélie Land. Some 
+of it will be brought to Terra Nova Bay.
+The total weight of cargo to be unloaded for the construction of the base is of the order of 2000 
+tonnes (or 4,500,000 pounds) which consists of :
+- building, technical and logistics     1400 t
+- initial scientific equipment       200 t
+- drilling material and summer camp   400 t
+
+During the operational phase, the annual cargo for Dome C will be of the order of 300 tonnes.
+In general, cargo for Dome C is unloaded from the ship directly at Cape Prud'homme via a floating 
+pontoon offering a surface of 18 m^(2) or 200 square feet and able to carry up to 35 tonnes.
+
+However, Cape Prud'homme is not a safe place for a ship in case of strong winds, and it may 
+be necessary to unload cargo on île des Petrels and then to transport it later to Cape Prud'homme via 
+the pontoon.
+
+3.11.2 Surface transportation
+
+From the disembarking sites, most of the material will be brought to Dome C through 
+traverses, mainly from Cap Prud'homme, but also from Terra Nova Bay. Indeed, the convoys will 
+be formed at a point called D10, at 5 km from Cape Prud'homme where traverse equipment (sledges, 
+trailors, storage tanks on skis, ...) will stay outdoor during the winter.
+
+At present, it is envisaged to have two and a half (i.e. up to the intermediate depot) convoys 
+per year between Cape Prud'homme and Dome C. Each convoy will consist of 7 tractors and towed 
+elements. At least one tractor will be used to tow the «service» elements, that is the living units, the 
+energy generation/workshop unit and the fuel for the tractors. We will then make a distinction 
+between «service» and «useful» tractors. During the construction phase, the useful tractors will 
+mostly tow the components of the station. After that, they will tow station supplies. Sledges will have 
+either 2 or 4 skids and trailers 2 or 4 tracks, depending on the load they will have to carry. Skids will 
+be coated with polyethylene to reduce the resistance to towing and avoid the problems of skids 
+sticking on the snow. The maximum net load of a skid sledge will be 20 tonnes or 44,000 pounds.
+A sledge will be able to carry various types of loads such as :
+- 6.6 foot (9 m^(3) or 2,400 gallons), 10 foot or 20 foot ISO containers ;
+- Isotherm containers kept above freezing ;
+- Isotherm containers which may have to be cooled (ambient temperature can be 
+above -20°C or -4°F on part of the route) ;
+- Various sizes of boxes, the sledge being equipped with rails.
+
+Fuel consumption of the chosen tractors will be around 4 t or 8,800 pounds (5,000 litres or 
+1,300 gallons) for a return trip to Dome C. This fuel will be stored in special traverse tanks which 
+can be partially emptied without compromising their stability, while the station's fuel 
+supply will always have to travel either full or empty. It will be possible to deposit empty tanks half-
+way together with a full tank for use on the return leg. The traverse tanks will be parallélepipeds 0.7
+—22—
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+m high, the base of which will correspond to a sledge upper plate (6.3 by 3 m, or 20 ft 8' by 9 ft 10'), 
+for a usable volume of 12 m^(3) (3,200 gallons) or 10 tonnes (22,000 pounds).
+
+The tanks will be strong enough to carry relatively light cargo on top of them, so that the tanks 
+will be inserted between the sledges and the cargo, allowing to load the sledges at their nominal 
+capacity. The tanks will include the same possible safety features than the other tanks (see section 
+3.9.3). Fuel transfer to the vehicles will require either an electric or a manual pump.
+
+Living units for the traverse personnel will be made out of isotherm containers identical to 
+those used for refrigerated trucks. There will be two such units, divided into two twin rooms, kitchen, 
+dining room, bathroom and powerhouse and workshop.
+
+The generator set housed in the powerhouse room will provide electricity to the convoy. It 
+will be used during stops to regulate the temperature of transported containers when required, to keep 
+the vehicle engines warm, to heat the living units and to cook. It will allow to avoid using propane 
+gas, which was so far used on traverses for the last two functions. Water will be obtained by melting 
+snow using heat recovered from generator set cooling system.
+
+3.11.3 Air transportation
+
+In January 1994, a sea storm partially destroyed the runway at Dumont d'Urville. Considering 
+the cost of its repair and taking into account the ecologists' concern about its use, the French 
+Government decided that it shall not be repaired for heavy aircraft landing.
+
+Air transportation will thus be restricted to :
+- transportation of personnel between DDU, TNB and Dome C, by light aircraft^(3).
+- possible transportation of material (mainly fuel) between TNB and Dome C by 
+a C130.
+
+The number of flights between these three places has not yet be decided.
+
+3.12 Construction requirements
+
+      3.12.1 At Dome C
+
+These have been described in sections 3.9.1 and 3.9.2 for the permanent base. Construction 
+requirements for the (temporary) drilling operation are described in the accompanying CEE.
+
+      3.12.2 At Dumont d'Urville
+
+Until recently, cargo for Dumont d'Urville was disembarked at a place named «le Pré» (point 
+A on figure 28), which is well protected . This place was free of ice very soon in the season due to 
+strong currents. But since the construction of the runway, the current system around the archipelago 
+has changed and this place is free of ice very late in the season. Therefore it is envisaged to build 
+another disembarking zone at point marked B on the map. A road (200 m long) which will follow 
+the coast, would have to be built well below the nesting area of birds (which is situated at an altitude 
+of 30 m). However the decision of building this new disembarkation point is subject to a full 
+examination of its impact by the Committee for Polar Environement.
+
+^(3) landings being mainly at D10, a place situated on the continent at 5 km from the coast
+
+−23−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+3.12.3 At Cape Prud'homme
+
+This place was already used in the past for disembarking material for previous traverses and 
+also as a place for scientific research (geology, collection of micro-meteorites). But it had to be 
+arranged to allow unloading of containers, tractors and fuel tanks.
+
+The alternative solution which was indicated in the draft CEE has been implemented (figure 
+29). A flat area, where a gantry with a hoist can operate, was created on the shore. From there, cargo 
+on sleds is handled with the help of a machine based near the workshop and accommodation unit. 
+No road has been built which would have been an obstacle for the penguins belonging to three 
+strongly established colonies (with respective pair of 20, 89 and 58) (1992 data).
+
+A coastal fuel depot will be installed. It consists of 2 existing fixed double hull tanks of 35 m^(3) 
+(or 9,200 gallons) capacity, plus a set of the mobile fuel tanks ready for the next traverse. The depot 
+will be surrounded by a concrete berme to prevent the spread of fuel should a spill occur.
+
+Depending on the ship position, unloading of the fuel will be made with a hose laid on the 
+ice, a floating hose or an aerial one suspended to a hawser. Fuel unloading at Dumont d'Urville is 
+done with either methods. The only risk is a rupture of the hose.
+
+But all transfers are conducted under permanent supervision and a remote control unit allows to 
+instantly stop the fuel pump when an anomaly is noticed, and safety valves are automatically 
+clenched. This limits the amount of fuel possibly spilled to the volume of the hose (∅ = 5 cm, 1 < 50 
+m, v = 100 litres). Note that no accident has ever occurred at DDU by using this system.
+
+At D10 (where there is no fauna), an underground shelter (turbosider) has been built for 
+protecting the tractors during the winter, thus reducing the delays in un storing and starting them at 
+the beginning of the summer season. This unheated shelter should not sink in the ice.
+
+3.12.4 At Terra Nova Bay
+
+No special construction is needed, except a runway for Twin Otters. Note that there is no 
+fauna at the place of the station.
+
+3.13 Waste management
+
+Waste management is a major concern of the Madrid protocol. Since the early conception of 
+the project, methods for dealing with waste have been studied and will be implemented.
+
+Waste is classified into 7 groups (Table 1).
+
+3.13.1 At Dome C
+
+The quantity of waste that will be produced at Dome C during the operational phase has been 
+evaluated, and disposal methods have been decided (Table 2). Des-cription of the tanks that are 
+needed for storing waste fluids has been given in section 3.9.3. Following a recommendation made 
+by some Parties and NGOs after the issuing of the draft CEE, timber and by-products will not be 
+incinerated, as allowed by the protocol, but will be repatriated.
+
+−24−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+Table 1 Waste Classification
+
+Group  Denomination                             Description
+1      Waste of human or organic origin          Food scraps, excrements, kitchen and laundry effluents
+2      Liquid chemicals                           Photographic processing chemicals, lubricants,solvents
+3      Solid, combustible                         Timber, cardboard, paper, plastics, rubber
+4      Solid, non combustible                     Cans, batteries, empty drums, used spareparts, glass, heavy metal, copper and alloys, scrap metal
+5      Radioactive waste                          None
+6      Medical waste                              Reformed drugs, needles, bandages, ...
+7      Gaseous effluents                          Fuel combustion gases from powerhouse and vehicles.
+
+Table 2. Waste Quantities and Disposal Methods
+
+Group  Type                                       Yearly         Processing and disposal
+                                                  quantity
+1      Sludge from water regeneration             8 t            Storage and repatriation on next summer
+       Sludge from food                           6 t            «              «              «
+2      Photographic chemicals                     60 kg          «              «              «
+       Lubricants                                 1 t            «              «              «
+       Solvents                                   200 kg         «              «              «
+3      Timber and by-products                     2 t            Compacting and repatriation
+       Plastics, rubber                           15 t           Grinding, Compacting and repatriation
+4      Non combustible solids                    3 t            Storage and repatriation
+5      Radioactive waste                          none           Non applicable
+6      Medical waste                              100 kg         Storage and repatriation
+7      Gaseous effluents                          see section    Filtration and regection in the atmosphere
+                                                     5.1.1
+                                                     −25−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+During the construction phase, the same types of waste will be produced at the summer camp, 
+in much smaller quantities (except for timber and for group 4). The same procedures will be applied 
+with a few exceptions :
+
+- incineration toilets will be used,
+- there will be no water recycling and consequently the storage of used water will be larger.
+
+3.13.2 At Dumont d'Urville
+
+All these procedures (except for the recycling of water) are in use at Dumont d'Urville since 
+some years. Every year a repatriation permit is asked to the Tasmanian authorities and the waste is 
+controlled at its arrival at Hobart. Waste not included in this permit is retrograded to France.
+
+3.13.3 At Cape Prud'homme
+
+The same procedures as for the summer camp will be applied.
+
+3.13.4 At Terra Nova Bay
+
+Similar procedures are in use. Waste is retrograded to Italy.
+
+3.13.5 Along traverses
+
+Waste produced by traverse personnel will be stored and repatriated, except for the used 
+cleaning water (bathroom and washing machines). Toilet waste will be incinerated. Solid waste will 
+be compacted. Used lubricants will be stored in a container such as a 208 litres (46 gallons) drum.
+
+3.14 Duration of the activity
+
+The construction phase is expected to last until December 1998. The duration of the operational 
+phase is not defined. The official agreement between the French and Italian institutes is valid for 
+periods of 4 years, renewable.
+
+3.15 Decommissioning
+
+The CONCORDIA station is designed with the criterion of allowing an easy mounting and a 
+not too difficult disassembling. The construction techniques which will be used are such that one can 
+anticipate few difficulties in the decommissioning of the station. Some of the equipment and the 
+whole construction summer camp are mounted on sleds for easy transportation to and from the site. 
+The decommissioning of the whole station should not take more than two summer seasons. After a 
+year or so, no traces should remain on the site.
+
+-26-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+4. METHODS AND DATA USED TO PREDICT IMPACTS OF ACTIVITIES
+
+4.1 Data and information
+
+In the assessment of the environmental impacts of activities in Antarctica, previous EIAs provide the best source of information. Valuable documents which have been consulted include the papers by Benninghof and Bonner (1985), by Keys (1984) and by May (1988) ; they are particularly useful for the general methodology and for providing valuable insights on impacts of activities in Antarctica. Assessment methods and data on the analysis of impacts are provided in the EIA prepared by the Australian Antarctic Division for the deep ice drilling at Law Dome, in the Environmental Impact Statement for the US Antarctic Programme, prepared by the USNSP in 1980 and reprinted in 1984, in the Draft EIA for the oil salvage operation on the Bahia Paraiso of 1992, in the Draft CEE for the SANAE IV, published and circulated in 1993 by the Republic of South Africa. All these documents helped us very much to think about all possible impacts. Some of the solutions which were proposed to minimise these impacts have been adopted in the conception of our project.
+
+4.2 Methods
+
+The methodology used for the assessment starts with the identification of the environmental components sensitive to the potential impacts deriving from the proposed activity.
+
+This identification is performed on the basis of the existing literature, of the existing and EIA reports for similar activities, and of consultation with experts with specific experience. Three experts have been consulted (one from the Alfred Wegener Institute, one from the British Antarctic Survey and one from Cold Regions Research and Engineering Laboratory). Another important source of information have been the comments received on the previous draft of this report. They have addressed many different topics and have contributed to focus the attention on a number of specific issues (see section 12).
+
+A modified matrix method has been used to identify, predict and analyse impacts and their possible mitigation. This method has been used in EIAs in Antarctica and in other environments. In Antarctica this method has been used by the US NSF in 1980, by the Argentinean and Dutch group working in the Bahia Paraiso recovery operation (Acero et al., 1992), by the South African Dept. of Environmental Affairs for the SANAE IV CEE, by the New Zealand Antarctic Programme for the Cape Roberts drilling EIA. The matrices corresponding to our project have been established according to this method (see section 5.5).
+
+5. DIRECT ENVIRONMENTAL IMPACTS : NATURE, EXTENT, DURATION, INTENSITY
+
+5.1 Effects on the atmosphere
+
+5.1.1 At Dome C.
+
+The production of energy for scientific and domestic purposes will involve the permanent release of gases in the atmosphere. As already described, kerosene fuel will be used to lower carbon rates in the emission (see Table 3). As far as the heating is concerned, the recycling of 80% of the inside air through heat exchangers in the cooling circuit will significantly reduce total fuel consumption.
+
+−27−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+Recycling 90% of the water (see section 3.9.3) will also reduce the amount of kerosene for 
+melting snow. Finally, the exhaust gases will be filtered. Emission will be for 1 month in 1994-95, 
+4 months from 1995-96 to 1997-98, and all year from 1998-99 on.
+
+Table 3. Combustion gases in kg per tonne of kerosene
+
+| SO2 | NO2 | H2O | CO | CO2 | Pb | Particles |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0.1 | 40.4 | 1300 | 16.9 | 3180 | 0 | 3.1 |
+
+Apart from the fuel consumption related to the deep drilling operation (see the accompanying 
+CEE), the maximum annual consumption of kerosene at the station is estimated at 200 tonnes 
+(250m3). This corresponds to an annual emission of :
+
+      SO2   :   20 kg
+   particles  :  600 kg
+      NO2   :   8 tonnes
+      H2O   :  260 tonnes
+      CO2   :  640 tonnes
+
+The water vapour will be reduced through condensers. Filtering devices will also eliminate the 
+particles and will reduce the amount of acid gases. The landing and departure of light aircraft will 
+produce additional gas release.
+
+Little is known about the speed of gas mixing into the atmosphere at this specific place, but due 
+to dilution effects the impact of Concordia station on the upper atmosphere will probably be very low.
+
+5.1.2. On the traverse paths.
+
+Combustion gases due to power generation in the convoys will be released along the route 
+Cape-Prud'homme - Dome C. The exhaust will be filtered. This release is likely to have a rather low 
+significance for the atmosphere of this region, thanks to infrequent and short convoy passages, 2 
+times every summer from 1994-95 onwards, each round trip lasting between 20 and 25 days.
+
+Round trip fuel consumption for a 7-tractor convoy is estimated at 35 tonnes, which leads, 
+without considering filtering and condensing processes, to the following annual emission :
+
+      SO2   :    7 kg
+   particles  :  210 kg
+      NO2   :    3 tonnes
+      H2O   :   90 tonnes
+      CO2   :  220 tonnes
+-28-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+5.1.3. At Cape-Prud'homme.
+
+Power in the Cape Prud'homme summer workshop will be generated with engines similar to 
+those used in the convoy units and will comprise the same filtering systems. Moreover, a set of solar 
+cells will be installed on the roof in order to produce about a half of the total energy requirement of 
+the workshop, thus reducing the fuel consumption. It will correspond to the production of electricity 
+and heating for 8-12 people for a yearly period of 4 months every summer from 1994-95 until the 
+end of the construction phase (1998-99). Later on the occupation of Cape-Prud'homme will be much 
+reduced. The consumption of kerosene is very low (a few tonnes for a season).
+
+5.1.4. At other sites.
+
+There are no effect at Dumont-d'Urville itself.The only effects on the atmosphere at D10 are 
+those of landing and departing aircraft. These will be limited to about 2-3 flights a year from 1994-
+95 on, which is rather low at a yearly scale.
+
+Similarly, the effects at Terra-Nova Bay Station are related to aircraft operation of a Twin-Otter 
+or similar aircraft. At the most there will be 3 flights in 1994-95, 6 flights in 1995-96 and 10 from 
+1996-97. These will be a small fraction of the annual flight operations at Terra-Nova.
+
+5.2. Effects on areas of biological significance
+
+5.2.1. At Dome C.
+
+No life has been found at the site of Dome C.
+
+With regard to the possibility of introduction of alien micro-organisms, great care will be used 
+for the cleanness of clothes and material imported in Concordia station so that the microbe population 
+set up remains minimal. In the outer environment at Dome C, as a certain rate of contamination by 
+dust like hydrocarbons is likely within years, the occasional deposit of alien bacteria is probable. 
+Nevertheless, as no life has yet been shown to be able to maintain on ice at these very low 
+temperatures, the impact of these introductions will be transitory.
+
+A monitoring of the implantation of microbial communities will be set up (see chapter 8).
+
+5.2.2. On the traverse paths.
+
+The route Cape-Prud'homme-Dome C being on snow and ice, the same conclusions as before 
+are in use.
+
+5.2.3. At Cape-Prud'homme.
+
+The platform used for pontoon unloading was built on an area devoid of any bird colony. The 
+transfer of loads to the place of convoys is through an ice slope, completely avoiding the rocky area 
+where bird colonies have set up, in place of the track originally planned.
+
+5.2.4. At other sites.
+
+At Dumont-d'Urville, the landings and departures of light aircraft will set in an area 10 km 
+away from the base, where there are no birds. Otherwise, the activity linked to the project is unlikely 
+to have more impact on the existing bird colonies than the usual activities of Dumont-d'Urville base, 
+which already are under monitoring. As the use of the Pointe-Géologie airstrip is differed, no heavy 
+aircraft will land in Dumont-d'Urville. At Terra-Nova, aircraft and convoy activities are planned in 
+areas devoid of animal life.
+
+-29-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+5.3. Effects on areas of geological or glaciological significance
+
+5.3.1. At Dome C.
+
+There will be some contamination of the ice surface around Concordia station by dust,
+especially due to fuel combustion. It will there be reminded that the kerosene fuel used for power
+generation and for the flights produces little carbon compounds in exhausts. What is not known at
+present is the extent of the contaminated area. As it is of prime importance that the ice cores are set
+up in undisturbed areas, this impact will be monitored (see part 8).
+
+5.3.2. On the traverse paths.
+
+The engine combustion will produce a deposit in the wind direction along the route used.
+However these will be progressively absorbed by snow precipitations, especially during the winter
+stop of convoy activity.
+
+5.3.3. At Cape Prud'homme.
+
+There is no site of geological importance at Cape Prud'homme. Except from unloading
+activities, all transits are now on ice, which is submitted to a regular erosion by winds and gravitation.
+The impact of unloading activities and of the set of convoys is thus likely low.
+
+5.3.4. At other sites.
+
+Neither at Dumont-d'Urville nor at Terra-Nova are there any areas of glaciological or
+geological significance. Moreover, in neither case will the activities involved by the construction and
+following operation of Concordia station represent more than a small fraction of base activity.
+
+5.4. Effects on wilderness value.
+
+5.4.1. At Dome C.
+
+The presence of a station in a desert place of Antarctica certainly has a visual impact. This is
+mitigated by the fact that it shows the presence of human beings, who are working in such an isolated
+environment for the benefit of science. And those who would like to enjoy in the future the wilderness
+of the continent might be happy to find there a place to rest, like in a mountain hut.
+
+5.4.2. On the traverse paths.
+
+The visual impact of the presence of convoys on the route Cape-Prud'homme-Dome C is
+mitigated by the transitory nature of the passage.
+
+5.4.3. At Cape-Prud'homme.
+
+There is some visual impact of the presence of a summer camp. Most of it will be evacuated
+at the end of operations. The garage for tractor storage is buried so that it has no visual impact.
+
+5.5 Assessment of potential impacts and mitigation measures.
+
+In the previous sub-sections the impacts that can be reasonably expected have been evaluated,
+some of them in a quantitative manner. Mitigation measures have also been proposed, along with the
+description of the station and associated operations (see section 3). In this sub-section, all potential
+impacts and their mitigation measures are summarised in three tables (the so-called «matrix
+method»).
+
+-30-
+- 31 - 
+
+                                                         ASSESSMENT OF POTENTIAL IMPACTS / SITE : CAPE PRUD'HOMME
+
+
+|                ACTIVITY / ELEMENT                 |        |                           IMPACT                           |        | POSSIBLE MITIGATION |
+|------------------|----------|----------|--------|----------|----------|-----------|------------|-----|-------------|
+|      Nature      | Duration |  Nature  | Extent | Duration | Intensity | Probability | Significance | Y/N | Description |
+| Unloading        | 1 to 3   | 1 - landshifting of an area on coast | 5000 m2 | Long-term | Medium    | Definite    | Low          | Y   | • area free of fauna |
+| operations       | days     |                                  |        |          |           |             |              |     |                     |
+| of the material  | 4 times  | 2 - raise of a                       | 5 km   | Long-term | Medium    | Definite    | Low          | Y   | • avoidance of a penguin colony |
+| for Dome C       | in summer | track for handling loads            |        |          |           |             |              |     |                     |
+| Fuel             | 3 to 4   | Leaking  | Site and vicinity | Long-term | Low       | Low         | High         | Y   | • fill-up of mobile tanks throught a hose from the ship tanks, with the same equipment as is used in DDU. |
+| unloading and    | times in |          |                   |          |           |             |              |     | • All storage is is in double-walled tanks, anti-siphoning devices on all orifices |
+| storage          | a summer |          |                   |          |           |             |              |     |                     |
+| Stationing       | 4 months | Production of waste | Life units | Short-term | Medium (8 to 10 people) | Definite    | Low          | Y   | • all waste except human will be compacted and shipped back |
+| of 8-12 people   | in summer |                     |        |          |           |             |              |     | • use of incinerator WC |
+| in a summer camp |          |                     |        |          |           |             |              |     |                     |
+| Power            | 4 months | Emission of gases   | Site and vicinity | Short-term | Low       | Definite    | Low          | Y   | • exhaust filtering |
+| generation       | in summer |                     |                   |          |           |             |              |     | • use of solar cells |
+|                  |          |                     |                   |          |           |             |              |     | • activity only on summer |
+| Freshwater       | 4 months | Snow removal        | Site Vicinity | Short-term | Medium    | Definite    | Low          | N   |                     |
+| production       | in summer |                     |                   |          |           |             |              |     |                     |
+| Start of         | 2 times  | Emission of engine gases | Site vicinity (10 km inland, near life units) | Short-term | Low       | Definite    | Low          | Y   | • exhaust filtering |
+| convoys          | every summer |                     |                   |          |           |             |              |     | • transitory effect |
+
+
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+ASSESSMENT OF POTENTIAL IMPACTS / SITE : DOME C
+
+
+                                                                            
+                                                                            
+                                 ACTIVITY / ELEMENT                   |                                 IMPACT                                  |              POSSIBLE MITIGATION              
+                                                                            
+  Nature                 |              Duration               |   Nature    |    Extent    |   Duration   |   Intensity   | Probability  | Significance | Y/N  |             Description             
+                                                                            
+                                                                            
+  Power                  |                                     |             |              |              |               |              |              |      |                                     
+  generation             |  - 1994-95 : 1 month                | Emission of | Site and     | Long-term    | High          | Definite     | Medium       | Y    |  - reduced energy consumption : 
+                         |  - from summer 1995-96              | gases in the| vicinity     |              |               |              |              |      |    ventilation and recycling 
+                         |    to 1997-98 : 4 months            | atmosphere  |              |              |               |              |              |      |    of 80 % of the air, recovery 
+                         |  - from 1998-99 on : 12             |             |              |              |               |              |              |      |    of heat from exchangers          
+                         |    months a year                    |             |              |              |               |              |              |      |  - exhaust filtering                
+                                                                            
+                         |                                     |             |              |              |               |              |              |      |                                     
+                         |  - 1994-95 : 1 month                | 1- production| Station      | Short-term   | High 16       | Definite     | Low          | Y    |  - all waste except from water and 
+                         |  - 1995-96 to 1997-98 : 4           | of waste in  |              |              | to 30 people  |              |              |      |    paper compacted then 
+  Human                 |    months in summer                 | the station  |              |              |               |              |              |      |    periodically removed from the 
+  presence               |  - from 1998-99 on : 12             |             |              |              |               |              |              |      |    station and shipped back.        
+                         |    months a year                    |             |              |              |               |              |              |      |  - human waste incinerated in WC    
+                         |                                     |             |              |              |               |              |              |      |  - waste water recycled at 90 %     
+                         |                                     |             |              |              |               |              |              |      |    for re-use on domestic tasks,    
+                         |                                     |             |              |              |               |              |              |      |    and residual sludge convoyed     
+                         |                                     |             |              |              |               |              |              |      |    back to C.P.H.                   
+                         |                                     | 2- possible  | station      |              | Low           | Definite     | Low          | Y    |  - special care for cleaness of     
+                         |                                     | introduction | and close    | Short-term   |               |              |              |      |    clothes and material imported    
+                         |                                     | of           | vicinity     |              |               |              |              |      |    into the station                 
+                         |                                     | micro-       |              |              |               |              |              |      |  - preventive medical care for all  
+                         |                                     | organisms    |              |              |               |              |              |      |    staff                            
+                         |                                     |             |              |              |               |              |              |      |  - rapid cure of epidemia in the    
+                         |                                     |             |              |              |               |              |              |      |    station                          
+                         |                                     |             |              |              |               |              |              |      |  - outside temperature are likely   
+                         |                                     |             |              |              |               |              |              |      |    to prevent any microbe survival  
+                                                                            
+  Freshwater             |  - 1994-95 : 1 month                | Snow removal| Station      | Long-term    | High 300l/d   | Definite     | Low          | N    |                                     
+  production             |  - from summer 1995-96              |             | vicinity     |              |               |              |              |      |                                     
+                         |    to 1997-98 : 4 months            |             |              |              |               |              |              |      |                                     
+                         |  - from 1998-99 on : 12             |             |              |              |               |              |              |      |                                     
+                         |    months a year                    |             |              |              |               |              |              |     
+ASSESSMENT OF POTENTIAL IMPACTS / SITE : ROUTE CAPE PRUD'HOMME - DOME C
+
+ACTIVITY / ELEMENT                   IMPACT                                          POSSIBLE MITIGATION
+Nature              Duration         Nature                  Extent      Duration    Intensity   Probability Significance Y/N Description
+Power generation   20 to 25 days, 2 Emission of gases    Path and    Short-term  Low         Definite    Low         Y   * exhaust filtering
+                    times in a       in the atmosphere   vicinity
+                    summer
+Staff               20 to 25 days, 2 1 - waste except    Convoy      Short-term  Medium 8    Definite    Low         Y   * all waste compacted then
+transportation      times in a       from water                          to 12 people                    evacuated back to Cape
+                    summer           2 - waste water     Path        Long-term   Medium 8    Definite    Medium      N   * waste water is evacuated
+                                                    vicinity                        to 12 people                    into the neve
+Freshwater          20 to 25 days, 2 Snow removal         Path        Short-term  Medium      Definite    Low         N   
+production          times in a 
+                    summer           Leaking             Path and    Long-term   Low         Low         Medium      Y   * use only a double-walled
+Transit of fuel                                  vicinity                                    tanks, with anti-syphoning
+tanks                                                                                                        devices on all orifices
+Tractor or sled     20 to 25 days, 2 Failure risk         Path and    Short-term  Low         Indefinite  Low         Y   * regular vehicle
+                    times in a       Visual : vehicle    Path        Medium      High        Definite    Low         Y   maintenance at Cape Prud'homme
+                    summer           track                                       * enough tractors for
+                                                                                                            eventual separate hauling
+Route Cape          2 months in a    Visual : vehicle    Path        Medium      High        Definite    Low         Y   * the track will regularly be
+Prud'homme -        summer           track                                                               obliterated by snow
+Dome C through                                                                                                 
+snow and ice                                                                                                   
+
+-33- 
+CONCORDIA PROJECT COMPREHENSIVE ENVIRONMENTAL EVALUATION
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+6. INDIRECT AND SECOND ORDER IMPACTS
+
+6.1. At Dumont-d'Urville and Terra-Nova.
+
+The indirect effect of operating a new station at Dome C will be a short summer transit of the staff scientists either through Dumont-d'Urville or Terra-Nova before flying or travelling by ground to Dome C. This will represent only a small fraction of the activity of these long-lived bases. All precautions will in any case be taken for the current rules for environmental preservation in the bases to be applied by the transient staff.
+
+6.2. At Cape-Prud'homme.
+
+The consequence of constructing and operating the base at Dome C will be the durable installation of a summer activity at Cape-Prud'homme. The same environmental rules as in Dumont-d'Urville base will apply here. This site designed for unloading and set of convoy activities allows to avoid a heavy loading activity in Dumont-d'Urville. As already described, part of the installations will be removed at the end of operations and are thus to be seen as transitory. There will only remain the hoisting device and the life and workshop unit.
+
+7. CUMULATIVE IMPACTS
+
+7.1. At Dome C.
+
+The emission of gases in the atmosphere will be continuous for the time of operation of the station at Dome C but, as already mentioned, due to atmospheric circulation, this release will probably not have cumulative impacts at the site but transitory ones. The speed and rate of absorbency of these perturbations into the polar ecosystem are among the subjects under study in the current international programmes.
+
+A contamination of the ice by dust due to generators and flights has to be expected. In particular view of the accuracy of ice composition measurements in drillings, a monitoring of the long-term effects of operating a base in this part of inner Antarctica is planned by our Institutes.
+
+Whenever the station should be closed, it is planned to evacuate all possible material back to Cape-Prud'homme then ship it back.
+
+7.2. On the traverse paths.
+
+There will be some cumulative impacts of the passage of convoys due to ice are contamination by engine dusts. Thanks to regular obliteration by snow, the polluted layers will get sank.
+
+7.3. At Cape-Prud'homme.
+
+The construction of new facilities leads to some cumulative impacts, since the hoisting device and life and workshop unit is designed to be used for long-term. As described, due to isolation from wild life sites, these effects are mainly visual.
+
+−34−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+7.4. At Dumont-d'Urville and Terra-Nova.
+
+No extra major cumulative impacts are to be expected there, since these sites shelter bases already in operation. Local monitoring programmes will however allow to take the new activity at Dome C into account.
+
+8. MONITORING PROGRAMME
+
+Environmental monitoring for a project can be defined as the repeated measurement of one or more environmental variables in order to detect and possibly quantify changes. These should be investigated and interpreted to determine whether they have been caused by the project or by other extraneous factors. The objective of monitoring is then to check predictions, detect unpredicted effects, act to mitigate effects of impacts.
+
+In the case of the construction of the station, the variable to be monitored are :
+- exhausts of the diesel generators and local vehicles,
+- deposition pattern on the snow,
+- degradation of ice surface,
+- presence of micro-organisms.
+
+For these variables a programme defining distances at which to monitor and frequency of sampling is under definition.
+
+8.1. At Dome C.
+
+Three long-term monitorings will be set at Dome C :
+- the exhaust from the generator will be analysed so as to quantify the various gases released into the atmosphere,
+- ice sampling on the surface around the station along radiating lines will allow the assessment of dust contamination; this will be useful in particular to detect eventual adverse effects of the mixing of various deposits,
+- a monitoring will be set of the implantation of microbial communities on permanent structures such as living accommodation and scientific installations.
+
+8.2. At Cape-Prud'homme.
+
+The current monitoring of bird colonies will be continued, in the particular view to obtain the best respect of the wild life in this coastal area.
+
+8.3 Modifications
+
+Should the mitigation measures that have been summarised in section 5.5 appear to be insufficient as a result of monitoring, new measures will be implemented.
+-35-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+8.4 Independent control
+
+Monitoring impacts of the activity is under the responsibility of the operators, who should report to the future Committee for the Environment Protection, or, before it be installed, to the Transitory Environmental Working Group that will be established at the next ATCM in Seoul.
+
+French scientists have a long expertise in the monitoring of animal populations in the coastal part of Terre Adélie. Besides these scientific studies, one biologist is sent every year at Dumont d'Urville to observe the impact of the logistic and scientific activities on animal life and more generally on the environment. He sends monthly reports directly to the French authorities responsible for the environment and for the Antarctic Treaty implementation. More detailed reports are sent on a yearly basis on different subjects. Annex 1 gives an example of such reports. Mitigation measures are immediately enforced. In the future, this scientist will report to the newly installed French National Committee for the Polar Environment.
+
+However, an independent evaluation of the impacts induced by the activity and of the validity of the monitoring system which we intend to implement must be made. This is especially true in the sensitive area of possible impact on the local fauna at Dumont d'Urville and Cape Prud'homme. In this respect the French party is ready to welcome at these sites any biologist who would be nominated by the ATCM in that purpose.
+
+9. UNAVOIDABLE IMPACTS OF PROPOSED ACTIVITY
+
+At Dome C and along the traverses, an unavoidable impact is the release of gases into the atmosphere. But it has been reduced to a minimum (see section 5). Traces in the snow due to vehicle tracks are also unavoidable but they are only temporary.
+
+At Cape Prud'homme or Dumont d'Urville, the impact of disembarkation areas will be permanent, but these facilities will be used permanently for other scientific purposes.
+
+10. POTENTIAL IMPACTS ON RESEARCH AND OTHER USES
+
+At Dome C, the remaining exhaust gases could spoil optical or radioelectric measurements. But these measurements will be done windward of the exhaust points. Spoiling the ice in the vicinity of the station will prevent from making precise glaciology measurements (of the transfer function for instance), but it is expected that this will concern only a very limited area around the station.
+
+The presence of a permanent station of large vertical area (≈ 1,200 m^(2)) over decades, may slightly change the snow accumulation rate in the vicinity of Dome C. However it is doubtful that this will have important consequences on the dynamics of the continental glaciers.
+
+Micro-organisms, if they can survive outside, are not expected to spread over a large part of the continent.
+
+-36-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+11. GAPS AND UNCERTAINTIES OF THE CEE PROCESS
+
+A CEE process is basically a predictive process based on the knowledge of a certain number 
+of actions and on the evaluation of their consequences on the environment or on other actions which 
+may have a final impact on some environmental elements or systems.
+
+Like all such processes there is a number of uncertainties which cannot be properly solved 
+beforehand. Consequently, conservative hypotheses are usually taken into consideration in order to 
+obtain results corresponding to worst case scenarios.
+
+On these worst cases mitigation measures are applied or corrective actions are taken to modify 
+the activity in such a way that the impacts which are unavoidable may be acceptable.
+
+The uncertainties are due to gaps in the knowledge of some parameters, to the variability of 
+parameters due to unforeseeable natural circumstances; also the fact that the CEE is a prediction 
+exercise, i.e., it is prepared before the action takes place, makes it possible that some operational 
+conditions may change and the activity is different from the one originally planned and analysed in 
+the CEE.
+
+The exact timetable may change, transport methods may evolve, technological aspects may 
+change during the operation. All of these factors are more relevant in case of a complex action or 
+series of actions like the ones described here in this report.
+
+The Antarctic environment and Antarctic operations with their complexity and very difficult 
+conditions do not lend themselves to easy and precise assessments.
+
+This CEE, like all other such documents tries to predict and study impacts by making 
+assumptions which are conservative enough to ensure that no unacceptable and unretrievable damage 
+is done to the environment.
+
+The monitoring of impacts gives a good feedback for the correction of actions with appropriate 
+countermeasures which may range from slight changes in some secondary question to radical 
+changes in plans and operations to the full stop of the activity.
+
+One can finally consider action, environment, environmental impact assessment, monitoring 
+and mitigation as a closed loop which, if functioning properly should ensure that valid scientific 
+activities take place with no serious environmental damage.
+
+12. COMMENTS RECEIVED ON THE DRAFT CEE
+
+The draft CEE on the construction of the Base Concorde was written by the French only ; it 
+was sent to the Treaty Parties and NGOs in May 1992. It was also presented by the French 
+Government as an Information Paper at the XVII^(th) ATCM in Venice (November 1992).
+
+-37-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+Comments have been sent by 5 governments and 2 NGOs :
+
+Country or Organisation                  Date
+
+Netherlands                              September 1992
+Germany                                  October 1992
+New-Zealand                              January 1993
+Australia                                March 1993
+United Kingdom                          July 1993
+Greenpeace                               September 1992
+ASOC (1)                                 October 1992
+
+Most of the important topics were addressed by all commentators. Their list is given is section
+1.2. They have be given full consideration when preparing this final CEE, which is submitted jointly
+by the French and Italian parties.
+
+In this section, we will summarise the questions which were raised and the answers that are
+given. However all question related to the use of the Dumont d'Urville air strip will not be reported,
+since the runway will not be used for heavy aircraft landings, and that light aircraft will land at D10,
+a place void of living animals, except for safety reasons.
+
+Table 7. Summary of comments received and answers given
+
+TOPICS                                         ANSWERS
+
+1. Structure of the CEE
+- The structure of the impact assessment should  - Most comments were in favour of 2 CEEs,
+be modified.                                  one for the construction and operation of the
+                                               station, one for the drilling. We have followed
+                                               this suggestion.
+
+2. Scientific justification
+- The scientific programme was too vague to be  - At the time the draft CEE was written, the
+worth the construction of a new station.      French-Italian agreement was not signed. Since
+                                               then the scientific programme has been specified
+                                               in detail and it is funded.
+- None of the specific advantages listed to    -True. But no other existing station possesses
+justify the project is in fact specific to Dome C.  all the listed advantages. See sections 3.5, 3.6.2
+                                               and figure 21.
+
+3. International cooperation
+- Is international cooperation already engaged ?  - Yes. At least two international programmes
+                                               will benefit from the existence of the station
+                                               and of the associated logistics : the ozone
+                                               survey (Network for Detection of Stratospheric
+                                               Change) and the drilling activity (European
+                                               Programme for Ice Coring in Antarctica).
+
+(1) AOSC : Antarctic and Southern Ocean Coalition
+-38-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+- What is the splitting of nationalities intervening 
+on the site ?
+
+- Splitting of summer station staff between French, Italian and other nationalities is not yet defined, but it will exist.
+
+4. Alternative solutions
+
+- Consideration must be given to the use of 
+alternative stations.
+- Can the abandonned US camp be used ?
+- Consideration must be given to the no-action 
+alternative.
+- Alternatives to the construction of the station 
+must be given.
+- Use of alternative energy sources must be 
+considered.
+
+- See section 3.5 and 3.6.2.
+- No. See section 3.7
+- See section 3.6.1
+- See section 3.9.6
+- Done at CPH (solar cells). It has been envisaged 
+but it is probably difficult. See section 3.9.6.
+
+5. Impacts
+
+- The duration of the activity is not specified.
+- Air and snow pollution must be considered.
+- There is a lack of quantitative data on 
+environmental impacts.
+- Reaction to oil spills must be considered.
+
+- The introduction of alien micro-organisms 
+must be considered.
+- The human presence will have an adverse 
+impact on the wilderness of the site.
+- Large areas of polar ice cap must be preserved 
+in pristine conditions for scientific reasons.
+
+- See section 3.1.4.
+- See section 5.1, 5.3 and chapter 7.
+- See section 5.1
+- Sections 3.9.3, 3.9.5, and 3.12.3 give partial 
+answer. But the question still needs further 
+consideration.
+- See sections 5.2 and 8.1.
+
+- True, but unavoidable.
+
+- Scientific reasons do exist. Besides, as stated 
+by the late Professor Heisenberg, the observa-
+tion always perturbs the observable !
+- Yes, if no other system is available on the 
+market. Ensuring the security of human beings 
+is more important that the inconvenience of 
+using a few milligrams of radioactive material.
+
+6. Waste
+
+- How sludge generated by the water recycling 
+system will be disposed of ?
+- What volume of lubricants will be kept on the 
+station ?
+- How is organised waste repatriation through 
+Australia ?
+
+7. Monitoring
+
+- The bird monitoring programme must be 
+described.
+- There is a need for an environmental scientist 
+to provide advice.
+- Independent inspections should be organised.
+
+- See section 3.9.3.
+- 1.5 tonnes per year. See section 9.9.3.
+- See section 3.13.2.
+
+- See section 8.4 and Annex 1.
+- See section 8.4.
+- See section 8.4.
+-39-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+REFERENCES
+
+Acero J, et al., Environmental impact assessment associated with salvage operation of the remaining 
+oil of the Bahia Paraiso, Inst. Antartico Argentino and Rijlswaterstaat, 1992.
+
+Argentini S. , G. Mastroantonio, A. Viola, P. Pettré and G. Dargaud,one year meadurements at 
+Dumont d'Urville, Antarctica : sodar performances, Proceed. of the International Symposium on 
+acoustic remote and sensing and associated technique of the atmosphere and oceans, Boulder, 
+pp. 10-1,10-6, 1994.
+
+Ashley, M.C.B., M.G. Burton, J.W.V. Storey, J. Bally, J.W. Briggs, D.A. Harper, and J.P. Lloyd, 
+Private communication, 1994.
+
+Australian Antarctic Division, Initial environmental evaluation; deep ice drilling on Law Dome, 
+November 1989.
+
+Barnola J.M. , D.Raynaud, Y.S. Korotkevich and C. Lorius, Vostok ice core provides 160,000 years 
+record of atmosphere CO2, Nature, 329, 408-414,1987.
+
+Benninghoff W.S., and W.N. Bonner, Man's impact on the Antarctic environment, SCAR, 
+Cambridge, 1985.
+
+C.R. Bentley, D.D. Blankenship, R.N Gasset and S.Shatbaie, analysis of Dome C data, 1980-1981, 
+Antarctic J. ,16, 81-82, 1981.
+
+Chappelaz J.,J.M Barnosa, D.Raynaud, Y.S. korotkevich and C.Lorius, Ice core record of atmospheric 
+methane over the past 160,000 years, Nature, 345, 127-131,1990.
+
+Drewry D., Electric behavior of Antarctica, Annals Glaciology, 3, 1982.
+
+Elf Atochem, Substituts des CFC : une approche globale, January 1992.
+
+Ford H., and 18 co-authors, Society of Photo Optical Intrumentation Engin., 2199, 298-314, 1994.
+
+Greenland Ice Coring Program (GRIP) members, Climatic instability during the last interglacial 
+period recorded in the GRIP ice core, Nature, 364,203-207, 1993.
+
+Jouzel J., C.Lorius, J.R. Petit, C.Genthon, N.I. Barkov, V.M. Kotlyanow and V.M. Petrov, Vostok 
+ice core : a continuous isotope temperature record over the last climatic cycle (160,000 years), 
+Nature, 329, 403-408, 1987.
+
+Kapitsa A., and G. de Robin, Lake Vostok Project, unpublished report at the XIII General Assembly 
+of SCAR, Roma, September1994.
+
+Keys J.R., Antarctic Marine Environments and off-shore oil, Commission for the Environment, 
+Wellington, 1984.
+
+Kurylo M., and R.A. Cox, Network for the detection of stratospheric change, NASA and NERC, 
+1992.
+
+-41-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+Legrand M., and C. Feniet-Sagne, Methane sulfonic acid in South polar snow layers : a record of 
+strong El Nino, Geophys. Res. Lett., 18, 187-190, 1991.
+
+May, J., The Greenpeace book of Antarctica, 1988.
+
+Mayewski R. and M. Legrand, Recent increase in nitrate contents of Antarctic snow, Nature, 
+346,258-260,1990.
+
+Micol, T., H. Lormee, Impact de la piste d'aviation sur les voies de passage des manchots empereurs 
+à Pointe Géologie (Terre Adélie), unpublished report, November 1993.
+
+National Science Foundation, U.S. Antarctic Programme, Final environmental impact statement, 
+October 1984.
+
+National Science Foundation, Final supplemental EIA for the US Antarctic Programme, 1991.
+
+Orombelli, G., D. Raynaud, P. Duval, M.Fily, M. Frezzoti, J. Jouzel, M. Legrand, A. Longinelli, G. 
+Piccardi, G. Scarponi and I. Tabacco, Glaciology at station Concordia : a French–Italian cooperative 
+project, unpublished report, February 1993.
+
+Ridley J.K. , W. Cudlip and S.W. Laxon, Identification of subglacial lakes using ERS-1 radar 
+altimeter, J. Glaciology, 39, 625-634, 1993.
+
+G.Roult and D. Rouland, Antarctica I : deep structure investigations inferred from seismology ; a 
+rewiew, Phys. Earth. Planet. Interiors.84, 15-32, 1994.
+
+Streten N.A. , Antarctic operational meteorology, past present and future, in World Meteorological 
+Organization bulletin,41, 145-154, 1992.
+
+-42-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+FIGURES
+
+Figure 1     Map of Antarctica
+Figure 2     Results obtained from the deep ice drilling at Vostok
+Figure 3     Comparison between data obtained from deep drillings in Greenland and in Antarctica
+Figure 4     Sulphur cycle from Antarctic snow studies at South Pole
+Figure 5     Nitrate concentration in snow at Dome C and Vostok
+Figure 6     Subglacial topographic map in the Dome C area
+Figure 7     Aerial radioelectric sounding of ice sheet below Dome C
+Figure 8     Estimated depht-age profiles for three EPICA drilling sites
+Figure 9     Estimated depht-age profiles for Berkner Island and Dome C drilling sites
+Figure 10    Five years record by the SAOZ spectrophotometer
+Figure 11    Altitude profile of the ozone content above Dumont-d'Urville
+Figure 12    Detection of aerosol content of the stratosphere with LIDAR experiment
+Figure 13    The future LIDAR system to be installed at Dome C
+Figure 14    Results with SODAR system at Dumont-d'Urville
+Figure 15    Outline of the minisodar antennas to be installed at Dome C
+Figure 16    Sky spectrum recorded at South Pole between 1.4 and 2.5 μm
+Figure 17    Estimated limiting magnitudes for three cases
+Figure 18    Secular variation of the geomagnetic field at Dumont-d'Urville
+Figure 19    Map of wide band seismologic stations as of December 31, 1993
+Figure 20    Phase velocity of Raleigh waves in the upper mantle around and in Antarctica
+Figure 21    Dome C as an interesting site on the Antarctic continent
+Figure 22    Average pattern of surface winds in the continental interior
+Figure 23    Average meteorology at Dome C
+Figure 24    Map of Pointe Géologie archipelago and Cape Prud'homme
+Figure 25a   General layout of Dome C station
+Figure 25b   Master plan of Concordia
+Figure 25c   Master plan of summer camp/deep drilling area
+Figure 26    Concordia : front view of buildings
+Figure 27    Concordia : sectional drawing of a polygonal building
+Figure 28    Map of the Petrels Island
+Figure 29    Cape Prud'homme : track and platform location
+
+-43-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+
+Fig 1 : map of Antarctica showing the situation of Dome C with respect to some other scientific bases. The two deep drilling sites (Dome C and Queen Maud Land) that are involved in the European project EPICA are represented, as well as the main traverses along which shallow drillings (50-100 meters) will be made to study the ice chemical properties and dynamics (part of the ITASE project). A drilling on Berkner Island (shaded area) where snow precipitation is very large is also foreseen.
+
+−45−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+
+                                                                 CO     2(ppmv)
+                                                          300
+                                                          250
+                                                          200
+                                                                               CO     2
+                                                                                        2
+                                                                                        0
+                                                                                        -2
+                                                                                        -6
+                                                                                        ∆T(˚C)
+
+                                                          700
+                                                          600
+                                                          500
+                                                          400
+                                                          300
+                                                                               CH     4
+                                                                               ∆T     a
+
+                                                                                        0        50         100        150
+                                                                                                      Age (Kyr BP)
+
+J.C Pugnot
+
+Fig 2 : results obtained from the deep ice drilling at Vostok : variation of the atmospheric temperature (with respect to 
+the present one) and of the concentration of two greenhouse gazes (adapted from Barnola et al, 1987; Jouzel et al., 1987; 
+Chappellaz et al., 1990)
+
+                                                                                                                   -46-
+Fig.3 : comparison
+between data obtained
+from deep drillings in
+Greenland and in
+Antarctica for the last
+50.000 years. Large
+variations are observed
+in the Northern records,
+that are not detected in
+the Southern ones.
+Therefore it is crucial to
+see if the rapid fluctua-
+tions that have been
+recently observed in
+GRIP cores
+corresponding to the
+previous interglacial
+period have the world-
+wide character or if they
+are a regional
+phenomenon (adapted
+from GRIP members,
+1993)
+
+-47
+
+          0            10 000         20 000         30 000         40 000         50 000
+
+-30
+
+-35
+
+-40
+
+GRIP (Greenland)
+
+-15         -10          -5           0
+
+Temperature Delta 180 (%)
+
+          0            10 000         20 000         30 000         40 000         50 000
+
+Vostok (Antarctica)
+
+Age (years BP)
+
+CONCORDIA PROJECT COMPREHENSIVE ENVIRONMENTAL EVALUATION
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+
+ 
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+
+                                          Dome C                                     Vostok
+                    8                                         2
+                    7                                         1.5
+   Depth (m)        6                                         1
+                    5                                         0.5
+                    4
+                    3
+                    2
+                    1
+                    0                                         0
+                       0   48   96  144  192  240           0   48   96  144  192  240
+                          NO   3   (ng.g   -1   )               NO   3   (ng.g   -1   )
+Fig 5 : nitrate concentration in snow. The origine of nitrate deposited in Antarctica is still not entirely understood. Both
+records exhibit a marked increase in the upper meter (Mayewski and Legrand, 1990)
+
+-49-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+Dome C
+Bedrock elevation
+
+Mag N
+True N
+
+0       1       2       3 km
+
+Fig.6 : subglacial topographic map in the Dome C area. Contours are in meters relative to sea level (Bentley et al., 1981).
+New radar measurements will be done in order to select the best position for the drilling.
+
+-50-
+Fig. 7 : aerial 
+radioelectric sounding of 
+ice sheet below Dôme 
+C. The regularity of the 
+different ice layers leads 
+us to assume that they 
+are not disturbed by the 
+ice flow. The cone 
+which appears on the 
+record is a parasitic echo 
+produced by the first 
+drilling camp (Drewry, 
+1982).
+
+18,5 km
+
+3400 m
+
+Bedrock
+
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+ 
+                                 0       100     200     300     400     500     600     700                  0
+
+                                 0                                                                               0
+                               
+                                -500                                                                           -500
+
+                                -1000                                                                          -1000
+
+                                -1500                                                                          -1500
+
+                                                                                                               Dome A
+
+                                -2000                                                                          -2000
+
+                                Depth(m)
+
+                                -2500                                                                          -2500
+
+                                                                                                Queen Maud Land
+
+                                -3000                                                                          -3000
+
+                                                                                                               Dome C
+
+                                -3500                                                                          -3500
+                                 0       100     200     300     400     500     600     700                  0
+
+                                                         Age (Ky)
+
+Fig 8 : estimated depth-age profiles for three EPICA drilling sites. The three vertical dashed lines correspond to the three
+previous interglacial periods. The thick horizontal bars under the name of each site correspond to the bedrock (N.Reeh,
+private communication, 1993). The best resolution for the very old ages is obtained at Dome C.
+
+-52-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+
+                                                                 Depth (m)
+
+0
+200
+400
+600
+800
+1000
+1200
+                                          Berkner Island
+
+0         5         10        15        20        25        30
+                                                         Age (Ky)
+
+
+                                                                 Depth (m)
+
+0
+600
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+                                          Dome C
+
+0        100       200       300       400       500       600       700
+                                                         Age (Ky)
+
+Fig.9: estimated depth-age profiles for Berkner Island and Dôme C drilling sites (D.Peel, private communication, 1993).
+For the first 10 000 years, the time resolution at Berkner Island is eight times better than at Dome C.
+
+-53-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+
+                                                                    SAOZ
+              500 
+              400 
+              300 
+              200 
+                       1988       1989        1990       1991       1992
+
+                                                                    OZONE
+
+                                                                    NO2
+               8 
+               6 
+               4 
+               2 
+               0 
+                           SOR
+                           MATIN
+                       0        365         730        1095       1460
+
+                                                                    NO2
+
+                                                                    50 hPa TEMPERATURE
+              -20 
+              -30 
+              -40 
+              -50 
+              -60 
+              -70 
+              -80 
+              -90 
+                       0        365         730        1095       1460
+                           Julian Date 1988
+
+Fig. 10: five years record of the ozone content, NO2 concentration and temperature at the 50 hectopascal level, as obtained 
+by the SAOZ spectrophotometer (Pommereau, private communication, 1993). The time during which the ozone hole 
+is observed above Dumont-d'Urville near the beginning of October does not exceed a few days.
+
+-54-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+
+
+
+
+Fig. 11 : altitude profile of the ozone content above Dumont-d'Urville, as detected by the French-Italian LIDAR 
+experiment (Mégie and Stefanutti, private communication, 1992).
+
+-55-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+                                                     
+                     04/09/91                                      
+                     atmosphere reference                       
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+            5         15          25           35                 
+                                                                    
+                                                     
+                     04/11/91                                      
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+            12        15          20           25                 
+                                                     Altitude (km)   
+                                                                    
+Pinatubo - Dumont-d'Urville base                                   
+reflection of the atmosphere                                       
+
+Fig.12 : with the LIDAR experiment it is also possible to detect the aerosol content of the stratosphere. The effect of the Pinatubo eruption (June 1991) was first detected at Dumont-d'Urville in September. The size of the cloud has continued to increase during the following months (Mégie, Godin, and Stefanutti, private communication, 1992).
+
+-56-
+Fig.13 : the future LIDAR 
+system to be installed at 
+Dome C. The polarisation 
+measurement at 532 nm is 
+aimed at the study of aerosols. 
+The four UV wavelengths will 
+serve to the study of the ozone 
+layer (Mégie, Porteneuve and 
+Stefanutti, private communica-
+tion, 1994). .
+
+                      Système de réception
+
+                                  Obturateur 
+                                  mécanique
+
+                      Spectromètre à 
+                      réseau
+
+                                  Boitier de 
+                                  réception
+
+CONCORDIA PROJECT COMPREHENSIVE ENVIRONMENTAL EVALUATION
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+January-February-March
+
+
+
+
+
+July-August-September
+
+
+
+
+
+Fig. 14 : the SODAR system which is operating at Dumont-d'Urville is able to detect the wind direction and the wind 
+speed up to 900 meters. The figure represents the maximum height where these measurements can be made, in the 
+presence of back ground noise, as a function of the wind speed, and for the characteristic seasons. The sounding range 
+is lower when the wind velocity is large, but the observed reduction of this range for low wind velocities during the austral 
+summer is not correlated with the wind speed. It is attributable to the noise due to the arrival at the base of a large colony 
+of Adelie penguins (Argentini et al., 1994). Such an effect will not occur at Dome C.
+
+−58−
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+
+                                          74 cm
+                                 -------------------
+                                  |                   |
+                                  |                   |
+                    70 cm         |         A         |   M # 70 kg
+                    -------        |                   |
+                                  |                   |
+                                  |                   |
+                                 -------------------
+                                          60 cm
+                                                     \   
+                                                       \
+                                                        \
+                                          140 cm
+                                 -----------------------------
+Fig.15 : an outline of the minisodar antennas to be installed at Dome C. The minisodar includes three of such antennas 
+to be located on an open field of about 90 square meters. The operating frequencies will be 4.0; 4.8 and 5.3 kHz. The 
+maximun acoustic power will be 25 Watts.
+
+-59-
+South Pole night time sky emission
+
+Fig. 16 : sky spectrum
+recorded at South Pole
+between 1.4 and 2.5 μm.
+The window at 2.4 μm
+is clearly visible (Ashley
+et al., 1994). A similar,
+or even better observing
+condition could prevail
+at Dome C.
+
+                                                                               CONCORDIA PROJECT: COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+              0.8
+
+              0.6
+
+              0.4
+
+              0.2
+
+         1.4       1.6       1.8        2        2.2       2.4
+                  Intensity (V/s)                                 Wavelenght (μm)
+Fig. 17 : estimated limiting 
+magnitudes for three cases.
+(...) : Hubble Space Telescope.
+(--) : infra-red optimised 8 
+meter telescope on Mauna Kea.
+(_) : Polar Stratospheric 
+Telescope, a project of a 
+balloon-borne telescope over 
+polar regions (Ford et al., 
+1994).
+
+                  8.0-m ground   ---  
+                  HST          .........
+                  POST         __
+                  Limiting magnitude
+5
+2         3         4         5         6         7         8         9         10
+                                 Wavelenght (microns)
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+Evolution of the magnetic elements D.I.F. at Dumont-d'Urville (Terre Adelie - 66°40'S; 140°01'E)
+1957-1993
+
+Fig.18 : the secular variation of 
+the geomagnetic field, as 
+mesured by its three classical 
+components, gives information 
+about fluid movements in the 
+Earth interior. Observations are 
+performed at Dumont-d'Urville 
+since 1957 (Schlich, private 
+communication, 1994).
+
+DECLINAISON D                                  INCLINAISON I                                  CHAMP TOTAL F
+
+                          80°00'W                                         89°30'W                                       7150°
+                          90°00'W                                         89°45'W                                       7100°
+                         100°00'W                                         89°00'W                                       7050°
+                         110°00'W                                         89°15'W                                       7000°
+                         120°00'W                                                                              6950°
+                         130°00'W                                         89°30'W                                       
+                         140°00'W                                                                          
+                         150°00'W                                         89°45'W                                       
+                         160°00'W                                                                          
+                         170°00'W                                                                          
+                         1950       2000                              1950       2000                              1950       2000
+
+CONCORDIA PROJECT COMPREHENSIVE ENVIRONMENTAL EVALUATION
+- 63 -
+Fig.19 : wide band seismologic 
+stations as of December 31, 
+1993. The lack of stations in 
+the Southern hemisphere is 
+noticeable (Trampert, private 
+communication, 1994).
+
+ 
+                                                                                                                     
+Network  | Australia | Canada | China | Geoscope | Mednet | Poscidon | IRIS 
+Current  |     *     |   ■    |   ◆   |    ▲     |   ●    |    ⊗     |  ☆  
+                                                                                                                    
+                                                                                                                     
+                                                                               CONCORDIA PROJECT COMPREHENSIVE ENVIRONMENTAL EVALUATION
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+-6.0   -4.5   -3.0   -1.5    1.5    3.0    4.5    6.0
+
+
+Fig. 20 : phase velocity of Rayleigh waves in the upper mantle as deduced from topographic inversion of seismic signals recorded at four stations around or in Antarctica. The grey code (in percent) corresponds to larger (black) or lower (white) velocities than average. The difference between East and West Antarctica is apparent. Low velocities are observed along oceanic ridges (Roult et Rouland, 1994).
+
+-64-
+Fig.21 : why Dome C ? This
+figure shows different
+characteristics of the Antarctic
+continent. Dome C is situated
+at a place where these
+characteristics are such that
+glaciological, atmospheric and
+astronomical studies can be
+performed in the best condi-
+tions (courtesy of Michael
+Dopita)
+
+1 Altitude>3000 m
+2 Slope<1/1000
+3 Snow accumulation <5g/cm^(2)/y
+4 Auroral oval below the horizon
+5 Visibility limit of geostationary satellites
+
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+- 96 -
+Fig.22 : average pattern of surface winds in the continental interior
+
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+-67-
+Fig. 2.3 : average meteorology at Dome C for the year 1989
+
+Wind velocity (m/s)                  Temperature (°C)
+
+  0.0   2.0   5.0                     -70  -60  -50  -40  -30  -20
+
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+
+                      Pressure (hPa)
+                      620 630 640 650 660
+
+CONCORDIA PROJECT: COMPREHENSIVE ENVIRONMENTAL EVALUATION
+DOME C - 1989
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+
+Ile du Lion
+Ile Claude Bemard
+Ile Lamarck
+Ile des Pétrels
+Ile Alexis Carrel
+Ile du Gouvemeur
+
+
+          N
+
+
+0        1        2        3        4        5 km
+
+Fig.24 :Pointe Géologie achipelago and Cape Prud'homme
+
+-68-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+PREVAILING WIND
+
+          ↓
+
+
+SUMMER CAMP AND ICE CORING
+
+                  + 
+                  ∥
+                  ∥
+                  ↓
+                  ←--------→
+                  ↑        ↓
+             4000 m
+                  ↑        STATION
+                          
+
+
+
+Fig.25 a : general layout of Dome C station
+
+-69-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+ 12
+
+1 : quiet building (sphere)
+2 : noisy building (sphere)
+3 : vehicle workshop (Parcoll tent)
+4 : stand-by generator container (winter position)
+5 : cold lab
+6 : active fuel tank
+7 : fuel depots
+8 : active brine storage tank
+9 : active sludge storage tank
+10 : fresh water storage tank
+11 : water, sludge and brine tank depot
+12 : clean area for atmosphere sampling
+13 : balloon inflating and launching area
+14 : seismograph, magnetometer
+
+Fig.25 b : Concordia : station master plan
+
+-70-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+15 : electric-hydraulic control shelter (10mx5m) and derrick
+16 : electric power house
+17 : active fuel tanks
+18 : vehicle shelter
+19 : refectory and kitchen (equipped)
+20 : sleeping quarters (equipped)
+21 : heated lab (6mx2.5m)
+22 : cold lab (8mx2.5m)
+23 : heated electronic shelter (6mx2.5m)
+24 : heated workshop shelter (10mx5m)
+25 : underground shelter (60 m^(2)) for ice-core storage
+
+Fig.25 c : D?me C : master plan of summer camp/deep drilling area
+-71-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+
+tunnel
+
+
+Fig.26 : Concordia : front view of buildings
+
+-72-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+Roof level N4
+Floor level N3
+Floor level N2
+Floor level N1
+
+Fig.27 : Concordia : sectional drawing of a polygonal building
+
+-73-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+
+N
+
+
+Artificial nesting area
+
+
+Icy region
+
+
+Disembarkation point (present)
+
+
+Road (project)
+
+
+Disembarkation point (project)
+
+
+0                  100 m
+
+
+Fig.28 : map of the Petrels Island. Shaded regions correspond to colonies of Adelie Penguins. Stars and other symbols correspond to nesting areas of other species.
+
+-74-
+-75-
+Fig.29 : track and platform
+location selected as alternative
+to the original track (dotted
+lines).
+
+                                                                  Location of colonies
+
+Cape Prud'homme
+(unloading point)
+
+Chosen alternative
+
+Former track
+(abandoned)
+
+Coastal shelter/workshop
+(on caravane site)
+
+                  CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+
+ANNEX
+
+Report about the impact of the airstrip on the tracks of Emperor penguins at Pointe Géologie, Terre Adélie (in French, by Thierry Micol and Hervé Lormée, unpublished report, November 1993)
+
+-77-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION                                  ANNEX
+
+Impact de la piste d'aviation sur les voies de passage
+des Manchots empereurs à Pointe Géologie (Terre Adélie)
+
+Rapport fait par
+Thierry Micol' avec la collaboration de Herve Lormee2
+1IFRTP/TAAF
+2VAT ornitho-écologiste -TA 44
+
+Contexte historique
+
+Depuis les premières études sur les manchots empereurs à Pointe Géologie (Prevost,
+1961; Arnaud, 1964; Mougin, 1966; Bougaeff, 1972), on sait que leur site de reproduction se
+trouve dans la zone de l'archipel où la glace est le plus solidement ancrée : entre l'île Carrel, l'île
+Rostand et le Nunatak du Bon Docteur. Ces mêmes auteurs ont montré que l'arrivée sur cette
+aire préférentielle se faisait principalement par l'Est de l'Archipel, par la Baie des Gémeaux,
+entre l'île du Lion et les îles Buffon. Un état des glaces particulier (embâcle tardif ou icebergs
+bloquant le passage) pouvait toutefois les empêcher d'utiliser cette voie et ils passaient alors
+par l'Ouest de l'île des Pétrels (comme cela a été le cas, notamment en 1963 et 1964; Mougin,
+1966). Il y avait donc une voie préférentielle et des alternatives possibles en fonction des
+conditions annuelles de glace.
+
+Objectif
+
+La piste d'aviation, en créant une digue entre l'île du Lion et les îles Buffon, allait donc
+barrer leur voie d'accès préférentielle (cf carte 1a). Le problème a été posé de savoir si cela
+allait affecter leur comportement et donc le maintien de la colonie sur Pointe Géologie, déjà en
+baisse depuis quelques années (Thomas, 1986).
+
+Données d'observations
+
+Depuis 1984, les voies de passage des empereurs (arrivées et départs) sont relevées
+chaque année par les VAT ornitho-écologistes sous la responsabilité de P. Jouventin, directeur
+du Centre d'Etudes Biologiques de Chize (CNRS).
+
+Dès le commencement des travaux de construction de la piste (1989), il avait été
+constaté que les colonnes hésitaient quelques heures avant de franchir la piste. Dans le cadre
+des mesures compensatoires à la construction de la piste, nous avons fait aménager une partie
+de la digue pour en rendre le passage plus facile. Chaque année, deux zones en pente très
+douce (quelques %) sont aménagées sur les bords de la piste. De plus, afin de s'assurer que les
+manchots emprunteront effectivement ce passage, des leurres de manchots en plâtre peint (12)
+ont été disposés de part et d'autre de la piste à cet endroit
+
+—79—
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+1? passages Empereurs. T.Micol. 04/11/93
+
+Analyse des données
+
+Trois periodes ont été prises en compte pour l'analyse de l'impact de la piste sur les
+Manchots empereurs :
+1984-1988 : avant la construction de la piste qui barre le passage Lion-Buffon
+1989-1990 : pendant les travaux de construction de la digue reliant le Lion et Buffon
+1991-1993 : après la construction de la piste à sa hauteur finale (5 m)
+
+Tableau 1 : Evolution des passages empruntés par les manchots empereurs (en %) pour aller
+de la pleine mer à la colonie et vice-versa.
+
+                Voie d'accès / période      84-88   89-90   91-93
+Ouest           Chenal Ouest Pétrels       7       20      11
+                Chenal Lion               1       23      40
+                Lion-Buffon (piste)       72       -       -
+Est             Piste                     -       40      4
+                Bernard Buffon            0       9       37
+                Chenal Orques             21       9       8
+
+
+
+
+
+Evolution des passages de manchots empereurs (%)
+
+Il y a eu un changement dans les voies d'accès des manchots à la colonie. La voie Est,
+utilisée à 93% de 1984 à 1988 (comparable aux 95% en 1962 et 1970; d'après Bougaeff, 1972)
+a perdu de son intérêt avec seulement 49% de passage après l'achèvement de la piste (carte
+1c). Dans le même temps, la voie alternative par l'Ouest a connu une fréquentation accrue (8%
+et 51% respectivement en 1984-88 et 1991-93)
+
+-80-
+CONCORDIA PROJECT : COMPREHENSIVE ENVIRONMENTAL EVALUATION
+Passages Empereurs. T. Micol. 04/11/93
+
+La période 1989-90 correspond à la mise en place de la digue barrant le passage Lion-Buffon. Pendant cette période de transition, les animaux ont commencé à changer de passage, 43% d'entre eux utilisant l'Ouest de l'île des Pétrels. Il est à noter que 82% des individus continuant à arriver par la Baie des Gémeaux, traversaient la digue (cf carte 1b). A cette époque les individus s'arrêtaient de 1 heure à 5 jours avant de traverser cet obstacle. La création de pans inclinés ainsi que la pose de leurres avaient grandement facilité cette traversée. Celle-ci restait toutefois soumise à des conditions climatiques diverses. Ainsi, selon les années, le passage des manchots pouvait être empêché par les "rivières" à proximité de la piste ou par les bourrelets de glaces le long des remblais.
+
+Bilan préliminaire
+
+Bien qu'il soit encore trop tôt pour tirer des conclusions définitives (seulement 2 années depuis que la piste est réellement terminée), il est possible de conclure provisoirement :
+1) que la piste ne semble pas avoir un impact négatif sur la colonie de Manchots empereurs en les empêchant d'avoir accès à leur aire de reproduction, comme cela pouvait être craint,
+2) que depuis 1984, la taille de la population n'a pas varié significativement,
+3) que la création de pans inclinés et la pose de leurres sur ces passages a favorisé la traversée de la piste,
+4) que les Manchots empereurs ont modifié leurs voies d'accès à la colonie de reproduction en fonction de ce nouvel obstacle que constitue la piste. La rapidité de cette adaptation tient sans doute au fait que, déjà auparavant et bien qu'il existât une voie préférentielle, les manchots devaient modifier chaque année leur passage en fonction des conditions de glace non prévisibles (icebergs ou embâcle tardif nécessitant d'emprunter une voie nouvelle). La construction de la piste serait donc assimilable à une de ces variations imprévisibles. Il est probable que la situation évoluera encore jusqu'à ce qu'un nouveau tracé préférentiel soit définitivement mis en place pour l'accès à la colonie de reproduction
+
+Thierry Micol, CEBC, Beauvoir sur Niort, le 2 novembre 1993
+
+-81-
+OCÉAN INDIEN
+
+ANTARCTIQUE
+PÔLE SUD
+DÔME C
+TERRA NOVA BAY
+DUMONT-D'URVILLE
+
+TASMANIE
+HOBART
+
+AUSTRALIE
+
+Cover photograph : Traverse to the Dôme C. Alain Pierre / IFFTP

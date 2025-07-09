@@ -1,0 +1,55 @@
+﻿
+
+
+
+
+
+Systematic Conservation Plan for the Antarctic Peninsula Project Updates
+
+
+
+
+
+
+
+
+Systematic Conservation Plan for the Antarctic Peninsula Project Updates
+Information Paper Submitted by IAATO and SCAR
+
+Summary 
+The Scientific Committee on Antarctic Research and the International Association of Antarctica Tour Operators are undertaking a collaborative project to develop a systematic conservation plan for the Antarctic Peninsula, aimed at informing the Antarctic community on how best to concurrently manage biodiversity, science and tourism in the region, and contribute to the sustainable management of the IAATO activities into the future. The project commenced in 2018 and updates are summarised below.
+Introduction
+As human activity grows across the continent and as environmental change becomes more pronounced, it becomes increasingly pressing to determine how to best conserve Antarctica’s unique biodiversity and environments. The Antarctic Peninsula, home to much of the continent’s biodiversity, has a comparatively mild climate and close proximity to South America, making it the most visited region of Antarctica for both science and tourism. Improving the management of human activity in the region is a key priority for IAATO and many Antarctic Treaty Parties, where an integrated approach is required to facilitate management of multiple values and stakeholders, particularly where human activity is highly concentrated. SCAR and IAATO jointly proposed a collaborative project to develop an integrative, evidence-based approach to site management, incorporating all activities (science and tourism) and all known biodiversity features (such as breeding seabird colonies, vegetation, and invertebrates) (ATCM XL IP166). Systematic Conservation Planning (SCP) is a routine approach employed by conservation biologists to aid decision makers in managing whole landscapes involving multiple stakeholders and multiple objectives. SCAR, IAATO and project partners are utilising the SCP approach to develop a SCP for the Antarctic Peninsula that will deliver quantifiable, evidence-based solutions for the simultaneous management of tourism, science and biodiversity in the Antarctic Peninsula region. 
+Project Updates
+A post-doctoral researcher, Dr Jasmine Lee, has been appointed to the project and officially commenced work in April 2019 at Monash University in Melbourne, Australia. Prior to commencement, Dr Lee was invited on a familiarisation voyage to the Antarctic Peninsula with Hurtigruten, an IAATO member operator, to better understand Antarctic tourism and the requirements of the industry. Dr Lee also attended, as part of the SCAR contingent, an international workshop on Antarctic Tourism hosted by the Netherlands, the United Kingdom and IAATO from 3-5 April 2019 in Rotterdam, titled “Proactive Management of Antarctic Tourism: Time for a Fresh Approach”, where she was able to engage with stakeholders. Dr Lee also attended the IAATO Annual Meeting in Cape Town, South Africa, April 30 - 3 May, where she presented the SCP process to IAATO members.  
+
+A Coordination Group, consisting of SCAR and IAATO members, with observers from Monash University, has been formed to help oversee the project. The coordination group meets regularly and will continue to for the duration of the project.
+  
+Since dedicated work began on the project, a methodology has been identified using some of the latest and most advanced spatial planning tools available to conservation scientists. This includes defining the objectives of the project, the identification and collection of relevant data, identification of an appropriate conservation decision support software, and recognition of where stakeholder engagement is required. 
+
+SCP Objectives and Input Data
+Carefully defining the objectives and targets of the SCP is an important step in the process, and one which can be updated iteratively. Overall objectives will be defined for each stakeholder group (science, tourism, biodiversity) and targets defined for each individual feature (for example what percentage of colonies need to be protected for each breeding seabird species). Objectives and targets will be identified via engagement with all stakeholders. The process can be iterative, where they can be updated when new information becomes available.
+
+A large amount of high-quality data is required to support the SCP. Initially, these data will include biodiversity records, visitor landing sites, and research stations. Where there is uncertainty or knowledge gaps, namely environmental change, a variety of environmental data, such as layers of temperature and precipitation, can also be utilised to develop solutions under multiple scenarios. New data can also be incorporated into the SCP as it becomes available.
+
+Initial data collection has been ongoing over the past several months and is largely complete (see Figure 1). These data include:
+    •  all of the IAATO visitor landing data featuring explicit sites, number of visitors and number of landings (http://iaato.org/), 
+    • the most comprehensive database of terrestrial Antarctic biodiversity records yet compiled (SCAR biodiversity database), 
+    • locations of scientific research facilities from the Council of Managers of National Antarctic Programs (COMNAP; www.comnap.aq/), 
+    • a comprehensive database of Antarctic human activity has been developed by Monash University in partnership with other institutions (~2.7 million records) and will be made available for this project, 
+    • Environmental layers (such as elevation, temperature, etc) have been obtained and summarised into appropriate formats for this project.
+
+
+Decision Support Software
+Given the vast amount of spatially explicit information that goes into systematic conservation planning, decision support software is used to prioritise objectives, and the traditional software used for this purpose is Marxan and Zonation. Since their release, the spatial planning field has developed rapidly with many new tools available to inform systematic conservation planning. Many of these are available as packages for the open source, statistical computing environment known as R. Developed by leading conservation scientists at the University of Queensland, Prioritizr is one such package. After an extensive consultation with the developers about data, objectives and challenges of this project, Prioritizr was selected as the most appropriate software for building a SCP for the Antarctic Peninsula. 
+
+Prioritizr provides many advantages for the project. It is highly flexible, can handle multiple objectives (zones), scenarios, and constraints. Further details on Prioritizr can be found at: https://prioritizr.net/index.html. 
+
+
+Next Steps
+As the methods are being developed and the data is being finalised, the next step is to engage with stakeholders to define broad objectives for each stakeholder group (science, tourism, biodiversity) and begin to discuss targets and thresholds for different zones and features.
+
+To this end a Liaison Group is being formed for the project to provide advice, input and data to the SCP process. Expressions of interest for the liaison group were called for at the International Workshop on Antarctic Tourism in Rotterdam, the IAATO AGM in Cape Town and will be requested at the SCAR/CEP Protected Area workshop prior to the ATCM in Prague. Interested parties should contact the SCAR Secretariat via scp@scar.org stating their interest in the liaison group and indicating in what capacity they are representing their interest. The SCAR Secretariat will then respond after consultation with the Coordination Group. 
+
+Figure 1: Initial data collection for Antarctic Peninsula SCP: a) biodiversity records; b) Antarctic facilities; c) tourist landing sites, d) example of environmental data layer: mean annual solar radiation
+

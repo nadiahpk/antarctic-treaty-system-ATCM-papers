@@ -1,0 +1,83 @@
+﻿
+
+
+
+
+
+Report by the International Hydrographic Organization
+
+Status of Hydrographic Surveying and Charting 
+in Antarctic Waters
+
+
+
+
+
+
+
+
+
+
+Report by the International Hydrographic Organization
+
+Status of Hydrographic Surveying and Charting 
+in Antarctic Waters
+Introduction
+The International Hydrographic Organization (IHO) is an intergovernmental consultative and technical organization.  It comprises 81 Member States.  Each State is normally represented by its national Hydrographer.
+The IHO coordinates on a worldwide basis the setting of standards for hydrographic data and the provision of hydrographic services in support of safety of navigation and the protection and sustainable use of the marine environment.
+Importance of Hydrography in Antarctica
+No human activity can take place in, on or under the sea in a safe, sustainable and cost effective way without hydrographic information.
+Hydrography and hydrographic information is increasingly being recognised as a fundamental pre-requisite to the development of successful and environmentally sustainable human activities in the seas and oceans.  Unfortunately, there is little or no hydrographic information for a number of parts of the world, but especially in Antarctica.
+This should be a cause of particular concern to the ATCM.
+Status of Hydrography and Charting in Antarctica
+Over 90% of Antarctic waters are unsurveyed.  Large areas are uncharted and where charts do exist, they have limited utility because of the lack of reliable information.  The grounding of vessels operating outside previously navigated routes in Antarctica is not uncommon.
+Hydrographic surveying in Antarctic waters is expensive and problematic.  This is because of hostile and unpredictable sea conditions, short seasons for surveying and the very long logistic train involved in supporting ships and equipment.  There is no indication of any significant improvement in the level of hydrographic surveying being conducted in Antarctica.  Indeed, the national hydrographic authorities represented in the IHO report that government-sponsored surveying activity in Antarctica is decreasing because of financial pressures and competing priorities in home waters.
+IHO Hydrographic Commission on Antarctica
+The IHO Hydrographic Commission on Antarctica (HCA) is dedicated to improving the quality, coverage and availability of nautical charting and other hydrographic information and services covering the region.  The HCA comprises 23 IHO Members States (Argentina, Australia, Brazil, Chile, China, Ecuador, France, Germany, Greece, India, Italy, Japan, Republic of Korea, New Zealand, Norway, Peru, Russian Federation, South Africa, Spain, United Kingdom, Uruguay, USA, Venezuela), all of which have acceded to the Antarctic Treaty and are therefore also directly represented in the ATCM.
+The HCA works closely with stakeholder organizations to improve safety of navigation, ensure safety of life at sea, protect the marine environment and support other activities in Antarctica.  The following participate in HCA and its activities: ATS, COMNAP, IAATO, SCAR, IMO, IOC.
+The 12th meeting of the HCA took place in Uruguay in October 2012.  The HCA reviewed the progress of charting and surveying and updated its plans for the coordinated production of nautical charts and associated publications.  Notable conclusions from the meeting are described in the following paragraphs.
+Hydrographic Data Collection
+States represented in HCA report that the level of surveying in Antarctica is reducing because of financial constraints and priorities to survey in home waters.  In 2012, a number of States that regularly operate surveying vessels in southern waters in the summer reported that those vessels were not available.
+ATCM may wish to consider the serious shortfalls in hydrography and charting in Antarctica and its impact on all other activities being conducted there.
+Hydrographic Data Collection Using Ships of Opportunity
+The UK Hydrographic Office and several industry partners, have continued a demonstration programme to enable ships operating in Antarctic waters to collect hydrographic data automatically during their voyages.  The data is transmitted to the software/hardware partners; processed, cleaned and forwarded to the UKHO for review and then used to improve existing charts.
+This is described as “crowd-sourced bathymetry” and takes place predominantly around the Antarctic Peninsula where the majority of commercial vessels including cruise ships operate.  It is possible that this automatic collection of hydrographic data could be extended to collect other environmental data at the same time.  Issues of funding for the equipment required to be fitted to ships, data validation and reliability are still to be addressed.
+There are other commercial initiatives, particularly in the fishing sector, that are engaged in similar “crowd-sourced” data gathering activities.  Unfortunately, not all of the relevant data is being made available to improve nautical charts.
+Satellite Derived Bathymetry
+In clear water, it is possible to determine depth and other parameters in the water column down to about 20 metres by analysing imagery from multi-spectral satellite sensors.  France has been using this technique to improve charts for many years.  The IHO is encouraging further development of the technique which does not require significant ground infrastructure and is much less expensive than traditional surveying.
+Lidar Surveying from Aircraft
+In clear water, such as in Antarctica, it is possible to determine depth down to 70 metres or more using laser echo sounders mounted in light aircraft.  The technique is used in many parts of the world but not yet in Antarctica.
+Commercial Contract Support
+An increasing number of the world’s national Hydrographic Offices are using commercial contract support to supplement their own efforts.  Reliable contractors are available to collect hydrographic data on behalf of governments using ships or LIDAR.  Contractors are also available to assist in making the official charts issued under the authority of the relevant governments.
+Contract support for hydrographic surveying or chart production is almost non-existent for Antarctica.  A principal reason for this is that government priorities place charting of home waters first.  In addition, unlike for home waters, the obligation placed on States by Regulation 9 of Chapter V of the Convention for the Safety of Life at Sea (SOLAS) to provide charting and hydrographic services for their waters does not apply to Antarctica where no territorial claims are currently recognised.
+Continuing Requirement for Traditional Surveys
+Crowd-sourced bathymetry and satellite derived bathymetry cannot replace systematic, fully regulated surveys, but they can provide rapid improvements to existing charts and help to identify and prioritise those areas that require more comprehensive surveys.
+ATCM may wish to consider encouraging Member Governments to increase their level of support for surveying and charting in Antarctica including support for crowd-sourcing, the use of satellite derived bathymetry, and commercial contract support using ships and LIDAR.
+Hydrography Priorities Working Group
+The HCA Hydrography Priorities Working Group with input from COMNAP and IAATO maintains a long-term survey plan and a survey short list to reflect new survey requirements.  The survey requirements plan is based on identified maritime shipping routes - it does not consider other areas of Antarctica, where there is also little or no survey data but shipping movements are less frequent.
+The following paragraphs summarise key information available to the HCA.
+Status of Surveys in Antarctica
+Most Antarctic waters are unsurveyed.  Few systematic surveys have been conducted.  These are mostly centred on some of the Antarctic bases and around the Antarctic Peninsula.
+Status of Nautical Charts of Antarctica
+Paper Charts.    According to the IHO INT chart schema, the following States have compiled paper charts covering Antarctica: Argentina (5), Australia (11), Brazil (1), Chile (6), Ecuador (1) France (4), Germany (2), Italy (2), Japan (3), New Zealand (9), Norway (1), Russian Federation (14), South Africa (1), Spain (1), UK (10), USA (2).
+70 of an anticipated 108 charts in the schema have been published.
+Electronic Navigational Charts.   In accordance with recent revisions to the SOLAS Convention, passenger ships and many other ships engaged on international voyages are now being required to carry Electronic Chart Display and Information Systems (ECDIS) as their means for navigation.  ECDIS is replacing paper charts for navigation in these vessels.  Production of Electronic Navigational Charts (ENCs) for use in ECDIS is generally based on existing paper charts.  The production of Antarctic ENCs is severely hampered by the poor state of the paper charts and the production and financial priorities of those States that have volunteered to make the ENCs.  There is an urgent requirement for States to allocate sufficient resources to enable ENC production to be accelerated to provide at least the same level of coverage as for paper charts.
+So far, 70 ENCs have been published, including ten created in 2012.  A further 51 are planned for production in the next year.  About 170 ENCs will be required to correspond to the IHO paper chart schema.
+ATCM may wish to encourage States producing ENCs and paper charts to allocate appropriate resources to accelerate the production of paper charts and ENCs of Antarctica.
+IMO Polar Code
+The IHO is seeking to ensure that the shortcomings of hydrography and nautical charting services for Antarctica are properly highlighted in the Polar Code now in the latter stages of development and consideration by IMO.
+Review and Consolidation of Extant ATCM Recommendations and Resolutions Relating to Hydrography and Nautical Charting
+The HCA has reviewed the extant Recommendations and Resolutions relating to hydrography and nautical charting and concluded that the guidance contained in them would be clearer and better expressed in a single ATCM Recommendation.  A proposed revised text has been forwarded to the ICG on the review of ATCM Recommendations on Operational Matters.
+ATCM is invited to adopt the proposed Recommendation on hydrography and nautical charting developed by the HCA.
+Summary
+The state of hydrographic surveying and nautical charting of Antarctica is far from satisfactory.  This poses serious risks for maritime incidents as well as impeding the conduct of most activities taking place in the seas and oceans surrounding Antarctica.
+A number of IHO Member States, through their national Hydrographic Offices, are attempting to improve the situation.  However, resources are limited and there does not appear to be much prospect of significant improvement in the near future unless new policy action is taken by governments.
+The IHO, through its Hydrographic Commission on Antarctica, coordinates the work of States and organizations with interests in Antarctica in an attempt to maximize efforts and improve the situation.  Increased level of support from governments, industry and organisations is required if significant further progress is to be made.
+Recommendations
+It is recommended that ATCM:
+    • Takes note of this Report.
+    • Considers the serious shortfalls in hydrography and charting in Antarctica and its impact on all other activities being conducted there.
+    • Considers encouraging Member Governments to increase their level of support for surveying and charting of Antarctica either directly or through contracted activities.
+    • Encourages States producing paper charts and ENCs to allocate appropriate resources to accelerate the production of paper charts and ENCs of Antarctica.
+    • Adopts the proposed ATCM Recommendation on hydrography and nautical charting developed by the HCA.
+

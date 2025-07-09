@@ -1,0 +1,40 @@
+﻿
+
+
+
+
+
+Guidance on unmanned aerial system (UAS) use in Antarctica developed for applications to scientific studies on penguins and seals
+
+
+
+
+
+
+
+
+
+Guidance on unmanned aerial system (UAS) use in Antarctica from a scientific study on penguins and seals
+Information Paper submitted by the United States 
+Summary
+This paper discusses a scientific study on the use of unmanned aerial systems (UAS) in Antarctica for ecological research on penguins and seals. The study addresses a number of the potential environmental issues that were raised by parties at the ATCM XXXVII - CEP XVII meetings in Brasilia, and provides lessons learned and proposals for best practices for UAS use in Antarctica based on concrete experience.
+Introduction
+UAS are increasingly used as relatively inexpensive, remote sensing platforms for science. However, there are a number of environmental and safety concerns with the use of these platforms, and the remote, harsh, and pristine environment of Antarctica exacerbates the potential seriousness of impacts. Some of the potential environmental issues raised by Parties at ATCM XXXVII - CEP XVII, included the potential for harmful interference with birds and mammals caused by proximity and noise of the platforms, potential injury or death of birds and mammals caused by crashes or collisions, and potential damage to Antarctica’s wilderness and sensitive areas, including Antarctic Specially Protected Areas (ASPAs) and Historic Sites and Monuments (HSMs) (ATCM XXXVII WP 5 and 51, FR 1). The Meeting and Committee called for members to detail their experiences with UAS use in Antarctica to provide information for further discussion at the 2015 ATCM and CEP, with an eye towards creation of guidelines.
+Study Overview
+The field study was conducted at Cape Shirreff, Livingston Island, South Shetland Islands during January and February of 2011 and 2013. The goals of the project were to first, compare the effectiveness of several UAS in Antarctica by investigating their range and endurance, and then, using the most suitable system, try to address scientific questions and environmental concerns. This included taking pictures over penguin and seal colonies for ecological questions, and comparing results to on the ground surveys; monitoring wildlife response to presence and noise; and measuring in-flight UAS stability and performance.
+The project underwent a rigorous approval process prior to the field season, garnering flight clearances through the United States National Oceanic and Atmospheric Administration’s Office of Marine and Aviation Operations, and local airspace coordination with Chile and Argentina's air traffic control. Pilots completed multiple hours of intensive training prior to deployment to the field. 
+Guidance from the study
+Good pilot training prior to deployment makes for a successful and safe field season. Training back home should include (in order): (1) at least 4 hrs of flight time on a simulator of the specific type of aircraft planned for use in the field, (2) at least 8 hours flying a full-scale UAS indoors and outdoors, and (3) mock operational training flights with the specific UAS that will be used in the field and that is equipped with its intended payload(s), including in different weather conditions.
+
+Multi-rotor, battery powered, vertical take-off and landing (VTOL) aircraft are particularly good for use in harsh, remote Antarctic conditions. They are easily transportable, stable in flight even in relatively windy conditions, have limited launch area requirements and noise output as compared to fixed-wing and combustion engine aircraft, and multiple and lighter rotors increase the aircraft’s safety.
+
+Safety modifications such as pre-programming a return flight altitude, and colored landing skids can be made to off-the-shelf UAS systems to better tailor a UAS to a specific project’s needs.
+
+At the tested flight altitudes, penguins and seals showed no noticeable disturbance from the proximity or noise of the UAS (30-60m for penguins, >23m for seals). These flight altitudes were also sufficient for the intended science missions, including abundance counts of both seals and penguins, detection of fur seal pups camouflaged on rocks, and estimates of the lengths and widths of leopard seals, all of which were ground-truthed by more traditional methods. 
+
+We observed that visual contact on missions within a radius of < 1 km from the take-off location is advisable for small UAS like the one tested in the study.
+
+Since the attached paper was submitted for publication, its authors have conducted additional operations in Antarctica (at Cape Shirreff and also at a camp on King George Island).  This further experience suggests that flight teams should consist, at a minimum, of a dedicated pilot and one or more flight observers who navigate and track ancillary flight information.  Particular attention  should also be paid to maintain an altitude higher than the topography in immediate proximity to the survey colonies or areas. Any break in the line of sight between the UAS and the control unit will disrupt flight control.
+
+Final note
+The guidance provided by the attached paper is relatively narrow in scope and applies primarily to photographing aggregations of land-based animals from low elevation. The UAS used in the study, lessons learned, and possible best practices described herein are based on a platform that was purpose-built for a specific set of missions. Many of the operational advantages of the small, multi-rotor UAS used to photograph penguins and seals may not apply to other aerial survey work in Antarctica (which may require greater elevation, range, endurance, payload capacity, etc.).

@@ -1,0 +1,48 @@
+﻿º
+
+
+XXVI ATCM
+Information paper IP-
+Agenda item: ATCM 12
+Submitted by: SCAR
+Original: English
+
+
+Biological responses to temperature change in Antarctic marine systems
+
+A changing environment?
+The marine environment of the Southern Ocean is considered to be one of the most stable temperature regimes in the world and has been so for millions of years. One might therefore expect that the marine organisms in such an environment would be exceptionally sensitive to quite small changes in temperature.  There is no evidence so far of rising temperatures in the Southern Ocean south of the Polar Front, unlike in the terrestrial and freshwater environments in Antarctica .  This may be due, in part at least, to the lack of long-term environmental monitoring data from marine sites. Only two papers exist on long-term Antarctic marine environmental monitoring, including year-round temperature data.  Signy Island in the South Orkney Islands had a long marine record that ended in 1995, but the temperature record is only detailed enough to allow good analyses over about 15 years, and that is not enough to identify if winter minimum periods are getting shorter, or whether summer maxima are on average warmer by say 0.25°C.  There is simply not enough data to say whether sea temperatures have increased by a small amount over the last 30 years or so.  But what would happen if temperatures had changed and we had failed to measure this?
+
+What do we know about the animals?
+There are three main ways in which animals can respond to change.  They can change their distribution and move to new areas, adapt to the change locally using existing physiological flexibility, or they can evolve new traits.  
+
+1.	Changing distributions.
+There appear to be no data from marine sites showing changes in distribution of marine species over recent times in the Southern Ocean. There is another problem here in that although sampling in some areas has been good (the Ross Sea, Weddell Sea and Antarctic Peninsula), sampling elsewhere has been very poor (e.g. only two samples from the continental shelf from the Bellinngshausen & Amundsen seas, 80ºW to 150ºW, and no continental slope samples from this area; one continental slope and no deep sea samples from Prydz Bay, 65ºE to 80ºE, also poor sampling in Wilkes Land coast 80ºE to 170ºE. Present data are to poor to provide good distribution patterns and limits for the vast majority of species, and Antarctic marine diversity must therefore be markedly underestimated by current data. 
+What we do know is that the Southern Ocean forms about 8% of world oceans, accounts for about 11% of continental shelf (although continental shelf in Antarctica is much deeper than elsewhere – 400-500m instead of 200-250), and only 2% of coastline.  In relation to this some taxa are poorly represented (large decapods are absent, gastropod molluscs at <1% of the worlds total, isopods at 2.6% and bivalve molluscs at 5.5%),  whilst other groups are very strongly represented and are very diverse (pycnogonids at 17.5% of the world total, polychaetes at 12.2%, Holothuria at 9.3, Ascidians at 5.9-9.4% and bryozoa at 6.4-8.1%.  Another important point here is that levels of endemism (species restricted to the area) are very high in the Southern Ocean (e.g. 35% for scleractinian corals,  90% for pycnogonids , and 80% for amphipods), probably due to the long-term isolation of the ocean and unusual environmental conditions.  On many coasts covering considerable degrees of latitude animals can migrate to more acceptable temperatures. The Antarctic is unusual in that, being largely circular coastline covers the least degrees of latitude of any continent, limiting the opportunity for species to migrate.
+
+2.	Coping with change physiologically. 
+Antarctic marine species are very poor at coping with a changing environment, compared with species elsewhere.  Antarctic marine ectotherms are stenothermal, with most dying in experiments at temperatures between 6°C and 10°C.  The effect of raising temperature on these species is to raise metabolic rates.  This occurs progressively until the respiratory system can no longer provide enough oxygen and the animals die.  However, before this happens (and at a lower temperature) the animals reach a critical temperature where oxygen supply does not meet demand and tissues begin accumulating toxic end products of metabolism. This is termed the critical temperature that animals cannot sustain for extended periods, and marks a physiological upper limit. In the large infaunal bivalve Laternula elliptica the experimental upper temperature is 9-10°C and the critical temperature is 5-6°C. These measures are, however, not the important criteria for survival of change.  The important criteria are when physiological capacities have been reduced to the point where essential functions are compromised.  Data here are very limited at present, but Antarctic scallops lose the ability to swim between 0°C and 2°C (Bailey 2000), and the bivalve L. elliptica loses the ability to rebury itself between 3°C and 4°C. Thus a rise of only 2°C above current summer sea temps of 0-1°C would put these species and any similar ones immediately at risk.
+
+3.	Evolve new traits.
+Cold-blooded Antarctic marine species are characterised by slow development, slow growth and great age, with most species living 2-5 times as long as related or similar temperate species. With this comes delayed maturity, and examples are the brachiopod Liothyrella uva that does not start reproducing until over 20 years old, the Antarctic cod Notothenia coriiceps  that starts reproducing at around 9 years and the sea urchin S. neumayeri begins spawning at 12-13 years. Thus,  most Antarctic marine species will have markedly fewer generations to evolve new traits in a given period than similar temperate species.  They are simply less capable of evolving adaptations to new conditions which again must put them at risk in a changing world..
+
+Conclusions
+Overall cold-blooded Antarctic marine species appear to have less physiological capacity to deal with temperature change than related or ecologically similar species from elsewhere. They have restricted abilities to evolve new traits and the form of the continental margin also limits their abilities to respond to change.  Even a small warming of the Southern Ocean seems likely to initiate major changes in species survival.
+
+Lloyd Peck
+British Antarctic Survey
+High Cross, Madingley Road, Cambridge, CB3 0ET, United Kingdom
+Further Reading
+Arntz, W.E., Gutt, J. & Klages, M. (1997). Antarctic marine biodiversity: an overview. In Antarctic communities: species, structure and survival, B. Battaglia et al. eds. Cambridge, Cambridge University Press, 3-14.
+Clarke, A., Holmes, L.J. & White, M.G. (1988). The annual cycle of temperature, chlorophyll and major nutrients at Signy Island, South Orkney Islands, 1969-82.  British Antarctic Survey Bulletin, 80, 65-86.
+Clarke, A. & Leakey, R.J.G. (1996). The seasonal cylce of phytoplankton, macronutrients and the microbial community in a near shore Antarctic marine ecosystem. Limnology & Oceanography. 41, 1281-1294.
+Clarke, A. & Johnston, N. (in press). Antarctic marine benthic diversity.  Oceanography and Marine Biology Annual Review, 41.
+DeBroyer, C. & Jazdewski, K. (1996). Biodiversity of the Southern Ocean: towards a new synthesis for the amphipoda (Crustacea). Bolletino del museo Civico di Storia Naturale, 20, 547-568.
+Peck, L.S. (2002). Coping with change: stenothermy, physiological flexibility and environmental change in Antarctic seas. Proceedings of the 14th International Congress on Comparative Physiology,  www.liv.ac.uk/ciliate/climate/peck.html
+Peck, L.S. (2002). Ecophysiology of Antarctic marine ectotherms: limits to life. Polar Biology, 25, 31-40. 
+Peck, L.S. & Conway, L.Z. (2000). The myth of metabolic cold adaptation: oxygen consumption in stenothermal Antarctic bivalves.  In The Evolutionary Biology of the Bivalvia (eds. E.M. Harper, J.D. Taylor & J.A. Crame), pp. 441-445.  Geological Society, London, Special Publication.
+Peck, L.S., Pörtner, H.O. & Hardewig, I. (2002). Metabolic demand, oxygen supply, and critical temperatures in the Antarctic bivalve Laternula elliptica. Physiological & Biochemical Zoology, 75, 123-133. 
+Pörtner, H.O. (2002). Climate variations and the physiological basis of temperature-dependent biogeography: systematic to molecular hierarchies of thermal tolerance in animals. Comparative Biochemistry and Physiology, 132A, 739-761. 
+Pörtner, H.O., I. Hardewig, F.J. Sartorius, & P. van Dijk. 1998.  Energetic aspects of cold adaptation: critical temperatures in metabolic, ionic and acid base regulation? In, Cold Ocean Physiology (eds, H.O. Pörtner & R. Playle), Society for Experimental Biology Seminar Series, 66: 88-120, Cambridge, Cambridge University Press,. 
+Pörtner, H.O., P.L.M. van Dijk,  I. Hardewig, & A. Sommer.  2000.  Levels of metabolic cold adaptation: tradeoffs in eurythermal and stenothermal ectotherms..  In, Antarctic Ecosystems: models for wider ecological understanding (eds W. Davison & C. Howard-Williams). Christchurch, New Zealand, Caxton Press,.
+

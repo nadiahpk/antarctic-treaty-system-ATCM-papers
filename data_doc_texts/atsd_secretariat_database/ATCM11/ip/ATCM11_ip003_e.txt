@@ -1,0 +1,2360 @@
+TRATADO ANTARTICO
+XI REUNION CONSULTIVA
+
+TRAITE SUR L'ANTARCTIQUE
+XI REUNION CONSULTATIVE
+
+
+                        ANTARCTIC TREATY
+                        XI CONSULTATIVE MEETING
+
+                        ЛОГОВОР ОБ АНТАРКТИКЕ
+                        XI КОНСУЛЬТАТИВНОГО СОВЕЩАНИЯ
+
+BUENOS AIRES
+23 de Junio al 
+7 de Julio de 1981         ANTI/XI/INF/3
+                           Original: Spanish
+                           Date: June 29, 1981
+
+ITEM 8
+
+Presented by the Delegation of Chile
+
+IMPROVEMENT OF TELECOMMUNICATION SYSTEMS IN ANTARCTICA
+AND COLLECTION AND DISTRIBUTION OF METEOROLOGICAL DATA
+ANT/XI/INF/3
+
+IMPROVEMENT OF TELECOMMUNICATION SYSTEMS IN ANTARCTICA
+AND COLLECTION AND DISTRIBUTION OF METEOROLOGICAL DATA
+
+I.  A BRIEF ANALYSIS OF THE SUBJECT
+
+A. The meeting of the working group on Antarctica of the
+WMO held in Australia in 1966, recommended, inter alia,
+the establishment of Antarctic Regional Meteorological
+Centres.
+
+B. The Second Meeting of Antarctic Telecommunications
+Experts held in Buenos Aires in 1969, made provision
+for the necessary system of administrative, operational
+and scientific activities in Antarctica related to the
+collection and distribution of meteorological data.
+
+C. During the Third Meeting of Antarctic Telecommunications
+Experts held in Washington, D.C. in September 1978, the
+possibility was suggested of establishing bilateral
+contacts aimed at ensuring alternative routes to the
+plan proposed by the World Meteorological Organization
+and accepted by member countries in Recommendation VI-3.
+
+D. During the Tenth Antarctic Treaty Consultative Meeting
+held in Washington, D.C. in September 1979, and in
+accordance with Recommendation X-3, Chile was able to
+state that it has fully complied with the mandate of
+improving the collection and distribution of Antarctic
+meteorological data, and continues to do so.  This was
+clearly established at the meeting of the Group on
+Logistics, during the Sixteenth Meeting of SCAR held
+in Queenstown in October 1980.
+It should be noted that Recommendation X-3 refers to
+the fact that the item on meteorological telecommunications
+in Antarctica will be discussed by all member countries
+during the Twelfth Antarctic Treaty Consultative Meeting.
+
+II. RATIONALISATION OF LINKS
+
+A. Since 1966, the member countries of the Treaty, moved
+by the normal desire to obtain safe and effective links
+that would meet their own needs, have been developing
+systems and implementing measures aimed at providing
+a flow of telecommunications that would make possible
+the prompt exchange of administrative and meteorological
+data.
+ANT/XI/INF/3                                  - 2 -
+
+B. In spite of the legitimate and understandable nature of
+such action, it has caused countries participating in
+the  system to make great technical, scientific and
+economic efforts in this sphere, which, due to the
+lack of co-ordination, have led to:
+
+1. A duplication of efforts, resulting in the failure
+to optimise valuable resources.
+
+2. In-transit errors related to the origin of the
+information, and
+
+3. Saturation and lack of order in the transmission
+schedules and the use of available frequencies.
+
+III. EFFORTS MADE BY CHILE IN THE FIELD OF ANTARCTIC TELECOM-
+MUNICATIONS TO IMPROVE THE COLLECTION AND DISTRIBUTION
+OF METEOROLOGICAL DATA.
+
+A. Chile has implemented its system for perfect compliance
+with its 1966 commitment with the World Meteorological
+Organization, to establish, maintain and improve an
+Antarctic Regional Meteorological Centre.  To this end,
+it has worked on the following aspects in particular:
+
+    1. Telecommunication Systems
+
+        In order to improve direct links with the other
+Meteorological Centres, we have developed our systems
+as shown in the technical description given in Annex A.
+
+    2. Environmental data collection system using remote
+sensors and artificial satellites
+
+        a. Continuing with the programme for the installation
+of meteorological data collection platforms
+reported in the working document presented at the
+Tenth Consultative Meeting (ANT/X/122), our
+scientists are developing new techniques to improve
+the power sub-systems of these platforms and to
+adapt sensors that ensure their optimum operation
+in latitudes near the Pole, to be installed with
+the aid of aircraft.
+
+        b. Parts of this programme and traffic statistics
+received in Santiago from the platforms are
+explained briefly in Annex B.
+
+    3. Summary of Telecommunication Practices
+
+        Explanatory tables of links and hourly traffic observed
+at Antarctic Chilean bases are given in Annex C, in
+view of the need to disseminate national telecom-
+munication practices in the Antarctic and pursuant to
+the provision of Recommendation X-3.
+- 3 -                                 ANT/XI/INF/3
+
+ANNEX "A"
+
+TECHNICAL DESCRIPTION OF THE TELECOMMUNICATIONS EQUIPMENT
+AT THE PRESIDENTE FREI METECROLOGICAL CENTRE
+
+I.  During the 1979-1980 Antarctic season, Chile renewed the
+entire telecommunications equipment at the Presidente Frei
+Regional Meteorological Centre.
+The system entered into operation at the end of April 1980.
+
+II. The new equipment is described as follows:
+
+A. Principal Technical Characteristics
+
+The system is devided into two parts or installation
+areas, as follows:
+
+    1. Location of transmitters:
+
+Located approximately four kilometres to the south-
+east of the Meteorological Centre on Ardley Island.
+Comprises two modules of transmitters and one module
+of generating sets.
+Both modules of transmitters are connected to each
+other and have the following equipment and functions:
+
+    - Three 10 kW transmitters with a range of 2.0 to
+      30 mHz, a four-antenae interconnection system
+      and a ghost load through a 5 x 7 matrix channel.
+
+    - Two 1 kW transmitters with a range of 1.6 to
+      30 mHz, with a two broadband diple antenna
+      interconnection system and ghost load.
+
+    - One matrix system with a control/status panel to
+      permit connection between transmitters, antennae
+      and ghost adjustement load.
+
+    - The transmitter yard employs a total of eight
+      antennae, six for broadcasting traffic and two
+      for Radio Relay Link, the latter of the Yagi
+      12-element type.
+
+    - A remote control system for transmitters, which
+      makes it possible to control all transmitter
+      command operations from the Centre: i.e., change
+      of frequencies, modes, output levels for 5 kW,
+      antennae, etc.
+      This control and monitoring of alarm circuits is
+      based on a remote control method and is sent
+      through a UHF system (Radio Relay Link) that
+      operates between 390 and 470 mHz, occupying a total
+      of nine channels.
+ANT/XI/INF/3                                 - 4 -
+
+The third module is of generating sets and provides
+the electric power for all the transmitter
+installations. It is formed by two generators
+powered by diesel engines, water cooled, and
+designed for continuus operation.
+It has a programmed automatic change system.
+It also has several electronic systems that control
+its performance and operational parameters. Any
+anomaly in one of them will cause the system to stop
+it and to make the other work in its stead, while
+sending through the Radio Relay Link the corresponding
+warning signals to the Centre, which has luminous
+dials and an audible alarm in the event of a failure.
+The diesel engines are fed from four rubber tanks
+with a total capacity of 200,000 lts. of oil.
+
+2. Location of Receivers
+
+They are located in the Centre itself, and composed of
+two modules joined together, with the following equipment
+and functions:
+
+a. SSB Operational Module
+
+It is composed of:
+- Three SSB operator posts designated with numbers
+1, 2, and 3.
+
+- One post of operator for auxiliary receiver,
+designated post N o 6.
+
+- Four teleprinters.
+
+- One automatic voltage regulator.
+
+Equipment per Operator
+
+- One HF preselector
+- One F8K Keyer/Demodulator
+- One HF Receiver
+- One Operation Control Unit
+
+The receiver is entirely solid state and of the
+synthetized type with a tuning range of 15 kHz to
+30 mHz. It possesses a non-volatile type of memory
+that can be programmed up to 31 pre-established
+frequencies.
+- 5 -                                   ANT/XI/INF/3
+
+The teleprinters are entirely electronically operated 
+in the TX/RX Modes and are equipped with puncher and 
+tape reader.
+
+The automatic voltage regulator stebilizes the AC 
+voltage for the 230 volts and 50 Hz systems.
+
+b. ISB Operational Module
+
+    It is composed of:
+    - Two ISB operator posts, designated with numbers 
+      4 and 5.
+    - One remote transmitter control cabinet.
+    - Two facsimile chart transmitters.
+    - Two facsimile chart recorders.
+    - One radio relay system.
+    - One power sub-panel.
+    - One Patch antenna panel.
+    - One trolley truck with maintenance equipment.
+
+    Equipment per Operator
+    . One pre-selector
+    . One STB 750 type ARQ T.O.R. unit
+    . One HF receiver
+    . One ISB MA1039B operator control unit
+
+    The facsimile transmitters use the standards recommended 
+by the WMO and their operation is automatic, with up 
+to four speeds of 60, 90, 120 and 240 r.p.m.
+
+c. Radio Relay System
+
+    It affects the radio-electric link between the 
+transmitting and receiving modules.
+
+d. Antennae: formed by:
+
+    Three receiving Sloping "V" type antennae.
+    Two dipole type receiving antennae.
+    Two RX/TX Yagi type antennae for UHF link.
+- 7 -                                  ANT/XI/INF/3
+
+ANNEX "B"
+
+AUTOMATIC ENVIRONMENTAL DATA COLLECTION
+VIA SATELLITE IN ANTARCTICA
+
+A. Satellite data collection systems
+
+There are three sub-systems, namely:
+
+1. A series of automatic remote sensing stations, normally
+installed in isolated places, equipped with the necessary
+environmental sensors (meteorologic, hydrographic,
+vulcanological, etc.) and with a six-to-twelve month
+(or longer) operating range. Each station, referred to as
+Data Collection Platform (DCP), is scheduled for the most
+suitable reading and transmission intervals depending on
+the kind of data to be collected.
+
+2. A satellite, which receives the information transmitted by
+the Data Collection Platforms and retransmits it to earth.
+The satellite orbit is fundamental to define the intervals
+of reading and transmission of environmental data. A polar
+orbit satellite can retransmit data from almost any part
+of the planet, but normally does so every 12 hours. A geo-
+stationary orbit satellite cannot transmit data from DCPs
+situated beyond 80o N or S latitude and only from the
+section of the planet (1/3 approximately) over which it
+is positioned; however, due to the fact that it is always
+"visible", retransmission of data can take place almost
+at any time.
+
+3. A receiving station, which receives data retransmitted
+by the satellite,and then processes and distributes them
+among the interested agencies or institutions (via telex,
+telephone, post, etc.). In this way, valuable environmental
+data can be collected from isolated points automatically,
+periodically and almost instantaneously at a relatively
+low cost.
+
+B. Chilean Situation
+
+Experiments were commenced with a pilot network consisting of
+4 automatic remote sensing stations (DCPs), at present
+located at:
+
+a. Meteorological Field of "Presidente Frei" Antarctic
+Meteorological Centre and King George Island (since 1978);
+
+b. King George Island, about 5 kms from "MARSH" Station,
+Collins Glacier area (since 1979);
+
+c. Meteorological Field of "Bernardo O'Higgins" Base
+(since 1978);
+ANT/XI/INF/3         - 8 -
+
+d. Duse Bay, Weddell Sea Coast (since 1979). The data are 
+collected via satellite ("LANDSAT" and "GOES") and are related 
+to meteorological parameters, such as: speed and direction 
+of the wind, air humidity and temperature, solar radiation 
+and atmospheric pressure. For further particulars, see the 
+documents issued by the Meeting of Experts on Antarctic 
+Telecommunications (Doc. N° 7, Washington, D.C. 1978) and 
+those of the Tenth Antarctic Treaty Consultative Meeting 
+(ANT/X/12 and ANT/X/16).
+
+C. Main Results Achieved
+
+The experiments carried out over the last three years lead 
+to the following conclusions:
+
+1. The satellite telecommunication link from Antarctica to 
+the South American Continent (reception at NASA station 
+in the vicinity of Santiago) has proved satisfactory. 
+A variety of data reading and transmission intervals 
+have been tried out with high efficiency rates (number 
+of messages received/number of messages transmitted being 
+attained in all cases. In the case of operations with the 
+"LANDSAT" satellite, from one to twelve messages every 
+twelve hours were transmitted with efficiency ratios of 
+the order of 80% and higher. In regard to the "GOES" 
+satellite, readings of environmental data have been made 
+at intervals ranging from 15 minutes to 3 hours (that is, 
+with 4 to 48 messages transmitted every 12 hours, with 
+efficiency ratios of the order of 85% and higher.
+
+2. In the case of instantaneous reception of data for 
+meteorological purposes, the "GOES" satellite is more 
+suitable as it can retransmit information practically 
+at any time (normally data readings are accumulated and 
+retransmitted every 3 hours, although this interval may be 
+reduced on the basis of a previous agreement with US.NOAA). 
+The "LANDSAT" satellite, however, can only retransmit 
+accumulated data every 12 hours.
+
+3. The electronic equipment used (environmental sensors, 
+transmitters, etc.) have operated under the severe 
+Antarctic environment conditions.
+
+Nevertheless, two principal kinds of problems have arisen:
+
+    a. In some cases, the sensors used initially have proved to 
+be too weak for Antarctic conditions and suffered 
+considerable damage. The problem was solved by the use 
+of more resistant sensors and the introduction of a more 
+suitable prevention maintenance routine.
+- 9 -                 ANT/XI/INF/3
+
+b. The meteorological information received has not always 
+been the best. In some cases there are wide 
+discrepancies between the readings, as measured by 
+certain sensors, and what actual conditions should be. 
+This problem arises from two main causes; faulty 
+calibration of the sensors and/or deficient power 
+supply, since in order to reduce power consumption the 
+sensors used to be energized just a few seconds before 
+the reading in circumstances requiring several minutes 
+for the sensors to become stabilized and thus able 
+to deliver a reliable signal.
+
+4. With a view to solving the problem posed in some cases 
+by the unreliability of meteorological data, the School 
+of Physical and Mathematical Sciences of the University 
+of Chile is developing a complet power supply system that 
+uses solar and wind energy, the working of which is to 
+be controlled by microprocessors. This will make it 
+possible automatically to clear from the wind generator 
+any obstructions resulting from freezing conditions, 
+to melt the frost accumulated on solar panels, to control 
+the operation of environmental sensors, to discontinue 
+transmissions for a few days until exhausted batteries 
+are recharged, etc.
+
+In addition, these meteorological stations will be 
+equipped with a beacon system (including luminous, sonic 
+and microwave devices) to assist land transportation and 
+maritime and air navigation, to be controlled at will 
+from a distance. Moreover, this power supply system will 
+assure internal operation of these stations the whole 
+year round.
+
+5. The assembly and anchoring system used for these 
+meteorological stations has proved adequate. Until now 
+use has been made of rocky monticules ("nunatak"), but 
+stations for glaciers, to be tested shortly, have also 
+been designed. These stations are assembled like meccanos 
+on site, so that they are easily transported and can be 
+operating a few hours later.
+
+D. Future Projections
+
+Considering the results obtained, it is intended to supplement 
+the measurement system with mobile stations, adrift on the 
+ocean or mounted on icebergs. For such cases, the satellite 
+"TIROS-N" or "NIMBUS" will be used. Once the problem of 
+permanent and reliable flow of environmental information 
+has been solved, the system (considering oceanographic, 
+vulcanologic, glaciologic, ecologic, as well as meteorologic 
+variables) will be extended to the greater part of Antarctica, 
+as shown in Figure 1, and it will be possible to feed these 
+data into the World Meteorological Network.
+ANT/XI/INF/3                                  - 10 -
+
+Although it is true that the system is currently being
+evaluated, an extension to very distant areas in Antarctica
+was regarded as difficult.
+
+The problem no longer exists as, with the contribution of
+the Chilean Antarctic Institute (INACH) and the inauguration
+of the landing strip on King George Island, it will be
+possible to make scientific expeditions throughout the
+whole of the Antarctic continent. Furthermore, the excellent
+telecommunications link between the Frei Antarctic Meteorolo-
+gical Centre and Santiago will make it possible to distribute
+these data rapidly and reliably to the other centres for
+use.
+
+This environmental information will be a valuable contributic
+to the vast scientific programmes that Chile is implementing,
+where air support is of fundamental importance.
+A N E X O  "C"
+
+" PRACTICA DE TELECOMUNICACIONES NACIONALES   
+        EN LA ANTARTICA"
+
+A. INFORMACION DE EQUIPOS Y HORARIOS DE TELECOMUNICACIONES PARA EL AÑO 1981-82
+
+PAIS  :  CHILE                                 DIRECCION POSTAL:  Ministerio de Relaciones Exteriores.
+         Instituto Antártico Chileno = Luis Thayer Ojeda 814
+                                           Santiago - Chile.
+
+ESTACION  :  CENTRO METEOROLOGICO ANTARTICO "PRESIDENTE FREI" -
+             Latitud 62° 12' S - Longitud 58° 55' W.
+
+DISTINTIVO DE LLAMADA  :  CAN 6D
+
+
+                              DETALLE DEL CIRCUITO
+
+Estacion           |Horario     |Frecuencia         |Tipo de    |Tipo de     |Simplex   |Observ.   
+Corresponsal       |Trabajo     |                   |emisión    |tráfico     |Duplex    |         
+--------------------------------------------------------------------------------------------------------------------------------------------
+Washington         |00:00       |18.904.0 KHz       |F1         |-Meteo-     |          |Potencia  
+Pudahuel-Stgo.     |00:30       |8.206.0 KHz        |F4         |rolog.      |Dx        |10 KW H.  
+                   |02:00       |11.660.0 KHz       |A3A-       |-Cientí-    |          |Los ho-   
+                   |03:00       |                   |A3J        |fico.       |          |rarios    
+                   |03:30       |                   |           |-Admi-      |          |son GMT   
+                   |06:00       |                   |           |nistra-     |          |         
+                   |06:30       |                   |           |tivo.       |          |         
+                   |09:00       |                   |           |           |          |         
+                   |09:30       |                   |           |           |          |         
+                   |12:00       |                   |           |           |          |         
+                   |12:30       |                   |           |           |          |         
+                   |14:00       |                   |           |           |          |         
+                   |14:30       |                   |           |           |          |         
+                   |15:00       |                   |           |           |          |         
+                   |15:30       |                   |           |           |          |         
+                   |18:00       |                   |           |           |          |         
+                   |18:30       |                   |           |           |          |         
+                   |21:00       |                   |           |           |          |         
+                   |21:30       |                   |           |           |          |         
+                   |22:00       |                   |           |           |          |         
+--------------------------------------------------------------------------------------------------------------------------------------------
+Península          |00:30       |3.210   KHz        |F1         |CQ Meteo-   |          |         
+Antártica          |02:00       |3.224   KHz        |F4         |rológico    |Sx        |         
+                   |03:30       |6.895   KHz        |A3A-       |y Direc.    |          |         
+                   |06:30       |                   |A3J-       |a bases     |          |         
+                   |09:30       |                   |           |chilenas    |          |         
+                   |12:30       |                   |           |y argen-    |          |         
+                   |14:00       |                   |           |tinas.      |          |         
+                   |14:30       |                   |           |           |          |         
+                   |15:30       |                   |           |           |          |         
+                   |18:30       |                   |           |           |          |         
+                   |21:30       |                   |           |           |          |         
+                   |22:00       |                   |           |           |          |         
+--------------------------------------------------------------------------------------------------------------------------------------------
+NC-Murdo           |14:30       |5.302.0 KHz        |F1         |Análisis    |          |Antártica.  
+Molo-Dezhnaya      |15:30       |11.662.5 KHz       |F4         |de Super-   |Sx        |Superficie. 
+                   |21:30       |15.470.0 KHz       |           |ficie y     
+                   |22:00       |18.904   KHz       |           |altura.     
+                              |20.106   KHz       |           |Pronósti-     
+                              |22.763   KHz       |           |co paso     
+                                                     |Dizke y     
+                                                     |Península   
+                                                     |Cartas de   
+
+PAIS : CHILE.                  DIRECCION POSTAL: MINISTERIO DE RELACIONES EXTERIORES
+                               INSTITUTO ANTARTICO CHILENO : LUIS THAYER OJEDA N°814, SANTIAGO DE CHILE.
+ESTACION : CENTRO METEOROLOGICO ANTARTICO "PRESIDENTE FREI" - Latitud 62°12' S. Longitud 58°55' W.
+DISTINTIVO DE LLAMADA : CAN 6D.
+
+                                 TRANSMISORES                                         |                      RECEPTORES                      |            OBSERVACIONES
+                                                                                     |                                                        |            
+ TIPO              | FRECUENCIA  | TIPO DE TRANS.Y  | SELEC.DE         | TIPO         | BANDA DE         | MODO DE      | SELEC.         |                  
+                   |             | POTENCIA.        | FRECUEENC.       |              | FREC.            | RECEP.       | DE FREC.       |                  
+                                                                                     |                                                        |            
+RACAL             | 2-30Mhz     | A3A              | Unidad           | RACAL        | 15 KHz-          | A1-A2-       | Sintetiz.      |                  
+TA-1800           |             | A3J              | Sintetiz.        | RA-1779      | 30 MHz           | A-3-A3A      | 15 cana-       |                  
+(3)                |             | F 1              | Racal            | (6)          |                  | A3J-A3H      | les pro-       |                  
+                   |             | F 4              | MA-1720          |              |                  |              | gramados       |                  
+                   |             | 10 KW            |                  |              |                  |              |                |                  
+                                                                                     |                                                        |            
+RACAL             | 1,6-        | A1               | Unidad           | COLLINS      | 1,5 -            | A1- A-2      | VFO            |                  
+TTA-1860           | 30 MHz.     | A3J              | Sintetiz.        | (3)          | 30 MHz.          | A3A-A3J      |                |                  
+(2)                |             | F1               | Racal            |              |                  |              |                |                  
+                   |             | 1 KW             | MA-1720          |              |                  |              |                |                  
+                                                                                     |                                                        |            
+KWM-2A             | 3-30 MHz    | A3A              | VFO              | KWM-2A       | 3-30 MHz         | A3A          | VFO            | Transceptores  Comunicados familiares.
+30L-1              |             | A3J              |                  | (3)          |                  | A3J          |                |                  
+(3)                |             | A1               |                  |              |                  | A1           |                |                  
+                   |             | 1 KW             |                  |              |                  |              |                |                  
+                                                                                     |                                                        |            
+SKY-515            | 117,0 a     | A3               | Cristal          | SKY-515      | 117,0 a          | A3           | Cristal        | Control Aire-tierra
+(2)                | 136,0MHz    | 5W               |                  |              | 136,0 MHz        |              |                |                  
+                                                                                     |                                                        |            
+RADIOFARO          | 254 KHz     | A2               | Cristal          |              |                  |              |                |                  
+NDB                 |             | I.RJ             | 1.KWH            |              |                  |              |                |                  
+(1)                |             |                  |                  |              |                  |              |                |                  
+                                                                                     |                                                        |            
+T.VOR/DME          | 113.3 MHz   | VHF/AM           | Cristal          |              |                  |              |                |                  
+                   |             |                  | 100 Watts        |              |                  |              |                |                  
+                                                                                     |                                                        |            
+                   |             |                  |                  |              |                  |              |                |                  
+PAIS : CHILE          DIRECCION POSTAL: Ministerio de Relaciones Exteriores.
+                      Instituto Antártico Chileno = Luis Thayer Ojeda 814 - Santiago - Chile
+ESTACION:             CENTRO METEOROLOGICO ANTARTICO "PRESIDENTE FREI" - Latitud 62°12'S - Longitud 58°55'W.
+DISTINTIVO DE LLAMADA: CAN 6D
+
+|   ANTENA    |        AZIMUTH       |      F A C S I M I L      |      TELEIMPRESOR      | OBSERVACIONES |
+|             | Norte                |                           |                        |               |
+|    TIPO     | Verdadero            | INDICE DE                 | TIPO                   | VELOCIDAD     |
+|             |                      | COOPERACION               |                        | DE BAUDIOS    |
+|-------------|----------------------|---------------------------|------------------------|---------------|
+| ACAL        | 195Ω                 | Tipo                      | SAGEM                  | 50-75-100     |
+| H-830 L-T   | Receptora            | Miurhead                  | Tx - 20                | baudios       |
+| ireccional  | Transmisora          | K-150 TR4                 | (6)                    |               |
+| (2)         |                      | K-649 TR4                 |                        | -Se transmite  |
+|             |                      | 576 y 288                 |                        | RTTY en 50    |
+|             |                      | (4)                       |                        | baudios       |
+|             |                      |                           |                        |               |
+|             |                      | 60                        |                        | -Se transmiten |
+|             |                      | 90                        |                        | en forma direc|
+|             |                      | 120                       |                        | cionada cartas|
+|             |                      | 240                       |                        | meteorológicas|
+|             |                      | rev/min.                  |                        | de toda la pe-|
+|             |                      |                           |                        | nínsula en fac|
+|             |                      |                           |                        | simil y teleí|
+|             |                      |                           |                        | po.           |
+|-------------|----------------------|---------------------------|------------------------|---------------|
+| H-830L-T    | 145Ω                 |                           |                        |               |
+| ireccio-    | Receptora            |                           |                        |               |
+| nal (2)     | Transmisora          |                           |                        |               |
+|-------------|----------------------|---------------------------|------------------------|---------------|
+| H-830L-T    | 340Ω                 |                           |                        | -Se emiten C.Q.|
+| ireccio-    | Receptora            |                           |                        | Meteorológicos|
+| nal (2)     | Transmisora          |                           |                        | tri-horarios a|
+|             |                      |                           |                        | toda la península|
+|             |                      |                           |                        | la con RTTY con|
+|             |                      |                           |                        | antena omnidirec-|
+|             |                      |                           |                        | cional.       |
+|-------------|----------------------|---------------------------|------------------------|---------------|
+| P-312L-T    |                      |                           |                        |               |
+| (3)         | Omnidirec-           |                           |                        |               |
+|             | cional.              |                           |                        |               |
+|-------------|----------------------|---------------------------|------------------------|---------------|
+| ombica      | 340Ω                 |                           |                        |               |
+| (2)         |                      |                           |                        |               |
+|             |                      |                           |                        |               |
+B.- BASE PRAT.
+
+PAIS : CHILE DIRECCION POSTAL : MINISTERIO DE RELACIONES EXTERIORES
+INSTITUTO ANTARTICO CHILENO : LUIS THAYER OJEDA N° 814, SANTIAGO
+DE CHILE.
+
+ESTACION : BASE NAVAL ARTURO PRAT - Latitud 62° 31' Sur Longitud 59° 41' Weste.
+
+DISTINTIVO DE LLAMADA : CAD 7P.
+
+DETALLE DEL CIRCUITO
+
+ESTACION CORRESPONSAL  HORARIO TRABAJO     FRECUENCIA  TIPO DE    TIPO DE    SIMPLEX O DUPLEX  OBSERVACIONES
+                                         EMISION    TRAFICO
+
+Centro Meteo.FREI.     02:55              3210       A 3 A     Meteo.     SX
+                       05:55              3225                 
+
+                       08:55                                   
+                       11:55                                   
+                       14:55                                   
+                       17:55                                   
+                       20:55                                   
+                       23:55                                   
+
+Magallanes            03:00               ?         A 3 A     Meteo.     SX
+                       09:00                           Mareas     
+                       12:00                                   
+                       15:00                                   
+                       18:00                                   
+
+Santiago               09:00               ?         A 3 A     Administrat.  SX
+                       14:00                           y Familiar.  
+
+                                                                               El horario es flexible
+                                                                               según requerimiento.
+PAIS: CHILE.                  DIRECCION POSTAL: MINISTERIO DE RELACIONES EXTERIORES.
+                              INSTITUTO ANTARTICO CHILENO : LUIS THAYER OJEDA N°814, SANTIAGO 
+ESTACION BASE NAVAL "ARTURO PRAT".  Latitud 62°31' S.    Longitud 59°41 W.
+DISTINTIVO DE LLAMADA: CAD-7P.
+
+                              TRANSMISORES                                 RECEPTORES                                      
+                                                                               TIPO         BAND.         MODO DE        SELEC.       
+TIPO         FRECUENCIA       TIPO DE TRANS.                                   DE         DE FREC.      RECEP.         DE FREC.     OBSERVACIONES
+             FRECUENCIA       Y POTENCIA.                                          
+---------------------------------------------------------------------------------------------
+GP7-750      2,0 a            A1-A2-A3A                                        Siemens     10 KHz-        A1-A2          VFO          
+TM-1         32 MHz           750 Watts                                        Funk-74     30 MHz                       
+(3)                              RE-141                                                                                   
+---------------------------------------------------------------------------------------------
+ESTINE       3-30 MHz         300 Watts                                        Siemens     1.5-30MHz     A1-A2          VFO          
+TDE-2                                                                             REL-445                                          
+M-34         (1)                                                              RE-143                                           
+(1)                                                                              (1)                                              
+---------------------------------------------------------------------------------------------
+RANSCEPTOR   1,5-15 MHz        A2H                                             
+CS-TR-3      40 Watts.                                                                                                      
+(1)                                                                                                                      
+---------------------------------------------------------------------------------------------
+RANSCEPTOR   47-56,9 MHz      VHF/AM                                                                                  
+T-PP-11      800 mWtt                                                                                   
+(2)11                                                                                                                    
+---------------------------------------------------------------------------------------------
+RANSCEPTOR   26-749   MHz     VHF/AM                                           
+T PP-13      1,5 Watts                                                                                    
+---------------------------------------------------------------------------------------------
+PAIS :  CHILE  DIRECCION POSTAL  :  MINISTERIO DE RELACIONES EXTERIORES
+                          INSTITUTO ANTARTICO CHILENO :  LUIS THAYER OJEDA N° 814,  SANTIAGO
+                          DE CHILE.
+
+ESTACION BASE DEL EJERCITO  BERNARDO O'HIGGINS  :  LATITUD 63° 19' SUR.  LONGITUD 57° 54' Weste.
+
+DISTINTIVO DE LLAMADA  :  CAT-2U.
+
+STACION CORRESPONSAL  HORARIO TRABAJO  FRECUENCIA  TIPO DE      TIPO DE      SIMPLEX O    OBSERVACION
+                                         EMISION     TRAFICO      DUPLEX
+
+entro Meteo. FREI  02:55              3210        A 3 A       Meteo.       SX
+                   05:55              3225        A 3 j                
+                   08:55                          A 1                
+                   11:55                                        
+                   14:55                                        
+                   17:55                                        
+                   20:55                                        
+                   23:55                                        
+
+antiago            09:00              ?           A 3 A       Administ.    SX
+                   14:00                          ?           y Familiar   
+                                                              Radioafic.
+PAIS :   CHILE   DIRECCION POSTAL  :   MINISTERIO DE RELACIONES EXTERIORES 
+                                 INSTITUTO ANTARTICO CHILENO : LUIS THAYER OJEDA N° 814, 
+SANTIAGO DE CHILE                                  
+
+ESTACION: BASE DEL EJERCITO BERNARDO O'HIGGINS : LATITUD 63° 19' Sur   LONGITUD 57° 54' Weste.
+DISTINTIVO LLAMADA :   CAT-2U.
+
+ 
+TIPO                  | FRECUENCIA        | TIPO DE TRANSMISION   | TIPO              | BAND. DE          | MODO DE          | SELECCION DE   | OBSERVACIONES 
+                      |                   | Y POTENCIA            |                   | FRECUENCIA        | FRECUENCIA       | FRECUENCIA     |               
+Transceptor           | 1,6 a 30          | CW-SSB y AM           | Transceptor       | 1,6-30 MHz        | CW-SSB y         | VFO            | 
+SUNAIR GSP-900        | MHz               |                       | SUNAIR GSP-900    |                   | AM               |                | 
+
+
+
+
+
+
+ 
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+ANT/XI/INF/3
+
+APPENDIX "a" TO ANNEX C
+
+TYPE OF DATA PROCESSED AT THE "PRESIDENTE FREI"
+ANTARCTIC METEOROLOGICAL CENTRE (June 1, 1981)
+
+I.  BROADCASTING OF INFORMATION
+
+    A. TO WASHINGTON, VIA SANTIAGO ("A.MERINO BENITEZ" AIRPORT)
+
+        1. Surface synoptic data from:
+            a. Chilean and Argentine Bases in Antarctica,
+               three-hourly, at 20:00 hours
+            b. Main synoptic observations from ARCTOWSKI,
+               every six hours, at 20:00 hours
+               - Circular from GRITVIKEN, at 20:40 hours
+
+        2. Forecasts:
+            a. Route: Diego Ramirez-Eduardo Frei, at 12:15 GMT
+            b. Antarctic Region at 14:30 and 22:00 GMT
+
+        3. Coded surface analysis at 15:30 and 21:30 GMT.
+
+        4. Facsimile transmission.
+            a. Surface charts of 00:00 and 12:00 at 15:30 GMT
+            b. Surface charts of 18:00 at 21:00 GMT
+
+    B. ANTARCTIC REGIONAL BROADCASTS
+
+        1. Three-hourly surface synoptic data at 20:30 of the
+           respective synoptic time.
+
+        2. Altitude data from the Antarctic Region, as it
+           becomes available, is included in the nearest
+           three-hourly circular.
+
+        3. Forecasts for the Drake Passage area, Bellingshausen
+           Sea, Weddell Sea and the Antarctic Peninsula, at
+           14:30 and 22:00 GMT.
+
+        4. Coded surface analysis, at 15:30 and 21:30 GMT.
+
+        5. Facsimile transmission.
+            a. Surface chart of 00:00 and 12:00, at 15:30 GMT
+            b. Surface chart of 18:00 at 21:30 GMT
+ANT/XI/INF/3
+
+II. POINT TO POINT LINKS WITH ANTARCTIC STATIONS
+
+A. Chilean Bases "PRAT" and "O'HIGGINS". Three-hourly, by radio.
+
+B. Argentine Bases "MARAMBIO", "ORCADAS", "URUGUAY", 
+"BROWN", "BELGRANO II", "BELGRANO III", "SAN MARTIN", 
+"PRIMAVERA", "ESPERANZA". Three-hourly, by radio.
+
+C. Polish Base "ARCTOWSKI", main synoptic times, by radio.
+
+III. REGULAR INTERCEPTION OF METEOROLOGICAL TRAFFIC
+
+A. By radio teletype.
+
+1. From Bellingshausen at 02:30 - 06:40 - 14:30 - 
+19:30 GMT.
+
+2. From Gritviken at 00:30 - 12:30 - 15:00 - 18:30 GMT.
+
+3. From Molodezhnaja at 03:00 - 12:55 - 18:55 GMT.
+
+4. From Magallanes, in three-hourly synoptic time 
+(alternative, when Pudahuel does not receive).
+
+5. From the Argentine Meteorological Service (MeteoBaires).
+
+B. By Telegraphy (CW).
+
+1. From New Zealand at 04:55 GMT, the codified analysis.
+
+IV. RECEPTION OF METEOROLOGICAL DATA FROM THE "A. MERINO BENITEZ" AIRPORT.
+
+National synoptic data: this is received normally.
+APENDICE "b" AL ANEXO "C".
+
+DIAGRAMA DE ENLACES DEL C.M.A.FREI.
+
+(INFORME DEL 01.JUNIO.1981)
+
+                    WASHINGTON
+
+                        SANTIAGO
+
+G.GONZALEZ V.                    
+                        FREI                    
+PRAT.                   MAGALLANES
+O'HIGGINS.                                     
+MARAMBIO.                  MC MURDO.              
+ORCADAS.                   MOLODEZHNAJA.          
+URUGUAY.                   BUENOS AIRES.          
+BROWN                      
+BELGRANO.                  N. ZELAND.             
+SAN MARTIN.                                    
+PRIMAVERA.                                     
+ESPERANZA.                                     
+ARCTOWKI.                                      
+BELLINGSHAUSEN.                                
+GRITVIKEN                  
+ROTHERA                    

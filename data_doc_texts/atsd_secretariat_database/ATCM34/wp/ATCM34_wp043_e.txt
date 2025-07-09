@@ -1,0 +1,140 @@
+﻿
+
+
+
+
+
+Developing a Simple Methodology for Classifying Antarctic Specially Protected Areas According to their Vulnerability to Climate Change
+
+
+
+
+
+
+Developing a Simple Methodology for Classifying Antarctic Specially Protected Areas According to their Vulnerability to Climate Change
+Working Paper submitted by the United Kingdom and Norway
+Summary
+At CEP XIII, the Committee noted that the protected areas system is an important tool for managing the implications of climate change and welcomed the UK’s offer to classify existing protected areas according to their vulnerability to climate change.  This paper describes the first attempt to develop such a methodology, and recommends that further work be carried out to progress this or other potential methods.
+1. Introduction
+Antarctic Specially Protected Areas (ASPAs) will play an increasingly important role in building resilience to climate change, by ensuring that other potential anthropogenic pressures are minimised and thereby improving the capacity of ecosystems to withstand or adapt to change.
+In ATCM XXXIII/WP 16, the UK identified the implications of climate change for the Antarctic Protected Areas system and recommended the development of a simple methodology to classify existing ASPAs according to their vulnerability to regional climate change. Such a methodology would prove useful in the management and review of ASPAs by predicting, and therefore enhancing our capability to respond to, change – for example by redefining the boundaries of existing sites, delisting ASPAs where the original values no longer exist, or affording protection to new sites. 
+This paper presents the first steps towards developing such a methodology.  It is by no means exhaustive nor complete, but is presented by the UK and Norway to stimulate discussion and to promote further joint working to develop this or other methodologies. 
+2. Methodology
+A simple, practical methodology to determine ASPA vulnerability to climate change is proposed, whereby individual ASPAs are plotted according to the known vulnerability of their principal values (i.e. the primary reason for designation) and the regional risk of climate change. 
+2.1 Vulnerability
+The first stage might involve determining the vulnerability of the principal value/s represented in ASPAs to climate change. This would be based on best available scientific knowledge, recognising that there may be significant gaps in our understanding of how climate change might affect those values, and also that our understanding will improve over time. It should also be recognised that, in many cases, ASPAs are designated to protect a range of values which may be of differing vulnerability. It is also important to recognise the potential importance of spatial scale and ecological complexity when assessing vulnerability. For example, when individuals of a species use large geographical areas for feeding or other activities, it may be necessary to assess effects of climate change on the entire area used and not only the ASPAs. Similarly, if the effects of climate change on a key value for protection are mediated through other species in the ecosystem, it may be necessary to have a broad view of ecosystem responses to climate change in assessments of vulnerability.
+Initially, a four-tiered scale could be considered (HIGH, MEDIUM, LOW, UNKNOWN). Further work is required to determine if and how this scale might be defined (e.g. temporal or spatial). 
+Appendix 1 shows examples of some of the key values protected by ASPAs, and an initial attempt to classify them according to their vulnerability to climate change. This is illustrative and by no means complete nor exhaustive.
+In this classification, ice-obligate emperor and Adélie penguin colonies are considered to be vulnerable to climate change1, and might rank HIGH. Chinstrap penguins, now believed to be amongst the most vulnerable penguin species to climate warming2, would also rank HIGH. Gentoo penguins are vulnerable to climate change-induced changes to krill availability, but are also predicted to expand their breeding ranges due to an increase in available habitat. They are classified as MEDIUM.  
+Terrestrial vegetation is predicted to respond rapidly to climate change. The two native vascular plants are increasing and spreading due to climate warming3. However, the potential colonisation by new species and the corresponding competition with native species, presents a significant risk to terrestrial vegetation. Proximity to hubs of human activity (e.g. research stations) and/or ASPAs which are frequently visited are therefore at greatest risk, and likely to be ranked HIGH. Conversely, remote and rarely visited terrestrial vegetation/invertebrate communities would likely be ranked LOW. 
+Most of Antarctica’s marine benthic biodiversity occurs on the continental shelf, and the likely response of such species to warming is a change in geographic range4. Shallow benthic communities are more vulnerable than deepwater benthic communities, and ranked HIGH. Shallow coastal benthic communities are also vulnerable to changes in the level of freshwater input following glacial melt and increasing frequency of iceberg scour. Warming of seawater at depths below 100 m has not yet reached biologically significant levels5, and there is little evidence for direct impacts of climate change on deep-water fauna6. Therefore these could be ranked LOW. 
+The vulnerability of Antarctica’s geological values to climate change are not well documented.  New geological sites may be exposed by retreating ice, enhancing our understanding of Antarctic geology whilst also leaving them exposed to damage or oversampling. 
+Further consideration will be given to the vulnerability of other values (e.g. lake systems, seabirds and marine mammals, historic sites) as this methodology is developed.
+2.2 Determination of Regional Risk
+The second stage is to categorise the regional risk of each ASPA according to its location. Again, a simple 4-tier ranking is proposed, based on our current understanding of the Antarctic climate system (acknowledging that a finer regional scale could be developed). 
+
+Regional Risk 
+
+HIGH  
+ASPAs located on Western Antarctic Peninsula and South Orkney Islands
+MEDIUM
+ASPAs located on Eastern Antarctic Peninsula 
+LOW
+ASPAs located in East Antarctica 
+UNKNOWN 
+
+
+Statistically-significant warming trends on the Antarctic Peninsula and Scotia arc are well established, with the largest warming trends occurring on the western and northern parts of the Antarctic Peninsula6. 30 (42%) ASPAs are located in this region.  The regional risk would under current trends be considered HIGH. 
+The east coast of the Peninsula has warmed more slowly. The largest warming in this region has taken place in summer and autumn (at +0.41°C per decade from1946 - 2006 at Esperanza). This region, which contains just one ASPA, is based on current trends classified as having a MEDIUM regional risk. 
+There are currently no statistically warming or cooling trends recorded at the majority of stations in East Antarctica7. The regional risk is therefore currently LOW for the 40 (56%) ASPAs located in this region.
+Future warming trends in various regions of Antarctica may show a different pattern6, and further consideration as to how to incorporate expected future changes into the risk analysis will be necessary.  
+
+3. Vulnerability and Risk Analysis
+The following example shows how this methodology could be used.  Twelve ASPAs representing different values at different locations are plotted on the vulnerability/regional risk matrix. Those ASPAs that sit within the top left of the matrix (shown in red) will be of most concern, and considered highly vulnerable to climate change. Conversely, those sites sitting towards the bottom right of the matrix (shown in green) are currently of lower concern. 
+
+Vulnerability
+Risk
+High
+Medium
+Low
+Unknown
+High
+ASPA 107 
+ASPA 117
+ASPA 151
+ASPA 146
+
+ASPA 125
+
+ASPA 152
+
+Medium
+
+
+
+ASPA 148
+
+
+Low
+ASPA 101 
+ASPA 106
+
+ASPA 168
+ASPA 154 
+ASPA 122 
+
+
+Unknown
+
+
+
+
+
+ASPA 107, Emperor Island was designated to protect a colony of emperor penguins on the western Antarctic Peninsula and scores high for both its vulnerability and regional risk. ASPA 101, Taylor Rookery, also designated to protect emperor penguins, is located in East Antarctica, and therefore less vulnerable. Adélie penguins breeding on Avian Island (ASPA 117) off the Antarctic Peninsula are ranked as more vulnerable than those at ASPA 106, Cape Hallett, East Antarctica. 
+ASPA 151, Lions Rump was designated partly for its terrestrial biology. It is located close to a major research station on the warming western Antarctic Peninsula. It is the only ASPA where a non-native species (Poa annua) is known to have established. By contrast, ASPA 154, Botany Bay is located more than 100 km from the nearest research station, receives few visits, and is currently ranked as having a lower vulnerability to climate change.  
+Within the marine environment, ASPA 146 (South Bay, Doumer Island) comprises relatively shallow coastal benthic habitat, and is therefore ranked as of HIGH vulnerability. ASPA 152, part of the Western Bransfield Strait, lies mostly between 100-400 metres, and is ranked as LOW. 	 
+ASPA 168, Mount Harding, is a geological site located in East Antarctica and is therefore considered less vulnerable than Mt Flora (ASPA 148) located on the north eastern Antarctic Peninsula, and Fildes Peninsula (ASPA 125) on the western Antarctic Peninsula. 
+ASPA 122, Arrival Heights, designated as an electromagnetic ‘quiet site,’ is ranked as having the lowest vulnerability on this scale.                                
+4. Conclusions
+Climate change is predicted to have significant implications for the Antarctic protected area system. This paper presents the first steps towards developing a methodology to classify ASPAs according to their vulnerability to climate change. It ranks individual sites according to (i) the known vulnerability of their principal values and (ii) the regional risk from climate change.  Such an assessment could be used by the CEP to determine appropriate action for the development and management of ASPAs in the context of regional climate change.
+5. Recommendations
+The CEP is invited to consider the proposed approach outlined in this paper and to contribute to the development of this or other possible methodologies. 
+In particular, the UK and Norway would welcome the advice of the Committee on:
+i.	Whether known vulnerability and regional risk are useful criteria against which to determine the vulnerability of ASPAs to climate change, and whether other parameters might be used.
+ii	Whether the proposed four-tiered scale for vulnerability and regional risk can be better defined. 
+The CEP is also asked to support further work by the UK, Norway and other interested Parties to develop a more detailed assessment of all ASPAs within such a framework (taking into account the views of the Committee on points 1 and 2 above), for further substantive discussions at CEP XV. 
+
+
+Appendix 1. 
+
+High 
+- Chinstrap penguin colony
+- Emperor penguin colony
+- Adélie penguin colony
+- Shallow/ coastal marine benthic communities
+- Terrestrial vegetation/invertebrate communities located adjacent to a research station and/or frequently visited 
+- Freshwater lakes and lake systems
+Medium
+- Gentoo penguin colony
+- Historic values: wooden structures
+- Geological values
+
+Low
+- Deepwater benthic communities
+- Remote/ infrequently visited terrestrial vegetation/invertebrate communities  
+- Historic values: stone structures
+- Electromagnetic quiet sites
+
+Unknown
+
+
+
+ References
+1. Forcada, J. and. Trathan, P.N. 2009. Penguin responses to climate change in the Southern Ocean. Global Change Biology, 15, 1618-1630.
+2. Trivelpiece, W.Z., Hinke, J.T., Miller, A.K, Reiss, C.S., Trivelpiece, S.G., and Watters, G.M. (2011) Variability in krill biomass links harvesting and climate warming to penguin population changes in Antarctica. PNAS 2011 : 1016560108v1-201016560.
+3.  Convey, P. 2006. ‘Antarctic climate change and its influences on terrestrial ecosystems’. In: Bergstrom,D.M., Convey P. &  Huiskes, A.H.L. (eds.), Trends in Antarctic Terrestrial and Limnetic Ecosystems: Antarctica as a Global Indicator. Springer, Dordrecht. pp 253-272.
+4.  Barnes, D.K.A., Griffiths, H.J., & Kaiser, S. 2009. Geographic range shift responses  to climate change by Antarctic benthos: where we should look. Marine Ecology Progress Series, 393, 13-26.
+5. Clarke, A., Murphy, E.J., Meredith, M.P., King, J.C., Peck, L.S., Barnes, D.K.A., & Smith, R.C. 2007. Climate change and the marine ecosystem of the western Antarctic Peninsula. Phil. Trans. Roy. Soc. B, 362(1477), 149.
+6. Turner, J., Bindschadler, R.A., Convey, P., di Prisco, G., Fahrbach, E., Gutt, J., Hodgson, D.A., Mayewski, P., & Summerhayes, C., S., Eds. 2009. Antarctic Climate Change and the Environment. SCAR.
+7. Turner, J., S. R. Colwell, G. J. Marshall, T. A. Lachlan-Cope, A. M. Carleton, P. D. Jones, V. Lagun, P. A. Reid, and S. Iagovkina, 2005: Antarctic climate change during the last 50 years. International Journal of Climatology, 25, 279-294.
+

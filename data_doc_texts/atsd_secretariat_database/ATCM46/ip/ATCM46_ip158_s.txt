@@ -1,0 +1,100 @@
+Identificación de los factores de riesgo técnico en operaciones
+aéreas
+Identificación de los factores de riesgo técnico en la Antártica
+Resumen
+Contribuir a la seguridad en las operaciones antárticas, mediante el
+desarrollo científico aplicado ha sido una de las áreas temáticas
+establecidas por la Agenda Científica Antártica de Colombia. En
+consecuencia, gracias al apoyo de Argentina, investigadores
+colombianos adelantaron estudios encaminados a determinar los
+factores de riesgo técnico para las operaciones sobre el Aeródromo
+en Marambio a partir del levantamiento geodésico y vuelos con
+dron los cuales permitieron el desarrollo de modelos en 3D del
+aeródromo y el diseño de aproximaciones a procedimientos de
+vuelo IAC, STAR y SID para la Fuerza Aérea Colombiana.
+Antecedentes
+Desde el 2015 Colombia a través del Hércules C-130 de la Fuerza
+Aérea Colombiana ha desarrollado vuelos de apoyo para el traslado
+personal científico y de carga hacia la Antártica. Asimismo, con el
+objetivo de contribuir al desarrollo operacional ha adelantado
+propuestas de investigación de conformidad a las prioridades
+nacionales que promueven la seguridad de las operaciones en el
+área del Tratado Antártico.
+En tal sentido, con el objetivo de reducir los riesgos en las
+operaciones aéreas y promover la autogestión de las Expediciones
+Antárticas de Colombia, se formuló el proyecto de investigación
+“Identificación de los peligros operacionales en la Antártida para la
+operación de la Fuerza Aérea Colombiana”, que se desarrolló en el
+verano austral 2020-2021 en el aeródromo Teniente R. Marsh y que
+tuvo una segunda fase durante el verano austral 2021-2022 en el
+aeródromo Vice comodoro Marambio, con el propósito de
+determinar los factores de riesgo técnico en el aeródromo a partir
+del levantamiento geodésico y vuelo aerofotogramétrico con dron.
+Desarrollo del proyecto
+Los factores de riesgo fueron identificados bajo aspectos cualitativos
+y cuantitativos mediante el levantamiento GNSS y de vuelo
+aerofotogramétrico del aeródromo que permitieron el trabajo sobre
+58 puntos, con rastreos entre 3 y 5 minutos para los datos críticos y
+esenciales. Asimismo, para los vuelos aerofotogramétrico se dividió
+la zona en siete áreas de vuelo distribuidas a lo largo de la pista,
+cada una de 1000 por 500 metros.
+A partir de la información obtenida y el procesamiento de los datos
+se logró desarrollar (i) Modelo en 3D de la pista, ortofoto del
+aeródromo, plano de aeródromo y procedimientos de vuelo por
+instrumentos, conformados por Carta de aproximación por
+instrumentos (IAC), Llegada normalizada (STAR) y Salida
+normalizada (SID).
+Ilustración 1. Modelo digital de superficie Marambio
+Ilustración 1. Modelo digital de superficie Marambio
+Los principales resultados del diagnóstico realizado arrojan que la
+clave de referencia es 2D, con una temperatura de referencia de
+1.46°C y con capacidad para recibir aeronaves que se configuren
+para aterrizar en una pista disponible de 40 metros de ancho por
+1209 metros de longitud.
+Igualmente, se identifica que la corrupción de datos críticos y
+esenciales es el factor más complicado, en tanto afecta la
+información básica de referencia y en consecuencia las fases
+posteriores, demostrando que por la alteración de los datos
+originales se corre hay riesgo de no poder continuar en condiciones
+seguras el vuelo y aterrizaje de una aeronave, posibilitando la
+ocurrencia de un incidente.
+En general, es un aeródromo con las condiciones para operar de
+forma segura aeronaves tipo Hércules C-130, permitiendo el
+aterrizaje y parqueo de una aeronave a la vez sobre la pista, y los
+obstáculos presentes en sus inmediaciones no vulneran las
+superficies limitadoras de obstáculos.
+Ilustración 2. Ortofoto Marambio
+Ilustración 2. Ortofoto Marambio
+En este sentido, considerando las características geofísicas del
+terreno y las condiciones meteorológicas que afectan la visibilidad
+del aeródromo y gradualmente la resistencia del suelo, así como los
+cambios en la variación magnética en las latitudes bajas que a
+medida que se acercan a los polos van reduciendo las distancias
+entre sí, que conllevan a que los sistemas de gestión de vuelo (FMS)
+se deben cambiar manualmente a rumbo verdadero, determinando
+que, para el desarrollo de operaciones de Colombia, se incluyan en
+la cartografía generada, marcaciones verdaderas y magnéticas, con
+el objetivo de desarrollar aproximaciones a los procedimientos para
+IAC, STAR y SIF.
+Es de resaltar que estos procedimientos no han sido validados en
+vuelo, ni codificados en las bases de datos de ninguna aeronave, por
+lo que está taxativamente prohibido su uso para la navegación
+aérea.
+A partir del estudio elaborado se puede identificar que la forma
+adecuada de hacer levantamiento de información geoespacial
+implica la combinación de técnicas de topografía convencional y no
+convencional, las cuales permiten tener un espectro amplio de las
+condiciones del aeródromo, detallando el estado de la pista y sus
+dimensiones, además de servir como complemento en caso de
+ausencia de información.
+Asimismo, la codificación de los procedimientos de vuelo en las
+bases de datos de la aeronave contribuye eficazmente en la
+prevención de transcripción de errores en datos en ruta, puntos de
+recorrido y coordenadas, entre otros, por parte del piloto.
+Los métodos de levantamiento geodésico y vuelo con dron para la
+determinación de los factores de riesgo técnico del Aeródromo
+Marambio fueron implementados principalmente porque son
+técnicas combinadas de recolección de información, que permiten
+evaluar la calidad de los datos recopilados y están incluidas en el
+apéndice E del documento 9674 Manual del Sistema Geodésico
+Mundial WGS 84.

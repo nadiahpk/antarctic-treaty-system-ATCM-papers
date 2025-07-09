@@ -1,0 +1,81 @@
+﻿
+
+
+
+
+
+Production of an Antarctic Nautical Chart by the Hydrographic and Oceanographic Service of the Chilean Navy: Nautical Chart 15350 (INT 9104) “Estrecho de Gerlache - Islote Useful a Isla Wednesday”
+
+
+English version provided by the author
+
+
+
+
+
+Production of an Antarctic Nautical Chart by the Hydrographic and Oceanographic Service of the Chilean Navy: Nautical Chart 15350 (INT 9104) “Estrecho de Gerlache - Islote Useful a Isla Wednesday”
+
+
+Summary:
+
+The Hydrographic and Oceanographic Service of the Chilean Navy (SHOA), as the State technical agency responsible for the production of local nautical charts, has conducted an Hydrographic Survey Program in Antarctica to gather information for the production of nautical charts for public use, in accordance with the national program, and fulfilling the commitment made to the International Hydrographic Organization and its Hydrographic Commission on Antarctica. The hydrographic surveys conducted to date and the exchange of information with other Hydrographic Services have made possible the production of cartographic products such as SHOA Nautical Chart 15350 (INT 9104) “Estrecho de Gerlache – Islote Useful a Isla Wednesday” scale 1:50,000, published in 2016.
+
+Nautical chart production process:
+
+In accordance with the Hydrographic Survey Program (2010-2020), SHOA conducted hydrographic surveys in Gerlache Strait in order to collect information to produce Nautical Chart 15350 (INT 9104) “Estrecho de Gerlache – Islote Useful a Isla Wednesday”, published in 2016. For that purpose, hydrographic, oceanographic and geographic data required for the production of the chart was obtained and validated, according to international requirements.
+
+Photogrammetric restitution:
+
+Satellite images, provided by the GEOEYE-1 Satellite Sensor (INTRANS), with a resolution of 0.50 meters and a total of 26 stereo pairs covering 1400 sq km in the Antarctic territory were used for the photogrammetric restitution of the area of this chart. Digitization was performed directly on the satellite image, integrating all cartographic elements, including both hydrographic and topographic features in the image.
+
+A specialized software was used for processing and digitizing these satellite images: Summit Evolution (DATEM), that allows to collect and zoom images in different levels, facilitating the digitization and integration of projection and georeferencing data. The digitized vector data is provided through MicroStation Bentley, which connects directly to Summit Evolution (see figure 1). Each restitution process has a variable initial and ending period. The restitution process of this chart took three months in total, from its beginning to the final edition.
+
+Bathymetric data processing:
+
+The bathymetric data, including single and multi-light beams, collected in hydrographic surveys carried out from 2010 to 2014, were considered for the production of the chart. This data was processed and validated using the CARIS HIPS and SIPS software. In addition, bathymetric data provided by the UKHO (United Kingdom Hydrographic Office) and the SHOM (Service Hydrographique et Océanographique de la Marine) was also used. 
+
+
+
+
+
+Data base:
+
+After the aerophotogrammetric restitution process and the bathymetric analysis were completed, the information obtained was included in the Hydro-cartographic data base where the data is collected, revised and validated before it is digitally stored, to ensure the cartographer may have access to the cartographic editing process of the data. 
+
+
+
+
+
+Figure 1: Graphical interface of the MicroStation and Summit Evolution softwares.
+The HPD Source Editor 3.2 is used during the production, validation and storage of the information to process photogrammetric data, that is, all the cartographic elements that need to be included such as islands, islets, etc. are created, edited, defined and identified with the corresponding attribute. The CARIS Base Editor 4.2 is used for bathymetric elements such as sounding coverage, depth curve, depth areas, etc. 
+
+
+Paper nautical charts and electronic navigational charts:
+
+Once the photogrammetric and bathymetric data are validated and added to the data base, the cartographic processing starts. The software CARIS Hydrographic Production Database (HPD) Paper Chart Editor 3.2.1 (see figure 2) was used to complete the paper nautical chart. The entire process, from data collection to the publication of the chart, took close to 6 months.
+
+
+
+Figure 2: HPD Paper Chart Editor used for the collection and editing of the paper nautical chart data.
+
+
+
+
+
+
+
+The electronic version of this nautical chart is currently been developed. For this purpose, two products from CARIS are being used: HPD Source Editor 3.2.1 that allows to collect data and HPD Product Editor 3.2.1 (see figure 3) for editing the collected data to be used for the production of the electronic chart, which will be available to users this 2017.
+
+
+
+Figure 3: HPD Source Editor used to store collected data for the production of the electronic chart.
+
+
+Conclusion:
+
+Several hydrographic surveys have been conducted to fulfill the Hydrographic Survey Program (2010-2020) undertaken by Chile through the Hydrographic and Oceanographic Service of the Navy. This major effort in terms of human, material and technological resources for the production of nautical cartography shows our organization’s commitment to the safety of navigation in the Antarctic continent. 
+
+The new SHOA Nautical Chart 15350 (INT 9104) “Estrecho de Gerlache – Islote Useful a Isla Wednesday” scale 1:50,000, and the two other charts that also cover the Gerlache Strait, published in 2013, confirms the contribution of Chile, through the Hydrographic and Oceanographic Service to safety of navigation in Antarctic waters. These charts are part of the international chart scheme and have been identified as priorities by the Hydrographic Commission on Antarctica of the International Hydrographic Organization. 
+
+During 2017, we will continue working on the production of Nautical chart 15340 (INT 9103) “Estrecho de Gerlache - Bahía Markmann a Bahía Andvord”, whose bathymetric data has been provided by the CIOH (Center for Caribbean Oceanographic and Hydrographic Research) obtained during the Colombia's first Antarctica expedition. At present, 24 paper nautical charts covering Antarctic waters have been published by SHOA, from which 8 are international charts and 8 have digital versions, equivalent to 12 cells. This work started in 1955, when it was decided to take this challenge.  
+

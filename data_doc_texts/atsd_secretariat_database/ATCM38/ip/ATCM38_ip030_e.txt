@@ -1,0 +1,54 @@
+﻿
+
+
+
+
+
+Japan’s Antarctic Research Highlights 2014–15
+
+
+
+
+
+
+
+
+
+
+Japan’s Antarctic Research Highlights 2014–15
+
+Summary
+Among various research activities carried out by the Japanese Antarctic Research Expedition (JARE) in the Japanese Antarctic Syowa Station area, three topics are introduced: an internationally endorsed large-scale atmospheric radar project started full system observations on the lower to upper atmosphere with PANSY radar; atmospheric research up to 23 km altitude employing a balloon-assisted unmanned aerial vehicle (UAV) glider; and sea ice observations around the Shirase navigation area with satellite imagery and with an airborne ice thickness sensor.  
+1.	Introduction
+The headquarters of the Japanese Antarctic Research Expedition (JARE), Japan’s national Antarctic program, was established in 1955 at the Ministry of Education, Science and Culture (now the Ministry of Education, Culture, Sports, Science and Technology, or MEXT). The headquarters comprises departments and agencies of various government ministries, including the Ministry of Foreign Affairs; the Ministry of the Environment; the Ministry of Defence; the Ministry of Land, Infrastructure, Transport and Tourism; and the Ministry of Agriculture, Forestry and Fisheries. The scientific research and observation programs of JARE are considered and adopted as midterm research plans at general meetings of the headquarters.
+This Information Paper introduces selected highlights from scientific projects carried out by overwintering and summer members of the 55th and 56th JAREs, respectively, near Syowa Station (69° 00′ 25.05″ S, 39° 35′ 01.48″ E) during the 2014–15 season.
+2.	Selected Research Highlights
+Year-round observations have been carried out by overwintering JARE personnel at and around Syowa Station. Seasonal observations are also carried out by summer expedition personnel aboard the Shirase of the Japan Self-Defense Forces and the Umitakamaru of the Tokyo University of Marine Science and Technology for oceanographic observations and in various research areas.
+2.1.  Full system observations with the PANSY radar started at Syowa Station
+The large aperture atmospheric radar PANSY (Program of the ANtarctic SYowa Mesosphere, Stratosphere, and Troposphere/Incoherent Scatter [MST/IS] Radar) was constructed during the 2010–11 austral summer. While it has been continuously operated since April 2012 with a quarter of the full system (Fig. 1), additional installation and adjustment work have been conducted. During the 2014–15 austral summer, adjustment work was completed, and full system observation started during the 2015 winter season. It will enable us to capture various temporal- and spatial-scale phenomena in the Antarctic troposphere, stratosphere, mesosphere, and thermosphere/ionosphere with high temporal and vertical resolution and to contribute to improving global climate models for better understanding of future climate change.
+At the same time, continuous PANSY radar observations for the last three years using a quarter of the full system have revealed some interesting characteristics in the Antarctic atmosphere. The PANSY radar observed vigorous wind disturbances in the troposphere and lower stratosphere above Syowa Station that were induced by mesoscale phenomena such as a hydraulic jump and inertia-gravity waves. Analyses suggested the possibility that the mesoscale phenomena have significant effects on Antarctic meteorology and climate. Enhanced mesospheric summer and winter echoes were also observed by the PANSY radar, and their characteristics could provide new insights into polar mesospheric clouds and ionization in the Antarctic mesosphere. It is expected that the full-system observations of the PANSY radar will promote a more accurate understanding of the Antarctic atmosphere.
+Refer to the project website at http://pansy.eps.s.u-tokyo.ac.jp/pansy_OLD/index-e.html.
+
+       
+2.2.  A UAV brought back stratospheric aerosols from an altitude of 22 km in Antarctica
+A balloon-assisted unmanned aerial vehicle (UAV) glider, named Phoenix-S1 and developed by Kyushu University and Fukuoka University, successfully brought back stratospheric aerosol samples from the altitudes up to 22 km and observed aerosol density up to 23 km in Antarctica on January 24, 2015.
+Phoenix-S1, with a wingspan of 3 m, was launched by a small rubber balloon from the observation site called S17 on the Antarctic ice sheet near the Japanese Syowa Station as shown in Figure 2 (left). An optical particle counter and a particle impactor aboard the UAV observed particle concentrations and collected aerosol samples, respectively, during ascent. The UAV reached the altitude of 23 km approximately one hour after launch, and then the balloon burst naturally. Phoenix-S1 descended to 12 km altitude with a parachute, then separated from the parachute and glided back to S17 autonomously. Figure 2 (right) shows the profiles of the concentration of aerosols with a diameter of 0.3 to 0.66 μm. It shows multilayer structure above the tropopause related to the transport process between the troposphere and the stratosphere. Thirteen sets of aerosol samples were obtained from 1.1 to 22 km, whose boundary altitudes are shown by the violet horizontal ticks in Figure 2 (right). Aerosol composition will be analyzed using an electron microscope and an X-ray analyzer in Japan.
+These results will give us a better understanding of the process of materials circulation, which has a close relationship with several current climatic issues, such as global warming and an ozone hole over Antarctica.
+
+         
+
+Figure 2. Phoenix-S1 just after balloon release (left) and vertical profiles of concentrations of aerosols and air temperature up to 23 km altitude.
+
+For safety of other JARE air operations controlled at Syowa Station and by Shirase, details of flight plans of the UAV were reported to Syowa and Shirase at least one day before the flight.
+Please refer to the news release for more details at http://www.nipr.ac.jp/english/news/201503.html.
+
+2.3.  Sea ice survey around the Shirase navigation area with satellite imagery and an airborne ice thickness sensor
+Sea ice variation plays important roles in the global environment as well as in polar climate change. Also, coastal ice conditions have great influence on Antarctic operations, such as ice navigation of the icebreaker Shirase, cargo transportation to the base, marine observations, etc. JARE has been continuing sea ice observations with an electromagnetic induction (EMI) device for measurement of ice thickness, including snow depth, since the early 1990s. The EMI data have been analyzed together with sea ice information from visual observations aboard the icebreaker Shirase and satellite remote sensing data (NOAA/AVHRR, AQUA/MODIS, RADARSAT/SAR).
+The ice breaker Shirase came alongside Syowa in January 2015, in the face of much difficult ice navigation in Lutzow-Holm Bay near Syowa Station in the 2013–14 and 2014–15 seasons, in particular, ramming navigation in multiyear ice areas likewise in 2011–12 and 2012–13. The fast-ice edge region showed extremely heavy sea ice conditions. Such conditions seem to be formed by rafting and ridging ice floes. Also, around Syowa, multiyear land-fast ice has been preserved for the past several years and showed its thickness, including snow depth, to be about 8 m. Heavy snow depth contributes to thickening sea ice through the formation of snow ice.
+In February 2015, JARE conducted an ice survey over a wide area using the EM-bird, which is an EM sensor deployed from a helicopter (Fig. 3, left). The EM-bird was towed under a helicopter using about 20 m of cable. Reference data has been acquired along the flight path and will be analyzed with the shipboard EMI and the other sea-ice observation data.
+
+     
+
+Figure 3. Measurement of sea ice thickness with an airborne EM-bird (left) and preliminary data processed for the survey near Syowa Station on February 5, 2015 (right).
+
+

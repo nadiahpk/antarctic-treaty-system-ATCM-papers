@@ -1,0 +1,70 @@
+﻿
+
+
+
+
+
+Update on activities of the Southern Ocean Observing System (SOOS)
+
+
+
+
+
+
+
+
+
+Update on activities of the 
+Southern Ocean Observing System (SOOS)
+Information Paper submitted by SCAR
+Summary
+The Southern Ocean Observing System (SOOS - soos.aq) is a joint initiative of the Scientific Committee on Antarctic Research (SCAR) and the Scientific Committee on Oceanic Research (SCOR) and has the mission to facilitate the collection and delivery of Southern Ocean observational data to all international stakeholders.
+SOOS delivers several products and networks of direct relevance to the work of the CEP and ATCM. This paper highlights:
+    • Five regional networks that have been developed for enhanced coordination of observational activities in the Southern Ocean; 
+    • A new online tool that enables discovery of Southern Ocean observational data; 
+    • The field planning and coordination tool “DueSouth”; and
+    • A new community paper with statements on observational priorities for the Southern Ocean.
+For the above, SOOS invites engagement and input, to ensure an internationally coordinated system of observations to deliver an optimal suite of observations for all end-users. 
+Introduction
+The Southern Ocean Observing System (SOOS) is tasked with ensuring the international community has sustained access to observational data from the Southern Ocean. These data requirements are enormous, covering scientific, management, industry and operational needs. International collaboration and sharing of resources and data are not only critical to achieving this mission but are also core to the principles and objectives of the Antarctic Treaty including the “facilitation of international scientific cooperation in Antarctica”. 
+SOOS works with the Antarctic and global oceanographic community to enhance the collection and delivery of Southern Ocean observational data, through strong community advocacy actions and the development of collaborative networks, coordination and data discovery tools. This paper highlights four products of SOOS that are of direct relevance and benefit to the ATCM and CEP.
+Regional Coordination Networks
+SOOS has established 5 regional networks to better coordinate the collection of observations in different sectors of the Southern Ocean. These Regional Working Groups are based on natural areas of focus of National Antarctic Programs, and integrate national and international observing efforts towards delivery of a circumpolar observing system. The key objectives of these groups are to:
+    • Facilitate shared project planning, resources and priorities;
+    • Identify spatio-temporal coverage of existing observations, and priority observation gaps for future focus; and
+    • Align data standards, and work towards open access for all key data streams.
+
+Figure 1 – Map of Regional Working Groups
+
+
+The Regional Working Groups include researchers, conservation and management professionals (e.g. CCAMLR representation), and logistics and operations professionals (e.g. COMNAP representation). Additionally, each group seeks to include members from all countries that are active in the region. The countries listed below are those that are active in the group or have been invited to join (italics).
+Indian Sector: Japan, France, Australia, India, South Africa, Russia
+Ross Sea: New Zealand, USA, Italy, China, Korea
+Amundsen and Bellingshausen Seas: Sweden, Korea, USA, UK, Norway, China
+West Antarctic Peninsula and Scotia Arc: USA, Argentina, Chile, UK, Brazil, Korea, Germany, Netherlands, Spain, Belgium, Italy, China
+Weddell Sea and Dronning Maud Land: Germany, Norway, UK, USA, Brazil, South Africa, France, Sweden
+Database of Upcoming Expeditions to the Southern Ocean (DueSouth)
+Many programs currently collect information on upcoming activities relevant to their communities: COMNAP collects annual Regional Information Exchange forms of activities, the Argo program collates information for potential deployments, GO-SHIP requests information on annual GO-SHIP voyages, the CliC-CLIVAR-SCAR Southern Ocean Regional Panel collect annual reports on upcoming national field expeditions, IAATO collects information on planned tourist expeditions, CCAMLR maintains information on upcoming krill, new, and exploratory fishing voyages – and there are many more examples. Each additional case results in further duplication of effort to collect standard information that is relevant to a broad community.
+To support the sharing of this information, SOOS has developed the Database of Upcoming Expeditions to the Southern Ocean, DueSouth (www.soos.aq). This tool is delivered by the Australian Antarctic Data Centre and its development was financially supported by the SCAR Expert Group - Antarctic Sea Ice Processes and Climate (ASPeCt). DueSouth aims to integrate existing databases of upcoming field plans but is presently strongly reliant on manual entry of upcoming field campaigns, particularly those from National Antarctic Programs, which is resource intensive and difficult to keep up-to-date. COMNAP has agreed to share their Regional Information Exchange documents with DueSouth  - but these often contain data at a different level of resolution to the way DueSouth reports on field plans (i.e. at the level of individual voyages), which can present difficulties in the direct integration of COMNAP information into DueSouth.
+Automatic transfers or bulk uploads of publicly available logistics information (e.g., voyages and/or projects) have been achieved with some communities (e.g., GO-SHIP, CCAMLR) but National Antarctic Programs’ participation is critical for this important community tool to be a success. Such data sharing is also consistent with the guidance on information exchange outlined in Article III and Article VIII 5(a) of the Antarctic Treaty.
+SCAR invites Parties to consider the importance and utility of DueSouth and encourage their National Antarctic Programs, through COMNAP, to work with SCAR to automate the publication of upcoming voyages and observational projects through DueSouth.
+
+Figure 2 – An example of the data from the DueSouth Database
+
+SOOSmap
+SOOSMap (www.soos.aq) is an open-access web map that allows users to discover, and where possible, download well-curated datasets, filtered by time, space and data type. 
+SOOSmap currently provides access to 24 different aggregated data types, such as mooring data (from >800 sites), Argo floats, seal tag data, CCAMLR Ecosystem Monitoring sites and metadata, and Continuous Plankton Recorder Surveys. In 2018, six new data layers were added, including micro- and macro-plastics observations (from the SCAR Plastics in Polar Environments Action Group), KrillBase data, penguin colony count data (from MAPPPD - Mapping Application for Penguin Populations and Projected Dynamics), sea-ice cores with chlorophyll observations (from ASPeCt), and bathymetric survey effort and high-resolution bathymetric data (from GEBCO – the General Bathymetric Chart of the Oceans). 
+In addition to observational data, SOOSmap provides a number of base layers to provide spatial context for the observations, including Marine Protected Area boundaries, CCAMLR statistical areas and research blocks, monthly sea-ice concentration, and sea-surface temperature.
+
+Figure 3 - All data layers available in SOOSmap as at January 2019
+
+
+
+SOOSmap is delivered by EMODnet Physics (European Marine Observation and Data Network Physics), and supported by the SOOS Data Management Sub-Committee. It follows international open data principles, and is consistent with Article III 1(c), of the Antarctic Treaty, which states “scientific observations and results from Antarctica shall be exchanged and made freely available”.
+SOOSmap is intended to be a tool for the broad Southern Ocean community that aims to deliver key data streams. SOOS requests input from Parties on data types that would be of most use to the CEP/ATCM community (data@soos.aq).
+Community Paper on Observational Priorities
+SOOS coordinated the delivery of a community paper on observational priorities for the coming decade. This paper was developed as a contribution to the OceanObs’19 decadal conference. Titled “Delivering sustained, coordinated and integrated observations of the Southern Ocean for global impact”1, this paper identifies the priority observations that are required over the coming decade. The paper is currently in press, please contact SOOS for a copy of the pre-print version (newman@soos.aq). 
+Key findings of the paper included the lack of observational data in non-summer seasons and that observations under sea-ice are a priority. More specifically, two priority observations types were identified as fundamental to nearly all disciplinary questions, which are 1) observations of fluxes (heat, freshwater, gases) and 2) bathymetry.
+In light of these priorities, SOOS invites Parties with vessels that have bathymetric mapping capability to consider sharing these data. The SCAR Expert Group International Bathymetric Chart of the Southern Ocean (IBCSO) manages a digital database of bathymetric information – please contact this group for data sharing enquiries (https://www.scar.org/science/ibcso/ibcso/).
+
+

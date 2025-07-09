@@ -1,0 +1,1191 @@
+﻿XXVII ATCM
+Information Paper
+IP 012
+Agenda Item: CEP 8
+ATCM 9
+COMNAP
+Original: English
+
+
+
+
+
+
+
+
+
+COMNAP’s Framework and Guidelines for Emergency Response and Contingency Planning in Antarctica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information Paper on
+COMNAP’s Framework and Guidelines for Emergency Response and Contingency Planning in Antarctica
+
+
+INTRODUCTION
+
+    1. In 1998 in Resolution 6 (ATCM XXII / Resolution 6) “Emergency Response Action and Contingency Planning” ATCM XXII recommended that COMNAP be requested to identify and formulate additional steps in relation to emergency response action and contingency planning for incidents other than oil spills (including guidelines on co-ordination, communication and equipment requirements).  
+
+    2. In response to this request, COMNAP’s Standing Committee on Antarctic Logistics and Operations (SCALOP) developed “Framework and Guidelines for Emergency Response and Contingency Planning in Antarctica”.  The full document was adopted by COMNAP and is given in Appendix 1.  
+
+
+BACKGROUND
+
+    3. Since their inception in 1988, COMNAP and SCALOP have developed and adopted a series of guidelines and recommendations designed to assist National Antarctic Programs in further improving the safety of their operations for both personnel and the environment.  This included the adoption by COMNAP in 1992 and 1993 of:
+    • Guidelines for Oil Spill Contingency Planning (1992)
+    • Recommended Procedures for Fuel Oil Transfer at Stations and Bases (1992)
+    • Recommendations for Spill Prevention and Containment of Fuel at Stations and Bases (1992)
+    • Guidelines for the Reporting of Oil Spill Incidents which Occur in Antarctica (1993)
+
+    4. In 1998 in Resolution 6 (ATCM XXII / Resolution 6) “Emergency Response Action and Contingency Planning” ATCM welcomed the continuing work that had been undertaken by COMNAP and adopted the four COMNAP/SCALOP guidelines and recommendations mentioned above.  ATCM also recommended in Resolution 6 that COMNAP
+    • Be requested to review, and if necessary revise, as appropriate, these recommendations and guidelines and keep them under periodic review;  and
+    • Be requested to identify and formulate additional steps in relation to emergency response action and contingency planning for incidents other than oil spills (including guidelines on co-ordination, communication and equipment requirements).  
+
+    5. In line with these requests, COMNAP 
+    • Reviewed in 1999 and confirmed in 2000 its existing guidelines;  and
+    • Commissioned at its 1999 annual meeting the preparation of Guidelines for Contingency Planning of Major Incidents or Disasters under the guidance of a steering committee drawn from its Emergency Response and Contingency Planning Working Group (EMRAC).  Draft guidelines as accepted by the steering committee were submitted to EMRAC for review at COMNAP’s 2000 annual meeting.  
+
+    6. The guidelines were further discussed between 2000 and 2002, whereupon COMNAP adopted in 2003 Framework and Guidelines for Emergency Response and Contingency Planning in Antarctica.  
+
+
+SUMMARY
+
+    7. The Framework and Guidelines for Emergency Response and Contingency Planning in Antarctica have been developed with the objective to 
+    • Prevent or reduce the risks of incidents occurring;  
+    • Prevent or reduce the impact and consequences of incidents;  and
+    • Promote and support the maintenance and control of effective incident, emergency and crisis management processes.  
+It addresses these objectives by 
+    • clarifying planning objectives, strategies and outcomes;  
+    • presenting an Incident Response Matrix as general guidance;  and
+    • providing guidelines for
+- contingency planning;  
+- emergency response;  
+- crisis management and recovery guidelines;  and
+- incident classification.  
+
+The full text of the Framework and Guidelines for Emergency Response and Contingency Planning in Antarctica as adopted by COMNAP (2003) is provided in Appendix 1.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix 1
+to COMNAP’s 2004 (ATCM XXVII) Information Paper on COMNAP’s Framework and Guidelines for Emergency Response and Contingency Planning in Antarctica
+
+
+
+COMNAP/SCALOP
+
+
+Framework and Guidelines for Emergency Response and Contingency Planning
+in Antarctica
+
+
+July 2003
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This document has been developed by the Council of Managers of National Antarctic Programs (COMNAP) and its Standing Committee on Antarctic Logistics and Operations (SCALOP).  It was adopted by COMNAP at its COMNAP XV meeting in Brest, France, in July 2003.  
+Up-to-date versions of this document can be found on the COMNAP web site at http://www.comnap.aq
+
+
+Contents
+
+
+1	Planning Objectives	4
+
+2	Planning Strategies	5
+
+3	Planning Outcomes	6
+
+4	The Incident Response Matrix	7
+
+Performance/Behaviour	7
+Standard Operating Procedures	7
+Contingency Plans	7
+Emergency Response Plan	8
+Crisis Management and Recovery Plan	8
+
+5	Contingency Planning Guidelines	9
+
+The Planning Process	9
+	Establish Planning Team	9
+	Clarify System	10
+	Determine Hazards	10
+	Analyse Impacts	10
+	Determine Planning Outcomes	10
+	Develop the Plan	11
+	Implement Prevention/Preparedness Measures	11
+	Review and Test	11
+	
+Documenting the Plan	12
+	Introduction	12
+	Prevention	12
+	Preparedness	12
+	Response and Recovery	13
+	Debriefing	13
+
+6	Emergency Response Guidelines	14
+
+	The Audit	14
+	Developing the Emergency Response Plan	16
+	The Emergency Response Team	17
+
+
+7	Crisis Management and Recovery Guidelines	18
+
+Creating the Crisis Plan	18
+		Appoint the Team	19
+		Identify Threats and Responses	20
+		Audit Emergency Plans	22
+		Audit Issues Management Plan	23
+		Provide a People Issues Plan	23
+		Establish Crisis Control Centre	24
+			Control Room Sample Layout	25
+			Sample Telephone Call Register	26
+		Message Strategy Guidelines	27
+		Recovery Planning	29
+		Corporate Services Plan	29
+		Prepare the Crisis Manual	30
+		Test/Rehearsal Program	31
+
+8	Incident Classification Guidelines	32
+
+
+
+1	Planning Objectives
+
+
+    • Prevent or reduce the risks of incidents occurring
+
+    • Prevent or reduce the impact and consequences of incidents
+
+    • Promote and support the maintenance and control of effective incident, emergency and crisis management processes
+
+
+2	Planning Strategies
+
+
+    • Provide a management (strategic, operational/tactical) discipline for a fast, effective response to control and contain any adverse incident 
+
+    • Establish teams and responses suitable for the nature and scope of any adverse incident.
+
+    • Provide business continuation and recovery goals and strategies
+
+    • Anticipate and identify potential threats and hazards
+
+    • Ensure the organisation is in control
+
+    • Provide incident management manual and checklists
+
+    • Test and rehearse response and recovery techniques and procedures
+
+
+
+3	Planning Outcomes
+
+
+    • Quick, effective response
+
+    • Seamless structure
+
+    • Regulatory compliance
+
+    • Optimal time and resource management
+
+    • Simple to use template
+
+
+
+
+
+
+
+
+
+
+
+
+
+4	The Incident Response Matrix
+
+
+Any incident response plan will have as its primary reference point that which is demanded by national and international laws relevant to the location and the specific workplace. To ensure compliance, these must be incorporated in any plan. However, to be fully effective, the plan must go beyond purely the prescriptive and take an holistic approach to the entire risk management ‘landscape’.
+
+
+Performance/Behaviour
+
+Underlying the entire matrix are the behavioural and cultural values of the organisation. This will involve establishing and promoting:
+
+    • key performance indicators for each role (what is expected by the organisation in the successful performance of a particular job), normally linked to core competencies and skills required by a given role
+
+    • key behavioural indicators (what is expected by the organisation in term of behaviour towards others) for every individual, normally linked to any existing organisational policies and to induction training
+
+
+Standard Operating Procedures
+
+Underpinning the plan is also any existing (or to be developed) Standard Operating Procedures, which describe necessary and normal operational tasks. It will be the responsibility of line management to ensure that individuals are trained in, and familiar with all such procedures.
+
+
+Contingency Plans
+
+The level of first response involves the preparation and use of contingency plans specific to a location or function. These plans are kept in specific operational areas. They should detail:
+
+    • what has to be done when an incident occurs
+
+    • any local conditions which may pose special difficulties unless properly addressed
+
+    • pre-emptive actions which can be taken to lessen the impact or duration of the incident, or simplify its remediation/resolution.
+
+Such plans need not include excessive detail, but should provide directions on how to gain detailed information and technical or specialist support..
+
+
+Emergency Response Plan
+
+The emergency response or incident management plan addresses the operational response. It should set out the overall framework for emergency operational response. It will include the structure, and all necessary protocols and procedures for managing (containing, controlling and remediating) an incident, including:
+
+    • the role and responsibilities of the emergency response team
+
+    • details of pre-determined responses against agreed, specific threats/hazards
+
+    • agreed call-out and mobilisation procedures
+
+    • interface with remote support mechanisms, such as any available external emergency response, and mainland crisis management teams
+
+    • communication links, protocols and procedures to ensure the correct messages are given to all internal and external stakeholders
+
+    • all pre-incident training regimes, incident reporting procedures, and post-incident debriefing and performance evaluations
+
+
+Crisis Management and Recovery Plan
+
+The crisis management and recovery plan will address the organisational or corporate response to escalating or serious incidents that have wider impacts across an organisation’s people, assets, revenue, reputation, third parties/general public, or on flora/fauna and the environment. The crisis plan must link with the emergency response plan, in order to:
+
+    • offer strategic advice and direction to those in the field
+
+    • support effective operational/emergency responses to a critical incident
+
+    • manage all key organisational issues and ramifications
+
+    • handle communications internal and external stakeholders, such as next of kin, employees, media, Governments, statutory or regulatory bodies
+
+    • manage specific corporate areas, such as risk management, legal, financial, insurance issues
+
+    • establish recovery goals, and ensure adequate resources (human, financial, equipment, etc.)
+
+    • manage the post-crisis debriefing, reporting, and auditing processes
+
+
+
+5	Contingency Planning Guidelines
+
+
+A contingency plan is a collection of processes and procedures to manage something that may occur. It identifies potential problem areas, and should provide options for managing and overcoming foreseeable events.
+
+Each line manager should be responsible for determining the probability and consequences of failure of assets, systems and work practices, as well as preparing contingency plans to deal with any loss/failure, serious act or omission. The plan simply requires that:
+
+    • responses are prepared and documented ahead of time, and be easily put in motion
+
+    • all necessary arrangements for such items as management structure, resources, communications and budgets are in place prior to an event
+
+
+The Planning Process
+
+The process for developing contingency plans is:
+
+    • Establish planning team
+
+    • Clarify system
+
+    • Determine hazards
+
+    • Analyse impacts of hazards
+
+    • Determine planning outcomes for prevention, preparedness, response and recovery
+
+    • Develop plan
+
+    • Implement prevention and preparedness measures
+
+    • Review and test plan
+
+
+Establish Planning Team
+
+    • Select Planning Team members
+
+    • Consider holding a planning workshop
+
+    • Brief all Planning Team members on the overall response matrix
+
+
+Clarify System
+
+    • Ensure that all Planning Team members have a clear understanding of the system, operation or other activity for which they are preparing a plan (this may involve location visits or senior management briefings)
+
+    • Prepare a map or profile of the system, operation or activity detailing key installations and assets and possible points of weakness
+
+    • Ensure that the profile cover all buildings and equipment, installations, pipelines and associated structures and fittings
+
+    • Ensure that the profile covers infrastructure and services which support the system, including utilities, communications and computers
+
+
+Determine Hazards
+
+    • Prepare a hazard checklist to identify anything which may pose a threat to people, operations or operational activities, assets, equipment, and environment, flora and fauna, etc.
+
+
+Analyse Impacts
+
+    • Planning Team assesses the potential impact which each major hazard may have on all areas of operation
+
+
+Determine Planning Outcomes
+
+    • Develop realistic planning outcomes to achieve prevention, preparedness, response and recovery
+
+    • Assess what actions or procedures should be implemented to prevent or minimise hazards affecting the system
+
+    • Assess what processes and procedures can be developed and implemented before an incident, including resource identification, training, and contact registers
+
+    • List the actions and procedures to be taken during an incident which provide prompt response, and effectively protect people, the environment, assets/equipment, restore and repair the system, and meet organisational and community needs and expectations
+
+
+    • For example, the contingency plan should provide for command and co-ordination, communication system, communication interfaces, information management systems, internal or external support services, financial arrangements, and parallel or alternative (back-up) systems
+
+    • Determine what follow-up actions may be needed, such as debriefing, stress counselling, site restoration, organisational and external liaison, reporting, collation of learnings, and system, process, activity or design modifications
+
+
+Develop Plan
+
+    • Prepare a draft plan
+
+    • Ensure that the plan covers management/control structure, services, resources and contact details, supporting plans and procedures, incident identification, classification and mobilisation information, prevention and minimisation strategies, training and debriefing
+
+    • Distribute the draft plan for comment
+
+    • Revise plan and issue
+
+
+Implement Prevention/Preparedness Measures
+
+    • Ensure people are trained to understand the plan’s arrangements
+
+    • Ensure equipment required is both operational and that people know how to locate and use it
+
+    • Ensure system or operational modifications are complete
+
+
+Review and Test
+
+    • Consider holding rehearsals as a useful way to train people and test the plan
+
+    • Conduct operational briefings to update and improve the plan
+
+    • Ensure that support services know what is expected of them under the plan
+
+    • Review the plan regularly to take into account changes in circumstances or in risks and threats
+
+
+
+Documenting the Plan
+
+The key elements of a contingency plan are:
+
+    • Introduction
+
+    • Prevention
+
+    • Preparedness
+
+    • Response and Recovery
+
+    • Debriefing
+
+
+Introduction
+
+    • Express the objectives of the plan
+
+    • Provide a map or profile of the system or activity, with a list of assets or infrastructure
+
+    • Identify high risk assets or activities
+
+    • Identify key hazards or risks with their potential impact
+
+    • Identify the management/response structure most appropriate for the plan
+
+
+Prevention
+
+    • Indicate those prevention or risk minimisation programs which are being implemented under the plan, such as asset maintenance, occupational health and safety training, and security
+
+    • Clearly indicate responsibilities/ownership’s for such programs in the plan
+
+
+Preparedness
+
+    • Indicate what other plans or procedures support this plan, or integrate with it
+
+    • List all Standard Operating Procedures that are relevant
+
+    • State where the other plans are located and who is responsible for them
+
+
+    • Timeline and conduct theoretical and practical training sessions for all those involved in the plan
+
+    • Indicate who is responsible for conducting training sessions and scenario events
+
+    • State when the plan is to be reviewed and by whom
+
+    • Maintain and regularly update a list of contacts with a description of the support services and resources which they can provide
+
+
+Response and Recovery
+
+    • Define potential incidents covered by the plan, and co-ordinate these categories with those in the emergency response and crisis management plans, for example, minor, major, critical (as situations escalate, or have the potential to escalate)
+
+    • Define when, and by whom, particular categories should be reported
+
+    • Nominate the most practical operations centre for each category
+
+    • Provide contacts for these locations and nominate alternatives
+
+    • Define the human resources necessary to support the plan: operational, administrative, planning, technical, scientific, medical, communications, external resources, etc.
+
+    • Define a process for rostering and obtaining relief where needed
+
+    • Define all appropriate communication interfaces beside station and field, and between both and mainland and external agencies
+
+    • Set clear procedures and responsibilities for recording information about an incident, including what records or logs should be kept and by whom, and to whom these should be made available
+
+
+Debriefing
+
+    • The plan will detail the debriefing processes required to each category of incident, including time period within which the debriefing must be held, those responsible for convening and chairing the debriefing, and those to whom the debrief reports are given
+
+    • The plan will also set responsibilities for recommending, co-ordinating, and implementing counselling for those affected by incidents
+
+
+
+6	Emergency Response Guidelines
+
+
+The Audit
+
+The starting point for emergency response or incident management planning for an organisation is to audit current emergency/evacuation procedures. Such an audit covers all the broader issues, and not only the contingency plans covering the initial response after the incident has begun. The audit should cover whether existing response mechanisms are adequate and up-to-date, regularly reviewed, practised and rehearsed. It should cover all the core elements of an emergency response plan, and include yes and no answers as to whether:
+
+    • Key assets/processes have been identified
+
+    • A plan showing the layout of the infrastructure, critical and high risk locations is available
+
+    • Key risks and hazards that may impact on operations are identified
+
+    • Prevention programs linked to identified risks are in place to reduce the threat of key hazards occurring
+
+    • Persons responsible for implementing prevention programs are identified
+
+    • A timetable for the completion of prevention programs, contingency plans, incident management/emergency response plans, and crisis management and recovery plans is in place
+
+    • Strategies have been prepared to respond to key hazards and incident escalations
+
+    • Linkages to all internal and external support mechanisms are in place
+
+    • A 24-hour contact list is available to contact response team members and all support resources
+
+    • The contact list is regularly reviewed to ensure it remains up-to-date
+
+    • Plans are fully documented, with copies distributed to those who need access
+
+    • Training requirements for each level have been identified
+
+    • Training courses in incident, emergency and crisis responses are regularly undertaken
+
+    • Response teams have been identified, individual roles and responsibilities defined, and appropriate training given
+
+
+    • Exercises or simulations are used to test, review and improve skills and plans, and to identify resource gaps
+
+    • A system is in place to ensure that key people with responsibilities in incident, and emergency management have signed off to undertake them
+
+    • Someone has been nominated to keep the plans up to date
+
+    • The emergency response plans are revised at stated intervals
+
+    • There is a clear classification system in place to identify issues, incidents, emergencies and crises as an event escalates from minor to critical
+
+    • The response and reporting responsibilities for each classification are clearly identified
+
+    • An operations centre for emergency response is in place, with all necessary equipment, and a suitable alternative site nominated
+
+    • People to man the operations centre have been identified and trained
+
+    • Communication interfaces have been detailed between incident location and station/field and mainland, as well as with support resources
+
+    • The emergency response procedures have been captured in a manual with action checklists for each team member and for each threat
+
+    • Procedures are in place to meet all legal or statutory reporting requirements
+
+    • A recovery matrix is in place for key recovery goals across people, equipment/assets, and the environment
+
+    • Procedures are in place to deal with all the people issues, such as next of kin notifications, counselling, etc.
+
+    • Message strategy guidelines are defined to assist in creating and implementing a message for all internal and external audiences
+
+    • Previous case studies have been documented
+
+    • Debriefing, auditing, post-incident reporting, and performance evaluation protocols are in place
+
+
+
+Developing the Emergency Response Plan
+
+
+Contingency plans will provide the initial response strategy. The emergency response plan should, therefore, be predicated on existing contingency plans, with which it should be seamlessly integrated with common elements that differ only in the amount of resources, and number of people dedicated to response. This will depend on the type and scale of the incident, and the potential for escalation. The key element of an emergency response plan is a manual that includes:
+
+    • An incident classification process that is common across the whole organisation and to the contingency and crisis plans, i.e., minor, major, critical, with clear definitions, and clear response, responsibility, and reporting mechanisms for each
+
+    • A notification/call-out process
+
+    • Pre-determined team, with clear roles and responsibilities that are checklisted for quick reference
+
+    • Pre-determined threat analysis, with response procedures identified for each threat, also checklisted for quick reference
+
+    • Pocket checklists for each individual on station on what to do first in an emergency
+
+    • Clearly defined communication protocols and linkages: who reports to whom, who has ownership of each audience or stakeholder in the emergency
+
+    • Details of equipment resources
+
+    • Details of all available support resources, including technical, scientific, and medical resources 
+
+    • Details of emergency response protocols, such as the operations or command centre, communication (hardware) protocols, reporting structures, recovery planning, 
+
+    • Handling of the people issues, such as next of kin notifications, medical evacuations, stress counselling, etc.
+
+    • Pre-prepared logs and incident logging procedures
+
+    • Up-to-date contact lists for internal and external support resources
+
+
+
+The Emergency Response Team
+
+The typical emergency response team will be made up a number of people as required to cover four main elements:
+
+    • A command function, essentially a team leader, with overall responsibility for command and control of the incident, as well as post-incident debriefing, reporting and performance evaluations
+
+    • A planning function, including technical experts as required, to handle the response strategy, define an action plan, monitor the situation, prepare status reports, and organise shifts/rostering
+
+    • An operations function, to handle the operational and tactical response, record and log the event, manage support staff within the command centre, and handle external and internal communications
+
+    • A resources function, to handle the people issues, equipment, materials, communications hardware, and supplies
+
+
+
+7	Crisis Management and Recovery Guidelines
+
+
+A station or field response to any incident, particularly one that has the potential to escalate to crisis, will require support from an organisation at corporate or headquarters level. A crisis management and recovery structure sits in the incident response matrix as the highest-level resource available within an organisation. The crisis plan should be part of this seamless and integrated framework, and ensure national, regional or international co-ordination. The key elements of a crisis management plan are:
+
+    • Organisational commitment
+
+    • Identification and measurement of threats
+
+    • Designing the plan to control and manage potential crises
+
+    • Selection and training a team to execute the plan
+
+    • Testing the plan and the team
+
+    • Keeping the overall response system current
+
+
+Creating the Crisis Plan
+
+    • Appoint CMR Team, and assign roles and  responsibilities
+
+    • Identify threats and responses
+
+    • Audit emergency and evacuation plans
+
+    • Audit issues management plan
+
+    • Provide a people issues plan
+
+    • Locate and equip a command or control centre 
+
+    • Prepare message strategy/communication guidelines 
+
+    • Format recovery planning.
+
+    • Identify corporate services issues (legal, insurance, accounting and computer services)
+
+    • Prepare a crisis management and recovery manual or checklists
+
+    • Establish a test and rehearsal program.
+
+
+Appoint the Team
+
+The first stage of this Crisis Management and Recovery Plan is to select a responsible and capable team to manage a crisis. The team should comprise a core group of managers skilled in several critical disciplines, who are assigned specific responsibilities, and authorised to make decisions for the entire organisation in times of crisis. The team should be small, so that members can make decisions quickly. 
+
+Those appointed to the team must possess an understanding of both internal and external perspectives, have solid negotiating skills, grace under pressure, and the ability to deal effectively with conflict.  The composition of the team is typically:
+
+    • Team Leader: ensures effective management of the corporate team, control of all organisational implications and impacts, establishes response priorities, gives strategic direction, co-ordinates organisational response policies, and handles VIP communications
+    • Public Affairs/Media Co-ordinator: provides message strategy for all crisis-related internal and external communications, ensures communication policies are adhered to during the incident, and establishes clear communication interfaces between all elements and locations of the organisation to ensure there is ‘one voice, one message’ at all times
+    • Issues Management Co-ordinator: implements and monitors ongoing strategic issues management processes across the organisation, offers strategic advice, counsel and support to the team leader and recovery co-ordinator in light of impacts and ramifications that affect the organisation
+    • People Issues Co-ordinator: advises on people issues related to any crisis, including employee, third party, and next of kin communication and welfare, rehabilitation and counselling
+    • Emergency Services Co-ordinator: co-ordinates corporate team liaison with internal and external emergency services and response initiatives, and manages all security issues
+    • Control Room Co-ordinator: manages operational readiness of the control centre and media handling areas, supervises support personnel, and establishes handling mechanisms for inquiry calls
+    • Corporate Services Co-ordinator: advises on all corporate-level business implications, manages all legal, insurance, financial and commercial issues
+    • Recovery Co-ordinator: identifies immediate, short and long term recovery goals and resources required to achieve those goals
+
+
+Identify Threats and Responses
+
+To assist in the development of the crisis plan, a threat review should be undertaken:
+
+    • Establish the events most likely to occur across the organisation, either at head office on station, in the field, on route to base, or at a remote location
+
+    • Determine the impact of these events on your people, third parties, assets and earnings, environment, organisational reputation
+
+    • Plan your crisis responses, contingency and emergency responses accordingly
+
+
+Checklist of Specific Incident/Crises for National Antarctic Programs
+
+Marine	
+Loss of contact
+	Vessel damaged
+	Vessel disabled
+	Vessel beset
+	Damage or loss of small boat, barge or Zodiac
+Aviation	
+Loss of contact
+	Forced landing at a remote place due to weather, breakdown, etc.
+	Aircraft damaged or disabled
+	Crash
+Station or Base
+	Fire
+	Explosion
+	Extended loss of power
+	Widespread and debilitating infectious disease
+Field Party or Camp
+	Loss of contact
+	Missing person or party
+	Camp emergency (eg., fire, CO poisoning, etc.)
+	Vehicle accident
+	Entrapment on island, sea, ice, etc.
+
+Checklist of Other Possible Crises include:
+
+Adverse government action
+Armed intrusion - hold up
+Bomb threat
+Burglary/theft
+Chemical abuse/spills
+Civil unrest
+Class action
+Collapse of buildings/structure
+Cyclone
+Death
+Demonstrations
+Directors liability
+Disease
+Drug abuse
+Earthquake
+Emergency response for third party (tourist operator)
+Environmental issues
+Extortion
+Failure of electronic equipment/computer
+Flood
+Funds/money mismanagement
+Harbour/port blockage
+Inability to supply
+Industrial dispute (internal/external)
+International issue, incident or problem
+Investigative media
+Kidnap/ransom overseas
+Lack of supplies
+Landslide/earth movement
+Libel/slander
+Loss of contact
+Loss of government support
+Loss of leadership
+Loss of quality standards
+Loss of utilities (power, communications, data)
+Malicious damage/vandalism
+Medical emergency
+Mobile plant accident
+Murder/suicide
+Organisational or community issues
+Personal threats
+Pollution of air, ground, waterways or sea
+Political problems
+Poisoning
+Professional liability (medical, child care, engineering)
+Remote area response
+Riots, strike, civic commotion
+Sabotage
+Security 
+Sexual harassment 
+Storm/tempest 
+Sudden change of government policy
+Suspect mail
+Terrorism
+Theft of goods/funds by employees
+Theft of goods/funds by persons other than employees
+Workplace violence
+
+
+
+Audit Emergency Plans
+
+Each location will have an emergency procedure plan in place for control and co-ordination of incidents and accidents. These procedures will need to be co-ordinated with the Crisis Management and Recovery Plan. 
+
+The responsibility of co-ordinating the emergency and first-aid/first response teams is handled by the Emergency Services Co-ordinator in the team. A review and examination of the present emergency procedures in line with the Crisis Management and Recovery Plan will be necessary, including:  
+
+    • Review the present emergency action plan to determine its completeness.
+
+    • Review plan to identify areas to be updated.
+
+    • Determine the chain of command in roles, responsibilities and authority.
+
+    • Identify resources available at, and available to, each location, from on site or from external or regional/international support resources
+
+
+Evacuation Procedures
+
+Specific crises will require evacuation of head office buildings, or of remote bases. The first responsibility of management will be to move persons in immediate danger to safety while seeing that they are accounted for under any present emergency/evacuation plan. Any current evacuation plans will need to be brought into line with the Crisis Management and Recovery Plan under the following headings:
+
+    • the types of incidents which might require evacuation
+
+    • the most appropriate mode of evacuation
+
+    • external providers of evacuation resources
+
+    • evacuation communication system (alarm, phone, radio, PA)
+
+    • individual building and area evacuation plans with muster points
+
+    • evacuation control and co-ordination procedures
+
+    • distribution and display of plans;
+
+    • criteria for movement of priority equipment and documents
+
+    • evacuation of key machinery
+
+
+
+Audit Issues Management Plan
+
+
+    • Is there a process to anticipate emerging issues?
+    • An issues team with roles and responsibilities 
+    • Regular briefs from CEO
+    • Regular brief from senior executives
+
+    • Are issues analysed for their impact?
+    • Is there a situation analysis and issues brief?
+    • Are key priorities set?
+    • Are research processes in place?
+    • Is there a diagnostic process for serious emerging issues?
+    • Are stakeholders identified?
+
+    • Is there a process to formalise the corporate position and response to an issue?
+    • Can the CEO give approval?
+    • Can the position be circulated for management input?
+    • Can an integrated response be achieved efficiently?
+
+
+Provide a People Issues Plan
+
+The Plan needs to establish protocols for 
+
+    • the handling and briefing of employees, third parties and next of kin.
+
+    • breaking the bad news
+
+    • managing any community or public outrage
+
+    • collecting, containing and responding to rumour and innuendo
+
+    • managing the whistleblower
+
+
+Establish Crisis Control Centre
+
+One of the immediate requirements during a crisis will be the establishment of a Control Centre. This is where the members of the Crisis Management and Recovery team fulfil their specific roles designed to contain and manage the crisis. At the same time, it becomes the communications and information centre and operates as a focal point for reporting the crisis management and recovery status by those involved and communication support services to field teams.
+
+Also required is a media room to contain, and control journalists and electronic media crews when they arrive at head office.
+
+To prevent the media from overhearing confidential company information, the media room should be away from the Control Centre.  A separate room allows the company to brief the media according to its agenda and the status of the crisis.
+
+It will be necessary to identify the most suitable control centre and media room and review the equipment necessary for both areas such as phone lines, fax, maps, manuals, two-way radios, computer requirements, catering and emergency lighting.
+
+A Control Centre telephone call register should also be put in place for the efficient recording of calls during a crisis.
+
+
+Control Room Sample Layout
+
+
+
+
+
+Sample Telephone Call Register
+
+
+Date:
+
+Time
+Phone No.
+Caller
+Enquiry
+Action
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Message Strategy Guidelines
+
+This will involve setting up a program for managing the media during a crisis involves and developing a set of guidelines for use by the Public Affairs/Media Co-ordinator. 
+
+The core of an agreed message strategy should include:
+
+    • The current situation
+
+    • Human concern for the people issues
+
+    • The operational implications
+
+    • The corporate or organisational implications
+
+    • Details of recovery planning
+
+    • Contact point for further information
+
+
+Pre-incident
+
+    • Identify the media and draw up the key list of radio, television and press outlets that are likely to cover the crisis initially and in the longer term
+
+    • Prepare background information. Seize the initiative by keeping updated background information packs about your organisation with diagrams and any other positive material which can help the reporter understand your operations
+
+    • Conduct media tours and occasional briefings and establish relations with key local, national or international media
+
+    • Train key spokespeople in the handling of media interviews under crisis conditions
+
+    • Set up a briefing program for receptionists and telephonists so as to maintain effective control of all incoming and outgoing calls and enquiries during a crisis
+
+    • Instigate call register and bomb threat procedures
+
+
+
+During incident
+
+    • Assemble necessary information. This should include: effect on employees/third parties, the cause of the event, background information as to the cause, event location, and your strategy to control the crisis
+
+    • Prepare message strategy and statement for release as necessary
+
+    • Prepare for media visit (plans, maps of site)
+
+    • Prepare for media conference
+
+    • Brief spokesperson
+
+    • Syndicate/distribute media release
+
+    • Take media to special room
+
+    • Hold media conference
+
+    • Continue to update media
+
+    • Release recovery plans
+
+
+Recovery Planning
+
+The preparation of a crisis recovery plan gives management the opportunity to eliminate or minimise potential problems which could continue to disrupt the organisation and its operations. At the same time, it can identify alternative means of operations and provide rapid and smooth restoration of service. A proactive plan for operational recovery needs to be set up under the following headings:
+
+    • Identify the most likely crisis scenarios and their impact as per the list of identified threats.
+
+    • Analyse relevant scenarios in terms of (a) goals for recovery, (b) immediate, short-term and long-term strategies to achieve goals, and (c) critical path
+
+    • Establish resources required (for example, financial, human, equipment/material)	
+
+
+Corporate Services Plan
+
+Issues for consideration here include:
+
+    • Legal	
+    • Consult solicitors regarding legal ramifications of response actions
+    • Incident or accident report form: ensure (a) its early completion, and (b) care in writing reports to avoid blame or prejudice any future claim by the business unit or against the business unit. Keep reports short and concise.
+    • Your solicitors should be familiar with your operations.
+    • Witness statements should be collated as soon as possible after the incident.
+
+    • Insurance 
+    • Advise your insurance broker of any incident which may give rise to an insurance claim.
+    • Liaise with any loss assessor/surveyor appointed by insurers.
+    • Where costs are anticipated for repair or replacement of damaged property, legal advice, professional fees or other costs which might be recoverable under an insurance claim, allocate a cost code for all such costs to be charged to.
+    • Ensure all managers are aware of insurance claim code.
+
+    • Financial
+
+    • Clients/Customers
+
+
+Prepare Crisis Manual
+
+The Crisis Management and Recovery Manual is one of the most important references for an organisation. When a crisis arises, the Manual will be the key reference for management as the incident unfolds.  It will act as a valuable checklist of procedures and responsibilities.  
+
+The Manual also assists in the running of crisis management and recovery rehearsals.  The team should continually update the Manual and its checklists to accommodate changes in the organisation and in its environment.     
+
+Core components of the Manual typically include:
+
+    • Distribution
+
+    • First Actions in Crisis
+
+    • Crisis Classification and Reporting
+
+    • Mobilisation Situations
+
+    • Threats and Responses
+
+    • Team Roles
+
+    • Individual Roles
+
+    • Crisis Control Centre
+
+    • Crisis Control Procedures
+
+    • Appendix of Logs
+
+    • Contact Directory
+
+
+Test/Rehearsal Program
+
+Following the completion of the Crisis Management and Recovery Program and the subsequent preparation of the Manual/checklists, a series of exercises is necessary to rehearse the personnel at Head Office and at locations in a crisis that tests the strategies, roles, responsibilities and actions, and monitors responses of internal personnel and external support resources to pressure situations. 
+
+The exercise should test how the organisation as a single authoritative source, disseminates a clear message about what has gone wrong and what steps have been taken to stabilise the situation. To assist in analysis, aspects of the exercise will be recorded on video. Responses should be tested in the following specific areas:
+
+    • The organisational response under the worst-possible scenario through all levels of responsibility.
+
+    • The operation of the control centre, with its Crisis Management and Recovery Team fulfilling their roles in the management of a crisis.
+
+    • Effectiveness of the telephone system when under pressure.
+
+    • How those affected may respond and then cope with their grievances.
+
+    • Effectiveness of media communication and response to media at head office or at incident location, ability to monitor media responses at the location and communication with head office.
+
+    • The unexpected. How effectively the company responds to a crisis that changes direction.
+
+    • Communication language. Do people understand what is being said at each level? How well is the message being presented? Who are the spokespersons?
+
+    • How well the organisation works with external organisations during the crisis period.
+
+    • The human factor. How sensitive is the organisation in showing concern for people affected?  What is the response to relatives affected, etc?
+
+
+
+8	Incident Classification Guidelines
+
+
+The overall plan will require:
+
+    • Definitions for initial incident assessment and subsequent crisis classification
+
+    • Delineation of responsibilities for the activation of any contingency, emergency response and crisis management plan
+
+    • Lines of incident reporting
+
+
+These will typically include:
+
+    • An Insignificant Event: a minor incident or problem, or other internal event which can be handled by Head Office, or personnel on site using standard operating procedures. It is not visible off-site, requires no external response, and requires no report to regulatory authorities.
+
+    • Minor Event: a minor incident (that does not breach regulations), or minor injury (but not lost time injury). It may also be an internal event, which may require a report to outside agencies, but which presents no external threat and requires no assistance or protective actions by external personnel. The situation is under control. However, response by external personnel may be required.
+
+    • Moderate Event: an incident or event, which has the potential to escalate to a more serious crisis and/or affect operations, and which involves activation of an emergency response by site personnel. The incident is not under control but poses no threat to off-site areas. However, response by external personnel may be required.
+
+    • Major Event: a serious event such as a fatality, serious injury, fire, explosion, material release, natural occurrence, or local incident which involves the activation of an emergency response by site and/or corporate personnel and/or external emergency response teams. It may also be another event that has occurred or is imminent, which poses a threat to personnel, third parties and/or seriously affects operations. The crisis is not under control, and action by off-site persons is necessary.
+
+    • Critical Event: a severe crisis such as a number of fatalities and serious injuries, a natural disaster which seriously affects operations, a large fire, explosion, an aircraft or shipboard incident, serious environmental contamination, major equipment malfunction, ethical damage or security incident. It may also be any corporate or people issues, or financial incidents reflecting on the organisation’s reputation, or other local events that have occurred or are imminent which seriously affect corporate operations. The crisis is not under control, and protective actions by external entities are necessary and ongoing. 

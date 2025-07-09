@@ -1,0 +1,139 @@
+﻿
+
+
+
+
+
+A Framework for Analysing and Managing Non-native Species Risks in Antarctica
+
+
+
+
+A Framework for Analysing and Managing Non-native Species Risks in Antarctica
+ 
+Information Paper Submitted by New Zealand
+
+1. Abstract
+New Zealand has developed some guiding principles and a framework for analysing non-native species risks for its national Antarctica programme. An understanding of risk is fundamental to managing the issue of non-native species in Antarctica and analysis of risk allows management to be done in the areas where it will be the most effective. 
+
+
+2. Background
+In line with the Committee’s endorsement of the recommendations of the Non-native Species in the Antarctic Workshop (ATCM XXIX / WP8 2006), with the recommendations from a New Zealand sponsored research project on non-native species pathways and vectors (ATCM XXX / IP 36 2007), and with our knowledge of non-native species incursions at Scott Base (ATCM XXXI / IP 75), New Zealand is developing a framework for analysing and managing non-native species risks in Antarctica through the New Zealand Antarctic programme.
+
+New Zealand has a number of systems in place aimed at managing non-native species hazards for Antarctica. These have mostly been developed in response to existing legislative requirements or specific problems that have occurred in the past. However, the risks associated with running our national programme in Antarctica with respect to the potential importation or movement of species not native to Antarctica (or a part of Antarctica) have not been systematically assessed. An assessment of non-native species risks will allow us to proactively manage the risks and put management measures in place in the areas where they will be the most effective.
+
+Antarctica New Zealand has ongoing support from the Ministry of Agriculture and Forestry (MAF) Biosecurity New Zealand to manage the issue of non-native species in Antarctica. The MAF Biosecurity New Zealand risk analysis procedures (MAF Biosecurity New Zealand 2006) offers a useful framework and starting point for assessing non-native species risks for Antarctica. Because this framework is based on principles in the World Trade Organisation’s Agreement on the Application of Sanitary and Phytosanitary Measures (the SPS agreement) and designed for New Zealand, it has required some adaptation. For example, the international context is different, there is a focus on pathogenic organisms as opposed to ‘hitchhiker’ organisms1, and there are different objectives. However, the principles are entirely relevant. 
+
+This purpose of this paper is to share some guiding principles and a framework for analysing non-native species risks that New Zealand has adapted for its national programme and for the Antarctic context. It is hoped that this will be of use to other national programmes.
+
+
+3. Managing Non-native Species Using a Risk-Based Approach
+Risk can be defined as a combination of probability and consequence. An understanding of risk is fundamental to any non-native species management system. Assessment of risk allows work to be done in the areas where it will be the most effective. Work on non-native species will be most effective if it is strategic and justified in the context of risk.
+
+The management of non-native species risks can be explored using a model to minimise risk at the prevention, surveillance and response stages, which collectively reduce the level of risk to an acceptable level. This model is described in Figure 1 below. The diagram has been adapted to fit New Zealand’s national programme and to suit the Antarctic context. The model can be applied to the movement of people and goods to Antarctica, from Antarctica and within Antarctica. Examples of processes and systems for managing risk at the different stages are also given.
+
+Generally speaking, the earlier in the process (from left to right in Figure 1) the risk is managed, the lower the consequences. While all of the steps outlined in Figure 1 are integral parts of the system, investment in preventative measures is more economical in terms of cost and minimising potential environmental impacts than investment only in the later parts of the process.
+
+Processes and systems for managing risks must be regularly monitored and reviewed. Best practice in this field changes quickly, and so do the risks. Changes in transport, research locations, cargo handling and storage methods, volumes of people and cargo, as well as climate change, all alter the risks. If prevention, surveillance and response systems are established effectively, in the context of a sound risk analysis, the risk of non-native species incursions or dispersals can be reduced to an acceptable level. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1 A risk management model for non-native species in Antarctica
+It is not possible to eliminate all of the risks associated with non-native species in Antarctica, given the level of human activity there. For example, there are numerous living organisms associated with people, fresh food and dry goods tend to have organisms associated with them and human-modified environments such as bases and huts provide environments that support the survival of organisms that might otherwise not establish.   It would be impossible to function in Antarctica and not introduce species via these processes, even with greatly increased non-native species measures. Acknowledging that is an important part of managing the issue and helps an understanding of what is “the acceptable level of risk” or “appropriate level of protection”. Defining what is “acceptable” or “appropriate” in terms of risk management is complex as those concepts are a matter of political or social judgement and not precisely defined (Pharo 2004). 
+4. Undertaking a Risk Analysis
+This section outlines the framework that New Zealand has adapted for the Antarctic context and plans to use for analysing non-native species risks in Antarctica for our programme. The risk analysis process itself is divided into five steps; identifying values, hazard identification, risk assessment, risk management and risk communication and documentation. These are explained in the following sections.
+
+For all steps in the assessment, some principles can be used to help define the quality of the analysis:
+
+    1) The risk analysis should accurately measure the risks and identify mitigation options that achieve an appropriate level of protection;
+
+    2) Reasoning and evidence behind the recommendations of the assessment and any areas of uncertainly should be clearly documented and made available;
+
+    3) Zero risk is not obtainable and as such, risk is managed after deciding what should be considered an acceptable level of risk;
+
+    4) A  level of precaution will be incorporated in the assessment to account for uncertainty;
+
+    5) The risk assessment will be based on the best available information that is in accord with current scientific thinking;
+
+    6) Where there are assumptions or uncertainties, these are considered for further research;
+
+    7) The risk analysis should follow all of the principles above and include an appropriate level of detail to ensure that it will support sound decision making, while also being practicable and achievable.
+
+
+        4.1 Identification of Values 
+Generally speaking, the values that a non-native species risk analysis aims to protect are well understood. For example, in New Zealand both the Biosecurity Act and the Risk Analysis Procedures (MAF Biosecurity New Zealand 2006) outline the values that the non-native species system aims to protect. Objectives for non-native species risk management for the NZ programme in Antarctica have not previously been defined and therefore it is useful to specifically state the values that the programme aims to protect. For the New Zealand Antarctic programme, this would include, for example; values protected under the Antarctic Treaty System e.g. the survival and health of native species and dependent and associated ecosystems, the scientific value of Antarctica (including the relative absence of non-native species), intrinsic and wilderness values, some more pragmatic values such as the health and comfort of bases and stations and any other values determined by legislation.
+
+Agreeing on the values to be protected is essential context for a risk assessment, as it provides the overall aim of the risk assessment. Agreement on values is also needed in order to define what an “acceptable” level of risk is. 
+
+
+4.2 Scoping and Hazard Identification 
+The specific scope of a risk analysis is most commonly a pathway or commodity, but can also be specific pest. The geographical region of interest is also defined. In the case of risk analysis for Antarctica it may also be helpful to define the values being considered, as this may help to better define the scope. Careful scoping is an important way of keeping risk analyses manageable. 
+
+A hazard in the non-native species risk analysis context is any organism or disease that is likely to have a negative impact on the values identified in the first step of the analysis. Identification of potential hazards is a fundamental component of the risk assessment; the assessment may be completed at this point if no potential hazards are identified.
+
+During hazard identification, a list of organisms that are likely to be associated with pathways (e.g. helicopters, ships, people etc) is assembled using existing literature, databases, results from targeted surveys etc. There is a good body of literature on ‘hitchhiker’ organisms and a growing literature on non-native species in Antarctica that will be very useful at this stage.
+
+Hazard scoping looks at the hazards in the context of the assessment as a whole in order to determine the most efficient way to assess them. For example, hazards can be grouped to avoid unnecessary duplication of work. 
+
+
+4.3 Risk Assessment 
+Risk assessments evaluate the likelihood and consequences (for the values identified) of the entry, exposure and establishment of a potential hazard. The aim is to identify the hazards which present an unacceptable level of risk, for which management measures are required. A risk assessment consists of four interrelated steps:
+
+    a. Assessment of likelihood of entry 
+Each potential hazard or group of hazards is assessed in terms of the likelihood of movement into an area where it could impact on the values of the area. This includes an assessment of the biological mechanisms for a non-native species to get onto the pathway, and the likelihood of the potential hazard surviving transport and storage.  A ‘scenario tree’ indicating the steps required for entry to occur can be developed outlining the pathways for entry of the organism or disease. A conclusion is reached on the likelihood of entry of each potential hazard. The risk analysis could be concluded at this point if the likelihood of entry is negligible.
+
+    b. Assessment of likelihood of exposure and establishment
+The aim of this step is to assess the likelihood of the potential hazard or group of hazards reaching a suitable habitat (exposure to a suitable environment) and becoming established. A potential hazard may cause an adverse impact without necessarily becoming established e.g. impacts on intrinsic values. A ‘scenario tree’ outlining the steps necessary for the exposure and establishment of the organism or disease under consideration can be developed.
+
+It can be difficult to predict how an organism or disease will behave in a new environment, and the environmental characteristics within its natural ranges may not equate to its environmental tolerance in new areas of establishment. 
+
+    c. Assessment of consequences
+The aim of this step is to assess the potential consequences associated with the entry, exposure and establishment of the potential hazard or group of hazards, and to estimate the likelihood of such consequences occurring, and spreading. Detailed analyses of consequences may not be required if there is sufficient evidence, or if is widely agreed that the introduction of a hazard will have unacceptable consequences. However if the level of consequences is uncertain or there is limited information about the environment, a more detailed analysis may be needed. Levels of uncertainly should be documented.
+
+    d. Risk estimation
+The aim of this step is to summarise the conclusions from the entry, exposure and establishment and consequence assessments to estimate the likelihood of the potential hazard entering the risk assessment area and resulting in adverse consequences. If the estimated risk is not negligible, the potential hazard is classified as an actual hazard and risk management measures may be required. All uncertainties and assumptions are documented and can be considered for further research. Where there is significant uncertainty in the estimated risk, a precautionary approach to managing risk may be adopted. This can then be reviewed in the light of any new information. 
+
+The method of assessment will vary depending on the situation. Most assessments are qualitative i.e. a reasoned logical discussion of the situation and the biology or epidemiology of the hazard where the likelihood of its entry, exposure and establishment and the magnitude of any consequences are expressed using non-numerical terms such as high, negligible or non-negligible. Quantitative assessments involve developing a mathematical model to link the various aspects of the biology or epidemiology of an organism, which are expressed numerically. The results tend to be challenging to interpret and communicate.
+
+All assessments involve some level of subjectivity, so semi-quantitative methods are common. However these are prone to misinterpretation and are often based on assigning numbers to risks in order to summarise or prioritise them. This can lead to a misleading impression of objectivity and precision.
+
+
+4.4 Risk Management
+Risk management in the context of risk analysis is the process of deciding on measures to effectively manage the risks posed by the hazard(s) when the risk is shown to be non-negligible. Determining what is “effective” is based on considering risk management options against a risk management objective. Depending on context, risk management options may be general or quite specific, but it is easier to test if options meet an objective if that objective is specific.  
+
+Options for measures to manage risk should be as precise as possible. Specific options will often be found in the risk assessment process, for example by analysing ‘scenario trees’ or by reviewing the work on pathways. Options may be available at the place of origin of the hazard or at the destination or the assessment area. Examples of options include inspections, testing of hazard tolerance, prohibitions, research, quarantine systems, conditions for preparation of goods, treatments, education, changing suppliers and restrictions on use of particular products.
+
+Measures for managing risk can be audited to ensure that they are achieving the intended results, for example through inspections and random checks. 
+
+After the management options have been implemented, any residual risk is estimated and a surveillance programme can be designed to monitor the success of the management.
+
+
+4.5 Communication and Documentation
+Risk assessments are communicated and documented to facilitate the understanding of the assessment, to ensure that the reasons for conclusions and recommendations are obvious and to allow for easy review when additional information becomes available. Assessments are peer reviewed to ensure that the key principles outlined above are used. Care must be taken when using various terms to describe risk. For example, it is not sufficient to conclude that there is a possibility of entry, establishment or exposure. Instead, the likelihood (expressed qualitatively or quantitatively) must be evaluated.
+
+
+5. References
+MAF Biosecurity New Zealand (2006). Risk Analysis procedures, Version 1.  http://www.biosecurity.govt.nz/regs/imports/ihs/risk
+
+Pharo, H.J. (2004). Acceptable Risk in Animal Biosecurity Import Risk Analysis – the limits of rationalism. Public Sector 27 (3):8-14.
+

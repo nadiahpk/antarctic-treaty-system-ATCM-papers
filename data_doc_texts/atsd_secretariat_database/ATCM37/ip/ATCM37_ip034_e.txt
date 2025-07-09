@@ -1,0 +1,48 @@
+﻿
+
+
+
+
+
+Japan’s Antarctic Research Highlights 2013–14
+
+
+
+
+
+
+
+
+Japan’s Antarctic Research Highlights 2013–14
+Summary
+Among various research activities carried out by the Japanese Antarctic Research Expedition, three topics are introduced: an internationally endorsed large-scale project on the lower to upper atmosphere, named PANSY, and its upgrade and lidar observations of the Antarctic mesosphere over Syowa Station; sea ice observations aboard the Shirase and on fast ice near Syowa Station; and a geophysical survey at Princess Elisabeth Station and Asuka Station for detecting glacial isostatic adjustment and ice sheet mass changes caused by global climate change.
+	
+1.	Introduction
+The headquarters of the Japanese Antarctic Research Expedition (JARE), Japan’s national Antarctic program, was established in 1955 at the Ministry of Education, Science, and Culture (now the Ministry of Education, Culture, Sports, Science, and Technology, or MEXT). The headquarters comprises departments and agencies of various government ministries, including the Ministry of Foreign Affairs; Ministry of the Environment; Ministry of Defence; Ministry of Land, Infrastructure, Transport, and Tourism; and Ministry of Agriculture, Forestry, and Fisheries. The scientific research and observation programs of JARE are considered and adopted as midterm research plans at general meetings of the headquarters.
+This Information Paper introduces selected highlights from scientific programs carried out by overwintering and summer members of the 54th and 55th JAREs, respectively, near Syowa Station (69° 00′ 25.05″ S, 39° 35′ 01.48″ E) during the 2013–14 season.
+2.	Selected Research Highlights
+Year-round observations have been carried out by overwintering JARE personnel at and around Syowa Station. Seasonal observations are also carried out by summer expedition personnel aboard the Shirase of the Japan Self-Defense Forces and the Umitakamaru of the Tokyo University of Marine Science and Technology for oceanographic observations and in various research areas, including the East Dronning Maud Land, for geophysical survey.
+2.1. 	Upgrade of radar and lidar observations of the mesosphere over Syowa Station
+Observation of the middle and upper atmosphere at Syowa Station has become a new phase of intensive mesospheric studies, where the topside (mesopause) temperature is the coldest in the whole global atmosphere and significant change has been recognized associated with global warming around the ground surface. The increase of polar mesospheric clouds (PMC) in summer in the polar region is considered to be related to such a global trend. In 2012, PANSY (Program of the ANtarctic SYowa Mesosphere, Stratosphere, and Troposphere/Incoherent Scatter [MST/IS]) Radar started continuous troposphere, stratosphere, and mesosphere observation using one-quarter of the full system, which is being extended to 85% of the full system by the summer operation this year by the 55th JARE. The powerful radar observation has been capturing almost continuous polar mesosphere summer echo (PMSE) in summer, and detecting very frequent polar mesosphere winter echo (PMWE) in winter. These echoes are unique characteristics of the polar mesosphere. The Rayleigh/Raman lidar at Syowa Station for temperature and cloud measurement in the troposphere, stratosphere, and mesosphere has been upgraded to have daytime observation capability. In January 2014, simultaneous lidar and PANSY radar observations of daytime PMC/PMSE events were successfully carried out. Together with other instruments at Syowa, we expect to reveal the nature of Antarctic mesosphere.
+
+
+Figure 1. View of PANSY radar (left) and Rayleigh/Raman lidar (bottom right).
+
+2.2	Sea ice observations aboard the Shirase and on land-fast ice near Syowa Station
+Sea ice conditions have great influences on operations in Antarctica, such as the ice navigation of the icebreaker Shirase, cargo transportation to Syowa Station, marine research, and coastal surveys. JARE’s projects have continued in situ observations using an electromagnetic induction (EMI) device and a camera system, and will accurately provide useful information on ice condition for ice navigation.
+In the 2011–12 and 2012–13 seasons, the Japanese Antarctic ice breaker Shirase, which sails to Syowa Station for relief supply every austral summer, had much difficulty navigating in heavy ice conditions, and subsequently could not reach the station. As for the offshore pack-ice region, prevailing northerly winds brought packing ice floes toward the continent, and then shore lead along the fast ice edge was closely packed for a long period. Pack-ice conditions showed various changes due to the wind field and ocean currents. Around Syowa Station, a multiyear formation of land-fast ice has been found to be extremely thick. Thickening processes of this type of ice are influenced by heavy snow cover. Based on crystal structure and isotopic characteristics, multiyear fast ice thickens extremely with deep snow cover. Quantitative consideration has been made on the upward growth, such as snow ice and superimposed ice formation. Regardless of this increase in thickness, sea ice along the coastal regions has become unstable and has been observed to break off. Thus, there are many physical processes that are not yet clear. To ascertain the ice properties and to reveal a mechanism for the variability of coastal ice conditions, satellite and in situ observation data has been analysed.
+
+
+Figure 2. Measurements of sea ice thickness and snow depth with the EMI device aboard the Shirase.
+2.3	Absolute gravity measurements at Princess Elisabeth Station and Asuka Station
+Glacial isostatic adjustment (GIA) and ongoing changes in ice-sheet mass due to global climate change cause gravity changes and crustal displacements in Antarctica. Iterative implementations of combined absolute gravity and global navigation satellite systems (GNSS) measurements enable us to identify temporal variations in gravity and elevation.
+Absolute gravity measurements (fig. 3A) and GNSS observations (fig. 3B) were carried out in collaboration with Belgian Antarctic Expeditions (BELARE) scientists at Princess Elisabeth Station (PES) and Seal Rock near Asuka Station in December 2013 in order to detect gravity changes and crustal displacements associated with GIA as well as those caused by current ice sheet mass changes. Relative gravity measurements using a LaCoste & Romberg gravimeter (fig. 3C) have also been carried out at several outcrop rocks around PES based on the absolute gravity measurement site during this operation. JARE made gravity measurements at many sites around Asuka Station based on the reference site at Seal Rock using relative gravimeters more than 25 years ago. Determination of the absolute gravity value at the reference site will bring accuracy improvement to the past gravity data.
+In addition to the gravity measurements, we implemented reconnaissance flights to the Belgica Mountains for future geological projects, maintenance of an unstaffed magnetometer placed at Utsteinen, and GPS measurement on an ice sheet during the operation. We sincerely appreciate the hospitality and generous support provided by PES and BELARE staff throughout the operation at and around PES.
+
+
+
+Figure 3 A (left): Absolute gravity measurement using an absolute gravimeter A-10 at Seal Rock near Asuka Station. B (center): GPS measurement on a outcrop rock near Princess Elisabeth Station. C (right): Relative gravity measurement using a LaCoste & Romberg gravimeter on an outcrop rock.
+
+
+
+

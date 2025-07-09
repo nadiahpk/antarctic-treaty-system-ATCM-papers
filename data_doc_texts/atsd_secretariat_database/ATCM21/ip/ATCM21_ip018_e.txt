@@ -1,0 +1,295 @@
+ANTARCTIC TREATY              TRATADO ANTARTICO
+XXI CONSULTATIVE MEETING     XXI REUNION CONSULTIVA
+
+TRAITE SUR L'ANTARCTIQUE      ДОГОВОР ОБ АНТАРКТИКЕ
+XXIe REUNION CONSULTATIVE     XXI КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+
+                          MULTIDISCIPLINARY GEOGRAPHIC INFORMATION
+                          SYSTEM FOR FILDES PENINSULA, KING GEORGE ISLAND,
+                          ANTARCTICA
+
+Agenda item 11              Submitted by Chile
+
+XXI ATCM/IP18
+May 1997
+English
+Original: Spanish
+21 ABR '97 13:56   M.RR.EE.CHILE 562 6994202 -DECOM
+562 6994202 DECOM                                      P.29
+d829
+
+MULTIDISCIPLINARY GEOGRAPHIC INFORMATION SYSTEM FOR FILDES 
+PENINSULA, KING GEORGE ISLAND, ANTARCTICA
+
+Ricardo Jaña1 and Laura Encina2
+
+SUMMARY
+
+The characteristics, potential and state of development of the information tool that the 
+"Instituto Antartico Chileno" (INACH), is implementing for the area of Fildes Peninsula, 
+King George island, South Shetland archipelago, are described.
+
+The Geographic Information System (GIS) that is being built, will administer -spatially 
+georeferenced- data of geographic features, facilities, and those data of scientific and 
+environmental nature, permitting the consultation, update, modelling and decision-making, 
+based on procedures executed on the multidisciplinary information there contained.
+
+In this way, the tasks associated with the execution of the Antarctic Treaty regulations on the 
+protection of the antarctic environment and other of scientific character, are attended.
+
+INTRODUCTION
+
+A great number of the Antarctic Treaty System standing group Recommendations, 
+and particularly those that will be in force when the Protocol to the Antarctic Treaty on 
+Protection of the Environment (Madrid Protocol) takes effect, impose to the countries 
+members the need to manage  a varied group of information in order to be able to implement 
+such regulations.
+
+In this context, it has been pointed out, among other antecedents, that the use of the 
+Geographic Information Systems (GIS) is an efficient strategy for supporting environmental 
+management efforts (Harris, 1993), and they provide a platform of appropriate information 
+for the logistic support necessary to assist the research in the Antarctica (Rossi, 1996).
+
+1 Departamento Científico, Instituto Antártico Chileno. Luis Thayer Ojeda 814. Providencia. Santiago. Chile. E-mail: inach@inach.cl
+2 R&Q Ingeniería Ltda. General del Canto 10. P5. Providencia. Santiago. Chile.
+21 ABR '97 13:56 M.RR.EE.CHILE 562 6994232 -DECOM
+562 6994202 DECOM
+
+Aware of this problems, the Instituto Antartico Chileno (INACH), is developing the 
+implementation of a multidisciplinary SIG for Fildes Peninsula. This information tool 
+considers the incorporation and managing of scientific, logistic and environmental 
+information, in one of the geographic areas of the Antarctic continent where our country 
+develops projects of scientific and technological research, monitoring programs, maintaining 
+permanent facilities, all of which works like a center of distribution and logistic support 
+towards other sectors of the Antarctic Peninsula, due to the facilities that it provides.
+
+The use by the Fildes SIG of a base cartography to adequate scales - 1:1.000 and 
+1: 5.000 - and the adoption of technical standards suggested by SCAR in order to code the 
+information, which facilitates its transfer, responds to the suggestions that have been 
+formulated to this respect as key aspects towards this class of application in Antarctica.
+
+To Fildes Peninsula area, the SIG utility and potentiality are reaffirmed upon 
+considering that there other countries also develop activities, configuring a multinational 
+settlement that makes an intensive use of that geographical space, with an important human 
+intervention in a sensitive and fragile environment. So, into the cooperative action scope it is 
+also considered that the implementation of this platform of information will be a contribution 
+for the international community that develops activities and maintains settlements in the area.
+
+FILDES SIG DESIGN
+
+The objectives formulated for the GIS development aim to satisfy the tasks of 
+administration, representation and integration of multidisciplinary information relative to the 
+geographic area of Fildes Peninsula, King George island, South Shetland islands, with the 
+purpose of supporting the scientific , logistic and environmental protection activities that are 
+carried out in the zone.
+
+Towards this aim, the specification of a model of the reality has been considered. In 
+it information is structured and organized in thematic coverages. These coverages group to 
+closed-by elements are spatially represented in vectorial form through points, arcs and
+2
+21 ABR '97 13:57 M.RR.EE.CHILE 562 6994232 -DECOM          P. 31
+562 6994202 DECOM                                      30.3.1
+
+polygons, and they are associated to their corresponding attributes that describe them 
+through relationships among tabular databases. The SIG also considers data incorporation in 
+raster format, as it is the case of the satellite images and the representation of graphic files, 
+such as photographs and scanned facilities plans.
+
+The base cartography used is constituted in a first term for digital cartography to 
+scale 1:5.000. This was carried out by the Instituto Geografico Militar (IGM) of the Chilean 
+Army through the execution of a shared project with INACH. In their elaboration geodesic 
+techniques of satellital positioning were used to perform the ground control, as well as, the 
+use of the DGPS method for the acquisition of other geographical and cultural elements 
+considered. For the sector where the Chilean facilities are concentrated an 1:1.000 digital 
+cartography is also available. This was surveyed in 1984 by the Servicio Aerofotogramtrico 
+(SAF) of the Chilean Air Force and it was recently digitalized by INACH. This information 
+is referred in a coordinate system of UTM cartographic projection, 21 zone and WGS84 
+datum.
+
+In a first stage the database structure considers the following organization of 
+thematic coverages: Control Points, Contour, Spot Heights, Hydrography, Geology, 
+Physiography, Glaciology, Hydrology, Flora, Fauna, Protected Areas Boundary, Routes, 
+Facilities, Networks, Fuel, Intervened Places, Monitoring Stations, Marks and Geographic 
+Names.
+
+Each thematic coverage contains close-by features spatially referenced which, in 
+order to permitting the efficient information exchange, are geocoded under technical 
+standards. In general, the design of each coverage has an attribute table of the represented 
+features, permiting its relationship with other antecedents maintained in computational files, 
+such as plans, digitalized pictures, etc.
+
+ 
+3
+21 ABR '97 13:57     M.RR.EE.CHILE 562 6994?02 -DECOM
+                                        562 6994202 DECOM
+                                                 P.32
+                                                 3432
+The following example illustrates the previously exposed:
+
+COVERAGE NAME:                          CONTROL
+
+GEOGRAPHIC FEATURE:                     Control Point
+DESCRIPTION:                            A control point is an identified location having coordinate measures and precision
+                                        used to provide geodesic control.
+FEATURE CLASS:                          Points
+INFO ATTRIBUTES TABLE NAME:             CONTROL.PAT
+
+
+| ATTRIBUTE    | DESCRIPTION                         | FORMAT              | TYPE |
+|--------------|-------------------------------------|---------------------|------|
+| AREA         | No used for points - system assigned = 0 | 4,12,3              | F    |
+| PERIMETRO    | No used for points - system assigned = 0 | 4,12,3              | F    |
+| CONTROL#     | point sequence number               | 4,5                 | B    |
+| CONTROL-ID   | point identifier                    | 4,5                 | B    |
+| TIPO_CONTROL | Geocode representing type of control point | 5,5              | I    |
+| ORDEN        | accuracy of control point           | 1,1                 | I    |
+| COORD_X      | UTM x-coordinate in meters          | 8,10,3              | F    |
+| COORD_Y      | UTM y-coordinate in meters          | 8,10,3              | F    |
+| ELEVACION    | Elevation in meters                 | 8,10,3              | F    |
+| NOM_ARCH     | point file name with the picture of the punto | 12.12           | C    |
+| FECH_INF     | Date of the information             | 8,10                | D    |
+| FUENTE       | Source of the information           | 50,50               | C    |
+
+Geocodes to TIPO_CONTROL field:
+
+                 TIPO_CONTROL         DEFINITION
+                 24460                Gravimetric
+                 24461                Photogrammetric
+                 24050                precise GPS Station
+                 24051                less precise GPS Station
+                 24462                Trigonometric
+                 24060                Astronomical monumented
+                 24061                Astronomical not monumented
+
+It is noted that through the definition of additional attribute tables (lookup tables)
+one could relate the geocodes with text and appropriate symbols for their representation.
+
+As an implementation platform the software Arc/Info v. 7.03 is used, which is 
+installed in a Workstation HP Apollo 9000/715 running under UNIX 9.03operating system.
+
+4
+21 ABR '97     13:57     M.RR.EE.CHILE 562 6994232 -DECOM
+562 6994202 DECOM
+                                                                   P. 33
+                                                                  3233
+
+This Workstation is connected to a local area network that permits access to the data server 
+of the Information System of Scientific Antarctic Data (SIDCA), possibiliting the 
+establishment of relationships with databases administered by the ORACLE RDBMS tool. 
+The software ArcView is also available as a tool of integration, visualization and 
+consultation of the data which facilitates significantly the access for a special group of users.
+
+CAPTURE OF INFORMATION METHODS USED
+
+The load process of the SIG database considered in the first term the conversion of 
+the digital cartography 1:5.000. This was generated by IGM in IGDS format using 
+InterGraph software and their IGDS information levels transformed to an Arc/Info format 
+considering the coverage structure specified in the design.
+
+For the information at 1:1.000 scale coming from the SAF a procedure was elected 
+in which the 19 sheets that compose that cartography were scanned to 400 dpi, then they 
+were registered on a control points coverage and later vectorized in a semiautomatic form 
+using the ArcScan module of Arc/Info. The steps followed in this pixel-level image 
+vectorization, allowing to diminish the errors caused by traditional digitalization of 
+cartographies, are summarized in Figure 1.
+
+In relation to elements not mapped in the previously elaborated cartographies, it has 
+been used the Diferencial GPS method in order to acquire them. This strategy will be used 
+during the successive ground campaigns in order to incorporate new elements and 
+modernize the information.
+
+For the tabular database definition tools of the Arc/Info software have been used, 
+supplementing the attribute tables of the geographic features with additional attributes for 
+each coverage, as well as, new tables have been created in order to facilitate the standarized 
+representation of the information.
+
+5
+21 ABR '97 13:58 M.RR.EE.CHILE 562 6994202 -DECOM
+562 6994202 DECOM
+
+                                  P.34
+                                  25 34
+
+STATE OF THE SYSTEM DEVELOPMENT
+
+Up to date results obtained in the development of the SIG for Fildes could be 
+synthetized in the materialization of the next activities, as follows:
+
+- training and experience in the use of the software tools used
+- GIS conceptual design
+- load of the 90% of the geographic features of the specified coverages
+- load of the 50% of the attributes that describe features
+
+The current implementation tasks are refered to validate the information loaded, to 
+acquire lacking features and to survey at Fildes Peninsula information of attributes during 
+the summer season of 1996-97. Also, in order to integrate information, relationship tests are 
+carried out over GIS's loaded features with scientific databases (ORACLE tables) 
+administered by the SIDCA.
+
+At present, it is possible to obtain graphic outputs, like that attached, and it has been 
+considered that at the end of 1997, there will be a platform of information allowing to 
+complete the stated objectives.
+
+REFERENCES
+
+Harris, C., 1993. Environmental Management in Antarctica using Geographic Information 
+Systems. PhD Thesis. Scott Polar Research Institute, University of Cambridge. June 
+1993.
+
+Rossi, L., A. B. Della Rocca and D. Manco, 1996. GIS for logistic applications at Terra 
+Nova Bay Station. Seven SCALOP Symposium on Antarctic Logistics and Operations 
+Meeting, Cambridge, UK., August 1996.
+ESRI, 1994. ARC/ INFO Data Management.
+
+Santiago, February 1997.
+
+                                  6
+21 ABR '97 13:58   M.RR.EE.CHILE 562 6994232 -DECOM
+562 6994202 DECOM                                  P.35
+                                                                 34
+                                                                  35
+
+                                  Raster format election
+
+                                  Source map evaluation
+
+                                  Resolution determination
+
+                                  Image registration on TIC's
+                                      coverage
+
+                                  Image rectification
+
+                                  Image to Grid transformation
+
+
+                                  [?][?][?]          [?][?][?]
+
+
+                                            THEMATIC COVERAGE
+
+                                  SPATIAL
+                                  DATABASE
+
+Figure 1. Method for semiautomatic vectorization.
+
+7
+21 ABR '97 13:59   M.RR.EE.CHILE 562 6994202 -DECOM         P.36
+562 6994202 DECOM
+
+                                                    
+                                                     500 Meters
+                        CALETA               
+                        ROLEY                
+         N
+      W     E
+         S
+                                                    
+                    BASE PRESIDENTE EDUARDO FREI MONTALVA (CHILE)
+
+Península Fildes
+
+                                                     100      0       100      200      300      400      500 Meters
+                                                                                
+36 36

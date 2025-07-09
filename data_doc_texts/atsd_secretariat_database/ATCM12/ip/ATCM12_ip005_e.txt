@@ -1,0 +1,876 @@
+ANT/XII/INF5
+12 September 1983
+
+ITEM 14 : THE UTILISATION OF ANTARCTIC ICE
+
+A technical information paper prepared by
+Antarctic Division
+Department of Science and Technology
+Australia
+"Finding loose pieces of ice about, we hoisted out three boats and took up as much as yielded 15 tons of fresh water.  We were obliged to break them up with our ice axes before they could be taken into the boats.  The salt water that adhered to the pieces was so trifling as not to be tasted and, after they had lain on deck a little while, entirely drained off. The melting of the ice is a little tedious, otherwise this is the most expeditious way of watering I ever met with".
+
+Captain James Cook,  1773.
+OUTLINE
+
+The purpose of this paper is to outline the uses, both actual and 
+potential, of Antarctic ice.
+
+There is growing international awareness of the potential of Antarctic 
+ice for use in engineering applications and as a large scale source of 
+fresh water.
+
+The current and potential applications of ice in Antarctic engineering 
+are dealt with here in outline. Since there is considerable interest in 
+the harvesting of icebergs for freshwater, and since this use has great 
+potential value to the many nations which experience problems with the 
+supply of fresh water, there is a more detailed discussion of this 
+topic. A further reason to concentrate on this aspect of ice utilisation 
+is the widespread concern that there may be serious legal or 
+environmental problems associated with iceberg harvesting.
+
+No attempt is made in this paper to deal with legal issues. There are 
+two reasons for this. Firstly, the majority of uses are of such 
+localised impact that they are not likely to give rise to concerns of 
+this nature resulting from their environmental impact. Secondly, the 
+activity most likely to give rise to these concerns is the harvesting of 
+icebergs for freshwater and the issues raised are likely to be so complex 
+as to be outside the scope of what is essentially a technical paper. Of 
+course it may be that harvesting strategies and optimum tow-path 
+considerations will mean that if harvesting does proceed it will be 
+concerned only with icebergs in the Southern Ocean outside of territorial 
+considerations.
+
+While engineering, environmental and economic aspects of iceberg 
+harvesting are examined in some detail, it should be borne in mind that 
+the purpose of this paper is to provide an overview, and many complex 
+issues are referred to only in passing.
+1     BACKGROUND
+
+As a result of man's long history of activity in polar and sub-polar 
+latitudes, particularly in the Arctic, there exists a considerable body 
+of expertise in the utilisation of polar ice.
+
+A feature of human activity in Antarctica is the adaptation of Arctic 
+experience and expertise. The majority of nations operating in the 
+Antarctic are of northern hemisphere origin and the remoteness of 
+Antarctica, its harsh climate and the expense of national expeditions 
+mean that well tried methods are preferred.
+
+In recent years there have been significant advances in the way snow and 
+ice have been used in Arctic and sub-Arctic engineering applications and 
+frequently these can be readily applied in Antarctica. As a result, 
+Antarctic operations resemble closely those of the Arctic. Many recent 
+developments have been motivated by mineral exploration and exploitation, 
+especially in the Canadian Arctic, and are extremely costly. While the 
+moratorium on Antarctic mineral exploration has meant that many of these 
+are not currently directly applicable in Antarctica, it is anticipated 
+that advances in Arctic engineering will continue to influence Antarctic 
+ice utilisation.
+
+Improved scientific understanding of the physical properties of Antarctic 
+ice and commercially available space technology have enabled, for the 
+first time, the comprehensive monitoring of Antarctica's naturally 
+occurring features. Using remote sensing techniques it is now possible 
+to monitor the growth and decay of ice fronts and sea ice, monitor 
+Southern Ocean sea surface temperatures, determine the abundance and 
+distribution of icebergs and measure their drift tracks. This increasing 
+level of scientific understanding and improvements in technology assist 
+continuing investigations of the feasibility of using Antarctic ice in a 
+range of applications.
+
+There has been continuing international discussion since the 1960s on the 
+use of Antarctic icebergs as a means of augmenting water supplies in 
+areas of the world with inadequate water resources. Coastal locations in 
+the Middle East, Africa, Australia, South and North America are cited in 
+scientific literature as possible sites of utilisation of water derived 
+from icebergs.
+2 ICE: OCCURRENCE AND FORMS
+
+Antarctica has an area of 14 million square kilometres, representing nine 
+percent of the land surface of the Earth.  The continent has an average 
+altitude of around 2500 metres and an ice cover up to four kilometres 
+thick.  (Exposed land is limited to approximately two per cent of the 
+total surface area).
+
+Snow falling on the Antarctic continent compacts under its own weight, 
+passing through intermediate stages to become glacier ice.  The exact 
+depth of ice formation is variable, depending on such factors as snow 
+density, rate of accumulation and temperature.  It generally does not 
+occur at much less than 50 metres.  The intermediate stages are 
+considerably more porous than the glacier ice, a property that becomes 
+important when the transport and utilisation of the ice for fresh water 
+is considered.
+
+The accumulating ice sheet moves plastically downhill towards the coast 
+under its own weight.  At the coast three morphological forms of the ice 
+sheet, with different dynamic characteristics, can be recognised.  These 
+are:
+
+. Ice shelves - floating ice which thins as it moves rapidly seaward. 
+At the seaward edge ice shelves are up to 250 metres thick and are 
+the source of the typical Antarctic tabular icebergs, which are 
+generally much larger than Arctic icebergs.  Almost 44 percent of the 
+Antarctic coastline is occupied by ice shelves.
+
+. Ice streams or outlet glaciers - grounded streams (up to 100 
+kilometres wide) which move rapidly due to basal sliding.  At their 
+seaward edge they may form floating glacier tongues and also calve 
+large icebergs, although these icebergs are usually more broken than 
+those from the ice shelves.  About 13 percent of the coastline is 
+occupied by ice streams.
+
+. Ice walls - slower moving parts of the ice sheet terminating at the 
+coast as ice cliffs.  These constitute about 38 percent of the 
+coastline.  Icebergs calving from the ice walls are smaller than 
+those from the ice shelves or ice streams.
+The amount of fresh water stored as ice in Antarctica is estimated to be 
+of the order of 24 million cubic kilometres. This represents 80 to 90 
+per cent of the world's fresh water. There is an average accumulation of 
+about 2400 cubic kilometres per year and an amount approximately equal to 
+half of this (1000 to 1300 cubic kilometres) is discharged annually as 
+icebergs.
+
+In addition to ice of glacial origin the continent is surrounded by a 
+belt of pack ice which waxes and wanes seasonally. Its extent varies 
+from about 20 million square kilometres in September to 3 million square 
+kilometres in March. Its mean annual extent is about 12 million square 
+kilometres. This belt extends between 500 - 1500 kilometres out from the 
+continental coast at its maximum.
+
+The Antarctic pack ice mostly moves outward from the coast in summer in 
+contrast to the ice of the Arctic basin which is trapped within a largely 
+enclosed ocean. As a result the Antarctic floes are thinner than those 
+in the Arctic as almost all are less than one year old. Multi-year 
+accumulations of thicker sea ice are found in the Amundsen and 
+Bellingshausen Seas, and in the western Weddell Sea; but are relatively 
+uncommon elsewhere. The annual floes are up to two metres thick and are 
+usually 10 to 100 metres across near the outer edge of the pack, but 
+floes of similar thickness within the main body of the pack ice may be up 
+to tens of kilometres across. The floes are driven primarily by the 
+surface winds in contrast to icebergs which move with the ocean 
+currents.
+
+3       THE USES OF ICE
+
+3.1     Compressed snow and ice as a structural base for engineering 
+purposes.
+
+The durability and bearing capacity of compressed snow and ice make it a 
+convenient foundation for a variety of engineering applications.  This is 
+a conventional polar building technique for roadway construction and has 
+been successfully adapted in Antarctica to construct airstrips capable of 
+handling wheeled intercontinental aircraft. Compressed snow-ice runways 
+are presently used in Antarctica by the USA and the USSR and are gaining 
+wide acceptance by other nations as a convenient and inexpensive means of 
+airstrip construction.
+3.2     Sub-Surface Structures in Ice
+
+Any type of above-surface installation in the Antarctic is expensive 
+because of the climatic rigours, short work season, inaccessibility and 
+labour shortages. In addition the maintenance costs of installations are 
+high. Many of these problems can be avoided by constructing sub-surface 
+buildings and this technique has been used extensively in the Antarctic. 
+Sub-surface structures are more suited to inland areas where annual 
+average summer temperatures remain below freezing thereby avoiding the 
+percolation of meltwater through the permeable upper snow layers.
+
+An unavoidable problem with excavations in ice is the gradual movement of 
+the ice body by glacial action which may distort the space excavated.
+
+3.3     Ice Islands
+
+The construction of ice islands is being developed in the North American 
+Arctic in areas of land-fast ice to support drilling and mineral 
+exploration equipment. Construction involves increasing the thickness of 
+sea ice by alternately flooding it and allowing the flooded layer to 
+freeze completely before applying the next layer. This process is 
+continued until the ice island becomes grounded on the sea floor. The 
+freezing (or curing) period between floodings that is required for 
+complete solidification is dependent on meteorological conditions.
+
+Several ice islands are currently in use in the Arctic. Platforms 
+average 100 by 200 metres in area and are almost elliptical in shape.  It 
+has been shown that ice islands can withstand the forces of ice movements 
+in shallow waters.
+
+While this technique is not known to have been used in Antarctica it may 
+have potential there.
+
+3.4     Ice Platforms
+
+Presently under development, ice platforms are constructed using steel, 
+concrete or other reinforced frames to contain a consolidated ice 
+platform. The chief advantages of ice platforms are that the rigid frame 
+eliminates the creep tendency seen in the floating ice islands so far
+employed in the Canadian Arctic, and refrigeration of the contained ice 
+body enables it to survive summer melting.
+
+While the initial stages of platform construction in the northern 
+hemisphere have required artificial refrigeration to freeze fresh water, 
+prevailing sub-zero temperatures over most of Antarctica would 
+significantly reduce construction work.
+
+A man-made ice platform has been used at McMurdo Sound to provide a wharf 
+facility.
+
+3.5     Antarctic Ice as a Research Aid and Enviromental Monitor
+
+Antarctic ice is a source of extremely pure and isotopically light water 
+compared to other parts of the world. It therefore has potential wide 
+application as a "tracer" in a range of analytical techniques and for 
+studies of biological processes.
+
+In addition Antarctic ice cores represent a continuous stratigraphic 
+record of variations in climate and atmospheric chemistry. Chemical 
+studies have included measurement of past atmospheric carbon dioxide 
+levels (which have dramatically increased with industrialisation, and may 
+have a strong influence on global climate) and the measurement of 
+sulphate and nitrate impurities which indicate past volcanic activity.
+
+3.6     Icebergs as a Fresh Water Resource.
+
+The tabular icebergs formed when seaboard sections of ice shelves break 
+off are a common feature of the Southern Ocean and represent a potential 
+fresh water resource. The annual iceberg production contains sufficient 
+fresh water to supply a global urban population in the order of 2 500 to 
+6 000 million persons.
+
+The concept of harvesting icebergs is not new. Between 1890 and 1900 
+small bergs were towed from Laguna san Rafael in Chile to Valparaiso and 
+even Callao in Peru.
+Recent considerations have identified a number of locations with frequent water shortages where icebergs might be utilised.  These are:
+
+    the west coast of South America;
+    southern and western Australia;
+    the west coast of South Africa;
+    the Middle East; and
+    the southwest coast of the United States.
+
+The economic, environmental and engineering factors to be considered in evaluating the potential of icebergs as a fresh water resource are considered here.
+
+3.6.1  Engineering Aspects
+
+The engineering aspects of harvesting icebergs for fresh water can be divided among the location, towing and utilisation operations.
+
+Iceberg location can be accomplished by the use of satellite imagery. Because towing an iceberg within pack ice would be a practical impossibility, the month of February, when sea ice is at a minimum, would offer the greatest potential selection of icebergs.  Satellite surveillance to define areas of pack ice would also be advantageous.
+
+Studies of iceberg size and distribution have shown concentrations north of Antarctica's largest iceshelves - the Amery, Ross and Filchner. However while these are the major concentrations, icebergs suitable for towing are fairly evenly distributed in the Southern Ocean.
+
+Because of the necessity to deliver a significant volume of ice, and to maintain stability during the tow, the minimum size of iceberg that would be considered for towing is not likely to be less than 0.1 cubic kilometres.  An iceberg of this size would weigh around 100 million tons and is two orders of magnitude heavier than the largest ships presently afloat.  A number of studies have dealt with icebergs of one cubic kilometre or larger.
+
+Because of the stresses on the iceberg associated with towing, wave and swell action, and thermal effects it is considered essential by most scientists that any iceberg selected for towing should be examined by
+
+ 
+1
+radio echo-sounding to eliminate those with structural weaknesses. This 
+would require either a fixed-wing aircraft of sufficient range operating 
+from a land base or a rotary-wing aircraft operating from a ship.
+
+Optimum tow path considerations are likely to mean that harvesting areas 
+will be at least 1000 kilometres from airfields, so that fixed wing 
+aircraft would need to have a considerable range.
+
+The size of the icebergs that would be involved means that either special 
+vessels` would have to be constructed for the towing, or a number of 
+currently available tugs would have to operate together. (Ocean-going 
+tugboats currently have operating costs of around $15 000 per boat per 
+day).
+
+Towing could be accomplished by securing lines to bollards set in the ice 
+or, more likely, by placing a "belt" around the iceberg. This would have 
+the advantage of offering some protection against wave erosion of the 
+sides of the berg.
+
+The main individual processes which contribute to the deterioration of 
+icebergs are:
+
+i   turbulent forced convective ablation of the bottom and the 
+    immersed areas of the sides;
+
+ii  buoyancy induced natural convection along the sides;
+
+iii undercutting of the sides by wave action and subsequent calving 
+     of sections above the water line;
+
+iv  differential melting along cracks, leading to further calving;
+
+v   possible fracturing caused by thermal stresses, especially in 
+    warmer waters; and
+
+vi  splitting caused by ocean swell.
+
+The relative importance of these processes under towing conditions may be 
+different to that found in free drift conditions.
+Contrary to what one might expect, solar melting would not be a 
+significant problem (at least in southern latitudes), and would be 
+negligible compared to (i) and (ii) above. It has been suggested that 
+solar radiation would cause the loss of around two metres of ice from the 
+upper surface over a 100 day tow.
+
+If it were envisaged that icebergs would be towed in equatorial latitudes 
+some form of protection would be likely to be necessary to prevent losses 
+through convective water circulation.
+
+One suggestion to overcome this has been to wrap the iceberg in a plastic 
+film. While thick insulation would not be required (as it is only 
+necessary to prevent convection of the water layer in contact with the 
+ice) the task of wrapping an object of 0.1 cubic kilometres or larger, 
+which is slowly melting and breaking inside the wrapping, and which is to 
+be towed through the Southern Ocean, will present considerable 
+operational difficulties. A West German firm has successfully 
+experimented with wrapping small pieces of ice in swimming pools. 
+Further experimentation and modelling is required before such techniques 
+could be applied to usable icebergs wrapped and towed at sea. Plans to 
+tow icebergs through equatorial latitudes to destinations such as Saudi 
+Arabia and Southern California do not seem to have prospered, possibly 
+for this reason.
+
+During towing the effects of various forces on the iceberg would need to 
+be anticipated and allowed for. These are:
+
+. current;
+. wind;
+. wave diffraction;
+. drag;
+. Coriolis force.
+
+Tabular icebergs of a size likely to be selected for towing have a 
+thickness of around 250 metres of which around 40 metres is exposed 
+"freeboard". While the force of wind on this exposed area would be 
+considerable it is not nearly as significant as the effect of ocean 
+currents on the submerged portion. Before the towing of a large iceberg 
+across the Southern Ocean could be contemplated there would need to be
+considerably better oceanographic and meteorological data then is 
+presently available for that region.
+
+The Coriolis force (representing the apparent sideways drift of a body 
+moving over the Earth as the Earth turns under it) would be quite 
+significant for large icebergs and might be of similar magnitude to the 
+hydrodynamic drag. For various reasons the effect of this force cannot 
+be easily calculated. This is a problem that would need to be solved 
+before full scale commercial towing operations could begin.
+
+The effects of these forces would mean that the optimum towpath would be 
+unlikely to be the great circle path and could be significantly longer. 
+A likely result of towpath considerations could be that optimum 
+harvesting localities will be identified for particular user regions.
+
+Once the iceberg was delivered to the region in which it would be 
+utilised a different set of problems would be faced. The iceberg could 
+be expected to have a draught at this stage in excess of 150 metres or 
+more. For most, if not all, prospective processing locations this would 
+mean that the iceberg would be unable to approach closer to the coast 
+than 15 to 20 kilometres at best, before running aground.
+
+As a result, a pipeline of this length, either floating or attached to 
+the seabed, would be necessary to convey the meltwater to shore. 
+However, as the ice melted the draught would decrease and the iceberg 
+would float free. This means that either some way of anchoring it at the 
+pipe terminal would need to be found or the berg would have to be moved 
+gradually shorewards so that it was continually grounded.  The problems 
+involved in anchoring a melting (and therefore possibly unstable) mass of 
+several million tons against currents and storms would be considerable.
+
+The alternative to moving the iceberg shorewards (at useful melt rates 
+this would amount to something of the order of two metres per hour) would 
+require a flexible pipeline terminal and would present other problems. 
+The pipeline would be likely to be at least one metre in diameter.  It 
+has been suggested that water could be conveyed to shore by a tanker of 
+around 100 000 tons capacity. While this might be practical it would 
+only remove the need for the pipeline.  Anchoring and melting facilities 
+would still be needed.
+Even if solar radiation could be totally utilised to melt the ice this 
+would not achieve an acceptable melt rate. In fact because of the 
+reflectivity of the ice nothing like total efficiency could be achieved. 
+On the other hand the temperature difference between the surrounding 
+water and the ice might be utilised to increase the melt rates. However, 
+because of the need to avoid contamination by salt water, direct contact 
+must be avoided. (Despite its greater buoyancy the meltwater would not 
+rise up the sides of the iceberg but would be more likely to become 
+horizontally stratified in the seawater).
+
+Contamination by saltwater would be a major problem. During towing the 
+younger, unconsolidated ice in the top 50 metres would be likely to be 
+penetrated by seawater, possibly rendering up to one fifth of the ice 
+unusable.
+
+At the melting site, apart from having to avoid the mixing of fresh and 
+salt water, it would be necessary to guard against contamination by 
+airborne salt, whether as spray or as an aerosol.
+
+It has been suggested that melting of the iceberg might be promoted by 
+the transfer of heat through an adaptation of the Ocean Thermal Energy 
+Conversion Scheme (OTEC). This would use the iceberg as the cold sink of 
+a system producing energy from the thermal gradient between the ice and 
+the surrounding seawater.
+
+Such a scheme would result in the iceberg becoming an electricity 
+generating location. At five percent efficiency a one cubic kilometre 
+iceberg processed over three years would yield 150MW of power (assuming 
+an 18°C temperature gradient).
+
+There would be considerable problems in developing such a project (even 
+once the technology had been developed on a sufficient scale). These 
+would mainly be associated with the instability and decreasing size of 
+the iceberg. However if these could be overcome the value of the 
+electricity generated would exceed the value of the fresh water produced.
+
+Further engineering problems at the processing location would arise from 
+the storage and reticulation of the meltwater. These would be relatively 
+minor compared with the factors already mentioned and will not be dealt 
+with here.
+3.6.2   Economic Aspects
+
+Providing the engineering obstacles can be overcome the likelihood of 
+iceberg utilisation will ultimately be determined by economic factors.
+
+One way of considering the costs of water is to consider the energy costs 
+of performing various operations on water.  The following table provides 
+useful comparisons.
+
+TABLE 1:  ENERGY REQUIRED TO ACCOMPLISH SOME COMMON OPERATIONS ON WATER
+
+ OPERATION                                  ENERGY UNITS REQUIRED kJ/kg
+
+pumping to 100 metres                          1
+pumping through 100km pipe                    1 - 5
+removing 300ppm salinity by electrodialysis    3
+heating 1°C                                    4.2
+desalination of seawater by multi-stage        
+  flash distillation                          600
+towing iceberg 2-3000km                      0.5a - 10b
+
+a  larger bergs located north of 60°S and towed by untried theoretical 
+   methods
+
+b  small bergs towed through unfavourable conditions using inefficient 
+   towing methods.
+
+While there have been a number of estimates of the cost of water derived 
+from icebergs the majority seem only to have dealt with the transport 
+cost and have not considered the capital costs for towing vessels and the 
+terminal and melting plants.
+
+The cost of augmenting water supplies from more conventional sources 
+depends on whether the end use is for agriculture or for urban and 
+industrial applications. Generally urban water supply augmentation costs 
+are around ten times those for agriculture.  This means that any
+comparatively expensive new technology is likely to be directed first to 
+urban uses, though it has been suggested that the volumes of water that 
+would be available from icebergs would be more suitable to agricultural 
+purposes.
+
+The costs involved in providing fresh water from icebergs would include:
+
+.    satellite user costs (location of icebergs and pack ice), 
+     providing suitable satellite coverage is available;
+
+.    long range aircraft (radio echo sounding), or ship with 
+     helicopter facility;
+
+.    towing costs including capital costs and operating costs of 
+     towing vessels;
+
+.    anchoring facility for iceberg at processing location;
+
+.    melting ice (capital cost of equipment plus operating costs - 
+     may yield a large profit if OTEC technology can be developed)
+
+.    15 to 20km or more of pipeline from iceberg to shore (or tanker 
+     operating cost)
+
+In addition to the economic benefit from electricity generation via the 
+OTEC process it has been suggested that additional benefits could be 
+derived by utilising the low temperatures of the iceberg to:
+
+.    provide domestic and industrial cooling; and
+
+.    lower the condensing temperature of conventional power stations, 
+     thus improving their efficiency.
+
+Apart from any other considerations both processes would depend on the 
+availability of conveniently located infrastructure (housing, industry or 
+power stations). It seems unlikely that these elements would initially 
+be specially located in areas to take advantage of untested iceberg 
+utilisation techniques. Thus the advantages flowing from such uses would 
+be incremental benefits at a later stage.
+As an indication of relative costs for various water supply augmentation
+methods the following figures are presented for two locations in the
+south of Australia that experience water supply problems.  (It is
+emphasised that the costs are indicative only - they are from different
+sources and the bases of calculation are not known). Costs are in US
+dollars and have been adjusted to 1983 values. The values are for water
+immediately prior to input to the urban system and do not include urban
+capital costs, administration, maintenance or metering costs.
+
+TABLE 2: RELATIVE WATER SUPPLY AUGMENTATION COSTS FROM VARIOUS SOURCES
+
+                        Cost (£/m3       
+                 Adelaide     Perth
+
+present cost (including treatment    47        10
+desalination of sea water           108       144
+desalination of brackish surface water 66      80
+urban run-off reuse                 145       
+sewage reuse                        109       
+household rainwater tanks           233       
+extra pumping from Murray River (70km) 50     
+water tanker deliveries (200km)     146       
+treated groundwater                 ?        10
+artesian water                      ?         5
+development of major hill sources     ?      15-26
+diversion of future irrigation supplies ?   20-33
+development of Southwest rivers        ?      33-46
+pipeline from Ord River (2200 km)      ?       800
+iceberg water*                      97        56+
+* basis of calculation not known
++ using tanker to deliver water to shore
+3.6.3     Environmental Aspects
+
+The environmental aspects of harvesting icebergs for fresh water may be 
+considered according to the different stages of the operation.  Thus we 
+need to consider the impacts in Antarctica, during towing, and at the 
+point of utilisation.
+
+There would be few, if any, environmental impacts in the Antarctic region 
+associated with the harvesting of icebergs for freshwater.  While 
+ice-shelves and semi-permanent glacier tongues provide a surface for 
+Emperor Penguin colonies harvesting would be most likely to occur some 
+hundreds of kilometres from land.  In this area icebergs sometimes serve 
+as the resting places of penguins and other birds and seals.  The 
+underwater surface of the ice provides a substrate for epontic algae and 
+some marine invertebrates.
+
+While the local effect on the biota associated with a harvested iceberg 
+would be dramatic it is extremely unlikely that the volume of icebergs 
+harvested would ever be more than an insignificant proportion of the 
+standing stock of icebergs.  Thus the effect on the Antarctic biota would 
+be minimal.
+
+The transit-related environmental impacts of iceberg towing are likely to 
+be localised and not environmentally significant.  The only exception to 
+this appears to be from the effects of ice debris breaking away from the 
+iceberg in the shipping lanes.  (There is also the possibility of an 
+iceberg completely disintegrating while under tow or escaping from the 
+towing vessels).  While the danger from ice debris might not seem great, 
+a cube of ice of only 15 metres on a side would weigh over 2000 tonnes 
+and would pose a potential hazard to shipping.  The suggested technique 
+of completely wrapping icebergs might overcome this problem.
+
+As an iceberg was moved into warmer latitudes it would be likely to be 
+surrounded by a localised fog bank.  This would not be sufficiently 
+extensive to constitute a hazard to navigation or to have any 
+environmental consequences.
+
+At the processing site the iceberg would be likely to be out of sight of 
+land. Environmental impacts arising from the cooling of surrounding air 
+and water would be of limited extent.  There would likely be greater,
+though still localised, impacts arising from the cooling of surrounding 
+waters. Greater impacts would flow from the construction of the 
+necessary pipeline, terminal, power generation plant and any shore-based 
+facilities. The consequences of pumping large quantities of cold water 
+into reservoirs would need to be investigated.
+
+3.6.4    The Future of Iceberg Harvesting for Fresh Water
+
+It is extremely difficult to forecast the future of iceberg utilisation 
+for fresh water because this depends on the costs and development times 
+of as yet undeveloped harvesting, transporting and processing 
+technologies.
+
+There are uncertainties about virtually every aspect of the towing 
+operation. The response of icebergs, even to natural forces alone, is 
+only beginning to be understood. Little or nothing is known of the 
+likely responses to the combination of natural and towing forces, yet the 
+ability to forecast such responses will be crucial to the success of the 
+towing operation.
+
+Even if iceberg harvesting and processing costs can be known these would 
+still have to be compared with costs of alternative supply technologies 
+in each potential user region. Then water demand would have to be 
+forecast at the different supply costs to determine whether returns would 
+cover development and maintenance costs.
+
+4    CONCLUSION
+
+Despite the uncertainties surrounding iceberg harvesting for fresh water 
+there are many uses for Antarctic ice that have immense practical and 
+potential value.
+
+While some of these are direct benefit only to operations in Antarctica, 
+with increasing presence in Antarctica and further development of ice 
+utilisation technology the potential for flow-on benefits to mankind 
+generally can be expected to increase.
+
+Although it seems technologically possible that icebergs can be located, 
+towed and utilised for fresh water, there are considerable technological 
+
+ 
+I
+uncertainties to be tested and resolved before it will be attempted.
+There is at least an equivalent degree of uncertainty, however, in the 
+economics of iceberg towing and utilisation.  Even at optimum efficiency 
+the costs of towing and melting the ice seem prohibitive and make it 
+unlikely that icebergs will be harvested for freshwater inthe immediate 
+future.  There will have to be a substantial increase in the demand for 
+fresh or cold water before the economic uncertainties are resolved.
+BIBLIOGRAPHY
+
+ARGAWAL, A. New Scientist, 75, 1977: 11-13.
+__, Aurora, Midwinter 1977: 88-89.
+
+BAKER, D.J. Jr., NOWLIN, W.D. Jr., PILLSBURY, R.D., and BRYDEN, H.L., 
+Antarctic circumpolar current: space and time fluctuations in the 
+Drake Passage. Nature, 268 (5622), 19777: 696-699.
+
+BANKE, E.G. and SMITH, S.D., Measurements of towing drag on small 
+icebergs, I.I.E.E. International Conference on Engineering in the 
+Ocean Environment 1, 1974:130-132.
+
+BARRY, R., The World Hydrological Cycle, in: R. Chorley (Ed.), Water, 
+Earth and Man, 1969.
+
+BUDD, W.F., JACKA, T.H. and MORGAN, V.I. Antarctic iceberg melt rates 
+derived from size distributions and movement rates, Annuals of 
+Glaciology 1, 1980: 103-112
+
+BUDD, W.F., JENSSEN, M.J.D. and RADOK, U., Derived physical 
+characteristics of the Antarctic ice sheet, A.N.A.R.E. Interim 
+Reports, Series A (N) Glaciology, Antarctic Division, Melbourne, 
+Australia, 1971, 178 pp.
+
+BURROWS, C.J. Icebergs in the southern ocean, New Zealand Geogr., 
+32, 1976:127-138.
+
+BURT, J.C., Iceberg Water for California? Science Digest, 39(2) 1956:1-4.
+
+CALDWELL, M.J., Perth Water Resources; the Role of Groundwater Resources, 
+paper presented at a symposium organised by CSIRO. Division of Land 
+Resource Management and W.A. State Committee of the Water Resource 
+Foundation, University of W.A., 21-22 May 1981. CSIRO, Melbourne, 
+1981.
+CAMPBELL, W.J., Communication to the Scientific Committee of I.F.F.
+(Icebergs for the Future) at Key Biscayne, U.S.A., March 1978.
+
+CARMACK, E.C. and FOSTER, T.D. On the flow of water out of the Weddell
+Sea, Deep Sea Research, 22(11), 1975: 711-724.
+
+CHIRIVELLA, J.E. and MILLER, C.G., Hydrodynamics of icebergs in transit,
+in: A.A. Husseiny (Ed.) Iceberg Utilization, Pergamon, Oxford,
+1978:315-333.
+
+CIRIACY-WANTRUP, Waters and Water Rights, in: Clark, (Ed.), Water
+Economics: Relation to Law and Policy, 1967:414-415.
+
+CLAVIER, P.A., Calving, Paper presented at the First International
+Conference on Iceberg Utilization etc., at Iowa, U.S.A., 1977.
+
+CLAWSON, M., TANDSBERG, H.H. and ALEXANDER, L.T., The economic
+impracticability of desalting sea water for large scale agriculture.
+Science 164 (3884) 1969:1141-1148.
+
+DHALLUIN, M. Investigations on the currents influencing iceberg motion,
+Annals of Glaciology, 1, 1980: 89-93.
+
+DMITRASH, Zh.A., Horizontal dimensions of Antarctic icebergs according
+to aerial photo-survey data, Soviet Antarctic Expedition Information
+Bulletin, No. 86, 1971:40.
+
+EL KASSAS, I.A., Potential application of remote sensing in locating and
+tracking Antarctic icebergs, in: A.A. Husseiny (Ed.), Iceberg
+Utilization, Pergamon Press, Oxford, 1978, 146-157.
+
+Final Report of the Eighth Antarctic Treaty Consultative Meeting, 1975:5.
+
+FOLDVIK, A., GEMMELSROD, T. and GESSING, Y. Flow around icebergs, Annals
+of Glaciology, 1, 1980: 67-70.
+
+FOSTER, T.D. and CARMACK, E.C., Journal of Physical Oceanography, 6,
+1976:36-44.
+FRYE, MAXWELL, EMERY and KETCHUM, Ocean Science and Marine Resources,
+in: Gullian (Ed.), Uses of the Seas, 1968:67.
+
+GIRARD, D., Underwater inspection of icebergs, in: A.A. Husseiny (Ed.),
+Iceberg Utilization, Pergamon Press, Oxford 1978: 283-287.
+
+GOLDMAN, C.R., Ecological aspects of iceberg transport from Antarctic
+waters, in: A.A. Husseiny (Ed.), Iceberg Utilization, Pergamon
+Press, Oxford, 1978, : 642-651.
+
+GORDON, A.L., Comments of Southern Ocean near-surface circulation and its
+variability, Annals of Glaciology, 1, 1980: 57-60.
+
+GREENSPAN, H.P., The theory of rotating fluids, Cambridge University
+Press, 1968.
+
+GREGG, M.C. and COX, C.S., Deep Sea Resources, Vol. 19, 1972: 355-376.
+
+HULT, J.L. and OSTRANDER, N.C., Antarctic icebergs as a global fresh
+water resource, Rand Corporation, Report R-1255-NSF, October 1973,
+83 pp.
+
+______ and ______, Applicability of ERTS for Surveying Antarctic Iceberg
+Resources, R-1354. NASA/NSF National Science Foundation and the
+National Aeronautics and Space Administration, November, 1973.
+
+______ and ______, Applicability of ERTS to Antarctic iceberg
+resources in: S.C. Freden and M.A. Becker (Eds.), Third Earth Res.
+Tech. Satellite-1 Symposium, Vol. 1B, NASA SP-351, 1974: 1467-1490.
+
+HULT, J., Water Rights and Assessments, RAND Paper Series, P-5271,
+July 1974.
+
+HUSSEINY, A.A., (Ed.), Iceberg Utilization. Proceedings of the first
+International Conference, Ames, Iowa. Permagon Press, Oxford, 1977.
+
+HUPPERT, H.E. and TURNER, J.S., On melting icebergs, Nature,
+271,1978:46-48.
+
+Iceberg Shortage Ahead, New York Times, Nov. 11, 1976:42.
+Institute on Man and Science, Transporting Icebergs as a Freshwater
+Source, 1974.
+
+JOB, J.G., Dynamics of a towed iceberg, Report to Australian Academy
+of Science Iceberg Committee, March, 1975.
+
+__, High efficiency iceberg propulsion systems, in: A.A. Husseiny
+(Ed.), Iceberg Utilization, Permagon, Oxford, 1978, : 339-349.
+(Proceedings of 1st Int. Conference on Iceberg Utilization, Ames,
+Iowa, October 1977).
+
+__, Iceberg Utilization: What's in it for Australia?  Aurora,
+Spring 1977:157-160.
+
+__, Numerical modelling of iceberg towing for water supplies -
+a case study, Journal of Glaciology, 20(84), 1978: 533-542.
+
+__, Simulation of iceberg towing, Report to Australian Academy of Science
+Iceberg Committee, September 1975.
+
+__, Yields and energetics in moving unprotected icebergs to southern
+continents, in A.A. Husseiny (Ed.), Iceberg Utilization, Permagon,
+Oxford, 1978:503-527.
+
+JOSBERGER, E.G., A laboratory and field study of iceberg deterioration in:
+A.A. Husseiny (Ed.), Iceberg Utilization, Pergamon Press, Oxford,
+1978 : 245-264.
+
+LETTAU, H. and LETTAU, K. Exploring the world's driest climate Institute
+for Environmental Studies. Report No. 101, University of Wisconsin,
+Madison, U.S.A., 1978.
+
+LOEWE, F., The water budget in Antarctica, Proc. of the Symposium on
+Pacific Antarctic Sciences, Antarctic Res. Exped. Scient. Reports,
+Special Issue, No. 1, p. 101, Antarctic Division, Melbourne,
+Australia, 1967.
+
+LONG, R.R., Steady motion around a symmetrical obstacle moving along the
+axis of a rotating liquid, Journal of the Atmospheric Sciences, 10,
+1953: 197-203.
+LUNDQUIST, Thomas R., The Iceberg Cometh?:  International Law Relating to 
+Antarctic Iceberg Exploitation.  Natural Resources Journal, 17(1), 
+January 1977: 1-41.
+
+MORGAN, V.I. and BUDD, W.F., The distribution movement and melt-rates of 
+Antarctic icebergs, in: A.A. Husseiny (Ed.), Iceberg Utilization, 
+Pergamon Press, Oxford, 1978:220-228.
+
+MOUGIN, G., Communication to the Scientific Advisory Committee of I.F.F. 
+(Icebergs for the Future), at Key Biscayne, U.S.A., March 1978.
+
+MOUGIN, G., Communication to CSIRO W.A. State Committee, Perth, May 1978.
+
+NAZAROV, V.S., Ice of the Antarctic Waters, Results of the I.G.Y. Academy 
+of Sciences, Soviet Geophysics Committee, Okeanologiya, No. 6, 1962.
+
+NESHYBA, S., Nature, 267, 1977:507-508.
+
+PATERSON, W.S.B., The Physics of Glaciers, Pergamon Press, Oxford, 1969.
+
+PETIT, M. et al Project Marisonde, Boness pour P.E.M.G. Ministere des 
+Transport, Direction de la Meteorologie Etablissement d'Etudes et de 
+Recherches Meteorologiques. Boulogne, France, 1979.
+
+PIKE, E.W., A fresh look at electric power generation, Paper presented to 
+the New England section of the American Physical Society, at 
+Quinnipiac College, Hamden, Conn. U.S.A., April 1975.
+
+Prince Mohamed Al Faisal Al Saud, Communication to the Meeting on Iceberg 
+Towing, held at Marly le Roi near Paris by C.I.C.E.R.O., June 1977.
+
+ROBIN, G., Polar Ice Sheets: A Review Polar Record, 16, 1971:5.
+
+ROMANOV, A.A., The size of icebergs in East Antarctica, Soviet 
+Antarctic Expedition Information Bulletin, 87, 1973:49.
+
+Saudi Arabia Commissions Iceberg Study, New York Times, Nov. 3, 1976:2.
+
+SCHMIDT, Can You Lead an Iceberg to the Desert Christian Science Monitor, 
+November 21, 1975:1.
+
+1
+SCHWERDTFEGER, P., On icebergs and their uses, Final report to the Australian Academy of Sciences from Iceberg Committee, June 1978 
+(with technical report on towing from J.G. Job).
+
+__, On Icebergs and their Uses, A report to the Australian Academy of Science, Elsevier Scientific Publishing Co., Amsterdam, Jan. 26, 1979.
+
+__, The thermal properties of sea ice, J. Glaciol, 4(36) 1963:989-807.
+
+__, Utilization of Icebergs for Freshwater;  a Brief Assessment, Flinders Institute for Atmospheric and Marine Sciences to the Australian Department of Science Canberra, February 1978.
+
+SIMPSON, J., Iceberg Utilization:  Comparison with cloud seeding and potential weather impacts, in: A.A. Husseiny (Ed.), Iceberg Utilization, Pergamon Press, Oxford, 1978:624-639.
+
+SWITHINBANK, C., Remote sensing of iceberg thickness, in:  A.A. Husseiny (Ed.), Iceberg Utilization, Pergamon Press, Oxford, .1978:100-107.
+
+SWITHINBANK, C.W.M., MacCLAIN, E.P. and LITTLE, P. Drift tracks of Antarctic Icebergs, Polar Record, 18(116), 1977: 495-501.
+
+TCHERNIA, P., Etude de la derive antarctique east-ouest an moyen d'icebergs suivis par le satellite Eole. Compte rendus de L'Academie des Sciences de Paris, 278, Serie B, 1974: 667-674.
+
+TCHERNIA, P. and JEANNIN, P.F., Observations on the Antarctic east wind drift using tabular icebergs tracked by Satellite Nimbus F(1975-1977), Deep Sea Research, 27A, 1980:  467-474.
+
+TUCK, E.O., Comments on Iceberg towing, Report to Australian Academy of Science Iceberg Committee, August 1975.  University of Adelaide, Applied Mathematics Report T7501.
+
+__, Mathematical Aspects of Iceberg Towing. Notes prepared for a survey paper presented at a scientific discussion meeting on "Iceberg Utilization", Organised by the Australian Academy of Science, held at the University of Melbourne, 28-29 Feb. 1980.  University of Adelaide.  Applied Mathematics Dept. Report T8002, Feb., 1980.
+
+I
+TURNER, J.S. Buoyancy Effects in Fluids, Annual Review of fluid Mechanics, 
+6, 1974:37-56.
+
+U.S. Navy Hydrographic Office, Oceanographic atlas of the polar seas. Pt 1 
+Antarctic. Washington D.C., U.S.N. Hydrographic Office, Publication 
+No. 705, 1957.
+
+VINJE, T.E. On the drift ice conditions in the Atlantic Sector of the 
+Antarctic. Proceedings Vol. 3, Fifth International Conference on 
+Port and Ocean Engineering under Arctic Conditions, Trondheim, 
+Norway, 1979. University of Trondheim, Norwegian Institute of 
+Technology:  75-82.
+
+VINJE, T.E., Some satellite-tracked iceberg drifts in the Antarctic, 
+Annals of Glaciology, 1, 1980: 83-87.
+
+WEEKS, W.F. and CAMPBELL, W.J., Antarctic Icebergs as a Freshwater 
+Resource, Polar Record, 16(104), 1973:661-665.
+
+___ and ___, Icebergs as a freshwater source: an appraisal, 
+J. Glaciol. 12(65) 1973:207-233.
+
+___ and ___, Icebergs as a freshwater source: an appraisal, U.S. Army 
+Corps of Engineers, Cold Regions Research and Engineering Laboratory, 
+Research Report 200, January 1973.
+
+WEEKS, W.F. and MELLOR, M., Some elements of iceberg technology, in: 
+A.A. Husseiny (Ed.), Iceberg Utilization, Pergamon Press, Oxford, 
+1978:45-98.
+
+WEEKS, W.F., Some elements of iceberg technology, in A.A. Husseiny 
+(Ed.), Iceberg Utilization, Permagon, Oxford, 1978:45-99.
+
+WORRALL, J.R., Ocean thermal energy: A resource for Australia, Proc. 
+of the Engineering Conference, Melbourne, April 1978.
+
+WRIGHT, N. and WILLIAMS, P. (Eds.), Mineral Resources of Antarctica, 
+Geological Survey Circular, 705, 1974:15-16.
+
+ 
+1

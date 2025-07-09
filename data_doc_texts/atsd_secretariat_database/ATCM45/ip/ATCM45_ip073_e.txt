@@ -1,0 +1,142 @@
+Addressing critical knowledge gaps identified by the IPCC in
+Antarctica’s future contribution to sea level rise by international
+collaboration
+In support of WP39
+Addressing critical knowledge gaps identified by the IPCC in
+Antarctica’s future contribution to sea level rise by international
+collaboration
+Summary
+ATCM XXL WP0039 DML-RINGS and Enderby Land RINGS –
+opening extensive international collaboration to close critical data
+gaps for sea-level projections (Norway, Germany, Australia,
+Belgium, China, Finland, India, Japan, Sweden, United States)
+suggests that Parties lend their support to the pan-Antarctic RINGS
+initiative and encourage coordinated regional efforts to close data
+gaps, using the DML and Enderby Land effort as a useful example
+and test case for the broader Antarctic needs. This Information
+Paper provides further information about the societal and scientific
+rationale of the RINGS initiative, as well as information about the
+regional efforts initiated to contribute to RINGS and points to
+further published information related to this.
+The bed topography at the Antarctic margins and its link to sea
+level rise
+The Antarctic Ice Sheet is the largest freshwater mass on Earth,
+holding a volume of water equivalent to 58 meters of global sea
+level rise. Accurate projections of the future evolution of the ice
+sheet are essential for mitigating potential risks to people and
+infrastructure along continental coastlines and on low-lying islands.
+The bed topography around Antarctica’s margins fundamentally
+affects the dynamics of ice flow and the vulnerability of glaciers and
+ice shelves. Warm ocean water is routed under the ice shelves and
+melts the base of the ice shelf near the grounding line (see the
+illustration). It may trigger the retreat of the grounding line and
+acceleration of the ice discharge. These processes largely depend on
+the bed topography under the ice. For example, seabed valleys
+under the ice shelves may act as a highway to deliver warm ocean
+water to the grounding line. Small bed bumps near the grounding
+line may act as a stopper of initial retreat. Mapping such features is
+fundamentally important to predict the future of the Antarctic Ice
+Sheet in the coming centuries. Despite its importance, the bed
+topography around Antarctica’s margins remains poorly known.
+Nearly three quarters of the ice-sheet margin comprises floating ice
+shelves. When ice is discharged across the grounding line to the ice
+shelf, it contributes directly to sea level rise. Quantifying the ice
+discharge from the ice sheet to the ice shelf therefore requires
+accurate measurements of ice thickness and flow speed at the
+grounding line.
+Whereas ice thickness can change relatively rapidly, the elevation
+of the bed does not change significantly over decadal timescales. So
+once the bed topography is measured, future thickness changes of
+the grounded ice as well as flow speed can be monitored with ice
+sheet surface elevations measured by satellites.
+The emerging SCAR initiative RINGS aims to measure bed
+topography using airborne radar and gravimeter and to collect
+other key data to characterize the coastal regions all around
+Antarctica. It is multi-disciplinary science that can be made as an
+integrated effort of science and logistics and has a direct and
+immediate impact for the society.
+Fig. 1. The grounding line, where ice on land meets the ocean and
+begins to float, is retreating or will retreat in many regions of
+Antarctic Ice Sheet, primarily because of ocean-induced melting
+under floating ice shelves. Grounding line retreat is governed by the
+interplay among ocean circulation, ice dynamics, and bed
+topography; areas where ice recedes over a retrograde slope, as
+depicted here, may be especially vulnerable. Credit: National Snow
+and Ice Data Center, NASA
+Collecting bed topography data from airplane
+We are not yet capable of measuring ice thickness and bed
+topography with satellite-based instruments, so large-scale bed
+topography under the ice is still measured by airborne radar. Local
+features are also measured by ground-based radar surveys.
+However, radar does not always detect the bed clearly in
+challenging cases, such as when the ice surface is highly crevassed
+or when the ice lies in deep and steep valleys. In such cases, gravity
+data measured from airplanes can be inverted to estimate bed
+elevation and ice thickness.
+Analysis done in context of the RINGS initiative has revealed poor
+data coverage in coastal regions. Only 12% of the grounding line is
+within 1 kilometer of a radar data point; nearly 50% of the
+grounding line is not within 6 kilometers of a data point, and about
+28% of the grounding line is not within 20 kilometers of a data
+point. Data coverage is better for fast-flowing glaciers than for slow-
+moving ice in many regions, but even for glaciers that are well
+studied, data are not always available continuously along the
+margin. The reason is that radar data are often collected along ice
+flow lines, rather than across the glacier, for ice flow modeling
+purposes.
+Fig. 2. Plotting proportions of the Antarctic Ice Sheet margin (i.e.,
+at the grounding line) according to the proximity of the nearest
+radar-measured bed elevation data point shows that
+only 12% of the margin currently has at least one data point within
+1 kilometer and nearly 28% of the margin has no data points within
+20 kilometers (left). Data availability varies considerably by region
+(right), with some East Antarctic regions standing out for their
+sparsity of data (e.g., at one o’clock and two o’clock in the
+diagram). Even in the region including the relatively data rich
+Amundsen Embayment (eight o’clock), nearly a quarter of the
+margin has no data within 5 kilometers. Source: Matsuoka et al.
+(2022)
+Closing the gap through RINGS
+SCAR RINGS is an international initiative that aims to collect a
+comprehensive airborne data set from the Antarctic Ice Sheet
+margin to better estimate ice discharge and sea level contributions
+today and in the future. RINGS aims to organize individual efforts
+to carry out three vital rings of pan-Antarctic surveying. The
+primary survey will follow the grounding line around the perimeter
+of Antarctica, and the other two will cover the seaward and
+landward sides of the grounding line. Completing the RINGS
+surveys will require an international, pan-Antarctic collaboration
+that integrates existing and novel technical and logistical
+capabilities of numerous countries.
+There is an ongoing effort to carry out regional surveys in Dronning
+Maud Land and Enderby Land. These two regions are adjacent to
+each other but serve as distinct examples from which lessons can be
+taken to plan RINGS surveys in other regions. Many nations actively
+work in Dronning Maud Land and already have strong collaborative
+relationships. Also, there is ample of data in this region, which can
+be used to guide our further study to develop a comprehensive
+dataset. On the other hand, Endebry Land is the largest data gap in
+the context of RINGS (see the histogram and map above), and there
+has been very little survey efforts historically speaking. It requires
+to develop new collaboration between nations and starts the RINGS
+effort with reconnaissance surveys that lead to more comprehensive
+surveys in later seasons. These efforts are coordinated between
+scientists and logistics specialists based on lessons from previous
+regional surveys.
+Further information
+For further information about the societal and scientific rationale of
+the RINGS initiative, as well as information about regional efforts
+initiated to contribute to RINGS see:
+Matsuoka, K., R. Forsberg, F. Ferraccioli, G. Moholdt, and M.
+Morlighem (2022), Circling Antarctica to unveil the bed below its
+icy edge, Eos, 103, https://doi.org/10.1029/2022EO220276.
+Published on 15 June 2022.
+RINGS whitepaper RINGS: Collaborative international effort to map
+all Antarctic ice-sheet margins: https://www.scar.org/library/
+science-4/physical-sciences/rings/5768-white-paper-2022or
+https://zenodo.org/record/6638327#.ZBwf43bMK70
+Enderby Land RINGS whitepaper International collaboration is
+urgently needed for airborne surveys in Enderby Land to fill the
+largest RINGS data gap: https://www.scar.org/library/science-4/
+physical-sciences/rings/5919-white-paper-2023/ or /https://
+doi.org/10.5281/zenodo.7818281

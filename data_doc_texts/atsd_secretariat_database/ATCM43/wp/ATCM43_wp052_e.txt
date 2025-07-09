@@ -1,0 +1,164 @@
+The Retrospective Analysis of Antarctic Tracking Data (RAATD):
+Areas of Ecological Significance in the Antarctic marine
+environment
+The Retrospective Analysis of Antarctic Tracking Data (RAATD):
+Areas of Ecological Significance in the Antarctic marine
+environment
+Working Paper submitted by France, Australia, Belgium, Germany,
+the United Kingdom, the United States, and South Africa
+Summary
+This paper draws attention to the publication in the scientific
+journal Nature of the results of the Retrospective Analysis of
+Antarctic Tracking Data (RAATD), a project of the Scientific
+Committee on Antarctic Research (SCAR) Expert Groups on Birds
+and Marine Mammals and Antarctic Biodiversity Informatics. Using
+assemblage-level tracking of marine predators, the analysis aimed
+to enhance understanding of fundamental ecosystem processes in
+the Southern Ocean by identifying ‘Areas of Ecological Significance’
+(AESs) with high concentrations of multiple predator species.
+Integration of more than 4,000 tracks from 17 bird and mammal
+species revealed AESs around sub-Antarctic islands in the Atlantic
+and Indian Oceans and over the Antarctic continental shelf (see the
+related Information Paper “The Retrospective Analysis of Antarctic
+Tracking Data identifies Areas of Ecological Significance in the
+Southern Ocean” presented by SCAR).
+The RAATD project is a good example of SCAR’s important role to
+assist in the coordination of large-scale data collation, processing
+and multi-national collaboration – notions at the core of the
+Antarctic Treaty. The co-authors of this paper consider that the
+AESs should be utilised by the CEP and ATCM as appropriate to
+support the objectives and environmental principles of the Protocol
+on Environmental Protection to the Antarctic Treaty.
+France, Australia, Belgium, Germany, the United Kingdom, the
+United States, and South Africa recommend that the Committee
+endorses, and advises the ATCM to adopt, a Resolution to recognise
+the importance of the Areas of Ecological Significance (AESs) in the
+Antarctic marine environment as a further tool to inform
+management actions and assist Parties when planning and
+conducting activities in Antarctica, including to assist
+environmental impact assessments and to contribute to
+environmental monitoring as well as to provide further information
+in the elaboration or update of ASPAs and ASMAs management
+plans. Further, the AESs contribute to priority actions identified in
+the Climate Change Response Work Program to understand and
+monitor changes to the Antarctic environment and species.
+Background
+The Retrospective Analysis of Antarctic Tracking Data (RAATD)
+project began in 2009. This was a project initiated and led by the
+Scientific Committee on Antarctic Research (SCAR) Expert Groups
+on Birds and Marine Mammals and Antarctic Biodiversity
+Informatics. This analysis aimed to highlight ecologically significant
+areas for multiple top predator species in the Southern Ocean. To
+this end, spatial location data from on-board animal tracking
+devices collected between 1991 and 2006 on 17 different species
+with different ecological strategies and needs (seals, cetaceans,
+flying and diving birds) were collated to build one of the largest
+monitoring databases in the world with nearly 3,000,000 data
+points. These data were made freely available, as per Article III of
+the Treaty, and were introduced, together with the processing and
+analysing scripts in a data paper published in the scientific journal
+Nature Scientific Data (Ropert-Coudert et al. 2020) as a companion
+paper to the main article in Nature.
+While the scale of the project, which involved more than 80
+scientists from 42 polar programmes, is one of the characteristics of
+RAATD, it is above all the extreme attention paid to data cleaning,
+verification and editing before sharing that makes RAATD an
+extremely reliable source of information, especially in an era where
+Big Data projects cannot/do not always pay the same level of
+attention to the less glamourous data "cleaning" part, despite the
+importance this has for further analysis. The important and
+comprehensive data cleaning process took 9 years to complete. The
+monitoring data were then used to model the combined use of
+circumpolar
+habitat by the 17 species of marine predators (Hindell et al. 2020).
+By identifying, mapping and modelling areas of the Southern Ocean
+where several predator species congregate, a better understanding
+of the biodiversity of this area is gained. If predators that specialise
+in krill, fish and squid all visit the same place this is likely to signal
+high diversity, and probably abundance, of prey species at lower
+levels of the food chain.
+Recommendations
+France, Australia, Belgium, Germany, the United Kingdom, the
+United States, and South Africa recommend that the CEP endorses,
+and advises the ATCM to adopt the draft Resolution in Annex 1 to
+recognise the importance and utility of the Areas of Ecological
+Significance (AESs) in the Antarctic marine environment.
+References
+Hindell M, Reisinger R, Ropert-Coudert Y, Huckstadt L, Trathan P,
+Bornemann H, Charrassin JB, Shown S, Costa DP, Danis B, Lea MA,
+Thompson D, Torres L, Van de Putte A, Alderman R, Andrews-Goff
+V, Arthur B, Ballard G, Bengtson J, Bester M, Blix AS, Boehme L,
+Bost CA, Boveng P, Cleeland J, Constantine R, Corney S, Crawford
+R, Dalla Rosa L, PJN de Bruyn, Delord K, Descamps S, Double MC,
+Emmerson L, Fedak M, Friedlaender A, Gales N, Goebel M, Goetz K,
+Guinet C, Goldsworthy S, Harcourt R, Hinke J, Jerosch K, Kato A,
+Kerry K, Kirkwood R, Kooyman G, Kovacs K, Lawton K, Lowther A,
+Lydersen C, Lyver P, Makhado A, Márquez M, McDonald B,
+McMahon C, Muelbert M, Nachtsheim D, Nicholls K, Nordøy E,
+Olmastroni S, Phillips R, Pistorius P, Plötz J, Pütz K, Ratcliffe N,
+Ryan P, Santos M, Southwell C, Staniland I, Takahashi A, Tarroux
+A, Trivelpiece W, Wakefield E, Weimerskirch H, Wienecke B, Xavier
+J, Wotherspoon S, Jonsen I, Raymond B (2020) Tracking of marine
+predators to protect Southern Ocean ecosystems. Nature 580: 87–
+92. DOI: 10.1038/s41586-020-2126-y
+Ropert-Coudert Y, Van de Putte A, Reisinger R, Bornemann H,
+Charrassin JB, Costa DP, Danis B, Huckstadt L, Jonsen I, Lea MA,
+Thompson D, Torres L, Trathan P, Wotherspoon S, Ainley D,
+Alderman R, Andrews-Goff V, Arthur B, Ballard G, Bengtson J,
+Bester M, Blix AS, Boehme L, Bost CA, Boveng P, Cleeland J,
+Constantine R, Crawford R, Dalla Rosa L, PJN de Bruyn, Delord K,
+Descamps S, Double MC, Emmerson L, Fedak M, Friedlaender A,
+Gales N, Goebel M, Goetz K, Guinet C, Goldsworthy S, Harcourt R,
+Hinke J, Jerosch K, Kato A, Kerry K, Kirkwood R, Kooyman G,
+Kovacs K, Lawton K, Lowther A, Lydersen C, Lyver P, Makhado A,
+Márquez M, McDonald B, McMahon C, Muelbert M, Nachtsheim D,
+Nicholls K, Nordøy E, Olmastroni S, Phillips R, Pistorius P, Plötz J,
+Pütz K, Ratcliffe N, Ryan P, Santos M, Southwell C, Staniland I,
+Takahashi A, Tarroux A, Trivelpiece W, Wakefield E, Weimerskirch
+H, Wienecke B, Xavier J, Raymond B, Hindell M (2020) The
+retrospective analysis of Antarctic tracking data project. Nature
+Scientific Data 7, 94. DOI: 10.1038/s41597-020-0406-x.
+Annex 1. Draft Resolution on Areas of Ecological Significance
+identified in the Retrospective Analysis of Antarctic Tracking Data
+(RAATD) project
+Resolution XXX (2021)
+Areas of Ecological Significance in Antarctica
+The Representatives,
+Recognising that, in some parts of Antarctica, a changing Antarctic
+climate is having an observable effect on native wildlife;
+Recalling Article 3 of the Protocol on Environmental Protection to
+the Antarctic Treaty (“the Protocol”), which requires that activities
+in the Antarctic Treaty area shall be planned and conducted so as to
+limit adverse impacts on the Antarctic environment;
+Recalling also the requirements of Annex II to the Protocol on the
+Conservation of Antarctic Fauna and Flora;
+Welcoming the publication of the results of the Retrospective
+Analysis of Antarctic Tracking Data (RAATD) project of the
+Scientific Committee on Antarctic Research (SCAR) Expert Groups
+on Birds and Marine Mammals and Antarctic Biodiversity
+Informatics, which has identified Areas of Ecological Significance in
+the Antarctic marine environment;
+Aware of the potential for harmful disturbance to marine predators
+in Antarctica from a range of human activities in the region;
+Aware also that ongoing research is required to further improve the
+state of knowledge of the status and trends of Antarctic marine
+predator populations and their distribution at sea;
+Recommend that their Governments:
+1. welcome and acknowledge the RAATD project publication on
+identified Areas of Ecological Significance in the Antarctic marine
+environment, which are used by multiple predator species;
+2. bring the report to the attention of the Secretariats of the
+Convention for the Conservation of Antarctic Marine Living
+Resources and the Agreement on the Conservation of Albatrosses
+and Petrels for their consideration;
+3. take account of the identified Areas of Ecological Significance in
+the planning and conduct of their activities in Antarctica, including
+in the preparation of environmental impact assessments and in the
+development of new ASPAs with a marine component, or to review
+already agreed management plans of ASPAs/ASMAs;
+4. consider how these Areas of Ecological Significance could serve
+as a basis to complement Antarctic marine spatial protection and
+management; and
+5. continue to undertake appropriate on-land and at-sea monitoring
+of predator populations to inform future management actions that
+may be required.

@@ -1,0 +1,1094 @@
+﻿
+
+
+
+
+
+Bioregionalisation and Spatial Ecosystem Processes in the Ross Sea Region
+
+
+
+
+Bioregionalisation and Spatial Ecosystem Processes in the Ross Sea Region
+Information Paper submitted by New Zealand
+(lead author B. Sharp, Ministry of Fisheries, PO Box 1020, Wellington, New Zealand; based on contributions from all workshop participants, see Appendix 1)
+
+
+Abstract
+
+Since 2005, CCAMLR has progressed plans to implement spatial management for purposes of marine conservation (i.e. Marine Protected Area networks).  In 2008 CCAMLR utilized a circumpolar-scale ‘bioregionalisation’ (marine environment classification) to identify priority areas for potential MPA designation in the CCAMLR area, and encouraged Member states to progress spatial management planning in particular regions of interest, using bioregionalisation at a smaller regional scale and also ‘systematic conservation planning’ to identify particular areas of high value for conservation.  This process most recently culminated in the designation of an MPA near the South Orkney Islands, the first such designation on the high seas within the CCAMLR area.  
+
+New Zealand has been an active contributor to the CCAMLR spatial management planning process, and has declared its interest in progressing spatial marine protection in the Ross Sea region.  To this end, in June 2009 New Zealand hosted a Ross Sea Region Bioregionalisation and Spatial Ecosystem Processes expert workshop, attended by international experts.  Outputs from the workshop include a fine-scale benthic/demersal bioregionalisation of the Ross Sea region, a fine-scale pelagic bioregionalisation of the Ross Sea region, and an agreed list of spatially bounded ecosystem processes of particular importance in the regional ecosystem, and which may be amenable to protection using spatial management tools.  
+
+The purpose of this paper is to describe the 2009 Ross Sea region Bioregionalisation and Spatial Ecosystem Processes expert workshop, and to present the workshop outputs to the wider Antarctic science and marine management community.  These outputs are intended to guide ongoing efforts by New Zealand and other CCAMLR Members and the ATCM to design and implement a representative and effective marine spatial protection and management network for the Ross Sea region.  An earlier version of this paper was submitted to CCAMLR in October 2009 as SC-XXIV-BG-25.  
+
+
+Introduction
+
+Background - Spatial Management in the CCAMLR context
+
+Discussions to progress the implementation of spatial management within CCAMLR have been ongoing since at least 2000 and have seen considerable progress in recent years (CCAMLR XXVII paragraph 7.2).  In 2005 the CCAMLR MPA workshop suggested the designation of MPA’s in the CCAMLR area should be considered to protect the following kinds of areas, to ultimately safeguard the integrity of Antarctic marine ecosystems, consistent with CCAMLR’s ecosystem focus as described in Article II (see SC-CAMLR-XXIV, paragraphs 3.54 to 3.56):
+
+    i. representative areas;
+    ii. scientific areas to assist with distinguishing between the effects of harvesting and other activities from natural ecosystem changes as well as providing opportunities for understanding of the Antarctic marine ecosystem without interference; and
+    iii. areas potentially vulnerable to impacts by human activities, to mitigate those impacts and/or ensure the sustainability of the rational use of marine living resources.
+
+A further objective was considered to be:
+
+    iv. the protection of spatially predictable features (such as upwellings and fronts) that are critical to the function of local ecosystems.
+
+The identification of priority areas to deliver on conservation objectives requires different kinds of scientific analyses and tools.  Objective (i) in particular (and to a lesser extent objective (ii)), imply the need for a marine environment classification, or ‘bioregionalisation’, by which environmentally similar habitats are grouped to inform management purposes, including demonstrating the representativeness of a subsequently designed spatial management network.  In contrast objective (iv) requires use of existing knowledge of dynamic processes by which marine ecosystems operate, and of particular areas likely to be of disproportionate importance to the continued healthy functioning of particular ecosystems.  Expert workshops were convened within CCAMLR to progress these objectives.  The 2006 Bioregionalisation of the Southern Ocean workshop (Grant et al. 2006) and the 2007 CCAMLR Bioregionalisation workshop (SC-CAMLR-XXVI/11) assembled many of the necessary analyses at a circumpolar scale, and encouraged Member countries to conduct similar analyses on a regional scale (paragraph 167).  Consistent with these outputs, in 2008 WG-EMM recognized eleven priority areas likely to be of particular ecological importance at a circumpolar scale, and recommended the following (SC-CAMLR XXVII/3, paragraph 3.77):
+
+The Working Group agreed that it should, as a priority, initiate a process to develop representative systems of MPAs across the priority areas identified in Figure 12. Therefore, Members were encouraged to use appropriate methodologies to further this work, using, inter alia, bioregionalisation and/or systematic conservation planning.
+
+SC-CAMLR subsequently endorsed this advice (SC-CAMLR XXVII, paragraph 3.55), and in 2009 reiterated its commitment to the achievement of a representative system of MPAs within CCAMLR by 2012 (SC-CAMLR XXVIII, paragraphs 3.14-3.15).  
+
+CCAMLR endorsement of both bioregionalisation and the systematic conservation planning (SCP) approaches for the design of MPA networks provides a clear directive by which Members can proceed with MPA planning on a regional basis.  Bioregionalisation assembles spatial biological and environmental information and summarises that data to most effectively approximate those biological patterns (e.g. species distributions) deemed most relevant for the design of marine protection (see Grant et al. 2006).  SCP provides a comprehensive and transparent framework by which all relevant and available spatial data (including layers representing biological, environmental, and economic/ management patterns) are analyzed to design an optimal spatial management solution that achieves multiple conservation purposes simultaneously (Margules & Pressey 2000).  The endorsement of both approaches implies a 2-phase process; i.e. the outputs of bioregionalisation provide necessary inputs to SCP.  This 2-phase approach has been successfully utilised in the South African Prince Edward Island MPA network design process (Lombard et al. 2007) and in the designation of an MPA near the South Orkney Islands, the first such formal designation on the high seas within the CCAMLR area  (SC-CCAMLR-XXVIII, paragraphs 3.16-3.19).  
+
+Spatial Management in the CEP context
+
+Areas formally designated for special protection or management under the Antarctic Treaty (ASPAs and ASMAs) have to date been either exclusively terrestrial or focused on terrestrial sites with protection extended to cover a very small adjacent area of the marine environment.  Nonetheless many of the criteria guiding ASPA or ASMA designation are consistent with or complementary to those identified by CCAMLR to guide MPA network design.  Annex V to the Protocol on Environmental Protection to the Antarctic Treaty (Article 3) identifies the following guidelines to identify candidate areas for protection: 
+
+    a) areas kept inviolate from human interference so that future comparisons may be possible with localities that have been affected by human activities; 
+    b) representative examples of major terrestrial, including glacial and aquatic, ecosystems and marine ecosystems; 
+    c) areas with important or unusual assemblages of species, including major colonies of breeding native birds or mammals; 
+    d) the type locality or only known habitat of any species; 
+    e) areas of interest to on-going or planned scientific research; 
+    f) examples of outstanding geological, glaciological or geomorphological features; 
+    g) areas of outstanding aesthetic and wilderness value; 
+    h) sites or monuments or recognised historic value; and 
+    i) such other areas as may be appropriate to protect the values set out in paragraph 1 above 
+
+Specifically, representative habitats or ecosystems are identified as a priority for protection by both CCAMLR (i, above) and the CEP (b, above).  Further, CCAMLR criterion (ii) corresponds to areas identified under (a) and (e) by the CEP, i.e. areas where human activities are managed or restricted for purposes of science.  Finally CCAMLR criterion (iv), i.e. areas in which important ecosystem processes occur, will include (but will not be limited to) colony or foraging areas for top predators, as identified by the CEP in (c).  
+
+Given the compatibility of the respective spatial management criteria identified above, and their shared responsibility to safeguard the integrity of the Antarctic environment, it is likely that greater harmonisation between the CEP and CCAMLR with respect to spatial management planning would help both to achieve their mandates.  Furthermore it is likely that legal or procedural mechanisms available under either CCAMLR or the Treaty can be usefully applied to achieve the aims of both, e.g. the use of ASPAs or ASMAs to define spatial marine protection to meet the goals of CCAMLR.
+
+
+Ross Sea Region Bioregionalisation and Spatial Ecosystem Processes expert workshop
+
+In 2008 CCAMLR identified eleven areas at a circumpolar scale as priority areas for further efforts to develop marine protection at a regional scale.  Two of these eleven areas are in the general Ross Sea region.  Consistent with the CCAMLR mandate to progress marine spatial management planning on a regional level, and in general following the South African Prince Edward Islands example, New Zealand in 2009 initiated a Ross Sea region marine spatial protection and management planning process.  As part of Phase 1 of this process, in June 2009 New Zealand held a Ross Sea Region Bioregionalisation and Spatial Ecosystem Processes expert workshop (hereafter RSR workshop).  The workshop was jointly sponsored by the New Zealand government and interested non-government community, including the Ministry of Fisheries, the Ministry of Foreign Affairs and Trade, WWF-New Zealand, the Foundation for Research Science and Technology, and Antarctica New Zealand, with support in kind from the UK government.  The workshop was attended by international experts with relevant knowledge of and experience in the Ross Sea region, in a range of relevant disciplines, including physical oceanography, marine climatology, marine biodiversity, benthic ecology, pelagic ecology, ecosystem modelling, MPA design, GIS, Antarctic fisheries, and specialist taxonomic knowledge for a range of relevant taxa.  See Appendix 1 for a full list of workshop participants.    
+
+The RSR workshop was tasked with producing the following list of outputs:
+    1. A fine-scale benthic/demersal bioregionalisation of the Ross Sea region;
+    2. A fine-scale pelagic bioregionalisation of the Ross Sea region; and
+    3. A list/map of important ecosystem processes that may be amenable to protection using spatial management tools.
+
+Spatial definition of the Ross Sea region
+
+For purposes of the bioregionalisation and spatial management planning process, the Ross Sea Region is defined as 150°E–150°W, and 60°S–80°S (excluding areas under permanent ice).  This encompasses all of CCAMLR management area 88.1, SSRU 88.2A and SSRU 88.2B.  Spatially contiguous environmental data layers were prepared in advance of the workshop corresponding to these boundaries; subsequent outputs are similarly bounded.  
+
+Scale considerations
+
+The relationship between organisms and their environment is inevitably scale-dependent; different organisms integrate and respond to environmental variables at different spatial and temporal scales, and spatial associations that are strong at one scale may be weak or non-existent at smaller or larger scales.  Furthermore even where associations are known and valid, effective spatial classification for management purposes is still constrained by data availability and the ability of managers to implement an effective management response.  It is important then that the outputs of spatial environment classifications be constrained to spatial scales at which they are: 
+    i) biologically valid (i.e. the modelled association between the organism and its environment is real at that scale); 
+    ii) based on environmental variables for which data is available and accurate (i.e. the spatial environmental layers used to predict biological distributions can be trusted at that scale); and 
+    iii) useful for management, (i.e. the depicted spatial pattern is at a scale at which managers can effectively respond in ways that address the underlying management concern).  
+
+The Ross Sea region as defined above is considered an appropriate scale at which to conduct fine-scale bioregionalisation consistent with the advice of SC-CCAMLR.  The Ross Sea region is recognized as a coherent ecological unit due to the uniqueness of the Ross Sea shelf and water circulation patterns associated with the Ross Sea Gyre  that define northern waters in the area as distinct from adjacent waters.  Fish stock assessments and presumed patterns of movement for major fish species (e.g. Hanchet et al. 2009) tend to reinforce this impression.  This area encompasses the whole of the exploratory fishery for Antarctic toothfish (Dissostichus mawsoni) in Subareas 88.1 and 88.2; for practical reasons it is useful that bioregionalisation and subsequent spatial management planning be conducted on a similar scale.  
+
+Output 1:  Benthic Bioregionalisation
+
+Previous CCAMLR bioregionalisation workshops recognised that the pelagic and benthic environments were likely to be highly decoupled over much of the CCAMLR area, and that biological patterns in the pelagic vs. benthic environments will be affected by different suites of environmental drivers, such that separate benthic and pelagic bioregionalisations are required (SC-CAMLR XXVI/11, paragraph 18).  The bioregionalisation map arising from those workshops and approved by CCAMLR for use at the circumpolar scale represents the pelagic environment only.  Attempts in previous workshops to generate a credible benthic bioregionalisation at the circumpolar scale were hampered by the unavailability of appropriate environmental data layers representing key drivers of benthic biological pattern, e.g. substrate and sea-floor water body characteristics (e.g. temperature, salinity, and sea floor current speed).  Acquisition and appropriate pre-processing of the necessary data layers to complete benthic bioregionalisation at a regional scale was identified as a high priority by the CCAMLR Bioregionalisation workshop (SC-CAMLR-XXVI/11, paragraphs 145-146, 167).  
+
+Work underway at present in CCAMLR on the interaction of VMEs (Vulnerable Marine Ecosystems) with bottom fishing activities would benefit from information indicative of the spatial distributions of benthic invertebrate taxa or communities.  At present benthic distributions are largely unknown.  Bioregionalisation may provide a tool by which VMEs can be integrated into a larger spatial management context, e.g. by providing a basis for testing spatial associations of VME taxa with particular habitat types (i.e. bioregionalisation cluster groups), for designing/ demonstrating representativeness in a network of spatially managed areas with respect to benthic habitats, and for defining biologically meaningful strata within which the results of impact assessments of the likely effect of fishing activities on VMEs can be summarized.    
+
+Available evidence suggests that the spatial distributions of benthic communities in the Ross Sea region will be more strongly driven by patterns of variation in sea-floor habitat parameters (e.g. water body characteristics and benthic substrate) than by water-column characteristics and links with the pelagic environment (e.g. ice cover affecting primary productivity; Barry et al. 2003).  Links with the pelagic environment are especially complex due to highly variable horizontal transport mechanisms affecting nutrient deposition at smaller scales (Thrush et al. 2006, Cummings et al. 2006, Smith et al. 2003).  Preparations for the benthic bioregionalisation output of the RSR workshop therefore included special effort to acquire and prepare data layers representing variables thought to be of particular relevance to benthic community composition, e.g. hydrographic model outputs representing water body characteristics and currents at the ocean floor (see below).  
+
+Output 2:  Pelagic Bioregionalisation
+
+The circumpolar pelagic bioregionalisation approved by CCAMLR classifies the pelagic environment on the basis of large-scale water body characteristics and depth, represented by the following four variables:  i) bathymetry; ii) sea surface temperature; iii) nitrate concentration; and, iv) silicate concentration (Grant et al. 2006).  Notable for its absence is any representation of dynamic ice behaviour and associated patterns of primary production.  It is widely recognized that dynamic ice behaviour is a main driver of spatial patterns affecting primary production and assimilation into higher trophic levels in Southern Ocean systems (e.g. Smith et al. 2007).  To characterise Southern Ocean ecosystems both Knox (2007) and Marchant and Murphy (1994) describe a conceptual pelagic zonation defined primarily by ice dynamics and consisting of three major zones, i.e. the Northern/ Ice-Free Zone, the Intermediate/ Seasonal Pack Ice Zone, and the Southern/ Permanent Pack Ice or Fast Ice Zone.  Grant et al. (2006) recognised the same limitation of the primary CCAMLR bioregionalisation, and generated an additional ‘secondary’ classification including both ice and chl-a concentration layers, but its accuracy was degraded by limitations of the underlying data layers and the inherent difficulty of modelling a hierarchically scale-dependent system using a single flat classification algorithm (see below).  
+
+In preparation for the RSR workshop New Zealand took steps to overcome these difficulties by preparing a large number of data layers representing various aspects of dynamic ice behaviour, by preparing spatial masks to allow a hierarchically nested classification approach, and by securing hydrographic model outputs representing water body characteristics at considerably higher spatial resolution than was available at the circumpolar scale (see below).  
+
+Output 3:  Ecosystem Processes
+
+Bioregionalisation is a powerful tool for discerning dominant environmental patterns and classifying areas to guarantee the representativeness of spatial management or MPA networks.  However the 2007 CCAMLR Bioregionalisation workshop recognised that bioregionalisation alone is not adequate for delivering another objective of MPAs -- i.e. the protection of spatially predictable features or processes critical to the function of local ecosystems -- and recommended a parallel process by which functionally critical ecosystem processes are identified using expert knowledge of particularly important areas at a local or regional scale (SC-CAMLR-XXVI/11, paragraphs 157-164; Table 1).  The same concern is echoed by scientists proposing the ecological basis for a pelagic zonation, i.e. Marchant and Murphy (1994) described ‘zone-independent regions’ as follows:    
+
+Although the major zones described above characterize much of the southern ocean production, there are regions which do not fit these categories.  These are areas where enhanced production can occur associated with fronts (Lutjeharms et al. 1985), upwelling (Grindley & David 1985) islands (Allanson et al. 1985) shelf regions and eddy effects…  Zone-independent regions are of major importance in the Southern Ocean….  Many of the predator colonies are associated with these regions, indicating their importance as areas where energy transfer to higher trophic levels can occur.  
+
+The RSR workshop included equal emphasis on the production of the benthic and pelagic bioregionalisations and the identification of ‘spatial ecosystem processes’ as parallel outputs.  Taken together these three outputs aim to adequately describe the most important spatial patterns and features of the Ross Sea region ecosystem.  In isolation any one of these outputs provides an incomplete picture.  It is New Zealand’s intention that these three outputs be used simultaneously to inform the systematic design of an MPA network in Phase 2 of a Ross Sea region marine spatial protection and management planning process.  
+
+
+Methods
+
+Environmental data layers
+
+Approximately 60 environmental data layers were made available to the RSR workshop as detailed below. These included the initial set of environmental data layers utilised in the circumpolar bioregionalisation of the Southern Ocean (Grant et al. 2006; Pinkerton et al. 2007, 2008) and new layers acquired or generated specifically for the RSR workshop.  See Table 1.  Layers representing new environmental variables were chosen to characterize the average or long-term physical and chemical oceanographic properties attributable to each pixel, and their inter-annual variability, with an emphasis on variables representing those properties deemed most likely to exert influence on biological distributions.  Environmental data layers were largely derived from satellite observations and data climatologies from research vessel sampling, and from oceanographic models.  A polar stereographic grid was used, using the Clark 1866 ellipsoid (Clark 1866), with grid sizes of nominal 4 km.  Front positions in the study area are taken from Orsi et al. (1995), and are (from north): Antarctic Polar Front (APF), Southern Antarctic Circumpolar Current Front (SACCF), and the Southern Boundary of the Antarctic Circumpolar Current (SB-ACC).
+
+Where layers included small amounts of missing data, pixels with missing values were filled in using an average of the 10 closest valid data points.  Layers including larger areas of missing data were not used.  
+
+1	Bathymetric data layers
+
+Data from the GEBCO Digital Atlas (2003) were used to calculate the bathy data layer representing average water depth for the pixel (IOC, IHO and BODC, 2003). It is known that this dataset is in error over the seamounts to the north of the study region, with insufficient representation of relatively shallow features. Slope was computed using ESRI’s formula for the gradient of a spatial grid (Burrough & McDonnell 1998). Smoothed bathymetry was obtained using a median over a sliding 2°x2° window. The bathyanom layer (bathymetric anomaly) was calculated as the difference between the original bathymetry data and the smoothed data (Burrough & McDonnell 1998). 
+
+2	Satellite-derived upper ocean chlorophyll
+
+Ocean colour remote sensing was used to measure surface chlorophyll-a concentration (chl-a) as a proxy for primary production in the water column. Low incident light prevents data being collected by ocean colour satellite sensors in the Ross Sea between approximately April and October each year. In the absence of light, primary production ceases, and phytoplankton concentrations are assumed to rapidly fall to trace concentrations. Note however that ocean colour satellite measurements of surface chl-a are not available under cloudy conditions, or where sea ice is present. Primary production is therefore poorly observed in some parts of the study area at some times of the year, and values in different pixels represent averages calculated over a different number of observed years.  SeaWiFS chl-a data were used for the period September 1997–end 2007 (Hooker et al. 1992), and MODIS data were used for 2008 when SeaWiFS was not available (NASA 2008).
+
+Three data layers were provided to the workshop, as follows:  (1) The chlamean layer is the log mean of all available data out of 10 years, 1997–2007; (2) The chlamax layer is the log10-transformed maximum annual value for each season (July–June) calculated from monthly composite values; (3) The chlamaxsd layer is the standard deviation of the log10-transformed maximum chl-a concentration.  
+
+It is important to note that chl-a concentrations are an imperfect proxy for primary productivity because chl-a concentration is a static property measurable at a specific point in time, whereas productivity is a dynamic property integrated over a period of time.  One consequence is that primary productivity estimates based on chl-a concentrations will be confounded by variable levels of herbivory; i.e. where secondary productivity (zooplankton herbivory) is high chl-a may be consumed as rapidly as it is produced, skewing the primary productivity estimates downward relative to areas where herbivory is lower.    
+
+3	Insolation (Photosynthetically Available Radiation)
+
+A layer representing annual average insolation (broadband photosynthetically available radiation, PAR) was generated as a possible indicator for potential primary production, using the equation of Kirk (1994) neglecting the effect of the atmosphere and clouds. Insolation calculated in this way is purely a function of latitude, increasing with distance from the pole.
+
+4	Satellite-derived sea surface temperature
+
+The following representations of sea-surface temperature (SST) on a 1° grid were derived from OIV2 satellite data, accessing all data for the years 1991–2006 (Reynolds & Smith, 1994): (1) Annual mean sea surface temperature (sst) was calculated as means of all monthly satellite data composites; (2) Annual mean summer sea surface temperature (sstsum) was calculated as means of monthly satellite data composites over the months December–February; (3) The sstsumsd layer gives the standard deviation of the summer SST values between years as an indication of interannual variability in SST in a given location.
+
+5	Satellite-derived indicators of frontal features
+
+Sea surface height (SSH) from satellite altimetry is normally used to show positions of fronts and other features of the circulation field.  However sea surface height data was not used in the RSR due to unacceptable levels of missing data south of c. 40°S (see Pinkerton et al. 2007).  The gradient of sea surface temperature (sstgrad) was used instead to give an indication of upper ocean current structure; this gradient was found to have a reasonable correlation with SSH gradient   
+
+6	Sea ice dynamics
+
+Sea ice is a dominant forcing function in the ecology of the Ross Sea (e.g., Knox 2007 and references therein; Thomas & Dieckmann 2002), Sea ice in the Ross Sea expands from late February onwards, and retreats from late October. As in other parts of the Antarctic, the advance of the sea ice in the Ross Sea begins near the Antarctic continent. At its maximum extent, sea ice extends from the Ross Sea shelf to the southern boundary of the ACC. North of the boundary, the sea is too warm for sea ice to persist. Unlike other Antarctic sectors, retreat of sea ice en mass in the Ross Sea sector starts near the Antarctic continent, with the formation of the Ross Sea polynya in front of the Ross Ice Shelf (Zwally et al. 1985), and the Terra Nova Bay polynya (Kutz & Bromwich 1985). Polynyas are regions of long-lived open water within the sea ice cover. There are two main forms; latent heat and sensible heat polynyas (Wadhams 2000). Sensible heat polynyas are formed where warm water from below prevents ice formation; these are rarely found in Antarctica. Latent heat polynyas are formed where ice is continually removed by winds or ocean currents. These are also usually associated with glacial barriers which prevent downwind ice from entering the polynya, and strong winds flowing either off an ice shelf or off the coast. In the Ross Sea, strong winds off the Antarctic land mass lead to the break up of the ice sheet and the formation of polynyas in front of the Ross Ice Shelf, and at points along the western Ross Sea coast. Polynyas in the Ross Sea are significant to a number of middle and higher trophic level organisms (e.g., seabirds, seals, whales, benthos), since they form a connection between the water and air. The formation of polynyas next to the permanent ice shelf also has a strong influence on light, nutrient and trace element concentrations in the water, and on the degree of vertical mixing in the water column.
+
+Satellite ice data used in the preparation of data layers were obtained from the National Snow and Ice Data Center (NSIDC) at the Earth Observing System Data and Information System (EOSDIS) Distributed Active Archive Center, University of Colorado, Boulder, US. Sea ice concentrations were derived from the Nimbus-7 Scanning Multichannel Microwave Radiometer (SMMR) and the Defense Meteorological Satellite Program's (DMSP) DMSP-F8, -F11 and -F13, Special Sensor Microwave/Imager (SSM/I), using the NASA group algorithm (Cavalieri et al. 1990, updated 2007). Data are gridded onto the SSM/I polar stereographic grid (25 x 25 km). Here, we used SMMR-SSM/I satellite ice data extending from the 1979/80 to 2006/07 seasons, an NSIDC season being 1 July to 30 June the following year. 
+
+A large number of ice data layers were assembled to represent different aspects of the dynamic sea ice regime in the Ross Sea region. First, a measure of sea ice duration through the entire year was obtained using daily satellite sea ice data files to calculate the fraction of the year for which a given pixel was covered with <15% cover (i.e. ice15mean, the mean ice free proportion of the year). An indication of interannual variability in sea ice cover was represented as the SD of this value for a given pixel (ice15sd). Next, 12 layers were assembled showing the average ice concentration by month (designated ice_jan, ice_feb, etc.).
+
+In recognition of the particular ecological importance of dynamic ice behaviour during particular times of year (e.g. polynya formation and early summer ice edge retreat as a site for high primary and secondary productivity) a number of ice layers were specially designed in an attempt to represent changing ice conditions at what was thought to be most crucial time of year affecting biological patterns.  Four layers were generated depicting the distribution of ice at different concentrations in early summer, i.e. marginal ice (15-40% ice concentration) and unconsolidated pack ice (40-70% ice concentration) in December and January (ice_marginal_dec, ice_marginal_jan, ice_pack_dec, ice_pack_jan).  To emphasize rapidly changing ice conditions during the critical summer period, two layers were calculated as the differences between the mean monthly ice concentrations i.e. November-December change (ice_dec-nov), and December-January change (ice_jan-dec). The former potentially gives an indication of the location of the Ross Sea polynya, and the latter the location of the “break-out” zone between the polynya and open waters to the north of the ice barrier.
+
+7	Dissolved Nutrients
+
+Three data layers were used depicting large-scale nutrient concentrations, from WOCE global hydrographic data (Gouretski & Koltermann, 2004): (1) nitrate (N200); phosphate (Ph200); and (3) silicate (Si200). Concentrations at 200 m depth were preferred over surface nutrient values as, quantities of missing data were low for the study area, and values at this depth are likely to be less affected by recent history of surface production at the time of sampling.  
+
+8	Ocean alkalinity and CO2
+
+The calcium carbonate (CaCO3) cycle in the ocean is central to the control of marine pH, and potentially impacts calcifying organisms in the Ross Sea sector such as corals and pteropods. Measures of the state of the global ocean CaCO3 cycle were compiled by the GLODAP project (Key et al. 2004). Three data layers derived from this database were prepared for use by the workshop: (1) total alkalinity (alk) in which all measurements included in the GLODAP dataset were made by potentiometric titration using a titrator and a potentiometer (Sabine et al. 2005); (2) total CO2 (tCO2) based on shipboard coulometric titrations (Sabine et al. 2005); (3) potential alkalinity (palk) which corrects total alkalinity for the effects of mixing and the small changes resulting from the decomposition of organic matter, leaving only the influence of the calcium carbonate dissolution (Brewer & Goldman 1976; Sabine et al. 2005). For each of these three variables, depth-resolved data were available.  Two layers were prepared in advance of the workshop: (1) _surface (the shallowest valid data value); and (2) _bottom (the deepest valid data value).  Subsequently, additional layers were generated on an as-needed basis to represent values at particular depths thought by workshop experts to be most relevant to represent the desired biological patterns.  (e.g. tCO2_xxxx with depth expressed in meters).  
+
+The variables alk_bottom, palk_bottom, and tCo2_bottom seem to have unrealistic looking features north of the slope in the east of the Ross Sea. These may be artefacts of the GLODAP gridding procedure coupled with a paucity of actual measurements in the study region. The variables palk_surface, alk_surface and tCO2_surface only have structure on the large scale, and there may be a paucity of actual measurements in this part of the global ocean from which to derive realistic fields. These observations caution against uncritical use of these data.  
+
+9	Circulation and water column structure from numerical model
+
+Three numerical circulation models of the Ross Sea are available and have been compared with each other and with available in situ data (Rickard et al. 2009, submitted). The results show that these models provide a consistent and plausible picture of circulation and water mass structure in the region. Data layers were prepared using data from the HiGEM 1.1 (Shaffrey et al. 2009) model to obtain an estimate of annual averages of the following properties: (1) current speed (speed); (2) temperature (T-HIGEM); and (3) salinity (S-HIGEM). Depth-resolved values were available for all three variables.  In advance of the workshop layers were prepared depicting surface values (_surface) and the deepest valid depth available (_bottom).  Subsequently layers were generated at intermediate depths on the advice of workshop experts, to most effectively capture relevant biological patterns (e.g. T-HIGEM-xxxx, with depth expressed in meters).  
+
+10	Proximity variables approximating biogeographic and behavioural effects
+
+Automated environmental classifications assign individual locations (pixels) to cluster groups based on average or prevailing conditions (pixel values) in that location, without regard for the values of surrounding pixels or for proximity to other features.  Environmental classifications are therefore largely ‘blind’ to proximity factors known to effect biological distributions, to biogeographic effects (e.g. factors affecting dispersal, colonisation, and speciation) and to behavioural effects (e.g. factors affecting active habitat selection by mobile organisms).  Proximity layers to major features were therefore prepared as a rough proxy for such effects.  One layer represents distance to the nearest land from each pixel in the study area (landprox).  A second such layer represents distance to the continental shelf break (defined as the 1000 m depth contour) with distances offshore being positive and those towards land being negative.  Preliminary indications were that the latter layer may be an important factor affecting biological distributions of apex predators, such as pack ice pinnipeds (Colin Southwell, Australian Antarctic Division, pers. com.).  
+
+
+Classification Method
+
+The Ross Sea region pelagic and benthic bioregionalisations were produced utilising the same overall approach as was used in previous CCAMLR bioregionalisation workshops at the circumpolar scale.  The bioregionalisation process can be summarized as follows (from Grant et al. 2006):  
+
+    1. Identify the ecological patterns and processes that have relevance to the end-use application of the regionalisation
+    2. Identify the major environmental drivers or properties that control these patterns and processes, and extract relevant parameters describing those properties
+    3. Pre-process the data (e.g. normalise, transform, smooth)
+    4. Compile a data matrix of individual sites (rows) by properties (columns)
+    5. Apply a clustering procedure to group locations with similar properties
+    6. Post-process the clusters to meet any application-specific constraints on the regions (e.g. minimum size)
+    7. Expert review of the resulting classes to ensure suitability for the application.
+
+Note that this is an iterative sequence; steps 2-5 are repeated, continually adjusting classification inputs and re-running the classification algorithm until such time as output classifications are consistent with existing knowledge in areas where patterns are known.   
+
+The RSR workshop methodology was similar to that of the circumpolar CCAMLR bioregionalisation in the following ways:  
+
+    i) Only environmental data layers were used as inputs to the classification.  Biological data were not used directly by the classification, due to the paucity of suitable data.  
+    ii) Inputs to the classification were selected by experts to best represent the known environmental drivers of relevant biological patterns, from available literature and ecological first principles.  
+    iii) Workshop experts subjectively assessed the resulting output classification with reference to areas where spatial patterns were known, and iteratively adjusted classification inputs until the most plausible classification was achieved.  
+
+The Ross Sea workshop methodology differed from that of previous CCAMLR bioregionalisations as follows:  
+
+    i) data layers were custom-generated in advance of the workshop to capture and emphasize environmental variables thought to be most relevant for the particular habitat of interest.  For example both classifications benefited from the preparation of modelled layers representing water body properties at user-defined depths, and the pelagic classification benefited from the availability of multiple representations of ice dynamics, so that layers could be chosen to represent the most ecologically important aspect of the dynamic ice regime.  
+    ii) Workshop experts spent considerable additional time during the workshop combining or modifying available datasets to most accurately capture environmental drivers or properties of known importance.  For example an ice scour disturbance layer was generated to approximate the likelihood and intensity of natural disturbance of benthic communities (see below).
+    iii) Workshop experts had at their disposal some relevant biological datasets with which to examine/ validate the interim environmental classifications during the iterative process of input variable selection and adjustment
+    iv) Workshop experts used preliminary classification results to spatially constrain subsequent classifications within particular areas (e.g. continental shelf only), i.e. subjectively imposing a hierarchical classification structure.  This allowed the clustering algorithm to better perceive relevant patterns of variation within the habitat of interest without the results being skewed by comparison with habitats with extremely different environmental characteristics (e.g. continental shelf vs. deep abyssal plain).
+    v) Where the best possible environmental classification still failed to reflect contrasts between areas with known biological differences (e.g. biogeographic contrasts between seamounts at different latitude; see below), workshop experts imposed additional constraints to ensure that these contrasts were adequately captured.
+
+
+Results
+
+Output 1:  Benthic Bioregionalisation
+
+Step 1.  Identification of relevant ecological drivers  
+The assembled workshop experts compiled the following list of environmental drivers or ecological processes known to affect the distribution and abundance of benthic marine organisms in the Ross Sea region.  This list was compiled after extensive discussion with reference to published literature from the Ross Sea region and to ecological first principles derived from studies conducted elsewhere.  Care was taken to complete the list before considering the actual availability of suitable spatial datasets, in an attempt to ensure an unbiased list and to highlight the existence of knowledge gaps for those drivers for which proxy data were unavailable.  
+
+    1. Temperature
+    2. Depth
+    3. Substrate
+    4. Primary productivity
+    5. Benthic disturbance – iceberg scour
+    6. Organic input
+    7. Dissolved nutrients
+
+Step 2.  Selection of spatial data layers to represent relevant drivers
+Data layers were selected to approximate spatial patterns of variation in these seven environmental drivers or processes.  
+
+Two of the seven drivers – temperature and depth – were easily represented by the existing data layers available without manipulation.  The importance of temperature as a determinant of benthic invertebrate and demersal fish is well known (e.g. Lockhart and Jones 2008).  Modelled sea bottom temperature (T-HIGEM_bottom) values are available from the HIGEM hydrographic model (Shaffrey et al. 2009). Depth is available from the GEBCO (2003) bathymetry (bathy), which effectively represents the difference between major large-scale habitat distinctions (e.g. shelf vs. slope vs. abyss); at smaller scales it is likely that depth is actually a proxy for the combined effect of a number of other complex environmental factors drivers, e.g. productivity, current speed, temperature, and salinity, for which the actual effect on biological distributions is likely more complex.
+
+Data representing substrate is unavailable at the scale of the Ross Sea region.  Workshop experts chose to capture likely patterns of benthic substrate variation by the use of two proxy variables thought to reflect and/or influence substrate, i.e. rugosity, derived from GEBCO (2003) bathymetric data, and bottom current speed (speed_HIGEM_bottom) from the HIGEM model (Shaffrey et al. 2009).  It was recognized that these are an imperfect proxy, and that using two layers implicitly doubles the weight of this driver in the subsequent classification -- a more rigorous solution may be the generation of a single custom layer in which bottom roughness was scaled up proportional to current speed.  However the importance of current speed as an influence in its own right on benthic community composition (e.g. Barry et al. 2003, Smith et al. 2006), and as an influence on organic input (below) justified the inclusion of both layers each at equal weight with those approximating other environmental drivers.  Note also that the calculation of rugosity layer values is dependent on the scale of resolution at which the bathymetry data is summarized.  It is likely that benthic community composition responds to smaller-scale patterns than can be accurately discerned in the GEBCO (2003) bathymetry data (bathy); the use of finer-scale bathymetric data, when it becomes available, can be expected to greatly improve the utility of the resulting classification at high resolution.  
+
+After considerable discussion Mean annual ice cover (ice15mean) was selected as a straightforward proxy for primary productivity, i.e. as the best approximation of available light (Schwarz et al. 2003; Dayton et al. 1969, 1970; Thrush et al. 2006; Cummings et al. in prep).  Direct use of the satellite-derived Chl A data layers (inferred from ocean colour) was rejected because these data are confounded by cloud cover, such that pixel values in different locations represent different numbers of cloud-free observation days.  Furthermore the Chl A layers approximate phytoplankton concentrations (a static property) whereas the biologically relevant variable is phytoplankton production, a dynamic property which may not correlate will with instantaneous Chl A concentration in locations where secondary productivity is also high and phytoplankton are rapidly consumed by herbivores.  
+
+To approximate benthic disturbance, a custom-generated Ice scour layer was assembled from other available datasets.  The layer was defined such that the effects of disturbance by icebergs are a product of the interaction between proximity to ice tongues (i.e. land or ice shelf edges) and depth.  In depths of 0-400 m disturbance magnitude is directly proportional to proximity; in depths of 400-600 m proximity values are adjusted downward with increasing depth such that at depths greater than 600 m disturbance is assumed to be negligible regardless of proximity  (see Lenihan and Oliver 1995; Keys 1983; Thrush et al. 2006; Gutt et al. 1996).  
+
+Workshop experts determined that reliable data were unavailable to approximate spatial patterns of the remaining two environmental drivers, organic input and dissolved nutrients.  Organic input from detrital rain can be expected to be affected by primary productivity and modified by depth and ocean currents; variables serving as effective proxies for these three factors are already selected, above, and smaller-scale patterns will be strongly driven by horizontal advection by directional currents, and by local factors affecting sink rates (e.g. Thrush et al. 2006, Cummings et al. 2006) which are too complex to be adequately represented by available models.  Similarly dissolved nutrients, e.g. as affected by water body properties affecting the carbon saturation horizon, were thought to be an important driver of benthic distribution patterns for which a suitable proxy variable was unavailable.  
+
+Step 3.  Data pre-processing
+The following transforms were assigned to the six selected and retained environmental data layers on the basis of the known or expected shape of the relationship between environmental variation and spatial distribution patterns. 
+
+Benthic classification variables (all weights equal)
+        1) T-HIGEM_bottom:  	untransformed 
+        2) bathy:  		exponential transform
+        3) rugosity:  		untransformed
+        4) speed_bottom:  	untransformed
+        5) ice15mean:  		untransformed 
+        6) ice scour: 	untransformed; spatial extent limited by 
+depth and proximity to coastal ice
+
+These data layers are shown in Figure 1.  
+
+Steps 4-5.  Spatial clustering
+Clustering was an iterative process in which the retention of different proxy variables (with alternate transforms, weights, and spatial masks) was assessed and adjusted using expert knowledge to select the combination of variables that resulted in the most plausible spatial patterns  in areas where benthic and community patterns are better known.  Workshop experts examined multiple rounds of prospective classifications over several days, comparing output maps with available spatial biological datasets, published and unpublished research results, and expert knowledge from a range of taxonomic specialists.  The six retained proxy variables (above) represent the endpoint consensus of this iterative process.  
+
+The clustering procedure used Interactive Data Language (IDL) CLUSTER_WTS() and CLUSTER() routines within MatLab software, which perform a ‘flat’ (non-hierarchical) clustering using a (transparent) neural network-based optimization engine. The routines accept a standardized array of multiparameter case descriptors and yield an assignment of each case into one of x discovered clusters.
+
+The level of classification strength (i.e. number of clusters) was chosen subjectively by iterative adjustment and expert consensus, with the aim of representing spatial patterns on the finest scale possible without generating ‘false resolution’ i.e. boundaries that are unlikely to correspond to real biological gradients.  
+
+One inherent limitation of the clustering algorithm is that it necessarily applies a ‘flat’ classification in which the same variables are applied everywhere, using the same decision rules, and the clustering procedure assigns each location (pixel) to a class on the basis of its multivariate similarity or dissimilarity to all other pixels simultaneously.  One consequence of this approach is that the inclusion of highly dissimilar environments (e.g. shelf vs. abyss) in the same classification will result in classifications that emphasize the gradient between the two dissimilar environments and conceal more subtle patterns of variation within those environments.  But because the shape of the environment-biology relationship may be highly non-linear, these more subtle environmental contrasts within broader habitat classes may be of equal importance to the dominant gradient in determining actual biological patterns.  
+
+Benthic Group experts discovered that due to the limitations of a flat classification approach, they were unable to generate acceptable levels of resolution on the continental shelf without generating false resolution (i.e. too many and/or implausible classes) on the slope and to the north in deeper water.  To overcome this problem, they generated spatial masks to examine the consequences of running spatial classifications restricted to particular environments.  The Benthic Group achieved an objective split by first running a classification using the retained variables (above) over the whole of the RSR at the 14-class level, and then defining a spatial mask at the boundary of the first major split; this resulted in a ‘shelf+slope’ area to the south, with 8 classes, and a ‘northern’ area including the deeper water and seamounts, with 6 classes.  The cluster algorithm was then re-run in each area separately (using the same six variables), retaining the original level of resolution in each area (8 and 6 classes).  The resulting cluster results were judged to be both plausible and useful.  
+
+Step 6.  Classification post-processing
+The Benthic Group found that across a range of examined classification strengths the ‘northern’ area classification assigned locations in moderate and shallower depths to the same groups regardless of latitude/ distance from the shelf break.  This result was inconsistent with known biological contrasts and suspected patterns of endemism on seamounts and ridges at different latitudes in the RSR (A. Stewart, Te Papa, Wellington, pers. comm.).  It is possible that these patterns arise from variable stochastic colonisation histories or relative exposure to ocean currents carrying dispersal propagules; biogeographic influences such as these are invisible to environmental classification approaches (including bioregionalisation).  The Benthic Group therefore chose to modify the ‘northern’ classification to more accurately reflect known contrasts on seamounts and ridges, subjectively defining shallower classes in on the northern ridges (groups 16 and 17) distinct from comparable depths at the latitude of the Balleny Islands (groups 11 and 12). 
+
+The final benthic bioregionalisation output agreed by the assembled experts of the Benthic Group is shown in Figure 2.  Summary statistics for the groups are shown in Table 2.
+
+Step 7:  Expert review/ validation:  Validation of the benthic bioregionalisation was achieved as an iterative process with reference to available biological datasets for benthic invertebrate and benthic/demersal fish distributions (e.g. Barry et al. 2003, Smith et al. 2006; Thrush et al. 2006; Cummings et al. 2006; US ROAVERRS and New Zealand IPY survey results; VME bycatch data collected under CM22-07).  
+
+
+Output 2: Pelagic Bioregionalisation
+
+Step 1.  Identification of relevant ecological drivers 
+Workshop experts identified the following three primary drivers of ecosystem processes and corresponding biological patterns at the scale of the Ross Sea region:
+
+    1) water body properties
+    2) ice dynamics
+    3) depth
+
+This list is unsurprising, corresponding with the consensus view of environmental drivers affecting ecosystem dynamics in the Southern Ocean generally (Knox 2007, Marchant & Murphy 1994), and consistent with the conclusions of the circumpolar-scale bioregionalisation of the Southern Ocean (Grant 2006), in which water body properties and depth were the primary drivers and ice dynamics were recognized as an important (but in the circumpolar classification, inadequately-represented) determinant of regional-scale patterns.  
+
+Definition of split hierarchical classification:  ‘continental shelf’ vs. ‘off-shelf’ 
+
+Early in the bioregionalisation process workshop experts perceived the limitations inherent in attempting to model a scale-dependent and hierarchically constrained system using a ‘flat’ classification method (i.e. clustering algorithm) in which the same decision rules are applied at all scales and in all locations.  It was also recognized that it may be difficult to represent the most ecologically relevant aspects of the three primary environmental drivers using a single suite of variables uniformly over the entire Ross Sea region, especially with respect to ice dynamics, where biological patterns in different areas are driven by dynamic ice behaviour at different times of year.  To address these difficulties pelagic group experts chose ipso facto to impose a higher-order split on the classification in accordance with the dominant environmental contrast.  The group defined a split between ‘continental shelf’ and ‘off-shelf’ areas; subsequent classifications were then completed for each area separately.  Subjectively imposing this 2-level hierarchy allowed workshop experts to select variables of particular relevance to the area in question, and allowed the clustering algorithm to capture biological patterns driven by environmental contrasts within each area without being dominated by comparisons with locations in the other area with extremely different environmental properties.  
+
+After considerable discussion the 800 m depth contour on the Ross Sea continental slope was selected as the boundary between the ‘shelf’ vs. ‘off-shelf’ areas.  This boundary was selected with reference to biological survey transects revealing consistent discontinuities in pelagic community composition across this boundary (e.g. O’Driscoll et al. 2008, Azzalli et al. 2008, Phil Lyver, LandCare New Zealand, pers. comm..).  In practice the specific choice of depth contour is not of critical importance, because the true boundary is somewhat dynamic, and the continental slope is sufficiently steep that selecting a slightly different depth contour results in only a minor horizontal shift to the corresponding boundary.  
+
+Step 2.  Selection of spatial data layers to represent relevant drivers 
+Considerable discussion was devoted to the selection of appropriate environmental data layers to adequately capture spatial patterns within the continental shelf and off-shelf areas associated with the identified ecological drivers.  
+
+1) Water body properties
+The HIGEM model (Shaffrey et al. 2009) was thought to most adequately capture biological patterns associated with water body properties, in continental shelf locations where these patterns are known.  Pelagic group experts chose to use both the salinity and temperature data layers, extracted and averaged over the summer (Dec-Jan) months, at 200 m depth (i.e. T-HIGEM_200_summer and S-HIGEM_200_summer).  See Figures 3-4 a and b.  These specifications were chosen to represent those aspects of water body properties most indicative of the important pelagic ecosystem processes driving biological patterns (e.g. during the summer phytoplankton bloom).  In particular, the model was shown to accurately depict the contrast between cold, heavy, high-salinity Shelf Water (Jacobs et al, 1970; Jacobs et al, 2002) associated with increased sea ice production in the western Ross Sea vs. relatively fresher, warmer water in the east affected by intrusion onto the shelf of waters originating in the Amundsen Sea (Keys et al. 1990, Assman et al. 2005, Orsi and Wiederwohl 2009), as well as north-south contrasts between subsurface Circumpolar Deep Water in the north vs. colder and more saline Modified Circumpolar Deep Water inshore.  The accuracy of these patterns were verified by comparison with comparable temperature and salinity data extracted from the Southern Ocean Atlas (Olbers et al, 1992).  
+
+The selection of these specific water body properties to approximate ecologically important biological patterns was verified with reference to known patterns of phytoplankton assemblages and the seasonal timing of primary productivity associated with the opening of the Ross Sea polynya, as evidenced by satellite-derived chlorophyll distributions (Smith and Comiso, 2008) and modelled regional climatology (Smith et al. 2003).   The resulting patterns accurately corresponded to known contrasts between diatom-dominated areas in the ice-influenced eastern and western regions of the Ross Sea shelf and central areas dominated by Phaeocystis antarctica (Arrigo et al., 1998; Smith and Asper, 2001; Smith et al., in press).  
+
+The accuracy of the HIGEM model outputs in approximating these biologically important patterns on the continental shelf lent confidence to the use of the same data layers to model patterns in other areas where direct evidence of biological pattern is lacking.  The layers also depict ocean front patterns of known importance in deeper water; validation of corresponding biological contrasts was available with reference to continuously sampled zooplankton and mesopelagic community composition (Hosie et al. 2003; Atkinson et al. 2008; O’Driscoll et al. 2008) and top predator foraging distributions (e.g. Tynan 1998, Ainley et al. 2006).  The pelagic group therefore chose to use these same two HIGEM data layers to approximate water body properties in both the shelf and off-shelf classifications.  
+
+2) Depth
+In the relatively shallow waters of the shelf the influence of depth on the pelagic environment is fairly straightforward, i.e. influencing hydrodynamics and micronutrient availability and directly affecting pelagic organisms capable of vertical migration or vertical foraging behaviour.
+
+3) Ice dynamics
+Pelagic group experts selected from a large number of available data layers representing different aspects of dynamic ice behaviour in the Ross Sea region.  The group actively sought an ice representation that would most accurately capture the pattern and sequence of ice retreat in early summer.  In particular it was important that the continental shelf classification accurately represent the shape and sequence of ice edge retreat in the formation of the Ross Sea Polynya, and that the off-shelf classification depict the early summer marginal ice zone and mid-summer polynya breakout zone.  The ecological importance of polynya formation and of the marginal ice zone during the period of rapid ice retreat in early summer -- as a location of heightened primary productivity, essential habitat for ecological keystone species such as krill, and rapid trophic assimilation to higher trophic levels including top predators – is well documented (Ainley et al. 2006).  
+
+The ice layer judged to most effectively capture these dynamic patterns was the layer depicting the average change in ice concentration from November-December (i.e. icechange_nov-dec; Figure 3-4d).  Note however that because this layer exclusively emphasizes change, it was necessary in the off-shelf classification to add the November ice (ice_nov) layer to effectively distinguish between areas with persistently high vs. persistently low early summer ice concentrations.  
+
+Step 3.  Data pre-processing  
+The temperature and salinity layers from the HIGEM model were retained untransformed.  The layers were each down-weighted by half in the cluster algorithm in order to maintain equal weight applied to water body property variables relative to the depth and ice dynamics.
+
+For the shelf classification, the bathy layer was log transformed to reduce the emphasis on depth contrasts in deeper water expected to have less influence on the pelagic environment.  For the off-shelf classification, the influence of depth was truncated at depths greater than 1500 (i.e. all depths greater than 1500 m treated as equal).  
+
+The summer ice change layer was retained untransformed.  In the off-shelf classification, for which a second ice layer was necessary, both ice layers were down-weighted by half to maintain an equal overall weighting applied to ice dynamics relative to water body properties and depth.  
+
+The final list of retained variables for both pelagic classifications is as follows:
+
+Continental shelf pelagic classification variables
+    1. T-HIGEM_200_summer:  	untransformed; 		weight = 0.5
+    2. S-HIGEM_200_summer:  	untransformed; 		weight = 0.5
+    3. bathy: 				log transformed; 		weight = 1
+    4. icechange_Nov-Dec: 		untransformed; 		weight = 1
+
+Off-shelf pelagic classification variables
+    1. T-HIGEM_200_summer:  	untransformed; 		weight = 0.5
+    2. S-HIGEM_200_summer:  	untransformed; 		weight = 0.5
+    3. bathy: 				effect truncated < 1500 m; 	weight = 1
+    4. icechange_Nov-Dec: 		untransformed; 		weight = 0.5
+    5. ice_nov:			untransformed; 		weight = 0.5
+
+
+Steps 4-5.  Spatial clustering
+Clustering for the continental shelf and off-shelf pelagic classifications followed the same procedure outlined for the benthic classification, above.  The shelf classification was performed first, reflecting greater available data and workshop expertise concentrated on the shelf against which the resulting clusters could be assessed and validated.  Input environmental data layers, weights, and transforms were iteratively adjusted until an optimum shelf classification was agreed (corresponding to the variable list above) at the 10-group level.  Retained variables for the shelf classification provided a starting point from which the off-shelf classification proceeded.  A range of alternate variable configurations were examined, but ultimately the agreed optimal classification retained a similar list of variables as in the shelf classification, again at the 10-group level.  
+
+Step 6.  Classification post-processing
+The Pelagic Group subjectively modified the results of the shelf and off-shelf classifications to better correspond to known biological or ecological patterns, or to better accommodate management concerns, as follows:
+    • Within the shelf classification, two extremely small coastal/shallow-water groups were thought to be too small to be practically useful in a pelagic management context; consisting mainly of isolated pixels within coastal embayments; the groups were eliminated by merging the pixels into adjacent groups, yielding eight continental shelf groups.  
+    • In the off-shelf classification, three groups within the Antarctic Circumpolar Current (ACC) were merged into a single group.  The internal stratification of the 
+ACC was driven by extreme values in the salinity and temperature variables relative to southern waters; the resulting patterns were judged by workshop experts to be unrealistic, due to the dynamic nature of the ACC.  
+    • A single group encompassing the shallowest waters of the off-shelf group (800-1500 m) was divided into three groups, i.e. ‘summer ice-free slope’, ‘summer ice-covered slope’, and ‘Balleny Islands seamounts’.  This division corresponds to known differences in the ecosystem functional role of these areas (see below).  
+    • 
+The shelf and off-shelf pelagic classification were then combined into a single pelagic classification with 18 groups.  The Ross Sea region pelagic bioregionalisation is shown in Figure 5. Summary descriptions of the groups are shown in Table 3.
+
+Step 7.  Validation
+Throughout the bioregionalisation process the Pelagic Group referred to available published and unpublished sources of spatial biological data and compared relevant biological distributions with patterns arising from the clustering procedure, to inform the selection and retention of alternate spatial data inputs until an optimum pelagic classification had been achieved.  It was acknowledged that not all biological distributions give rise to the same pattern, and thus the choice of which species distribution or other biological pattern to emphasize involves subjective decisions.  With considerable discussion, Pelagic Group experts chose to emphasize those environmental patterns or species distributions thought to most accurately correspond to ecosystem processes crucial to the function and health of the Ross Sea regional ecosystem.  For example species patterns indicative of important trophic processes such as primary production, secondary trophic assimilation supporting highly productive species (e.g. krill and Pleuragramma) and top predator foraging were sought.  Patterns indicative of high biomass or functionally important species were favoured over rare species or spatially restricted distributions.  
+
+Completion of the pelagic bioregionalisation benefited from comparison of interim cluster procedure outputs with a large number of published and unpublished representations of pelagic species distributions or ecological patterns during the bioregionalisation (see Output 3, below, and Table 4 for references).    
+
+
+Output 3:  Ecosystem Processes
+
+Workshop experts identified a list of spatially predictable ecosystem processes known to be of particular importance to ecosystem function in the Ross Sea region.  Wherever possible workshop experts also attempted to locate the identified processes on a map.  Some identified processes, for example some biological distributions and predator foraging areas, are known only approximately or not at all and would benefit from further literature or field investigations.  Other processes, e.g. those associated with fronts and polynyas, can be inferred from ecological first principles and located with the aid of the same spatial environmental datasets considered as inputs to the bioregionalisation process.  
+
+Workshop experts from the Benthic and Pelagic Groups compiled separate lists of ecosystem processes with relevance for these separate environments, but subsequently came together to compare lists and to discuss ecosystem processes that have relevance for both environments or that involve benthic-pelagic coupling.  In particular all discussions involving the ecological roles of fish or fish-eating predators were held involving experts from both groups together.  See Table 4.  Descriptions of areas included in the combined list are as follows. 
+
+Pelagic processes/ areas
+The following areas were identified by the Pelagic Group.
+
+    1. shelf front intersection with seasonal ice edge
+
+The Ross Sea Shelf Front in combination with early summer marginal ice forms a zone of elevated productivity, possibly fuelled by a supply of micronutrients (e.g. iron) associated with shelf break upwelling, particularly between 160-180W (e.g. Sweeney et al, 2003).  Similar regional distinctions and processes have been described for the western Antarctic Peninsula shelf break (Smith et al, 2008), e.g. Siegel & Loeb (1995) and Loeb et al (1997) demonstrate that in the Antarctic Peninsula region,  production and survivorship of krill is enhanced on the overlap of ice edge with the shelf- break.  
+
+The Ross Sea shelf front in association with marginal ice is actively targeted by top predators including seabirds (e.g. Adelie penguins – Ainley et al. 1984), pinnipeds (Crab-eater seals - Gilbert and Erikson 1977) and cetaceans (Minke and Type-C – Ichii et al. 1998; Karnovsky et al. 2007; Ainley in press), and corresponds with preferred feeding habitat for adult toothfish (Hanchet et al. 2009).  Predators forced to forage elsewhere suffer reduced fitness.  For example Wilson et al (2001) demonstrated a negative correlation between Adelie penguin population growth and maximum winter/spring sea-ice extent in the Ross Sea Region, and hypothesized that further increases in regional ice extent and a corresponding northerly shift in their winter habitat would move Adelie penguins (and their predators) north of the food rich waters that occur south of the Antarctic Circumpolar Current.
+
+    2. early summer northern Marginal Ice Zone/ Ross Sea polynya edge:  
+
+The northern marginal ice zone from about 65 to 70°S is the preferred summer foraging zones of the populations of Great Whales and Orca types A and B.  
+
+On the Ross Sea shelf top predators (e.g. Minke whale, Balaenoptera bonaerensis; Orca-Type C, Orcinus orca; Weddell seals (Leptonychotes weddellii), Emperor penguins, Aptenodytes forsteri; and Adelie penguins, P. adeliae; and  petrel spp.) concentrate in the waters that coincide with the marginal ice zone that rings the Ross Sea polynya during spring and summer (location as indicated by the Nov-Dec marginal ice data layer – See Figure 3d; see also Figure 6, from Ainley et al. 2006). In general, the top predators appear to resist foraging in the central and southern portion of the Ross Sea polynya area because of the reduced prey abundance associated with bloom patterns of the phytoplankton Phaeocystis antarctica (Smith et al. 2007). The physical properties (colonial growth and gelatinous structure) of Phaeocystis and short early spring blooms lead to a food-web less suited to the needs of top-predators (Walker Smith pers. comm. 2009).
+
+    3. Balleny Islands and proximity
+
+Elevated densities of Euphausia superba have been recorded near the Balleny Islands and in the northern parts of the Ross Sea (Timonin 1987; Voronina & Maslennikov 1993; Azzali & Kalinowski 2000). In the vicinity of the Balleny Islands, these aggregations are possibly associated with one or more of the intersecting water types (the Antarctic Circumpolar Current, Offshore Antarctic Current, and the mixed waters from both in the Ross Gyre) present in the area. Voronina (1995) notes that on a transect along 67oS, early developmental stages of E. superba were only found north of the western Ross Sea near the Balleny Islands. This suggests that successful breeding and survival of larvae had occurred only in this region. 
+
+Short-lived polynyas formed down-wind or down-current of islands such as the Balleny Archipelago probably boost local marine productivity by permitting greater light availability to the water column, and provide access to prey resources for top predators. The dimensions of these polynyas and their effects on local trophic function may extend far beyond the  island group, similar to the case for giant icebergs in Ross Sea where zones of open water or reduced pack ice often exceeded 35 km and sometimes extended greater than 150 km downwind (Keys et al. 1990, Keys pers comm.).  
+
+See Sharp (2005) and references therein for a comprehensive summary of ecosystem and conservation values associated with the Balleny Islands.  
+
+    4. Polar Front
+
+The Polar Front is an oceanic transitional zone marked by enhanced productivity and active seabird foraging, e.g. see Ainley and Jacobs (1981) and Weimerskierch & Cherel (1998).
+
+    5. Multi-year ice zone in eastern Ross Sea
+
+The eastern Ross Sea region is characterised by large stable ice floes utilised by Emperor and Adelie penguins as platforms on which to moult (Ainley et al. 2006) and perhaps to a lesser extent by crabeater seals.  
+
+    6. Northwest Ross Sea Antarctic krill aggregation
+
+In the Ross Sea E. superba (Antarctic krill) have been mainly encountered in association with the continental slope (Azzali & Kalinowski 2000; Sala et al. 2002; Azzali et al. 2006; Murase et al. 2008) and north of 74°S in the eastern Ross Sea (Ackley et al. 2003) coinciding with elevated productivity associated with the shelf break (area 1) and early summer marginal ice zones (area 2).  These krill support large populations of top predators.  In particular their proximity to the Northern Victoria Land coast (i.e. Cape Adare to the Possession Islands) results in high concentrations of Adelie penguins, approximately 50% of the Ross Sea population (area 11, see Figure 7).    Penguin diet samples obtained by Landcare Research at Hallett Station, near the shelf break in the Ross Sea, suggests that major densities of E. superba occur in the study region. Makarov et al. (1991) shows high larval densities close to 2000 m contour between 180° and 165°W.
+
+    7. Small coastal polynyas 
+
+Spatially restricted early-opening coastal polynyas on the Victoria Coast (see Tremblay & Smith 2007; Jacobs & Clomiso 1989; Romanov 1994; Zwally et al. 2002; Jacobs and Giulivi 1998) are important sites of increased productivity supporting higher trophic levels, including large breeding colonies of penguins and seals (see below).  
+
+    8. Increased primary production in southern shelf polynya
+
+Satellite-derived estimates of chl-a concentration reveal a distinct region south of 74ºS that is characterized by high phytoplankton biomass; furthermore, this is on a seasonal scale driven by the availability of irradiance for growth.  Variations within that region also occur, but the longitudinal differences are more difficult to address using a spatial composite.  These variations have also been observed in surveys of biomass and productivity (e.g., Tremblay and Smith, 2007) and in estimates derived from satellite-based models (Arrigo and van Djiken, 2004; Smith and Comiso, 2008).  
+
+
+    9. Crystal krill concentrations on Ross Sea shelf
+
+In the western Ross Sea the krill species distribution is characterised by a broad latitudinal separation with E. superba occupying the water column to the north of approx. 70-72º lat and E. crystallorophias to the south (Murase et al. 2008; O’Driscoll et al. 2009; Lyver et al. in review). The variable spatial overlap between the two krill species is related to ice cover and perhaps age structure (Azzali et al. 2006).  This krill boundary tracks south-east along the Ross Sea Shelf Break and is likely to be dynamic according to year (Murase et al. 2008; O’Driscoll et al. 2009).
+
+
+    10. Silverfish concentrations on Ross Sea shelf
+
+After krill, the most important prey species for top predators on the Ross Sea Shelf is Antarctic silverfish (Pleuragramma antarcticum).  Despite the importance of their trophic role, spatial distributions for silverfish are not known with great certainty; proper delineation of boundaries for this area would benefit from additional data or analysis.  Available observations suggest that both adult and juvenile silverfish occurr widely over the western Ross Sea shelf from 72º to 77º S and 167º 30’E to 180º. Highest acoustic densities of adults have been observed at about 73º 30 S and 178º 30’ E, southwest of the Iselin Bank. Juvenile silverfish appear to be more abundant in the east, but survey coverage in the area to date has been inadequate to define distributions from direct observations.
+
+In the absence of spatially comprehensive observations, distributions in unobserved areas may be inferred from habitat associations.  Midwater trawls targeting mesopelagic fauna during the the 2008 New Zealand IPY-CAML survey indicate a clear transition between ‘Ross Sea’ mesopelagic fauna over the shelf – i.e. silverfish, icefish, and crystal krill -- vs ‘Oceanic’ fauna consisting of jellyfish, myctophids, deepsea smelt, and squid north of the Ross Sea slope. Preliminary analyses indicate that the boundary between these groups corresponds most closely to the 800 m depth contour . 
+
+
+Predator colonies and foraging areas
+The following areas were identified by the Pelagic Group
+
+    11. Penguin colonies and foraging distribution [colony locations known; extended foraging distributions only partly resolved]
+
+The locations of Adelie and emperor penguin colonies on the Victoria Coast are shown in Figures 7-8. 
+
+Key foraging habitats of the seals and penguins from the colonies and haul-outs in the western Ross Sea occur within a 50-150 km zone along the Victoria Land coast and Ross Island (Ballance et al. 2009; Lyver et al. in review). For Adelie penguin colonies in particular, foraging areas are often characterised by proximity to coastal polynyas (area 7, above). Weddell seals breeding in the south-western Ross Sea (McMurdo Sound) also confine foraging to the marginal ice zone along the western boundary of the Ross Sea polynya (area 2; see Ainley et al. 2006). There is also some evidence of seal foraging in the troughs between shallow banks during middle and late winter. Emperor penguins confine foraging to waters in the western third of the Ross Sea Shelf during the chick-feeding season and pre-molt stages. Foraging appears to be associated with shallow banks to some degree.
+
+    12. Weddell seal colonies and foraging distribution [colony locations known, extended foraging distributions only partly resolved]
+
+The known distribution of Weddell seals is described by Ackley et al. (2003) and shown in Figure 8c along with data indicative of foraging distributions.  Because Weddell seals are known to feed on Antarctic toothfish (Pinkerton et al. 2008), resolving their spatial foraging distribution is potentially of particular importance for spatial management as a means of avoiding potential trophic overlap with the toothfish fishery.  
+
+    13.   Type C orca foraging locations [location currently unresolved]
+
+Type C orcas are a distinct variant (presumed species) of specialist fish-feeder orca known to prey on Antarctic toothfish (Pitman & Ensor 2003).  Their numbers and spatial distributions are largely unknown because available data does not resolve between type C orcas and the more commonly observed orcas that feed primarily on whales (Type A) or on seals and penguins (Type B).  Because of the potential for trophic overlap with the toothfish fishery, data indicative of preferred feeding distributions for Type C orcas would be a high priority for input into spatial management planning.  
+
+Fish processes/ areas
+The following areas were identified in combined discussions of both the Benthic and Pelagic Groups.  
+
+    14. Victoria coast/ ice tongues and proximity
+
+Platelet ice formation in waters adjacent to the Victoria Coast and ice tongues provides important habitat for fish and invertebrate larvae.  The freezing water (-2.3o  C)  formed at the underside of the Ross Ice Shelf  when advected towards the surface becomes supercooled and leads to nucleation in the water column beneath the surface.  Small crystals adhere to the substrate (rocks and sessile invertebrates) and to the underside of the solid ice and grow into large platelet like crystals.  These formations occur on the substrate down to approximately 30 m and form large mats of anchor ice.  Anchor ice prevents the settlement of sessile invertebrates but is a habitat for several species of small Trematomus  fishes.  The same platelets form at the underside of the solid ice where they are inhabited by ice amphipods, the adult Pagothenia borchgrevinki and several species of larval and juvenile notothenioid fishes.  
+
+The conditions for forming anchor ice and the subplatelet layer have been observed directly in both the eastern and western McMurdo Sound.  On the west side of the Sound and northwards the floating glacial ice tongues and small perennial ice shelves also generate supercooled water and associated anchor ice in the embayments of Granite Harbor, Tethys Bay near Terra Nova Bay, and between the ice tongues north of Cape Washington.  Presumably the factors that lead to anchor ice formation are also present north of Cape Hallet up to Cape Adare.
+
+    15. Terra Nova Bay
+The northern part of Terra Nova Bay is thought to be a nursery ground for silverfish Pleuragramma antarcticum (Guglielmo et al. 1998; Vacchi et al. 2004). High densities of post-larvae and juvenile silverfish have been observed associated with the westward flowing current of the limb of the Antarctic coastal current and southern limb of the Ross Sea Gyre (Guglielmo et al. 1998); the permanent polynya located there may provide favourable food conditions for the development of early silverfish life stages.  These observations suggest a tight relationship between reproduction events for Antarctic silverfish and the seasonal dynamics of the pack-ice zone (Vacchi et al. 2004). 
+
+Antarctic toothfish areas
+
+Antarctic toothfish is a major component of the Ross Sea ecosystem, as the  dominant benthic and demersal fish predator as well as a potential prey species for other top predators such as orcas, Weddell seals, and sperm whales.  Consequently the RSR workshop sought to identify areas of particular functional importance in the life cycle of toothfish, which may be amenable to spatial protection or management to protect areas deemed particularly important on ecosystem grounds.  
+
+The presumed life cycle of Antarctic toothfish in the Ross Sea stock (Hanchet et al. 2009) holds that juvenile toothfish settle in shallow southeastern continental shelf or continental margin areas after a pelagic larval stage, and move progressively westward and northward to deeper waters as they mature.  Sub-adult (i.e. 60-100 cm) fish have been observed in three deeper ‘holes’ on the extreme southern and western Ross Sea shelf.  As fish mature they move gradually northward and are found in deeper water; adult Antarctic toothfish (Dissostichus mawsoni) are broadly associated with the neritic waters along the Ross Sea Shelf slope, Terra Nova Deep, southern McMurdo Sound, and Ross Ice Shelf edge. Toothfish probably spawn on the underwater topographic features in the north of the Ross Sea (north of about 70ºS) outside the polar summer season (Fenaughty 2006; Hanchet et al. 2009). Limited tag returns and spatial modelling results support this hypothesis.  On this basis the following areas were identified in combined discussions of both the Benthic and Pelagic Groups.
+
+    16. Deeper areas of southern and western Ross Sea shelf
+
+Three historical fishing grounds in deeper ‘holes’ within the Ross Sea shelf may constitute important interim habitats between initial settlement of juvenile fish on the shelf and subsequent migration of mature fish to the continental slope.  The Terra Nova Bay ground is a deep trough running northeast from the mouth of Terra Nova Bay and extending from under the Drygalski Ice Tongue and at a maximum depth of ca. 1200 m.  The Ross Island ground lies in the area of deep water immediately to the north and east of Ross Island and adjacent to the Ross Ice Shelf, and likely extends to ca. 900 m.  The third main ground is adjacent to the ice shelf and extends to greater than 800 m.  
+
+
+    17. Terra Nova trench
+
+The Terra Nova trench is a continuous channel of deeper water connecting the Terra Nova Bay deep ground to the continental slope, and as such may be an important dispersal corridor for maturing Antarctic toothfish (Hanchet et al. 2009).
+
+    18. 18.  Ice-free continental slope
+
+The ice-free continental slope adjacent to the Ross Sea supports the highest known concentrations of adult toothfish in the region, and is thought to be the main feeding ground where adult fish gain weight in preparation for spawning in the north (Hanchet et al. 2009; Fenaughty et al. 2008).  
+
+    19. Northern seamounts
+
+Antarctic toothfish are known to spawn on seamounts to the north of the Ross Sea, where current patterns associated with the Ross Gyre are thought to retain the eggs and deposit the larvae back to the slope and continental margin in the southeast Ross Sea.  It is thought that fish do not spawn every year, requiring more than a year to regain condition after migrating to spawn in what is likely to be a food-poor environment.  At least a portion of the spawning stock migrates back to the continental slope after spawning, presumably to regain condition in preferred feeding areas (Hanchet et al. 2009; Fenaughty et al. 2008).  
+
+    20. Iselin Bank
+Rattails (Macrourus spp) are the dominant prey item for Antarctic toothfish (Fenaughty et al. 2003; Stevens 2004), and as such account for a substantial portion of trophic energy flow to higher trophic levels in demersal food chains (Pinkerton et al. 2009).  The highest concentration of rattails caught in the Ross Sea region are on the eastern Iselin Bank.  
+
+Benthic processes/ areas
+
+The following areas were identified by the Benthic Group
+
+    21. Pacific-Antarctic Ridge
+
+The Pacific-Antarctic Ridge lies on the boundary of the Polar Front separating different oceanic water masses as well as on the boundary between tectonic plates.  It is an overlap zone for fish at both the northern and southern extremes of their distributions, as well as an area of significant endemism for benthic and demersal species.  For example the following possible endemics have been observed:  Giant cod, Lepidion cf. schmidti (new species record); Blobfish, Epinania sp. (new family record); Eelpouts: Seleniolycus pectoralis & S. robertsi (currently endemic to the PAR).
+
+    22. Balleny Islands and associated complex topography
+
+As the only significant islands in the region, the Balleny Islands include isolated shallow environments affected by complex ice and current regimes.  The benthic bioregionalisation for this area (Figure 2) include habitats that occur nowhere else in the region.  See Bradford-Grieve and Fenwick (2002) and references therein.  
+
+Unique, isolated, and/or potentially endemic benthic and demersal fauna have been observed in the vicinity of the Balleny Islands, as follows:  Lepidonotothen squamifrons (Günther 1880); Nototheniops loesha (Balushkin 1976); Lepidonotothen  larseni Lönnberg 1905; Gymnodraco acuticeps (Boulenger, 1902) – northern limit; Macrourus whitsoni – northern limit; Amblyraja skate species – outer limit; Notothenia corriceps – northern limit.
+
+    23. Admiralty seamount
+
+US ROAVERRS research voyages (Barry et al. 2003) and the NZ IPY-CAML survey (unpubl) and earlier research voyages have observed communities of potentially vulnerable benthic taxa.  Extreme isolation suggests the potential for endemism.  The following demersal distributions have been observed:  Lepidonotothen squamifrons (Günther 1880); Macrourus whitsoni – northern limit; Amblyraja skate species – outer limit
+
+    24. Cape Adare slope
+
+US ROAVERRS research voyages (Barry et al. 2003) and the New Zealand IPY-CAML survey (unpubl) have observed communities of potentially vulnerable benthic taxa in this area.  The thin continental shelf and the coastal configuration relative to prevailing currents presumably provides refuge from ice scour.  
+
+    25. Lower slope Mawson bank
+
+There are indications of high biodiversity from US ROAVERRS research voyages (Barry et al. 2003) and the NZ IPY-CAML survey (unpubl) in this area.
+
+    26. southeast Ross Sea slope
+
+Complex oceanographic and underwater topographic confluences and the benthic bioregionalisation (Figure 2) suggest a highly heterogeneous (and potentially unique for the region) benthic setting in this area.  
+
+ 
+Discussion
+
+Taken together, the outputs of the Ross Sea Region Bioregionalisation and Spatial Ecosystem Processes workshop seek to provide a comprehensive spatially explicit representation of the Ross Sea region, depicting those environmental patterns and ecosystem processes thought to be most important for informing spatial management planning.  It is New Zealand’s intention to progress spatial management planning, perhaps using a Systematic Conservation Planning (SCP) approach to address multiple conservation objectives simultaneously in balance with sustainable rational use of marine resources (as in Margules and Pressey 2000, Lombard et al. 2007, SC-CCAMLR XXVIII/14), consistent with the CAMLR Convention and commitments of the Antarctic Treaty.  
+
+Spatial planning in this framework is a 2-phase process.  Phase 1, of which the RSR workshop is a part, is a process of assembling and analysing relevant information about the Ross Sea regional ecosystem itself, i.e. natural environmental or biological features without reference to management by people.  Phase 2 is a process of making decisions about spatial management following the SCP approach, i.e. putting lines on maps to delineate areas that will be managed differently for conservation purposes.  As such the outputs of the Phase 1 RSR workshop will serve as necessary inputs to the Phase 2 SCP approach.  These outputs will also help to identify data gaps, and to define a work plan for data acquisition.  
+
+The critical step in the SCP approach linking Phase 1 and Phase 2 of the spatial management process is the clear identification of likely conservation goals, targets, and constraints guiding Phase 2 of the process.  In the language of Systematic Conservation Planning, a ‘goal’ is an agreed conservation objective that the spatial management network will seek to achieve, e.g. ‘protect from physical disturbance a representative example of every benthic habitat’ or ‘protect core foraging areas in the immediate vicinity of breeding colony locations for land-based top predators’.  A ‘target’ is a spatially quantitative management standard assigned to each goal, e.g. ‘X% of each benthic habitat type closed to bottom fishing methods’ or ‘Y% of areas within 10 nm of emperor penguin breeding colonies closed to all fishing’.  A ‘constraint’ is an additional rule or restriction imposed to optimize possible spatial management solutions to meet conservation targets while minimising costs imposed on other uses, e.g. ‘minimise the area required to meet targets’ or ‘minimise disruption to historical or anticipated fishing patterns without compromising conservation targets’.   The optimal spatial management solution is the one that meets all of its objectives as defined by the conservation targets while minimising ‘costs’ as defined by the constraints.  Identification of an optimal solution may be aided by the use of spatial conservation planning software, modified by discussions with managers and stakeholders to negotiate tradeoffs in the achievement of competing management objectives (as in Lombard et al. 2007, SC-CCAMLR XXVIII/14).  
+
+New Zealand is moving ahead with plans for Phase 2 of a spatial management planning process for the Ross Sea region.  The identification of conservation goals will arise logically from the outputs of the RSR workshop described in this paper (i.e. Figures 2 and 5, and Table 4 with associated maps, currently under revision) guided by the overall objectives for spatial management as mandated by CCAMLR and the ATCM (as described in the Background, above).  Note however that not every functionally important habitat or ecosystem process identified in Table 4 may be amenable to protection using spatial management tools; some processes may require protection using other management tools.  Identifying constraints on spatial management design will proceed in consultation with managers and relevant stakeholders.  Defining and adjusting quantitative targets will consider tradeoffs between multiple objectives and competing stakeholder interests.  Once these are defined, application of the Systematic Conservation Planning  process can be expected to yield a comprehensive and effective spatial management solution to achieve important conservation objectives in the Ross Sea region (as in Lombard et al. 2007, SC-CCAMLR XXVIII/14)
+
+New Zealand is eager to collaborate with other CCAMLR Members and AT Consultative Parties with an interest in the conservation and sustainable management of the Ross Sea region as we proceed with spatial management planning.  It is hoped that this document will stimulate dialog among interested Members to progress that goal.  
+
+
+
+References
+
+Ackley, S.F.; Bengtson, J.L.; Boveng, P.; Castellini, M.; Daly, K.L.; Jacobs, S.; Kooyman, G.L.; Laake, J.; Quentin, L.; Ross, G.; Siniff, D.B.; Stewart, D.B.; Stirling, I.; Torres, J.; Yochem, P.K. 2003. A top-down, multidisciplinary study of the structure and function of the pack-ice ecosystem in the eastern Ross Sea, Antarctica. Polar Record 39(210): 219-230.
+Ainley, D.G., O’Conner, E.F. and Boekelheide, R.J. (1984). The marine ecology of birds in the Ross Sea, Antarctica. Ornithological Monographs, 32: 97 p.
+Ainley, D. G. & Jacobs, S. S. 1981 Seabird affinities for ocean and ice boundaries in the Antarctic. Deep-Sea Research, 28, 1173–1185. 
+Ainley, D.G.V. Toniolo, G. Ballard, K. Barton, J. Eastman, B. Karl, S. Focardi, G.Kooyman, P. Lyver, S. Olmastroni, B. S. Stewart, J. W. Testa, P. Wilson. 2006. Managing Ecosystem Uncertainty: Critical Habitat and Dietary Overlap of Top-Predators in the Ross Sea. CCAMLR WG-EMM-06/29
+Ainley, D.G. (in press) A History of the Exploitation of the Ross Sea, Antarctica. Polar RecordArrigo, K.R., D.H. Robinson, D.L. Worthen, R.B. Dunbar, G.R. DiTullio, M. Van Woert, and M.P. Lizotte. 1999. Phytoplankton community structure and the drawdown of nutrients and CO2 in the Southern Ocean. Science 283, 365-367.
+Allanson, B.R., R.C. Hart & J.R.E. Jutjeharms (1985).  A contribution to the oceanography of the Prince Edward Islands.  In: Siegfried, W.R. P.R. Condy & R.M. Laws (eds.)  Antarctic nutrient cycles and food webs.  Springer-Verlag, Berlin, p. 38-45.  
+Arrigo, K.R., D.H. Robinson, D.L. Worthen, R.B. Dunbar, G.R. DiTullio, M. Van Woert, and M.P. Lizotte. 1999. Phytoplankton community structure and the drawdown of nutrients and CO2 in the Southern Ocean. Science 283, 365-367.
+Arrigo, K.R., D.L. Worthen, and D.H. Robinson. 2003. A coupled ocean-ecosystem model of the Ross Sea: 2. Iron regulation of phytoplankton taxonomic variability and primary production. Journal of Geophysical Research 108, [doi: 10.1029/2001JC000856].
+Arrigo, K.R., van Dijken, G.L., 2004. Annual changes in sea ice, chlorophyll a, and primary production in the Ross Sea, Antarctica.  Deep-Sea Research II 51, 117-138.
+Assmann, K.M., H.H. Hellmer, and S.S. Jacobs.  2005.  Amundsen Sea ice production and transport.  Journal of Geophysical Research, 110, doi: 10.1029/2004JC002797.
+Atkinson, A.; V. Siegel; E.A. Pakhomov; P. Rothery; V. Loeb; R.M. Ross; L.B. Quetin; K. Schmidt; P. Fretwell; E.J. Murphy; G.A. Tarling; A.H. Fleming (2008). Oceanic circumpolar habitats of Antarctic krill. Marine Ecology Progress Series 362: 1-23.
+Azzali, A.; Kalinowski, J. 2000. Spatial and temporal distribution of krill Euphausia superba biomass in the Ross Sea (1989–1990 and 1994). In: Faranda, F.M.; Guglielmo, L.; Ianora, A. (eds.) Ross Sea Ecology. Berlin, Springer-Verlag. p. 433–456.
+Azzali, M.; Leonori, I.; De Felice, A.; Russo, A. 2006. Spatial-temporal relationships between two euphausiid species in the Ross Sea. Chemistry and Ecology (Suppl.) 22: 219-233.
+Ballance, L.T.; Ainley, D.G.; Ballard, G.; Barton, K. (2009). An energetic correlate between colony size and foraging effort in seabirds, an example of the Adélie penguin Pygoscelis adeliae. Journal of Avian Biology, 40: 279-288.
+Barry, J. P., Grebmeier, J., Smith, J. & Dunbar, R. B. 2003.  Bathymetric versus oceanographic control of benthic megafaunal patterns in Brewer, P. G., and J. C. Goldman. 1976. Alkalinity changes generated by phytoplankton growth. Limnology and Oceanography 21: 108–17.
+Bradford-Grieve, J. & Fenwick, G. (2002) A review of the current knowledge describing the biodiversity of the Balleny Islands. New Zealand Ministry of Fisheries unpublished report.
+Burrough, P.A, McDonnell, R.A, 1998. Principals of Geographical Information Systems. Oxford University Press.
+Cavalieri, D., Gloerson, P., Zwally, J., 1990. updated 2007. DMSP SSM/I daily polar gridded sea-ice concentrations, 1997 to 2006. Maslanik, J., Stroeve, J. (Eds). Boulder, CO: National Snow and Ice Data Center. Digital media. http://nsidc.org/data/nsidc-0002.html
+Cummings, V., Thrush, S., Norkko, A., Andrew, N., Hewitt, J., Funnell, G., & Schwarz, A-M (2006).  Accounting for local scale variability in benthos:  implications for future assessments of latitudinal trends in the coastal Ross Sea.  Antarctic Science, 18(4) 633-644.  
+Dayton, P.K., G.A. Robilliard, and A.L. DeVries.  1969. Anchor Ice formation in McMurdo Sound, Antarctica, and its biological effects, Science, 163, 273-273, 1969.
+Dayton, P.K., G.A. Robilliard and R.T. Paine.  1970.  Benthic faunal zonation as a result of anchor ice at McMurdo Sound, Antarctica, in Antarctic Ecology, vol 1, edited by M.W. Holdgate, pp. 244-258, Academic Press, NY.  
+El-Sayed, S.Z. 1994. (ed.) Southern Ocean ecology: the BIOMASS perspective : Cambridge University Press, Cambridge; xxi + 399 pp.
+Fenaughty, J.M., Stevens, D.W. & Hanchet, S.M. (2003) Diet of the Antarctic toothfish (Dissostichus mawsoni) from the Ross Sea, Antarctica (Subarea 88.1). CCAMLR Science, 10, 113-123. 
+Fenaughty, J.M. (2006). Geographical differences in condition, reproductive development, sex ratio, and length distribution in Antarctic toothfish (Dissostichus mawsoni) for the Ross Sea, Antarctica (CCAMLR statistical Subarea 88.1) CCAMLR Science, 13: 27-45.
+Fenaughty J. M, Eastman, J.E., Sidell, B.D. (2008). Biological implications of low condition factor “ax handle” specimens of the Antarctic Toothfish, Dissostichus mawsoni, from the Ross Sea. Antarctic Science 20 (6), 537–551 (2008).
+Gilbert, J.R. and Erickson. A.W. 1977. Distribution and abundance of seals in the pack ice of the Pacific sector of Southern Ocean. In G.A. Llano (Ed) Adaptations within Antarctic ecosystems, Smithsonian Institution, 703-748 pp.
+Gouretski, V.V., Koltermann, K.P., 2004. WOCE Global Hydrographic Climatology. Technical Report, 35, Berichte des Bundesamtes für Seeschifffahrt und Hydrographie.
+Grant, S., Constable, A., Raymond, B., Doust, S., 2006. Bioregionalisation of the Southern Ocean: Report of Experts Workshop (Hobart, September 2006). WWF-Australia and Antarctic Climate and Ecosystems Cooperative Research Centre, Hobart, Australia.
+Grant, S.M., Tratalos, J., & Trathan, P.N. (2008).  Proposed approach for the identification of important marine areas for conservation:  using ‘Marxan’ software to support systematic conservation planning.  CCAMLR EMM-08-49.  
+Grindley, J.R., & David, P. 1985.  Nutrient upwelling and its effects in the lee of Marion Island.  In: Siegfried, W.R. P.R. Condy & R.M. Laws (eds.)  Antarctic nutrient cycles and food webs.  Springer-Verlag, Berlin, p. 46-51.
+Guglielmo, L.; Granata, A.; Greco, S. 1998. Distribution and abundance of postlarval and juvenile Pleuragramma antarcticum (Pisces, Nototheniidae) off Terra Nova Bay (Ross Seas Antarctica). Polar Biology 19: 37-51.
+Gutt, J. 2001 On the direct impact of ice on marine benthic communities, a review. Polar Biol. 24, 553–564. (doi:10. 1007/s003000100262)
+Gutt, J., Starmans, A. & Dieckmann, G. 1996.  Impact of iceberg scouring on polar benthic habitats. Mar. Ecol. Prog. Ser. 137, 311–316.
+Hanchet, S., Mormede, S. and Dunn, A. 2009. Distribution and abundance of Antarctic toothfish in the Ross Sea. CCAMLR WG-EMM-09/40.
+Hooker, S.B., Esaias, W.E., Feldman, G.C., Gregg, W.W., McClain, C.R., 1992. An overview of SeaWiFS and ocean colour. In: Hooker, S.B., Firestone E.R. (Eds.), NASA Technical Memo 104566, Vol. 1, NASA Goddard Space Flight Centre, Greenbelt, Maryland, pp 24.
+Hosie, G.W., Fukuchi, M., Kawaguchi, S., 2003. Development of the Southern Ocean Continuous Plankton Recorder Survey. Prog. Oceanogr. 58(2-4), 263-283.
+Ichii, T. 1990.  Distribution of Antarctic krill concentrations exploited by Japanes krill trawlers and minke whales.  Proceedings of the NIPR Symposium on polar Biology, 3, 36-56.  
+IOC, IHO, BODC, 2003. Centenary Edition of the GEBCO Digital Atlas, published on CD-ROM on behalf of the Intergovernmental Oceanographic Commission and the International Hydrographic Organization as part of the General Bathymetric Chart of the Oceans, British Oceanographic Data Centre, Liverpool, UK.
+Jacobs, S.S., A.F. Amos, and P.M. Bruchhausen. 1970.  Ross Sea oceanography and Antarctic Bottom Water formation, Deep-Sea Research 17, 935-962.
+Jacobs, S.S., C.F. Giulivi, and P.A. Mele.  2002.  Freshening of the Ross Sea during the late 20th century.  Science 297, doi: 10.1126/science.1069574.
+Jackson, B.B.. 1983.  Multivariate Data Analysis. Homewood, Illinois:  R.D. Irwin.  ISBN 0-256-02848-6  
+Everitt, B.S. 1993. Cluster Analysis. New York: Halsted Press. ISBN 0-470-22043-0
+Kachigan, S.K. 1991.  Multivariate Statistical Analysis. New York: Radius Press. ISBN 0-942154-91-6
+Karnovsky et al. 2007  The impact and importance of production in polynyas to top-trophic predators: three case studies.  In:  Polynyas: Windows to the World’s Oceans (W.O. Smith, Jr. and D.G. Barber, eds.), Elsevier, Amsterdam,
+Key, R.M., A. Kozyr, C.L. Sabine, K. Lee, R. Wanninkhof, J. Bullister, R.A. Feely, F. Millero, C. Mordy, T.-H. Peng. 2004. A global ocean carbon climatology: Results from GLODAP. Global Biogeochemical Cycles, Vol. 18, GB4031.
+Keys, H.J.R, Jacobs, S.S. and Barnet, D. 1990. The calving and drift of iceberg B-9 in the Ross Sea, Antarctica. Antarctic Science, 2 (3): 243-257
+Keys, J.R., 1983. Iceberg quantities, shapes and sizes in western Ross and D’Urville Seas. Antarctic Journal 18, 125–127.
+Kirk, J.T.O. 1994. Light and photosynthesis in aquatic ecosystems. Second edition. Cambridge University Press, 509 pp.
+Knox, G.A. 2007. The Biology of Southern Ocean.  2nd Edition.  CRC Press.  621 pp.  
+Kurtz, D.D.; D.H. Bromwich. 1985. A recurring, atmospherically forced polynya in Terra Nova Bay. In: Oceanology of the Antarctic Continental Shelf, S.S. Jacobs (ed) Antarctic Research Series 43, AGU, Washington D.C., 177-201.
+La Mesa, M., Eastman, J. T. & Vacchi, M. 2004 The role of notothenioid fish in the food web of the Ross Sea shelf waters: a review. Polar Biology 27, 321–338.
+Lenihan, H. S. & Oliver, J. S. 1995 Anthropogenic and natural disturbances to marine benthic communities in Antarctica. Ecol. Applic. 5, 311–326. (doi:10.2307/ 1942024)
+Lewis, E.L. and Perkins, R.G. 1985. The winter oceanography of McMurdo Sound, Antarctica. Ant Res. Series, 43, 145-165 
+Lockhart, S.J. & C.D. Jones.  2008.  Biogeographic patterns of benthic invertebrate megafauna on shelf areas within the Souther Ocean Atlantic sector.  CCAMLR Science, 15: 167-192.  
+Loeb V, Siegel V, Holm-Hansen O, Hewitt R, Fraser W, Trivelpiece W, Trivelpiece S (1997) Effects of sea ice extent and krill on salp dominance on the Antarctic food web. Nature 387:987- 900
+Lombard, A,T., B. Reyers, L.Y. Schonegevel, J. Cooper, L.B. Smith-Adao, D.C. Nel, P.W. Froneman, I.J. Ansorge, M.N. Bester, C.A. Tosh, T. Strauss, T. Akkers, O. Gon, R.W. Leslie, & S.L. Chlown (2007).  Conserving pattern and process in the Southern Ocean: designing a Marine Protected Area for the Prince Edward Islands.  Antarctic Science, 19(1), 39-54
+Lyver, P’O.B., MacLeod, C.J., Karl, B.J., Barton, K.J., Ballard, G., Adams J., Ainley, D.G., and Wilson, P.R. (in review). Plasticity in breeding Adélie penguin (Pygocelis adeliae) foraging behaviour at Cape Hallett, Ross Sea, Antarctica. Polar Biology.
+Makarov, R.R.; L.L. Men’shenina; V.P. Timonin; N.A. Shurunov; 1991. Ecology of larvae and reproduction of Euphausiidae in the Ross Sea. Ecology 269.56: 156-162.
+Marchant, H.J. and Murphy, E. 1994. Ecosystem Dynamics.  In: Southern Ocean Ecology-The BIOMASS Perspective (S.Z. El-Sayed, ed.). Cambridge University Press, 398-445.
+Margules, C.R. & Pressey, R.L.  2000.  Systematic conservation planning.  Nature, 405, 243-253.  
+Murase, H., Yasuma, H., Matsukura, R., Takao, Y., Taki, K., Hayashi, T., Yabuki, T., Tamura, T., Konishi, K., Matsuoka, K., Miyashita, K., Nishiwaki, S. and Naganobu, M. (2008). Distribution patterns and biomasses of Antarctic krill (Euphausia superba) and ice krill (E. crystallorophias) with note on distribution of Antarctic minke whales (Balaenoptera bonaerensis) in the Ross Sea in 2005. WG-EMM-08/35
+NASA, 2008. MODIS: http://oceancolor.gsfc.nasa.gov/ Accessed June 2009.
+Naganobu, M., S. Nishiwaki, H. Yasuma, R. Matsukura, Y. Takao, K. Taki, T. Hayashi, Y. Watanabe, T. Yabuki, Y. Yoda, Y. Noiri, M. Kuga, K. Yoshikawa, N. Kokubun, H. Murase, K. Matsuoka, and K. Ito.  2007.  Interactions between oceanography, krill and baleen whales in the Ross Sea and Adjacent Waters in 2004/05.  CCAMLR WG-EMM-07/7.  
+O'Driscoll, R.L., G.J. Macaulay, S. Gauthier, M. Pinkerton, S. Hanchet. 2009.  Preliminary acoustic results from the New Zealand IPY-CAML survey of the Ross Sea region in February-March 2008. SG-ASAM-09/5
+Olbers, D., V.V. Gouretski, G. Seifl, J. Schrater.  1992.  Hydrographic Atlas of the Southern Ocean, Alfred Wegener Institute for Polar and Marine Research, Bremerhaven, Germany, and Arctic and Antarctic Research Institute, St. Petersburg, Russia, pp 17, 82 plates.
+Orsi, A.H., and C.L. Wiederwohl.  2009.  A recount of Ross Sea waters, Deep-Sea Research II, doi:  10.1016/j.dsr2.2008.10.033.
+Orsi, A.H., Whitworth III, T., Nowlin Jr, W.D., 1995. On the meridianal extent and fronts of the Antarctic Circumpolar Current. Deep-Sea Res. Pt. I 42, 641-673.
+Pinkerton, M.H.; Sharp, B.; Smith, A.N.H.; Leathwick, J.R. (2007) Use of biological data to inform bioregionalisation of the Southern Ocean, WS-BSO-07/7. Working paper submitted to the CCAMLR workshop, 13-17 August 2007, Brussels.
+Pinkerton, M.H., Smith, A.N.H., Raymond, B., Hosie, G., Sharp, B., 2008. Extrapolating Continuous Plankton Recorder data through the Southern Ocean using Boosted Regression Trees. CCAMLR document WG-SAM-08/12, Hobart, Australia.
+Pinkerton M.H., J.M. Bradford-Grieve, S.M. Hanchet.  2009.  Trophic overlap of Weddell seals (Leptonychotes weddelli) and Antarctic toothfish (Dissostichus mawsoni) in the Ross Sea, Antarctica.  CCAMLR document WG-EMM-09/32.  
+Pinkerton, M.H., A. Dunn and S.M. Hanchet.  2009.  A balanced model of the food web of the Ross Sea, Antarctica.  CCAMLR Document WG-EMM-09/42.  
+Pitman, R.L. & Ensor, P. (2003) Three forms of killer whales in Antarctic waters.  Journal of Cetacean Research and Management, 5, 1-9.  
+Reynolds, R.W., Smith, T.M., 1994. Improved global sea surface temperature analyses using optimum interpolation. J. Climate 7, 929-948.
+Rickard, G.J; M.J. Roberts; M.J.M. Williams (2009) Circulation in the Ross Sea sector of the Southern Ocean: representation in numerical models. Submitted to Antarctic Science.
+Romanov AA 1994. Ice of the Sothern Ocean. Gidrometeoizdat, Leningrad, 150pages
+Sabine, C. L., R. M. Key, A. Kozyr, R. A. Feely, R. Wanninkhof, F. J. Millero, T.-H. Peng, J. L. Bullister, and K. Lee. 2005. Global Ocean Data Analysis Project: Results and Data. ORNL/CDIAC-145, NDP-083. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee, 110 pp.
+Sala, A.; Azzali, M.; Russo, A. 2002. Krill of the Ross Sea: distribution, abundance and demography of Euphausia superba and Euphausia crystallorophias during the Italian Antarctic Expedition (January-February 2000). Scientia Marina 66(2): 123-133. 
+Shaffrey L.C.; W.A. Norton; P.L. Vidale; M.E. Demory; J. Donners; J.W. Cole; et al. (2009) U.K. HiGEM: The New U.K. High-Resolution Global Environment Model—Model Description and Basic Evaluation. Journal of Climate, 1861–1896.
+Sharp, B.R., S.J. Parker, and N. Smith (2009).  An impact assessment framework for bottom fishing methods in the CCAMLR area.  CCAMLR Science, in press.  
+Sharp, B.R. (2005) Scientific justification for a marine protected area designation around the Balleny Islands to protect ecosystem structure and function in the Ross Sea region, Antarctica.  (CCAMLR SC-XXIV-BG-25)
+Siegel V, Loeb V (1995) Recruitment of Antarctic krill Euphausia superba and possible causes for its variability.Mar Ecol Prog Ser 123:45-56
+Smith, C. R., Mincks, S. & DeMaster, D. J. 2006 A synthesis of benthopelagic coupling on the Antarctic shelf: food banks, ecosystem inertia and global climate change. Deep- Sea Res. II 53, 875–894.
+Smith, R.C., D.G. Martinson, S.E. Stammerjohn, R.A. Iannuzzi, and K Ireson.  2008.  Bellingshasuen and western Antarctic Peninsula region: Pigment biomass and sea-ice spatial/temporal distributions and interannual variability.  Deep-Sea Research II, 55, 1949-1963, doi: 10.1016/j.dsr2.2008.04.027.
+Smith, W.O., Jr. and V.A. Asper.  2001.  The influence of phytoplankton assemblage composition on biogeochemical characteristics and cycles in the southern Ross Sea, Antarctica. Deep-Sea Res. I 48: 137-161.
+Smith, W.O., Jr., M.S. Dinniman, J.M. Klinck, and E. Hofmann. 2003. Biogeochemical climatologies in the Ross Sea, Antarctica: seasonal patterns of nutrients and biomass. Deep-Sea Res. II 50: 3083-3101.
+Smith, W.O., D.G. Ainley and R. Cattaneo-Vietti. 2007. Trophic interactions within the Ross Sea continental shelf ecosystem. Phil. Trans. R. Soc. B. 362, 95–111
+Smith, W.O. Jr. and J.C. Comiso. 2008. The influence of sea ice on primary production in the Southern Ocean: a satellite perspective.  J. Geophys. Res. 113, C05S93, doi:10.1029/2007JC004251.
+Smith, W.O. Jr., M. Dinniman, G.R. DiTullio, S. Tozzi, O. Mangoni, M. Modigh and V. Saggiomo (in press). Phytoplankton photosynthetic pigments in the Ross Sea: Patterns and relationships among functional groups. Journal of Marine Systems..
+Stevens, D.W. (2004) Stomach contents of the Antarctic toothfish (Dissostichus mawsoni) from the western Ross Sea, Antarctica. CCAMLR WG-FSA-04/31. 
+Sweeney, C.  2003. The annual cycle of surface CO2 and O2 in the Ross Sea: A model for gas exchange on the continental shelves of Antarctica, In:  Biogeochemistry of the Ross Sea, edited by G. R. D. a. R. B. Dunbar, AGU, Washington DC.
+Thomas, D.N.; Dieckmann, G.S. (eds.) 2002. Sea Ice: An Introduction to its Physics, Biology, Chemistry, and Geology. Blackwell Science, pp 402.
+Thrush, S., Dayton, P., Cattaneo-Vietti, R., Chiantore, M., Cummings, V., Andrew, N., Hawes, I., Kim, S., Kvitek, R., Schwarz, A-M. (2006).  Broad-scale factors influencing the biodiversity of coastal benthic communities of the Ross Sea.  Deep-Sea Research II, 53, 959-971.  
+Timonin, V.P. 1987. Distribution pattern and age composition of larval Euphausia superba Dana in the Pacific and Indian Ocean sectors of the Antarctic Ocean. Biologo-Okeanografisheskie Issledovaniya Tikhookeanskogo Sektora Antarktiki 119-135.
+Tremblay, J.-E. and W.O. Smith, Jr.  2007. Phytoplankton processes in polynyas.  In:  Polynyas: Windows to the World’s Oceans (W.O. Smith, Jr. and D.G. Barber, eds.), Elsevier, Amsterdam, Pp. 239-270.
+Tynan, C.T.  1998.  Ecological importance of the Southern Boundary of the Antarctic Circumpolar Current.  Nature, 392, 708-710.  
+Vacchi, M. La Mesa, M. Dalù, J. MacDonald, 2004. Early life stages of the Antarctic silverfish, Pleuragramma antarcticum Boulenger, 1902 in Terra Nova Bay (Ross Sea, Antarctica). Antarctic Science, 16 (3): 299-305
+Voronina, N.M. 1995. Euphausiid larvae in the southern part of the Pacific sector of Antarctic in February to March, 1992. Oceanology 35 (5): 725-732. [English language edition 1996.]
+Voronina, N.M.; Maslennikov, V.V. 1993. Plankton as an indicator of water transport in the Antarctic. Okeanologiya 33(5): 717-720.
+Wadhams, P., 2000. Ice in the Ocean, Gordon and Breach.  Amsterdam, The Netherlands: Elsevier
+Weimerskirch, H. & Y. Cherel. 1998.  Feeding ecology of short-tailed shearwaters: breeding in Tasmania and foraging in the Antarctic?  Mar Ecol Prog Ser,167 : 261-74
+Zwally, H.J.; J.C. Comiso; A.L. Gordon. 1985. Antarctic offshore leads and polynyas and oceanographic effects. In: Oceanology of the Antarctic Continental Shelf, S.S. Jacobs (ed.), Antarctic Research Series 43, AGU, Washington D.C., 203-336.
+
+
+
+
+
+Table 1.  Environmental data layers compiled or prepared for use by the Ross Sea Region Bioregionalisation workshop.  Layers cover the area 150°E–150°W, and 60°S–80°S (excluding areas under permanent ice) on a 4 km grid.  
+
+Variable
+Layer name
+Description
+Bathymetric data layers
+Depth 
+bathy
+Average depth, from GEBCO (2003)
+Slope
+bathyslope
+Gradient over bathymetric grid
+Bathymetric anomaly
+bathyanom
+
+Difference between bathymetry and smoothed 2ox2o bathymetric grids
+Upper ocean chlorophyll
+Chlorophyll-a
+chlamean
+Mean annual chl-a concentration, 1997-2007
+Maximum  chlorophyll-a
+chlamax, chlamaxsd
+Maximum chl-a concentration (+ standard deviation)
+Insolation (photosynthetially active radiation)
+Photosynthetically active radiation (PAR)
+insolation
+Solar radiation, neglecting the effect of ice and cloud cover (i.e. symmetrical with latitude)
+Sea surface temperature
+SST
+sst
+Mean annual sea surface temperature, 1991-2006
+Summer SST
+sstsum
+sstsumsd
+Mean annual sea surface temperature, December-February, 1991-2006 (+ standard deviation)
+Satellite-derived indicators of ocean frontal features
+SST gradient
+sstgrad
+Gradient of mean annual SST (proxy for SSH)
+Dynamic sea ice behaviour
+Annual ice duration
+ice15mean, ice15sd
+Mean number of ice-free (<15% ice cover) days per year, 1980-2007 (+ standard deviation)
+Ice cover (by month)
+ice_jan, ice_feb, etc
+Average daily ice concentration by month, 1980-2007
+Summer unconsolidated pack ice (by month)
+ice_pack_jan,
+ice_pack_dec
+Average proportion of days per month (December and January) with daily ice concentrations of 40-70%  
+Summer marginal ice (by month)
+ice_marginal_jan,
+ice_marginal_dec
+Average proportion of days per month (December and January) with daily ice concentrations of 15-40%  
+Summer ice retreat
+icechange_nov-dec
+icechange_dec-jan
+Average change in monthly ice concentrations from previous month (Nov-Dec and Dec-Jan)
+Dissolved nutrients
+Nutrients (Ni, Ph, Si) 
+N200, Ph200, Si200
+Dissolved nutrient concentrations – Nitrate, Phosphate, and Silicate -- at 200 m depth
+Ocean alkalinity and CO2
+Alkalinity
+alk_surface,
+alk_bottom,
+alk_xxxx
+Modelled ocean alkalinity at the surface, at the ocean floor, and at user-defined intermediate depths (in meters)
+Total CO2 concentration
+tCO2_surface,
+tCO2_bottom,
+tCO2_xxxx
+Modelled CO2 concentration at the surface, at the ocean floor, and at user-defined intermediate depths (in meters)
+Potential alkalinity
+palk_surface,
+palk_bottom
+palk_xxxx
+Potential alkalinity (i.e. corrected for mixing and decomposition) at the surface, at the ocean floor, and at user-defined intermediate depths 
+Circulation models and water column structure
+Current speed
+speed_surface, speed_bottom, 
+speed_xxxx
+Ocean current speed -- at the surface, at the ocean floor, and at user-defined intermediate depths (in meters)
+Temperature
+T-HIGEM_surface,
+T-HIGEM_bottom,
+T-HIGEM_xxxx
+Water temperature -- at the surface, at the ocean floor, and at user-defined intermediate depths (in meters)
+Salinity
+S-HIGEM_surface,
+S-HIGEM_bottom,
+S-HIGEM_xxxx
+Water salinity -- at the surface, at the ocean floor, and at user-defined intermediate depths (in meters)
+Proximity variables approximating biogeographic and behavioural effects
+Land proximity
+landprox
+Distance to nearest land
+Shelf break proximity
+shelfbreak
+Distance to continental shelf break (1000 m depth contour)
+
+Table 2.  Benthic bioregionalisation -- group descriptions and references.
+
+Group
+Geographic location and description
+    1) Deep shelf (dark blue)
+Most of shelf, except western coast, esp mid to east, a little bit of the north eastern offshore area round from Adare;
+Deepest shelf, includes troughs.
+    2) Rough lower slope, very seldom ice free (orangey yellow)
+Follows slope, gaps in middle
+    3) Shallow, high scour shelf (green)
+North-west Adare coast (Coulman Is north and round corner to ?), plus mid-shelf banks and a small bit north of Drygalski
+    4) Smooth lower slope, seldom ice free (pink)
+Lower northern slope edge
+
+    5) Ice covered coast (pale blue)
+s-w coast and shelf banks, far east shelf, north west coast
+    6) Smooth shelf edge (purple-blue)
+Small patches, thin strip on shelf break, hole on north western edge
+    7) Shallow ice covered shelf edge (orange)
+Eastern and north-western shelf edges
+    8) Rough, warm, ice covered eastern slope (lime yellow)
+Tiny area on far eastern shelf
+    9) Northern abyss (darker pale blue)
+Northern region;
+pretty much everywhere
+    10) Islands/seamounts/ P-A ridge, deep (red)
+Northern region;
+surrounding islands, seamounts and Pacific Antarctic ridge
+    11) Ice influenced islands/seamounts (yellow)
+Northern region;
+south of ACC; Around flanks of Balleny & Scott islands, Admiralty sea mount and southern PA ridge; 
+    12) Northern ice influenced islands (pastel green)
+Northern Balleny Islands, tiny spot just north of Scott Island; very small portion of overall cluster (0.036%)
+    13) (white)
+Northern region; Two tiny spots north-west and east of Ballenys; very small portion of overall cluster (0.021%)
+    14) (grey)
+Northern region;
+Tops of islands and seamounts, plus a couple of spots north of ACC; very small portion of overall cluster (0.027%)
+    15) (purple)
+Northern region; microscopic portion of overall cluster (0.0016%)
+    16) (lime green)
+Northern region; P-A ridge
+    17) (orange)
+Northern region; Two ovals on mid P-A ridge
+Table 3.  Pelagic bioregionalisation -- group descriptions and references.
+
+Group
+Physical and biological attributes
+References
+    1) Victoria Land coastal zone
+
+Ice persists through January partly due to convergence; strong stratification; influence of continent; diatom-dominated
+Smith & Nelson, 1985; 
+    2) Southern [Early] Ross Sea polynya zone
+
+Ice concentration reduces as polynya opens from south due to divergence and melting of ice. Ice-free for long period; Phaeocystis dominated; hi productivity; southern region significant for Adelie and Emperor penguin breeding and foraging
+Zwally et al  1985, Sturman & Anderson 1986, Smith & Gordon, 1997; Arrigo et al., 1999; Kooyman et al. 2007; Ballance et al. 2009
+    3) December Ross Sea polynya zone
+
+Ice free for summer period; moderate productivity; 
+Zwally et al  1985, Arrigo et al., 2004
+    4) Northeast Ross Sea shelf warmer water incursion zone
+
+Warmer water at depth; influence of CDW
+Jacobs et al 1985, , Orsi & Wiederwohl 2008
+    5) Southeast Ross Sea late polynya zone
+
+Opening of polyna usually after December, E. superba present
+APIS study; Ackley et al. 2003, Zwally et al  1985
+    6) Colbeck-Sultzberger dynamic zone
+
+Dynamic zone of divergence in Antarctic Coastal Current , AASW and some MCDW, late ice melting and advection of multiyear sea ice from east, possible molting area
+Zwally et al  1985, Sturman & Anderson 1986, Assmann et al 2005, Orsi & Wiederwohl 2008, Comiso et al., 1993
+    7) Oates Land coastal zone  
+
+Persistent convergent ice cover but influenced locally by katabatic winds
+Zwally et al  1985,
+    8) Hudson Bank and shelf extension 
+
+Persistent convergent ice cover influenced by grounded icebergs and ice tongues in west 
+Zwally et al  1985, R Massom pers comm
+    9) Ross Sea continental slope
+
+Normally relatively ice-free from January, high adult toothfish abundance; vigorous shelf flow and front interactions, feeding area
+Zwally et al  1985, Ainley & Jacobs, 1981; Hanchet et al. 2009
+    10) Oates-George V Land ice-covered continental slope
+
+Persistent convergent ice cover
+Zwally et al  1985
+    11) Balleny Islands and associated seamounts
+Steep topography disrupting strong ocean currents, with variable effects on ice regime; transient polynyas
+Bradford-Greive & Fenwick 2002; Sharp 2005, and refernces therein
+    12) Persistent pack ice zone
+
+Older ice including advected multiyear ice contribution; productivity extremely variable among years. Significant area for ice-dependent species during late summer.
+Zwally et al  1985, Comiso et al., 1993, Sturman & Anderson 1986; Ainley et al. 2006
+    13) Ross Sea near-slope zone
+
+Location immediately north of shelf front and southeast of Iselin Bank; ice retreat during late December on average, E. superba present; historical foraging zone for great whales (Blue whale)
+Zwally et al  1985, Ainley & Jacobs, 1981; Ainley 2009
+    14) Mid summer ice retreat zone
+
+Area of large amounts of marginal ice (bordering pack ice zone #13) and high productivity, foraging
+Zwally et al  1985
+    15) Early summer marginal ice 
+
+Ice retreat during December, subsequent southern feeding zone of Great Whales
+Zwally et al  1985, Comiso et al. 1993, Laws 1977
+    16) Pack ice maximum extent
+
+Northern pack ice zone (May-November) with maximum northern extent reached in September
+Zwally et al  1985, Comiso et al. 1993 ;
+    17) Polar Front
+
+Strong transition zone; multiple fronts; highly seasonal production; energetic flow
+Ainley & Jacobs, 1981
+    18) ACC
+
+Strong transition zone; multiple fronts; highly seasonal production; energetic flow; positon of maximum sea ice extent in relation to ACC significant for Adelie penguin sub-adult survival
+Orsi et al 1995; Wilson et al. 2001
+Table 4.  Areas containing functionally important ecosystem processes or habitats. 
+Area number 
+Physical and biological attributes
+References
+Pelagic environment processes/ areas
+    1. shelf front intersection with seasonal ice edge
+Ross Sea Shelf Front in combination with marginal ice forms a zone of elevated productivity targeted by top predators including seabirds, pinnipeds (Crab-eater seals) and cetaceans (Minke and Orca Type-C) as well as adult toothfish.
+Siegel & Loeb 1995; Loeb et al. 1997; 
+Gilbert & Erickson 1977; Ainley et al. 1984; Ichii et al. 1998; Karnovsky et al. 2007; Ainley in press
+    2. early summer Marginal Ice Zone/ polynya edge
+High primary and secondary productivity; top predator foraging
+Ainley et al. 2006; Ainley in press
+    3. Balleny Islands and proximity
+Islands disrupt circumpolar currents; with altered ice regime and short-lived polynyas; top predator foraging; land-based colonies; Antarctic krill; humpback whale migration destination
+Bradford-Grieve & Fenwick 2002; Sharp 2005 and references therein
+    4. Polar Front
+
+Focus area for seabird foraging; transition zone between distinct distributions 
+Ainley & Jacobs 1985; Weimerskirch & Cherel. 1998.  
+    5. multi-year ice zone, eastern Ross Sea
+Moulting habitat area for Adelie and emperor penguins; crabeater seal habitat
+Ainley et al. 2006;
+    6. northwest Ross Sea Antarctic krill aggregation
+Focus area for krill predator foraging, especially at overlap with ice edge/ continental shelf
+Sala et al. 2002; Azzali et al. 2006; Azzali & Kalinowski 2000; Murase et al. 2008; Noganubu et al. 2007; Taki et al. 2008
+    7. coastal polynyas
+Primary and secondary productivity; foraging areas for land-based predator colonies
+Tremblay & Smith 2007; Jacobs & Clomiso 1989; Romanov 1994; Zwally et al. 2002; Jacobs and Giulivi 1998
+    8. increased primary production in southern shelf polynya
+
+Arrigo & van Djiken 2004; Smith & Comiso, 2008.  
+    9. crystal krill 
+Important conduit for energy transfer to higher trophic levels on the shelf; Western Ross Sea shelf; precise location poorly sampled
+Murase et al. 2008; O’Driscoll et al. 2009
+    10. Pleuragramma
+Important conduit for energy transfer to higher trophic levels on the shelf; location undefined – whole of Ross Sea shelf?  
+Murase et al. 2008; O’Driscoll et al. 2009
+Predator foraging areas
+    11. penguin colonies and foraging distributions
+Foraging areas during breeding season
+Balance et al. 2009; Lyver et al. in review
+    12. Weddell seal colonies and foraging distribution
+Foraging distributions
+Ainley et al. 2006; Gilbert & Erickson 1977
+    13. type C orca foraging locations
+Fish predators; possible top down control; possible trophic overlap with fishery;  location undefined
+Ainley in press; 
+Pitman & Ensor 2003
+Fish processes/ areas
+    14. Victoria coast/ ice tongues and proximity
+Platelet ice formation: important habitat for fish and invertebrate larvae on the underside of ice, and for other ice-associated fauna
+Lewis & Perkins 1985; Vacchi et al. unpubl; Cattaneo et al. unpubl
+    15. Terra Nova Bay
+
+Pleuragramma spawning area 
+La Mesa et al. 2004; Vacchi et al. 2004
+    16. Deeper holes in southern continental shelf
+Antarctic toothfish:  likely preferred recruitment habitat for juveniles
+Hanchet et al. 2009
+    17. Terra Nova trench
+Antarctic toothfish:  Likely ontogenetic migration corridor between preferred juvenile and adult habitats
+Hanchet et al. 2008
+    18. Ice-free continental slope
+Antarctic toothfish:  preferred adult habitat/ feeding area, for weight gain between spawning migrations 
+Hanchet et al. 2009
+    19. northern seamounts
+
+Antarctic toothfish:  spawning location
+Fenaughty 2006; Hanchet et al. 2009
+    20. Iselin Bank
+
+Rattails:  highest concentration of macrourus spp. – major prey spp for Antarctic toothfish
+
+Benthic processes/ areas
+    21. Pacific- Antarctic Ridge
+Plate boundaries as areas of composition change, endemism.
+ Andrew Stewart unpubl.
+    22. Balleny Islands Region (note multiple clusters in classification esp. in shallow water)
+Only significant offshore Islands, many examples of unique ecology and scientific interest; known black coral habitat
+ Bradford-Grieve & Fenwick 2002. and references therein
+    23. Admiralty seamount
+Vulnerable benthic habitats; black corals (VME taxa)
+ Barry et al. 2003; IPY unpubl
+    24. Cape Adare Slope
+Thin shelf, steep slope, and slope as an evolutionary refuge from ice; VME taxa; 
+ 
+    25. Lower slope Mawson bank
+Indication of high biodiversity
+ 
+    26. SE Ross Sea slope
+Bioregionalisation suggests many distinct regions here
+Bioregionalisation output
+    27. Southern McMurdo sound, New Harbour
+Existence of deep water type communities but in relatively shallow water; large hexactnellid sponges
+Dayton et al. 1996; Thrush et al. 2006
+
+Figure 1.  Environmental data layers selected and ultimately retained for use in clustering for the benthic bioregionalisation.  All layers were weighted equally.  
+
+T-HIGEM_bottom
+
+bathy
+
+rugosity
+
+speed_bottom
+
+ice15mean
+
+ice scour
+
+
+Figure 2.  Benthic bioregionalisation of the Ross Sea region.  This classification was generated by cluster analysis of the spatial environmental data layers shown in Figure 1, with modifications as described in the text.  
+
+Figure 3.  Environmental data layers selected and ultimately retained for use in clustering for the continental shelf (i.e. depth <800 m) pelagic bioregionalisation.  
+
+a) T-HIGEM_200_summer (weight = 0.5)
+
+b) S-HIGEM_200_summer (weight = 0.5)
+
+c) bathy (weight = 1)
+
+
+d) icechange_nov-dec (weight = 1)
+
+
+
+
+Figure 4.  Environmental data layers selected and ultimately retained for use in clustering for the off-shelf (i.e. depth > 800 m) pelagic classification
+
+a) T-HIGEM_200_summer (weight = 0.5)
+
+b) S-HIGEM_200_summer (weight = 0.5)
+
+c) bathy (weight = 1)
+
+
+
+d) icechange_nov-dec (weight = 0.5)
+
+e) ice_nov (weight = 0.5)
+
+
+Figure 5.  Pelagic bioregionalisation of the Ross Sea region. This classification was generated by cluster analysis of the spatial environmental data layers shown in Figures 3 and 4, with modifications as described in the text.  The final classification below combines the outputs of separate classifications for the continental shelf and non-shelf areas, joined at the 800 m contour.  
+
+
+
+
+ 
+Figure 6: The Ross Sea in early December showing sea-ice cover and location of polynyas, overlain (left panel) by the distribution of marine birds (about 9 million individuals) and (right panel) cetaceans (about 14 thousand minke whales and orcas). The pattern for Weddell seals is similar.  From Ainley et al. (2006).   
+
+
+
+
+Figure 7:  Adelie penguin colony locations and abundance (breeding pairs) and approximated foraging utilisation distributions for December (pink shading) and January (light blue shading) in the Ross Sea region.  Data from Phil Lyver (unpubl.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 8:  Land-based top predator colony/ haul-out locations, approximate populations, and available tracking data for colonies on the Victoria Coast.  About 3 million penguins and 57 thousand Weddell seals breed along the Victoria Land coast, the highest concentrations of these species anywhere in the high latitude Antarctic.  From Ainley et al. (2006).
+
+a) Adelie pengins
+
+b) Emperor penguins	
+
+c) Weddell seals
+Appendix 1:  Expert participant list for the Ross Sea Region Bioregionalisation and Spatial Ecosystem Processes Expert Workshop. 
+
+Expert name
+Affiliation
+Expertise
+Neil Gilbert  
+Antarctica New Zealand, NZ
+(chair)
+Ben Sharp 
+Ministry of Fisheries, NZ 
+(technical co-chair)
+Susie Grant  
+British Antarctic Survey, UK
+(technical co-chair)
+Walker Smith 
+Virginia Institute of Marine Science, USA
+pelagic ecology; trophic ecosystem function
+Susanne Lockhart 
+National Oceanic and Atmospheric Administration, USA
+ice dynamics, pelagic ecology
+Sharon Stammerjohn 
+University of California, Santa Cruz, USA
+benthic ecology
+Art DeVries 
+University of Illinois, Urbana Champaign, USA
+fish biology, taxonomy
+Barbara Breen 
+Auckland University of Technology, NZ 
+GIS, MPA network design
+Matt Pinkerton 
+NIWA Research, NZ 
+ecosystem modeling
+Steve Parker 
+NIWA Research, NZ
+benthic ecology
+Stuart Hanchet 
+NIWA Research, NZ
+Antarctic fisheries, fish ecology
+Alastair Dunn
+NIWA Research, NZ
+Antarctic fisheries, toothfish modeling
+Mike Williams 
+NIWA Research, NZ
+physical oceanography
+Richard O'Driscoll 
+NIWA Research, NZ
+pelagic ecology
+Vonda Cummings 
+NIWA Research, NZ
+benthic ecology
+Peter Wilson
+Landcare Research, NZ (retired)
+top predator ecology
+Phil Lyver 
+Landcare Research, NZ
+top predator ecology
+Harry Keys
+Department of Conservation, NZ
+top predator ecology
+Andrew Stewart
+Museum of New Zealand, Te Papa, NZ
+fish biology, taxonomy
+Barry Weeber 
+ASOC/ ECO of Aotearoa, NZ
+top predator ecology
+John Bennett
+Sanford Ltd, NZ
+Antarctic fisheries
+
+
+

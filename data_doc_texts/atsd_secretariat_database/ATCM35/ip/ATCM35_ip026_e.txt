@@ -1,0 +1,1142 @@
+﻿
+
+
+
+
+
+Analyses of the Antarctic protected areas system using spatial information 
+
+
+
+
+
+
+
+
+Analyses of the Antarctic protected areas system using spatial information
+Information Paper submitted by Australia
+Summary
+Australia has acquired a comprehensive dataset of spatial information representing the boundaries of all Antarctic Specially Protected Areas (ASPAs) and Antarctic Specially Managed Areas (ASMAs). This dataset is now freely available, via the Secretariat, for use in accordance with basic terms and conditions. This paper presents examples of how the dataset can assist in assessing and further developing the Antarctic protected areas system, and support other CEP activities.
+Background
+At CEP XIII (2010) Australia introduced ATCM XXXIII/WP54 Enhancing the Antarctic Protected Areas Database to help assess and further develop the protected areas system. The paper described possible enhancements to the Antarctic Protected Areas Database, and recalled the Committee’s previous agreement to:
+    • consider what information about protected areas could usefully be contained in the protected areas database; and
+    • promote the use of global positioning systems (GPS) to accurately define protected area boundaries, manage such information in the protected area database, and use such information in conjunction with Resolution 3 (2008) to assess representativeness.
+Australia undertook to work with the Secretariat and interested parties to further develop options and to bring an updated proposal to CEP XIV.
+At CEP XIV (2011) the Committee supported the revised proposal presented by Australia in ATCM XXXIV/WP32 Enhancing the Antarctic Protected Areas Database to help assess and further develop the protected areas system, and agreed:
+    • that the Antarctic Protected Areas Database should be expanded to include fields representing: (1) primary reason for designation; and (2) main Environmental Domain represented;
+    • to encourage proponents to make ASPA and ASMA boundaries available in a digital format suitable for use in a GIS where possible, and to provide this information to the Secretariat for central management and access via the Antarctic Protected Areas Database;
+    • to request the Secretariat to modify the Antarctic Protected Areas Database as necessary to accommodate these changes; and
+    • to recommend that the ATCM modify the coversheet for Working Papers presenting ASPAs and ASMAs appended to Resolution 1 (2008) to allow the Secretariat to capture the relevant information for inclusion in the database.
+During the meeting Australia advised that it was in consultation with a private company that had prepared a comprehensive dataset of spatial information representing the boundaries of all existing ASPAs and ASMAs. Australia noted that it planned to acquire the dataset, and would work with the Secretariat during the intersessional period with a view to making the data widely available.
+Dataset of spatial information for ASPAs and ASMAs
+In 2011 Australia purchased from Environmental Research and Assessment1 a comprehensive dataset of spatial information for all ASPAs and ASMAs. The dataset includes information that represents both a point location and a polygon (boundary) for each Area, together with information about the data source and credits for data creation. Australia has made the dataset available to the Antarctic Treaty Secretariat at no cost, with the intention of allowing the data to be freely accessible under basic terms and conditions of use (including appropriate attribution of credit).
+Consistent with the Committee’s agreement at CEP XIV, the Secretariat has modified the Antarctic Protected Areas Database to include additional fields and to allow access to the spatial data (see Secretariat Paper 2 Secretariat Report 2011/12). In a practical sense, the spatial data for each Area can now be used in conjunction with the information contained in the Antarctic Protected Areas Database (i.e. Proponent, Location, Approximate Area; Summary; Designation; Last Review; Next Review; Annex V formation adoption; Modification / Review summary; Primary reason for designation; Main environmental domain represented; Legal Status; and a link to the current Management Plan).
+Examples of spatial analysis with ASPA / ASMA dataset
+In ATCM XXXIV/WP32, Australia presented several examples of potential applications for mapping and spatial analysis of protected areas, using only information for the 11 ASPAs and 2 ASMAs for which Australia is a/the proponent.
+Attachment A to this Information Paper contains:
+    • Summary information for each Antarctic Specially Protected Area and Antarctic Specially Managed Area (e.g. area, primary reason for designation, main environmental domain represented, other environmental domains represented, main Antarctic Conservation Biogeographic Region2 represented and distance to nearest year-round station) – see Table 1.
+    • Examples of statistics that can be generated using spatial information now available for the full suite of 71 ASPAs and 7 ASMAs – see Table 2.
+Conclusion
+As noted in previous Australian Working Papers, the use of modern tools to analyse spatial information for ASPAs and ASMAs can assist to assess and further develop the Antarctic protected areas system and support other CEP activities (e.g. reporting on the state of Antarctic environments, and facilitating the production of maps for CEP reports). The range of applications will continue to grow as further spatial information about Antarctica becomes available.
+Attachment A. Example analyses of the Antarctic protected areas system using spatial information
+Table 1. Summary information for each Antarctic Specially Protected Area Antarctic Specially Managed Area
+ASPA / ASMA
+#
+Name
+Proponent(s)
+Primary reason for  designationi,ii
+Main Environmental Domainiii,iv
+Other Environmental Domainsv
+Area (km2)vi
+Main Antarctic Conservation Biogeographic Regionvii,viii
+Distance to nearest year-round station (km)ix
+ASPA
+101
+Taylor Rookery, Mac. Robertson Land
+Australia
+C
+D
+
+0.26
+
+88.2
+ASPA
+102
+Rookery Islands, Holme Bay, Mac. Robertson Land
+Australia
+C
+Not classified
+
+1.67
+
+13.8
+ASPA
+103
+Ardery Island and Odbert Island, Budd Coast
+Australia
+C
+Not classified
+
+2.44
+7
+9.7
+ASPA
+104
+Sabrina Island, Balleny Islands
+New Zealand
+B
+Not classified
+
+1.50
+
+1047
+ASPA
+105
+Beaufort Island, Ross Sea
+New Zealand
+C
+S
+M
+14.16
+9
+97.8
+ASPA
+106
+Cape Hallett, Victoria Land
+United States
+C
+U
+
+0.53
+8
+624.6
+ASPA
+107
+Emperor Island, Dion Islands, Marguerite Bay, Antarctic Peninsula
+United Kingdom
+C
+Not classified
+
+4.67
+
+40.5
+ASPA
+108
+Green Island, Berthelot Islands, Antarctic Peninsula
+United Kingdom
+C
+Not classified
+
+0.17
+3
+9.9
+ASPA
+109
+Moe Island, South Orkney Islands
+United Kingdom
+B
+Not classified
+
+1.20
+2
+53.1
+ASPA
+110
+Lynch Island, South Orkney Islands
+United Kingdom
+B
+Not classified
+
+0.15
+2
+50.2
+ASPA
+111
+Southern Powell Island and adjacent islands, South Orkney Islands
+United Kingdom
+C
+G
+A
+23.56
+2
+12.6
+ASPA
+112
+Coppermine Peninsula, Robert Island, South Shetland Islands
+Chile
+B
+G
+
+0.67
+3
+13.5
+ASPA
+113
+Litchfield Is.,Arthur Harbour, Anvers Is., Palmer Archipelago
+United States
+C
+Not classified
+
+0.36
+3
+1.7
+ASPA
+114
+Northern Coronation Island., South Orkney Islands
+United Kingdom
+C
+E
+G
+91.76
+2
+45.5
+ASPA
+115
+Lagotellerie Island, Marguerite Bay, Antarctic Peninsula
+United Kingdom
+B
+Not classified
+
+1.62
+3
+29.2
+ASPA
+116
+New College Valley, Caughley Beach, Cape Bird, Ross Island
+New Zealand
+C
+O
+
+0.34
+9
+69.6
+ASPA
+117
+Avian Island, off Adelaide Island, Antarctic Peninsula
+United Kingdom
+C
+E
+
+1.12
+3
+39.6
+ASPA
+118
+Summit of Mount Melbourne, Victoria Land
+New Zealand
+C
+U
+
+6.56
+8
+392
+ASPA
+119
+Forlidas Pond and Davis Valley ponds, Dufek Massif
+United States
+C
+R
+O
+56.81
+10
+593.1
+ASPA
+120
+Pointe-Geologie Archipelago, Terre Adélie
+France
+B
+H
+
+0.37
+13
+0.6
+ASPA
+121
+Cape Royds, Ross Island
+United States
+C
+P
+
+0.62
+9
+34.3
+ASPA
+122
+Arrival Heights, Hut Point Peninsula, Ross Island
+United States
+I
+S
+
+0.73
+9
+1.4
+ASPA
+123
+Barwick and Balham Valleys, Southern Victoria Land
+United States
+G
+S
+O, P
+418.14
+9
+131.7
+ASPA
+124
+Cape Crozier, Ross Island
+United States
+C
+S
+P
+72.21
+9
+69.2
+ASPA
+125
+Fildes Peninsula, King George Island, South Shetland Islands
+Chile
+F
+G
+
+2.34
+3
+0.3
+ASPA
+126
+Byers Peninsula, Livingston Island, South Shetland Islands
+Chile, United Kingdom
+C
+G
+E
+90.56
+3
+65.6
+ASPA
+127
+Haswell Island
+Russian Federation
+E
+L
+
+5.01
+7
+1.1
+ASPA
+128
+Western shore of Admiralty Bay, King George Island
+Poland
+C
+G
+A, E
+18.04
+3
+0.5
+ASPA
+129
+Rothera Point, Adelaide Island
+United Kingdom
+A
+E
+
+0.04
+3
+0.2
+ASPA
+130
+‘Tramway Ridge’, Mount Erebus, Ross Island
+New Zealand
+B
+S
+
+0.04
+9
+37.9
+ASPA
+131
+Canada Glacier, Lake Fryxell, Taylor Valley, Victoria Land
+New Zealand
+C
+S
+
+1.51
+9
+89.7
+ASPA
+132
+Potter Peninsula, King George Island, South Shetland Islands
+Argentina
+B
+G
+E
+2.17
+3
+0.6
+ASPA
+133
+Harmony Point, Nelson Island, South Shetland Islands
+Argentina, Chile
+C
+E
+G
+30.69
+3
+12
+ASPA
+134
+Cierva Point and offshore islands, Danco Coast, Antarctic Peninsula
+Argentina
+C
+B
+E
+59.03
+3
+159.6
+ASPA
+135
+North-East Bailey Peninsula, Budd Coast, Wilkes Land
+Australia
+C
+D
+
+0.28
+7
+0.4
+ASPA
+136
+Clark Peninsula, Budd Coast, Wilkes Land
+Australia
+C
+L
+D
+9.38
+7
+3
+ASPA
+137
+North-west White Island, McMurdo Sound
+United States
+C
+P
+O, S
+141.61
+9
+18.6
+ASPA
+138
+Linneaus Terrace, Asgard Range, Victoria Land
+United States
+C
+S
+
+0.78
+9
+135.9
+ASPA
+139
+Biscoe Point, Anvers Island
+United States
+C
+E
+
+0.60
+3
+13.3
+ASPA
+140
+Parts of Deception Island, South Shetland Islands
+United Kingdom
+E
+G
+
+2.57
+3
+69.3
+ASPA
+141
+‘Yukidori Valley’, Langhovde, Lützow-Holmbukta
+Japan
+B
+D
+
+4.88
+5
+25.7
+ASPA
+142
+Svarthamaren, Mühlig-Hofmannfjella, Dronning Maud Land
+Norway
+C
+T
+L, U
+6.49
+6
+91.9
+ASPA
+143
+Marine Plain, Mule Peninsula, Vestfold Hills, Princess Elizabeth Land
+Australia
+B
+D
+
+20.46
+7
+6.4
+ASPA
+144
+Chile Bay (Discovery Bay), Greenwich Island, South Shetland Islands
+Chile
+E
+Not classified
+
+0.66
+
+2.7
+ASPA
+145
+Port Foster, Deception Island, South Shetland Islands
+Chile
+E
+Not classified
+
+2.24
+
+68.8
+ASPA
+146
+South Bay, Doumer Island, Palmer Archipelago
+Chile
+E
+E
+
+0.96
+3
+24.9
+ASPA
+147
+Ablation Point-Ganymede Heights, Alexander Island
+United Kingdom
+F
+C
+E, F, K
+109.02
+4
+299.3
+ASPA
+148
+Mount Flora, Hope Bay, Antarctic Peninsula
+United Kingdom
+F
+A
+
+0.35
+1
+2.2
+ASPA
+149
+Cape Shirreff, Livingston Island, South Shetland Islands
+United States
+E
+G
+E
+9.74
+3
+58
+ASPA
+150
+Ardley Island, Maxwell Bay, King George Island
+Chile
+C
+Not classified
+
+1.22
+3
+0.9
+ASPA
+151
+Lions Rump, King George Island, South Shetland Islands
+Poland
+C
+A
+G
+1.32
+3
+13.9
+ASPA
+152
+Western Bransfield Strait off Low Island, South Shetland Islands
+United States
+E
+E
+G
+915.80
+3
+154.7
+ASPA
+153
+Eastern Dallmann Bay off Brabant Island, Palmer Archipelago
+United States
+C
+B
+E
+609.54
+3
+84.4
+ASPA
+154
+Botany Bay, Cape Geology, Victoria Land
+New Zealand
+C
+S
+
+2.14
+9
+136.3
+ASPA
+155
+Cape Evans, Ross Island
+New Zealand
+H
+S
+
+0.06
+9
+24.2
+ASPA
+156
+Lewis Bay, Mount Erebus, Ross Island
+New Zealand
+I
+O
+S
+14.41
+9
+48
+ASPA
+157
+Backdoor Bay, Cape Royds, Ross Island
+New Zealand
+H
+P
+
+0.04
+9
+34.9
+ASPA
+158
+Hut Point, Ross Island
+New Zealand
+H
+S
+
+0.00
+9
+0.7
+ASPA
+159
+Cape Adare, Borchgrevink Coast
+New Zealand
+H
+U
+
+0.03
+8
+736.8
+ASPA
+160
+Frazier Islands, Windmill Islands, Wilkes Land
+Australia
+C
+Not classified
+
+0.60
+7
+16.3
+ASPA
+161
+Terra Nova Bay, Ross Sea
+Italy
+E
+S
+T
+29.46
+8
+346.7
+ASPA
+162
+Mawson’s Hut, Commonwealth Bay, George V Land, East Antartica
+Australia
+H
+L
+
+0.00
+
+126.1
+ASPA
+163
+Dakshin Gangotri Glacier
+India
+E
+D
+I, L
+4.31
+6
+4.9
+ASPA
+164
+Scullin and Murray Monoliths, Mac Robertson Land, East Antarctica
+Australia
+C
+D
+L
+10.23
+
+166.4
+ASPA
+165
+Edmonson Point, Wood Bay, Ross Sea
+Italy
+AB
+K
+T, U
+5.50
+8
+393.5
+ASPA
+166
+Port-Martin, Terre Adélie
+France
+H
+L
+
+0.17
+
+65
+ASPA
+167
+Hawker Island, Vestfold Hills, Ingrid Christensen Coast, Princess Elizabeth Land, East Antarctica
+Australia
+C
+D
+
+2.17
+7
+7
+ASPA
+168
+Mount Harding, Grove Mountains, East Antarctica
+China
+F
+N
+S, T
+102.78
+
+389.8
+ASPA
+169
+Amanda Bay, Ingrid Christensen Coast, Princess Elizabeth Land, East Antarctica
+Australia, China
+C
+L
+
+17.15
+7
+20.6
+ASPA
+170
+Marion Nunataks, Charcot Island, Antarctic Peninsula
+United Kingdom
+C
+E
+	C
+179.55
+4
+369.1
+ASPA
+171
+Narębski Point, Barton Peninsula, King George Island
+Korea (RoK)
+C
+G
+
+0.89
+
+0.9
+ASMA
+1
+Admiralty Bay, King George Island
+Brazil, Ecuador, Peru, Poland, United States
+n/a
+
+
+409.54
+
+
+ASMA
+2
+McMurdo Dry Valleys, Southern Victoria Land
+New Zealand, United States
+n/a
+
+
+17945.42
+
+
+ASMA
+3
+Cape Denison, Commonwealth Bay, George V Land, East Antarctica
+Australia
+n/a
+
+
+1.11
+
+
+ASMA
+4
+Deception Island
+Argentina, Chile, Norway, Spain, United Kingdom, United States
+n/a
+
+
+158.56
+
+
+ASMA
+5
+Amundsen-Scott South Pole Station, South Pole
+United States
+n/a
+
+
+26286.03
+
+
+ASMA
+6
+Larsemann Hills, East Antarctica
+Australia, China, India, Romania, Russian Federation
+n/a
+
+
+252.54
+
+
+ASMA
+7
+Southwest Anvers Island and Palmer Basin
+United States
+n/a
+
+
+3548.53
+
+
+Figure 1. Map of Antarctica showing the 21 Environmental Domains, from Morgan et al. (2007)
+
+
+
+
+Label
+EDA Type Environments and extended descriptors
+
+A
+Antarctic Peninsula northern geologic
+
+B
+Antarctic Peninsula mid-northern latitudes geologic
+
+C
+Antarctic Peninsula southern geologic
+
+D
+East Antarctic coastal geologic (e.g. Vestfold, Bunger, Wilson hills)
+
+E
+Antarctic Peninsula, Alexander and other islands main ice fields and glaciers
+
+F
+Larsen Ice Shelf (also includes Prince Gustav and other northern peninsula ice shelf remnants)
+
+G
+Antarctic Peninsula offshore islands (e.g. most of Deception Island)
+
+H
+East Antarctic low latitude glacier tongues (e.g. Mertz, Rennick)
+
+I
+East Antarctic ice shelves (e.g. Fimbulisen, Amery, Shackleton, Cook, Moubray Bay)
+
+J
+Southern latitude coastal fringe ice shelves and floating glaciers (e.g. Pine Island,Thwaites, Getz, Drygalski)
+
+K
+Northern latitude ice shelves (e.g. Wordie, George VI, Wilkins, Abbot, Riser-Larsenisen, Nansen)
+
+L
+Continental coastal-zone ice sheet
+
+M
+Continental mid-latitude sloping ice (e.g. Ellsworth & Coats lands, upper Lambert Gl, northern Berkner & Thurston islands)
+
+N
+East Antarctic inland ice sheet
+
+O
+West Antarctic Ice Sheet (also includes inland Coats Land, Taylor Dome, Ross Island ice cap)
+
+P
+Ross and Ronne-Filchner ice shelves
+
+Q
+East Antarctic high interior ice sheet
+
+R
+Transantarctic Mountains geologic (Shackleton Range to Cook Mountains)
+
+S
+McMurdo - South Victoria Land geologic (also includes Ellsworth, Werner etc mountains)
+
+T
+Inland continental geologic (Dronning Maud, MacRobertson, Victoria, Oates lands, Ford Range)
+
+U
+North Victoria Land geologic (also includes Executive Committee Range, Prince Charles & Jones mountains)
+
+Figure 2. Map of Antarctica showing the 15 Antarctic Conservation Biogeographic Regions, from Terauds et al. (in press, accepted 18 April 2012)
+
+
+Table 2. Examples of statistics that can be generated using spatial information for the current 71 ASPAs and 7 ASMAs
+Query
+Result
+Total area of all ASPAs (km2):
+3118.44
+Total area of all ASMAs (km2):
+48601.72
+Total area of all ASPAs and ASMAs (km2):
+51720.17
+ 
+Primary reason for designation (Annex V, Art. 3.2)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+Number of ASPAsx:
+2
+11
+37
+0
+9
+4
+1
+6
+2
+Total area (km2)xi:
+2.79
+35.81
+1461.02
+0
+970.75
+214.49
+418.14
+0.3
+15.14
+ 
+Environmental Domains
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+Number of ASPAs that overlap with Domainxii
+3.5
+8.5
+1.5
+13.5
+2
+0
+9.5
+0
+0
+0
+0
+0.5
+0
+0
+2
+1
+0
+1
+13
+3
+3
+Total area of Domain within ASPAs (km2)
+10.50
+37.52
+96.24
+40.47
+248.43
+4.51
+97.74
+0.16
+0.36
+0
+3.53
+12.11
+0.05
+61.65
+48.25
+157.18
+0
+43.68
+466.61
+37.7606
+8.9901
+% of Domain area within ASPAs 
+0.37
+0.23
+0.67
+0.66
+0.14
+0.01
+10.12
+0.001
+0.0001
+0
+0.002
+0.0006
+5.39E-06
+0.002
+0.002
+n/a
+0
+0.14
+1.65
+0.15
+0.03
+ 
+Antarctic Conservation Biogeographic Regions (ACBRs)xiii
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Number of ASPAs that overlap with ACBR
+1
+4
+20
+2
+1
+2
+8
+5
+15
+1
+0
+0
+3
+0
+0
+Total area of ACBR within ASPAs (km2)
+0.3
+9
+231
+115
+5
+11
+30
+42
+267
+57
+0
+0
+0.5
+0
+0
+% of ACBR area within ASPAs
+0.03
+6.3
+4.6
+2.3
+0.2
+0.2
+2.8
+0.4
+2.6
+0.3
+0
+0
+0.3
+0
+0
+ 
+Number of ASPAs within a certain distance of a feature
+<1 km
+1-10 km
+10-100 km
+>100 km
+Nearest year-round stationxiv
+9
+11
+34
+17
+Nearest tourist landing sitexv
+15
+20
+21
+15
+Number of Areas of a certain size
+<1 km2
+1-10 km2
+10-100 km2
+>100 km2
+ASPAs
+26
+24
+14
+7
+ASMAs
+0
+1
+0
+6
+
+Number of ASPAs located in areas identified as having a certain risk of non-native species establishmentxvi
+Very low risk (~0)
+Low-medium risk (<0.5)
+High risk (>0.5)
+
+20
+41
+10
+
+

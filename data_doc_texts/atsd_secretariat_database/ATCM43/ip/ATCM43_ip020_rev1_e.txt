@@ -1,0 +1,386 @@
+Assessment of communication masking in Antarctic marine
+mammals by airgun sound
+Assessment of communication masking in Antarctic marine
+mammals by airgun sound
+Submitted by Germany
+Introduction
+Underwater noise is, besides hazardous substances and nutrients,
+one of the sources of marine pollution which is not yet sufficiently
+investigated. It is also one of the key pollutants created by human
+activities in the Southern Ocean. According to Erbe et al. 2019, "one
+of the key pollutants created by human activities in the Antarctic is
+noise, which is primarily caused by ship traffic (from tourism,
+fisheries, and research), but also by geophysical research (e.g.,
+seismic surveys) and by research station support activities
+(including construction)." Broadband impulsive sounds of high
+intensities are considered especially detrimental for the marine
+environment. Marine airguns used for scientific seismic surveys
+produce this kind of sound pulses that generates most of its energy
+in the low frequency range.
+Concern about potential impacts of anthropogenic sound in the
+Southern Ocean was first raised at the ATCM in 2000 and has been
+discussed most recently at ATCM XLII (SCAR WP 68 & BP 03,
+published as a SCAR Bulletin in 2021). The need for alternative
+sound sources (e.g. ATCM XXXIV IP 29 Potential of Technical
+Measures to Reduce the Acoustical Effects of Airguns) and also for
+seismic mitigation guidelines (e.g. ATCM XXX IP 80 Taking Action
+on Marine Noise in the Southern Ocean) has been voiced. These
+concerns are mirrored in two of the 80 most pressing questions
+identified by SCARs Antarctic and Southern Ocean Science Horizon
+Scan undertaken in 2014 (Kennicutt et al. 2015): “How will
+organism and ecosystems respond to a changing soundscape?” and
+“What will be the impacts of large-scale, direct human modification
+of the Antarctic environment?”.
+Marine mammals highly depend on their sense of hearing. The
+ability to acoustically perceive their environment is vital.
+Anthropogenic underwater noise may interfere with communication
+signals and prey, predator or natural sounds that are of importance
+to the animal and therefore, ‘mask’ their ability to perceive these
+biologically important sounds. Airguns mostly produce low
+frequency sounds that correspond to the frequency range e.g.
+Antarctic baleen whales predominantly use for communication.
+Airguns have been considered for potentially deleterious effects in
+close distances up to a few kilometres. Masking, however, was only
+partly considered and only a few studies have considered masking
+effects of airguns as a potentially adverse effect on marine
+mammals in long distances.
+Signals change their temporal structure (level, frequency content
+and duration) as they radiate from the sound source. Airgun sounds
+can travel vast distances in water. During this sound propagation
+process, sound waves are reflected multiple times on the water
+surface and diffracted in sound channels. Due to these processes the
+frequency content of the received sound level in large distances
+changes and the received signal is stretched and may cover the
+whole time between airgun shots. Hence, the impulsive sound
+source airgun can develop continuous properties and lead to a
+general increase in background noise and furthermore to masking
+effects over large distances.
+The German Environment Agency (UBA) issued a 2-phased project
+to evaluate the potential masking effects of scientific airgun use in
+Antarctica to provide a sound scientific basis for permitting
+geophysical surveys. Work has been carried out as an international
+cooperation with institutes from Australia, Denmark, Germany,
+Netherlands and USA.
+Project Overview
+The frequency range of seismic airgun signals overlaps with many
+marine mammal vocalizations, especially the songs and calls of
+baleen whales. Airguns may therefore mask the perception of
+acoustic environmental cues as well as marine mammal
+communication signals even at large distances from the airgun
+location. This project assesses the communication masking potential
+of airgun noise in the Southern Ocean using a modelling approach.
+The first step includes propagation modelling of the airgun signals
+over vast areas up to 2,000 km. To assess the impact of the received
+airgun signals on the animal vocalisation, a masking model was
+developed as the second evaluation step.
+The first phase of the project ran from 2012 to 2013 (results in
+Siebert et al. 2014, Wittekind et al. 2016). It started with
+vocalisations from 3 species (blue whale, fin whale and Weddell
+seal) and used a leaky integrator to model for the auditory
+processes. The ‘leaky integrator’ accumulates the received energy
+within the frequency band of the focal vocalization in a temporally
+lossy manner. The accumulated energy levels of vocalization and
+noise are analysed and compared to evaluate whether a signal can
+be detected. The second phase (2015 to 2019) developed the
+project and particularly the masking model further (results in
+Gavrilov 2018, Wölfing et al. 2021, download at https://
+www.umweltbundesamt.de/publikationen/assessment-of-
+communication-masking-in-antarctic. The propagation model was
+refined (from spherical spreading to a numerical model) and tested
+with two datasets of airgun signals recorded in the Southern Ocean.
+The range of tested vocalisations was expanded to include the
+multiharmonic killer whale call. The auditory model was
+significantly modified and changed (a. o.) from a band-pass leaky
+integrator to a more specific spectrogram correlator. The
+‘spectrogram correlator’ represents a phase-insensitive receiver. It
+matches a representation of the incoming sound sample with a
+spectral representation (a characteristic frequency and intensity
+pattern) of the search signal and evaluates their similarity over
+time. This principle functionally corresponds to the comparison of
+the stimulation pattern of the cochlear output over time with a
+search pattern of the signal. Finally, the detection model was
+fundamentally changed. While the first phase directly compared
+accumulated energy levels, the second phase used a fundamentally
+different approach. Successful detection was assessed using
+standardized classification theory (receiver operating characteristic
+curve).
+Results Overview
+The output of the models shows that seismic surveys which are
+conducted in lower latitudes outside the Antarctic Treaty area
+(Australia) may even have masking potential in distant areas in
+higher latitudes within the Antarctic Treaty area. As expected,
+masking generally decreases (and communication ranges generally
+increase) with growing distance from the airgun source. However,
+as the transmitted total (airgun) energy does not decline
+monotonously over distance to the source, the models indicate local
+deviations from the general trend.
+Results for numerous scenarios (5 different vocalisations, 2 ocean
+depth, 3 receiver depth, 2 vocalisation depth, 6 ambient noise level
+and 2 receiver models) were modelled for the project. The models
+show that transmission loss depends on ocean depth and is
+distinctly higher in the deep ocean scenarios. Consequently, the
+effect ranges of airguns in deep ocean scenarios are generally higher
+than in the shallow ocean. Different receiver depths produce
+striking differences between the respective sound propagations due
+to the influence of surface effects. This causes larger irregularities in
+propagation close to the source at shallow receiver depths. The
+effect ranges of airguns for 200 m receiver depth are distinctly
+higher than for 10 m or 50 m receiver depth for e.g. communication
+distances of blue whales and fin whales. The level of the propagated
+sound originating from a depth of 5 m, is more attenuated than the
+sound originating from a vocalization depth of 50 m for the low-
+frequency transmission loss at long ranges. Thus, an increase in
+communication ranges is expected for blue and fin whales if these
+species vocalize at greater depths (50 m versus 5 m sender depth).
+As expected, the effect range of airguns are generally larger in low
+ambient ocean noise scenarios than in higher ocean noise scenarios.
+Equally, predicted animal communication ranges rapidly decreases
+as ambient noise level increases.
+The model results indicate that seismic airgun sounds can lead to a
+significant loss (close to 100 %) in communication range for blue
+and fin whales up to 2,000 km from the source. However, the
+intensity of the ambient noise is a relevant parameter. While the
+model shows that airgun noise reduces communication ranges
+severely (> 75 % loss) in low (80 dB) ambient noise scenarios, this
+impact is drastically reduced in
+higher ambient noise scenarios (90-112 dB). Nevertheless, for
+medium distances from 50 – 200 km to the airgun, a significant
+number of scenarios still predict severe (>75%) loss of
+communication ranges compared to natural communication range
+Table 1: Comparison of masking impact for several scenarios for the
+blue whale Z-call (vocalisation depth 50 m) for different water
+depth, receiver depth and distance between airgun and listener.
+Additionally, 4 different ambient noise conditions are incorporated
+in the scenarios: quiet ambient noise conditions (80 dB), moderate
+ambient noise (94 dB), medium ambient noise (102 dB) and high
+ambient noise (112 dB). In phase I of the project only “quiet”
+ambient noise conditions (80 dB) where included in the model.
+Water
+depth
+Receiver
+Depth [m]
+Distance
+Airgun-Receiver [km]
+Loss in acoustic communication distances [%]
+80 dB noise
+= the noise situation modelled in phase I
+94 dB noise = moderate ocean noise
+102 dB noise = medium ocean noise
+112 dB noise = high
+ocean noise
+leaky integrator (phase I)
+leaky integrator (phase II)
+spectrogram correlator
+(phase II)
+spectrogram correlator
+(phase II)
+spectrogram correlator
+(phase II)
+spectrogram correlator
+(phase II)
+4000 m
+10
+500
+98 %
+97 %
+94 %
+36 %
+36 %
+0 %
+10
+2000
+96 %
+84 %
+88 %
+36 %
+0 %
+0 %
+50
+500
+99%
+97 %
+92 %
+65 %
+80 %
+61 %
+50
+2000
+99%
+77 %
+88 %
+65 %
+65 %
+61 %
+200
+500
+99%
+97 %
+88%
+74 %
+75 %
+68 %
+200
+2000
+98%
+81 %
+65 %
+68 %
+60 %
+0 %
+500 m
+10
+500
+97 %
+89 %
+79 %
+0 %
+0 %
+0 %
+10
+2000
+89 %
+67 %
+50 %
+0 %
+0 %
+0 %
+50
+500
+99 %
+70 %
+87 %
+29 %
+38 %
+0 %
+50
+2000
+97 %
+91 %
+27 %
+0 %
+13 %
+0 %
+200
+500
+99 %
+98 %
+53 %
+0 %
+44 %
+0 %
+200
+2000
+97 %
+77 %
+27 %
+0 %
+0 %
+0 %
+For better visualization the output of the models for all scenarios (5
+vocalisations, 2 ocean depth, 3 receiver depth, 2 vocalisation depth,
+6 ambient noise level and 2 receiver models) have been visualized
+with an interactive multimedia tool which provides a summary
+overview, explanations and individual illustrations (https://
+tschaffeld.shinyapps.io/UBA_mask). The tool provides overviews
+like in figure 1 below.
+Figure 1: Overview illustrations showing masking of Antarctic blue
+whale z-calls by airgun noise. Graphs show the percentage loss in
+communication distance relative to equivalent scenarios with no
+airgun present and apply to medium ambient noise levels of 102 dB
+(calling and listening animal at 50 m depth). The effect ranges of
+airguns in the shallow ocean scenarios are generally lower than in
+the deep ocean scenario.
+Marine mammals have evolved to use sound as their primary
+sensory modality. While there have been several other studies
+modelling the propagation of airgun signals over large distances
+(e.g. Kyhn et al. 2019) similar to this study, the masking model is
+unique and allows for a more detailed evaluation of masking
+impact. Any interference of acoustic communication can have
+severe effects on both sender and receiver leading to impacts on
+fitness, for example if masking impedes signal detection (e.g.
+Branstetter et al. 2016). Behavioural responses can be highly
+variable and may not be fully predictable with simple acoustic
+exposure metrics e.g. like the received sound exposure level. While
+disturbance responses have been studied in the field, this is much
+more challenging with masking. Disturbance responses are often
+associated with sudden changes in behaviour which can be
+observed in the field. Masking however, may result in an observable
+anti-masking strategy (cf. Blackwell et al. 2015, Thode et al. 2020)
+as well as in a nonresponse due to a masked signal. Studying
+masking based on behavioural observations requires knowledge on
+how the animal behaves in the presence and absence of biological
+cues. To validate the modelling results, further experimental studies
+on masking effects are needed. Nevertheless, the current results are
+already a valuable resource for the evaluation of acoustic masking
+effects as they provide us with a better understanding of the
+relationship between various parameters and their influence on
+communication ranges of marine mammals in Antarctica.
+References
+ATCM XXIX WP41, SCAR Report on Marine Acoustics and the
+Southern Ocean.
+ATCM XXX IP80, Taking Action on Marine Noise in the Southern
+Ocean.
+ATCM XLII WP 68, Anthropogenic Noise in the Southern Ocean: an
+Update.
+ATCM XLII BP 03, Anthropogenic Noise in the Southern Ocean: an
+Update.
+Blackwell, S.B., Nations, C.S., McDonald, T.L., Thode, A.M.,
+Mathias, D., Kim, K.H., . . . Macrander, A.M. (2015). "Effects of
+airgun sounds on bowhead whale calling rates: evidence for two
+behavioral thresholds." PLoS One 10(6): e0125720.
+Branstetter, B. K., Bakhtiari, K., Black, A., Trickey, J. S., Finneran, J.
+J. and Aihara, H. (2016). Energetic and informational masking of
+complex sounds by a bottlenose dolphin (Tursiops truncatus).
+Journal of the Acoustical Society of America 140:1904-1917.
+Erbe C., Dähne M., Gordon J., Herata H., Houser D.S., Koschinski S.,
+Leaper R., McCauley R., Miller B., Müller M., Murray A., Oswald
+J.N., Scholik-Schlomer A.R., Schuster M., Van Opzeeland I.C. and
+Janik V.M. (2019). Managing the Effects of Noise from Ship Traffic,
+Seismic Surveying and Construction on Marine Mammals in
+Antarctica. Front. Mar. Sci. 6:647. https://doi.org/10.3389/
+fmars.2019.00647
+Gavrilov, A. (2018). "Propagation of Underwater Noise from an
+Offshore Seismic Survey in Australia to Antarctica: Measurements
+and Modelling." Acoustics Australia 46(1): 143-149.
+Kennicutt, MC, Chown, SL, Cassano, JJ, Liggett, D, Peck, LS,
+Massom, R, . . . Sutherland, WJ (2015). "A roadmap for Antarctic
+and Southern Ocean science for the next two decades and beyond."
+Antarctic Science 27(1): 3-18.
+Kyhn, L.A., Wisniewska, D.M., Beedholm, K., Tougaard, J., Simon,
+M., Mosbech, A. and Madsen, P.T. (2019). "Basin-wide contributions
+to the underwater soundscape by multiple seismic surveys with
+implications for marine mammals in Baffin Bay, Greenland." Mar
+Pollut Bull 138: 474-490.
+Scientific Committee on Antarctic Research (2021). "Anthropogenic
+Noise in the Southern Ocean: an Update". SCAR Bulletin 204, 43 pp.
+https://scar.org/scar-library/reports-and-bulletins/scar-
+bulletins/5589-scar-bulletin-204/file/
+Siebert, U., Dähne, M., Danehl, S., Meyer-Klaeden, O., Van Neer, A.,
+Wittekind, D., Schuster, M., Lucke, K., Clark, C. W., Stilz, P.,
+Tougaard, J., von Benda-Beckmann, A. M.. and Ainslie, M.A.
+(2014). Assessment of potential for masking in marine mammals of
+the Antarctic exposed to underwater sound from airguns. UBA Texte
+16/2014. Dessau-Roßlau, Umweltbundesamt: 311. https://
+www.umweltbundesamt.de/sites/default/files/medien/5750/
+publikationen/texte_16_2014_0.pdf
+Thode, A.M., Blackwell, S.B., Conrad, A.S., Kim, K.H., Marques, T.,
+Thomas, L., Oedekoven, C.S., Harris, D. and. Broker, K. (2020).
+"Roaring and repetition: How bowhead whales adjust their call
+density and source
+level (Lombard effect) in the presence of natural and seismic airgun
+survey noise." J Acoust Soc Am 147(3): 2061.
+Wittekind, D., Tougaard, J., Stolz, P., Dähne, M., Clark, C.W.,
+Lucke, K., von Benda-Beckmann, S., Ainslie, M. A. and Siebert, U.
+(2016). Development of a model to assess masking potential for
+marine mammals by the use of air guns in Antarctic waters. The
+Effects of Noise on Aquatic Life II. Popper and Hawkins. NY,
+Springer New York. 875: 1243-1249. https://
+doi.org/10.1007/978-1-4939-2981-8_156
+Wölfing, B., Stilz, P., Gavrilov, A., Fischer, M., Schuster, M.,
+Schaffeld, T., Schnitzler, J., Rasmussen, M., Wahlberg, M., Erbe, C.,
+McCauley, R, Wittekind, D. and Siebert, U. (2021). Assessment of
+communication masking in Antarctic marine mammals by
+underwater sound from airguns. UBA Texte 89/2021. Dessau-
+Roßlau, Umweltbundesamt: 180. https://
+www.umweltbundesamt.de/publikationen/assessment-of-
+communication-masking-in-antarctic.

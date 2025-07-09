@@ -1,0 +1,107 @@
+﻿
+
+
+
+
+
+Establishing a monitoring programme to assess changes in vegetation at two Antarctic Specially Protected Areas
+
+
+
+
+
+
+
+
+
+Establishing a monitoring programme to assess changes in vegetation at two Antarctic Specially Protected Areas
+Working Paper submitted by New Zealand
+Summary
+The use of Geographical Information Systems (GIS) techniques are a quick, inexpensive and easily reproducible method for monitoring changes in vegetation at the sub-millimetre (< 1 mm) to 100 metre scales. New Zealand established a monitoring programme at two ASPAs using GIS techniques to monitor changes in vegetation cover (including moss, lichen and algae). This paper invites the CEP to consider how this method may be used for monitoring climate change effects on Antarctic species distribution and abundance.
+Background
+In 2009, the Scientific Committee on Antarctic Research (SCAR) published the Antarctic Climate Change and the Environment (ACCE) Report with a short review of the scientific research presented to the CEP (ATCM XXXII, 2009, IP 5). An ATME was held (2010) to discuss the implications of climate change for management and governance of the Antarctic region. The ATME made 30 Recommendations (ATCMXXXIII, 2010, WP 63), all of which were endorsed by the CEP. 
+
+In the 2011/12 season, New Zealand established a monitoring programme at two ASPAs using GIS and image analysis techniques to monitor changes in vegetation cover. This initiative advances ATME Recommendations 24 (the use of protected and managed area management tools to ensure climate change effects are assessed during each five yearly review of the management plan) and 27 (the implementation of frequent biodiversity surveys and adequate monitoring programmes to understand climate change induced responses in species distribution and abundance), and addresses the environmental issues in the CEP work plan including Climate Change (Priority 1), Monitoring and Biodiversity Knowledge (both Priority 2).
+Application of GIS techniques to detecting changes in Antarctic vegetation
+The methods for measuring changes in vegetation in any ecosystem, until recently, were once limited to the use of manual approaches and subjective mapping. Technological advances have allowed new methods to be developed, many of which are tested in Antarctic areas, such as remote sensing techniques (ATCM XXXIV, 2011, WP 15), where large areas of land can be mapped using satellites or aerial images. The application of GIS techniques to vegetation mapping is common place worldwide at landscape scales greater than 100 metres, but uncommon at finer scales, where more discrete changes over time can be detected. Dr Lars Brabyn (University of Waikato, New Zealand) has developed and already tested in Antarctica GIS and image analysis techniques that support the measurement of vegetation change at the sub-millimetre (< 1 mm) to 100 metre scales, using three methods. 
+
+The most detailed method measures the growth rate of individual lichen specimens using photographs taken over time, of lichens typically 1-5 centimetres in extent. Applying the GIS and image analysis technique, growth rates of 0.01 millimetres per year can be detected in individual lichens (Brabyn et al., 2005; Green et al., 2011; Sancho et al., 2007). 
+
+The second method uses 1 m2 quadrats for measuring changes in moss and algae cover over smaller areas of vegetation (1-100 m2). The quadrats are photographed over time and measured using GIS image analysis techniques. This method has proven successful in detecting changes in vegetation cover over a 42 year period at a single site where a carefully documented vegetation plot was measured using traditional techniques in 1962 and was re-measured in 2004 with 1 m2 quadrats. The original data was digitised and changes in vegetation cover were then measured using the GIS image analysis technique (Brabyn et al., 2005; Brabyn et al., 2006). 
+
+The third method uses a low altitude aerial photo for monitoring substantial changes in vegetation extent (unpublished). Aerial photos are useful for large areas (>100 m2) of vegetation but do not detect changes in vegetation at the 1 m2 scale. This method is a type of remote sensing.
+
+The first two methods have shown that changes in vegetation cover occur at a rate that allow for their use in monitoring changes (Brabyn et al., 2005). However, these methods alone may not be able to clearly attribute the change in vegetation with climate change without simultaneous microclimate measurements. 
+
+The benefits of these methods are that only photographs are taken in the field using a normal high end digital camera. Therefore these techniques have minimal environmental impact, and once appropriate sites have been chosen, re-measurement is quick, inexpensive and easily reproducible. Sites can be relocated using GPS and a reasonable number of sites could be re-measured in a single day.
+Establishing the monitoring programme and preliminary results
+The monitoring programme assessed vegetation changes at the 1 m2 scale at two ASPAs in the Ross Sea region, ASPA No. 131: Canada Glacier, Lake Fryxell, Taylor Valley, Victoria Land and ASPA No. 154: Botany Bay, Cape Geology, Victoria Land. Both sites contain rich areas of plant growth, with ASPA 131 containing some of the richest plant growth (bryophytes and algae) in the McMurdo Dry Valleys and ASPA 154 having an extremely rich botanical refuge, with lichen, moss and algae species diversity and abundance that is unique in southern Victoria Land. Both sites differ in topography features.
+
+As part of the management plan review, the vegetation density (percent vegetation cover) of each Area was mapped in December 2005 (ASPA 131) and January 2008 (ASPA 154) and a revised map was added to each management plan. The method used was broad scale using standard techniques to estimate percent ground cover. To provide a reference at which the percent cover was interpreted, three transects were established and photographs were taken along these transects at a 1m x 1m scale. This allows future observers to calibrate their own assessments used in the original interpretation.
+
+The three transects at Canada Glacier were relocated in January 2012 and re-photographed to establish baseline data to determine whether changes in moss and algae cover have occurred. At Botany Bay, quadrats and photo points of moss and algae, established in January 2008, were also re-photographed for the same purpose. Two transects were also established at this site for future monitoring.
+
+Initial results suggest changes in vegetation cover are occurring at both sites, though the scale at which this change is detectable varies. For example, at the 1 metre scale, there does not appear to be a significant change in moss ground cover (Figure 1). When the image is zoomed in to the centimetre scale, there does appear to be a change in moss ground cover (Figure 2). For algae, at the 1 metre scale, a change in algae ground cover is obvious and the image does not need to be viewed at the centimetre scale (Figure 3). The same pattern can be seen at Botany Bay where at the 1 metre scale a change is hard to detect, but at the centimetre scale the change is more easily visualised (Figure 4 and 5). 
+
+The ground surface at the two different sites varies. Canada Glacier is relatively flat with small stones, whereas in comparison at Botany Bay, the area is littered with round boulders of varying sizes. Flat ground without such marked variations in surface elevation appears to allow for an enhanced analysis of vegetation change over time. 
+Developing the monitoring programme further
+The initial results of this monitoring programme show that changes in vegetation cover are detectable at fine scales using this method. Further developments will include:
+
+    1. Analyses of the change in vegetation cover at ASPA 131 (Canada Glacier) and ASPA 154 (Botany Bay) from vegetation monitoring photos taken in 2005 and 2008 respectively with the images taken in 2012.
+ 
+    2. Further refinement of the method by developing quick image analysis techniques, linking any observed changes to local or regional climate data and consideration of other techniques or equipment (for example, an infrared camera to determine vegetation species and health). 
+
+    3. Expand the monitoring programme to other protected areas in the Ross Sea region (for example, ASPA No. 116: New College Valley, Caughley Beach, Cape Bird, Ross Island) to create a network of monitoring sites and establish baseline data. 
+
+    4. Continue monitoring to distinguish between seasonal and long term changes in vegetation cover as a part of the regular review of the management plan.
+Recommendations
+This monitoring programme advances ATME Recommendation 24 and Recommendation 27, and adds another level of monitoring on remote sensing technologies (ATCM XXXIV, 2011, WP 15). It is recommended that the CEP:
+
+    1. Acknowledge the potential use of GIS techniques as a method for monitoring changes in species distribution and abundance at fine scales, which could be coupled with remote sensing technologies for monitoring changes at macro scales for both species and the environment. 
+
+    2. Establish a network of sites for monitoring species distribution and abundance, with priority afforded to ASPAs designated for their flora and/or fauna diversity and abundance, where monitoring can occur during the management plan review process.
+
+    3. Recognise the value of applying consistent monitoring methodologies at ASPAs so that changes in species diversity and abundance can be compared continent wide to obtain a more comprehensive understanding of climate change effects in Antarctica.
+References
+Brabyn, L., Green, T.G.A., Beard, C., and Seppelt, R. 2005. GIS goes nano: Vegetation studies in Victoria Land, Antarctica. New Zealand Geographer 61(2): 139-147.
+
+Brabyn, L., Beard, C., Seppelt, R., Tuerk, R. and Green, T.G.A. 2006. Quantified vegetation change over 42 years (1962-2004) at Cape Hallett, East Antarctica. Antarctic Science 18(4): 561-572.
+
+Green, T.G.A., Brabyn, L., Beard, C. And Sancho, L.G. 2011. Extremely low lichen growth rates in Taylor Valley, Dry Valleys, continental Antarctica. Polar Biology 35(4): 535-541. 
+
+Norway and United Kingdom, 2010. Report from Antarctic Treaty Meeting of Experts on Implications of Climate Change for Antarctic Management and Governance: Co-Chairs executive summary with advice for actions. ATCM XXXIII, WP 63, Punta del Este, Uruguay.
+
+Sancho, L.G., Green, T.G.A., Pintado, A. 2007. Slowest to fastest: extreme range in lichen growth rates supports their use as an indicator of climate change in Antarctica. Flora 202(8): 667-673.
+
+SCAR, 2009. SCAR’s Antarctic Climate Change and the Environment (ACCE) Review Report. ATCM XXXII, IP 5, Baltimore, United States.
+
+United Kingdom, 2011. Remote sensing techniques for improved monitoring of environment and climate change in Antarctica. ATCM XXXIV, WP 15, Buenos Aires, Argentina.
+
+
+
+
+Figure 1: Canada Glacier vegetation photo monitoring plot of a moss bed (scale = centimetres).
+
+
+
+Figure 2: Canada Glacier vegetation photo monitoring plot of a moss bed (scale = centimetres).
+
+
+
+
+
+
+Figure 3: Canada Glacier vegetation photo monitoring plot of algae (scale = centimetres).
+
+
+
+
+
+Figure 4: Botany Bay vegetation photo monitoring plot of a moss bed (scale = centimetres).
+
+
+
+
+Figure 5: Botany Bay vegetation photo monitoring plot of a moss bed (scale = centimetres).
+
+

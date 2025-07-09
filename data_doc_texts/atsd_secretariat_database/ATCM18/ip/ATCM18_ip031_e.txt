@@ -1,0 +1,223 @@
+ANTARCTIC TREATY
+XVIII th CONSULTATIVE MEETING
+
+TRAITÉ SUR L'ANTARCTIQUE
+XVIII éme RÉUNION CONSULTATIVE
+
+
+                                  KYOTO
+                           11-22 April 1994
+
+TRATADO ANTARTICO
+XVIII REUNION CONSULTIVA
+
+ДОГОВОР ОБ АНТАРКТИКЕ
+XVIII КОНСУЛЬТАТИВНОЕ СОВЕЩАНИЕ
+
+                                  XVIII ATCM/INFO 31
+                                  12 April 1994
+                                  Original:English
+
+ANTARCTIC DATA MANAGEMENT
+
+(Submitted by SCAR)
+ANTARCTIC TREATY
+XVIIIth CONSULTATIVE MEETING
+
+Kyoto, Japan
+11-22 April 1994
+
+Antarctic Data Management
+
+Environmental Monitoring and Data
+Agenda Item 9 c
+
+[Submitted by the Scientific Committee on Antarctic Research (SCAR)
+on behalf of SCAR and COMNAP]
+ANTARCTIC DATA MANAGEMENT
+SCAR-COMNAP Information Paper for XVIII ATCM
+Agenda Item 9 (c)
+
+Overview:     The objectives of this information paper are as follows:
+      •	To review the background to data management within the Antarctic 
+          Treaty, SCAR and COMNAP;
+      •	To review developments in Antarctic data management since XVII 
+          ATCM (1992);
+      •	To present further details on the proposal from the SCAR-COMNAP ad 
+          hoc Planning Group on Antarctic Data Management for an Antarctic 
+          Data Directory System.
+
+Background To Data Management
+
+1.	Article III (1) (c) of the Antarctic Treaty, calling on Parties to exchange and make freely 
+     available scientific observations and results from Antarctica, established the political 
+     context for addressing Antarctic data management. ATCM Recommendation XIII-5 
+     (1985), called on SCAR for advice on steps that could be taken to improve the 
+     comparability and accessibility of Antarctic scientific data, in the context of additional 
+     protective arrangements for the Antarctic environment.  Subsequently, ATCM 
+     Recommendation XV-16 (1989) recommended to Governments that they assist SCAR in 
+     the development of an Antarctic scientific data directory, by the provision of information 
+     on the location and format of existing Antarctic scientific data.
+
+2.	SCAR, through its ad hoc Committee on the Coordination of Antarctic Data (CCAD), 
+     established at XX SCAR (1988), carried out an initial survey of Antarctic data sets. This 
+     initiative was given further momentum with the formation, at XXII SCAR (1992), of the 
+     joint SCAR-COMNAP ad hoc Planning Group on Antarctic Data Management, which 
+     replaced the CCAD.  The objectives of the Planning Group include the development of a 
+     plan for the coordination and management of Antarctic data, taking into account SCAR's 
+     programmes and requirements under the Antarctic Treaty System especially with respect 
+     to the Protocol on Environmental Protection.
+
+3.	The Planning Group's first report (XVII ATCM/WP 5) recognized that the development 
+     of a comprehensive and integrated Antarctic data system would require two phases:
+     1.	the development of an Antarctic Data Directory System; and
+     2.	the establishment of and Antarctic Database System.
+
+     A directory was regarded as the most appropriate starting point, as it directly addresses 
+     the problems of awareness and access and is a necessary prerequisite for an effective 
+     database system. The Planning Group proposed the development of an Antarctic Data 
+     Directory System, comprising national Antarctic data centres linked to an Antarctic Master 
+     Directory.  The proposed technology for the Antarctic Master Directory was the 
+     International Directory Network and Directory Interchange Format.
+
+Subsequent Developments since XVII ATCM
+
+4.	The second meeting of the Planning Group (September, 1993) developed the concept of 
+     the Antarctic Data Directory System in more detail, including a detailed implementation 
+     plan.  However, the Planning Group considered the cost-benefit and feasibility of 
+     establishing an Antarctic Database System had not been demonstrated and with the 
+     development of distributed database technology may never be necessary. The Planning 
+     Group noted that the World Data Center system provides a framework for countries and 
+     projects that wish to archive scientific data so as to be freely available.
+5. The Planning Group reviewed the suggestion made by XVII ATCM (1992) that the format for the Antarctic environmental monitoring data descriptions (outlined in the report of the First Meeting of Experts on Environmental Monitoring) might be modified to make it compatible with the Directory Interchange Format (DIF) proposed for the Antarctic Master Directory. The Planning Group considered that the proposed format for environmental monitoring data descriptions can be readily modified to become DIF compatible and recommends that this should be carried out before this format is implemented.
+
+6. XVII ATCM also called on Parties to request SCAR and COMNAP to convene a workshop to help initiate the implementation of the Antarctic Data Directory System (ADDS). The Planning Group examined the proposed Terms of Reference for the workshop and concluded that it was not required at this stage. The Planning Group proposes to hold an ADDS seminar at XXIII SCAR, that will provide an opportunity for wider discussion on implementation of the system (see paragraph 18). Specific responses to the proposed Terms of Reference for the workshop are outlined in the following table:
+
+ATCM Request                                         Planning Group Response
+Identify steps necessary to establish the             Carried out at the second meeting of the 
+Antarctic Data Directory System as part                Planning Group.
+of the International Directory Network                 
+Finalize the format for Antarctic data                 Have adopted the Directory Interchange
+directory entries                                      Format as primary format. Antarctic-
+                                                       specific extensions will be developed as part 
+                                                       of an Antarctic Master Directory prototype,
+                                                       in consultation with SCAR Working Groups.
+Prepare a draft Antarctic data directory              Not achievable in a workshop. The prototype
+for circulation to all Parties                         Antarctic Master Directory will partially 
+                                                       address this requirement.
+Identify the kinds of geographic information          Refer to the SCAR Working Group on Geodesy
+system currently being used by national                and Geographic Information for further 
+programme operators                                    consideration (these issues are already 
+                                                       included in that Working Group's plan of 
+                                                       action).
+Consider if the SCAR Antarctic digital                
+topographic database can be used as the               
+basis for a common computer map system                
+
+7. There may however be a need for an Antarctic data management workshop to address other strategic issues beyond the requirements for a directory.
+
+8. The Planning Group welcomes the interest in data management that Treaty Parties have shown and also endorses the role of Treaty Parties in the provision of strategic guidance on this issue. However, the Planning Group suggests that specific data management issues should be addressed by appropriate specialist groups.
+
+Proposal for an Antarctic Data Directory System
+
+9. The objective of the Antarctic Data Directory System (ADDS) is to make information about Antarctic scientific data readily available, in order to facilitate data access, avoid duplication of data acquisition, maximize data usage, and improve cooperation between disciplines and countries. This will be achieved by building and maintaining a directory containing the primary technical and administrative characteristics of all Antarctic 
+2
+scientific data.The Planning Group recommends that the ADDS operates on the following six principles:
+
+1. It is a directory containing data descriptions - it is not intended to develop a central database containing the actual data.
+
+2. All Antarctic scientific data will be described - including historical data, environmental monitoring data, and data for which access restrictions may apply.
+
+3. Conditions of access to the actual data will be the responsibility of data custodians - such as the funding or managing agencies and institutions.
+
+4. There will be no restrictions on access to the directory - availability of the directory and associated products will be widely promoted.
+
+5. The directory entries will be compatible with the Directory Interchange Format of the International Directory Network - with Antarctic-specific extensions.
+
+6. The production and maintenance of directory entries is recognized as a critical activity for Antarctic science - not merely an administrative overhead.
+
+10. Adoption of these six Antarctic Data Directory System principles by SCAR, COMNAP and Treaty Parties will be a critical factor for success. They provide the framework for all decisions regarding participation in and management of the system.
+
+11. The Antarctic Data Directory System will comprise three levels:
+
+1. The Antarctic Master Directory (AMD) - containing all the directory entries and linked to the International Directory Network.
+
+2. Country and programme coordinators - arranging production and maintenance of directory entries, with technical support from an AMD Secretariat.
+
+3. Users - accessing the directory on-line, by a locally based PC system, or by hard-copy listings.
+
+12. The Planning Group supports the development of National Antarctic Data Centres and recommends that national directories be compatible with the Directory Interchange Format of the International Directory Network.
+
+13. The implementation plan for the Antarctic Data Directory System comprises five key elements:
+
+1. Selection of a host for the Antarctic Master Directory through a formal "Request for Proposals" process.
+
+2. Identification of coordinators for each nation and major SCAR programme - national coordinators ideally being associated with National Antarctic Data Centres.
+
+3. Development of a prototype directory and key words.
+
+4. Development of a comprehensive tool-kit, to assist production and maintenance of directory entries and to aid on-line access to the Antarctic Master Directory.
+
+5. Promotion of the Antarctic Data Directory System through the production and distribution of a brochure and briefing kit, and through a seminar at XXIII SCAR.
+
+14. If a suitable proposal is received for hosting the Antarctic Master Directory, the Antarctic Data Directory System could be operational in early 1995.
+
+15. There have been previous unsuccessful attempts to build data directories similar to the Antarctic Master Directory. Common reasons for failure include lack of institutional support (funding and other resources), lack of user support (do not believe that a directory is needed, interface is too complicated) and the poor quality of the information held (incomplete and out-of-date). The worst case scenario for the Antarctic Data Directory System is that it will be under-resourced, contain a limited number of out-of-date directory entries, be hard to use, and be rejected by most potential users. The Planning Group considered these risks in developing the technical and organizational framework for the Antarctic Data Directory System. Responses to the risks are summarized in the following table:
+Risk                                         Response
+
+Inadequate                                  Level of resourcing will be a key selection criteria for the Antarctic
+resourcing                                  Master Directory host.
+
+Directory entries                           Antarctic Master Directory secretariat and SCAR-COMNAP data group
+not submitted                               will provide active support for directory coordinators.
+or maintained                               Antarctic Master Directory tool-kit will simplify the creation and
+                                            Peer pressure for recognition of data sets is expected to contribute to
+                                            support of the Antarctic Data Directory System.
+
+Directory too                               A range of access options will be provided.
+hard to use                                 The best available interface software will be utilized.
+
+16. The Planning Group is keen to emphasize the benefit that can be obtained by developing a
+general data directory system, which will be capable of holding information about any
+data set pertaining to the Antarctic. The Planning Group considers that the development
+of specific systems for specific activities, for example, to support environmental
+monitoring, would result in a duplication of effort and waste of resources and could also
+lead to problems of compatibility between systems.
+
+17. A prototype of the Antarctic Master Directory (AMD) is being prepared for demonstration
+at XXIII SCAR and at associated SCAR meetings. The prototype will consist of selected
+directory entries covering different Antarctic disciplines and prepared by different
+countries. A preliminary list of Antarctic keywords will also be developed. The
+objectives of developing a prototype are to be able to demonstrate the functions and
+potential use of the AMD. It will also seek feedback and comments from the Antarctic
+scientific community to improve the specification of the AMD.
+
+18. The Planning Group is proposing to hold an Antarctic Data Directory System (ADDS)
+seminar at XXIII SCAR, to provide an opportunity for wider discussion on the
+implementation of the system. The objectives of the seminar include:
+· an official launch the ADDS and the prototype Antarctic Master Directory;
+· a demonstration to members of SCAR, COMNAP and the Antarctic scientific
+community, of the benefits of the ADDS;
+· further definition of user requirements for the system;
+· an increase in the user involvement at both a national level (for instance, through the
+identification of National Directory Coordinators) and at an international level (for
+instance by the identification of Programme Coordinators for specific SCAR
+programmes).
+
+19. The Planning Group will meet during XXIII SCAR. One objective of this meeting will
+be to plan and identify the next steps in the development of national structures within the
+Antarctic Data Directory System.
+
+20. The work of the Planning Group will again be reported to the Treaty in 1995, to give
+details of the progress made in implementing the Antarctic Data Directory System and the
+Antarctic Master Directory, and to outline the future actions that need to be taken.
+
+21. The development of the Antarctic Data Directory System has the potential to realise
+significant scientific and economic benefits, and to support cooperation between
+disciplines and countries. Whilst the scientific and technical aspects of the task are
+difficult enough, the Planning Group considers that the political and human aspects will
+be the major challenge. The practical support of Treaty Parties would be most beneficial
+to the successful development and implementation of the Antarctic Data Directory
+System.
+
+4

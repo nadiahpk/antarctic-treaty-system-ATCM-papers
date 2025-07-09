@@ -1,0 +1,202 @@
+﻿
+
+
+
+
+
+SAR-WG: IAATO Information Submitted Annually to MRCC’s with Antarctic Responsibilities
+
+
+
+
+
+
+
+
+
+SAR-WG: IAATO Information Submitted Annually to MRCC’s with Antarctic Responsibilities
+
+
+
+    1.0 Introduction
+
+As reported in ATCM XXXVI WP17,Update on actions resulting from the two COMNAP SAR workshops, “Towards Improved Search and Rescue Coordination and Response in the Antarctic”. following COMNAP’s first Search and Rescue (SAR) workshop held in Valparaiso/Viña del Mar, Chile) in August, 2008, IAATO started sharing information with Marine Rescue Coordination Centres (MRCC) with Antarctic responsibilities, Automated Mutual-Assistance Vessel Rescue System (AMVER) and COMNAP. 
+
+2.0 Pre-Season Information
+
+Prior to the start of the season, the relevant MRCCs, AMVER and COMNAP receive from IAATO the following information on a commercial-in-confidence basis:
+Vessel Tracking System Access – this is a web-based graphic and database that displays the position of all IAATO SOLAS Passenger Vessels on an hourly basis. The vessel tracker includes information on the vessel’s position, course, speed, IMO number and flag of registry. Access to the vessel tracking system is via a single generic login, with the password changed annually. In the event of incidents, the tracker can be increased remotely to give position reports every 15 minutes. Additionally the site stores historic position data. 
+Vessel Database Access – This is a database of all IAATO vessels including yachts and incorporates a myriad of information from the vessels, from information on the fuel, waste management facilities, medical facilities, helicopter facilities, etc. The full list of information can be found in the Appendix to this document. 
+Pre-season schedule of visits – This is the broad pre-season voyage plan for all the vessel operators according to their pre-season planning. Final voyage plans / itineraries inevitably will be affected by other factors such as weather and ice conditions. 
+Contact details and a named in-field contact – Full phone, fax, email and MMSI details for each IAATO Member-operated vessel are provided, in addition to contact numbers for deep-field operations. Additionally a named contact is given for each departure to ease communications if needed. 
+
+3.0 During Season
+
+During the season, MRCCs are informed of any changes to contact information and, where practicable, significant itinerary amendments, such as the cancelling of voyages or scheduling of new voyages. Day-to-day itinerary amendments are not notified, as the actual location of vessels is available via the vessel tracker. 
+
+
+4.0 Request for feedback 
+
+IAATO welcomes any feedback from MRCCs or Parties on the information provided. 
+
+
+Appendix:
+Information held on IAATO vessels within the IAATO vessel database
+
+General Information 
+Vessel - General Information
+Vessel Name
+Port/Country of Registry
+Vessel Operator
+IMO Number
+Vessel Operator Contact Person
+Call Sign
+Vessel Operator Address
+Year Built
+Vessel Operator Telephone
+Year(s) Rebuilt
+Vessel Operator Mobile Telephone
+Class Notation 
+Vessel Operator Fax Number
+Ice Class
+Vessel Operator Email Address
+Telephone Number
+Vessel Operator Web Address
+Fax Number
+Tour Operator
+Email Address
+Tour Operator Contact Person
+GMDSS Area
+Tour Operator Address
+AIS
+Tour Operator Telephone
+VDR
+Tour Operator Mobile Telephone
+Length Overall (m)
+Tour Operator Fax Number
+Length pp (m)
+Tour Operator Email Address
+Draft Max (m)
+Tour Operator Web Address
+Passenger Capacity
+
+Crew Capacity
+Engine/Fuel Information
+PSSC Total # of Persons
+Main Engine
+Gross Tonnage
+Auxiliary Engine
+Net Tonnage
+Boiler
+Deadweight, Normal Operation (m. ton)
+Gas Oil (GO) Capacity - Normal Cruising (m. ton)
+Speed - Max
+Marine Diesel Oil (MDO) Capacity - Normal Cruising 
+Speed - Normal Cruising
+Fuel Storage Tanks (Type & Location)
+Helicopter Deck
+Lubricating Oil (LO) Capacity - Normal Cruising 
+Lifeboats (Type, Open/Covered/Capacity)
+LO Storage Tanks (Type & Location)
+
+Fuel Consumption per 24 hours - Normal Cruising 
+Oily Water Discharge/Waste Oil
+Fuel Consumption per 24 hours - Max (m. ton)
+Certified Oily Water Separator (OWS)
+Fuel Consumption per 24 hours - Penetrating Ice (m. ton)
+Certified OWS with 15ppm Alarm & Automatic Shut-Off.
+
+Sludge Oil Holding Capacity (cbm)
+Garbage/Incineration
+Sludge Oil Holding Capacity (days)
+Waste Management Plan [Footnote #1]
+Bilge Water Holding Capacity (cbm)
+Incinerator Capacity
+Bilge Water Holding Capacity (days)
+Incinerator Frequency of Use
+IOPP Certificate
+Incinerator Burning Temperatures
+Approved SOPEP
+Incinerator Used in Antarctica
+Oil Record Book
+
+
+Air Pollution
+Anti-Fouling System
+IAPP Certificate (Footnote #5)
+Anti-fouling Certificate (Footnote #4)
+
+
+Grey Water
+Fresh Water (FW)
+Grey Water Capacity (cbm)
+FW Capacity (cbm)
+Grey Water Capacity (days)
+FW Production (cbm/24 hours)
+Untreated GW Discharged Directly Overboard (cbm/hours)
+FW Consumption (cbm/24 hours)
+
+
+Blackwater (Sewage)
+Ballast
+Black Water Management Plan (Footnote #2)
+Ballast Water Management Plan (Footnote #3)
+Certified Blackwater Treatment Plant
+Ballast Capacity (m. ton)
+Blackwater Capacity (cbm)
+Ballast Amount - Normal Operation (m. ton)
+Black Water Capacity (hours)
+
+
+
+Miscellaneous
+Echo Sounder and Sonar
+Damage Control Equipment
+Echo Sounder 1, 2, 3, etc.
+Oil Spill Containment Equipment
+Echo Sounder Type
+Oil Spill Response Company
+Echo Sounder Transmission Power and Frequency
+Under Water Welding Facilities
+Sonar
+Divers & Equipment for Polar Waters
+Sonar Type
+Number of Zodiacs/Landing Craft
+Sonar transmission power and frequency
+Emergency Medical Evacuation Response
+Hydrographic Work
+P&I Insurance (Amount in USD)
+ 
+Pollution Liability Insurance (Amount in USD)
+Remarks
+Search & Rescue (SAR) Insurance (Amount in USD)
+Additional information 
+Operate in the Arctic
+Image of vessel 
+Member of IAATO
+
+Member of AECO 
+
+Number of Doctors onboard
+
+Number of Nurses or other medical staff onboard
+
+X-ray equipment	
+
+Number of hospital beds
+
+Morgue facilities	
+
+
+
+
+Footnotes:
+
+#1 - Water Management Plan in compliance with MARPOL 73/78, annex V.
+#4 - Anti-fouling certificate in compliance with International Convention on the Control of Harmful Anti-fouling System, TBT, on Ships
+#2 - Black Water Management Plan in compliance with MARPOL 73/78. annex IV and the 2004 (April) amendments entered in force 1 August 2005.
+#5 - International Air Pollution Prevention Certified in compliance with MARPOL, annex VI, entered into force 19 May 2005
+#3 - Ballast Water Management plan in compliance with International Convention for the Control and Management of Ships Ballast Water and Sediments, adopted 2004
+ IMO Regulations, Conventions, Circulars and Guidelines:   http://www.imo.org/home.asp
+
+

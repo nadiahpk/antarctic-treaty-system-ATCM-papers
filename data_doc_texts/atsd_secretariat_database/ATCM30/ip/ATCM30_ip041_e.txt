@@ -1,0 +1,55 @@
+﻿
+
+
+
+
+
+Systematic Environmental Protection in Antarctica: local and regional scale application of Environmental Domains Analysis for the Antarctic continent
+
+
+
+
+Systematic Environmental Protection in Antarctica: local and regional scale application of Environmental Domains Analysis for the Antarctic continent 
+Executive Summary 
+A regional scale classification for the region around the Larsemann Hills ice-free area in East Antarctica was carried out to show how the system could also work at scales more local than the continental scale. The resulting classification layer should be more useful than the continental classification layer for more detailed applications. 
+Fine scale classification
+Background and objectives
+Since 2000 New Zealand has been working on a systematic environmental geographic framework (SEGF) in order to provide substance to this undefined phrase in Article 3(2) of Annex V of the Protocol.  Some potential uses of a SEGF were noted in previous papers (e.g. ATCM XXVI/WP 20). A four to six year programme was set out at CEP VI and reviewed for CEP VIII to develop and publish an operational classification, with a website for internet delivery to end-users.  
+The purpose of this report is to summarise the objectives and conclusions in a scientific report by Morgan and others (2006). That report has a similar structure to Information Paper ATCM XVIII/IP 44: it documents the process followed in the creation of the regional dataset and details the development of the data layers, the classification procedure, and evaluation of the classification. The report also describes the environments identified/depicted within the study area, and provides supporting tabulation of the average attributes for each environment.  This report is freely available.
+The objectives for the work were to:
+    • Demonstrate the ability for the Environmental Domains process to implement regional datasets for areas of importance, in this case the Larsemann Hills and surrounding areas.
+    • Ensure concordance with the continental classification so that environments at this level have defined relationships to each other, in addition to the continental classification.
+
+Local scale classification
+After the Environmental Domains of Antarctica classification (which focused on a continental, 20-group scale) was completed and presented (ATCM XXVIII/WP 2), a number of queries were made about the application of this approach to specific areas of interest. This report outlines the implementation of a regional dataset (200 m2 spatial resolution and increased level of environmental groups) of an area in East Antarctica that includes the Larsemann Hills.
+The Larsemann Hills (69o 24 S’, 76o 13’E) are situated in East Antarctica in Princess Elizabeth Land on the Ingrid Christensen Coast (Figure 1). This area is characterised by a chain of fiords along the coast and two dominant peninsulas referred to as Stornes Peninsula and Broknes Peninsula. National scientific stations have been established on Broknes Peninsula by Australia, Russia, China and Romania, and India also has plans to construct a base.
+While the Larsemann Hills area is the focal point of the classification, their small size (roughly 35 km2) meant it was necessary to include an area surrounding them. This meant more data were available for the classification and the environments mapped within the Larsemann Hills could be placed in context with those environments classified over a wider area. The wider area used was map sheet SR 43-44 (IMW Map Sheet) projected in Universal Transverse Mercator 43D S.  This choice was made as it is used by the Australian Antarctic Data Centre and by SCAR within the Antarctic Data Directory for most maps and vector data focused on the Larsemann Hills. A bounding box using latitude and longitude is 68°S/72°E (top left) and 72°S/78°E (bottom right).
+To be applicable at a scientific and managerial level around the Larsemann Hills, cell size needed to be as small as possible. A cell size of 200 m2 was used because this was the highest resolution possible from the digital elevation model supplied by the National Snow and Ice Data Center. A very detailed contour data for the area surrounding the Stornes and Broknes Peninsulas supplied by the Australian Antarctic Data Centre was used to ground truth the digital elevation model. A high resolution (200 m2) layer of ice-free/ice cover was sourced from the Antarctic Data Directory administered by SCAR, supplemented with detailed geological information around the Larsemann Hills sourced from the Australian Antarctic Data Centre and Geoscience Australia.  
+To keep the regional classification in line with the continental classification, the centroid database created for the continental version (version 1.1) was used to define the environments at the regional level. Approximately 400 centroids were created for the continent. After further examination of the centroids and their related environments, the number of spurious environments increased substantially at around 150–180 separate environments. Consequently, the number of environments at the regional level was limited to 100. However, this does not mean a regional classification will have 100 environments, as this quantity is what is classified across the entire continent. The number of environments classified within the Larsemann Hills region will be in relation to the environmental diversity of this area compared with the wider continent. The regional classification is based on the centroids created at the continental level. The stages of classification were already complete and were not rerun for the regional classification. The difference is that the comparison of each grid cell with the environmental space is based on the higher resolution data layers and grid cells, rather than the continental ones. This produces a higher resolution classification that should be more useful than the previous continental classification layer with only 20 environments.  This helps meet the objectives for the project. 
+
+Figure 1: Location of Larsemann Hills, signified by a cross (Australian Antarctic Data Centre)
+
+
+Results and conclusions
+The classification of a regional section around the Larsemann Hills Region of Antarctica, using a combination of local geologic and climate data, was successful. The regional classification has enhanced the detail around the coastline and within areas of ice free and geological interest because of the introduction of high resolution information.  There are some inconsistencies in places such as the coastline, because the broader scale data used in the continental classification could not match the more precise regional and local data. In particular, the coastline is more accurately presented and areas of interest such as the Larsemann Hills are better classified.
+
+The regional classification resulted in 16 environments in the area of interest out of the 100 environments over the continent. 5 environments are represented at the continental 20 group classification scale.
+
+In the Larsemann Hills area specifically, there are 8 distinct environments at the 100-group scale, and 3 at the 20-group continental-scale. This increased range of environments is directly attributable to the 200 m2 geological and ice-free layers and diversity of the Larsemann Hills themselves: it is not an error but a more accurate and precise representation of the environments found at the regional level. 
+
+Some of the environments classified may seem erroneous because of their extremely small sizes in the area of interest. However, these same environments are of considerable size elsewhere (e.g. Victoria Land) and it is clear that the small fresh water lakes at Larsemann Hills are identified correctly. Without detailed knowledge of all the locations classified in the area of interest, it is difficult to determine if specific areas are a by-product of the modified classification process, an artefact of the climate resampling, or are correctly mapped as distinctive environments. More investigation would be required to determine why some areas were split out.
+
+Overall, the additional information sourced for the area of interest has improved the classification around the Larsemann Hills area. The resulting classification layer should be more useful than the previous continental classification layer for more detailed applications.
+
+Acknowledgements
+New Zealand gratefully acknowledges the support of the Australian Antarctic Division for their support, data and knowledge of the Larsemann Hills and the surrounding area. 
+The organisations that directly supplied or made available data on the Internet for use in or assistance with the classification are also acknowledged including:
+    • Antarctic Data Directory (ADD) site, version 4.1 (http://www.add.scar.org/).
+    • The Australian Antarctic Data Centre run by the Australian Antarctic Division (http://aadc-maps.aad.gov.au/aadc/portal/). 
+    • Arctic and Antarctic Research Institute (AARI) run by the Federal Service for Hydrometeorology and Environmental Monitoring of Russian Federation (Roshydromet) (http://www.aari.nw.ru/)
+    • Committee for Environmental Protection (CEP) (http://www.cep.aq)
+    • Scientific Community on Antarctic Research (SCAR) (http://www.scar.org/)
+
+Reference
+Morgan, F, R Price and C Briggs (2006). Environmental Domains of Antarctica Regional Dataset of the Larsemann Hills. Landcare Research Contract Report: 0607/040, 42 pages.
+

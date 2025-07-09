@@ -1,0 +1,38 @@
+﻿ XXV ATCM
+Information Paper IP-087
+Agenda Item: ATCM 13
+JAPAN
+Original language: English
+
+
+     Polar Patrol Balloon Experiment from Antarctic Syowa Station
+
+        Hisao Yamagishi, Akira Kadokura and Okitugu Watanabe
+            National Institute of Polar Research, Japan
+
+Circum-polar balloon experiment for the upper atmosphere physics and cosmic ray study will be carried out at Antarctic Syowa Station in the coming austral summer of 2002/2003 by the 44th Japanese Antarctic Research Expedition as a collaborative research program between National Institute of Polar Research (NIPR), Institute of Space and Astronautical Sciences, and collaborating universities. Launching window at Syowa Station is selected in late December, 2002 - early January, 2003 because of  steady westward wind condition to attain perfect circumpolar trajectory as expected in Figure 1. After the launch from Syowa Station, the balloons drift westward along geographic latitude circle of ~69°S and attain the circumpolar flight in 14days. 
+For cosmic ray study, one 100,000 m3 zero-pressure balloon will be launched at an altitude of 35-40 km in order to measure cosmic-ray electron energy spectrum over 100 GeV to reveal their origin and propagation in the Galaxy (Torii et al. 2000). For the upper atmosphere physics study, three 50,000 m3 balloons will be successively launched at an altitude of 30-35 km with identical payload consists of auroral X-ray imager, 3-axis magnetometer, DC electric field instrument, ULF~VLF wave instrument, and the ionospheric total electron content measurement by GPS (Kadokura et al., 2002). They will perform a formation flight with a separation of 500 km on the ground, which corresponds to 1 hour in magnetic local time. The formation flight aims at separating the spatial and temporal variations included in the magnetospheric phenomena observed at boundary regions in the magnetosphere such as plasma pause and polar cusp. Since geomagnetic dipole axis is tilted from the rotation axis of the earth, the balloons can traverse a large geomagnetic latitude range of 50-80 deg. Location of ground stations and field of views of SuperDARN HF radars are also shown in Fig. 1. The balloons will traverse the field of views of many ground stations and HF radars, suggesting a good opportunities of collaborative research.
+Some new technical developments were required to achieve circumpolar balloon experiment. One is the altitude control by auto-ballasting system. Another technical development is to transfer the observed data when the balloons move out of the field of view of Syowa Station. One solution is to record the data in onboard memory and reproduced them at a high speed rate (64 kbps) when the balloon enter the field of view of other ground telemetry stations, Rothera and Zhongshan. The other solution is to transfer the data to Japan by Iridium satellite data link at an effective   transfer rate of 1700 bps. This transfer rate is more than one order of magnitude higher than the Multi-ID ARGOS system used in the 1st-PPB campaign. For the formation flight, time accuracy between balloons must be within 10 ms, and the location of the balloon must be accurately determined. These requirements are satisfied with GPS receivers onboard the balloons. 
+                           References
+Torii, S., Tamura, T., Tateyama, N., Yoshida, K., Ouchi, T., Yamagami, T., Saito, Y., Murakami, H., Kobayashi, T., Komori, Y., Kasahara, K., Yuda, T., and Nishimura, J.(2000): The balloon-borne electron telescope with scintillating fibers (BETS). Nucl. Instr. and Meth., A 452. 81-93.
+Kadokura, A., Yamagishi, H., Sato, N., Ejiri, M., Hirosawa, H., Yam,agami, T., Torii, S., Tohyama, F., Nakagawa, M., Okada, T. and Bering, E. A. (2002) Polar Patrol Balloon experiment in Antarctica during 2002-2003, Adv. Polar Upper Atmos. Res., 14, accepted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               
+
+                      Figure 1   Expected trajectory of PPB 

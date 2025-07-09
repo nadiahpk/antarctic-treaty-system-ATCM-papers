@@ -1,0 +1,1178 @@
+XXIII ATCM/WP 7 
+MAY, 1999 
+ 
+ 
+ 
+CEP II Agenda Item 5a) 
+ 
+Submitted by 
+Argentina  
+Guidelines on Environmental 
+Impact Assessment Procedures in 
+Antarctica. 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+II
+BACKGROUND 
+At the XIV ATCM (Río de Janeiro, 1987) Parties agreed on Recommendation XIV-2, 
+which provided ATCPs with a set of basic procedures with which to undertake 
+Environmental Impact Assessments (EIAs) in Antarctica. This Recommendation 
+formed the basis for the EIA obligations and procedures of Annex I to the Protocol on 
+Environmental Protection to the Antarctic Treaty (Madrid Protocol).  
+The Protocol, through Articles 3, 8 and specifically Annex I, requires prior 
+Environmental Impact Assessment of all activities proposed in the Antarctic Treaty 
+Area. In parallel,  COMNAP´s 1991 Bologna workshop on  “Environmental Impact 
+Assessment in Antarctica” provided managers with a set of guidelines for the 
+implementation of the EIA procedures. 
+After the adoption of the Madrid Protocol (October 1991), the COMNAP  guidelines 
+were updated to meet the requirements of Annex I. Since then, experience gained by 
+ATCPs through carrying out numerous  of EIAs, led to the necessity of providing 
+more clear and accurate concepts to such guidelines, incorporating previous 
+knowledge from Bologna’s work and from other relevant meetings and technical 
+workshops convened by SCAR, COMNAP and IUCN.  
+At the First Meeting of the Committee of Environmental Protection (CEP), held in 
+Tromsø (Norway), May 1998, after presentation of the Working Paper Nr. 14 by 
+Argentina, the Committee supported the proposal to establish a set of guidelines and 
+decided that: 
+“... an open-ended intersessional contact group should be established which 
+would prepare a draft guide on EIA procedures to be presented at the next 
+meeting of the CEP for further consideration. Such a guide should be very useful 
+both to Parties with considerable experience in EIA procedures, and to those with 
+little experience in such work.. The COMNAP EIA Guidelines will form the basis 
+for this work. The issue of cumulative environmental impacts considered by the 
+1996 IUCN Workshop will also be considered.” 
+During the intersessional period several contact points designated by Consultative 
+Parties and  Observers have participated in preparing a set of guidelines, in order to 
+comply with CEP´s statement. Argentina was responsible for co-ordinating this 
+open-ended group. Representatives from Australia, Finland, Germany, New Zealand, 
+Norway, Perú, Romania, Sweden, United Kingdom, United States, Uruguay, SCAR 
+(Scientific Committee of Antarctic Research), through its Group of Specialists on 
+Environmental Affairs and Conservation (GOSEAC), ASOC (Antarctic and Southern 
+Ocean Coalition), and IUCN (World Conservation Union)  contributed to prepare this 
+draft.  
+The contact group has also drawn on the following reports: 
+ 
+COMNAP Practical Guidelines on Antarctic Environmental Assessment 
+Process;  
+ 
+IUCN Workshop Report on Cumulative Environmental Impacts in Antarctica;  
+ 
+SCAR/COMNAP  Workshop Report on Monitoring of Environmental Impacts 
+from Science and Operations in Antarctica; 
+ 
+Guidelines for Environmental Impacts Assessment (EIA) in the Arctic;  
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+III
+ 
+various national guidelines on EIA in Antarctica .  
+This draft guide on  EIA procedures in Antarctica is provided to the Committee for 
+Environmental Protection for further consideration.  
+ 
+ 
+ 
+ 
+GUIDELINES ON 
+ENVIRONMENTAL IMPACT ASSESSMENT  
+PROCEDURES IN ANTARCTICA 
+ 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+2
+ 
+Contents 
+ 
+1. INTRODUCTION .................................................................................................................................. 3 
+2. OBJECTIVES ....................................................................................................................................... 4 
+3. THE EIA PROCESS ............................................................................................................................. 4 
+3.1. CONSIDERING THE ACTIVITY.................................................................................................................. 6 
+3.1.1. Defining the activity .................................................................................................................... 6 
+3.1.2. Alternatives to the activity ........................................................................................................... 7 
+3.1.3. Identification of outputs of the activity ........................................................................................ 7 
+3.2. CONSIDERING  THE  ENVIRONMENT ...................................................................................................... 8 
+3.3. ANALYSIS OF IMPACTS .......................................................................................................................... 9 
+3.3.1. Identification of exposures .......................................................................................................... 9 
+3.3.2. Impact identification ..................................................................................................................10 
+3.3.3. Impact Evaluation .....................................................................................................................11 
+3.4. COMPARISON OF IMPACTS AND RECOMMENDATION ..............................................................................12 
+3.5. PROPOSAL FOR CORRECTIVE MEASURES .............................................................................................12 
+3.6. PROPOSAL FOR MONITORING PROGRAMS ...........................................................................................13 
+4. WRITING THE EIA DOCUMENT .......................................................................................................14 
+5. ANNEX I REQUIREMENTS FOR CIRCULATION ............................................................................19 
+5.1. PUBLIC CIRCULATION OF AN EIA .........................................................................................................19 
+5.2. RECEIPT AND INCORPORATION OF COMMENTS .....................................................................................19 
+6. DEFINITION OF TERMS IN THE EIA PROCESS .............................................................................20 
+7. REFERENCES ...................................................................................................................................22 
+8. ACRONYMS .......................................................................................................................................22 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+3
+ 
+1.Introduction 
+The Madrid Protocol, in Article 3, establishes a number of environmental principles 
+which can be considered a guide to environmental protection in Antarctica and its 
+dependent and associated ecosystems. Among such principles, those stated under 
+paragraph C express the necessity of collecting sufficient information “to allow prior 
+assessments of, and informed judgements about, their possible impacts on the 
+Antarctic environment and dependent and associated ecosystems and on the value 
+of Antarctica for the conduct of scientific research”. In addition, it states that “such 
+judgements shall take account of:  
+i) the scope of the activity, including its area, duration and intensity;  
+ii) the cumulative impacts of the activity, both by itself and in combination with 
+other activities in the Antarctic Treaty Area;  
+iii) whether the activity will detrimentally affect any other activity in the Antarctic 
+Treaty Area;  
+iv) whether technology and procedures are available to provide for 
+environmentally safe operations;  
+v) whether there exists the capacity to monitor key environmental parameters 
+and ecosystem components so as to identify and provide early warning of any 
+adverse effects of the activity and to provide for such modification of operating 
+procedures as may be necessary in the light of the results of monitoring or 
+increased knowledge of the Antarctic environment and dependent and 
+associated ecosystems; and  
+vi) whether there exists the capacity to respond promptly and effectively to 
+accidents, particularly those with potential environmental effects” 
+Later on in the text, Article 8 introduces the term Environmental Impact Assessment 
+and provides three categories of environmental impacts (less than, equal to and more 
+than minor or transitory), according to their significance. The Article also refers to 
+some obligations that Parties must fulfil,  associated with the EIA process.  
+Annex I of the Protocol provides a more comprehensive explanation of the different 
+impact categories and establishes a set of basic principles to conduct and document 
+an EIA in Antarctica.  
+In addition, it sets up  a preliminary stage for assessing the environmental impact of 
+Antarctic activities, which is intended to determine if an impact produced by a certain 
+activity is less than minor or transitory or not. Such determination must be 
+accomplished through the appropriate national procedures. 
+According to the results of the preliminary stage, the activity can either:  
+ 
+proceed (if the predicted impacts of the activity are to be less than minor or 
+transitory), or 
+ 
+be preceded by a an Initial Environmental Evaluation (IEE), if predicted 
+impacts are to be equal to minor or transitory; or  
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+4
+ 
+be preceded by a Comprehensive Environmental Evaluation (CEE), if the 
+predicted impacts are to be more than minor or transitory.  
+Although the key to decide whether an activity shall be preceded by an IEE or a CEE 
+is the concept of “minor or transitory impact”,  no agreement on this term has so far 
+been reached  (contributions to this subject can be found in XX ATCM/IP 2, New 
+Zealand; XXI ATCM/WP 35, New Zealand; XXI ATCM/IP 55, Argentina, XXII 
+ATCM/IP 66 , Russia and XXII ATCM/WP 19, Australia, among others). The difficulty 
+with defining “minor and transitory impact” does far appear to be due to the 
+dependence of a number of variables associated with each activity and each 
+environmental context. Therefore the interpretation of this term will need to be made 
+on a case by case site specific basis. As a consequence, this document does not 
+focus on seeking a clear definition of “minor or transitory impact”, but  rather is an 
+attempt to provide basic elements for the development of the EIA process.  
+Annex I provides a general framework of process to be followed with EIA.  These 
+guidelines are not directed to amending, modifying or interpreting Annex I obligations 
+or national procedures, but are designed  to assist effective implementation.  
+2.Objectives  
+The general objective of these guidelines is to achieve transparency and 
+effectiveness in assessing environmental impacts in Antarctica, as well as 
+consistency of approach in fulfilling the obligations of the Protocol.  
+Specifically, the guidelines aim to 
+ 
+assist proponents of activities who may have little experience of EIA in 
+Antarctica; 
+ 
+assist in determining the proper level of EIA document (according to the 
+Protocol) to be prepared; 
+ 
+facilitate co-operation and co-ordination in EIA for joint activities ; 
+ 
+facilitate comparison of EIAs for similar activities and/or environmental 
+conditions; 
+ 
+provide advice to operators other than ATCPs; 
+ 
+assist in the retrospective analysis of cumulative impacts for specific sites; 
+ 
+initiate a process of continuous improvement of EIA. 
+ 
+3.The EIA Process 
+The EIA is a process having the ultimate objective of providing decision makers with 
+an indication of the likely environmental consequences of a proposed activity (figure 
+1). 
+The process of predicting the environmental impacts of an activity and assessing their 
+significance is the same regardless of the apparent magnitude of the activity. Some 
+activities require no more than a cursory examination to determine impacts, although 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+5
+it must be remembered that the level of assessment is relative to the significance of 
+the environmental impacts, not to the scale or complexity of the activity. Thus, the 
+picture that emerges with respect to the impacts of the activity will determine how 
+much further the EIA process needs to be taken, and how complex it should be.  
+Analysis of 
+Impacts
+Identification 
+of exposures
+Identification
+of impacts
+Evaluation 
+of impacts
+Comparison of
+alternatives and
+Recommendation
+Proposal for
+corrective measures
+Proposal for
+monitoring programs
+Writing the EIA Document
+Review by national authorities
+(if CEE then circulate for comments)
+Decision
+Considering the
+Activity
+Defining the Activity
+and its alternatives
+Identification of outputs
+Considering the
+Environment
+ 
+Figure 1: Steps of the EIA process for Antarctic activities 
+ 
+Those persons responsible for an Environmental Impact Assessment Process need 
+to ensure that they consult as widely as is reasonably necessary and possible in 
+order that the best available information and professional advice contribute to the 
+outcome. A number of different participants may be involved throughout this process, 
+ranging from those who are involved in the details of nearly all parts of the process 
+(e.g. environmental officer, proponent of the activity) to those who are the technical 
+experts who provide input in particular subjects of the process (e.g. researchers, 
+logistic personnel, others with experience at the location or in a particular activity). In 
+addition, EIAs undertaken in Antarctica may represent a valuable source of 
+information. At this respect, it should be pointed out that an updated list of EIAs is 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+6
+presented every ATCM, according to Resolution XIX-6. The Antarctic Data Directory 
+System (ADDS) can also represent an helpful source of metadata. 
+3.1.Considering the activity 
+3.1.1.Defining the activity 
+An activity is an event or process resulting from (or associated with) the presence of 
+humans in the Antarctic, and/or which may lead to the presence of humans in 
+Antarctica. An activity may consist of several actions, e.g. an ice drilling activity may 
+require actions such as the transport of equipment, establishment of a field camp, 
+power generation for drilling, fuel management, drilling operation, waste 
+management, etc. An activity should be analysed by considering all phases involved 
+(e.g. construction, operation and potential dismantling or decommissioning phases). 
+The activity and the individual actions should be defined through a planning process 
+which considers the physical, technical and economic aspects of the proposed project 
+and its alternatives. Consultation with relevant experts to identify all these aspects is 
+an important part of this initial scoping process. It is important to accurately define all 
+aspects of the activity for which the EIA is written. The rest of the EIA process relies 
+on this initial description, which should occur during the planning process. The 
+following aspects of the proposed activity and its alternatives should be clearly 
+identified:  
+ 
+the purpose of and the need for the activity;  
+ 
+the principal characteristics of the activity that might cause impact on the 
+environment; for instance: design characteristics; construction requirements 
+(types of material, technologies, energy, size of any installation, personnel, 
+temporary constructions, etc.); transportation requirements (e.g. types, 
+numbers and frequency of use of vehicles, fuel types); type (according to 
+Annex III of the Protocol) and volume of wastes generated through different 
+phases of the activity and their final disposition; dismantling of temporary 
+constructions; decommissioning the activity if necessary; as well as those 
+aspects that will result from the operational phase of the activity. 
+ 
+the relationship of the proposed activity to relevant previous or current 
+activities; 
+ 
+a description of the activity’s location and geographical area, indicating access 
+roads, etc. Using maps will ease the evaluation process and, therefore, will be  
+useful in the EIA documentation.  
+ 
+timing of the activity (including range of calendar dates for construction time, 
+as well as  overall duration, periods of operation of the activity and 
+decommissioning.  This may be significant with respect to wildlife breeding 
+cycles, for example.); 
+ 
+location of the activity with regard to areas with special  management 
+requirements (SPA, SSSI, HSM, CCAMLR CEMP sites, etc.). 
+ 
+precautionary measures that are integral to the project including during the 
+construction, operational and decommissioning phases. 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+7
+Careful consideration is required to determine the full scope of the activity so that the 
+impacts can be properly assessed. This is necessary to avoid preparing a number of 
+separate EIAs on actions which indicate an apparent low impact, when in fact, taken 
+in its entirety, the activity actually has potential for impacts of much greater 
+significance. This particularly common where a number of activities take place at the 
+same site either spatially and/or temporally. 
+When defining an Antarctic activity, experience gained in similar projects undertaken 
+within and outside the Antarctic Treaty System Area (e.g. the Arctic) may be an 
+additional and valuable source of information. 
+Once the activity is defined, any subsequent changes to the activity must be clearly 
+identified and addressed according to when they occur in the EIA process (e.g. if the 
+change occurs once the EIA document is completed, then an amendment to the EIA 
+or a rewrite of the document may be necessary depending on how significant the 
+change is). In every case it is important that the change and its implications (in terms 
+of impacts) is assessed in the same manner as other impacts previously identified in 
+the EIA process.  
+3.1.2.Alternatives to the activity 
+Both the proposed activity and its alternatives should be examined in concert so that 
+a decision maker can more easily compare the impacts. Both the environmental and 
+scientific consequences should be considered during the evaluation.  
+Examples of alternatives for consideration include: 
+ 
+use of different locations or sites for the activity,  
+ 
+use of different technologies, in order to reduce the outputs (or the intensity of 
+the outputs) of the activity. 
+ 
+use of pre-existing facilities, and  
+ 
+different timing for the activity. 
+The alternative of not proceeding with the proposed activity (i.e. the “no-action” 
+alternative) should always be included in any analysis of environmental impacts of the 
+proposed activity. 
+3.1.3.Identification of outputs of the activity 
+An output is a physical change (e.g. movement of sediments by vehicle passage, 
+noise) or an entity (e.g. emissions, an introduced species) imposed on or released to 
+the environment as the result of an action or an activity. Outputs can also be defined 
+as by-products of the activity (or action) and can include emissions, dust, mechanical 
+action on substrate, fuel spills, noise, light, electromagnetic radiation, wastes, heat, 
+introductions of alien species, etc. 
+Note that a single action may generate several different outputs (for example the use 
+of vehicles may cause soil compaction, emissions, noise, visual interference etc.) and 
+that the same type of output may be generated by different actions of a single activity, 
+(for example in an ice drilling activity emissions may come from the use of vehicles, 
+drilling operations, power generation, etc.). 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+8
+Output levels may play a relevant role especially if several activities take place at the 
+same time. Therefore, potential for additive, synergistic or antagonistic interactions 
+between outputs (thus resulting in possible significant environmental impacts) has to 
+be considered. 
+Systematising outputs and actions in a matrix format may be helpful in this process. 
+The example below, taken from “Monitoring of Environmental Impacts from Science 
+and Operations in Antarctica”(SCAR/COMNAP, 1996), illustrates a potential situation 
+(e.g. actions and outputs associated with a station complex). 
+ 
+OUTPUTS 
+ACTIONS 
+Air emissions 
+(incl. Dust) 
+Wastes 
+Noise 
+Fuel 
+spills 
+Mechanical 
+action 
+Heat 
+Vehicles 
+X 
+- 
+X 
+X 
+X 
+X 
+Power 
+generation 
+X 
+- 
+X 
+X 
+- 
+X 
+Building 
+X 
+X 
+X 
+X 
+X 
+- 
+Fuel 
+storage 
+- 
+- 
+- 
+X 
+- 
+- 
+ 
+ 
+Outputs may vary across different alternatives. That is there may not be a single set 
+of outputs, but rather multiple sets if the alternatives are significantly different from 
+one another. 
+The geographical spread of an output has to be accurately estimated in order to 
+determine to what extent the environment is exposed. 
+3.2. Considering  the  environment 
+Consideration of the environment requires the characterisation of all relevant 
+physical, biological, chemical and anthropic elements or values in a given area, 
+where and when an activity is proposed. Relevant means all those aspects of the 
+environment that the proposed activity might influence or which might influence the 
+activity. 
+Such information should be  quantitative (e.g., heavy metal concentration on 
+organisms or on river flows, a bird population size) where available and appropriate. 
+In many cases qualitative descriptions (e.g., aesthetic value of a landscape) may 
+have to be used. Maps, publications, research results and researchers are different 
+sources of information to be identified and taken into account. 
+Consideration of the existing environment should include: 
+ 
+recognition of the special status accorded to Antarctica by the ATS, including 
+its status as a natural reserve devoted to peace and science  
+ 
+specific parameters against which predicted changes are to be monitored, 
+including: 
+ 
+the physical characteristics (topography, bathymetry, geology, 
+geomorphology, soils, hydrology, meteorology, glaciology etc.)  
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+9
+ 
+the biota (e.g. inventories of plant and animal species, populations and 
+communities, and other important features such as the presence of 
+breeding grounds.) and  
+ 
+any dependent and related populations (e.g. bird nesting areas related to 
+feeding areas); 
+ 
+natural variations in environmental conditions that could occur on a diurnal, 
+seasonal, annual and/or interannual timescale; 
+ 
+information about the spatial and temporal variability of the environmental 
+sensitivity (e.g. differences in impacts when an area is snow covered 
+compared to when it is not); 
+ 
+current trends in natural processes such as population growth or spread of 
+particular species, geological or hydrological phenomena; 
+ 
+the reliability of the data (e.g. anecdotal, historical, scientific, etc.); 
+ 
+aspects of the environment which have been changed, or may be changing as 
+the result of other current or previous activities;  
+ 
+special values of the area (if previously identified); 
+ 
+the existence of areas potentially subject to indirect and cumulative impacts; 
+ 
+the influence that the activity may exert on dependent and associated 
+ecosystems; 
+ 
+existing activities being carried out in the area or at the site, particularly 
+scientific activities, given their intrinsic importance as a value to be protected 
+in Antarctica 
+ 
+A thorough consideration of the environment before starting the activity (baseline 
+information) is essential to ensure a valid prediction of impacts and to define 
+monitoring parameters, if required. If such a baseline information were not available, 
+field research would have to be conducted to obtain reliable data about the state of 
+the environment before beginning the activity. 
+It is also important to clearly identify gaps in knowledge and uncertainties 
+encountered in compiling the information. 
+3.3.Analysis of Impacts  
+3.3.1.Identification of exposures 
+Exposure is the process of interaction between an identified potential output and an 
+environmental element or value. Identifying exposure means determining which 
+component of the environment is susceptible to be affected by the outputs of an 
+activity or action. Overlaying spatial information (e.g. use of a GIS) is a valuable tool 
+to assist in this determination 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+10
+Determination of exposures may be summarised using  a matrix of outputs and 
+environmental elements or values,  taking into account that matrices can only give 
+information about the existence of exposures but not on their intensity . 
+The table below provides an example of the interaction of various outputs with 
+environmental elements to identify relevant exposures resulting from the activity.  
+ 
+ENVIRONMENTAL ELEMENTS OR VALUES  
+OUTPUTS 
+Flora 
+Fauna 
+Freshwater / 
+Seawater 
+Soil 
+Air 
+Emissions 
+X 
+X 
+X 
+X 
+X 
+Noise 
+ 
+X 
+ 
+ 
+ 
+Fuel spills 
+X 
+X 
+X 
+X 
+ 
+Wastes 
+X 
+X 
+X 
+X 
+ 
+Introduced species 
+X 
+X 
+ 
+ 
+ 
+ 
+When the box is crossed (X) it means that the environmental element is exposed to 
+the considered output. This is a random example for a given environment and may, 
+therefore,  vary in another context. For example, a noise may occur when a breeding 
+site is unoccupied, or a breeding site may be protected from noise by a topographic 
+feature. From the examples above it can be inferred that the occurrence of an output 
+does not necessarily lead to exposure of environmental element or value and hence 
+potential for environmental effects. 
+Correct identification of the intensity of exposure is a crucial step in making a reliable 
+prediction of impacts. Some elements contributing to that identification are: 
+ 
+Temporal variation. The exposure of an environmental element or value may 
+change with the season in which the activity takes place, as climate cycles, 
+breeding patterns, etc. may change over time. 
+ 
+Cause-effect relationships between outputs and environmental elements or 
+values must be established, especially in cases where the relationships are 
+indirect, or an element or value is exposed to outputs from numerous sources, 
+or repeatedly from the same source.  
+3.3.2.Impact identification  
+An impact ( Synonym: effect ) is a change in the values or resources attributable to a 
+human activity.  It is the consequence (e.g. reduced plant cover) of an agent of 
+change, not the agent itself (e.g. increase of trampling). Impact may also be defined 
+as the result of the interaction between an output and an environmental value or 
+resource.   
+The identification of environmental impacts consists of the characterisation of all 
+changes on environmental elements or values exposed to the outputs of a given set 
+of activities. The identification task requires that evaluators are able to determine the 
+important cause-effect relationships between the activities  and the environmental 
+elements or values. Only when the impact is identified can an evaluation be made of 
+its significance. 
+An impact may be identified by its nature, spatial extent, intensity, duration, 
+reversibility and lag time.  
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+11
+Nature: type of change imposed on the environment due to the activity (e.g. 
+contamination, erosion, mortality). 
+Spatial extent: area or volume where changes are detectable. 
+Intensity: a measure of the amount of change imposed on the environment due to 
+the activity.(it can be measured, or estimated, through, e.g. number of species or 
+individuals effected, concentration of a given pollutant in a waterbody, rates of 
+erosion, rates of mortality, etc.) 
+Duration: period of time during which changes will be detectable in the environment. 
+Reversibility: possibility of the system to return to its initial environmental conditions 
+once an impact is produced. 
+Lag time: time span between the moment outputs are released to or imposed on the 
+environment and the moment impacts occur. 
+In addition, a proper impact identification should also enable a distinction between 
+direct, indirect and cumulative impacts.  
+A direct impact is a change in environmental components that results from direct 
+cause-effect consequences of interaction between the exposed environment and 
+outputs (e.g. decrease of a limpet population due to an oil spill). An indirect impact 
+is a change in environmental components that results from interactions between the 
+environment and other impacts -direct or indirect- (e.g. alteration in seagull population 
+due to a decrease in limpet population which, in turn, was caused by an oil spill). 
+A cumulative impact is the combined impact of past, present, and reasonably 
+foreseeable activities. These activities may occur over time and space and can be 
+additive or interactive/synergistic (e.g. decrease of limpet population due to the 
+combined effect of oil discharges by base and ship operations). Cumulative impacts 
+can often be one of the hardest impact categories to adequately identify in the EIA 
+process. When attempting to identify cumulative impacts it is important to consider 
+both spatial and temporal aspects and to identify other activities which have and 
+could occur at the same site or within the same area.   
+Several methods exist to identify impacts such as: overlay maps, checklists, matrices, 
+etc. The choice of the methodology will depend on the character of the activity and 
+the environment that is likely to be affected. 
+3.3.3.Impact Evaluation 
+The purpose of impact evaluation is to assign relative significance to predicted 
+impacts associated with an activity (for the various identified alternatives).  
+Significance: It is a value judgement about the severity and importance of a change 
+in a given environment.   
+According to the Madrid Protocol, impacts shall be evaluated by taking into account 
+three levels of  significance:  
+ 
+less than minor or transitory impact;  
+ 
+equal to minor or transitory impact; or  
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+12
+ 
+more than minor or transitory impact.  
+The interpretation of these terms should be made on a case by case site specific 
+basis. However it may be useful to consider how similar impacts have been judged in 
+earlier EIA processes at similar sites and/or for similar types of activities.  
+An inherent consideration to judging significance is that it may have a rather 
+subjective component and this fact should be acknowledged. Where an impact has 
+the possibility of being significant, several experts should be consulted to achieve a 
+view as objective as possible.. This is particularly important either if there is a reliance 
+on incomplete data or if there are gaps in the knowledge. 
+Judging significance should not be based solely on direct impacts, but must also take 
+account of indirect and cumulative impacts. 
+The significance of the unavoidable impacts (those impacts for which no further 
+mitigation is possible) represents an important consideration for the decision maker in 
+deciding whether, on balance, an activity is justified. 
+Some problems can arise when evaluating impacts, due to misunderstanding or 
+overlooking some aspects of the process of evaluating impacts. These can include for 
+example: 
+ 
+confusing duration of the impact with duration of the activity; 
+ 
+confusing outputs of activities with impacts; 
+ 
+limiting the analysis to direct impacts, without consideration of indirect and 
+cumulative impacts. 
+3.4. Comparison of impacts and recommendation 
+When the project has been assessed with respect to environmental impacts it is 
+necessary to summarise and aggregate the significant impacts for the various 
+alternatives in a form suitable for communication to the decision makers. From such 
+an aggregation of information it is essential that a comparison among alternatives can 
+be easily made. As a result of such comparison a recommendation on which 
+alternative is to be chosen should arise.  
+3.5.Proposal for corrective measures 
+Corrective measures are composed of all steps conducting to decrease, avoid, or 
+eliminate any of the components of an impact. It can be considered a process of 
+feedback, and should occur throughout the EIA process, not simply as a final step.  
+Corrective measures consist of mitigation and remediation actions. 
+Mitigation is the use of practice, procedure or technology to minimise or to prevent 
+impacts associated with proposed activities. The modification of any aspect of the 
+activity (and hence the consideration of outputs and the environmental exposure) as 
+well as the establishment of supervision procedures represent effective ways of 
+mitigation.  
+Mitigation measures will vary according to the activity and the characteristics of the 
+environment , and may include: 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+13
+ 
+developing on site control procedures (e.g. recommended methods for waste 
+disposal) 
+ 
+establishing the best time for the activity (e.g. to avoid the breeding season of 
+penguins) 
+ 
+providing environmental education and training to personnel, or contractors, 
+involved in the activity. 
+ 
+ensuring adequate on site supervision of the activity by senior project staff or 
+environmental specialists. 
+Remediation consists of the steps taken after impacts have occurred to promote, as 
+much as possible, the return of the environment to its original condition. 
+The final version of the activity to be assessed must incorporate all corrective 
+measures, including those associated with mitigation and remediation actions. Impact 
+avoidance, as a form of mitigation, may contribute to minimising monitoring, reducing 
+remediation costs and generally contribute also to maintaining the existing state of 
+the environment. 
+When considering mitigation and remediation measures, the following issues should 
+be addressed: 
+ 
+making a clear distinction between mitigation and remediation measures; 
+ 
+clearly defining the state of the environment that is being aimed for through 
+such measures; 
+ 
+considering that new, unforeseen impacts may appear as a result of 
+inadequate implementation of proposed mitigation measures; 
+ 
+noting that the environment may not always be capable of returning to its 
+original condition, even when remediation actions are implemented;  
+ 
+considering that a given corrective measure may interact antagonistically or 
+synergically with other corrective measures.  
+3.6. Proposal for Monitoring Programs 
+Monitoring consists of standardised measurements or observations of key 
+parameters (outputs and environmental variables) over time, their statistical 
+evaluation and reporting on the state of the environment in order to define quality and 
+trends. For the EIA process, monitoring should be oriented towards confirming the 
+accuracy of predictions about environmental impacts of the activity, and to detect 
+unforeseen impacts or impacts more significant than expected. Given this, it may be 
+useful to set environmental thresholds or standards for an activity that monitoring 
+results are assessed against. If these thresholds are exceeded, then a review or 
+re-analysis would be required of assumptions made regarding the environmental 
+impacts or of management systems related to the activity.  
+Monitoring may also include any other procedures that can be used to assess and 
+verify the predicted impacts of the activity. Where measurement of specific 
+parameters is not necessary or appropriate, assessment and verification procedures 
+could include maintaining a log of the activity that actually occurred, and of changes 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+14
+in the nature of the activity where they were significantly different from those 
+described in the EIA. This information can be useful for further minimising or 
+mitigating impacts, and, where appropriate, for modifying, suspending or even 
+cancelling all or part of the activity.  
+Monitoring is not about the measurement of everything in a haphazard approach to 
+detect change but about precise measurement of a few target species, processes, or 
+other indicators, carefully selected on the basis of scientifically sound predetermined 
+criteria. 
+The process of selecting key indicators should be accomplished during the activity’s 
+planning stage, once outputs have been identified, the environment has been 
+considered and associated impacts have been assessed, while monitoring 
+environmental parameters should start before the commencement of the activity in 
+order to acquire adequate baseline information.  
+Planning or undertaking monitoring activities may be hindered by a number of 
+situations: 
+ 
+leaving the planning of monitoring programs until the activity is in progress; 
+ 
+monitoring activities can  be costly, especially for multi-year projects and 
+activities; 
+ 
+some assumptions about the environmental impacts of an activity cannot be 
+tested; 
+ 
+failure to follow through with monitoring; 
+ 
+failure to distinguish between natural and human-induced variability in 
+environmental parameters; 
+ 
+4. Writing the EIA Document 
+The outcome of an EIA is a formal document, which presents all the relevant 
+information about the EIA process. The EIA document represents a fundamental link 
+between the EIA process and decision makers seeing that conclusions stemming 
+from the EIA process will assist decision makers to consider the environmental 
+aspects of the proposed activity.  
+Four bodies of information arise from an EIA process: methodology, data, results and 
+conclusions derived from them. Since results and conclusions are of particular 
+interest for decision makers, these chapters should be written in an accessible 
+language, avoiding very technical terms. The use of graphical information, such as 
+maps, tables and graphs, is an effective way of improving  communication. 
+The size and level of detail in the document will depend on the significance of the 
+environmental impacts that have been identified throughout the EIA process. Thus, 
+Annex I to the Protocol establishes two formats to document it: Initial Environmental 
+Evaluation (IEE) and Comprehensive Environmental Evaluation (CEE), for which the 
+Protocol requires the presentation of different volumes of information (Annex I, 
+Articles 2 and 3). 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+15
+If it has been determined that an activity may have a minor or transitory impact, an 
+Initial Environmental Evaluation (IEE) shall be prepared.  If the EIA process indicates 
+that a proposed activity is likely to have more than a minor or transitory impact a 
+Comprehensive Environmental Evaluation must then be prepared. According to 
+Annex I requirements a draft CEE shall be prepared first, which shall be circulated to 
+all Parties as well as to CEP for comments. Once comments and suggestions have 
+been incorporated, a final CEE is circulated to all Parties. 
+The following table summarises the steps to be considered throughout the EIA 
+process (which are explained in Section 3 of the present guidelines). It also lists the 
+requirements stemming from Annex I that should be included in an EIA document. In 
+the case of IEE,  some of the marked items are not specifically mentioned in Annex I, 
+Article 2. However, their inclusion in the IEE document is recommended to 
+communicate the results of the process in a transparent manner. These items were 
+distinguished in the table with an X.  
+ 
+ 
+EIA Contents and Annex I Requirements 
+IEE 
+CEE 
+Description of the purpose and need of the activity 
+ 
+ 
+Description of the proposed activity and possible alternatives  and the 
+consequences of those alternatives 
+ 
+ 
+Alternative of not proceeding with the activity 
+X 
+ 
+Description of the initial environmental reference state and prediction of 
+the environmental state in absence of the activity 
+X 
+ 
+Description of methods and data used  to forecast the impacts 
+X 
+ 
+Estimation of nature, extent, duration and intensity of direct impacts 
+ 
+ 
+Consideration of cumulative impacts 
+ 
+ 
+Consideration of possible indirect impacts 
+X 
+ 
+Monitoring programs 
+ 
+ 
+Mitigation and remediation measures 
+X 
+ 
+Identification of unavoidable impacts 
+X 
+ 
+Effects of the activity on scientific research and other uses or values 
+X 
+ 
+Identification of gaps in the knowledge 
+X 
+ 
+Conclusions 
+X 
+X 
+Preparers and advisors 
+X 
+ 
+References 
+X 
+X 
+Non-technical summary 
+X 
+ 
+Index 
+X 
+X 
+Glossary 
+ 
+X 
+Cover sheet 
+ 
+X 
+ 
+  required by Annex I 
+X  recommended 
+ 
+The following text focuses briefly on how the items listed above should be referred to 
+in the text of any EIA. Further technical information is already described in previous 
+chapters.  
+Description of the Purpose and Need for the Proposed Activity 
+This section should include a brief description of the proposed activity and an 
+explanation of the intent of the activity. It should include sufficient detail to make it 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+16
+clear why the activity is being proposed including the need for the activity to proceed. 
+It should also provide details on the process by which the scope of the activity was 
+defined. This will help ensure that the full scope of the activity has been included so 
+that impacts can be properly assessed. If a formal process was used to accomplish 
+this (a formal meeting or solicitation of input from the public or other groups), that 
+process and its results should be discussed here.   
+Description of the proposed activity and possible alternatives and the 
+consequences of those alternatives  
+This section should include a detailed description of the proposed activity as well as 
+reasonable alternatives. The first alternative to be described would be the proposed 
+activity. The description should be as comprehensive and detailed as possible (see 
+section 3.1). 
+It may be useful to provide a comparison of alternatives in this section. For instance, 
+for a new research station, alternatives might include differences in the size of the 
+station and a number of persons that could be accommodated. These differences 
+would mean different quantities of materials required, fuels consumed and emissions 
+or wastes generated. Tables showing appropriate comparisons can be very helpful to 
+the reader of the document.  
+Alternative of not proceeding with the activity 
+The alternative of not proceeding with the proposed activity (i.e. the “no-action” 
+alternative) should be described to highlight the pros and cons of not conducting the 
+activity. Although the Protocol only requires its inclusion in CEEs, it is recommended 
+to also include the “no-action” alternative in the text of IEEs in order to better justify 
+the need for proceeding with the activity. 
+Description of the initial environmental reference state and prediction of the 
+environmental state in absence of the activity 
+Such a description should not only be limited to a characterisation of the relevant 
+physical, biological, chemical and anthropic elements of the environment, but should 
+also take into account the existence and behaviour of dynamic trends and processes 
+in order to predict the state of the environment in absence of the activity. A proper 
+description of the initial environmental reference state provides elements against 
+which changes are to be compared. For this reason including a description of the 
+initial environmental state is highly recommended for any EIA. 
+Description of methods and data used  to forecast the impacts 
+The purpose of this section is to explain and, if necessary, defend the design of the 
+assessment and then provide enough detail that a further evaluator can understand 
+and reproduce the procedure. Careful writing of the methodology is critically important 
+because it determines that results can be reproducible and/or comparable. 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+17
+Estimation of nature, extent, duration and intensity of  impacts (including 
+consideration of possible indirect and cumulative impacts). 
+This section contains the results of analyses of impacts, which includes a clear 
+description of identified exposures as well as the identification of impact aspects, in 
+terms of their nature, spatial extent, intensity, duration, reversibility and lag time. It 
+must be clearly established the significance assigned to each impact and the 
+justification for such assignment. In addition, and to summarise this section, the 
+inclusion of a table showing the environmental impacts on each environmental 
+component can be very helpful.  
+Special attention must be paid to the consideration of possible indirect and 
+cumulative impacts, since cause-effect relationship determining the existence of such 
+impacts usually exhibit a higher degree of complexity.  
+Monitoring programs 
+This section should clearly define monitoring objectives, set testable hypotheses, 
+choose key parameters to be monitored, assess data collection methods, design 
+statistical sampling program, and decide on frequency and timing of data 
+collection/recording. Implementation of such monitoring programs is a further step 
+that may begin after the planning of the activity has been completed, even though the 
+activity has not actually be initiated.  
+Mitigation and remediation measures 
+Since mitigation and remediation measures usually aim to correct some aspects of 
+the activity, communication of these measures must be concrete, pointing out the 
+proposed actions and their timing, as well as the benefits associated to each 
+individual measure. It is recommended to include this section in the text of IEEs. 
+Identification of unavoidable impacts 
+Recognition of the existence of unavoidable impacts should be included within any 
+impact analysis. Consideration of such impacts is of great importance given that the 
+occurrence of unavoidable impacts may orientate the decision on whether to proceed 
+with the proposed activity.  
+Effects of the activity on scientific research and other uses or values 
+Having into account that the Protocol designates Antarctica as an area devoted to 
+peace and science, the effects of the proposed activity on ongoing scientific research, 
+or on the potential of a site to future scientific research, must be a fundamental 
+consideration when the impact analysis is carried out.  
+Identification of gaps in the knowledge 
+Existing bodies of knowledge (i.e., empirical, theoretical, or anecdotal data and 
+information) are used to support the assessment process. Nonetheless, these bodies 
+of knowledge may be incomplete or may be surrounded by varying degrees of 
+uncertainty. It is critical to identify explicitly in the assessment where such 
+incompleteness or uncertainty exists; and how this has been factored into the 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+18
+assessment process. This disclosure can be useful in assessment by clearly 
+identifying where more knowledge is needed. 
+Conclusions 
+The conclusions are based on the information presented in the document and take 
+into account the importance of the proposed activity as well as on the significance of  
+environmental impact predicted throughout the EIA process.  Account should also be 
+taken of the consequences of the implementation of mitigation measures and 
+monitoring activities. The decision of whether or not to proceed with the activity is 
+expressed in this section.   
+Preparers and Advisors 
+This section provides a list of those experts who were consulted in preparing the 
+assessment, their areas of expertise, and appropriate contact information.  It should 
+also list the persons who were responsible for the actual preparation of the document.  
+This information is useful to reviewers and decision makers to ensure that the 
+appropriate expertise was brought to bear on the analyses needed to assess the type 
+and degree of impact from the proposed activity. It is also useful information for future 
+assessments on similar activities or issues.  
+References 
+This section should list any references used in preparing the evaluation.  They may 
+include research or other scientific papers used in the analysis of impacts or 
+monitoring data used to establish baseline conditions in the area where the activity is 
+proposed.  They may also include other environmental assessments of similar 
+activities at other or similar locations. 
+Index 
+As an EIA document may be fairly large , an index is a very helpful aid to the reader. 
+Glossary 
+This section provides a list of terms and definitions as well as abbreviations that are 
+helpful to the reader, especially if the terms are not commonly understood . 
+Cover Sheet  
+The CEE should contain a title page or cover sheet that lists the name and address of 
+the person or organization who prepared the CEE and the address to which 
+comments should be sent (for the draft document only). 
+Non-Technical Summary  
+The CEE must contain a non-technical summary of the contents of the document.  
+This summary should be written in an accessible language and include pertinent 
+information on  the purpose and need for the proposed activity, the issues and 
+alternatives considered, the existing environment, and the impacts associated with 
+each alternative. A non-technical summary might also be useful for an IEE.  
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+19
+Finally, in either case (IEE or CEE) a number of considerations about writing the EIA 
+document should be taken into account, such as: 
+ 
+avoidance of including irrelevant descriptive information; 
+ 
+documenting all relevant steps of the process; 
+ 
+clearly describing the impact identification methodology; 
+ 
+clearly distinguishing between results (identification of impacts, mitigation 
+measures, etc.) and final value judgement of significance; 
+ 
+properly connecting results and conclusions. 
+ 
+ 
+5.Annex I Requirements for Circulation 
+5.1.Public circulation of an EIA 
+ 
+Under Annex I, public circulation is only required for CEEs. The draft CEE shall be 
+made publicly available and shall be circulated to all Parties, which shall also make it 
+publicly available, for comment. A period of 90 days shall be allowed for the receipt of 
+comments. It shall be forwarded to the CEP at the same time as it is circulated to the 
+Parties, and at least 120 days before the next ATCM, for consideration as 
+appropriate. 
+In addition, Resolution XIX-6 recommends ATCPs to provide the host country of the 
+following ATCM with a list on the IEEs and CEEs prepared during the previous 
+calendar year. 
+5.2.Receipt and incorporation of comments 
+ 
+No final decision shall be taken to proceed with the proposed activity in the Antarctic 
+Treaty area unless there has been an opportunity for consideration of the draft CEE 
+by the ATCM on the advice of the CEP, provided that no decision to proceed with a 
+proposed activity shall be delayed through the operation of this paragraph for longer 
+than fifteen months from the day of circulation of the draft CEE. A final CEE shall 
+address and shall include or summarise comments received on the draft CEE. The 
+final CEE, notice of any decision relating thereto, and any evaluation of the 
+significance of the predicted impacts in relation to the advantages of the proposed 
+activity, shall be circulated to all Parties, which shall also make them publicly 
+available, at least sixty days before the commencement of the proposed activity in the 
+Antarctic Treaty area. 
+The following diagram illustrates this schedule for CEEs, as defined in Annex I: 
+Circulation of 
+Draft CEE 
+Deadline for 
+comments to 
+Draft CEE 
+ATCM 
+Circulation of 
+Final CEE 
+Commencement 
+of the Activity 
+ 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+20
+         3 months 
+ 
+ 
+ 
+ 
+ 
+ 
+      2 months 
+ 
+ 
+ 
+ 
+ 
+4 months 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 months  (max)  
+ 
+ 
+ 
+ 
+ 
+6.Definition of terms in the EIA process 
+ 
+Action: any step taken as a part of an activity. 
+Activity: an event or process resulting from (or associated with) the presence of 
+humans in the Antarctic, and/or which may lead to the presence of humans in 
+Antarctica. (adapted from SCAR/COMNAP Monitoring Workshop) 
+Comprehensive Environmental Evaluation (CEE):  an environmental impact 
+document required for proposed activities that may have more than a minor or 
+transitory impact on the Antarctic environment (from Madrid Protocol, Annex I, Article 
+3). 
+Cumulative Impact: the combined impact of past, present, and reasonably 
+foreseeable activities. These activities may occur over time and space and can be 
+additive or interactive/synergistic (adapted from IUCN Cumulative Impacts 
+Workshop). 
+Direct Impact: a change in environmental components that results from direct 
+cause-effect consequences of interaction between the exposed environment and 
+outputs. (from Guidelines for EIA in the Arctic) 
+Environmental Impact Assessment (EIA): a process for identifying, predicting, 
+evaluating and mitigating the biophysical, social and other relevant effects of 
+proposed projects and physical activities prior to major decisions and commitments 
+being made (from Guidelines EIA in the Arctic) 
+Exposure: the process of interaction between an identified potential output and an 
+environmental element or value. (adapted from SCAR/COMNAP Monitoring 
+Workshop) 
+Impact: a change in the values or resources attributable to a human activity.  It is the 
+consequence (e.g. reduced plant cover) of an agent of change, not the agent itself 
+(e.g. increase of trampling). Synonym: effect. (from SCAR/COMNAP Monitoring 
+Workshop).  
+Indirect Impact: a change in environmental components that results from 
+interactions between the environment and other impacts (direct or indirect). (from 
+Guidelines for EIA in the Arctic) 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+21
+Initial Environmental Evaluation (IEE): an environmental impact document required 
+for proposed activities that may have a minor or transitory impact on the Antarctic 
+environment (from Madrid Protocol, Annex I, Article 2). 
+Mitigation: the use of practice, procedure or technology to minimise or to prevent 
+impacts associated with proposed activities. (COMNAP Practical Guidelines) 
+Monitoring: consists of standardised measurements or observations of key 
+parameters (outputs and environmental variables) over time, their statistical 
+evaluation and reporting on the state of the environment in order to define quality and 
+trends. (adapted from SCAR/COMNAP Monitoring Workshop) 
+Output: a physical change (e.g. movement of sediments by vehicle passage, noise) 
+or an entity (e.g. emissions, an introduced species) imposed on or released to the 
+environment as the result of an action or an activity.  (SCAR/COMNAP Monitoring 
+Workshop) 
+Preliminary Stage (PS): a process that considers the level of  environmental 
+impacts of proposed activities -before their commencement- referred to in Article 8 of 
+the Protocol , in accordance with appropriate national procedures. (from Madrid 
+Protocol, Annex I, Article 1)  
+Remediation: consists of the steps taken after impacts have occurred to promote, as 
+much as possible, the return of the environment to its original condition  
+Unavoidable Impact: an impact for which no further mitigation is possible. 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+22
+7.References 
+ARCTIC ENVIRONMENTAL PROTECTION STRATEGY. 1997. Guidelines for 
+Environmental Impacts Assessment (EIA) in the Arctic. Sustainable Development and 
+Utilisation. Finnish Ministry of the Environment, Finland, 50 pp. 
+ATCPs. 1991. Protocol on Environmental Protection to the Antarctic Treaty (plus 
+annexes). 11th. Antarctic Treaty Special Consultative Meeting. Madrid, 22-30 April, 
+17-23 June 1991.  
+COMNAP. 1992. The Antarctic Environmental Assessment Process, Practical 
+Guidelines. Bologna (Italy) June 20, 1991, revised Washington D.C. (USA), March 4, 
+1992.  
+FOREIGN AND COMMONWEALTH OFFICE. 1995. Guide to Environmental Impact 
+Assessment of Activities in Antarctica. Polar Regions Section, South Atlantic and 
+Antarctic Department, London. 
+IUCN - The World Conservation Union. 1996. Cumulative Environmental Impacts in 
+Antarctica. Minimisation and Management. Edited by M. de Poorter and J.C. Dalziell. 
+Washington, D.C., USA. 145 pp. 
+MINISTRY OF FOREIGN AFFAIRS AND TRADE. 1997. Guidelines and Procedures 
+for Visitors to the Ross Sea Region. Ministry of Foreign Affairs and Trade. New 
+Zealand.  
+SCAR/COMNAP . 1996.  Monitoring of Environmental Impacts from Science and 
+Operations in Antarctica. Workshop report. 43 pp and Annexes, .1996 Workshops 
+XX ATCM/IP 2, Developing and Understanding of Minor or Transitory, submitted by 
+New Zealand. 
+XXI ATCM/IP 55, Elementos para la Interpretación de los Procedimientos de 
+Evaluación de Impacto Ambiental contenidos en el Anexo I del Protocolo de Madrid, 
+submitted by Argentina.  
+XXI ATCM/WP 35, Further understanding of the term Minor or Transitory, submitted 
+by New Zealand.  
+XXII ATCM/IP 66, Application of the “ minor or transitory impacts” criterion of EIA in 
+different regions of Antarctica, submitted by Russian Federation. 
+XXII ATCM/WP 19, Environmental Impact Assessment. The role of EIA Guidelines in 
+understanding “ Minor or Transitory”, submitted by Australia. 
+ 
+ 
+8.Acronyms 
+ 
+ASOC: Antarctic and Southern Ocean Coalition 
+ATCM: Antarctic Treaty Consultative Meeting 
+ATCP: Antarctic Treaty Consultative Party 
+GUIDELINES FOR EIA. DRAFT FINAL VERSION 
+ 
+23
+ATS: Antarctic Treaty System 
+CCAMLR: Commission for the Conservation of Antarctic Marine Living Resources 
+CEE: Comprehensive Environmental Evaluation 
+CEMP: CCAMLR Ecosystem Monitoring Program 
+CEP: Committee of Environmental Protection 
+COMNAP: Council of Managers of National Antarctic Programmes 
+EIA: Environmental Impact Assessment 
+GIS: Geographical Information System 
+GOSEAC: SCAR Group of Specialists on Environmental Affairs and Conservation 
+HSM: Historic Sites and Monuments 
+IEE: Initial Environmental Evaluation 
+IUCN: International Union for the Conservation of Nature (World Conservation 
+Union) 
+SCAR: Scientific Committee of Antarctic Research 
+SPA: Specially Protected Area 
+SSSI: Site of Special Scientific Interest 
+ 
+ 
+ 
+ 
+ 

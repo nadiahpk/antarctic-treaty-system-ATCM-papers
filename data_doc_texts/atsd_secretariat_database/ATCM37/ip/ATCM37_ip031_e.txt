@@ -1,0 +1,45 @@
+﻿
+
+
+
+
+
+Antarctic Flight Information Manual (AFIM) - An update on the status of the reformatting
+
+
+
+
+
+
+
+
+
+Antarctic Flight Information Manual (AFIM)
+An update on the status of the reformatting
+Background
+In 1989, the Antarctic Treaty Meeting of Experts on Air Safety took place in Paris. The final report from that meeting, circulated and discussed at ATCM XV, contained ten specific proposals relating to air safety. As a result, the ATCM adopted Recommendation ATCM XV-20 Air Safety in Antarctica.    Recommendation XV-20 provided that “for the purpose of improving air safety in Antarctica” a “Handbook” in loose-leaf format be prepared. Ultimately, COMNAP took on the responsibility of preparing and regularly updating the handbook which became known as the Antarctic Flight Information Manual (AFIM).  In 2013, based on COMNAP’s advice to the ATCM, Resolution 1 (2013) Air Safety in Antarctica was adopted which considered Recommendation XV-20 no longer current and which supported adoption of a new format for AFIM  “in which information provided by each national operator is kept in a manner that facilitates updating of information”. Thus there was removed the need to produce AFIM in a loose-leaf paper format.
+
+AFIM Update
+The AFIM has been produced by COMNAP and distributed in hardcopy, loose-leaf format.  Originally, the ATCM was very specific about the manual being produced in a “loose leaf format” with each country having separate entries so as to facilitate updating of information.  Each year COMNAP solicits input from National Antarctic Programs (NAPs) for updates to their AFIM information, and revisions to the manual are published in hardcopy format and distributed by standard mail to AFIM holders.  Copies of the AFIM are free to COMNAP members.  However, to offset the costs of production and distribution, copies of the AFIM have traditionally been sold to other parties outside the COMNAP membership.
+
+Over the years COMNAP noted the migration of other flight publications to an all-electronic format. Such a format not only allows for ease of use but for timelier and easily accessible access to information in order to keep current and relevant.  In 2011, COMNAP began initial planning towards migration of the AFIM over to an electronic format.  Over the subsequent years there has been significant discussion, particularly within the COMNAP Air Expert Group, on the proposal to reformat AFIM leading to the approval of a COMNAP project to develop an electronic AFIM.
+
+The electronic AFIM is now ready for initial testing by COMNAP members and is on track to be released for the 2014-15 Antarctic field season (beginning October 2014).
+
+The AFIM consists of a web interface which links to a cloud-based database of station and operational information.  Developed for COMNAP by the Polar Geospatial Center at the University of Minnesota in the United States, this new database will allow COMNAP members to more easily update operational information.  This will in turn allow COMNAP to more easily publish updates to the AFIM and to ensure that it is providing the most current operational information for the Antarctic aviation community.
+
+National programs have the option of providing photos, runway diagrams, or any other information relevant to the aviation community to augment the ATCM-mandated communications and operational information.  
+Information about aviation facilities for each country will be generated from the database into PDF format, which can then be made available through any number of electronic means.  The specific delivery mechanisms, document and content control and security features will be further discussed at the COMNAP Annual General Meeting 2014.  The principle objective is to make the AFIM accessible to pilots in the cockpit through standard electronic flight bag technology.
+
+An example showing the proposed new page lay-out of the AFIM are shown in the attachment to this document. This lay-out may change depending on feedback received during the trial phase of the project.
+Schedule
+The current schedule for the rollout of the reformatted electronic AFIM is as follows:
+    • March 15, 2014:  Initiation of testing period for COMNAP members.  Online data entry and review shared with trial participants 
+    • April 15, 2014:  Testing concludes; feedback to web interface & data schema initiated
+    • May 21, 2014: Web interface & data schema finalized 
+    • June 1, 2014: Solicitation for AFIM member nations for data entry and updates 
+    • June 1, 2014: COMNAP initiates dynamic digital AFIM output process and design
+    • August 29, 2014: Demonstration of working AFIM system at COMNAP AGM 
+    • October 1, 2014: Roll-out of reformatted AFIM system.
+
+

@@ -1,0 +1,214 @@
+Advances in the climate change sensor network on the Antarctic
+Peninsula
+Advances in the climate change sensor network on the Antarctic
+Peninsula
+Summary
+The purpose of this report is to present the status of progress in the
+installation of the Multiparameter Station Network in Antarctica
+and obtain environmental data developed by the Chilean Antarctic
+Institute (INACH), which is also seeking to open space for future
+international collaborations on the matter.
+Background
+Antarctica is emerging as the natural laboratory with the greatest
+potential for research and registration of environmental parameters
+that make it possible to study global climate change, a phenomenon
+that directly threatens humanity. For this task, a lot of information
+and scientific evidence is required, which still remains at
+underdeveloped levels. This reality forces the National Antarctic
+Programmes to carry out strategic actions to improve the
+monitoring of environmental variables and becomes an opportunity
+to achieve this collaboratively for the benefit of Antarctic sciences.
+Through the Chilean Antarctic Institute, Chile carries out the
+Latitudinal Sensors Programme (LSP). This project materialises the
+country's southernmost set of monitoring platforms with permanent
+sensors. This is a powerful tool to better understand the dynamics
+of Antarctic ecosystems and, in turn, confront global climate change
+through information and scientific evidence. It is known that
+Antarctica interacts climatically with the other areas of the planet
+and is emerging as a “sentinel" of the impact of its changes. The
+flow of carbon, levels of greenhouse gases, the rates of increase in
+atmospheric and oceanic temperatures, and the ablation of the
+cryosphere are some of the phenomena that can be studied through
+this type of monitoring network.
+The network seeks to take advantage of the natural laboratory
+characteristics of the Antarctic Peninsula to record long-term
+measurements of atmospheric and oceanographic variables by
+installing monitoring stations composed of different sensors
+conditioned for the characteristics of the White Continent.
+Finally, the objective of the programme is to provide environmental
+data of the Antarctic territory, seeking to improve the
+understanding, prediction and projection of its effects through the
+generation of relevant, real-time information. All this in support of
+decision-making in various areas (scientific, political, productive,
+risk assessment, among others).
+Project progress
+The PSL is focused on implementing a Network of Multiparametric
+Stations in Antarctica, i.e. an integrated environmental monitoring
+system in the Antarctic territory that makes it possible to study
+environmental variations at different time scales (seasonal,
+interannual fluctuations). This network aims to install stations in 21
+points and thus provide data from Antarctica to the rest of the
+world publicly and free of charge, to have relevant and real-time
+information.
+To date, 13 Automatic Meteorological Stations (EMA) have been
+installed out of a total of 18 planned. On the other hand, INACH
+has already acquired a glider to monitor different variables in the
+Southern Ocean, in addition to planning in the future to incorporate
+2 oceanographic buoys, which in total add up to 21 multiparametric
+stations in the network.
+Antarctic Scientific Expedition 58 – Summer period 2021-2022
+During December 2021, the first Automatic Meteorological Station
+belonging to the network was installed, located approximately 1000
+km from the south pole, adjacent to the Union Glacier Joint Station
+(lat 79°46'S, long 82°50'W). From December 2021 to February 2022,
+work was carried out on the Antarctic peninsula to install
+monitoring EMAs on the Prof. Julio Escudero base, located in Fildes
+Bay in the South Shetland Islands lat 62°12'10.34" S, long 58°57'
+42.72"W), and then sail south across the Antarctic circle,
+disembarking at Teniente Luis Carvajal base, located at the southern
+end of Adelaida Island (lat 67°45'36.71"S, long 68°54'56.12"W), to
+finish a little further north at the Yelcho Base, located on Doumer
+Island, Palmer Archipelago (lat 64°52'42.50"S, long 63°35'28.54"W).
+Antarctic Scientific Expedition 59 – Summer period 2022-2023
+From December 2022 to February 2023, the installations of the 6
+new EMAs were carried out, starting in parallel with the station
+located at the General Bernardo O'Higgins base, which is located on
+Isabel Riquelme Islet, northern area of the Antarctica peninsula (lat
+63°19'16.95"S, long 57°53'58.99"W) and the station installed in
+Melville Cape, located on King George Island and being the station
+belonging to the most northerly network (lat 62°1'27.07"S, long
+57°36'4.98"W). Then work continued in parallel at the stations at
+Capitán Arturo Prat base, located in Discovery Bay, Greenwich
+Island (lat 62°28'47.43"S, long 59°39'59.33"W) and in Harmony
+Point, located on Nelson Island in the South Shetland Islands (lat
+62°18'21.64"S, long 59°11'44.51"W). Finally, during the expeditions
+two other stations were installed in parallel: one located adjacent to
+the General Jorge Boonen Rivera shelter, located in Duse Bay, in
+the northern part of the Peninsula (lat 63°32'12.52"S, long
+57°24'14.17"W) and the last one installed was at the President
+Gabriel González Videla base, located in Paradise Bay, on the shores
+of Gerlache Strait (lat 64°49'26.65"S, long 62°51'28.47"W).
+Antarctic Scientific Expedition 60 – Summer period 2023-2024
+During the last Antarctic Scientific Expedition, between the months
+of December 2023 and January 2024, the most recent installations
+that are part of the network were carried out. The first of these
+stations was installed in D'Hainaut Island, which is located in the
+southern part of the Trinidad Island, belonging to the Palmer
+archipelago (lat 63°54'11.04"S, long 60°47'37.81"W), to then
+continue with the installation of the Alcock Island station, located
+in the northern part of the Gerlache Strait (lat 64°14'23.89"S, long
+61°7'53.21"W). Finally, the station located on Livingston Island (lat
+62°40'47.72"S, long 60°24'44.36"W).
+Automatic Meteorological Stations metadata
+Component
+Label/Model
+Detail
+Anemometer
+RM Young/Wind Monitor 05108
+Wind speed and wind direction measurement
+Net Radiometer
+Apogee/SN 500
+Longwave and shortwave radiation measurement
+Pyranometer
+Apogee/CS320
+Broad spectrum shortwave radiation
+PAR Radiometer
+Apogee/CS310
+Photosynthetically active radiation measurement
+Ultrasonic distance sensor
+Campbell/SR50A
+Measures the distance from the sensor to the snow surface
+CO2 Probe
+Vaisala/GMP252
+Ppm-level Carbon Dioxide Probe
+Relative humidity and temperature probe
+Vaisala/HMP155
+Relative humidity and air temperature probe
+Soil thermometer
+Campbell/109
+Thermistor buried at 20 cm depth
+Photovoltaic panel
+Campbell SP90-L
+Polycrystalline panel 90W
+Weather resistant enclosure
+Campbell ENC16/18
+Fibreglass-reinforced polyester enclosure
+Battery pack
+Aokly 6GFM100G (12V/100Ah)
+5 x 12V 100aH parallel arrangement
+Wind-power generator
+Leading Edge LE-V50 Extreme
+12 Volts, 70 Watts
+10 Watts at 12 m/s
+Satellite Antenna
+Modem Tera L band Iridium 9523
+Allows satellite connection via Iridium
+Where can the data of the already installed stations be seen?
+The data and information generated by the network are public and
+freely accessible. Currently, they are available on the web platform
+which can be accessed at http://www.redsensoresinach.cl/. This
+platform contains project information, metadata, statistical graphs,
+visualisation and downloading of the different variables that are
+recorded on site and transmitted by satellite 4 times a day.
+Illustration 1. Example of the variables measured by each weather
+station.
+Users of the information generated by this network are asked to
+mention its source as follows: “The data used in this [presentation,
+publication] was extracted from the web platform of the INACH
+Latitudinal Sensors programme www.redsensoresinach.cl"
+First contributions to science: record of an atmospheric river on the
+Antarctic Peninsula
+On 5 February 2024, several stations belonging to this network
+recorded a rise in air temperature that contrasts with the average
+temperatures recorded in that area over the years. More
+specifically, the weather station located at the Gabriel González
+Videla base (lat 64°49'26.65"S, long 62°51'28.47"W) recorded a
+temperature of 10.9°C, reaffirmed by the record of the Ukrainian
+Vernadsky base located 82 km away from the Chilean base, which
+recorded a temperature of 10.8°C. This evidences the presence of an
+atmospheric river in the Antarctic Peninsula, which confirms and
+reinforces the importance of having a permanent monitoring
+network of meteorological variables throughout the Peninsula.
+For more information about this news, go to: https://
+www.latercera.com/que-pasa/noticia/el-extrano-evento-climatico-
+que-incremento-las-temperaturas-en-la-peninsula-antartica/
+KPMKQNWDFZEF5M7LLOFZZTYNHM/#
+Environmental Monitoring Laboratory
+The Environmental Monitoring Laboratory has been implemented to
+design and develop prototypes, maintenance and repairs for
+components of the grid or any other project focused on research
+and science.
+Furthermore, it allows us to maintain constant monitoring of the
+stations and perform sensor calibrations in an environment with
+controlled environmental conditions.
+Objectives and challenges in the medium term
+Considering that the network grows in the number of stations
+installed year after year and with the objective of monitoring
+climatic conditions of the continent on an extensive and significant
+latitudinal gradient, the new stations will be installed at key points
+that allow us to collect data from areas that are currently not
+covered.
+One of the points raised on which to make progress is Elephant
+Island, which would allow us to obtain measurements from the
+northernmost point of the Antarctic continent. On the other hand,
+points inside the Antarctic Circle are being evaluated, without
+ruling out the option of this being done through collaboration
+projects with other National Antarctic Programmes.
+Another objective is the intensive use of data obtained by the
+network and possible research or collaborations that can be
+developed with other countries.
+For more information about the project, please contact Ricardo
+Faúndez Mayor, HHead of the INACH Projects Unit, or Bastián
+Oyarce Vejar, manager of the PSL.
+Contact
+Position
+Telephone
+Email
+Ricardo Faúndez Mayor
+Head of Projects Unit
++56 61 2298166
+rfaundez@inach.cl
+Bastián Oyarce Vejar
+Manager of the Sensors Project
++56 61 2298136
+boyarce@inach.cl

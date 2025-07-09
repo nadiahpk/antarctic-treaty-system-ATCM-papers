@@ -1,0 +1,606 @@
+SCIENTIFIC COMMITTEE ON ANTARCTIC RESEARCH (SCAR)
+
+July 1972 Interim Report
+Revised 25 August 1972
+
+SCAR Group of Specialists on Scientific and
+Technical Problems Affecting Antarctic Telecommunications
+
+1. INTRODUCTION
+
+The Group met in May, 1972, in connection with the SCAR Symposium
+on Scientific and Technical Problems Affecting Antarctic Telecommuni-
+cations, held at Sandefjord, Norway, May 10-16, 1972.
+
+The following members of the Group of Specialists participated in
+the meeting: W. H. Bellchambers, R. C. Kirby (Convenor), E. V.
+Thrane (Norway, replacing F. Lied), C. G. McCue(Australia), and J. Voge
+(France).  In addition, the following experts at the Symposium assisted
+the Group and participated fully in its meetings and the preparation of
+this report: J. Busico (Argentinal), W. R. Piggott (United Kingdom),
+D. F. Styles (Australia). Mlle. G. Pillet substituted for J. Voge at the
+final meetings.
+
+The Symposium was held in accordance with the recommendation
+of the Group and the approval of SCAR at the 1970 Assembly.  E. V.
+Thrane was general chairman, and W. R. Piggott was chairman of
+the technical program.  The conference was hosted by the Norwegian
+government and the Norsk Polar Institute.  A full report and proceedings
+is being published separately by SCAR.
+
+The objective of this Symposium was to identify the technical
+and scientific factors which are peculiar to Antarctic Communications,
+to suggest some possible solutions and to make both available for use
+by those responsible for planning and operating Antarctic Communica-
+tion systems. While a number of suggestions for scientific research
+automatically arise in this type of exercise, no attempt has been 
+made to review all proposals which might improve our knowledge.
+The participants at the Symposium were mainly interested in practi-
+cal communications.  They were strongly influenced by the need to 
+propose techniques which could be introduced in the near future.
+The needs and limitations of operators acting at Antarctic stations 
+were considered since such operators usually lack the back up of 
+trained engineering staff available elsewhere.
+
+Discussions at the Symposium were active and informal.
+Summaries and recommendations which the Group of Specialists 
+proposed to include in its present report were outlined before the 
+full symposium participation for review and comments.  However,
+the Group, including participants named above, undertook respon-
+sibility for the final texts.
+
+It is recognized that the Group of Specialists does not have 
+authority or responsibility to define communication requirements or 
+to promulgate design or operational procedures for systems.  The 
+Group stresses that the information and proposals given in this 
+report are regarded only as advisory.
+
+2.  INFORMATION DEVELOPED AT MAY 1972 SYMPOSIUM 
+AND MEETING OF THE GROUP
+
+The Group at the 1970 meeting had identified a number of topics in 
+which studies were needed:  practical operations and needs, communi-
+cation satellites, forward scatter, modulation and signal processing,
+wave propagation over snow and ice, radionavigation and possible uses 
+of VLF/LV, antenna systems, ionospheric characteristics and disturbances,
+and noise and interference.  The symposium and discussions of the Group 
+of Specialists were organized as far as possible to elicit information and 
+proposals on these topics.
+
+2.
+2. 1. Telecommunication Needs and Main Practical Difficulties
+
+It is pointed out that international agreements on Antarctic 
+communications, and some objectives for communications networks,
+are given in the Report of the Buenos Aires Meeting (Polar Record 15,
+No. 95, 1970, p. 200-215).  These proposals should be borne in mind
+in our discussions of requirements, and especially with respect to our
+suggestions on "exceptional communications" given below. Discussion
+of requirements showed presently generally adequate arrangements apart
+from difficulties in linking the Peninsula zone with McMurdo, some
+exceptional international communication in the Peninsula zone, and occa-
+sional difficulties in communicating with mobile field parties.
+
+Only the meteorological requirements seem to have outlined present
+and future communication needs very comprehensively. WMO require-
+ments as outlined at the symposium represent more traffic than at
+present and would require more reliable circuits, but technical
+recommendations will depend upon decisions of Administrations as to
+how far the requirements are to be met.
+
+The needs for other scientific users do not seem to have been com-
+piled, and there is a long history of difficulty in obtaining such infor-
+mation. SCAR Recommendation C12 was supposed to result in such
+information being supplied to the Secretary, SCAR Working Group on
+Logistics. It is understandable that it is difficult to establish all the
+scientific needs in advance, and there is a natural tendency just to
+exploit all improvements in communication, rather than to plan ahead.
+
+It is perhaps in the area of learning and expressing the evolving
+needs for communication by the scientific experiments that the Group of
+Specialists can render one of its greatest contributions. To accomplish
+
+   
+3
+this will require more discussion between members of the Group and
+those planning future Antarctic scientific programs in the various
+administrations and scientific groups.
+
+Up to the present most of our information about practical
+requirements and difficulties concerns existing systems and operations.
+
+The major part of Antarctica (excluding the Antarctic Peninsula) has
+nineteen permanent stations widely distributed over four million square
+miles.  For many years to come this dispersal will be maintained, and
+the stations will continue to be isolated by great distances and the ice
+cap.  For the next few years, therefore, they will have to depend for
+the major part of their communications upon use of the ionosphere--
+until communication satellites* should become readily available and
+economically feasible for this wide range of fixed and mobile, low
+information rate, communications.  The present network of high fre-
+quency systems connects other continents to Antarctica and the Antarctic
+stations to each other, to their summer bases, field parties, ships and
+aircraft.  While the hf systems in the Antarctic enjoy comparative
+freedom from interference from radio stations in other parts of the
+world, they are susceptible to the very considerable handicaps of
+blackouts, high ionospheric absorption, flutter,drift static and local
+man-made interference.  Poor communication with field parties
+sometimes causes unneeded rescue efforts and other disruption of
+operations when resources are scarce.  There are some low frequency
+radio navigation aid beacons serving ships and aircraft which appear to
+suffer a high degree of absorption over ice paths.
+
+Especially on the Antarctic Peninsula, where there is considerable
+summer activity by several nations using aircraft, ships, and field
+parties, there exists a great need for exceptional communications.
+
+*Much of Antarctica lies at latitudes beyond the visibility of
+synchronous satellites.
+
+4
+"Exceptional communications" is defined as the need to communicate urgently outside of normal channels and schedules, as between either a base or mobile station of one nationality with a base or mobile station of any other nationality outside of normal schedules.  These communications are additional to emergency and distress requirements -- it appears that the problem does not arise with respect to emergency and distress situations because of the top priority accorded such communications on all networks.
+
+It is clear that telecommunication requirements at times exceed the capabilities available at Antarctic stations.  On certain intra-Antarctic links, local conditions or auroral ionospheric difficulties make it impossible to attain a high degree of effectiveness.  In later sections of this report, possible improvements are noted:
+
+1. incorporate error-correcting systems for telegraphy and LINCOMPEX for telephony
+
+2. the use of satellite links
+
+3. the use of low power forward scatter to replace certain HF links for data or teleprinter communications.
+
+One of the regions of long-distance links which suffers difficulty is between McMurdo and Port Stanley and various Peninsula bases.  If a highly reliable link between McMurdo and Peninsula stations could be achieved, it would be very significant to Antarctic operations.  The prospect of a reliable HF link is very doubtful because of the classical geographical situation for frequent intense auroral absorption.  The best solution would probably be to introduce a forward scatter relay via Palmer or suitable intermediate point to at least one major peninsula station.  Port Stanley communicates well with most peninsula stations via HF.
+
+ 
+5
+As regards exceptional communications, in order to set up a 
+special communication circuit, it is necessary to:
+
+1. know the correct frequency or frequencies
+
+2. use compatible modulation
+
+3. use a common language
+
+The possibility of an additional watch on a special frequency was 
+considered but discarded because the resources are not usually 
+sufficient.  The best solution offered was to break into existing 
+frequencies. It was agreed that where needed to overcome language 
+difficulties, communications should be established using international 
+Morse. (For the near future, anyway, it appears that Morse operators 
+would be available at stations using radioteleprinter systems.) The 
+use of internationally agreed (ITU) codes, e.g., "Q" codes, in Morse 
+and radioteleprinter modes should aid in overcoming language difficulties.
+
+It is important to insure that operators in the field are provided 
+with adequate, up-to-date information concerning all Antarctic tele-
+communication system facilities and operational features in a form 
+suitable for their use. It appears that information on many radio 
+schedules (as interchanged under the Antarctic Treaty) does not reach 
+bases in time for the changeover season. If reliable schedules were 
+available to the base operators, the problem of exceptional communi-
+cations would be largely overcome.  The Group suggests updating 
+schedules by inter-base exchange of schedules at regular intervals, 
+especially at major changeover periods.
+
+It was noted that arrangements made in Antarctica in 1956 and 1957 
+for the IGY activities worked well, and there was some support for 
+reinstatement of use of those provisions for special contacts.
+
+One problem affecting modulation compatibility is the choice of 
+upper or lower sideband in single sideband working.  In the mobile 
+services, aeronautical and maritime, the use of upper sideband has 
+been agreed (ITU).  It would appear logical to arrange that upper
+
+6
+sideband should be employed whenever possible throughout Antarctica.
+In other cases special arrangements, as the provision of suitable 
+crystals, should be considered.
+
+As suggested above, capabilities of, and information available to,
+operators are crucial to better Antarctic communications.  To improve
+efficiency of communications it will be important to give further attention
+to the standard of operator efficiency, by giving special training where
+necessary to radio operators before leaving their home country.  Such
+training should include information on the special problems of Antarctic
+transmission, and up-to-date information on facilities and operational
+features.
+
+The Group considers that an important contribution would be an
+Operators Handbook.  While the current interchange of information
+among the various countries on telecommunication facilities and
+operational modes is especially useful for planning purposes, it is
+highly detailed.  The information thus presented is not suitable for use
+by operators, and it also requires a translation process whenever
+different languages are involved.
+
+SCAR might usefully supplement that interchange by producing a
+Manual in digest form, suitable for operators to use.  It should give
+normal schedules and frequencies in graphical form for easy use, and
+could overcome language difficulties.  Generally useful circuit data,
+i.e., distance and bearings between stations, might also be included.
+A model page of schedule information is shown as Annex 1.
+
+7
+2. 2.  Communication Satellites
+
+At the present time, communication and data transmission both 
+within the Antarctic and to the rest of the world is almost entirely by 
+HF radio.  The only operational use of satellites for these purposes are 
+(1) the cloud and ice cover photographs obtained from the NOAA (formerly 
+ESSA) satellites and (2) the relay via the INTELSAT system of geostationary 
+satellites, of geophysical data collected by the unmanned geophysical 
+observatory (UGO).
+
+There is considerable need for improved methods for communication 
+and data transmission.  The world meteorological services could utilize 
+timely transmission of meteorological data to improve forecasts.  
+Similar data from seismometers would assist in the location of experi-
+ments and estimating of magnitude of earthquakes.  Ionospheric prediction 
+could also be improved by rapid availability of riometer, ionospheric 
+and magnetic data.
+
+There is little doubt that the use of satellite systems, or, possibly 
+more economically, satellite systems in conjunction with other high 
+availability systems, could fulfill current and probable future needs 
+adequately.  The major consideration is the relatively high cost of such 
+systems, particularly the cost of ground stations.  It is difficult to install 
+and operate fully steerable antennas in Antarctica so that the satellite 
+orbits must be suitable for use with preset antenna systems.  The capacity 
+of a satellite to accept efficiently the low traffic loadings characteristic 
+of Antarctic links is also important.  This may allow the use of satellites 
+primarily designed for other purposes. It is also an important considera-
+tion in introducing satellite working that considerable capital has been 
+invested in present HF equipment, much of which must be retained for 
+feeder links.
+
+Geostationary satellites can cover the major part of the Antarctic 
+requirements and at present appear to be the most economical mode 
+of using satellites for these purposes.  They provide coverage down to 
+approximately 75° S to 80° S, depending on the lowest acceptable angle 
+of elevation to the satellite available at the station.  Fading due to propa-
+gation phenomena increase at low angles of elevation but the UGO at 
+                                 8
+McMurdo was not affected during limited tests.  A link from the USA to McMurdo by geostationary satellite is in an advanced planning stage.
+
+One available system is the INTELSAT satellites in geostationary orbit. A successful experimental use of the INTELSAT system by a U.S.A. unmanned geophysical observatory was reported to the Symposium. Within their coverage area INTELSAT satellites provide continuous and instantaneous communication. The cost of the earth terminal as well as the charges for the use of the satellite system may make the use of the INTELSAT network feasible only at a few large Antarctic bases. These charges can be very high, according to present tariffs, for the small antennas demanded by antarctic conditions. In the period 1973-1977 a system of geostationary meteorological satellites will be launched. These could provide relatively low cost collection of meteorological data from both manned and automatic stations within their coverage area.
+
+A number of polar orbiting satellites are in use, mainly for geophysical purposes. These satellites orbit the earth with periods of two to three hours but several hours may elapse before a given satellite is in a suitable position to relay communications.  Polar orbiting satellites have one serious operational disadvantage, namely that it may be necessary for the earth station to track the satellite.
+
+Some polar orbiting satellites have storage facilities so that data can be received from a station in one part of the coverage area, stored and then transmitted to a station in another part.
+
+The location of suitable manned receiving stations would enable information to be collected from automatic or base stations, anywhere in Antarctica to be relayed out of the continent by means of geostationary satellites.  Burst mode operation could also be used to pass traffic between two stations in Antarctica but there are many limitations to this type of operation.
+
+A number of other satellite systems have reached the planning stage including those for the aeronautical and maritime services.  There is great similarity between traffic requirements of ships and the requirements of many Antarctic stations.  The need for inexpensive earth stations
+
+9
+particularly for the mobile stations has produced a number of important
+developments. The aeronautical and maritime services will use adjacent
+frequency bands so that a fully integrated system could be attained.
+
+The following investigations should be activated:
+
+1.  Means should be examined for reducing the cost of operating with
+the INTELSAT system, for example, by sharing one or more channels
+or by negotiating a special tariff from INTELSAT for Antarctic
+communications.
+
+2.  The feasibility of meteorological satellites being used for relay of
+other geophysical data needed for operational and research purposes,
+and possibly for more general Antarctic communications should be
+investigated by the launching Administrations and WMO on behalf of SCAR.
+
+3.  Further studies are required to determine the viability of using
+existing and planned polar orbiting satellites for communication
+and data relay between manned stations in Antarctica. Their use
+implies adopting a standard method of operation to permit common
+utilization of satellites belonging to different nations. Early planning
+is urgent.
+
+4.  The most recent work of the CCIR, ICAO, and IMCO should be
+monitored to evaluate the advantages of aeronautical and maritime
+satellite systems to Antarctic operations.
+
+2.3.  Forward Scatter
+
+It now appears that forward scatter techniques have developed to an
+extent where they could be used to provide a high availability service
+between bases separated by not more than 1700 km.  Chains of such
+stations could solve the problem of high availability within Antarctica
+but not in general outside. (A link could be provided via South America.)
+For low error rate, coding must be used.  The choice of coding must be
+determined internationally since stations will frequently be operated
+between different administrations.  (See Sec. 2.4.)
+
+10
+Forward scatter can be operated either via the ionosphere or via 
+the troposphere. For present purposes these together provide effectively 
+continuous coverage from short distances to the limit of about 1700 km. 
+A model for a 1 kW system which has been tested for low error rate data 
+application using ionospheric scatter at 35 MHz was discussed at the Symposium.
+
+The cost of forward scatter links appears comparable with that of 
+installing an HF station. As single frequency operation is used the 
+transmitter and receiver can be relatively simple, the main complexity 
+is the coding unit. Operation is likely to be cheaper than for an HF 
+circuit. In considering relative cost, note that HF installations can 
+serve many links, scatter installations only fixed scatter links.
+
+Scatter systems can also provide cheap and efficient feed service 
+to satellite or long range HF circuits particularly in difficult zones. 
+In some cases, local topography, e.g., the presence of a high mountain, 
+can prevent successful operation to a designated station, as occurs with HF. 
+In other cases an elevated antenna site can facilitate communication over 
+longer paths, or can reduce required tower heights.
+
+Scatter links should be established where reliable internal Antarctic 
+data or teleprinter communication is required. In particular, a forward 
+scatter relay system linking McMurdo with the Peninsula, via Palmer or 
+some other suitable intermediate station, would give a significant improve-
+ment. In order to meet performance requirements, and for reasons of 
+compatibility, Kirby and Nesenbergs paper should be followed as regards 
+frequency, power, antennas, bandwidth and coding.
+
+2.4. Modulation, Coding and Signal Processing
+
+The first report of the Group drew attention to the importance of 
+new modulation and detection techniques including error detection/correction, 
+to improve efficiency of Antarctic links.
+
+At the present meeting, several error correction systems were noted 
+which could significantly improve teleprinter and data transmission:
+ARQ - feedback system widely used commercially, CCIR standard 
+recommendation 
+AUTOSPEC - effective forward error correcting system already used 
+for Antarctic to South Africa links
+
+11
+BLOCK INTERLEAVED FORWARD ERROR CORRECTING - tested at HF
+and VHF, very effective under poor signal-to-noise conditions.
+
+These systems can really transform otherwise marginal links into
+good quality links, though they do not of course solve the HF blackout
+problems. They are commercially available, and quite economical in
+relation to Antarctic needs. The matter of selecting preferred coding
+systems, including error correcting systems, will need continued con-
+sideration and discussion between all parties contributing to the
+Antarctic network in order to ensure compatibility. Compatibility is
+required not only between data collecting systems at the observing
+stations in antarctica, the automatic message routing systems at
+terminals in other continents and at their data analysis centers, but
+also between civil and military aircraft and maritime services which
+at present employ their own particular modulation systems.
+
+As most data links usually involve the use of computers it is
+desirable that the coding systems allow data output to be in a computer
+compatable form. The subject will need to be kept under review as
+new coding systems are developed and become available for possible
+application in the Antarctic network.
+
+A further observation concerns modulation of radiotelephone signals.
+Single sideband is much more effective than double sideband amplitude
+modulation in conditions of weak signal and auroral "flutter" fading, and
+SSB is already widely employed in Antarctica. Frequency modulation
+systems are not usually used at HF, but even narrow band FM has been
+shown to be very effective against flutter fading. Further test of FM in
+Antarctica are recommended. The new CCIR recommended LINCOMPEX
+system has not been tested in the Antarctic, and it is not known how the
+narrow band control channel would behave under flutter fading conditions.
+Tests would be useful.
+
+2.5.  Wave Propagation Over Snow,Ice and Across Boundaries
+
+This is clearly an important area for further study.  Both measurements
+and theoretical computations show that radio waves travelling along the
+surface of an ice shelf suffer severe attenuation and that important phase
+                                                                 12
+dispersion and amplitude changes may occur where the waves cross
+boundaries between, say, ice and sea water. Evidence that such effects
+can be strong enough seriously to affect radio communication and
+navigation was presented at the Symposium (reference to Biggs' paper
+with subsequent discussion). In practice VLF and LF systems are
+rendered ineffective when the path crosses an ice shelf and alternative
+means which avoid the use of radio waves travelling close to the ice
+surface are needed.
+
+2.6.  Radio Navigation and Possible Uses of VLF/LF
+
+Conventional radio aids to navigation have specific limitations of
+range in Antarctica because of the losses inherent in the snow and ice.
+
+Recent developments in inertial navigational systems (INS) offer a
+promising alternative. Lighter versions of the INS already used in
+civil aircraft in the Atlantic and the Pacific are already at a cost of the
+order of $25,000 or less and the costs appear to be falling. At present,
+these need a reference system at intervals for error correcting and the
+smaller the size the more frequently the correction has to be applied.
+In most of the Antarctic area the separation between stations is too
+great to afford such support.
+
+Developments now being made however suggest that a light, accurate
+INS suitable for use in the Antarctic will be available within two years.
+
+2.7.  Antenna Systems
+
+Little new information of general interest has so far been brought
+to light by the Group of Specialists. At the Symposium on antarctic
+telecommunications the question of whether aerials could profitable be
+buried in snow and ice instead of being supported by masts was discussed.
+It seems that under some conditions buried antennas may have important
+advantages, and that this possibility should be further explored (reference
+Biggs' and Moller's papers). Another important question is the communi-
+cation with field parties. Which is the optimum frequency band for efficient
+communication with a field party that uses a wire antenna laid out on the ice?
+
+13
+2.8.  Ionospheric Characteristics, Predictions and Disturbances
+
+Ionospheric measurements in Antarctica still remain useful for
+ionospheric prediction purposes and will be needed during the International
+Magnetosphere Study during 1976-1977. It should be pointed out that the
+present measurement program will be enhanced by the new topside sounding
+facilities at Lauder, New Zealand and in Terre Adelic.  The command
+facility operating in New Zealand supplies observations over a large area
+of Antarctica. New insight into ionospheric problems and data interpre-
+tation should result from the use of these new facilities.
+
+New ionosondes of the chirp and step-frequency types have been
+developed which would produce better ionograms and so provide more
+complete and more accurate data.  These instruments would also create
+much less radio interference than other types at Antarctic stations.  Any
+new ionosondes in Antarctica should be of these types if possible.  The use
+of persistence oscilloscopes to display ionograms in real-time for propa-
+gation prediction updating and frequency change guidance is being studied.
+
+Long-term ionospheric prediction techniques have been developed in
+several countries for Antarctic LF links.  Although this subject has been
+under development for many years without many significant improvements,
+some current studies show promise of producing useful improvements
+during the next two or three years.  These include the development of
+better ionosphere models, the derivation of a special ionospheric activity
+index for Antarctic ionospheric predictions, the use of the ionospheric
+parameter, f I , in propagation computations, an understanding of the
+reasons for communications success when making unusual frequency
+changes at certain times and the development of a set of rules for operator
+guidance on this problem.  This last point will undoubtedly involve
+investigations of sporadic-E and spread-F ionization and nighttime
+absorption phenomena.
+
+14
+Antarctic communicators and experimenters would benefit if they 
+had advance advice on solar, magnetic and ionospheric disturbances.
+The geophysical effects of such events are generally observed firstly 
+in polar regions.  Because of this, communicators and scientists 
+throughout the world might benefit from special observations made in 
+Antarctica and relayed immediately to the IUWDS Regional Warning 
+Centres.  This short-term prediction and alerting system is being 
+examined actively for general communications purposes by CCIR 
+specialists and a report is expected within the next year.  An Antarctic 
+observing, reporting and warning system would appear necessary.
+
+No general solution is available to the high frequency communication 
+problems during polar cap absorption events.  However, these events, 
+though most disruptive to HF communications, are reasonably rare. 
+It might be possible in the next few years to predict these events a 
+short time before they occur.  A much more common event is auroral 
+zone absorption.  Studies are in progress to define the magnitude of these 
+events and to see their implications for HF system design - power, 
+antennas, etc.
+
+Certain riometer absorption measurements indicate that the "quiet-day 
+curve" level might increase with solar activity.  Consequently, the 
+minimum absorption levels should be established firmly during the coming 
+period of minimum solar activity.  This is a significant factor affecting 
+the use of riometers for ionospheric predictions.
+
+There seems to be a need for an operator educational program to 
+enable operators to make full use of long-term and short-time ionospheric 
+predictions.  This should include a description of all rules, and an 
+explanation of them, for frequency change and relay procedures, etc.
+
+2.9.  Noise and Interference
+
+A significant factor in the efficiency of Antarctic HF communications 
+is the high background noise level aggravated by the lack of a good "earth".
+Much can be done to reduce the effective noise to acceptable levels.  In
+                                 15
+the HF band the two main sources of noise in Antarctica are the man-made 
+noise from electrical equipment and drift static. The former is generally 
+the greater problem requiring considerable attention to engineering detail 
+to reduce the ambient level. Ideally, every piece of equipment going 
+to an antarctic station should be examined to determine its noise potential. 
+The elimination of sparks, however small, should be the primary objective. 
+Where it is not practical to prevent the occurrence of sparks, suitable 
+filters should be fitted close to the source or alternatively spark free 
+equipment provided. Regular maintenance of all electrical equipment 
+including simple power switches and wiring is essential at antarctic 
+stations.
+
+Drift static arises mainly from blown snow, although in the dry 
+valley areas dust appears to produce a similar problem. The same 
+principles apply to both. Although little can be done to eliminate such 
+static, installations can be designed to minimize the effects. High 
+aerials with the horizontal elements mounted normal to the prevailing 
+wind and the use of coaxial feeders will reduce the noise, but this 
+practice cannot always help directional antennas. The use of Yagi or 
+multielement receiving antennae is to be preferred to rhombic or long 
+wire types from the point of view of reducing drift static. There is a 
+need for further experiments in Antarctica to determine the magnitude 
+of the noise with the various antenna types when the remedial measures 
+are applied.
+
+Additional considerations apply to special "quiet experimental stations" 
+which call for special attention.
+
+Scientifically justified experiments much achieve high standards of 
+equipment design, construction, operation and maintenance in order to 
+attain the necessary electromagnetic compatibility. This requires 
+coordination between the scientific, communication and logistics 
+operations.
+
+It is proposed that the following considerations should apply to 
+"quiet" stations.
+
+1. These stations should be established only after evaluation of the 
+                                                                 16
+meteorological and topographical conditions influencing radio noise 
+at the site, including the propagation or coupling of noise from the 
+parent station to the "quiet" station.
+
+2.  Consideration should be given to radio noise compatible equipment 
+and if necessary time sharing operation of otherwise incompatible 
+equipment.  As implied above, special attention must be given to 
+siting.
+
+3.  Precautions be taken to ensure a continuing quiet radio environment 
+should include:
+
+    a.  Only refuge accommodations should be available; data 
+storage or data links should be used to avoid permanent manning.
+
+    b.  Regular servicing of equipment to minimize radio noise.
+
+    c.  Only incandescent lighting to be used.
+
+    d.  Careful attention to power access.
+
+    e.  Vehicular and personnel access to be kept to a minimum.
+
+    f.  Regular monitoring of site noise levels. Noise sources to be 
+identified and eliminated or at the least to be reduced to acceptable 
+levels where they can influence quiet site noise levels.
+
+2.10.  Additional Remarks on Planning
+
+Demands for communications facilities in the Antarctic fall into two 
+groups:  a)  Those involving low priority circuits.
+
+    b)  Those involving high priority high reliability circuits.
+
+The former are provided economically by HF techniques and the needs 
+are in general met reasonably satisfactorily.  They include many mobile 
+circuits where weight and economy are most important.  The latter can 
+be partially met by HF means but ideally demand special systems.  The 
+additional cost of operating existing systems to meet this requirement 
+increases steeply with the need for reliability of the service at more 
+times of day and seasons.  If full availability is essential, only advanced 
+systems, satellite and error correcting forward scatter are likely to be 
+adequate and these are likely also to be the least costly general solution.
+
+17
+cover requirements which cannot be met economically by high reliability systems in most parts of Antarctica.
+
+In view of the high cost of providing reliable communication links at all times of day much more stringent tests of the demand for communication facilities are necessary than for similar facilities in other parts of the world. It may be easier and cheaper to develop alternative requirements than to attempt to meet the demands for continuous availability.
+
+The total traffic which can be foreseen in the next few years involving high reliability circuits is large compared with current traffic but very small compared with similar traffic in other regions of the world. Thus the technical problem is closer to that of providing a cheap low error rate circuit for research than that of providing a commercial communication link. Economic solutions demand close attention to this point and to the cost and mechanical difficulties of setting up and maintaining installations in the Antarctic.
+
+There are two possible strategies:
+
+1) To add to existing systems until a service is obtained which balances cost, reliability and completeness of coverage in time. This is attractive if user demands can be adjusted to accept gaps when the circuits will not be effective or cost is all important.
+
+2) To plan a high reliability system. This is most attractive if the importance of the traffic is judged adequate to justify the high initial cost. High reliability systems involve special attention to geographical limitations and hence will generally involve some rearrangement of existing mother-daughter networks, in general increasing the importance of international links. Thus it is very important to plan Antarctic communications as a whole rather than as a scan of national networks.
+
+2.11. Summary
+
+This is an interim report based primarily on information and contributions made available at the symposium. In some topics discussed above it will be evident that the Group has developed some constructive and firm points of view and proposals, as for satellite communications, forward scatter, an operator handbook, etc. In other topics consideration has so far been incomplete, even fragmentary.
+
+The present report is a brief summary of important consensus reached by the Group. The Symposium Record, to be obtainable from SCAR, provides most of the important and detailed information in the form of contributions and summaries of discussions.
