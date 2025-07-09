@@ -1,0 +1,47 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{Atkinson}{2019}{aspell}
+Atkinson, K.  \harvardyearleft 2019\harvardyearright .
+\newblock Gnu aspell.
+\newblock A Free and Open Source spell checker.
+\newline\harvardurl{http://aspell.net/}
+
+\harvarditem{Barrett}{2020}{barrett2020antarctic}
+Barrett, J.~M.  \harvardyearleft 2020\harvardyearright .
+\newblock The antarctic treaty system, {\em Research Handbook on Polar Law},
+  Edward Elgar Publishing, pp.~40--63.
+
+\harvarditem{Elze}{2018}{pdfsandwich}
+Elze, T.  \harvardyearleft 2018\harvardyearright .
+\newblock pdfsandwich: A tool to make ``sandwich'' {OCR} pdf files.
+\newblock Computer software.
+\newline\harvardurl{http://www.tobias-elze.de/pdfsandwich/}
+
+\harvarditem{Merejkowsky}{2023}{pyenchant}
+Merejkowsky, D.  \harvardyearleft 2023\harvardyearright .
+\newblock Py{E}nchant.
+\newblock Python bindings for the {E}nchant spellchecking system.
+\newline\harvardurl{https://pyenchant.github.io/pyenchant/}
+
+\harvarditem{Németh}{2023}{hunspell}
+Németh, L.  \harvardyearleft 2023\harvardyearright .
+\newblock Hunspell.
+\newblock Spell checker and morphological analyzer library.
+\newline\harvardurl{https://hunspell.github.io/}
+
+\harvarditem{{Poppler developers} \harvardand\ {Glyph \& Cog,
+  LLC}}{2025}{pdftotext}
+{Poppler developers} \harvardand\ {Glyph \& Cog, LLC}  \harvardyearleft
+  2025\harvardyearright .
+\newblock pdftotext: {PDF} to text converter.
+\newblock Part of Poppler PDF rendering library, based on xpdf-3.0.
+\newline\harvardurl{https://poppler.freedesktop.org/}
+
+\harvarditem{Thomas \harvardand\ Lachowicz}{1998--2024}{enchant}
+Thomas, R. \harvardand\ Lachowicz, D.  \harvardyearleft
+  1998--2024\harvardyearright .
+\newblock Enchant: A spell-checking library.
+\newblock Current maintainer: Reuben Thomas.
+\newline\harvardurl{https://github.com/rrthomas/enchant}
+
+\end{thebibliography}
